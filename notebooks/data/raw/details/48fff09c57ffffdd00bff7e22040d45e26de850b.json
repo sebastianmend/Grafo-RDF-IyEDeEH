@@ -1,0 +1,38 @@
+{
+  "paperId": "48fff09c57ffffdd00bff7e22040d45e26de850b",
+  "externalIds": {
+    "MAG": "2054252859",
+    "DOI": "10.1007/s11119-012-9273-6",
+    "CorpusId": 18431332
+  },
+  "url": "https://www.semanticscholar.org/paper/48fff09c57ffffdd00bff7e22040d45e26de850b",
+  "title": "Factors influencing the adoption of precision agricultural technologies: a review for policy implications",
+  "venue": "Precision Agriculture",
+  "year": 2012,
+  "citationCount": 409,
+  "influentialCitationCount": 23,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-012-9273-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-012-9273-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5312405",
+      "name": "Y. Tey"
+    },
+    {
+      "authorId": "6008497",
+      "name": "M. Brindal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

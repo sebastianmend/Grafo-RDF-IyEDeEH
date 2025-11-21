@@ -1,0 +1,38 @@
+{
+  "paperId": "dfafa54415164d92d671e078c45d94a6ded7d560",
+  "externalIds": {
+    "MAG": "1983039230",
+    "DOI": "10.1255/jnirs.865",
+    "CorpusId": 94477026
+  },
+  "url": "https://www.semanticscholar.org/paper/dfafa54415164d92d671e078c45d94a6ded7d560",
+  "title": "Using the Frequency Components of near Infrared Spectra: Optimising Calibration and Standardisation Processes",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1255/jnirs.865?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1255/jnirs.865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4118797",
+      "name": "B. Igne"
+    },
+    {
+      "authorId": "7276443",
+      "name": "C. Hurburgh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

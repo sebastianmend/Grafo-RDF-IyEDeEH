@@ -1,0 +1,58 @@
+{
+  "paperId": "fd98112cda63839de8ee85d79abeed7b76e6f226",
+  "externalIds": {
+    "MAG": "1562444067",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2015.7248117",
+    "CorpusId": 8487493
+  },
+  "url": "https://www.semanticscholar.org/paper/fd98112cda63839de8ee85d79abeed7b76e6f226",
+  "title": "Evaluating an unmanned aerial vehicle-based remote sensing system for estimation of rice nitrogen status",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2015,
+  "citationCount": 15,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2015.7248117?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2015.7248117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "49301746",
+      "name": "Junjun Lu"
+    },
+    {
+      "authorId": "1953258",
+      "name": "Y. Miao"
+    },
+    {
+      "authorId": "1793884",
+      "name": "Yanbo Huang"
+    },
+    {
+      "authorId": "144854420",
+      "name": "W. Shi"
+    },
+    {
+      "authorId": "2109687924",
+      "name": "Xiaoyi Hu"
+    },
+    {
+      "authorId": "2107937075",
+      "name": "Xinbing Wang"
+    },
+    {
+      "authorId": "2075306702",
+      "name": "J. Wan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

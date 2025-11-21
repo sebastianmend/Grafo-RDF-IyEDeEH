@@ -1,0 +1,40 @@
+{
+  "paperId": "d8b591cadb9fed9b4fa246974aa65eea8166383f",
+  "externalIds": {
+    "MAG": "1981878247",
+    "DOI": "10.1366/13-07351",
+    "CorpusId": 3405754,
+    "PubMed": "25226250"
+  },
+  "url": "https://www.semanticscholar.org/paper/d8b591cadb9fed9b4fa246974aa65eea8166383f",
+  "title": "Elemental Analysis of Soils Using Laser Ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICP-MS) and Laser-Induced Breakdown Spectroscopy (LIBS) with Multivariate Discrimination: Tape Mounting as an Alternative to Pellets for Small Forensic Transfer Specimens",
+  "venue": "Applied Spectroscopy",
+  "year": 2014,
+  "citationCount": 37,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1366/13-07351?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1366/13-07351, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "11820490",
+      "name": "S. C. Jantzi"
+    },
+    {
+      "authorId": "3778363",
+      "name": "J. Almirall"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

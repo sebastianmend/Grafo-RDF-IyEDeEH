@@ -1,0 +1,42 @@
+{
+  "paperId": "69ffb574b9caa59685fefead36909934abd2c949",
+  "externalIds": {
+    "MAG": "2320698187",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910630",
+    "CorpusId": 22533681
+  },
+  "url": "https://www.semanticscholar.org/paper/69ffb574b9caa59685fefead36909934abd2c949",
+  "title": "Application of remote sensing techniques in locating dry and irrigated farmland parcels",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910630?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910630, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31036280",
+      "name": "Selver Senturk"
+    },
+    {
+      "authorId": "34200350",
+      "name": "S. Bagis"
+    },
+    {
+      "authorId": "31106082",
+      "name": "B. Berk Ustundag"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

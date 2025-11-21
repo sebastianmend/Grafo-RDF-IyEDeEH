@@ -1,0 +1,39 @@
+{
+  "paperId": "2f9eaf340f458092b49c84283b38257956c650ab",
+  "externalIds": {
+    "MAG": "1542169501",
+    "DOI": "10.1109/ICIIECS.2015.7193256",
+    "CorpusId": 16135589
+  },
+  "url": "https://www.semanticscholar.org/paper/2f9eaf340f458092b49c84283b38257956c650ab",
+  "title": "Management zone delineation in Precision agriculture using data mining: A review",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193256?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193256, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2386344",
+      "name": "P. Janrao"
+    },
+    {
+      "authorId": "2236504",
+      "name": "Dr Hemant Palivela"
+    }
+  ],
+  "abstract": "By collecting real time data on weather, soil and air quality, crop maturity, Precision agriculture (PA) has become an emerging topic in recent years. Management zone delineation is the major task in PA, which could help to discover the spatially contiguous zones of the field. This article studies the different data mining approaches for achieving management zone delineation with their advantages and disadvantages.",
+  "references": null
+}

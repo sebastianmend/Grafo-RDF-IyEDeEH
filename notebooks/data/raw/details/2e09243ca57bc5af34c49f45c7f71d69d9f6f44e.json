@@ -1,0 +1,40 @@
+{
+  "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e",
+  "externalIds": {
+    "MAG": "1978331315",
+    "DOI": "10.1126/science.1183899",
+    "CorpusId": 206524277,
+    "PubMed": "20150492"
+  },
+  "url": "https://www.semanticscholar.org/paper/2e09243ca57bc5af34c49f45c7f71d69d9f6f44e",
+  "title": "Precision Agriculture and Food Security",
+  "venue": "Science",
+  "year": 2010,
+  "citationCount": 1205,
+  "influentialCitationCount": 26,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.1183899?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.1183899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2280949",
+      "name": "R. Gebbers"
+    },
+    {
+      "authorId": "2132147",
+      "name": "V. Adamchuk"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

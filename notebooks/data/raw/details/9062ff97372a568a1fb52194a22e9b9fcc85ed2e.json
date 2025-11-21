@@ -1,0 +1,110 @@
+{
+  "paperId": "9062ff97372a568a1fb52194a22e9b9fcc85ed2e",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ZhaoYYWSZ15",
+    "MAG": "2549750397",
+    "DOI": "10.1007/978-3-319-48354-2_19",
+    "CorpusId": 22589678
+  },
+  "url": "https://www.semanticscholar.org/paper/9062ff97372a568a1fb52194a22e9b9fcc85ed2e",
+  "title": "Research and Design of LVS Cluster Technology in Agricultural Environment Information Acquisition System",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01614190/file/434298_1_En_19_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2111396679",
+      "name": "Guogang Zhao"
+    },
+    {
+      "authorId": "2184470",
+      "name": "Haiye Yu"
+    },
+    {
+      "authorId": "17428537",
+      "name": "Lianjun Yu"
+    },
+    {
+      "authorId": "48738189",
+      "name": "Guowei Wang"
+    },
+    {
+      "authorId": "9177173",
+      "name": "Yuanyuan Sui"
+    },
+    {
+      "authorId": "2152828678",
+      "name": "Lei Zhang"
+    }
+  ],
+  "abstract": "With the development of agricultural informatization, agricultural environment information acquisition platform needs to collect more and more data. And with the increase of the number of data acquisition terminal, a large number of concurrent data traffic is generated on the server. This will lead to the phenomenon of excessive load which directly affects the validity of the data. Therefore, based on LVS technology, this paper designed a solution for the agricultural environment information acquisition platform. Through the experiment we know that the LVS technology can guarantee the validity of the data acquisition, which lays the foundation for the development of precision agriculture.",
+  "references": [
+    {
+      "paperId": "884ae787a356a0193c2bf674b3450ecfa8b62ed2"
+    },
+    {
+      "paperId": "d6495bfb049eb1732953a737f291a1a02028c2e3"
+    },
+    {
+      "paperId": "8c166a11769687edc9c262646fada0e8a8b4920d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e7c152364eb15522030718425deee994ec2062ca"
+    },
+    {
+      "paperId": "99d962d5ace776a73c2185854f0c58c6264d44ee"
+    },
+    {
+      "paperId": "b7bdec293b6a3ec54c1c16fd62a95d7c2cdc7bfb"
+    },
+    {
+      "paperId": "2839877b8a5a5ea2d5e61a306f8795a623d44c75"
+    },
+    {
+      "paperId": "50a3cec908800cc2b479921b1e273e8948e2f8d5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2dbfe9095c6e745ecf7eb8a9cfc2a82a4204f1ea"
+    },
+    {
+      "paperId": "b3531491c92f54ed84b45dfe688db9174f833930"
+    },
+    {
+      "paperId": "cdde33bd2ebcf8f2b240ce904fed5beb1fb9177e"
+    },
+    {
+      "paperId": "7596d7f5079b8a10c4206b60cf09d6ca266f16e6"
+    },
+    {
+      "paperId": "4cad1ada169eb39a0a802a5b6c81a983752113ec"
+    },
+    {
+      "paperId": "9b718cda594c5f0368ba1b33792080494df1ad3a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

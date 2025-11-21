@@ -1,0 +1,46 @@
+{
+  "paperId": "9097c526fb716d67b0a0f4f1662fc12129c56bb6",
+  "externalIds": {
+    "MAG": "2373954140",
+    "CorpusId": 32876592,
+    "PubMed": "23841444"
+  },
+  "url": "https://www.semanticscholar.org/paper/9097c526fb716d67b0a0f4f1662fc12129c56bb6",
+  "title": "[Estimation and mapping of soil organic matter based on Vis-NIR reflectance spectroscopy].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2013,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2155598536",
+      "name": "Yan Guo"
+    },
+    {
+      "authorId": "50119510",
+      "name": "W. Ji"
+    },
+    {
+      "authorId": "2120431185",
+      "name": "Hong Wu"
+    },
+    {
+      "authorId": "2328236774",
+      "name": "Zhou Shi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

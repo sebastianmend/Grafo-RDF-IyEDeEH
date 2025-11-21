@@ -1,0 +1,38 @@
+{
+  "paperId": "294859ad6d4f1c225fcd69b02b98a78a47e1c7f5",
+  "externalIds": {
+    "MAG": "1013501662",
+    "DOI": "10.3133/sir20105154",
+    "CorpusId": 127396735
+  },
+  "url": "https://www.semanticscholar.org/paper/294859ad6d4f1c225fcd69b02b98a78a47e1c7f5",
+  "title": "Use of Stable Isotopes of Carbon and Nitrogen to Identify Sources of Organic Matter to Bed Sediments of the Tualatin River, Oregon",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3133/sir20105154?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3133/sir20105154, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144315293",
+      "name": "B. Bonn"
+    },
+    {
+      "authorId": "11419544",
+      "name": "S. Rounds"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "053a82458a4970a10d39ef791957ee074b27dcae",
+  "externalIds": {
+    "MAG": "2012306447",
+    "DOI": "10.1255/jnirs.960",
+    "CorpusId": 95545071
+  },
+  "url": "https://www.semanticscholar.org/paper/053a82458a4970a10d39ef791957ee074b27dcae",
+  "title": "Near Infrared Spectroscopy Calibrations for the Estimation of Process Parameters of Anaerobic Digestion of Energy Crops and Livestock Residues",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1255/jnirs.960?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1255/jnirs.960, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49862929",
+      "name": "L. C. Krapf"
+    },
+    {
+      "authorId": "3018010",
+      "name": "A. Gronauer"
+    },
+    {
+      "authorId": "2379449",
+      "name": "U. Schmidhalter"
+    },
+    {
+      "authorId": "4840241",
+      "name": "H. Heuwinkel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

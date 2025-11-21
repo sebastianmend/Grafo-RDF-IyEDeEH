@@ -1,0 +1,50 @@
+{
+  "paperId": "57f201fe72b3eafaaa9c48788eacef82036b4a9f",
+  "externalIds": {
+    "MAG": "2330525263",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910633",
+    "CorpusId": 38336558
+  },
+  "url": "https://www.semanticscholar.org/paper/57f201fe72b3eafaaa9c48788eacef82036b4a9f",
+  "title": "A new approach for measuring 3D digitalized rape leaf parameters based on images",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910633?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910633, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30839689",
+      "name": "Fang Yihang"
+    },
+    {
+      "authorId": "9196907",
+      "name": "Lin Chengda"
+    },
+    {
+      "authorId": "9190164",
+      "name": "Zhai Ruifang"
+    },
+    {
+      "authorId": "2068296607",
+      "name": "Tang Yao"
+    },
+    {
+      "authorId": "12542376",
+      "name": "W. Xingyu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

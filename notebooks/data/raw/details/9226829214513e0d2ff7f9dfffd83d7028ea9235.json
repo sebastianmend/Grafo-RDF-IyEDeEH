@@ -1,0 +1,47 @@
+{
+  "paperId": "9226829214513e0d2ff7f9dfffd83d7028ea9235",
+  "externalIds": {
+    "DBLP": "conf/mtsr/DrenjanacKKT13",
+    "MAG": "20033637",
+    "DOI": "10.1007/978-3-319-03437-9_43",
+    "CorpusId": 34830222
+  },
+  "url": "https://www.semanticscholar.org/paper/9226829214513e0d2ff7f9dfffd83d7028ea9235",
+  "title": "Semantic Shared Spaces for Task Allocation in a Robotic Fleet for Precision Agriculture",
+  "venue": "International Conference on Metadata and Semantics Research",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-03437-9_43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-03437-9_43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3060203",
+      "name": "Domagoj Drenjanac"
+    },
+    {
+      "authorId": "151091965",
+      "name": "L. Klausner"
+    },
+    {
+      "authorId": "33795814",
+      "name": "E. Kühn"
+    },
+    {
+      "authorId": "31692780",
+      "name": "S. Tomic"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

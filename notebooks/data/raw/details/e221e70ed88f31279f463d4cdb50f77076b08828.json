@@ -1,0 +1,40 @@
+{
+  "paperId": "e221e70ed88f31279f463d4cdb50f77076b08828",
+  "externalIds": {
+    "MAG": "2108264859",
+    "DOI": "10.1364/AO.49.006333",
+    "CorpusId": 22198376,
+    "PubMed": "21068865"
+  },
+  "url": "https://www.semanticscholar.org/paper/e221e70ed88f31279f463d4cdb50f77076b08828",
+  "title": "Expansion of the dynamic range of statistical interferometry and its application to extremely short- to long-term plant growth monitoring.",
+  "venue": "Applied Optics",
+  "year": 2010,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1364/AO.49.006333?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1364/AO.49.006333, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50979564",
+      "name": "Koichi Kobayashi"
+    },
+    {
+      "authorId": "40408815",
+      "name": "H. Kadono"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

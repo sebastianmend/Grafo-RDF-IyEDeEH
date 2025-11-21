@@ -1,0 +1,40 @@
+{
+  "paperId": "3dbff7d2d27ad6911957457213d5cb81e0cb0bd8",
+  "externalIds": {
+    "DBLP": "conf/icetet/CaiM10",
+    "MAG": "2125310123",
+    "DOI": "10.1109/ICETET.2010.141",
+    "CorpusId": 212293
+  },
+  "url": "https://www.semanticscholar.org/paper/3dbff7d2d27ad6911957457213d5cb81e0cb0bd8",
+  "title": "A New Parameters Optimization Method for Screw Conveyor Based on PSO",
+  "venue": "International Conference on Emerging Trends in Engineering & Technology",
+  "year": 2010,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICETET.2010.141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICETET.2010.141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2578012",
+      "name": "Jianghui Cai"
+    },
+    {
+      "authorId": "2210925",
+      "name": "W. Meng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

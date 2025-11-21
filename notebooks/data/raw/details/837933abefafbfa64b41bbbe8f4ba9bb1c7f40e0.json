@@ -1,0 +1,42 @@
+{
+  "paperId": "837933abefafbfa64b41bbbe8f4ba9bb1c7f40e0",
+  "externalIds": {
+    "MAG": "1992778180",
+    "DOI": "10.1007/s11119-014-9371-8",
+    "CorpusId": 17620150
+  },
+  "url": "https://www.semanticscholar.org/paper/837933abefafbfa64b41bbbe8f4ba9bb1c7f40e0",
+  "title": "A survey of wireless sensor network approaches and their energy consumption for monitoring farm fields in precision agriculture",
+  "venue": "Precision Agriculture",
+  "year": 2014,
+  "citationCount": 126,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-014-9371-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-014-9371-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "143738514",
+      "name": "M. Anisi"
+    },
+    {
+      "authorId": "1409248207",
+      "name": "Gaddafi Abdul-Salaam"
+    },
+    {
+      "authorId": "1723566",
+      "name": "A. Abdullah"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

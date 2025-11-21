@@ -1,0 +1,46 @@
+{
+  "paperId": "1d99ae496db43081bab5c090407a0f852e57ee07",
+  "externalIds": {
+    "MAG": "2326877857",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910626",
+    "CorpusId": 45970481
+  },
+  "url": "https://www.semanticscholar.org/paper/1d99ae496db43081bab5c090407a0f852e57ee07",
+  "title": "Design, development and application of a satellite-based field monitoring system to support precision farming",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30585512",
+      "name": "Meng Jihua"
+    },
+    {
+      "authorId": "9399204",
+      "name": "Liu Zhongyuan"
+    },
+    {
+      "authorId": "91647655",
+      "name": "Wu Bingfang"
+    },
+    {
+      "authorId": "2115888210",
+      "name": "Xu Jin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

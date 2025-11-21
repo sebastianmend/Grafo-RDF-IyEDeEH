@@ -1,0 +1,42 @@
+{
+  "paperId": "533e3f22e332767814deaac230e7d1df265476a8",
+  "externalIds": {
+    "MAG": "2088708303",
+    "DOI": "10.22004/AG.ECON.146818",
+    "CorpusId": 220664044
+  },
+  "url": "https://www.semanticscholar.org/paper/533e3f22e332767814deaac230e7d1df265476a8",
+  "title": "Economic benefits of precision weed control and why its uptake is so slow",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22004/AG.ECON.146818?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22004/AG.ECON.146818, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1405317678",
+      "name": "K. Takács-György"
+    },
+    {
+      "authorId": "87242300",
+      "name": "E. Lencsés"
+    },
+    {
+      "authorId": "71570194",
+      "name": "I. Takács"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "01b9b441c5365cfc867a1822c7ec0e0dee3a3f28",
+  "externalIds": {
+    "DBLP": "conf/igarss/DuQLFDW13",
+    "MAG": "1974669794",
+    "DOI": "10.1109/IGARSS.2013.6723387",
+    "CorpusId": 4520514
+  },
+  "url": "https://www.semanticscholar.org/paper/01b9b441c5365cfc867a1822c7ec0e0dee3a3f28",
+  "title": "Soil moisture inversion and validation based on new remote sensing platform",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2013.6723387?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2013.6723387, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46593126",
+      "name": "Chen Du"
+    },
+    {
+      "authorId": "40286908",
+      "name": "Q. Qin"
+    },
+    {
+      "authorId": "49353983",
+      "name": "Mingchao Liu"
+    },
+    {
+      "authorId": "1982346",
+      "name": "Haixia Feng"
+    },
+    {
+      "authorId": "144062531",
+      "name": "Heng Dong"
+    },
+    {
+      "authorId": "40481619",
+      "name": "Nan Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

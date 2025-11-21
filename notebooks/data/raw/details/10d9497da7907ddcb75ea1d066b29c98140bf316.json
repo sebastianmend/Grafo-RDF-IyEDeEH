@@ -1,0 +1,43 @@
+{
+  "paperId": "10d9497da7907ddcb75ea1d066b29c98140bf316",
+  "externalIds": {
+    "MAG": "2043602964",
+    "DBLP": "journals/ijcnds/RazzaqueDD13",
+    "DOI": "10.1504/IJCNDS.2013.057721",
+    "CorpusId": 8738779
+  },
+  "url": "https://www.semanticscholar.org/paper/10d9497da7907ddcb75ea1d066b29c98140bf316",
+  "title": "Augmented materials: spatially embodied sensor networks",
+  "venue": "Int. J. Commun. Networks Distributed Syst.",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1504/IJCNDS.2013.057721?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1504/IJCNDS.2013.057721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50023546",
+      "name": "M. Razzaque"
+    },
+    {
+      "authorId": "1691235",
+      "name": "S. Dobson"
+    },
+    {
+      "authorId": "1944206",
+      "name": "K. Delaney"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

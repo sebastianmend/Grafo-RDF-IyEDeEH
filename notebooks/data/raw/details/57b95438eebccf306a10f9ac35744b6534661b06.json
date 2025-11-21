@@ -1,0 +1,184 @@
+{
+  "paperId": "57b95438eebccf306a10f9ac35744b6534661b06",
+  "externalIds": {
+    "MAG": "1545396084",
+    "DOI": "10.1002/esp.3616",
+    "CorpusId": 3741045
+  },
+  "url": "https://www.semanticscholar.org/paper/57b95438eebccf306a10f9ac35744b6534661b06",
+  "title": "Innovative analysis and use of high‐resolution DTMs for quantitative interrogation of Earth‐surface processes",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 24,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://figshare.com/articles/journal_contribution/Innovative_analysis_and_use_of_high-resolution_DTMs_for_quantitative_interrogation_of_Earth-surface_processes/9484430/1/files/17109644.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/esp.3616?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/esp.3616, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1970765",
+      "name": "P. Passalacqua"
+    },
+    {
+      "authorId": "113624022",
+      "name": "J. Hillier"
+    },
+    {
+      "authorId": "2059189",
+      "name": "P. Tarolli"
+    }
+  ],
+  "abstract": "This is the era of digital landscapes; the widespread availability of powerful sensing technologies has revolutionized the way it is possible to interrogate landscapes in order to understand the processes sculpting them. Vastly greater areas have now been acquired at ‘high resolution’: currently tens of metres globally to millimetric precision and accuracy locally. This permits geomorphic features to be visualized and analysed across the scales at which Earth‐surface processes operate. Especially exciting is the capturing of process dynamics in repeated surveying, which will only become more important with low‐cost accessible data generation through techniques such as Structure from Motion (SfM). But the key challenge remains; to interpret high resolution Digital Terrain Models (DTMs), particularly by extracting geomorphic features in robust and objective ways and then linking the observed features to the underlying physical processes. In response to the new data and challenges, recent years have seen improved processing of raw data into DTMs, development of data fusion techniques, novel quantitative analysis of topographic data, and innovative geomorphological mapping. The twelve papers collected in this volume sample this progress in interrogating Earth‐surface processes through the analysis of DTMs. They cover a wide range of disciplines and spatio‐temporal scales, from landslide prone landscapes, to agriculturally modified regions, to mountainous landscapes, and coastal zones. They all, however, showcase the quantitative exploitation of information contained in high‐resolution topographic data that we believe will underpin the improvement of our understanding of many elements of Earth‐surface processes. Most of the papers introduced here were first presented in a conference session at the European Geosciences Union General Assembly in 2011. Copyright © 2014 John Wiley & Sons, Ltd.",
+  "references": [
+    {
+      "paperId": "f7c6b6f779fc88fc6ec64726d54da03918f63a4a"
+    },
+    {
+      "paperId": "efc9a935f6775a41736bef0141a3ee72c3076d51"
+    },
+    {
+      "paperId": "d195ceeac8d42a1dc8f2de792ab66cd957853988"
+    },
+    {
+      "paperId": "67f266607c9c8cee378d3def64a99386fdbb1c6a"
+    },
+    {
+      "paperId": "ee1473491d1c047dc8623b0f757e1850b92d5992"
+    },
+    {
+      "paperId": "e052040a30816ccce9dfa404769d1532d2f16d09"
+    },
+    {
+      "paperId": "dd551aecd2e7408bc6310f8abb216135c37b837c"
+    },
+    {
+      "paperId": "7a19c781aa2f96a12cc2433a4302db8955761394"
+    },
+    {
+      "paperId": "2853cd62c22a682630e367a90cc8361f14748718"
+    },
+    {
+      "paperId": "3fa81cd750d9d4f78d77a295b32174a7796e7468"
+    },
+    {
+      "paperId": "98f8420eba0b8d259aa5e3af172c2b489f229576"
+    },
+    {
+      "paperId": "d61361c395ab0e43ab29eeb05e73655d56b70dd1"
+    },
+    {
+      "paperId": "cd9cb14b159ed3f18a3349222b29cc47ff766838"
+    },
+    {
+      "paperId": "8ab93efaaa54964294edf712c4f15f50cc06e184"
+    },
+    {
+      "paperId": "99ae2e5901bbea5766ba90ba10ff56fb5bc96719"
+    },
+    {
+      "paperId": "49ab324b54d785b3d4f6b1b0bda125c67c4e6c95"
+    },
+    {
+      "paperId": "94df81864b93c10365e2d908b13102831f1e2ce6"
+    },
+    {
+      "paperId": "d72299ae1fd4584f07a33e22ea99dbda0ab623fe"
+    },
+    {
+      "paperId": "d6605a5d47ccb153126361d380e5e10b4463133d"
+    },
+    {
+      "paperId": "959b1068e4fcaf6505adc1598bcdaa51f034509e"
+    },
+    {
+      "paperId": "32c7852d20f68b15744eae01d25025a31d0eb140"
+    },
+    {
+      "paperId": "ef1c9fa9a55e62409969e60707ba0335e893c8ce"
+    },
+    {
+      "paperId": "8913d33bcda1abde228bc60e851fc36d19586e77"
+    },
+    {
+      "paperId": "3c37ed951f63ff0f166afc3f3b2ee54d05a2c724"
+    },
+    {
+      "paperId": "067f488971304e175f46e23ee65727569683f6b8"
+    },
+    {
+      "paperId": "07be8df4fe3a28955071f587f9e9a562694191f3"
+    },
+    {
+      "paperId": "8aa32ea6a72ae959722e30e4efdb627de51ad908"
+    },
+    {
+      "paperId": "26e4ed5da85283bf9d4b870380dc9b5457b1a2c1"
+    },
+    {
+      "paperId": "818b5fbeb762beb6c3ebffe59a363c2f3e45e1e8"
+    },
+    {
+      "paperId": "a554814adc6602e9edb874653e465f5d059a7d8e"
+    },
+    {
+      "paperId": "cc06c5bd5104069f799e732788d9c486361f3b4d"
+    },
+    {
+      "paperId": "d464a3f228971f287da9c02b4a4327869833ca16"
+    },
+    {
+      "paperId": "d51fc1961047b7801a4e58f870aa63cfcaa6fe9e"
+    },
+    {
+      "paperId": "ede9461e5d625d19acf81875847b75ced18f8b94"
+    },
+    {
+      "paperId": "18dc74aa2122df15624afb1733baba5982b84991"
+    },
+    {
+      "paperId": "7d4f34943d0b36856c1e8a698d181844c8b5e1cd"
+    },
+    {
+      "paperId": "2164a2d9c12511fe980bfd64a44cf6b6702c11ed"
+    },
+    {
+      "paperId": "b2c9f0c89c6a86823b02b137edcb8adf9fe1c264"
+    },
+    {
+      "paperId": "6a0af0d46bcb0724cfeaea6b0046df4e0b3f54ae"
+    },
+    {
+      "paperId": "c9f2fe1b9018c8704f3c81ce5d6e3020fbb3a394"
+    },
+    {
+      "paperId": "c7bff488d05699531ec8032dd61e7dcbfd884df7"
+    },
+    {
+      "paperId": "b8630d77a5350623c5dace35ff21023f5ddef815"
+    },
+    {
+      "paperId": "04a0906ab60164130c01f14066724866e7725d20"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3a376820efacc8d0142934990879ac7750b94b18"
+    },
+    {
+      "paperId": "c416b20f8f66b31f5a9afde4084aea711db547e9"
+    }
+  ]
+}

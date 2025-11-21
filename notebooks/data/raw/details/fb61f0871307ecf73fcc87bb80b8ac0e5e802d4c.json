@@ -1,0 +1,110 @@
+{
+  "paperId": "fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c",
+  "externalIds": {
+    "DBLP": "journals/sensors/DworakSDHZB13",
+    "PubMedCentral": "3649405",
+    "MAG": "2166434333",
+    "DOI": "10.3390/s130201523",
+    "CorpusId": 3044169,
+    "PubMed": "23348037"
+  },
+  "url": "https://www.semanticscholar.org/paper/fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c",
+  "title": "Strategy for the Development of a Smart NDVI Camera System for Outdoor Plant Detection and Agricultural Embedded Systems",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2013,
+  "citationCount": 54,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/13/2/1523/pdf?version=1403322641",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3649405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "102533694",
+      "name": "V. Dworak"
+    },
+    {
+      "authorId": "2828486",
+      "name": "J. Selbeck"
+    },
+    {
+      "authorId": "21664248",
+      "name": "K. Dammer"
+    },
+    {
+      "authorId": "2113531416",
+      "name": "Matthias Hoffmann"
+    },
+    {
+      "authorId": "2765762",
+      "name": "A. Zarezadeh"
+    },
+    {
+      "authorId": "1707152",
+      "name": "C. Bobda"
+    }
+  ],
+  "abstract": "The application of (smart) cameras for process control, mapping, and advanced imaging in agriculture has become an element of precision farming that facilitates the conservation of fertilizer, pesticides, and machine time. This technique additionally reduces the amount of energy required in terms of fuel. Although research activities have increased in this field, high camera prices reflect low adaptation to applications in all fields of agriculture. Smart, low-cost cameras adapted for agricultural applications can overcome this drawback. The normalized difference vegetation index (NDVI) for each image pixel is an applicable algorithm to discriminate plant information from the soil background enabled by a large difference in the reflectance between the near infrared (NIR) and the red channel optical frequency band. Two aligned charge coupled device (CCD) chips for the red and NIR channel are typically used, but they are expensive because of the precise optical alignment required. Therefore, much attention has been given to the development of alternative camera designs. In this study, the advantage of a smart one-chip camera design with NDVI image performance is demonstrated in terms of low cost and simplified design. The required assembly and pixel modifications are described, and new algorithms for establishing an enhanced NDVI image quality for data processing are discussed.",
+  "references": [
+    {
+      "paperId": "cc0e6b96bdf42cbfdbfcb8a1219dc1de66ae8b8e"
+    },
+    {
+      "paperId": "e4131c8aa2972bcdad6655f39e72381cff96db5b"
+    },
+    {
+      "paperId": "ba95467cf3552237b7c0dc63dee55ead6cf6a8b1"
+    },
+    {
+      "paperId": "55b04e63dbe17253745c2f7118f94c5af3afaa6d"
+    },
+    {
+      "paperId": "5d7a77ebca713a6fccb6fb6fc9a78ae8469ee01c"
+    },
+    {
+      "paperId": "e1ac925108c1fb09a063c8eeb1745da2cfd7ba96"
+    },
+    {
+      "paperId": "f0835fe49df57bdef148915c572e3799a5641faf"
+    },
+    {
+      "paperId": "8f555aa43da5b3b53bb21a193522031b73ed7c00"
+    },
+    {
+      "paperId": "31d0492ca9bee4352ef40430b9c58d8d2dfe2ff2"
+    },
+    {
+      "paperId": "eeb342f0a01a16410f943a5215aec8a4e8da65fd"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "87182e6b37027a4da0891901cf8a75b56d87051d"
+    },
+    {
+      "paperId": "d06d1becce180389705989cb1b8d4df9b5a7b016"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3a4f8bbbe298fa0710216b6b525619ee0ca75e31"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

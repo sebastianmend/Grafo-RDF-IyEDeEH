@@ -1,0 +1,48 @@
+{
+  "paperId": "85f35fde04c9be60826f08b97c58947e16dd3fb5",
+  "externalIds": {
+    "DBLP": "conf/icsdm/SongXLL15",
+    "MAG": "1919969271",
+    "DOI": "10.1109/ICSDM.2015.7298046",
+    "CorpusId": 18473112
+  },
+  "url": "https://www.semanticscholar.org/paper/85f35fde04c9be60826f08b97c58947e16dd3fb5",
+  "title": "Interactive simulation of virtual trees spray",
+  "venue": "International Conference on Spatial Data Mining and Geographical Knowledge Services",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSDM.2015.7298046?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSDM.2015.7298046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2115232618",
+      "name": "Hui Song"
+    },
+    {
+      "authorId": "2118670283",
+      "name": "Ying Xu"
+    },
+    {
+      "authorId": "2109812721",
+      "name": "Zhijie Li"
+    },
+    {
+      "authorId": "144351085",
+      "name": "Ding Lin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

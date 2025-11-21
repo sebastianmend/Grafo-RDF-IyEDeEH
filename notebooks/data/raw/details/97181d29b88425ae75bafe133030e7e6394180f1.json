@@ -1,0 +1,50 @@
+{
+  "paperId": "97181d29b88425ae75bafe133030e7e6394180f1",
+  "externalIds": {
+    "MAG": "2281538546",
+    "DOI": "10.25165/IJABE.V3I4.225",
+    "CorpusId": 55536741
+  },
+  "url": "https://www.semanticscholar.org/paper/97181d29b88425ae75bafe133030e7e6394180f1",
+  "title": "Review of non-chemical weed management for green agriculture",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 28,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25165/IJABE.V3I4.225?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/IJABE.V3I4.225, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2114003331",
+      "name": "Deng Wei"
+    },
+    {
+      "authorId": "6070443",
+      "name": "Chen Liping"
+    },
+    {
+      "authorId": "9148866",
+      "name": "Meng Zhijun"
+    },
+    {
+      "authorId": "48811706",
+      "name": "Wu Guangwei"
+    },
+    {
+      "authorId": "9418420",
+      "name": "Zhang Ruirui"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

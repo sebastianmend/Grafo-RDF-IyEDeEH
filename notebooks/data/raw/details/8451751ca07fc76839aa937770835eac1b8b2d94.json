@@ -1,0 +1,39 @@
+{
+  "paperId": "8451751ca07fc76839aa937770835eac1b8b2d94",
+  "externalIds": {
+    "MAG": "2052344591",
+    "DBLP": "journals/isrob/OetomoB10",
+    "DOI": "10.1007/s11370-010-0079-y",
+    "CorpusId": 10703583
+  },
+  "url": "https://www.semanticscholar.org/paper/8451751ca07fc76839aa937770835eac1b8b2d94",
+  "title": "Editorial: Special issue on agricultural robotics",
+  "venue": "Intell. Serv. Robotics",
+  "year": 2010,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11370-010-0079-y.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11370-010-0079-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11370-010-0079-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2794163",
+      "name": "D. Oetomo"
+    },
+    {
+      "authorId": "145515295",
+      "name": "J. Billingsley"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

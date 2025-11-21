@@ -1,0 +1,38 @@
+{
+  "paperId": "c84029d6e6a8393b7f3d86acee5025b4feff5148",
+  "externalIds": {
+    "MAG": "2913177497",
+    "DOI": "10.70729/ijser15196",
+    "CorpusId": 11001488
+  },
+  "url": "https://www.semanticscholar.org/paper/c84029d6e6a8393b7f3d86acee5025b4feff5148",
+  "title": "Identification and Classification of Pests in Greenhouse Using Advanced SVM in Image Processing",
+  "venue": "International journal of scientific engineering and research",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.70729/ijser15196?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70729/ijser15196, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2334382946",
+      "name": "Rajeswary B"
+    },
+    {
+      "authorId": "2334380976",
+      "name": "Divya S"
+    }
+  ],
+  "abstract": "The techniques of machine vision and digital image Processing are extensively applied to agricultural science and it have great perspective especially in the plant protection field, which ultimately leads to crops management. The paper proposes a software prototype system for early pest identification on the infected crops in greenhouse. Images of the infected leaf are captured by a camera with virtual pan tilt and zoom and processed using image processing techniques to identify presence of pests. Advanced SVM classifier is used to identify affected leaf and used for classification of pest. This SVM classifier helps in the classification of pest based on their features. Results show more precision in identifying the presence of pest at early stage. Entire life cycle of whiteflies is 21-36 days. Thrips are tiny, slender pest about 1/25-inch long in length. They range in colour from light brown to black. Thripes grows on flower plants and fruit plants. Aphids are very small in size. Aphids are soft-bodied, sluggish pests. They form cluster in colonies on the leaves of the host plants. Their life span is 20 to 30 days. The only way to stop the effect of these pests is pesticides. But excess use of the pesticides is very harmful to the crops, soil, air, water resources and the animals which came in contact with the pesticides. Pesticide residues have also been found in rain and groundwater. The use of pesticides decreases the general biodiversity in the soil. Excess of pesticides results in reduced nitrogen fixation and thus reduced crop yields. Animals may be poisoned by pesticides.",
+  "references": null
+}

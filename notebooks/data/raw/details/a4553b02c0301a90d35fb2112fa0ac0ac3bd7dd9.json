@@ -1,0 +1,93 @@
+{
+  "paperId": "a4553b02c0301a90d35fb2112fa0ac0ac3bd7dd9",
+  "externalIds": {
+    "MAG": "1980762402",
+    "DOI": "10.1590/S1983-40632014000400001",
+    "CorpusId": 119842403
+  },
+  "url": "https://www.semanticscholar.org/paper/a4553b02c0301a90d35fb2112fa0ac0ac3bd7dd9",
+  "title": "Produtividade de laranja correlacionada com atributos químicos do solo visando a zonas específicas de manejo",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 14,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.scielo.br/j/pat/a/tW6fWMfRVDztVMNnXNvSTdK/?lang=pt&format=pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1590/S1983-40632014000400001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1590/S1983-40632014000400001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "31657780",
+      "name": "N. Costa"
+    },
+    {
+      "authorId": "89190657",
+      "name": "M. P. E. Carvalho"
+    },
+    {
+      "authorId": "86996864",
+      "name": "E. Bem"
+    },
+    {
+      "authorId": "88446148",
+      "name": "F. C. Dalchiavon"
+    },
+    {
+      "authorId": "103023435",
+      "name": "Rudgen Rodrigues Caldas"
+    }
+  ],
+  "abstract": "Precision agriculture determines the exact crop management, based on the mapping of specific soil management zones. Thus, this study aimed to characterize the concept of specific soil management zone by using spatial correlations and ordinary cokriging between Valencia orange yield and soil attributes, aiming to select the soil attribute that is more efficiently related to the increase in yield, in a geostatistical grid with 120 sampling points, in 1.65 ha. The soil attributes surveyed were: P, OM, pH, K + , Ca 2+ , Mg 2+ , H + +Al 3+ , S, T and V%. The data were submitted to descriptive analysis, Pearson’s correlations end geostatistical analysis. Thus, the orange yield resulted in significant ordinary cokrigings, for both the pH and soil Mg content evaluated. This technique allowed the creation of two specific zones of soil pH management closely associated to that yield. The obtaining of two specific management zones ratified the importance of precision agriculture, concerning the increased orange yield, because by keeping the two specific management zones obtained, the global yield of the area would be 16.91 t ha -1 . However, by providing optimal conditions of soil pH to the one with the highest acidity level, it would be possible to obtain an increase of 7.58 t ha -1 in fruit yield, reaching the global average of 24.49 t ha -1 .",
+  "references": [
+    {
+      "paperId": "9efe407339f944e5d2306d18ae90ebd4102bbe04"
+    },
+    {
+      "paperId": "deda6754b844869f1dd6568b1a976766c9796122"
+    },
+    {
+      "paperId": "9e355269e974240cec937dd49abcda3aef07a1c5"
+    },
+    {
+      "paperId": "eb3b4541d8f97a118e4d33b3c82f0b12c61dd426"
+    },
+    {
+      "paperId": "679e7a9ac56fa58919f9dcf8853b4d01656e420c"
+    },
+    {
+      "paperId": "b925966b62abab8e87ae9939887d385edd48e9a5"
+    },
+    {
+      "paperId": "a6bf8e1dd611f1696f600ea1a254602dfc17cf87"
+    },
+    {
+      "paperId": "02662d41152b6bf0327a30585da8a9668d8fe238"
+    },
+    {
+      "paperId": "cf624ad169e352bf934ec1e70b44cab4aad415f2"
+    },
+    {
+      "paperId": "5299c222fc27892e43d5d39c1b3dd43f0d17532d"
+    },
+    {
+      "paperId": "315661ab8157254bafc46e123c305607a9394008"
+    },
+    {
+      "paperId": "3ef5273e0327559ea2765aa96a2bff0dfe1efdc8"
+    },
+    {
+      "paperId": "c201d85e8fb9be74dc515637d1cf27074eb09dce"
+    },
+    {
+      "paperId": "fda614a27cbfee6c137ad17a1b743e1d4fb5204e"
+    }
+  ]
+}

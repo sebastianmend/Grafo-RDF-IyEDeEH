@@ -1,0 +1,87 @@
+{
+  "paperId": "8d95e45441df3b7c401d9544899e9c107c580194",
+  "externalIds": {
+    "MAG": "2460162538",
+    "DOI": "10.21273/HORTSCI.48.9.1097",
+    "CorpusId": 88580142
+  },
+  "url": "https://www.semanticscholar.org/paper/8d95e45441df3b7c401d9544899e9c107c580194",
+  "title": "Water Quality Regulations in the Chesapeake Bay: Working to More Precisely Estimate Nutrient Loading Rates and Incentivize Best Management Practices in the Nursery and Greenhouse Industry",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 24,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.ashs.org/downloadpdf/journals/hortsci/48/9/article-p1097.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21273/HORTSCI.48.9.1097?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21273/HORTSCI.48.9.1097, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4509527",
+      "name": "John Majsztrik"
+    },
+    {
+      "authorId": "1410358394",
+      "name": "J. Lea‐Cox"
+    }
+  ],
+  "abstract": "Restoration efforts in the Chesapeake Bay recently intensified with the 2010 introduction of federal total maximum daily load (TMDL) limits for all 92 bay watershed segments. These regulations have specific, binding consequences if any of the six states or the District of Columbia fail to meet interim goals, including loss of federal dollars for various programs and increasing regulation of point sources, if non-point source (agricultural and urban) nutrient reduction goals are not met in the watershed. As part of the effort to better understand and account for non-point sources of pollution in the watershed, a team of agricultural experts from across the bay region was recently assembled, including the nursery industry. The goal of this panel was to inform stakeholders and policymakers about the inputs and management practices used across all Bay states. To increase both the precision and accuracy of loading rate estimates, more precise information should guide future iterations of the Chesapeake Bay model. A more accurate accounting of land area by operation type (e.g., greenhouse, container, and field) is a primary issue for the nursery and greenhouse industry, because the current Chesapeake Bay model relies on USDA agricultural census data, which does not separate container and field production, which have very different nutrient and irrigation practices. Field operations also typically account for a higher percentage of production area in each state, which may skew model results. This is very important because the type of operation (field, container-nursery, or greenhouse operation) has a significant impact on plant density, types of fertilizer used, and application rates, which combine with irrigation and water management practices to affect potential nutrient runoff. It is also important to represent a variety of implemented best management practices (BMPs) in the Chesapeake Bay model such as vegetated buffer strips, sediment ponds, controlled-release fertilizer, and accurately assess how these mitigate both nutrient and sediment runoff from individual operations. There may also be opportunities for growers who have implemented BMPs such as low-phosphorus slow-release fertilizers (SRF), precision irrigation, etc., to gain additional revenue through nutrient trading. Although there are currently some questions about how nutrient trading will work, this could provide additional incentives for further implementation of BMPs by both ornamental and other agricultural growers. It is possible that the TMDL process currently being implemented throughout the Chesapeake Bay will be used as a remediation process for other impaired estuarine water bodies, which have similar water-use regulations and issues. The lessons learned about the Chesapeake Bay model in general, and for the nursery and greenhouse industry in particular, will likely provide guidance for how we can be proactive in reducing environmental impacts and protect the economic viability of ornamental growers in the future. A BRIEF HISTORY OF CHESAPEAKE BAY RESTORATION EFFORTS For almost 30 years, the Chesapeake Bay has been targeted for water quality improvements with the goal of removing the Bay and its tributaries from the Environmental Protection Agency (EPA) 303(d) impaired waters list. During that time, a number of plans and agreements were put into place to achieve that goal. The first Chesapeake Bay Agreement was signed in 1983 (Chesapeake Bay Partnership, 1983) and was a voluntary partnership among Maryland, Pennsylvania, Virginia, Washington, DC, and the EPA. This was soon replaced by an updated agreement in 1987, because it had no specific goals or methods to reach those goals. The 1987 agreement sought to reduce the nitrogen (N) and phosphorus (P) loads entering the Bay by 40% by the year 2000 (Chesapeake Executive Council, 1987). This agreement included deadlines and reduction goals, but there were no consequences associated with the failure to meet those goals, and participation was voluntary. During this time, some moderate improvements in Bay health were achieved through education, habitat restoration, species management plans, increased implementation of BMPs, updates to wastewater treatment plants, and a reduction of heavy metals and other toxins (Chesapeake Executive Council, 1987). The 1992 amendment expanded restoration efforts to tributaries instead of just the main stem of the Bay and acknowledged that a reduction of upstream pollution would benefit the Bay overall (Chesapeake Executive Council, 1992). Additionally, there were increased efforts to control non-point source pollution, which was primarily attributed to agriculture, but urban sources were explicitly recognized as contributors. The agreement also sought to explore ‘‘cooperative relationships’’ with New York, Delaware, and West Virginia to reach out to the three additional states that have land area within the watershed. Although progress had been made in terms of nutrient and sediment reduction, the Bay’s heath did not drastically improve during the 1990s (Fig. 1). The 2000 agreement, which still only included Virginia, Maryland, Pennsylvania, and Washington, DC, established load reductions for sediment and chemical contaminants as well as renewing the 40% reduction in N and P goals from 1985 levels (Chesapeake Executive Council, 2000). This agreement also included specific population goals for certain species including blue crabs, menhaden, and submerged aquatic vegetation (SAV). Once again, the outcomes of this process were not binding; however, a few months later in 2000, a Memorandum of Understanding (MOU) was signed with the EPA by all six states in the watershed and Washington, DC, in response Received for publication 4 Mar. 2013. Accepted for publication 31 May 2013. Special thanks to Drs. Sarah White, Don Merhaut, and two anonymous reviewers for their critical review and suggestions for improving this manuscript. Also a special thank you to Sarah White and ASHS for organizing and hosting this colloquium",
+  "references": [
+    {
+      "paperId": "529ec134fe8dc9243bfe726a31fce7b22628c6bd"
+    },
+    {
+      "paperId": "047262f833c50ac665f6069ae4f7864604bfcee9"
+    },
+    {
+      "paperId": "a672e5fefa9118b05dffa27d414a694ed817c6d5"
+    },
+    {
+      "paperId": "ef8189ea20a48a40add74c7b2910e54f1f1520f9"
+    },
+    {
+      "paperId": "74a59e241975be81501530a33f43ddea5855fe96"
+    },
+    {
+      "paperId": "743f533cafd1367ae434bd99b0d20047aa1a67e2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "0c278e34dc033781b9593ddf4f1cbfeaedd6c0cd",
+  "externalIds": {
+    "MAG": "2139053584",
+    "DOI": "10.1109/MEC.2011.6025672",
+    "CorpusId": 14487508
+  },
+  "url": "https://www.semanticscholar.org/paper/0c278e34dc033781b9593ddf4f1cbfeaedd6c0cd",
+  "title": "Delineating soil nutrient management zones based on ID3 algorithm",
+  "venue": "International Conference on Mechatronic Science, Electric Engineering and Computer",
+  "year": 2011,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MEC.2011.6025672?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MEC.2011.6025672, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47648620",
+      "name": "Liu He"
+    },
+    {
+      "authorId": "3034297",
+      "name": "Liying Cao"
+    },
+    {
+      "authorId": "2265584636",
+      "name": "Gui-fen Chen"
+    },
+    {
+      "authorId": "81852979",
+      "name": "Lin Dexin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

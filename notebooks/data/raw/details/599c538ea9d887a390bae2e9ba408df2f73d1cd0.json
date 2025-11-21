@@ -1,0 +1,38 @@
+{
+  "paperId": "599c538ea9d887a390bae2e9ba408df2f73d1cd0",
+  "externalIds": {
+    "MAG": "2115774714",
+    "DOI": "10.5897/IJBC2010.",
+    "CorpusId": 111217539
+  },
+  "url": "https://www.semanticscholar.org/paper/599c538ea9d887a390bae2e9ba408df2f73d1cd0",
+  "title": "A review of potential use of geo-information technologies for cotton supply chain management",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5897/IJBC2010.?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5897/IJBC2010., which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50442987",
+      "name": "S. Perveen"
+    },
+    {
+      "authorId": "12220131",
+      "name": "M. Arsalan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

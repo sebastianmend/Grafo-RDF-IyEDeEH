@@ -1,0 +1,45 @@
+{
+  "paperId": "7d6bf25d28a60a9b37fc88db3188890ed4270845",
+  "externalIds": {
+    "MAG": "2007964524",
+    "DBLP": "conf/geoinformatics/ZhangWZ10",
+    "DOI": "10.1109/GEOINFORMATICS.2010.5567984",
+    "CorpusId": 9588146
+  },
+  "url": "https://www.semanticscholar.org/paper/7d6bf25d28a60a9b37fc88db3188890ed4270845",
+  "title": "Estimation of vegetation Equivalent Water Thickness using hyperspectral data and partial least square regression",
+  "venue": "GEOINFORMATICS",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GEOINFORMATICS.2010.5567984?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GEOINFORMATICS.2010.5567984, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40430876",
+      "name": "Jie Zhang"
+    },
+    {
+      "authorId": "119837997",
+      "name": "Jianjun Wu"
+    },
+    {
+      "authorId": "145118902",
+      "name": "Lei Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

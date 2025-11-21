@@ -1,0 +1,50 @@
+{
+  "paperId": "7934f8c0fd25fcabb12eb53a7d44786c62a7fc68",
+  "externalIds": {
+    "MAG": "2039031080",
+    "DOI": "10.4028/www.scientific.net/KEM.500.609",
+    "CorpusId": 136923641
+  },
+  "url": "https://www.semanticscholar.org/paper/7934f8c0fd25fcabb12eb53a7d44786c62a7fc68",
+  "title": "Research on Improving the Accuracy of Positioning Data Obtained by GPS Module",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4028/www.scientific.net/KEM.500.609?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4028/www.scientific.net/KEM.500.609, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39155006",
+      "name": "Debao Yuan"
+    },
+    {
+      "authorId": "2724623",
+      "name": "Ximin Cui"
+    },
+    {
+      "authorId": "145452387",
+      "name": "Guo Wang"
+    },
+    {
+      "authorId": "143834640",
+      "name": "J. Jin"
+    },
+    {
+      "authorId": "48122415",
+      "name": "Wei Xue"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "fd088e2d6aa5b8f407c06c1bd1e235c7cc539657",
+  "externalIds": {
+    "MAG": "2537932641",
+    "CorpusId": 132896422
+  },
+  "url": "https://www.semanticscholar.org/paper/fd088e2d6aa5b8f407c06c1bd1e235c7cc539657",
+  "title": "Spatio-temporal variability of soil moisture at the field scale using remote and proximal sensing",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104212586",
+      "name": "Karine Labrecque"
+    },
+    {
+      "authorId": "144126110",
+      "name": "M. Bernier"
+    },
+    {
+      "authorId": "1764481",
+      "name": "M. Nolin"
+    },
+    {
+      "authorId": "2635472",
+      "name": "I. Perron"
+    },
+    {
+      "authorId": "50677777",
+      "name": "D. Cluis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

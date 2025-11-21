@@ -1,0 +1,41 @@
+{
+  "paperId": "a8075630cbec313aff3d389b92ab8730f374411f",
+  "externalIds": {
+    "MAG": "2028238390",
+    "DBLP": "journals/cea/LiC15",
+    "DOI": "10.1016/j.compag.2015.03.014",
+    "CorpusId": 206904686
+  },
+  "url": "https://www.semanticscholar.org/paper/a8075630cbec313aff3d389b92ab8730f374411f",
+  "title": "Special issue on precision agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2015,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2015.03.014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2015.03.014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    },
+    {
+      "authorId": "3388162",
+      "name": "Sun-Ok Chung"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,39 @@
+{
+  "paperId": "58a09b1351ddb447e6abdede7233a4794d538155",
+  "externalIds": {
+    "DBLP": "conf/eccv/HaugO14",
+    "MAG": "2185841109",
+    "DOI": "10.1007/978-3-319-16220-1_8",
+    "CorpusId": 45320
+  },
+  "url": "https://www.semanticscholar.org/paper/58a09b1351ddb447e6abdede7233a4794d538155",
+  "title": "A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks",
+  "venue": "ECCV Workshops",
+  "year": 2014,
+  "citationCount": 217,
+  "influentialCitationCount": 19,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-16220-1_8.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-16220-1_8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-16220-1_8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1825580",
+      "name": "S. Haug"
+    },
+    {
+      "authorId": "144835580",
+      "name": "J. Ostermann"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

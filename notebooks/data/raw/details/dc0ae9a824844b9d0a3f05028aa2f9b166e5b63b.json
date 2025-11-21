@@ -1,0 +1,56 @@
+{
+  "paperId": "dc0ae9a824844b9d0a3f05028aa2f9b166e5b63b",
+  "externalIds": {
+    "MAG": "2552639269",
+    "DBLP": "conf/ifip12/LuMWWGD15",
+    "DOI": "10.1007/978-3-319-48357-3_34",
+    "CorpusId": 206693890
+  },
+  "url": "https://www.semanticscholar.org/paper/dc0ae9a824844b9d0a3f05028aa2f9b166e5b63b",
+  "title": "Application Feasibility Analysis of Precision Agriculture in Equipment for Controlled Traffic Farming System: A Review",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48357-3_34.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48357-3_34?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48357-3_34, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3641269",
+      "name": "Caiyun Lu"
+    },
+    {
+      "authorId": "1706713",
+      "name": "Zhijun Meng"
+    },
+    {
+      "authorId": "2118418331",
+      "name": "Xiu Wang"
+    },
+    {
+      "authorId": "49553451",
+      "name": "Guangwei Wu"
+    },
+    {
+      "authorId": "101855227",
+      "name": "Nana Gao"
+    },
+    {
+      "authorId": "47946389",
+      "name": "Jianjun Dong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

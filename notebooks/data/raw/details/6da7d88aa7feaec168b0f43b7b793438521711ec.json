@@ -1,0 +1,40 @@
+{
+  "paperId": "6da7d88aa7feaec168b0f43b7b793438521711ec",
+  "externalIds": {
+    "MAG": "1975714136",
+    "DOI": "10.1016/J.GEODERMA.2015.01.004",
+    "CorpusId": 15967199
+  },
+  "url": "https://www.semanticscholar.org/paper/6da7d88aa7feaec168b0f43b7b793438521711ec",
+  "title": "Proximal soil sensing for Precision Agriculture: Simultaneous use of electromagnetic induction and gamma radiometrics in contrasting soils",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 48,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.GEODERMA.2015.01.004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.GEODERMA.2015.01.004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2065011688",
+      "name": "F. A. Rodrigues"
+    },
+    {
+      "authorId": "2678389",
+      "name": "R. Bramley"
+    },
+    {
+      "authorId": "89413894",
+      "name": "D. Gobbett"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

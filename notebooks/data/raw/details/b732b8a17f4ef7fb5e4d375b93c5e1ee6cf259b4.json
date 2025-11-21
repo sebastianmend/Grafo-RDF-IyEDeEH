@@ -1,0 +1,56 @@
+{
+  "paperId": "b732b8a17f4ef7fb5e4d375b93c5e1ee6cf259b4",
+  "externalIds": {
+    "MAG": "2043622694",
+    "DOI": "10.1080/19440049.2013.801088",
+    "CorpusId": 19868186,
+    "PubMed": "23800168"
+  },
+  "url": "https://www.semanticscholar.org/paper/b732b8a17f4ef7fb5e4d375b93c5e1ee6cf259b4",
+  "title": "Multi-residue method for the analysis of pesticides in Arabica coffee using liquid chromatography/tandem mass spectrometry",
+  "venue": "Food Additives and Contaminants Part A-chemistry Analysis Control Exposure & Risk Assessment",
+  "year": 2013,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/19440049.2013.801088?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/19440049.2013.801088, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2054209988",
+      "name": "C. M. Dias"
+    },
+    {
+      "authorId": "2151029593",
+      "name": "F. A. Oliveira"
+    },
+    {
+      "authorId": "14168745",
+      "name": "F. Madureira"
+    },
+    {
+      "authorId": "152694870",
+      "name": "G. Silva"
+    },
+    {
+      "authorId": "11892976",
+      "name": "W. R. Souza"
+    },
+    {
+      "authorId": "143890981",
+      "name": "Z. Cardeal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

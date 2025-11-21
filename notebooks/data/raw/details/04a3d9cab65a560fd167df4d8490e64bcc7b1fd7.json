@@ -1,0 +1,49 @@
+{
+  "paperId": "04a3d9cab65a560fd167df4d8490e64bcc7b1fd7",
+  "externalIds": {
+    "MAG": "339889460",
+    "CorpusId": 128257919
+  },
+  "url": "https://www.semanticscholar.org/paper/04a3d9cab65a560fd167df4d8490e64bcc7b1fd7",
+  "title": "Continuous hourly radon gradient observations at Cabauw, the Netherlands - a review of main features of the 2007-2009 dataset",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "13226013",
+      "name": "W. Zahorowski"
+    },
+    {
+      "authorId": "2078178",
+      "name": "A. Vermeulen"
+    },
+    {
+      "authorId": "152622442",
+      "name": "A. Williams"
+    },
+    {
+      "authorId": "33982365",
+      "name": "S. Chambers"
+    },
+    {
+      "authorId": "4297665",
+      "name": "B. Verheggen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

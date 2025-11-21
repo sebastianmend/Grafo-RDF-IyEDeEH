@@ -1,0 +1,47 @@
+{
+  "paperId": "09d7769cec97fec44c96c1c6185cba4b9c77969c",
+  "externalIds": {
+    "DBLP": "journals/comcom/LiPCL13",
+    "MAG": "2032347362",
+    "DOI": "10.1016/j.comcom.2012.10.011",
+    "CorpusId": 13033265
+  },
+  "url": "https://www.semanticscholar.org/paper/09d7769cec97fec44c96c1c6185cba4b9c77969c",
+  "title": "INCOME: Practical land monitoring in precision agriculture with sensor networks",
+  "venue": "Computer Communications",
+  "year": 2013,
+  "citationCount": 36,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.comcom.2012.10.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.comcom.2012.10.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50342128",
+      "name": "Shanshan Li"
+    },
+    {
+      "authorId": "144478280",
+      "name": "Shaoliang Peng"
+    },
+    {
+      "authorId": "2108919336",
+      "name": "Weifeng Chen"
+    },
+    {
+      "authorId": "2202457955",
+      "name": "Xiaopei Lu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

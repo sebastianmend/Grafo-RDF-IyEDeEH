@@ -1,0 +1,38 @@
+{
+  "paperId": "42445c226760453f08a6578372cea456624d704c",
+  "externalIds": {
+    "MAG": "2048161333",
+    "DOI": "10.1109/ICIEV.2012.6317447",
+    "CorpusId": 25833271
+  },
+  "url": "https://www.semanticscholar.org/paper/42445c226760453f08a6578372cea456624d704c",
+  "title": "AgriTronX - a solar powered off-grid automated cultivation system applicable also in Piper Betle (paan) growth",
+  "venue": "International Conference on Informatics, Electronics and Vision",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIEV.2012.6317447?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIEV.2012.6317447, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2065310908",
+      "name": "I. Chowdhury"
+    },
+    {
+      "authorId": "9176982",
+      "name": "S. Binzaid"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

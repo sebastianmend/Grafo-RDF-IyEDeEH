@@ -1,0 +1,38 @@
+{
+  "paperId": "32dc0d2211051e69bbbcf3a5e1e8fd6db51396ab",
+  "externalIds": {
+    "MAG": "2159544382",
+    "DOI": "10.1109/ICMTMA.2011.439",
+    "CorpusId": 17432667
+  },
+  "url": "https://www.semanticscholar.org/paper/32dc0d2211051e69bbbcf3a5e1e8fd6db51396ab",
+  "title": "Modeling and Simulation of the Agricultural Sprayer Boom Leveling System",
+  "venue": "2011 Third International Conference on Measuring Technology and Mechatronics Automation",
+  "year": 2011,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMTMA.2011.439?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMTMA.2011.439, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": null,
+      "name": "Jian Sun"
+    },
+    {
+      "authorId": "2053093507",
+      "name": "Yubin Miao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

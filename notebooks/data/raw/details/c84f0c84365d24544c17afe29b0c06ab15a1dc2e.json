@@ -1,0 +1,56 @@
+{
+  "paperId": "c84f0c84365d24544c17afe29b0c06ab15a1dc2e",
+  "externalIds": {
+    "DBLP": "conf/fcst/SunSZMLX10",
+    "MAG": "2013107919",
+    "DOI": "10.1109/FCST.2010.51",
+    "CorpusId": 14405959
+  },
+  "url": "https://www.semanticscholar.org/paper/c84f0c84365d24544c17afe29b0c06ab15a1dc2e",
+  "title": "Design of a Wireless Sensor Network for Farmland Monitoring",
+  "venue": "2010 Fifth International Conference on Frontier of Computer Science and Technology",
+  "year": 2010,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/FCST.2010.51?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/FCST.2010.51, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2143430363",
+      "name": "Yuwen Sun"
+    },
+    {
+      "authorId": "6673079",
+      "name": "M. Shen"
+    },
+    {
+      "authorId": "2202595129",
+      "name": "Liang Zhou"
+    },
+    {
+      "authorId": "2569327",
+      "name": "Fenxian Ma"
+    },
+    {
+      "authorId": "2117691355",
+      "name": "Xiangze Lin"
+    },
+    {
+      "authorId": "2588020",
+      "name": "Yingjun Xiong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,58 @@
+{
+  "paperId": "7537c7dd841b90df1b1551829bb32d5d11f28ffc",
+  "externalIds": {
+    "MAG": "2154630229",
+    "DOI": "10.2478/intag-2013-0003",
+    "CorpusId": 55198075
+  },
+  "url": "https://www.semanticscholar.org/paper/7537c7dd841b90df1b1551829bb32d5d11f28ffc",
+  "title": "Database of Polish arable mineral soils: a review",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 77,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2478/intag-2013-0003",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2478/intag-2013-0003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2478/intag-2013-0003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2289878548",
+      "name": "Andrzej Bieganowski"
+    },
+    {
+      "authorId": "1401985642",
+      "name": "B. Witkowska-Walczak"
+    },
+    {
+      "authorId": "40352641",
+      "name": "J. Gliński"
+    },
+    {
+      "authorId": "2270324850",
+      "name": "Zofia Sokołowska"
+    },
+    {
+      "authorId": "31619459",
+      "name": "C. Sławiński"
+    },
+    {
+      "authorId": "13664944",
+      "name": "M. Brzezińska"
+    },
+    {
+      "authorId": "6665860",
+      "name": "T. Włodarczyk"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

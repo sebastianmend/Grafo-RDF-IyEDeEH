@@ -1,0 +1,117 @@
+{
+  "paperId": "07764ad033addea96b2dc0629b47dc2b4c5ba15c",
+  "externalIds": {
+    "DBLP": "journals/ijdsn/MafutaZBAGC13",
+    "MAG": "2138238927",
+    "DOI": "10.1155/2013/150703",
+    "CorpusId": 15191240
+  },
+  "url": "https://www.semanticscholar.org/paper/07764ad033addea96b2dc0629b47dc2b4c5ba15c",
+  "title": "Successful Deployment of a Wireless Sensor Network for Precision Agriculture in Malawi",
+  "venue": "IEEE International Conference on Networked Embedded Systems for Enterprise Applications",
+  "year": 2012,
+  "citationCount": 168,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2013/150703",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2013/150703?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2013/150703, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2562395",
+      "name": "Million Mafuta"
+    },
+    {
+      "authorId": "1935554",
+      "name": "M. Zennaro"
+    },
+    {
+      "authorId": "2156469",
+      "name": "A. Bagula"
+    },
+    {
+      "authorId": "2934002",
+      "name": "G. Ault"
+    },
+    {
+      "authorId": "2468728",
+      "name": "H. Gombachika"
+    },
+    {
+      "authorId": "2928876",
+      "name": "Timothy A. Chadza"
+    }
+  ],
+  "abstract": "This paper demonstrates how an irrigation management system (IMS) can practically be implemented by deploying a wireless sensor network (WSN). Specifically, the paper describes an IMS which was set up in Manja township, city of Blantyre. Deployment of IMS in rural areas of developing countries like Malawi is a challenge as grid power is scarce. For the system to be self-sustained in terms of power, the study used solar photovoltaic and rechargeable batteries to power all electrical devices. The system incorporated a remote monitoring mechanism through a General Packet Radio Service modem to report soil temperature, soil moisture, WSN link performance, and photovoltaic power levels. Irrigation valves were activated to water the field. Preliminary results in this study have revealed a number of engineering weaknesses of deploying such a system. Nevertheless, the paper has highlighted areas of improvement to develop a robust, fully automated, solar-powered, and low-cost IMS to suit the socioeconomic conditions of small scale farmers in developing countries.",
+  "references": [
+    {
+      "paperId": "5f25545fcb0dd086e92efe8e966bb2d9013712fa"
+    },
+    {
+      "paperId": "59f153ddd37e22af153aa0d7caf3ec44053aa8e8"
+    },
+    {
+      "paperId": "a133147ba42bb5a06fc402a0a4700abd707d0c4f"
+    },
+    {
+      "paperId": "9fbc49850dcc593d269c009f8b45d2ecd85b0b77"
+    },
+    {
+      "paperId": "827db731ee421eb46a333e3a8ea14ae9cf40c87b"
+    },
+    {
+      "paperId": "fcecc0b433a02c173cefb147a22ea07e63b9a9f6"
+    },
+    {
+      "paperId": "bb7da53c0cc951202f4d3da550eb38fc13e51e1d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d74ebaa382a216b8c1bfc8cad6e3f5fa3122d960"
+    },
+    {
+      "paperId": "d0ac676abb3742e34db8672ef07ca55a630a8d4a"
+    },
+    {
+      "paperId": "7fe08b212a6a946835ece77a9c444cbb3b58a8c6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

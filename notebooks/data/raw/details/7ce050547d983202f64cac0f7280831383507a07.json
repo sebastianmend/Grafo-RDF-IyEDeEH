@@ -1,0 +1,38 @@
+{
+  "paperId": "7ce050547d983202f64cac0f7280831383507a07",
+  "externalIds": {
+    "MAG": "2167763913",
+    "DOI": "10.1109/ICMTMA.2011.632",
+    "CorpusId": 18908996
+  },
+  "url": "https://www.semanticscholar.org/paper/7ce050547d983202f64cac0f7280831383507a07",
+  "title": "Simulation and Controller Design for an Agricultural Sprayer Boom Leveling System",
+  "venue": "2011 Third International Conference on Measuring Technology and Mechatronics Automation",
+  "year": 2011,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMTMA.2011.632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMTMA.2011.632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": null,
+      "name": "Jian Sun"
+    },
+    {
+      "authorId": "2053093507",
+      "name": "Yubin Miao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

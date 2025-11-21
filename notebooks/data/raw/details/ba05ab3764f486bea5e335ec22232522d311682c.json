@@ -1,0 +1,41 @@
+{
+  "paperId": "ba05ab3764f486bea5e335ec22232522d311682c",
+  "externalIds": {
+    "DBLP": "journals/corr/PerezBA14",
+    "MAG": "1896894268",
+    "CorpusId": 14577028
+  },
+  "url": "https://www.semanticscholar.org/paper/ba05ab3764f486bea5e335ec22232522d311682c",
+  "title": "Low Cost, High Precision, Autonomous Measurement of Trunk Diameter based on Computer Vision",
+  "venue": "arXiv.org",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "15708064",
+      "name": "D. S. Pérez"
+    },
+    {
+      "authorId": "2235176",
+      "name": "F. Bromberg"
+    },
+    {
+      "authorId": "3180810",
+      "name": "F. G. Antivilo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

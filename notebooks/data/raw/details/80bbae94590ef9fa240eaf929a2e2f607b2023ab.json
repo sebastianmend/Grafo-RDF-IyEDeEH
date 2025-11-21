@@ -1,0 +1,35 @@
+{
+  "paperId": "80bbae94590ef9fa240eaf929a2e2f607b2023ab",
+  "externalIds": {
+    "DBLP": "journals/pervasive/Ebling15",
+    "MAG": "1997648162",
+    "DOI": "10.1109/MPRV.2015.7",
+    "CorpusId": 206480827
+  },
+  "url": "https://www.semanticscholar.org/paper/80bbae94590ef9fa240eaf929a2e2f607b2023ab",
+  "title": "From Farming to Personal Privacy-Ubicomp's Impact on Society",
+  "venue": "IEEE pervasive computing",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MPRV.2015.7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MPRV.2015.7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1803046",
+      "name": "M. Ebling"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

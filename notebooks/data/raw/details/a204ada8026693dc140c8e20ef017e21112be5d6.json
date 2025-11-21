@@ -1,0 +1,42 @@
+{
+  "paperId": "a204ada8026693dc140c8e20ef017e21112be5d6",
+  "externalIds": {
+    "MAG": "2045234459",
+    "DOI": "10.1007/s12230-012-9291-y",
+    "CorpusId": 17061956
+  },
+  "url": "https://www.semanticscholar.org/paper/a204ada8026693dc140c8e20ef017e21112be5d6",
+  "title": "Adaptation of Potato to Water Shortage: Irrigation Management and Enhancement of Tolerance to Drought and Salinity",
+  "venue": "American Journal of Potato Research",
+  "year": 2013,
+  "citationCount": 107,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12230-012-9291-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12230-012-9291-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49481727",
+      "name": "D. Levy"
+    },
+    {
+      "authorId": "2626284",
+      "name": "W. Coleman"
+    },
+    {
+      "authorId": "6382112",
+      "name": "R. Veilleux"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

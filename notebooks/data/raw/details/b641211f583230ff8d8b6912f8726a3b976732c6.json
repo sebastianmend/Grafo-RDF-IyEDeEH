@@ -1,0 +1,45 @@
+{
+  "paperId": "b641211f583230ff8d8b6912f8726a3b976732c6",
+  "externalIds": {
+    "DBLP": "conf/ghtc/SarangiSJ15",
+    "MAG": "2187061668",
+    "DOI": "10.1109/GHTC.2015.7343988",
+    "CorpusId": 10545073
+  },
+  "url": "https://www.semanticscholar.org/paper/b641211f583230ff8d8b6912f8726a3b976732c6",
+  "title": "Agricultural activity recognition with smart-shirt and crop protocol",
+  "venue": "IEEE Global Humanitarian Technology Conference",
+  "year": 2015,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GHTC.2015.7343988?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GHTC.2015.7343988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "34610600",
+      "name": "Sanat Sarangi"
+    },
+    {
+      "authorId": "50214279",
+      "name": "Somya Sharma"
+    },
+    {
+      "authorId": "2377553",
+      "name": "B. Jagyasi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

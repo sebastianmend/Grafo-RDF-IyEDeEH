@@ -1,0 +1,100 @@
+{
+  "paperId": "24c51ca58d5d938eb3b0c08e2c557bdef506c86f",
+  "externalIds": {
+    "MAG": "1969546325",
+    "DOI": "10.1364/OE.18.010694",
+    "CorpusId": 17876380,
+    "PubMed": "20588922"
+  },
+  "url": "https://www.semanticscholar.org/paper/24c51ca58d5d938eb3b0c08e2c557bdef506c86f",
+  "title": "Validation of a crop field modeling to simulate agronomic images.",
+  "venue": "Optics Express",
+  "year": 2010,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1364/oe.18.010694",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1364/OE.18.010694?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1364/OE.18.010694, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2110603412",
+      "name": "Gawain Jones"
+    },
+    {
+      "authorId": "144273358",
+      "name": "C. Gée"
+    },
+    {
+      "authorId": "31454298",
+      "name": "S. Villette"
+    },
+    {
+      "authorId": "1718275",
+      "name": "F. Truchetet"
+    }
+  ],
+  "abstract": "In precision agriculture, crop/weed discrimination is often based on image analysis but though several algorithms using spatial information have been proposed, not any has been tested on relevant databases. A simple model that simulates virtual fields is developed to evaluate these algorithms. Virtual fields are made of crops, arranged according to agricultural practices and represented by simple patterns, and weeds that are spatially distributed using a statistical approach. It ensures a user-defined Weed Infestation Rate (WIR). Then, experimental devices using cameras are simulated with a pinhole model. Its ability to characterize the spatial reality is demonstrated through different pairs (real, virtual) of pictures. Two spatial descriptors (nearest neighbor method and Besag's function) have been set up and tested to validate the spatial realism of the crop field model, comparing a real image to the homologous virtual one.",
+  "references": [
+    {
+      "paperId": "2145ee21793db812efc510c8d3c6b7b63885eba8"
+    },
+    {
+      "paperId": "a6b0f71c5f6e4d7e1ed5ed869f95e7aad6982fef"
+    },
+    {
+      "paperId": "861172a3b256f3b810382150acd8c9589fc3dbdf"
+    },
+    {
+      "paperId": "eb3ee8879530026ea6629f9a5bd3d05377a3bd0d"
+    },
+    {
+      "paperId": "3cd116429d9b3e107a22466cb0afb983ba59df9e"
+    },
+    {
+      "paperId": "c8a150ea5a5b067c4d8962c3f1c10d65899df6a0"
+    },
+    {
+      "paperId": "630aa7ac96a19b9e87d85a287de20ab2688c93d7"
+    },
+    {
+      "paperId": "f1a8eeaa5fce96d6b8f8dd6ec6b02b84b65d5675"
+    },
+    {
+      "paperId": "41f7aefc68a9f700723a79e1d15e2ca3ae4acd7c"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "1103d069fdeecc8c4a9508c7f02163e2027c6807"
+    },
+    {
+      "paperId": "8158a95dae3cc35a511a95499a33e2158ba171c9"
+    },
+    {
+      "paperId": "c31812d4ebb66411ec7cbfab3b75c0164ce7eadf"
+    },
+    {
+      "paperId": "229a48124bea5ebffb15e0bc7e701597c7fa12f4"
+    },
+    {
+      "paperId": "b275181487c00f59ccd66eb04bf20fa0c4f923da"
+    },
+    {
+      "paperId": "b68f57493a635f8123d114f16eff860371ac2059"
+    },
+    {
+      "paperId": "41fc386ea6b8740e717e095cbcb11af3cc278975"
+    }
+  ]
+}

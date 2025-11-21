@@ -1,0 +1,59 @@
+{
+  "paperId": "8a2fcc2e3915c115ccaac63297ff48a4fd52ed73",
+  "externalIds": {
+    "DBLP": "journals/jfr/BarrientosCCMRSV11",
+    "MAG": "2063472265",
+    "DOI": "10.1002/rob.20403",
+    "CorpusId": 7569875
+  },
+  "url": "https://www.semanticscholar.org/paper/8a2fcc2e3915c115ccaac63297ff48a4fd52ed73",
+  "title": "Aerial remote sensing in agriculture: A practical approach to area coverage and path planning for fleets of mini aerial robots",
+  "venue": "J. Field Robotics",
+  "year": 2011,
+  "citationCount": 298,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://oa.upm.es/13764/1/J._Field_Robotics_2011_Barrientos.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rob.20403?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rob.20403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144755563",
+      "name": "A. Barrientos"
+    },
+    {
+      "authorId": "2778879",
+      "name": "J. Colorado"
+    },
+    {
+      "authorId": "2435514",
+      "name": "J. Cerro"
+    },
+    {
+      "authorId": "2110496413",
+      "name": "Alexander Martinez"
+    },
+    {
+      "authorId": "6601687",
+      "name": "C. Rossi"
+    },
+    {
+      "authorId": "49590999",
+      "name": "D. Sanz"
+    },
+    {
+      "authorId": "145514047",
+      "name": "J. Valente"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

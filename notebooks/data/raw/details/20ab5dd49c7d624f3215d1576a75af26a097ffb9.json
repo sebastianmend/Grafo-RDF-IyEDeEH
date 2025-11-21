@@ -1,0 +1,46 @@
+{
+  "paperId": "20ab5dd49c7d624f3215d1576a75af26a097ffb9",
+  "externalIds": {
+    "MAG": "2538169304",
+    "DOI": "10.1109/RED-UAS.2015.7440984",
+    "CorpusId": 105801
+  },
+  "url": "https://www.semanticscholar.org/paper/20ab5dd49c7d624f3215d1576a75af26a097ffb9",
+  "title": "Flight performance assessment of land surveying trajectories for multiple UAV platforms",
+  "venue": "2015 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED-UAS)",
+  "year": 2015,
+  "citationCount": 4,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RED-UAS.2015.7440984?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RED-UAS.2015.7440984, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144993227",
+      "name": "A. Mora"
+    },
+    {
+      "authorId": "8355354",
+      "name": "Sai H. Vemprala"
+    },
+    {
+      "authorId": "40152835",
+      "name": "Adrian Carrio"
+    },
+    {
+      "authorId": "1793038",
+      "name": "S. Saripalli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

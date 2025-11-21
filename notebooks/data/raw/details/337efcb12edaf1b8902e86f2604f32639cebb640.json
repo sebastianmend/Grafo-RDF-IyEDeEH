@@ -1,0 +1,42 @@
+{
+  "paperId": "337efcb12edaf1b8902e86f2604f32639cebb640",
+  "externalIds": {
+    "MAG": "2083986247",
+    "DOI": "10.1109/ICMTMA.2010.239",
+    "CorpusId": 32195821
+  },
+  "url": "https://www.semanticscholar.org/paper/337efcb12edaf1b8902e86f2604f32639cebb640",
+  "title": "Application of Programmable Controller in Precision Seeder",
+  "venue": "International Conference on Measuring Technology and Mechatronics Automation",
+  "year": 2010,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMTMA.2010.239?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMTMA.2010.239, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109048732",
+      "name": "Lixin Zhao"
+    },
+    {
+      "authorId": "32048389",
+      "name": "Jietai Zhang"
+    },
+    {
+      "authorId": "9437250",
+      "name": "Shenglu Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

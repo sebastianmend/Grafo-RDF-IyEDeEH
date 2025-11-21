@@ -1,0 +1,86 @@
+{
+  "paperId": "7f3a0fa3836d52325ab1dcd6005cdec9ed1207cd",
+  "externalIds": {
+    "DBLP": "journals/ijdsn/KimKK13",
+    "MAG": "2017636261",
+    "DOI": "10.1155/2013/813070",
+    "CorpusId": 34308263
+  },
+  "url": "https://www.semanticscholar.org/paper/7f3a0fa3836d52325ab1dcd6005cdec9ed1207cd",
+  "title": "Redundant-Path Scheme for Efficient Interworking between a Wireless Sensor Network and the Internet",
+  "venue": "Int. J. Distributed Sens. Networks",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2013/813070",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2013/813070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2013/813070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109275520",
+      "name": "Kyu Hyung Kim"
+    },
+    {
+      "authorId": "153586329",
+      "name": "Dongkyun Kim"
+    },
+    {
+      "authorId": "2111896246",
+      "name": "Dongwon Kim"
+    }
+  ],
+  "abstract": "A wireless sensor network (WSN) has become an important technology and has been deployed in many emerging applications, including home automation, health care, and precision agriculture. To deploy more service applications, the WSN must solve the internetworking problem (difference in speed, protocol stack, beacon collision etc.). In this study, we propose a redundant-path scheme based on a multichannel WSN for an efficient interworking among the heterogeneous networks. We evaluate the performance of our proposed scheme through a real-world simulation, and the results show an improvement in data throughput, packet delay, and beacon loss ratio.",
+  "references": [
+    {
+      "paperId": "b9a92fdfa7aec7973fc9394fef7e06fcfd3bc546"
+    },
+    {
+      "paperId": "bb32028fe4a198a49de6e5297f62211e7f224daf"
+    },
+    {
+      "paperId": "f0bc2220cf03da0df962d8491c7af58ee71f0976"
+    },
+    {
+      "paperId": "cd9011ae4d3bdcb4a7f6dec38c8dcf9bc2d70004"
+    },
+    {
+      "paperId": "0897f6f6cc4c762f60afd5c505b322e8cc328307"
+    },
+    {
+      "paperId": "72c34e43aea3fdcceaf89da8d174b179e7a40109"
+    },
+    {
+      "paperId": "856958549a2badd18ee507d4c31eba2e400db4ef"
+    },
+    {
+      "paperId": "aa9b4b180711ed87b4a51561398807436c3ffb68"
+    },
+    {
+      "paperId": "c3ed671bf7c9bb71c9b791309c11f2b8f3ecf204"
+    },
+    {
+      "paperId": "649f5eecf3b5b076c9f74f9773b13351014f7d69"
+    },
+    {
+      "paperId": "1bf7ec1c30360cb7ef7554f14055443046c79d9d"
+    },
+    {
+      "paperId": "91d12b77cfb84e85c882fd57ab6e380c24dc24aa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "4d9c6616ab659b542b865154cde95aa46dcd2fe0",
+  "externalIds": {
+    "MAG": "2592385480",
+    "DOI": "10.15662/IJAREEIE.2015.0405077",
+    "CorpusId": 55089878
+  },
+  "url": "https://www.semanticscholar.org/paper/4d9c6616ab659b542b865154cde95aa46dcd2fe0",
+  "title": "Soil pH Sensing Techniques and Technologies-A Review",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15662/IJAREEIE.2015.0405077?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15662/IJAREEIE.2015.0405077, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "51343209",
+      "name": "S. S. Kumar"
+    },
+    {
+      "authorId": "9386685",
+      "name": "Babankumar"
+    },
+    {
+      "authorId": "8264468",
+      "name": "Ritula Thakur"
+    },
+    {
+      "authorId": "1996257929",
+      "name": "Manish Kumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

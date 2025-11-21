@@ -1,0 +1,171 @@
+{
+  "paperId": "72918abdbce24a703c55ceb434331266daedbd16",
+  "externalIds": {
+    "PubMedCentral": "3231410",
+    "DBLP": "journals/sensors/Sanz-CortiellaL11a",
+    "MAG": "2123986772",
+    "DOI": "10.3390/s110605769",
+    "CorpusId": 14426663,
+    "PubMed": "22163926"
+  },
+  "url": "https://www.semanticscholar.org/paper/72918abdbce24a703c55ceb434331266daedbd16",
+  "title": "Innovative LIDAR 3D Dynamic Measurement System to Estimate Fruit-Tree Leaf Area",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2011,
+  "citationCount": 106,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/11/6/5769/pdf?version=1403315253",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3231410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1405005477",
+      "name": "Ricardo Sanz-Cortiella"
+    },
+    {
+      "authorId": "1405161330",
+      "name": "Jordi Llorens-Calveras"
+    },
+    {
+      "authorId": "3238367",
+      "name": "A. Escolà"
+    },
+    {
+      "authorId": "34843989",
+      "name": "J. Arnó"
+    },
+    {
+      "authorId": "1405005404",
+      "name": "M. Ribes-Dasi"
+    },
+    {
+      "authorId": "1405161786",
+      "name": "Joan Masip-Vilalta"
+    },
+    {
+      "authorId": "48981490",
+      "name": "F. Camp"
+    },
+    {
+      "authorId": "145078456",
+      "name": "F. Gracia"
+    },
+    {
+      "authorId": "6735208",
+      "name": "F. Solanelles"
+    },
+    {
+      "authorId": "2071653007",
+      "name": "Santiago Planas de Martí"
+    },
+    {
+      "authorId": "3490051",
+      "name": "T. P. Cabre"
+    },
+    {
+      "authorId": "3490182",
+      "name": "J. Roca"
+    },
+    {
+      "authorId": "1403150906",
+      "name": "Eduard Gregorio-Lopez"
+    },
+    {
+      "authorId": "1405161295",
+      "name": "Ignacio del-Moral-Martínez"
+    },
+    {
+      "authorId": "50327032",
+      "name": "Joan Ramón Rosell Polo"
+    }
+  ],
+  "abstract": "In this work, a LIDAR-based 3D Dynamic Measurement System is presented and evaluated for the geometric characterization of tree crops. Using this measurement system, trees were scanned from two opposing sides to obtain two three-dimensional point clouds. After registration of the point clouds, a simple and easily obtainable parameter is the number of impacts received by the scanned vegetation. The work in this study is based on the hypothesis of the existence of a linear relationship between the number of impacts of the LIDAR sensor laser beam on the vegetation and the tree leaf area. Tests performed under laboratory conditions using an ornamental tree and, subsequently, in a pear tree orchard demonstrate the correct operation of the measurement system presented in this paper. The results from both the laboratory and field tests confirm the initial hypothesis and the 3D Dynamic Measurement System is validated in field operation. This opens the door to new lines of research centred on the geometric characterization of tree crops in the field of agriculture and, more specifically, in precision fruit growing.",
+  "references": [
+    {
+      "paperId": "dc9edd43ec458ffeb77d1feebb0c82de5d5f44b2"
+    },
+    {
+      "paperId": "30204cd1e8551ddc1d532c20cdb5717f4cfd884f"
+    },
+    {
+      "paperId": "3a749c335d9ab86fcd900b1c670508ad811461f1"
+    },
+    {
+      "paperId": "2c819f3ee55102dfecf413d720916323c0d86ca7"
+    },
+    {
+      "paperId": "abcf4a76e9c278c472cb4a99707bfe1d9c820ec2"
+    },
+    {
+      "paperId": "6c5e69b81ae455838f6c7bb4a1cc703db3c13d58"
+    },
+    {
+      "paperId": "4c1355f6ef1b8f1989a9f1429205174b2f9c8e14"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "23d4e3e5ba45a72e3fdad57dd7178219cd8ffa29"
+    },
+    {
+      "paperId": "338c5e71690a5971c75f951a0348da0cdf44daf1"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "bfa5d5004563755a2b23cb360c1ff776472b84f1"
+    },
+    {
+      "paperId": "f7c00f8f73d9d63bb8de40dcbaee5b8d575cfe3f"
+    },
+    {
+      "paperId": "c63504e43f96c50fae08a2f3948c5db8fb766ea7"
+    },
+    {
+      "paperId": "00d000e7a8730ea773e31c162c591eebafc40d11"
+    },
+    {
+      "paperId": "ac465e0cd262220ddfbd630d4417379d1dc0c8ab"
+    },
+    {
+      "paperId": "426f436f583fef887a11ffe7fe5dff9bf8efaded"
+    },
+    {
+      "paperId": "d4b81b2fd1f339d0ba80dbdd9f5efbe027fca22f"
+    },
+    {
+      "paperId": "2089815d73c05e95b9a03d9cf6b1305216d4c9c7"
+    },
+    {
+      "paperId": "88ef8adfc50b554601836621f30b251fe23594f6"
+    },
+    {
+      "paperId": "4f00cc55e90b006efa88ef3f313bca708f235a1b"
+    },
+    {
+      "paperId": "0f5414255fdd4be035c8de26bb017dc7356b3625"
+    },
+    {
+      "paperId": "a3e8962d66ce92c81c7195c93637c1fce40a6cef"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "e420a488d20c5ad75ac5230fd3ccc3c0b790ecd3",
+  "externalIds": {
+    "MAG": "1498201336",
+    "CorpusId": 56250870
+  },
+  "url": "https://www.semanticscholar.org/paper/e420a488d20c5ad75ac5230fd3ccc3c0b790ecd3",
+  "title": "Review of Agricultural Policy Evolution, Agricultural Data Sources, and Food Supply and Demand Studies in Egypt, A",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "90940506",
+      "name": "I. Soliman"
+    },
+    {
+      "authorId": "5633008",
+      "name": "Jacinto F. Fabiosa"
+    },
+    {
+      "authorId": "119487388",
+      "name": "H. Bassiony"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

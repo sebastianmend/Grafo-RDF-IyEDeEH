@@ -1,0 +1,52 @@
+{
+  "paperId": "330311409e5e655af96bcff8dfff2b0871c82159",
+  "externalIds": {
+    "MAG": "2252403895",
+    "CorpusId": 101767917
+  },
+  "url": "https://www.semanticscholar.org/paper/330311409e5e655af96bcff8dfff2b0871c82159",
+  "title": "A Systematic Review on Main Chemical Constituents of Papaver bracteatum",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7158664",
+      "name": "M. Soleymankhani"
+    },
+    {
+      "authorId": "80232869",
+      "name": "F. Sigaroodi"
+    },
+    {
+      "authorId": "77589712",
+      "name": "R. Hajiaghaee"
+    },
+    {
+      "authorId": "3599884",
+      "name": "H. Badi"
+    },
+    {
+      "authorId": "5526413",
+      "name": "Ali Mehrafarin"
+    },
+    {
+      "authorId": "67245750",
+      "name": "Majid Ghorbani Nohooji"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

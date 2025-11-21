@@ -1,0 +1,45 @@
+{
+  "paperId": "852294db758eb5fab8a54bdf3aa3e91f01174acc",
+  "externalIds": {
+    "MAG": "2069092425",
+    "DOI": "10.1007/s00216-014-8073-4",
+    "CorpusId": 206916040,
+    "PubMed": "25146353"
+  },
+  "url": "https://www.semanticscholar.org/paper/852294db758eb5fab8a54bdf3aa3e91f01174acc",
+  "title": "Online solid phase extraction LC–MS/MS method for the analysis of succinate dehydrogenase inhibitor fungicides and its applicability to surface water samples",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2014,
+  "citationCount": 39,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-014-8073-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-014-8073-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "10303969",
+      "name": "A. Gulkowska"
+    },
+    {
+      "authorId": "10399873",
+      "name": "I. J. Buerge"
+    },
+    {
+      "authorId": "10441361",
+      "name": "T. Poiger"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

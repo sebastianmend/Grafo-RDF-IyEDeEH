@@ -1,0 +1,40 @@
+{
+  "paperId": "9ed51600af6129f1fe707467a2c45ea7bf45797f",
+  "externalIds": {
+    "MAG": "1909668755",
+    "DOI": "10.1002/rcm.6717",
+    "CorpusId": 35033340,
+    "PubMed": "24123643"
+  },
+  "url": "https://www.semanticscholar.org/paper/9ed51600af6129f1fe707467a2c45ea7bf45797f",
+  "title": "Compound-specific δ13 C analysis of monosaccharides from soil extracts by high-performance liquid chromatography/isotope ratio mass spectrometry.",
+  "venue": "Rapid Communications in Mass Spectrometry",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rcm.6717?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rcm.6717, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48962117",
+      "name": "A. Basler"
+    },
+    {
+      "authorId": "4001702",
+      "name": "J. Dyckmans"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

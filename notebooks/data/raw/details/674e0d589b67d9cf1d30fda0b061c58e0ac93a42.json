@@ -1,0 +1,105 @@
+{
+  "paperId": "674e0d589b67d9cf1d30fda0b061c58e0ac93a42",
+  "externalIds": {
+    "MAG": "2163804632",
+    "DOI": "10.5194/ISPRSARCHIVES-XXXIX-B1-393-2012",
+    "CorpusId": 16410450
+  },
+  "url": "https://www.semanticscholar.org/paper/674e0d589b67d9cf1d30fda0b061c58e0ac93a42",
+  "title": "Sensor correction and radiometric calibration of a 6-band multispectral imaging sensor for UAV remote sensing",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 52,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXIX-B1/393/2012/isprsarchives-XXXIX-B1-393-2012.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRSARCHIVES-XXXIX-B1-393-2012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRSARCHIVES-XXXIX-B1-393-2012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3048476",
+      "name": "Joshua Kelcey"
+    },
+    {
+      "authorId": "3344827",
+      "name": "A. Lucieer"
+    }
+  ],
+  "abstract": "Abstract. The increased availability of unmanned aerial vehicles (UAVs) has resulted in their frequent adoption for a growing range of remote sensing tasks which include precision agriculture, vegetation surveying and fine-scale topographic mapping. The development and utilisation of UAV platforms requires broad technical skills covering the three major facets of remote sensing: data acquisition, data post-processing, and image analysis. In this study, UAV image data acquired by a miniature 6-band multispectral imaging sensor was corrected and calibrated using practical image-based data post-processing techniques. Data correction techniques included dark offset subtraction to reduce sensor noise, flat-field derived per-pixel look-up-tables to correct vignetting, and implementation of the Brown- Conrady model to correct lens distortion. Radiometric calibration was conducted with an image-based empirical line model using pseudo-invariant features (PIFs). Sensor corrections and radiometric calibration improve the quality of the data, aiding quantitative analysis and generating consistency with other calibrated datasets.",
+  "references": [
+    {
+      "paperId": "6fbe7d7aef7b24ac99ea1bf58c273323d60f3d1a"
+    },
+    {
+      "paperId": "0f157e74c1d18ccda6ed11b1b8fa62cfa432a386"
+    },
+    {
+      "paperId": "e44142cb69d265f23d1554c7dbe22c95cd504f62"
+    },
+    {
+      "paperId": "289cd8eda507b667192e94f0799f368dc006a132"
+    },
+    {
+      "paperId": "10d986726000e7038b21f6b8a856765127b1d593"
+    },
+    {
+      "paperId": "57e95241b7c79b090dec865eb136db9ea9f5deb8"
+    },
+    {
+      "paperId": "4ff2cab6ead02958bbecedc2a0581567c152d612"
+    },
+    {
+      "paperId": "8f547caac0d2079ba86d1f6ef267c593b01febad"
+    },
+    {
+      "paperId": "409dd68100960b012feed05f93ed3cb262ddb784"
+    },
+    {
+      "paperId": "71a49a994af22a6996460cc1e886569ee858ffd3"
+    },
+    {
+      "paperId": "96978870f9624e5535d7c4865a415627e7328e54"
+    },
+    {
+      "paperId": "c9abf9dd2e524d5ddc43b8063767981dc3ed8fd1"
+    },
+    {
+      "paperId": "89643739d3a4d9cc449b2376bc8be053e298af33"
+    },
+    {
+      "paperId": "9b699afea2c751ef49026cac19a899f169284dfa"
+    },
+    {
+      "paperId": "82f61fe16fc2e6ece22d2040230514ef805a3be5"
+    },
+    {
+      "paperId": "74f1964715861adeb2e5d599156776569273eb86"
+    },
+    {
+      "paperId": "ef63ea1bd53689d4b70fe5b3ea7314c26b842366"
+    },
+    {
+      "paperId": "70e223e48ae22c856780f7f3771fe6bfd287c8b5"
+    },
+    {
+      "paperId": "17fe23ab7ef74fbdb2ae1ac777c9c13f6f778f7a"
+    },
+    {
+      "paperId": "318cf9ee36ef519e450144a6a494dfb09a1be8eb"
+    },
+    {
+      "paperId": "f5a5437191fddea8fd9c844890b1ba165784d5f0"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

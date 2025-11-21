@@ -1,0 +1,39 @@
+{
+  "paperId": "37893e165ec6a0c2f85bb1f3280190ef6aa0068c",
+  "externalIds": {
+    "MAG": "1526322729",
+    "DBLP": "journals/jasis/WillisL13",
+    "DOI": "10.1002/asi.22853",
+    "CorpusId": 301281
+  },
+  "url": "https://www.semanticscholar.org/paper/37893e165ec6a0c2f85bb1f3280190ef6aa0068c",
+  "title": "A random walk on an ontology: Using thesaurus structure for automatic subject indexing",
+  "venue": "J. Assoc. Inf. Sci. Technol.",
+  "year": 2013,
+  "citationCount": 19,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/asi.22853?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/asi.22853, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145336928",
+      "name": "C. Willis"
+    },
+    {
+      "authorId": "1804272",
+      "name": "Robert M. Losee"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

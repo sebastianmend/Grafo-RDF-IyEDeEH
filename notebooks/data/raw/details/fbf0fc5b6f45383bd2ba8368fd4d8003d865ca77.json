@@ -1,0 +1,42 @@
+{
+  "paperId": "fbf0fc5b6f45383bd2ba8368fd4d8003d865ca77",
+  "externalIds": {
+    "MAG": "1970417695",
+    "DOI": "10.1109/ICCSP.2015.7322543",
+    "CorpusId": 16318228
+  },
+  "url": "https://www.semanticscholar.org/paper/fbf0fc5b6f45383bd2ba8368fd4d8003d865ca77",
+  "title": "A smart farming alternative for small Pomegranate farms of India",
+  "venue": "International Conference on Cryptography, Security and Privacy",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSP.2015.7322543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSP.2015.7322543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2334497172",
+      "name": "Tejas Bhosale"
+    },
+    {
+      "authorId": "9409306",
+      "name": "Minakshee M. Patil"
+    },
+    {
+      "authorId": "145796749",
+      "name": "V. Wadhai"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

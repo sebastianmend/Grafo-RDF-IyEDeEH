@@ -1,0 +1,50 @@
+{
+  "paperId": "85f3ca669b8d73cc493d1b23fb973b02775fcd00",
+  "externalIds": {
+    "MAG": "2043204802",
+    "DOI": "10.1109/GHTC-SAS.2013.6629929",
+    "CorpusId": 1468537
+  },
+  "url": "https://www.semanticscholar.org/paper/85f3ca669b8d73cc493d1b23fb973b02775fcd00",
+  "title": "UAV systems for parameter identification in agriculture",
+  "venue": "IEEE Global Humanitarian Technology Conference",
+  "year": 2013,
+  "citationCount": 33,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GHTC-SAS.2013.6629929?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GHTC-SAS.2013.6629929, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2066535654",
+      "name": "Eobin Alex George"
+    },
+    {
+      "authorId": "46774750",
+      "name": "G. Tiwari"
+    },
+    {
+      "authorId": "2352207630",
+      "name": "R N Yadav"
+    },
+    {
+      "authorId": "2073413789",
+      "name": "Edward Peters"
+    },
+    {
+      "authorId": "145453393",
+      "name": "S. Sadana"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

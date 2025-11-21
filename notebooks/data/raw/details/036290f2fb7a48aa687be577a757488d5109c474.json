@@ -1,0 +1,117 @@
+{
+  "paperId": "036290f2fb7a48aa687be577a757488d5109c474",
+  "externalIds": {
+    "MAG": "1488508527",
+    "DOI": "10.5772/13201",
+    "CorpusId": 49236874
+  },
+  "url": "https://www.semanticscholar.org/paper/036290f2fb7a48aa687be577a757488d5109c474",
+  "title": "Variable Rate Herbicide Application Using GPS and Generating a Digital Management Map",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.intechopen.com/citation-pdf-url/13137",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/13201?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/13201, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "147577553",
+      "name": "M. Rashidi"
+    },
+    {
+      "authorId": "70363403",
+      "name": "D. Mohammadzamani"
+    }
+  ],
+  "abstract": "This chapter covers developing a precision method of variable rate application (VRA) for application of cyanazine pre-emergence herbicide which eventuates to save considerable pre-emergence herbicide, reduces its adverse effects on the environment and agricultural products, and increases crop yield. For this purpose a digital management map is generated using the global positioning system (GPS). A field of about 6500 m2 is selected for the grid soil sampling. After that local and Universal Transverse Mercator (UTM) coordinates of the field are determined using total station surveying equipments and four static GPS receivers. Data processing is then accomplished using a personal computer equipped with surveying software. Some soil characteristics such as soil texture and soil organic matter content are also determined by soil sampling and analyzing the soil samples. Five interpolation methods are then used to determine the make-up at other points of the grid. By using Cross Validation method for evaluation of these interpolators and considering manufacture recommendations for cyanazine herbicide application based on soil texture and soil organic matter content, management zones with different herbicide application rates are determined and eventually a digital management map is generated. For implementation of the generated digital management map, a direct injection system is designed and constructed. This system is based on GPS data for positioning of sprayer, comparing the GPS data with digital management map data, measuring of speed, and finally injection of active ingredient inside carrier fluid using solenoid injectors proportionate to any management zone on the digital management map. Using the generated digital management map and equipments of VRA, optimized rate of required herbicide for the selected field is determined. Finally, total required herbicide with VRA is compared with uniform rate application for the entire selected field.",
+  "references": [
+    {
+      "paperId": "78a7c67f73d48323ef77ec53a61749a8e33880c3"
+    },
+    {
+      "paperId": "8a8ddc3d36d892e1f17a0532aa3a1ef388530846"
+    },
+    {
+      "paperId": "e5c79643581607da34d2b1f31cf41c957191d5e5"
+    },
+    {
+      "paperId": "628ad9e4d76e172e5b94b20b78fd47ce7d0fe3a3"
+    },
+    {
+      "paperId": "2ecdc9abdb6adb8b5a8db018ff1c688092a7d625"
+    },
+    {
+      "paperId": "3a49ec39ce491495f9c87f4049c4872e7c4424bc"
+    },
+    {
+      "paperId": "6e3804ed357109a1c1302e1963ed930b70b2c315"
+    },
+    {
+      "paperId": "8e4d97e5e1f89f42c2f6de69fef82ba1cd5cae72"
+    },
+    {
+      "paperId": "fa2ab36b53663b09d6d6bffb641c72bcf554b03d"
+    },
+    {
+      "paperId": "f1aaa342f4969a7a0ae332479190252a57b6236f"
+    },
+    {
+      "paperId": "dee4b9e87db5bfbb6c48fcfa7e7785d2f9131f8d"
+    },
+    {
+      "paperId": "0e5e7966ebe9e9689480e586d356a56d45979cc2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "31268fb4f2027602a399b2ee8dbd31915a3ddd5e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "35488ef0f5152044a744a20fcafdcb34bcae7935"
+    },
+    {
+      "paperId": "d5833603b924b4d75f038a3f2b79c0f9e0cfbd41"
+    },
+    {
+      "paperId": "c7471f16167e73ddc5139d716e15c0ba4cf9291a"
+    }
+  ]
+}

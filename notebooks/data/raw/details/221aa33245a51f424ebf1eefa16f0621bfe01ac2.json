@@ -1,0 +1,52 @@
+{
+  "paperId": "221aa33245a51f424ebf1eefa16f0621bfe01ac2",
+  "externalIds": {
+    "MAG": "2990416683",
+    "DOI": "10.1126/science.1238920",
+    "CorpusId": 39963336,
+    "PubMed": "24264988"
+  },
+  "url": "https://www.semanticscholar.org/paper/221aa33245a51f424ebf1eefa16f0621bfe01ac2",
+  "title": "Constraints on the Late Holocene Anthropogenic Contribution to the Atmospheric Methane Budget",
+  "venue": "Science",
+  "year": 2013,
+  "citationCount": 103,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.1238920?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.1238920, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "11843969",
+      "name": "L. Mitchell"
+    },
+    {
+      "authorId": "10219509",
+      "name": "E. Brook"
+    },
+    {
+      "authorId": "2108528219",
+      "name": "James E. Lee"
+    },
+    {
+      "authorId": "115803092",
+      "name": "C. Buizert"
+    },
+    {
+      "authorId": "3994710",
+      "name": "T. Sowers"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

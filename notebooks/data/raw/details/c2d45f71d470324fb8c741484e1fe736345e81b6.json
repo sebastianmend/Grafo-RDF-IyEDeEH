@@ -1,0 +1,44 @@
+{
+  "paperId": "c2d45f71d470324fb8c741484e1fe736345e81b6",
+  "externalIds": {
+    "MAG": "2395174545",
+    "DOI": "10.3964/J.ISSN.1000-0593(2014)06-1605-05",
+    "CorpusId": 42780443,
+    "PubMed": "25358172"
+  },
+  "url": "https://www.semanticscholar.org/paper/c2d45f71d470324fb8c741484e1fe736345e81b6",
+  "title": "[A novel vegetation index (MPRI) of corn canopy by vehicle-borne dynamic prediction].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3964/J.ISSN.1000-0593(2014)06-1605-05?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3964/J.ISSN.1000-0593(2014)06-1605-05, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2145349268",
+      "name": "Shuqiang Li"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    },
+    {
+      "authorId": "122309082",
+      "name": "Hong Sun"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

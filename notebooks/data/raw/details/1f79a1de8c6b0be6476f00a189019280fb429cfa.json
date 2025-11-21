@@ -1,0 +1,35 @@
+{
+  "paperId": "1f79a1de8c6b0be6476f00a189019280fb429cfa",
+  "externalIds": {
+    "DOI": "10.14720/aas-s.2012.3.19066",
+    "CorpusId": 273865028
+  },
+  "url": "https://www.semanticscholar.org/paper/1f79a1de8c6b0be6476f00a189019280fb429cfa",
+  "title": "Livestock production as a technological and social challenge – Emphasis on sustainability and precision nutrition",
+  "venue": "Acta agriculturae slovenica. Suplement",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.14720/aas-s.2012.3.19066?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14720/aas-s.2012.3.19066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2329466856",
+      "name": "Csaba Szabó"
+    },
+    {
+      "authorId": "2329468743",
+      "name": "Veronika Halas"
+    }
+  ],
+  "abstract": "Feeding the world’s growing population is one of the biggest challenges in the 21st century. As our natural resources are depleting and our nature changing due to the human activity – sustainability is an emerging issue. In short sustainable agriculture means a system which preserves the basis of life of future generations. In the case of animal production this includes the following key areas: providing sustainable feed base, reducing environmental impact, feed and food safety and sustainable intensification. Animal production systems can be intensified throughout the application of precision livestock farming (PLF) systems. As the majority of production expenses related to feed, precision nutrition is a key component in PLF systems. Precision nutrition includes the following principles: use of precise nutrient requirement matrix, use of precise ingredient matrix, proper use of modifiers and feed processing technologies and adjustment of nutrient supply to match requirements of livestock. The aim of this paper is to highlight the current standing and future perspectives of sustainable animal production and precision nutrition.",
+  "references": null
+}

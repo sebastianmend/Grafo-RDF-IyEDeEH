@@ -1,0 +1,39 @@
+{
+  "paperId": "1ce51cd98379cf879dcafc4e04be31d8f5d38bee",
+  "externalIds": {
+    "DBLP": "conf/gecco/BergmannD13",
+    "MAG": "2061831422",
+    "DOI": "10.1145/2463372.2463544",
+    "CorpusId": 13117572
+  },
+  "url": "https://www.semanticscholar.org/paper/1ce51cd98379cf879dcafc4e04be31d8f5d38bee",
+  "title": "Testing of precision agricultural networks for adversary-induced problems",
+  "venue": "Annual Conference on Genetic and Evolutionary Computation",
+  "year": 2013,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2463372.2463544?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2463372.2463544, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39084575",
+      "name": "Karel P. Bergmann"
+    },
+    {
+      "authorId": "1700215",
+      "name": "J. Denzinger"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

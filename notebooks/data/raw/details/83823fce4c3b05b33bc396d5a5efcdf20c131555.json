@@ -1,0 +1,56 @@
+{
+  "paperId": "83823fce4c3b05b33bc396d5a5efcdf20c131555",
+  "externalIds": {
+    "MAG": "1583079645",
+    "CorpusId": 129801015
+  },
+  "url": "https://www.semanticscholar.org/paper/83823fce4c3b05b33bc396d5a5efcdf20c131555",
+  "title": "Conservation Agriculture and Precision Agriculture as a Method to Reduce Energy Consumption in Agricultural Systems",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2074641553",
+      "name": "F. Márquez"
+    },
+    {
+      "authorId": "2112431245",
+      "name": "E. González"
+    },
+    {
+      "authorId": "2068920581",
+      "name": "Sánchez"
+    },
+    {
+      "authorId": "143999920",
+      "name": "J. Agüera"
+    },
+    {
+      "authorId": "133994094",
+      "name": "G. Blanco"
+    },
+    {
+      "authorId": "145950961",
+      "name": "J. Gil"
+    },
+    {
+      "authorId": "2100049536",
+      "name": "Ribes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "dc63ca4885308780df84b43d084a250d396f12ad",
+  "externalIds": {
+    "MAG": "2184833778",
+    "DOI": "10.1109/GCCT.2015.7342672",
+    "CorpusId": 42399447
+  },
+  "url": "https://www.semanticscholar.org/paper/dc63ca4885308780df84b43d084a250d396f12ad",
+  "title": "Cardamom grading — A solution through machine learning techniques",
+  "venue": "Global Conference on Communication Technologies",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCCT.2015.7342672?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCCT.2015.7342672, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30564804",
+      "name": "Renu Mary Jose"
+    },
+    {
+      "authorId": "31032916",
+      "name": "K. S. Sunitha Krishnan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

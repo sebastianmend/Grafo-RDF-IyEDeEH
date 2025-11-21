@@ -1,0 +1,42 @@
+{
+  "paperId": "c979ff6d6efc27368ad2bd4154cbd2c7452ec86b",
+  "externalIds": {
+    "MAG": "2129965493",
+    "DOI": "10.1109/ICETECT.2011.5760290",
+    "CorpusId": 3099008
+  },
+  "url": "https://www.semanticscholar.org/paper/c979ff6d6efc27368ad2bd4154cbd2c7452ec86b",
+  "title": "Real time paddy crop field monitoring using Zigbee network",
+  "venue": "International Conference on Emerging Trends in Electrical and Computer Technology",
+  "year": 2011,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICETECT.2011.5760290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICETECT.2011.5760290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2332152541",
+      "name": "K. Nirmal Kumar"
+    },
+    {
+      "authorId": "2792394",
+      "name": "P. Ranjith"
+    },
+    {
+      "authorId": "3202940",
+      "name": "R. Prabakaran"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

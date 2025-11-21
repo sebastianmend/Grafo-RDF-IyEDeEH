@@ -1,0 +1,50 @@
+{
+  "paperId": "fef1d2545586500dc986b6e25f0a8c96fdd16a3f",
+  "externalIds": {
+    "MAG": "2016436217",
+    "DOI": "10.1109/ICNIDC.2014.7000280",
+    "CorpusId": 14241373
+  },
+  "url": "https://www.semanticscholar.org/paper/fef1d2545586500dc986b6e25f0a8c96fdd16a3f",
+  "title": "A social networks integrated sensor platform for precision agriculture",
+  "venue": "IEEE International Conference on Network Infrastructure and Digital Content",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICNIDC.2014.7000280?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICNIDC.2014.7000280, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2107983235",
+      "name": "Jiajin Zhang"
+    },
+    {
+      "authorId": "2285412567",
+      "name": "Lichang Chen"
+    },
+    {
+      "authorId": "2055810742",
+      "name": "Qingsong Duan"
+    },
+    {
+      "authorId": "2286026851",
+      "name": "Haidong Zhang"
+    },
+    {
+      "authorId": "2285846756",
+      "name": "Yonghua Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

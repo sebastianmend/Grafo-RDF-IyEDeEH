@@ -1,0 +1,38 @@
+{
+  "paperId": "8bfb654f59278b8866e1142e4204c9adca7891c4",
+  "externalIds": {
+    "MAG": "1565257751",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2015.7248145",
+    "CorpusId": 39878705
+  },
+  "url": "https://www.semanticscholar.org/paper/8bfb654f59278b8866e1142e4204c9adca7891c4",
+  "title": "Remote Sensors and mobile technologies for precision agricultural data",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2015.7248145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2015.7248145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "32607660",
+      "name": "I. H. Erden"
+    },
+    {
+      "authorId": "2105195026",
+      "name": "Ozalp Tozan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,158 @@
+{
+  "paperId": "0a2579b3e7328760acaddd2f05f2982c91f8833d",
+  "externalIds": {
+    "DBLP": "journals/sensors/ReinaM12",
+    "PubMedCentral": "3478849",
+    "MAG": "2073083108",
+    "DOI": "10.3390/s120912405",
+    "CorpusId": 425047
+  },
+  "url": "https://www.semanticscholar.org/paper/0a2579b3e7328760acaddd2f05f2982c91f8833d",
+  "title": "Towards Autonomous Agriculture: Automatic Ground Detection Using Trinocular Stereovision",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2012,
+  "citationCount": 59,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/12/9/12405/pdf?version=1403318279",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3478849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3019830",
+      "name": "G. Reina"
+    },
+    {
+      "authorId": "2024268",
+      "name": "A. Milella"
+    }
+  ],
+  "abstract": "Autonomous driving is a challenging problem, particularly when the domain is unstructured, as in an outdoor agricultural setting. Thus, advanced perception systems are primarily required to sense and understand the surrounding environment recognizing artificial and natural structures, topology, vegetation and paths. In this paper, a self-learning framework is proposed to automatically train a ground classifier for scene interpretation and autonomous navigation based on multi-baseline stereovision. The use of rich 3D data is emphasized where the sensor output includes range and color information of the surrounding environment. Two distinct classifiers are presented, one based on geometric data that can detect the broad class of ground and one based on color data that can further segment ground into subclasses. The geometry-based classifier features two main stages: an adaptive training stage and a classification stage. During the training stage, the system automatically learns to associate geometric appearance of 3D stereo-generated data with class labels. Then, it makes predictions based on past observations. It serves as well to provide training labels to the color-based classifier. Once trained, the color-based classifier is able to recognize similar terrain classes in stereo imagery. The system is continuously updated online using the latest stereo readings, thus making it feasible for long range and long duration navigation, over changing environments. Experimental results, obtained with a tractor test platform operating in a rural environment, are presented to validate this approach, showing an average classification precision and recall of 91.0% and 77.3%, respectively.",
+  "references": [
+    {
+      "paperId": "bea878eca72a58f7ed0beb376231bdaeff50aff3"
+    },
+    {
+      "paperId": "3cdedd8cf0853da0fbb8a582023d87b79daec05b"
+    },
+    {
+      "paperId": "c71c5eb9b75702ea17d53211633eabbfd2714165"
+    },
+    {
+      "paperId": "a63161620a6d68ebae9c6b5e0c091fa368bc2ba5"
+    },
+    {
+      "paperId": "4db9cf7a7680985cce7db6dfa5c5c862cf9da133"
+    },
+    {
+      "paperId": "f12765c7a40dd03f91b1d628f24a9daa29227752"
+    },
+    {
+      "paperId": "2d8f527d1a96b0dae209daa6a241cf3255a6ec0d"
+    },
+    {
+      "paperId": "a520b5e0c2cd7b07dd3a3a6bfccf16f67f205933"
+    },
+    {
+      "paperId": "1e093d077f882b6defa68f44f0ff74a4e903d0e8"
+    },
+    {
+      "paperId": "31b8a3b8e8edc33b555cad97bc0f0f35415e5f2d"
+    },
+    {
+      "paperId": "80c31589ad32e63d880e6998fb11b58537fd00e5"
+    },
+    {
+      "paperId": "e7ffa7237f7f292bdb76aabc755d6e4e33b6ca74"
+    },
+    {
+      "paperId": "f4058d45a31e0327cd4fd3c370e5bcb2c9e1732a"
+    },
+    {
+      "paperId": "8df63b8984a68358087d127f2e0de08383761822"
+    },
+    {
+      "paperId": "9e938cf8a74c2e7415bfd10d66a9ea4b1c3e0e15"
+    },
+    {
+      "paperId": "6a636df8c19dd12cf1f5dc40ffc6c7518af89499"
+    },
+    {
+      "paperId": "15d71a34671341b386cd875a2b51341ff5254d5e"
+    },
+    {
+      "paperId": "ae3be9a24c75fc8cfb83bc6ebbd522ae78cf6e65"
+    },
+    {
+      "paperId": "211e8d9b2830bb2c4b977371786eed3e68687c40"
+    },
+    {
+      "paperId": "f354310098e09c1e1dc88758fca36767fd9d084d"
+    },
+    {
+      "paperId": "e41ba5dc12c79a64dfa905c0328f95976252ffe0"
+    },
+    {
+      "paperId": "02e40693b2ba031edaeac3235a6146e66e227402"
+    },
+    {
+      "paperId": "91377b8b0d3cb1bd4530aca845184c8561345799"
+    },
+    {
+      "paperId": "f003a4bb7d7c91fcc6237c17de8d485abcb8d245"
+    },
+    {
+      "paperId": "dc88f77445450cf1109e019be801aefc0cf01491"
+    },
+    {
+      "paperId": "580f3c543b8e2c91704de2dffb9b7f09bfcc3c61"
+    },
+    {
+      "paperId": "e7686acfa8925959e609d1cc339475a14cdf5b99"
+    },
+    {
+      "paperId": "7786bc6c25ba38ff0135f1bdad192f6b3c4ad0b3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a3f5d5efe336d21320837c20ef0ea89c8d3cdd27"
+    },
+    {
+      "paperId": "95a0380ca079da0c17156f687ddc2cfb9b1d5bb7"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "d5c939ed63a65297eba44c2d3ddb9d9d29b75fe5"
+    },
+    {
+      "paperId": "f9377f5b40153583046bb68e4a5165927a67bb06"
+    },
+    {
+      "paperId": "c8c359932d276f5eafcd001bad0138b400132154"
+    },
+    {
+      "paperId": "2d54a33d62255c4abb2a87116c4dca9e73e53800"
+    },
+    {
+      "paperId": "705a18e393c67767adfa6dd971149185fe92e01d"
+    },
+    {
+      "paperId": "66b7eef326d1db1fa2b19d5dc6b84d3d2a95b76c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

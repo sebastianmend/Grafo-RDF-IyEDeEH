@@ -1,0 +1,61 @@
+{
+  "paperId": "9935e355caf1f39fe98d032eb3508f86c669151f",
+  "externalIds": {
+    "MAG": "1532202581",
+    "DBLP": "conf/icra/SouzaMGVCRW15",
+    "DOI": "10.1109/ICRA.2015.7139675",
+    "CorpusId": 11281324
+  },
+  "url": "https://www.semanticscholar.org/paper/9935e355caf1f39fe98d032eb3508f86c669151f",
+  "title": "Automatic detection of Ceratocystis wilt in Eucalyptus crops from aerial images",
+  "venue": "IEEE International Conference on Robotics and Automation",
+  "year": 2015,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICRA.2015.7139675?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICRA.2015.7139675, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2095013870",
+      "name": "Jefferson R. Souza"
+    },
+    {
+      "authorId": "3027730",
+      "name": "C. Mendes"
+    },
+    {
+      "authorId": "9370721",
+      "name": "V. Guizilini"
+    },
+    {
+      "authorId": "3166717",
+      "name": "K. Vivaldini"
+    },
+    {
+      "authorId": "2291661",
+      "name": "A. Colturato"
+    },
+    {
+      "authorId": "145726167",
+      "name": "F. Ramos"
+    },
+    {
+      "authorId": "145007186",
+      "name": "D. Wolf"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

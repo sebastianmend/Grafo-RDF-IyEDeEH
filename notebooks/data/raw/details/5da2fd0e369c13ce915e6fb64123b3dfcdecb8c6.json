@@ -1,0 +1,38 @@
+{
+  "paperId": "5da2fd0e369c13ce915e6fb64123b3dfcdecb8c6",
+  "externalIds": {
+    "MAG": "2025167426",
+    "DOI": "10.9734/AJEA/2013/2326",
+    "CorpusId": 52905605
+  },
+  "url": "https://www.semanticscholar.org/paper/5da2fd0e369c13ce915e6fb64123b3dfcdecb8c6",
+  "title": "Precision farming for small agricultural farm: Indian scenario.",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 31,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.journaljeai.com/index.php/JEAI/article/download/1947/3199",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/AJEA/2013/2326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/AJEA/2013/2326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120700277",
+      "name": "S. Mandal"
+    },
+    {
+      "authorId": "48817298",
+      "name": "A. Maity"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

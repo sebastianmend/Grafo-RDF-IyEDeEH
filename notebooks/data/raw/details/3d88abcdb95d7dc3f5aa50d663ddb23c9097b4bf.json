@@ -1,0 +1,32 @@
+{
+  "paperId": "3d88abcdb95d7dc3f5aa50d663ddb23c9097b4bf",
+  "externalIds": {
+    "MAG": "2564625926",
+    "CorpusId": 133304560
+  },
+  "url": "https://www.semanticscholar.org/paper/3d88abcdb95d7dc3f5aa50d663ddb23c9097b4bf",
+  "title": "Remote sensing of opium poppy cultivation in Afghanistan",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "36681848",
+      "name": "D. Simms"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

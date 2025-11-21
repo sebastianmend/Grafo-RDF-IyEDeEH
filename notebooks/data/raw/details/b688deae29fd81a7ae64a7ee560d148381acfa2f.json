@@ -1,0 +1,45 @@
+{
+  "paperId": "b688deae29fd81a7ae64a7ee560d148381acfa2f",
+  "externalIds": {
+    "MAG": "2069717516",
+    "DBLP": "journals/dss/AubertSG12",
+    "DOI": "10.1016/j.dss.2012.07.002",
+    "CorpusId": 9124615
+  },
+  "url": "https://www.semanticscholar.org/paper/b688deae29fd81a7ae64a7ee560d148381acfa2f",
+  "title": "IT as enabler of sustainable farming: An empirical analysis of farmers' adoption decision of precision agriculture technology",
+  "venue": "Decision Support Systems",
+  "year": 2012,
+  "citationCount": 450,
+  "influentialCitationCount": 30,
+  "openAccessPdf": {
+    "url": "https://publications.aston.ac.uk/id/eprint/40902/11/Schroeder_DSS_2012_1.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.dss.2012.07.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.dss.2012.07.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47167126",
+      "name": "B. Aubert"
+    },
+    {
+      "authorId": "144496871",
+      "name": "A. Schroeder"
+    },
+    {
+      "authorId": "2038502",
+      "name": "Jonathan Grimaudo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

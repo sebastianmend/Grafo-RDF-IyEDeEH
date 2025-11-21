@@ -1,0 +1,146 @@
+{
+  "paperId": "8b4f73c5ab99b4f3d4bc46557a5c8365ac39cc3d",
+  "externalIds": {
+    "MAG": "2083781954",
+    "DOI": "10.2134/jeq2010.0144",
+    "CorpusId": 16704512,
+    "PubMed": "21546672"
+  },
+  "url": "https://www.semanticscholar.org/paper/8b4f73c5ab99b4f3d4bc46557a5c8365ac39cc3d",
+  "title": "Diagnosis of nutrient imbalances with vector analysis in agroforestry systems.",
+  "venue": "Journal of Environmental Quality",
+  "year": 2011,
+  "citationCount": 45,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.2134/jeq2010.0144",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2134/jeq2010.0144?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/jeq2010.0144, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5922671",
+      "name": "M. Isaac"
+    },
+    {
+      "authorId": "3694661",
+      "name": "A. Kimaro"
+    }
+  ],
+  "abstract": "Agricultural intensification has had unintended environmental consequences, including increased nutrient leaching and surface runoff and other agrarian-derived pollutants. Improved diagnosis of on-farm nutrient dynamics will have the advantage of increasing yields and will diminish financial and environmental costs. To achieve this, a management support system that allows for site-specific rapid evaluation of nutrient production imbalances and subsequent management prescriptions is needed for agroecological design. Vector diagnosis, a bivariate model to depict changes in yield and nutritional response simultaneously in a single graph, facilitates identification of nutritional status such as growth dilution, deficiency, sufficiency, luxury uptake, and toxicity. Quantitative data from cocoa agroforestry systems and pigeonpea intercropping trials in Ghana and Tanzania, respectively, were re-evaluated with vector analysis. Relative to monoculture, biomass increase in cocoa ( L.) under shade (35-80%) was accompanied by a 17 to 25% decline in P concentration, the most limiting nutrient on this site. Similarly, increasing biomass with declining P concentrations was noted for pigeonpea [ (L). Millsp.] in response to soil moisture availability under intercropping. Although vector analysis depicted nutrient responses, the current vector model does not consider non-nutrient resource effects on growth, such as ameliorated light and soil moisture, which were particularly active in these systems. We revisit and develop vector analysis into a framework for diagnosing nutrient and non-nutrient interactions in agroforestry systems. Such a diagnostic technique advances management decision-making by increasing nutrient precision and reducing environmental issues associated with agrarian-derived soil contamination.",
+  "references": [
+    {
+      "paperId": "767430f2793d084dae25c85912a4fcfea51c1238"
+    },
+    {
+      "paperId": "5252ec7c70b95cbf1c3fbffb01bfc71aad184ba8"
+    },
+    {
+      "paperId": "2b8cdfb288aa9b65b42d6e06d44422b7ba8bcb80"
+    },
+    {
+      "paperId": "20d4728dd6de3ecc64f89a05c49e86c24bf80a9a"
+    },
+    {
+      "paperId": "5e169b8ffd092d13b154aefed7a754ab1965d426"
+    },
+    {
+      "paperId": "231f4ff82067ffb30e76755e47e0bd47ea456184"
+    },
+    {
+      "paperId": "f2587e6bd7181ae0dbd68e32f58529f1d9401504"
+    },
+    {
+      "paperId": "56a091a7bf07fb74c35beefa4cbf09e9be213494"
+    },
+    {
+      "paperId": "9e2ec79dcd115d3ca63dddc35ca5778c9c7c7d75"
+    },
+    {
+      "paperId": "92b005a00b11f846a72209df76dcaeb6622ed2e5"
+    },
+    {
+      "paperId": "fc41fcd92fdfdf606a3fc63d4cd1f66692bce25b"
+    },
+    {
+      "paperId": "3c294fbadaa04cbad601368f7dfb221dabaa26b4"
+    },
+    {
+      "paperId": "6e5cd3f724ce8a5e07a2a07f5062551de51a0a59"
+    },
+    {
+      "paperId": "71052fbb53e2261cc793abb4a1ced95794e696c9"
+    },
+    {
+      "paperId": "c409d5e224c5b629856fb7674dec15151436a184"
+    },
+    {
+      "paperId": "da6f76f73061e77124255f95f260d2648598538b"
+    },
+    {
+      "paperId": "cbebf7dbcb48041ec8176ae0b03dfdb2412e4489"
+    },
+    {
+      "paperId": "d571963a597742e6aa80f43db9446517501b3e20"
+    },
+    {
+      "paperId": "ae35acb3817f9364fb6e4e3c8b29dbb18dab3c98"
+    },
+    {
+      "paperId": "a369a6796ca6d700d4cd8c739ecd7e3ae22bb48b"
+    },
+    {
+      "paperId": "98971fdb1594e8a7daad331956e1091d794e35b8"
+    },
+    {
+      "paperId": "cbfd9aae5922fd7c36979c43124ce92d22854bf3"
+    },
+    {
+      "paperId": "c76c84ebb994137758ac0443b968d6228b5f3aa4"
+    },
+    {
+      "paperId": "d4257c1a9895b1f95ffe9c63b6e0f1160bbdc650"
+    },
+    {
+      "paperId": "fa73ea3c183440d66b62b70bebc7cdecd58900c2"
+    },
+    {
+      "paperId": "6fdb3ec5ef26136ae7f1701dff474fe3348673df"
+    },
+    {
+      "paperId": "81827ce34bfd1d55d7730e67906090c61488b542"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "caa3331039914e9541bf9d3df1fc925f6ea36c4f"
+    },
+    {
+      "paperId": "bd0c00a917b7a642aa24a215a2cbb725a71bae5b"
+    },
+    {
+      "paperId": "5b7c7dd7377136f06e89628e8a33c282703273ed"
+    },
+    {
+      "paperId": "7dcfa041256c381f55814b47ed46e57c26909d0c"
+    },
+    {
+      "paperId": "8b2d60207ad2379b274dc1feca21006d9f954c76"
+    },
+    {
+      "paperId": "7c04be48b5824dc3c61a62b78881926fdb64ff8f"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

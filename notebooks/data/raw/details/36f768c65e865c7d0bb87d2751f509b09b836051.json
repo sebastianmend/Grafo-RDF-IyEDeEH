@@ -1,0 +1,45 @@
+{
+  "paperId": "36f768c65e865c7d0bb87d2751f509b09b836051",
+  "externalIds": {
+    "MAG": "2151099907",
+    "DOI": "10.1039/c0em00550a",
+    "CorpusId": 36150113,
+    "PubMed": "21206945"
+  },
+  "url": "https://www.semanticscholar.org/paper/36f768c65e865c7d0bb87d2751f509b09b836051",
+  "title": "High throughput analysis of solid-bound endocrine disruptors by LDTD-APCI-MS/MS.",
+  "venue": "Journal of Environmental Monitoring",
+  "year": 2011,
+  "citationCount": 58,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1039/c0em00550a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/c0em00550a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "16206804",
+      "name": "L. Viglino"
+    },
+    {
+      "authorId": "145793163",
+      "name": "M. Prévost"
+    },
+    {
+      "authorId": "144427981",
+      "name": "S. Sauvé"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

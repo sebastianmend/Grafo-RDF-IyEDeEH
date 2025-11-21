@@ -1,0 +1,53 @@
+{
+  "paperId": "666137eb23a5c4a19b3ab56b181d027d60e2351a",
+  "externalIds": {
+    "MAG": "2257467997",
+    "DOI": "10.1017/S0022029916000017",
+    "CorpusId": 44649801,
+    "PubMed": "26869106"
+  },
+  "url": "https://www.semanticscholar.org/paper/666137eb23a5c4a19b3ab56b181d027d60e2351a",
+  "title": "Genetically engineering milk",
+  "venue": "Journal of Dairy Research",
+  "year": 2016,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.pure.ed.ac.uk/ws/files/24340427/genetically_engineering_milk_accepted_manuscript.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0022029916000017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0022029916000017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2243710290",
+      "name": "C. B. A. Whitelaw"
+    },
+    {
+      "authorId": "2615100",
+      "name": "A. Joshi"
+    },
+    {
+      "authorId": "2005362140",
+      "name": "Satish Kumar"
+    },
+    {
+      "authorId": "5291970",
+      "name": "S. Lillico"
+    },
+    {
+      "authorId": "123837721",
+      "name": "C. Proudfoot"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

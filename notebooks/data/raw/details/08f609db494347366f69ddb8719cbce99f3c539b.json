@@ -1,0 +1,291 @@
+{
+  "paperId": "08f609db494347366f69ddb8719cbce99f3c539b",
+  "externalIds": {
+    "MAG": "1628727861",
+    "DOI": "10.2147/IJWR.S69405",
+    "CorpusId": 54803571
+  },
+  "url": "https://www.semanticscholar.org/paper/08f609db494347366f69ddb8719cbce99f3c539b",
+  "title": "Technology in precision viticulture: a state of the art review",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 175,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://www.dovepress.com/getfile.php?fileID=25086",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2147/IJWR.S69405?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2147/IJWR.S69405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4690368",
+      "name": "A. Matese"
+    },
+    {
+      "authorId": "93097819",
+      "name": "S. F. D. Gennaro"
+    }
+  ],
+  "abstract": "Precision viticulture aims to maximize the oenological potential of vineyards. This is especially true in regions where the high quality standards of wine production justify the adoption of site-specific management practices to simultaneously increase both quality and yield. The introduction of new technologies for supporting vineyard management allows the efficiency and quality of production to be improved and, at the same time, reduces the environmental impact. The rapid evolution of information communication technologies and geographical science offers enormous potential for the development of optimized solutions for distributed information for precision viticulture. Recent technological developments have allowed useful tools to be elaborated that help in the monitoring and control of many aspects of vine growth. Precision viticulture thus seeks to exploit the widest range of available observations to describe the vineyard spatial variability with high resolution, and provide recommendations to improve management efficiency in terms of quality, production, and sustainability. This review presents a brief outline of state of the art of technologies in precision viticulture. It is divided in two sections, the first focusing on monitoring technologies such as geolocating and remote and proximal sensing; the second focuses on variable-rate technologies and the new agricultural robots.",
+  "references": [
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "adcb20357a1d008ff29746173bbdb46c130c5864"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "314c1ab8e9ec1b9776d5a69c4309f135c3f430bf"
+    },
+    {
+      "paperId": "2cac965f5776080d8719ed775479541fb54ac88e"
+    },
+    {
+      "paperId": "4a06f0f0d643f023411ab79d6a34f756737a6b8a"
+    },
+    {
+      "paperId": "5e36ae687bafb09b3ce5320306d344e8163f1f94"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "dd8ee80411624ef7942a03436a4aa300e2aea624"
+    },
+    {
+      "paperId": "f24a59d202c6766c90652616d3a83d3c6a954805"
+    },
+    {
+      "paperId": "36ac44165e6677ea1b880c1347d572d500ae3d5a"
+    },
+    {
+      "paperId": "620ed27b14a35c98eb121286716fd4d0180eea99"
+    },
+    {
+      "paperId": "a1e8da5ac07a28342e0e456f02dff82c7ee8e750"
+    },
+    {
+      "paperId": "b506638c650c1ab84277f5d664f45dea5e997b2f"
+    },
+    {
+      "paperId": "9b6da9fbe726b0f1c63681d179c8db751cbff8bd"
+    },
+    {
+      "paperId": "10b60e4c200064d2856d3c3cd1620c1ea726e5ce"
+    },
+    {
+      "paperId": "d3171e9797fad981c3c62452cb0bf2735bf32c04"
+    },
+    {
+      "paperId": "43acc6865676dbd54e9cfcc75e527a679f8a22ab"
+    },
+    {
+      "paperId": "22270a6836fb3eca6749b20067d6ee4173f4ddd6"
+    },
+    {
+      "paperId": "1346bcd87b7e94902d5bf9f39597d24ac82780bc"
+    },
+    {
+      "paperId": "aa3032973495336ace016fc49fe93f114a2a1ce3"
+    },
+    {
+      "paperId": "3b157cb40ecd590129ff73845e241c79b675d480"
+    },
+    {
+      "paperId": "fd8ab22e4d06c11a004143ff12f02cff8c57c278"
+    },
+    {
+      "paperId": "08586287a940c885c72b066f5c05451111a37bf2"
+    },
+    {
+      "paperId": "27988b1b7299cd02eb4548f7b877bb883c4cfc90"
+    },
+    {
+      "paperId": "fea221564330018a662933fcf20fd072b4c727a9"
+    },
+    {
+      "paperId": "63051fc165b64e2151dfbe7da248305d46c62b5f"
+    },
+    {
+      "paperId": "1e26b6e9cd034ebd5b0a6f50b1e13c2bfb2bc62c"
+    },
+    {
+      "paperId": "9d60d1a8092f22a721112accd3f094c72971d9c2"
+    },
+    {
+      "paperId": "fbd977b15ee792bc73a769d43d6f41d159ff217d"
+    },
+    {
+      "paperId": "386fef3e4ddbd9595640e6ebc595adfdb2f1035e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "77a4fcea994d17d2a9d83b2007118c2b2e6edd84"
+    },
+    {
+      "paperId": "a41a72faf6f7d64872710a41578fb3bfabc3918f"
+    },
+    {
+      "paperId": "fcd789504d0caf043abacd6665cca8d6149eb190"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "50c8fdb2aff836fe6d7198bdc9292f2a3cea5ad1"
+    },
+    {
+      "paperId": "28b45b8034d32093cacfef8e13d66342c2bb5e9d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cff2907862ac25287617878b0e032527a646193f"
+    },
+    {
+      "paperId": "4024173d6751d9c63360c90e1218cd9ae4382922"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5037f4d55022b11427a57ddc1c4fa1c3a347a450"
+    },
+    {
+      "paperId": "e86d7befd3a8b82e0f8cddc6ecc4b9c571233f7e"
+    },
+    {
+      "paperId": "bdd7ad027c773b2a1bf53d865b92c0a7199a6da1"
+    },
+    {
+      "paperId": "c64bbb98db52ee6e4479aaf090dcd8c8727a72be"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "47b8d3acc23c8cfe812ffa96fddf8c51957965da"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "06a73a5e85fbe26f9bbd565c6f99a7188cf305f9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

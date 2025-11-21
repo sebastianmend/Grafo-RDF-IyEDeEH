@@ -1,0 +1,63 @@
+{
+  "paperId": "319905fda1e8d17a8c2fdc60489362cd3bb90299",
+  "externalIds": {
+    "DOI": "10.9734/jsrr/2024/v30i82263",
+    "CorpusId": 271587906
+  },
+  "publicationVenue": {
+    "id": "8ed14485-e8fd-4af5-949b-d92a91b46a2b",
+    "name": "Journal of Scientific Research and Reports",
+    "type": "journal",
+    "alternate_names": [
+      "J Sci Res Rep"
+    ],
+    "issn": "2320-0227",
+    "url": "http://www.sciencedomain.org/about-journal.php?id=22",
+    "alternate_urls": [
+      "http://www.sciencedomain.org/journal-home.php?id=22"
+    ]
+  },
+  "url": "https://www.semanticscholar.org/paper/319905fda1e8d17a8c2fdc60489362cd3bb90299",
+  "title": "Revolutionizing Agriculture: Innovative Techniques, Applications, and Future Prospects in Precision Farming",
+  "year": 2024,
+  "citationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jsrr/2024/v30i82263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jsrr/2024/v30i82263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "authors": [
+    {
+      "authorId": "2314030434",
+      "name": "Somashekar K S"
+    },
+    {
+      "authorId": "2314041267",
+      "name": "Moinuddin"
+    },
+    {
+      "authorId": "2292536063",
+      "name": "Ningaraj Belagalla"
+    },
+    {
+      "authorId": "2297420391",
+      "name": "S. T. N."
+    },
+    {
+      "authorId": "2296635795",
+      "name": "G. Abhishek"
+    },
+    {
+      "authorId": "2271878263",
+      "name": "Vikas Kumar"
+    },
+    {
+      "authorId": "2270050335",
+      "name": "Anjali Tiwari"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) represents a transformative approach to farming, employing advanced technologies to enhance productivity, efficiency, and sustainability. This review article provides an in depth analysis of the latest innovations in PA techniques, their diverse applications, and future directions. Precision agriculture is revolutionizing the agricultural landscape by integrating sophisticated tools such as GPS, remote sensing, Internet of Things (IoT), and big data analytics. These technologies enable farmers to monitor and manage variability in crop  production meticulously, optimize the use of inputs, and enhance overall farm management practices. The key innovations in PA include the development and application of Geographic Information Systems (GIS) and Global Positioning Systems (GPS), which facilitate accurate mapping and variable rate technology (VRT) for site specific input management. Remote sensing technologies, encompassing both satellite imagery and UAVs (unmanned aerial vehicles), provide critical insights into crop health, soil conditions, and weather patterns, allowing for proactive and informed decision making. The integration of IoT in agriculture involves deploying sensors and connected devices to monitor soil moisture, temperature, and other environmental parameters in real time. This integration supports precision irrigation, climate monitoring, and efficient resource utilization. Big data analytics further enhances PA by processing vast amounts of data to generate actionable insights, enabling predictive analytics and decision support systems (DSS) that aid in optimizing farming operations. The article explores the applications of these advanced techniques in crop management, resource use optimization, and environmental stewardship. Examples include variable rate application of fertilizers, precision irrigation systems, and automated machinery such as drones and robotic harvesters. These innovations lead to significant improvements in crop yields, resource efficiency, and sustainability. Moreover, the review addresses the challenges associated with the adoption and implementation of PA technologies. These challenges include data management complexities, high initial costs, limited accessibility, and the need for technical expertise. The article discusses potential solutions such as cloud computing, machine learning algorithms, government subsidies, collaborative models, and comprehensive training programs to mitigate these barriers, the review highlights the integration of advanced technologies like artificial intelligence (AI), blockchain, and enhanced connectivity through 5G networks as pivotal developments that will further revolutionize precision agriculture. AI and machine learning will enhance predictive modeling and automated decision making, while blockchain will ensure transparency and traceability in supply chains. Enhanced connectivity will facilitate  real time monitoring and collaborative platforms, driving efficiency and innovation in farming practices.",
+  "references": null
+}

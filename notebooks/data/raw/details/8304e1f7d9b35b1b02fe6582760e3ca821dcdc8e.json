@@ -1,0 +1,39 @@
+{
+  "paperId": "8304e1f7d9b35b1b02fe6582760e3ca821dcdc8e",
+  "externalIds": {
+    "MAG": "1967613067",
+    "DOI": "10.1109/SCAT.2014.7055144",
+    "CorpusId": 18727880
+  },
+  "url": "https://www.semanticscholar.org/paper/8304e1f7d9b35b1b02fe6582760e3ca821dcdc8e",
+  "title": "Deployment of wireless sensor networks (WSN) in automated irrigation management and scheduling systems: a review",
+  "venue": "International Conference on Parallel Architectures and Compilation Techniques",
+  "year": 2014,
+  "citationCount": 54,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SCAT.2014.7055144?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SCAT.2014.7055144, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "21232384",
+      "name": "J. Haule"
+    },
+    {
+      "authorId": "8165279",
+      "name": "Kisangiri Michael"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

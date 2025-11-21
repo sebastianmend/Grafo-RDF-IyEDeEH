@@ -1,0 +1,52 @@
+{
+  "paperId": "3b0ec387efd33c95d96b045f66bda8ce12bf85ba",
+  "externalIds": {
+    "MAG": "2132552443",
+    "CorpusId": 49523255
+  },
+  "url": "https://www.semanticscholar.org/paper/3b0ec387efd33c95d96b045f66bda8ce12bf85ba",
+  "title": "Herbicide tolerance genes derived from bacteria",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48628940",
+      "name": "Y. Kaya"
+    },
+    {
+      "authorId": "4061798",
+      "name": "S. Maraklı"
+    },
+    {
+      "authorId": "90688891",
+      "name": "N. Gozikirmizi"
+    },
+    {
+      "authorId": "144702376",
+      "name": "E. Mohamed"
+    },
+    {
+      "authorId": "47238023",
+      "name": "M. Javed"
+    },
+    {
+      "authorId": "48442701",
+      "name": "F. Huyop"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

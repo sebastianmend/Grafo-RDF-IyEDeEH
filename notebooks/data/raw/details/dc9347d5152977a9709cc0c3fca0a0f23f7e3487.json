@@ -1,0 +1,50 @@
+{
+  "paperId": "dc9347d5152977a9709cc0c3fca0a0f23f7e3487",
+  "externalIds": {
+    "MAG": "2597893365",
+    "DOI": "10.18260/1-2--17278",
+    "CorpusId": 55124689
+  },
+  "url": "https://www.semanticscholar.org/paper/dc9347d5152977a9709cc0c3fca0a0f23f7e3487",
+  "title": "Active Learning Projects in a Minority Serving Land Grant University Address Engineering Challenges in Sustainable Agriculture and Environmental Stewardship",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://peer.asee.org/17278.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.18260/1-2--17278?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18260/1-2--17278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1890552",
+      "name": "A. Nagchaudhuri"
+    },
+    {
+      "authorId": "143811816",
+      "name": "E. Yılmaz"
+    },
+    {
+      "authorId": "2529128",
+      "name": "C. Daughtry"
+    },
+    {
+      "authorId": "39980238",
+      "name": "G. Bland"
+    },
+    {
+      "authorId": "8711987",
+      "name": "M. Mitra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "3d14b973d89ef867849762e999061b4957a4ed1d",
+  "externalIds": {
+    "MAG": "1977182628",
+    "DOI": "10.1109/ICCSE.2010.5593760",
+    "CorpusId": 15576015
+  },
+  "url": "https://www.semanticscholar.org/paper/3d14b973d89ef867849762e999061b4957a4ed1d",
+  "title": "Research of virtual plant growth model based on neural network",
+  "venue": "International Conference on Crowd Science and Engineering",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSE.2010.5593760?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSE.2010.5593760, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9162187",
+      "name": "Liu Xuning"
+    },
+    {
+      "authorId": "9425379",
+      "name": "He Dongbin"
+    },
+    {
+      "authorId": "90057087",
+      "name": "S. Jianwei"
+    },
+    {
+      "authorId": "2114157973",
+      "name": "Yang Hao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "5fa35923a47cc6e7f97a03452a4ef0161a70a7ff",
+  "externalIds": {
+    "MAG": "2059206065",
+    "DOI": "10.1007/s11119-010-9182-5",
+    "CorpusId": 28162022
+  },
+  "url": "https://www.semanticscholar.org/paper/5fa35923a47cc6e7f97a03452a4ef0161a70a7ff",
+  "title": "Special issue of papers from the 7th European Conference on Precision Agriculture (ECPA)",
+  "venue": "Precision Agriculture",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11119-010-9182-5.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-010-9182-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-010-9182-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145009405",
+      "name": "M. Oliver"
+    },
+    {
+      "authorId": "31791553",
+      "name": "J. Stafford"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

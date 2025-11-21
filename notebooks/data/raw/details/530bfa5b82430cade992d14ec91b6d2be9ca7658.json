@@ -1,0 +1,52 @@
+{
+  "paperId": "530bfa5b82430cade992d14ec91b6d2be9ca7658",
+  "externalIds": {
+    "MAG": "1652041336",
+    "CorpusId": 20707598
+  },
+  "url": "https://www.semanticscholar.org/paper/530bfa5b82430cade992d14ec91b6d2be9ca7658",
+  "title": "The design and field application of high-resolution pushbroom imaging spectrometer",
+  "venue": "Proceedings of the 29th Chinese Control Conference",
+  "year": 2010,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2116289798",
+      "name": "Quan Zhou"
+    },
+    {
+      "authorId": "2110867426",
+      "name": "Gang Wu"
+    },
+    {
+      "authorId": "2116273467",
+      "name": "Qiuping Wang"
+    },
+    {
+      "authorId": "2113915079",
+      "name": "Chun Shi"
+    },
+    {
+      "authorId": "2054671806",
+      "name": "Yajun Tong"
+    },
+    {
+      "authorId": "2116417199",
+      "name": "Zhihong Ma"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

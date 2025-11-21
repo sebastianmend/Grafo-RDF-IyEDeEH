@@ -1,0 +1,52 @@
+{
+  "paperId": "026c166fa9a65720c0634c5a55aed9a5bd41d413",
+  "externalIds": {
+    "DBLP": "conf/pci/TagarakisLPFG11",
+    "MAG": "2137480183",
+    "DOI": "10.1109/PCI.2011.60",
+    "CorpusId": 15985772
+  },
+  "url": "https://www.semanticscholar.org/paper/026c166fa9a65720c0634c5a55aed9a5bd41d413",
+  "title": "Wireless Sensor Network for Precision Agriculture",
+  "venue": "Panhellenic Conference on Informatics",
+  "year": 2011,
+  "citationCount": 67,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PCI.2011.60?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PCI.2011.60, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50742688",
+      "name": "A. Tagarakis"
+    },
+    {
+      "authorId": "2094846076",
+      "name": "Vasilis Liakos"
+    },
+    {
+      "authorId": "3057525",
+      "name": "L. Perlepes"
+    },
+    {
+      "authorId": "15315211",
+      "name": "S. Fountas"
+    },
+    {
+      "authorId": "3040491",
+      "name": "T. Gemtos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

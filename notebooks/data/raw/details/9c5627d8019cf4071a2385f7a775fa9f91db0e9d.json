@@ -1,0 +1,74 @@
+{
+  "paperId": "9c5627d8019cf4071a2385f7a775fa9f91db0e9d",
+  "externalIds": {
+    "MAG": "1981909181",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910584",
+    "CorpusId": 2342267
+  },
+  "url": "https://www.semanticscholar.org/paper/9c5627d8019cf4071a2385f7a775fa9f91db0e9d",
+  "title": "Estimating rice nitrogen status using active canopy sensor crop circle 430 in Northeast China",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910584?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910584, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "25975680",
+      "name": "Jianning Shen"
+    },
+    {
+      "authorId": "1953258",
+      "name": "Y. Miao"
+    },
+    {
+      "authorId": "2057766609",
+      "name": "Q. Cao"
+    },
+    {
+      "authorId": "2049442418",
+      "name": "Hongye Wang"
+    },
+    {
+      "authorId": "48729566",
+      "name": "Weifeng Yu"
+    },
+    {
+      "authorId": "2122826288",
+      "name": "Shanshan Hu"
+    },
+    {
+      "authorId": "14860773",
+      "name": "Hai-yong Wu"
+    },
+    {
+      "authorId": "49301746",
+      "name": "Junjun Lu"
+    },
+    {
+      "authorId": "2109687924",
+      "name": "Xiaoyi Hu"
+    },
+    {
+      "authorId": "49230603",
+      "name": "Wen Yang"
+    },
+    {
+      "authorId": "5648810",
+      "name": "Fengyan Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

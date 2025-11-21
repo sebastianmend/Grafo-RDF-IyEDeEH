@@ -1,0 +1,44 @@
+{
+  "paperId": "a3404a8a561007ab4c8fdec51307e60c1403e04d",
+  "externalIds": {
+    "MAG": "1990889196",
+    "DBLP": "conf/icdcsw/JaoSW13",
+    "DOI": "10.1109/ICDCSW.2013.10",
+    "CorpusId": 14443002
+  },
+  "url": "https://www.semanticscholar.org/paper/a3404a8a561007ab4c8fdec51307e60c1403e04d",
+  "title": "A Prototype Wireless Sensor Network for Precision Agriculture",
+  "venue": "2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops",
+  "year": 2013,
+  "citationCount": 17,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDCSW.2013.10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDCSW.2013.10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "29812218",
+      "name": "J. Jao"
+    },
+    {
+      "authorId": "145986717",
+      "name": "Bo Sun"
+    },
+    {
+      "authorId": "46174781",
+      "name": "Kui Wu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

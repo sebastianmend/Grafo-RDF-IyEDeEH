@@ -1,0 +1,39 @@
+{
+  "paperId": "c6402316c0d44891ced3f65964081187d5f50b08",
+  "externalIds": {
+    "DOI": "10.1007/s13593-012-0111-z",
+    "CorpusId": 256199508
+  },
+  "url": "https://www.semanticscholar.org/paper/c6402316c0d44891ced3f65964081187d5f50b08",
+  "title": "Precision nitrogen management of wheat. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2012,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-01201355/file/13593_2012_Article_111.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-012-0111-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-012-0111-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5959597",
+      "name": "M. Diacono"
+    },
+    {
+      "authorId": "48222297",
+      "name": "P. Rubino"
+    },
+    {
+      "authorId": "3883648",
+      "name": "F. Montemurro"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

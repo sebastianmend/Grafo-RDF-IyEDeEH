@@ -1,0 +1,280 @@
+{
+  "paperId": "d874fa8ad1f95a036ba6c27dd4aa872951a6963d",
+  "externalIds": {
+    "MAG": "2054267561",
+    "DBLP": "journals/remotesensing/PandaHP10",
+    "DOI": "10.3390/rs2081973",
+    "CorpusId": 16463750
+  },
+  "url": "https://www.semanticscholar.org/paper/d874fa8ad1f95a036ba6c27dd4aa872951a6963d",
+  "title": "Remote Sensing and Geospatial Technological Applications for Site-specific Management of Fruit and Nut Crops: A Review",
+  "venue": "Remote Sensing",
+  "year": 2010,
+  "citationCount": 64,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/2/8/1973/pdf?version=1403129188",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs2081973?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs2081973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2100774",
+      "name": "S. Panda"
+    },
+    {
+      "authorId": "144497932",
+      "name": "G. Hoogenboom"
+    },
+    {
+      "authorId": "39453874",
+      "name": "J. Paz"
+    }
+  ],
+  "abstract": "Site-specific crop management (SSCM) is one facet of precision agriculture which is helping increase production with minimal input. It has enhanced the cost-benefit scenario in crop production. Even though the SSCM is very widely used in row crop agriculture like corn, wheat, rice, soybean, etc. it has very little application in cash crops like fruit and nut. The main goal of this review paper was to conduct a comprehensive review of advanced technologies, including geospatial technologies, used in site-specific management of fruit and nut crops. The review explores various remote sensing data from different platforms like satellite, LIDAR, aerial, and field imaging. The study analyzes the use of satellite sensors, such as Quickbird, Landsat, SPOT, and IRS imagery as well as hyperspectral narrow-band remote sensing data in study of fruit and nut crops in blueberry, citrus, peach, apple, etc. The study also explores other geospatial technologies such as GPS, GIS spatial modeling, advanced image processing techniques, and information technology for suitability study, orchard delineation, and classification accuracy assessment. The study also provides an example of a geospatial model developed in ArcGIS ModelBuilder to automate the blueberry production suitability analysis. The GIS spatial model is developed using various crop characteristics such as chilling hours, soil permeability, drainage, and pH, and land cover to determine the best sites for growing blueberry in Georgia, U.S. The study also provides a list of spectral reflectance curves developed for some fruit and nut crops, blueberry, crowberry, redblush citrus, orange, prickly pear, and peach. The study also explains these curves in detail to help researchers choose the image platform, sensor, and spectrum wavelength for various fruit and nut crops SSCM.",
+  "references": [
+    {
+      "paperId": "ffbd49d613cbd9b75ac0017c12d881f83a408d89"
+    },
+    {
+      "paperId": "6a33b293402e4bfa91e5088a62b870e3cf65ff0e"
+    },
+    {
+      "paperId": "e528f1aa2b772d9bbe629907b7986a0349096915"
+    },
+    {
+      "paperId": "89ed374df4cae00929993d54bc676713d8658df4"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "b151ba3324c5f2278e330fc8a191ccc92ca1f0fe"
+    },
+    {
+      "paperId": "10e423f8414a7af6001fd58b6817a6d0b699ab45"
+    },
+    {
+      "paperId": "62b59ad68a4595f63e811bf89b24bd78d409dfe3"
+    },
+    {
+      "paperId": "239034018aacd374c4b23f62062c788fc9233998"
+    },
+    {
+      "paperId": "ea67fa9786757d84b6264264bf5f4f87818d2632"
+    },
+    {
+      "paperId": "169d5ea5152154975bf19ac54d1e21fc80753a00"
+    },
+    {
+      "paperId": "6f48affb2076cbdb4fdf0adf389be8802fc3e403"
+    },
+    {
+      "paperId": "4743447416c91d11bf2209562e6b7a5d72962d08"
+    },
+    {
+      "paperId": "c762977b5a30563a7363ae965f14c719ccf6d7a3"
+    },
+    {
+      "paperId": "f4ee248bbdc18ff78447a91ef298b32165e30b81"
+    },
+    {
+      "paperId": "2375986751ab26b325a6f919324c13bb1f5f980c"
+    },
+    {
+      "paperId": "6fb48d4956606e3c73235dca2eca333fe6374cb3"
+    },
+    {
+      "paperId": "7fb26856879ab7ffd27c74f6232da784be7f4516"
+    },
+    {
+      "paperId": "8792e78f1d77b4874ebf7e9dbda486a2311bf0ea"
+    },
+    {
+      "paperId": "59d925ed03680915ff00874e713060cf7385c707"
+    },
+    {
+      "paperId": "291e74171c37ea582ad9081a8df0a8556c790919"
+    },
+    {
+      "paperId": "7d9eba1047bb18e16f2c40edecd69fc051a3ee6c"
+    },
+    {
+      "paperId": "828f753c38841dbf640d53bdd03473999690049c"
+    },
+    {
+      "paperId": "744cef615529044e7c60660a8f55b071b01b383c"
+    },
+    {
+      "paperId": "d2c1d8ffcbb8599c6a0eb6c24f5d3a51bbcc2dc2"
+    },
+    {
+      "paperId": "db2d3bbad3688b801b260cbab651d0974c8fe532"
+    },
+    {
+      "paperId": "86277cad6c577bc540c7ce45c6c85ec73211c073"
+    },
+    {
+      "paperId": "6ddc5ed55f64406deef4055aa88c9dc3fa57ddcf"
+    },
+    {
+      "paperId": "4ecc2d0d08a6a1eb0a8bdf6e2239b6bc8ec0a932"
+    },
+    {
+      "paperId": "8a9a1713e58a8d2646109a272cdf60ba86cc8765"
+    },
+    {
+      "paperId": "8ff7b7cf3849640b7cfb8f08e2946fd151fed34c"
+    },
+    {
+      "paperId": "ad4cac0eb74480a60ac781ca3cc5c8b7f0562bfa"
+    },
+    {
+      "paperId": "aaea302123291f5e2486f53b227ce7d0aab7e360"
+    },
+    {
+      "paperId": "a1f1f96fb60d87c97ae9b84c60c20c5adb927dc4"
+    },
+    {
+      "paperId": "13ebfcbeffe0de3634e579d2ffaefbde0aa6c160"
+    },
+    {
+      "paperId": "4371c9cb6e8731f7d5f975dc4f2e5f50e85cdbb6"
+    },
+    {
+      "paperId": "f68b03dea8036ddc57ba79c8c593dd026621973e"
+    },
+    {
+      "paperId": "3892f178d29ddb07fe86061af5566952476499b6"
+    },
+    {
+      "paperId": "b655aca6bbfb7e7c4c9fbe8cc8726aef96142374"
+    },
+    {
+      "paperId": "5c8003133baf855b057b496cc33b79ff6b33ffa2"
+    },
+    {
+      "paperId": "ac2844881ce41f569b2f0354699fa769c8ea69a6"
+    },
+    {
+      "paperId": "2634296223ce455f56af7d6da4f61e30e654d429"
+    },
+    {
+      "paperId": "3a09558f85fd20236c0622572ba3b65a353f53b4"
+    },
+    {
+      "paperId": "c39322b569f525901a529cac357d43f70e2b004f"
+    },
+    {
+      "paperId": "10cebf9bd1b737c48869c7e90abda904d43cc7e7"
+    },
+    {
+      "paperId": "fd3ac3ef1e7472737da27f18bd392d440b91ca3e"
+    },
+    {
+      "paperId": "d22f713a256e5ee4ff70420fd1a5cbad73dcddff"
+    },
+    {
+      "paperId": "bc24e2beb08ef5460fd8ee5f093b0fb0ddec9ab6"
+    },
+    {
+      "paperId": "1773671f93c5597581b0f180a76c731a7f8dfdb9"
+    },
+    {
+      "paperId": "69230be609fa67df2aa8c4a5fdbf80d2f564a22e"
+    },
+    {
+      "paperId": "dab703d3782ac89e80ac7cf74b8929c6719406c0"
+    },
+    {
+      "paperId": "bb17f6efd605ed65d365643b5ee193f64fc02b6e"
+    },
+    {
+      "paperId": "a40db79bf032141954359c257b2399de27ff0acf"
+    },
+    {
+      "paperId": "107efa1cdccbe3650fbc0bc0fd374e65a24c5bbf"
+    },
+    {
+      "paperId": "baae1998086bbbbbdf3f2aea9eade284e2b63a68"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

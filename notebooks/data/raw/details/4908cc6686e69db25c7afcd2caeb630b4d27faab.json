@@ -1,0 +1,51 @@
+{
+  "paperId": "4908cc6686e69db25c7afcd2caeb630b4d27faab",
+  "externalIds": {
+    "DBLP": "conf/ifip12/WuSLZZ14",
+    "MAG": "2405706632",
+    "DOI": "10.1007/978-3-319-19620-6_70",
+    "CorpusId": 24836382
+  },
+  "url": "https://www.semanticscholar.org/paper/4908cc6686e69db25c7afcd2caeb630b4d27faab",
+  "title": "An On-Line Monitoring System of Crop Growth in Greenhouse",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-19620-6_70?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-19620-6_70, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2070460",
+      "name": "Lixuan Wu"
+    },
+    {
+      "authorId": "122309082",
+      "name": "Hong Sun"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    },
+    {
+      "authorId": null,
+      "name": "Meng Zhang"
+    },
+    {
+      "authorId": "2109917609",
+      "name": "Yi Zhao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

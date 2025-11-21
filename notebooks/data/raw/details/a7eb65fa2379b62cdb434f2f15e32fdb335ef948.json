@@ -1,0 +1,38 @@
+{
+  "paperId": "a7eb65fa2379b62cdb434f2f15e32fdb335ef948",
+  "externalIds": {
+    "MAG": "2302965892",
+    "DOI": "10.1109/ICCIC.2015.7435703",
+    "CorpusId": 61317712
+  },
+  "url": "https://www.semanticscholar.org/paper/a7eb65fa2379b62cdb434f2f15e32fdb335ef948",
+  "title": "Survey on algorithm used for management zone delineation for agriculture",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCIC.2015.7435703?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCIC.2015.7435703, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46684747",
+      "name": "Nikhil Gaikwad"
+    },
+    {
+      "authorId": "143833719",
+      "name": "Rupali Sawant"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

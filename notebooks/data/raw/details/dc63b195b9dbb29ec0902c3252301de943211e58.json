@@ -1,0 +1,206 @@
+{
+  "paperId": "dc63b195b9dbb29ec0902c3252301de943211e58",
+  "externalIds": {
+    "MAG": "2157234917",
+    "DOI": "10.5897/AJMR2014.7309",
+    "CorpusId": 85602730
+  },
+  "url": "https://www.semanticscholar.org/paper/dc63b195b9dbb29ec0902c3252301de943211e58",
+  "title": "Detection of aflatoxigenic Aspergillus strains by cultural and molecular methods: A critical review",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 19,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academicjournals.org/journal/AJMR/article-full-text-pdf/76F8FA850703.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5897/AJMR2014.7309?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5897/AJMR2014.7309, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2254114466",
+      "name": "Sudini H"
+    },
+    {
+      "authorId": "2254039305",
+      "name": "Srilakshmi P"
+    },
+    {
+      "authorId": "2254113424",
+      "name": "Vijay Krishna Kumar K"
+    },
+    {
+      "authorId": "2254031689",
+      "name": "M C Njoroge Samuel"
+    },
+    {
+      "authorId": "2254392076",
+      "name": "Osiru Moses"
+    },
+    {
+      "authorId": "2254466368",
+      "name": "Seetha Anitha"
+    },
+    {
+      "authorId": "2254409844",
+      "name": "Waliyar F"
+    }
+  ],
+  "abstract": "Aflatoxin contamination of food and feed commodities, caused by Aspergillus section Flavi group of fungi, is a serious problem worldwide. Exposure through consumption of contaminated food and feed has deleterious effects on human and animal health. Therefore, aflatoxin contaminated products are a barrier to international trade of agricultural commodities. Not all fungi from Aspergillus section Flavi produce aflatoxins. Hence it is important to differentiate Aspergillus spp. into toxigenic and atoxigenic species to better understand their population structure in a specific environment. A range of methods are available today, including cultural, analytical and molecular methods, to identify the toxin producing ability of isolates from section Flavi. A comprehensive review of these methods would be of great use for researchers in developing nations where fully equipped aflatoxin detection laboratories are lacking. In this paper we critically reviewed the cultural and molecular methods of detecting aflatoxigenic Aspergillus species and their precision. \n \n Key words: Toxigenic Aspergillus, atoxigenic Aspergillus, cultural methods, PCR based methods.",
+  "references": [
+    {
+      "paperId": "53f4ac4a23b351081485079b4772208cd83d6b2c"
+    },
+    {
+      "paperId": "8c97f4542dba437db7e8e8104636014979c983c7"
+    },
+    {
+      "paperId": "8cc8585076adad0c39fdc26af8b9cbb053c87825"
+    },
+    {
+      "paperId": "315d84bb09fd7fd8d4eeecc6d634fb7c7c2e05c5"
+    },
+    {
+      "paperId": "fbddd54c3467e7739d9542195bbf36a30accbda7"
+    },
+    {
+      "paperId": "7dbca43941e29390c75850e12e59a035cd2f568d"
+    },
+    {
+      "paperId": "82a4f5b3999b720027ad67f17dab9374ded92229"
+    },
+    {
+      "paperId": "a0c73722db1e8255644bcd09ccdbcd094a691204"
+    },
+    {
+      "paperId": "e3ca50dcd07641ee68efe82bd63ab6678de3902d"
+    },
+    {
+      "paperId": "72854c7d9eee13ca3f341de4bcf3d7a837692fbc"
+    },
+    {
+      "paperId": "879dd175f3575da606126b9d009c58f2d60b5472"
+    },
+    {
+      "paperId": "c0413957393b5ec2a85df2f3c81d3fc5081398e3"
+    },
+    {
+      "paperId": "6a0848ae10be2b23603bcb4c072288c19a680f09"
+    },
+    {
+      "paperId": "84f1b000126ba2c5868f84a6427363202e7e282c"
+    },
+    {
+      "paperId": "cb1a6dedf0344fb61fc31fae1a2181eb24f77f21"
+    },
+    {
+      "paperId": "10eb3cbf1ba9fc5b35f35f0f01546b556479c6b7"
+    },
+    {
+      "paperId": "e5c4076ae422f2c23a9397e06c5184f3d191a204"
+    },
+    {
+      "paperId": "0bb609f44afb2d0e88faf219a4e50f31420a36de"
+    },
+    {
+      "paperId": "a7bdda5ded7a5c4de116d44fc974e5d837dafb42"
+    },
+    {
+      "paperId": "48e297d75ad53329cbdf958c7cf950dcd8f64421"
+    },
+    {
+      "paperId": "f6cfeb05974f21eac24e42609f81f47638aadaf3"
+    },
+    {
+      "paperId": "a4e063c394c6794cf11ae1fe025974391113c892"
+    },
+    {
+      "paperId": "f92394bd24feb3084561f52dfc4e4241022d52e5"
+    },
+    {
+      "paperId": "6461be24820118e8688f6944dc8c2fec4fba872d"
+    },
+    {
+      "paperId": "0199fca4096b2f20d0de05860bd90ac1b10c2837"
+    },
+    {
+      "paperId": "29ff0eeec294a749cc925d6b2b1c380cac3d146a"
+    },
+    {
+      "paperId": "bd4d09caa38ae1be8860dc3dd58a48ed73ff7e1f"
+    },
+    {
+      "paperId": "5edd8f3b8baa702779aaf90ea6a3623e0f3f8722"
+    },
+    {
+      "paperId": "e619877089e46061937051372d27e3444f515e77"
+    },
+    {
+      "paperId": "08f961fb2b47385ba7fa68a213330f673e1e941d"
+    },
+    {
+      "paperId": "56b060bea3c613639bc17f8aa06ad75980af4195"
+    },
+    {
+      "paperId": "887c1c8a5dd9a22d635aeae611952270f9733371"
+    },
+    {
+      "paperId": "de04661c59fbd1b8e68badc2f615aea283ac262b"
+    },
+    {
+      "paperId": "a3aba2c1736482ced3eaebadfa07cb550037dbe8"
+    },
+    {
+      "paperId": "e344b039637472569de09e4f28a2d366fe501d96"
+    },
+    {
+      "paperId": "ae4dcd39a12ccfa1d756565bdb1a67fc333efa46"
+    },
+    {
+      "paperId": "557ca573776d48446e6a358a5cab3d87125d8268"
+    },
+    {
+      "paperId": "0015abb63d95fcbf751690376b035477ce433b9b"
+    },
+    {
+      "paperId": "02211f89af8da3a18c896661176e7df641cab246"
+    },
+    {
+      "paperId": "f3b69eeee663e05ee6dcde91b608ae5b5363bca4"
+    },
+    {
+      "paperId": "8ceef371832d64694bdd7320af0f1c663df78f0b"
+    },
+    {
+      "paperId": "c4273c508886acbbffb686626d5e8410d4552a2f"
+    },
+    {
+      "paperId": "f30a131401b439a131c157696c473518424d9a3a"
+    },
+    {
+      "paperId": "2b2210b970ad82f52a22561c80a49252d0e5f248"
+    },
+    {
+      "paperId": "3866f6626b40beb1eedbe8a5825682f9316bcd7f"
+    },
+    {
+      "paperId": "db44d100e1e040b5d8c097bd732ec644e70391e9"
+    },
+    {
+      "paperId": "d13adf13e687be90f970ca7a41a264f5a36e1cf9"
+    },
+    {
+      "paperId": "5e665f9e5d8cf5c13fb274f0b1cbf081e6a3e15a"
+    },
+    {
+      "paperId": "71bff8f15d871b55eba8c04bdb17841935b8e01c"
+    }
+  ]
+}

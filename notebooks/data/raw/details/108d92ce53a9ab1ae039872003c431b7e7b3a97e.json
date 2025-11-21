@@ -1,0 +1,200 @@
+{
+  "paperId": "108d92ce53a9ab1ae039872003c431b7e7b3a97e",
+  "externalIds": {
+    "MAG": "2293583572",
+    "DOI": "10.21273/JASHS.140.5.449",
+    "CorpusId": 13365848
+  },
+  "url": "https://www.semanticscholar.org/paper/108d92ce53a9ab1ae039872003c431b7e7b3a97e",
+  "title": "Hyperspectral Surface Reflectance Data Detect Low Moisture Status of Pecan Orchards during Flood Irrigation",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.21273/jashs.140.5.449",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21273/JASHS.140.5.449?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21273/JASHS.140.5.449, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "6576152",
+      "name": "Y. Othman"
+    },
+    {
+      "authorId": "34346443",
+      "name": "C. Steele"
+    },
+    {
+      "authorId": "78124691",
+      "name": "D. VanLeeuwen"
+    },
+    {
+      "authorId": "6065503",
+      "name": "R. Hilaire"
+    }
+  ],
+  "abstract": "For large fields, remote sensing might permit plant low moisture status to be detected early, and this may improve drought detection and monitoring. The objective of this study was to determine whether canopy and soil surface reflectance data derived from a handheld spectroradiometer can detect moisture status assessed usingmidday stem water potential (csmd) in pecan (Carya illinoinensis) during cyclic flood irrigations. We conducted the study simultaneously on two mature pecan orchards, one in a sandy loam (La Mancha) and the other in a clay loam (Leyendecker) soil. We were particularly interested in detecting moisture status in the L0.90 to L1.5 MPa csmd range because our previous studies indicated this was the critical range for irrigating pecan. Midday stem water potential, photosynthesis (A) and canopy and soil surface reflectance measurements were taken over the course of irrigation dry-down cycles at csmd levels of L0.40 to L0.85 MPa (well watered) and L0.9 to L1.5 MPa (water deficit). The decline inA averaged 34% in LaMancha and 25% in Leyendecker orchardwhencsmd ranged fromL0.9 toL1.5 MPa. Average canopy surface reflectance of well-watered trees (csmd L0.4 toL0.85 MPa) was significantly higher than the same trees experiencing water deficits (csmd L0.9 to L1.5 MPa) within the 350to 2500-nm bands range. Conversely, soil surface reflectance of well-watered trees was lower than water deficit trees over all bands. At both orchards, coefficient of determinations betweencsmd and all soil and canopy bands and surface reflectance indices were less than 0.62. But discriminant analysis models derived from combining soil and canopy reflectance data of wellwatered and water-deficit trees had high classification accuracy (overall and cross-validation classification accuracy >80%). A discriminant model that included triangular vegetation index (TVI), photochemical reflectance index (PRI), and normalized soilmoisture index (NSMI) had 85%overall accuracy and 82%cross-validation accuracy at LaMancha orchard. At Leyendecker, either a discriminantmodel weightedwith two soil bands (690 and 2430 nm) or a discriminant model that used PRI and soil band 2430 nm had an overall classification and cross-validation accuracy of 99%. In summary, the results presented here suggest that canopy and soil hyperspectral data derived from a handheld spectroradiometer hold promise for discerning the csmd of pecan orchards subjected to flood irrigation. Pecan is a large deciduous tree that is cultivated primarily for its nuts. With an annual production of 139 million kilograms, the United States is the world’s largest producer of pecan. The total area of pecan orchards in the United States is 236,000 ha; New Mexico pecan cultivation accounts for 7% of that area. In 2012, New Mexico produced 31.3 million kilograms (inshell basis) of pecan, 23% of total U.S. production (U.S. Department of Agriculture, 2012). New Mexico has an arid to semiarid climate. Much of the pecan cultivation occurs in riparian areas, especially along the Rio Grande River, where water can be diverted for irrigation. However, this supply of surface water often is limited. This means that farmers also must pump groundwater to supplement irrigation, which makes pecan vulnerable to water deficits. Low soil moisture negatively affects several physiological processes in pecan trees, such as photosynthesis (A) and gas exchange (Othman et al., 2014a). Water deficit reduced pecan yield 5% to 24% when the applied water was reduced from 5% to 52% relative to control (Garrot et al., 1993). For the pecan farmer, irrigation must be scheduled to maximize pecan growth and nut production while minimizing costs associated with water appropriation and application. Effective irrigation schedules rely on irrigation application only when an indicator variable reaches a threshold value (Cifre et al., 2005). This indicator variable must be sufficiently sensitive to water status so that the threshold at which irrigation Received for publication 15 Apr. 2015. Accepted for publication 2 June 2015. This work is supported by the New Mexico State University Agricultural Experiment Station. We are very grateful to Cameron Radosevich for his help with collecting field data. We also thank Richard Heerema and Salim Bawazir for their critical review of this manuscript. We acknowledge Mr. Midray Clark for allowing us to use his pecan orchard. Current address: Texas A&M AgriLife Research, Texas A&M University, Uvalde, TX 78801. Corresponding author. E-mail: rsthilai@nmsu.edu. J. AMER. SOC. HORT. SCI. 140(5):449–458. 2015. 449 starts can be determined with some precision (Jones, 2004). Midday stem water potential has been proposed for detecting moisture status and monitoring irrigation in commercial orchards, including pecan (Jones, 2004; Othman et al., 2014a). However, using ysmd for irrigation scheduling, especially, on a large scale is labor intensive (therefore, expensive), slow, and unsuitable for automation (Jones, 2004). Remote sensing applications hold potential for predicting plant water status, growth, and development (Othman et al., 2014a; Rossi et al., 2010). Hyperspectral sensors measure reflectance in a narrow wavelength range (usually 10 nm or less) and contain hundreds of contiguous bands over the electromagnetic spectrum that can be used to estimate the biochemical properties of vegetation (Huber et al., 2008). There has been considerable success in relating hyperspectral reflectance indices to plant physiological properties. For example, the water band index has been shown to be related to surface-atmosphere fluxes of CO2 and H2O (Claudio et al., 2006). Hyperspectral reflectance within the 705to 750-nm spectral range successfully detects water deficit in apple (Malus domestica) trees (Kim et al., 2011), and holds promise for doing so in pecan. In grape (Vitis vinifera), the reflectance-based water index effectively tracked variation in leaf stomatal conductance (R = 0.81) at a predawn leaf water potential of –0.42 MPa (Serrano et al., 2010). Moisture stress index and vegetation moisture index which incorporate the 850and 1928-nm spectral bands showed significant strong correlations with equivalent water thickness in 21 Eucalyptus sp. subjected to deficit irrigation (Datt, 1999). Sims and Gamon (2003) concluded that the 1150to 1260-nm and 1520to 1540-nm wavelength regions can penetrate more deeply into canopies and may be used to accurately detect tree water status. Although the 1944-nm band yielded the best correlation with available soil water, this band is not recommended for practical use because its location in a strong water vapor absorption area makes measurements from space difficult (Weidong et al., 2003). In olive trees (Olea europaea), PRI derived from airborne hyperspectral scanner sensor was sensitive to water stress indicators, such as stomatal conductance and ysmd (Su arez et al., 2008). However, leaf orientation and soil background significantly affected PRI derived from airborne sensor data leading Su arez et al. (2008) to conclude that canopy structure must be considered when PRI is used. In a previous study, we screened several leaf-level physiological measurements to determine which of these leaf-level parameters best represented changes in plant moisture status (Othman et al., 2014a). We concluded that ysmd was the best performing physiological indicator for detecting moisture status in pecan trees (Othman et al., 2014a). We also found thatysmd of –0.9 to –1.5 MPa was the critical water status range to prevent significant reduction in A and gas exchange (>50%) in pecan (Othman et al., 2014b). It is not known whether vegetation indices derived from advanced sensing technologies can precisely predict water status within this range of ysmd (–0.9 to –1.5). The objective of this study was to investigate whether hyperspectral remotely sensed data derived from a handheld spectroradiometer could detect pecan low water status as estimated using ysmd. Materials and Methods SITE DESCRIPTION. The study was conducted in two mature pecan orchards in the Mesilla Valley near Las Cruces, NM, from May 2012 to Nov. 2013. One orchard was at the New Mexico State University Leyendecker Plant Science Research Center [Leyendecker (lat . 32 12#01.14##N, long. 106 44#30.32##W) and a privately owned farm in the northern Mesilla Valley [La Mancha (lat. 32 17#06.25##N, long. 106 50#04.26##W)]. Trees from La Mancha orchard were grown in sandy loam soil [Brazito very fine sandy loam, thick surface (mixed, thermic Typic Torripsamments)], whereas Leyendecker trees were grown in clay loam soil [Armijo clay loam (fine, montmorillonitic, thermic Typic Torrerts)] (U.S. Department of Agriculture, 1980). Both orchards were composed of rows ‘Western’ pecan (75%) and pollenizer rows of ‘Wichita’ pecan (25%). All measurements were made on ‘Western’. Trees from La Mancha orchard were 30 years old, 9 to 11 m high, spaced at 6 to 7 m within rows and 8 to 10 m between rows. The total area of the La Mancha orchard was 7 ha. Urea [46% N (250 kg ha)] and zinc sulfate (foliar spray, 8 kg ha) were applied once in May and July of both years. The field was flood irrigated once every 16 to 24 d fromMay to October every year. Leyendecker orchard trees were 20 to 30 years old, 7 to 9 m high, spaced at 6 to 7 m within rows and 8 m between rows. The total area of Leyendecker orchard was 4 ha. Urea (225 kg ha) and zinc sulfate (7 kg ha) were applied once in May of both years. The field was flood irrigated once every 3 to 10 weeks from May to October. METEOROLOGICAL DATA. Meteorological instruments were fixed on a 9.0-m tower above the orchard floor at La Mancha and on a 7.5-m tower at Leyendecker. Instruments were Table 1. Handheld spectroradiometer, photosynthesis, and midday stem water potential measurements dates for two southern New Mexico pecan orchards subjected to cyclic flood irrigation. Measurements were determined at ",
+  "references": [
+    {
+      "paperId": "2af6fac46804b1c1302d3c31c32a06f5cae4de4e"
+    },
+    {
+      "paperId": "284b2c19852323d671d3accd043fc2dd51ab2276"
+    },
+    {
+      "paperId": "e18699ec87ae3dd6dffe8e1464b72bc231221872"
+    },
+    {
+      "paperId": "9896c17da94c8fd305dc1861b2e308d2f65e0a0f"
+    },
+    {
+      "paperId": "6bb61b32266648ff952f746b0a88ab4742254fab"
+    },
+    {
+      "paperId": "791d5e50d7381a0e3b0e6c8fca79ae342f376a83"
+    },
+    {
+      "paperId": "517f4a56270d0f357176f8428d2e532774964233"
+    },
+    {
+      "paperId": "ec38a9609eebde5d7dc32367138ae91baa2a47a9"
+    },
+    {
+      "paperId": "006fb4f9100ae9866b8890a96ccac41bd850e276"
+    },
+    {
+      "paperId": "d9a7fe40cbaa9bc01bd493f73a7c116ef9fdbe06"
+    },
+    {
+      "paperId": "25de4fa3cfcfebd26a0f9cdc7dbefaf7aec89f4a"
+    },
+    {
+      "paperId": "53bb578e89e85d903261c8cedb1fcc30ed1bade6"
+    },
+    {
+      "paperId": "bc6b9fdf246c8abd385c7aa98d1e714dcb305b5e"
+    },
+    {
+      "paperId": "7f927c6dc0d6bffe27a94b247af3b48f9d36049a"
+    },
+    {
+      "paperId": "b730265b2753ad98b23ac7c85d107eae65a237ff"
+    },
+    {
+      "paperId": "943f3a1c8f89950ef8211efe79c744e3ae412371"
+    },
+    {
+      "paperId": "91d9c7824ef228e3998ed719bfb409c09fd61e0f"
+    },
+    {
+      "paperId": "b2489c3a82bd5785818877b043d6d730c7c85dac"
+    },
+    {
+      "paperId": "eb177c131d258e72e351bd842376233cb1ba0725"
+    },
+    {
+      "paperId": "e062cf5e0c177fd7106c1588b64cfba1bc51d833"
+    },
+    {
+      "paperId": "c4f76e081df5ef5b5c0a77d98beba710abafe1b5"
+    },
+    {
+      "paperId": "26dd0d07ab1369f6351a465d226c913ca05effd2"
+    },
+    {
+      "paperId": "b72660a62241db0a5e9e53e4701a663e56754433"
+    },
+    {
+      "paperId": "fd890160dc674dcbff521b05c89b80c18329d265"
+    },
+    {
+      "paperId": "6251a25d21c650f0e9fb5904255dcc4f69a171ad"
+    },
+    {
+      "paperId": "f4a3994b292292cd887295bcb5c42e70e9ed9708"
+    },
+    {
+      "paperId": "ce7e0ad8b044141410090f0431ad6e752a552bb4"
+    },
+    {
+      "paperId": "fed9d6a69864b0a5ea0cfb06f693a5fce3a41a9c"
+    },
+    {
+      "paperId": "9f04fac6afb8adcbd74eda4f0479d8f62884e2be"
+    },
+    {
+      "paperId": "2d340a2fb4007721e8eb6e4598c535887f5111bc"
+    },
+    {
+      "paperId": "ecc6bbc9bbbafdd8a105ee27811e631694ecca60"
+    },
+    {
+      "paperId": "8a970497406e220c2ecb27ef90d4bb9d2a7c788d"
+    },
+    {
+      "paperId": "09628d26170125cf765f1b661743762cf85ac3b0"
+    },
+    {
+      "paperId": "beb77afde4f751830a17099c990733671b6ff300"
+    },
+    {
+      "paperId": "c24faf959e8b07337ae37490f9afb265c3190569"
+    },
+    {
+      "paperId": "ba0a8e553cc1666f0a0be805b23062de4d71a061"
+    },
+    {
+      "paperId": "4901352af0b4c6be3dbf036fbd1013fcf4b0513a"
+    },
+    {
+      "paperId": "f3a80bb13640ec26826d3a9e03362467bb835d2c"
+    },
+    {
+      "paperId": "870543c1d92427272635b1435c5f02b2fa4b186c"
+    },
+    {
+      "paperId": "2c62746bee0c3cf3a930bc3783a277b672516a5b"
+    },
+    {
+      "paperId": "c43b11e37303616b01768f2a6bfb751e88a2ca54"
+    },
+    {
+      "paperId": "d3984d1d546efaba0e737b1d3da080b8a2a2db98"
+    },
+    {
+      "paperId": "bda91ae3e5d90452b0af662d9c00029254e7c442"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

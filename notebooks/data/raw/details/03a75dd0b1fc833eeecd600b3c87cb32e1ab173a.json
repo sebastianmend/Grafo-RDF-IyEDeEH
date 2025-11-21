@@ -1,0 +1,48 @@
+{
+  "paperId": "03a75dd0b1fc833eeecd600b3c87cb32e1ab173a",
+  "externalIds": {
+    "MAG": "2034676145",
+    "DBLP": "conf/iri/TanHWZ12",
+    "DOI": "10.1109/IRI.2012.6303020",
+    "CorpusId": 5831756
+  },
+  "url": "https://www.semanticscholar.org/paper/03a75dd0b1fc833eeecd600b3c87cb32e1ab173a",
+  "title": "An extensible and integrated software architecture for data analysis and visualization in precision agriculture",
+  "venue": "IEEE International Conference on Information Reuse and Integration",
+  "year": 2012,
+  "citationCount": 13,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IRI.2012.6303020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IRI.2012.6303020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2106348764",
+      "name": "Li Tan"
+    },
+    {
+      "authorId": "34370097",
+      "name": "Ronald Haley"
+    },
+    {
+      "authorId": "8528032",
+      "name": "Riley Wortman"
+    },
+    {
+      "authorId": "46324711",
+      "name": "Qin Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

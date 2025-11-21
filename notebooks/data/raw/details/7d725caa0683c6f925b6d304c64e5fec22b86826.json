@@ -1,0 +1,65 @@
+{
+  "paperId": "7d725caa0683c6f925b6d304c64e5fec22b86826",
+  "externalIds": {
+    "DBLP": "conf/iros/ZermasTSBKMMP15",
+    "MAG": "2218871240",
+    "DOI": "10.1109/IROS.2015.7354309",
+    "CorpusId": 17210687
+  },
+  "url": "https://www.semanticscholar.org/paper/7d725caa0683c6f925b6d304c64e5fec22b86826",
+  "title": "Automation solutions for the evaluation of plant health in corn fields",
+  "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+  "year": 2015,
+  "citationCount": 25,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IROS.2015.7354309?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IROS.2015.7354309, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1842276",
+      "name": "Dimitris Zermas"
+    },
+    {
+      "authorId": "2143127473",
+      "name": "Da Teng"
+    },
+    {
+      "authorId": "3237649",
+      "name": "P. Stanitsas"
+    },
+    {
+      "authorId": "69918260",
+      "name": "Michael E. Bazakos"
+    },
+    {
+      "authorId": "39817795",
+      "name": "Daniel E. Kaiser"
+    },
+    {
+      "authorId": "1827707",
+      "name": "V. Morellas"
+    },
+    {
+      "authorId": "2580238",
+      "name": "D. Mulla"
+    },
+    {
+      "authorId": "1696163",
+      "name": "N. Papanikolopoulos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

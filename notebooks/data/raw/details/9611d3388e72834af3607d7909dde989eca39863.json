@@ -1,0 +1,48 @@
+{
+  "paperId": "9611d3388e72834af3607d7909dde989eca39863",
+  "externalIds": {
+    "MAG": "2143348369",
+    "DOI": "10.1002/ajim.20905",
+    "CorpusId": 24096370,
+    "PubMed": "21259296"
+  },
+  "url": "https://www.semanticscholar.org/paper/9611d3388e72834af3607d7909dde989eca39863",
+  "title": "Occupational lung cancer in US women, 1984-1998.",
+  "venue": "American Journal of Industrial Medicine",
+  "year": 2011,
+  "citationCount": 20,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajim.20905",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ajim.20905?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ajim.20905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "31958554",
+      "name": "C. Robinson"
+    },
+    {
+      "authorId": "2111766733",
+      "name": "P. A. Sullivan"
+    },
+    {
+      "authorId": "2118372907",
+      "name": "Jia Li"
+    },
+    {
+      "authorId": "2110484895",
+      "name": "James T. Walker"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

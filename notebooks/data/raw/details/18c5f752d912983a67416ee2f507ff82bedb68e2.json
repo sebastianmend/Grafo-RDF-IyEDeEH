@@ -1,0 +1,49 @@
+{
+  "paperId": "18c5f752d912983a67416ee2f507ff82bedb68e2",
+  "externalIds": {
+    "MAG": "1994168328",
+    "DOI": "10.1109/RAST.2013.6581194",
+    "CorpusId": 30279462
+  },
+  "url": "https://www.semanticscholar.org/paper/18c5f752d912983a67416ee2f507ff82bedb68e2",
+  "title": "A short survey of hyperspectral remote sensing applications in agriculture",
+  "venue": "International Conference on Recent Advances in Space Technologies",
+  "year": 2013,
+  "citationCount": 182,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RAST.2013.6581194?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RAST.2013.6581194, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2230494",
+      "name": "Mustafa Teke"
+    },
+    {
+      "authorId": "108018783",
+      "name": "Hüsne Seda Deveci"
+    },
+    {
+      "authorId": "32735300",
+      "name": "Onur Haliloglu"
+    },
+    {
+      "authorId": "3175823",
+      "name": "S. Gurbuz"
+    },
+    {
+      "authorId": "3354972",
+      "name": "U. Sakarya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,64 @@
+{
+  "paperId": "ef29da536f99361354f09a368671d52e76177817",
+  "externalIds": {
+    "MAG": "2266412003",
+    "DOI": "10.1093/JAOAC/93.3.1007",
+    "CorpusId": 27047320,
+    "PubMed": "20629407"
+  },
+  "url": "https://www.semanticscholar.org/paper/ef29da536f99361354f09a368671d52e76177817",
+  "title": "Determination of indoxacarb enantiomer residues in vegetables, fruits, and soil by high-performance liquid chromatography.",
+  "venue": "Journal of AOAC International",
+  "year": 2010,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jaoac/article-pdf/93/3/1007/32422533/jaoac1007.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/JAOAC/93.3.1007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/JAOAC/93.3.1007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2150207351",
+      "name": "Li Cheng"
+    },
+    {
+      "authorId": "1688479",
+      "name": "F. Dong"
+    },
+    {
+      "authorId": "1751498",
+      "name": "Xingang Liu"
+    },
+    {
+      "authorId": "2111704789",
+      "name": "Wu Chen"
+    },
+    {
+      "authorId": "4580645",
+      "name": "Yuanbo Li"
+    },
+    {
+      "authorId": "86963894",
+      "name": "Yongquan Zheng"
+    },
+    {
+      "authorId": "39742668",
+      "name": "Dongmei Qin"
+    },
+    {
+      "authorId": "153115904",
+      "name": "Yong Gong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

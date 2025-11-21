@@ -1,0 +1,43 @@
+{
+  "paperId": "86549f2f28f6d97a19b0dab553e71faaddacb8de",
+  "externalIds": {
+    "MAG": "1982418350",
+    "DBLP": "conf/icacci/KolikipoguRK12",
+    "DOI": "10.1145/2345396.2345523",
+    "CorpusId": 15003424
+  },
+  "url": "https://www.semanticscholar.org/paper/86549f2f28f6d97a19b0dab553e71faaddacb8de",
+  "title": "Reformulation of Telugu web query using word semantic relationships",
+  "venue": "International Conference on Advances in Computing, Communications and Informatics",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2345396.2345523?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2345396.2345523, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1946123",
+      "name": "Ramakrishna Kolikipogu"
+    },
+    {
+      "authorId": "48589000",
+      "name": "B. Rani"
+    },
+    {
+      "authorId": "2519669",
+      "name": "V. Kakulapati"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

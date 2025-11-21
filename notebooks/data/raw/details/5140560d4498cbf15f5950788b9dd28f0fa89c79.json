@@ -1,0 +1,42 @@
+{
+  "paperId": "5140560d4498cbf15f5950788b9dd28f0fa89c79",
+  "externalIds": {
+    "MAG": "2107227018",
+    "DOI": "10.1142/S2010007812500145",
+    "CorpusId": 154873541
+  },
+  "url": "https://www.semanticscholar.org/paper/5140560d4498cbf15f5950788b9dd28f0fa89c79",
+  "title": "Land-use change and greenhouse gas emissions in the FAPRI-CARD model system: addressing bias and uncertainty.",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 13,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1142/S2010007812500145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/S2010007812500145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "36782258",
+      "name": "A. Elobeid"
+    },
+    {
+      "authorId": "86952695",
+      "name": "M. Carriquiry"
+    },
+    {
+      "authorId": "5633008",
+      "name": "Jacinto F. Fabiosa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

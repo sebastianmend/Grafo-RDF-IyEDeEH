@@ -1,0 +1,35 @@
+{
+  "paperId": "d6fa0c53e72503a324e27fb8b81821661a3812c1",
+  "externalIds": {
+    "DOI": "10.1007/s00253-012-3969-4",
+    "CorpusId": 253775089
+  },
+  "url": "https://www.semanticscholar.org/paper/d6fa0c53e72503a324e27fb8b81821661a3812c1",
+  "title": "Role of nanotechnology in agriculture with special reference to management of insect pests",
+  "venue": "Applied Microbiology and Biotechnology",
+  "year": 2012,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00253-012-3969-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00253-012-3969-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "118347529",
+      "name": "M. Rai"
+    },
+    {
+      "authorId": "6946831",
+      "name": "A. Ingle"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

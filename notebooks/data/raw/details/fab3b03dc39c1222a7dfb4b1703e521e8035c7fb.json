@@ -1,0 +1,42 @@
+{
+  "paperId": "fab3b03dc39c1222a7dfb4b1703e521e8035c7fb",
+  "externalIds": {
+    "MAG": "2005704130",
+    "DOI": "10.1109/ICAE.2011.5943800",
+    "CorpusId": 25096821
+  },
+  "url": "https://www.semanticscholar.org/paper/fab3b03dc39c1222a7dfb4b1703e521e8035c7fb",
+  "title": "Study on low-carbon technique of maize mechanization and its development tendency in Huanghuaihai Plain",
+  "venue": "2011 International Conference on New Technology of Agricultural",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAE.2011.5943800?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAE.2011.5943800, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9278642",
+      "name": "D. Ruicheng"
+    },
+    {
+      "authorId": "89573702",
+      "name": "Z. Chao"
+    },
+    {
+      "authorId": "9194317",
+      "name": "Yang Zidong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

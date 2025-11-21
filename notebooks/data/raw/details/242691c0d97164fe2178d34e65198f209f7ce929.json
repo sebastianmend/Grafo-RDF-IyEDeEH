@@ -1,0 +1,38 @@
+{
+  "paperId": "242691c0d97164fe2178d34e65198f209f7ce929",
+  "externalIds": {
+    "MAG": "2025041639",
+    "DOI": "10.1007/s00217-012-1844-2",
+    "CorpusId": 95716096
+  },
+  "url": "https://www.semanticscholar.org/paper/242691c0d97164fe2178d34e65198f209f7ce929",
+  "title": "Applications of computer vision techniques in the agriculture and food industry: a review",
+  "venue": "European Food Research and Technology",
+  "year": 2012,
+  "citationCount": 145,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00217-012-1844-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00217-012-1844-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39681355",
+      "name": "J. F. S. Gomes"
+    },
+    {
+      "authorId": "2853648",
+      "name": "F. R. Leta"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

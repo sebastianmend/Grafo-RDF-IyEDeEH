@@ -1,0 +1,64 @@
+{
+  "paperId": "a0acc629d86ebeb81535e8bc18742cab8d66d9fd",
+  "externalIds": {
+    "MAG": "2067351578",
+    "DBLP": "conf/igarss/BachFSMDHFM12",
+    "DOI": "10.1109/IGARSS.2012.6350502",
+    "CorpusId": 5093843
+  },
+  "url": "https://www.semanticscholar.org/paper/a0acc629d86ebeb81535e8bc18742cab8d66d9fd",
+  "title": "Integrative use of multitemporal rapideye and TerraSAR-X data for agricultural monitoring",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2012,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2012.6350502?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2012.6350502, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144453538",
+      "name": "H. Bach"
+    },
+    {
+      "authorId": "31420045",
+      "name": "M. Friese"
+    },
+    {
+      "authorId": "2744717",
+      "name": "Katharina Spannraft"
+    },
+    {
+      "authorId": "3034748",
+      "name": "S. Migdall"
+    },
+    {
+      "authorId": "2051130",
+      "name": "Sandra Dotzler"
+    },
+    {
+      "authorId": "2001558",
+      "name": "T. Hank"
+    },
+    {
+      "authorId": "49488444",
+      "name": "T. Frank"
+    },
+    {
+      "authorId": "143723253",
+      "name": "W. Mauser"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

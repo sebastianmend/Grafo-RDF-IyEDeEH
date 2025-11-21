@@ -1,0 +1,46 @@
+{
+  "paperId": "6d5335bf3c891d094a65941559b8c6fc1c5ed1c6",
+  "externalIds": {
+    "MAG": "2101390751",
+    "DOI": "10.5772/59083",
+    "CorpusId": 23442491
+  },
+  "url": "https://www.semanticscholar.org/paper/6d5335bf3c891d094a65941559b8c6fc1c5ed1c6",
+  "title": "Network Real Time Kinematic (NRTK) Positioning – Description, Architectures and Performances",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 27,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.intechopen.com/citation-pdf-url/47449",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5772/59083?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/59083, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49979228",
+      "name": "A. Cina"
+    },
+    {
+      "authorId": "3439803",
+      "name": "P. Dabove"
+    },
+    {
+      "authorId": "1484367107",
+      "name": "A. Manzino"
+    },
+    {
+      "authorId": "145251096",
+      "name": "M. Piras"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

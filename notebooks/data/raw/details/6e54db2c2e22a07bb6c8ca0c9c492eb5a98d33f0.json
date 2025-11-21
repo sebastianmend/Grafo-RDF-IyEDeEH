@@ -1,0 +1,48 @@
+{
+  "paperId": "6e54db2c2e22a07bb6c8ca0c9c492eb5a98d33f0",
+  "externalIds": {
+    "MAG": "2083667135",
+    "DOI": "10.1007/s00244-009-9398-4",
+    "CorpusId": 36335637,
+    "PubMed": "19798461"
+  },
+  "url": "https://www.semanticscholar.org/paper/6e54db2c2e22a07bb6c8ca0c9c492eb5a98d33f0",
+  "title": "Development of a Sample Preparation Method for the Analysis of Current-Use Pesticides in Sediment Using Gas Chromatography",
+  "venue": "Archives of Environmental Contamination and Toxicology",
+  "year": 2010,
+  "citationCount": 16,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00244-009-9398-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00244-009-9398-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47858848",
+      "name": "Dongli Wang"
+    },
+    {
+      "authorId": "4937100",
+      "name": "D. Weston"
+    },
+    {
+      "authorId": "7625627",
+      "name": "Yuping Ding"
+    },
+    {
+      "authorId": "5298278",
+      "name": "M. Lydy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

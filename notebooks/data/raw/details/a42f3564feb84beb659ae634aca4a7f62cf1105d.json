@@ -1,0 +1,44 @@
+{
+  "paperId": "a42f3564feb84beb659ae634aca4a7f62cf1105d",
+  "externalIds": {
+    "DBLP": "conf/cube/PandeCP12",
+    "MAG": "2036053357",
+    "DOI": "10.1145/2381716.2381754",
+    "CorpusId": 35062781
+  },
+  "url": "https://www.semanticscholar.org/paper/a42f3564feb84beb659ae634aca4a7f62cf1105d",
+  "title": "Energy efficient hybrid architecture and positioning of sensors in WSN for precision agriculture",
+  "venue": "CUBE International IT Conference & Exhibition",
+  "year": 2012,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2381716.2381754?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2381716.2381754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144382773",
+      "name": "Milind Pande"
+    },
+    {
+      "authorId": "2074445265",
+      "name": "N. Choudhari"
+    },
+    {
+      "authorId": "27767009",
+      "name": "Shantanu Pathak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

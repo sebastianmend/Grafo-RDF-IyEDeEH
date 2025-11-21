@@ -1,0 +1,48 @@
+{
+  "paperId": "bb427881409d83c7057da7ca62787dfe34722c1c",
+  "externalIds": {
+    "MAG": "2029499407",
+    "DOI": "10.1603/EN10076",
+    "CorpusId": 20114379,
+    "PubMed": "22251644"
+  },
+  "url": "https://www.semanticscholar.org/paper/bb427881409d83c7057da7ca62787dfe34722c1c",
+  "title": "Spatial Variability of Western Bean Cutworm (Lepidoptera: Noctuidae) Pheromone Trap Captures in Sprinkler Irrigated Corn in Eastern Colorado",
+  "venue": "Environmental Entomology",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1603/EN10076?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1603/EN10076, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5431332",
+      "name": "S. Merrill"
+    },
+    {
+      "authorId": "13184830",
+      "name": "S. M. Walter"
+    },
+    {
+      "authorId": "6212286",
+      "name": "F. Peairs"
+    },
+    {
+      "authorId": "2656653",
+      "name": "J. Hoeting"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

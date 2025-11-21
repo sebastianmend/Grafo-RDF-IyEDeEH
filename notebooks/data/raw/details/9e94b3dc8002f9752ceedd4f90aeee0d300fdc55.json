@@ -1,0 +1,138 @@
+{
+  "paperId": "9e94b3dc8002f9752ceedd4f90aeee0d300fdc55",
+  "externalIds": {
+    "MAG": "1997790500",
+    "PubMedCentral": "3197112",
+    "DOI": "10.3791/2694",
+    "CorpusId": 27041814,
+    "PubMed": "21587155"
+  },
+  "url": "https://www.semanticscholar.org/paper/9e94b3dc8002f9752ceedd4f90aeee0d300fdc55",
+  "title": "Biomolecular Detection employing the Interferometric Reflectance Imaging Sensor (IRIS)",
+  "venue": "Journal of Visualized Experiments",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc3197112?pdf=render",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3197112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "97464927",
+      "name": "C. Lopez"
+    },
+    {
+      "authorId": "1904800",
+      "name": "G. Daaboul"
+    },
+    {
+      "authorId": "5300559",
+      "name": "Sunmin Ahn"
+    },
+    {
+      "authorId": "2393175",
+      "name": "A. Reddington"
+    },
+    {
+      "authorId": "145767824",
+      "name": "M. Monroe"
+    },
+    {
+      "authorId": "49469720",
+      "name": "Xirui Zhang"
+    },
+    {
+      "authorId": "46767951",
+      "name": "R. Irani"
+    },
+    {
+      "authorId": "2388463777",
+      "name": "Chunxiao Yu"
+    },
+    {
+      "authorId": "2388433952",
+      "name": "Caroline A. Genco"
+    },
+    {
+      "authorId": "5198764",
+      "name": "M. Cretich"
+    },
+    {
+      "authorId": "2252680258",
+      "name": "Marcella Chiari"
+    },
+    {
+      "authorId": "2233413284",
+      "name": "B. Goldberg"
+    },
+    {
+      "authorId": "2247112798",
+      "name": "John H. Connor"
+    },
+    {
+      "authorId": "2247112521",
+      "name": "M. S. Ünlü"
+    }
+  ],
+  "abstract": "The sensitive measurement of biomolecular interactions has use in many fields and industries such as basic biology and microbiology, environmental/agricultural/biodefense monitoring, nanobiotechnology, and more. For diagnostic applications, monitoring (detecting) the presence, absence, or abnormal expression of targeted proteomic or genomic biomarkers found in patient samples can be used to determine treatment approaches or therapy efficacy. In the research arena, information on molecular affinities and specificities are useful for fully characterizing the systems under investigation. Many of the current systems employed to determine molecular concentrations or affinities rely on the use of labels. Examples of these systems include immunoassays such as the enzyme-linked immunosorbent assay (ELISA), polymerase chain reaction (PCR) techniques, gel electrophoresis assays, and mass spectrometry (MS). Generally, these labels are fluorescent, radiological, or colorimetric in nature and are directly or indirectly attached to the molecular target of interest. Though the use of labels is widely accepted and has some benefits, there are drawbacks which are stimulating the development of new label-free methods for measuring these interactions. These drawbacks include practical facets such as increased assay cost, reagent lifespan and usability, storage and safety concerns, wasted time and effort in labelling, and variability among the different reagents due to the labelling processes or labels themselves. On a scientific research basis, the use of these labels can also introduce difficulties such as concerns with effects on protein functionality/structure due to the presence of the attached labels and the inability to directly measure the interactions in real time. Presented here is the use of a new label-free optical biosensor that is amenable to microarray studies, termed the Interferometric Reflectance Imaging Sensor (IRIS), for detecting proteins, DNA, antigenic material, whole pathogens (virions) and other biological material. The IRIS system has been demonstrated to have high sensitivity, precision, and reproducibility for different biomolecular interactions [1-3]. Benefits include multiplex imaging capacity, real time and endpoint measurement capabilities, and other high-throughput attributes such as reduced reagent consumption and a reduction in assay times. Additionally, the IRIS platform is simple to use, requires inexpensive equipment, and utilizes silicon-based solid phase assay components making it compatible with many contemporary surface chemistry approaches. Here, we present the use of the IRIS system from preparation of probe arrays to incubation and measurement of target binding to analysis of the results in an endpoint format. The model system will be the capture of target antibodies which are specific for human serum albumin (HSA) on HSA-spotted substrates.",
+  "references": [
+    {
+      "paperId": "9d95b32dcf8c9d9c8ec1148acde7755889f830cf"
+    },
+    {
+      "paperId": "09ed5b29c26423bec647aeff21ab59bc1ea42545"
+    },
+    {
+      "paperId": "e95a5f2301f5fc52df52b4b0e33f216f8608f56b"
+    },
+    {
+      "paperId": "87c3c6b98f3cfa972cae3164eabadfd01c1a35c3"
+    },
+    {
+      "paperId": "a6c336fd7c1b98929f1ac9278637311b9c2b7453"
+    },
+    {
+      "paperId": "6eb460e28e515182df4b666dad0e48ab28729d10"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

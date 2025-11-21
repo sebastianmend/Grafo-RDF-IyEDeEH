@@ -1,0 +1,35 @@
+{
+  "paperId": "8d411ca535abfb2c95ec46574ea87bddb3c756bb",
+  "externalIds": {
+    "DOI": "10.1007/s13253-013-0130-5",
+    "CorpusId": 256071298
+  },
+  "url": "https://www.semanticscholar.org/paper/8d411ca535abfb2c95ec46574ea87bddb3c756bb",
+  "title": "Sampling Design for Two Combined Samples of the Farm Accountancy Data Network (FADN)",
+  "venue": "Journal of Agricultural Biological and Environmental Statistics",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13253-013-0130-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13253-013-0130-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144887315",
+      "name": "A. Roesch"
+    },
+    {
+      "authorId": "36017378",
+      "name": "M. Lips"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

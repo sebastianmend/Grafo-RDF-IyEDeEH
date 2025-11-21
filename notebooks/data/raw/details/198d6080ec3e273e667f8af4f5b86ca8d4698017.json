@@ -1,0 +1,38 @@
+{
+  "paperId": "198d6080ec3e273e667f8af4f5b86ca8d4698017",
+  "externalIds": {
+    "MAG": "2022591134",
+    "DOI": "10.1029/2012EO030011",
+    "CorpusId": 128768035
+  },
+  "url": "https://www.semanticscholar.org/paper/198d6080ec3e273e667f8af4f5b86ca8d4698017",
+  "title": "Bringing Together Users and Developers of Forest Biomass Maps",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ntrs.nasa.gov/api/citations/20120009499/downloads/20120009499.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1029/2012EO030011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1029/2012EO030011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152581957",
+      "name": "Molly E. Brown"
+    },
+    {
+      "authorId": "10902431",
+      "name": "M. Macauley"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

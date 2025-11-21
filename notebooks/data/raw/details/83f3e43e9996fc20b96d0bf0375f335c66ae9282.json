@@ -1,0 +1,61 @@
+{
+  "paperId": "83f3e43e9996fc20b96d0bf0375f335c66ae9282",
+  "externalIds": {
+    "MAG": "1982097860",
+    "DOI": "10.3168/jds.2013-7652",
+    "CorpusId": 9128229,
+    "PubMed": "24731647"
+  },
+  "url": "https://www.semanticscholar.org/paper/83f3e43e9996fc20b96d0bf0375f335c66ae9282",
+  "title": "Short communication: Prediction of intake in dairy cows under tropical conditions.",
+  "venue": "Journal of Dairy Science",
+  "year": 2014,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://www.journalofdairyscience.org/article/S0022030214002768/pdf",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3168/jds.2013-7652?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3168/jds.2013-7652, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "MetaAnalysis",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2107502009",
+      "name": "M. C. Souza"
+    },
+    {
+      "authorId": "2253639372",
+      "name": "A. Oliveira"
+    },
+    {
+      "authorId": "144561848",
+      "name": "C. V. Araújo"
+    },
+    {
+      "authorId": "2252243845",
+      "name": "Andre F. Brito"
+    },
+    {
+      "authorId": "2254604328",
+      "name": "R.M.A. Teixeira"
+    },
+    {
+      "authorId": "2254765281",
+      "name": "E.H.B.K. Moares"
+    },
+    {
+      "authorId": "21033754",
+      "name": "D. C. Moura"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

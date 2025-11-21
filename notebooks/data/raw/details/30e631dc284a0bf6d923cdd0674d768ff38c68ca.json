@@ -1,0 +1,56 @@
+{
+  "paperId": "30e631dc284a0bf6d923cdd0674d768ff38c68ca",
+  "externalIds": {
+    "MAG": "2053663613",
+    "DOI": "10.1002/cyto.a.20888",
+    "CorpusId": 42253615,
+    "PubMed": "20222066"
+  },
+  "url": "https://www.semanticscholar.org/paper/30e631dc284a0bf6d923cdd0674d768ff38c68ca",
+  "title": "Heterokaryotic nuclear conditions and a heterogeneous nuclear population are observed by flow cytometry in Phytophthora infestans",
+  "venue": "Cytometry Part A",
+  "year": 2010,
+  "citationCount": 38,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/cyto.a.20888?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/cyto.a.20888, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144980925",
+      "name": "M. Catal"
+    },
+    {
+      "authorId": "47706054",
+      "name": "L. King"
+    },
+    {
+      "authorId": "14226656",
+      "name": "P. Tumbalam"
+    },
+    {
+      "authorId": "13893385",
+      "name": "P. Wiriyajitsomboon"
+    },
+    {
+      "authorId": "3488261",
+      "name": "W. Kirk"
+    },
+    {
+      "authorId": "144129868",
+      "name": "G. Adams"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

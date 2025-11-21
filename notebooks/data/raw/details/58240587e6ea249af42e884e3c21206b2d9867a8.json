@@ -1,0 +1,43 @@
+{
+  "paperId": "58240587e6ea249af42e884e3c21206b2d9867a8",
+  "externalIds": {
+    "DBLP": "conf/africom/MusaaziBL14",
+    "MAG": "751025053",
+    "DOI": "10.1007/978-3-319-16886-9_16",
+    "CorpusId": 19813609
+  },
+  "url": "https://www.semanticscholar.org/paper/58240587e6ea249af42e884e3c21206b2d9867a8",
+  "title": "Energy Efficient Data Caching in Wireless Sensor Networks: A Case of Precision Agriculture",
+  "venue": "International Conference on e-Infrastructure and e-Services for Developing Countries",
+  "year": 2014,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-16886-9_16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-16886-9_16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2563790",
+      "name": "Kizito Patrick Musaazi"
+    },
+    {
+      "authorId": "1890526",
+      "name": "T. Bulega"
+    },
+    {
+      "authorId": "40637888",
+      "name": "Stephen Mutaawe Lubega"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

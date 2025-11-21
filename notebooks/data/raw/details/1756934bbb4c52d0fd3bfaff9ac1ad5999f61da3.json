@@ -1,0 +1,50 @@
+{
+  "paperId": "1756934bbb4c52d0fd3bfaff9ac1ad5999f61da3",
+  "externalIds": {
+    "MAG": "2108003784",
+    "DOI": "10.1007/s13593-015-0333-y",
+    "CorpusId": 23875332
+  },
+  "url": "https://www.semanticscholar.org/paper/1756934bbb4c52d0fd3bfaff9ac1ad5999f61da3",
+  "title": "The blurred boundaries of ecological, sustainable, and agroecological intensification: a review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2015,
+  "citationCount": 161,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13593-015-0333-y.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-015-0333-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-015-0333-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35774197",
+      "name": "A. Wezel"
+    },
+    {
+      "authorId": "113046776",
+      "name": "Gizachew Soboksa"
+    },
+    {
+      "authorId": "32107596",
+      "name": "S. McClelland"
+    },
+    {
+      "authorId": "6381368",
+      "name": "Florian Delespesse"
+    },
+    {
+      "authorId": "5161504",
+      "name": "Apolline Boissau"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

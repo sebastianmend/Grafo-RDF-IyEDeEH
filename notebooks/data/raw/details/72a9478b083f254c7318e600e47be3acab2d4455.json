@@ -1,0 +1,40 @@
+{
+  "paperId": "72a9478b083f254c7318e600e47be3acab2d4455",
+  "externalIds": {
+    "MAG": "1530690000",
+    "CorpusId": 24679214
+  },
+  "url": "https://www.semanticscholar.org/paper/72a9478b083f254c7318e600e47be3acab2d4455",
+  "title": "Development of agriculture machinery aided guidance system based on GPS and GIS",
+  "venue": "Workshop on Autonomic Communication",
+  "year": 2010,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48877873",
+      "name": "Z. Weidong"
+    },
+    {
+      "authorId": "143761498",
+      "name": "W. Chun"
+    },
+    {
+      "authorId": "2054675258",
+      "name": "Han Jing"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

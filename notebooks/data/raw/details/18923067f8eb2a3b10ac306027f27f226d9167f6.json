@@ -1,0 +1,47 @@
+{
+  "paperId": "18923067f8eb2a3b10ac306027f27f226d9167f6",
+  "externalIds": {
+    "DBLP": "journals/jfr/BargotiUNS15",
+    "MAG": "1959344004",
+    "DOI": "10.1002/rob.21583",
+    "CorpusId": 4375519
+  },
+  "url": "https://www.semanticscholar.org/paper/18923067f8eb2a3b10ac306027f27f226d9167f6",
+  "title": "A Pipeline for Trunk Detection in Trellis Structured Apple Orchards",
+  "venue": "J. Field Robotics",
+  "year": 2015,
+  "citationCount": 50,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rob.21583?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rob.21583, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2690856",
+      "name": "Suchet Bargoti"
+    },
+    {
+      "authorId": "3319082",
+      "name": "J. Underwood"
+    },
+    {
+      "authorId": "144147879",
+      "name": "Juan I. Nieto"
+    },
+    {
+      "authorId": "1800730",
+      "name": "S. Sukkarieh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "1070505baa23a6fe92234ffd5c6dda7f13f55bd8",
+  "externalIds": {
+    "MAG": "2013240772",
+    "DOI": "10.1109/ITAIC.2014.7065086",
+    "CorpusId": 843708
+  },
+  "url": "https://www.semanticscholar.org/paper/1070505baa23a6fe92234ffd5c6dda7f13f55bd8",
+  "title": "A soil moisture classification model based on SVM used in agricultural WSN",
+  "venue": "IEEE Joint International Information Technology and Artificial Intelligence Conference",
+  "year": 2014,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ITAIC.2014.7065086?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ITAIC.2014.7065086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2149398246",
+      "name": "Xiang Gao"
+    },
+    {
+      "authorId": "9332891",
+      "name": "Tancheng Lu"
+    },
+    {
+      "authorId": "39336958",
+      "name": "Peng Liu"
+    },
+    {
+      "authorId": "103114477",
+      "name": "Qiyong Lu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

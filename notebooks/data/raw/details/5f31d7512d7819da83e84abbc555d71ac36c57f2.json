@@ -1,0 +1,174 @@
+{
+  "paperId": "5f31d7512d7819da83e84abbc555d71ac36c57f2",
+  "externalIds": {
+    "MAG": "2220061396",
+    "DBLP": "journals/remotesensing/GarridoPRVGV15",
+    "DOI": "10.3390/rs71215870",
+    "CorpusId": 6846328
+  },
+  "url": "https://www.semanticscholar.org/paper/5f31d7512d7819da83e84abbc555d71ac36c57f2",
+  "title": "3D Maize Plant Reconstruction Based on Georeferenced Overlapping LiDAR Point Clouds",
+  "venue": "Remote Sensing",
+  "year": 2015,
+  "citationCount": 78,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/7/12/15870/pdf?version=1450359271",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs71215870?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs71215870, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143976763",
+      "name": "M. Garrido"
+    },
+    {
+      "authorId": "2860198",
+      "name": "D. Paraforos"
+    },
+    {
+      "authorId": "26272111",
+      "name": "D. Reiser"
+    },
+    {
+      "authorId": "1398454255",
+      "name": "M. Vázquez-Arellano"
+    },
+    {
+      "authorId": "3160926",
+      "name": "H. Griepentrog"
+    },
+    {
+      "authorId": "144750216",
+      "name": "C. Valero"
+    }
+  ],
+  "abstract": "3D crop reconstruction with a high temporal resolution and by the use of non-destructive measuring technologies can support the automation of plant phenotyping processes. Thereby, the availability of such 3D data can give valuable information about the plant development and the interaction of the plant genotype with the environment. This article presents a new methodology for georeferenced 3D reconstruction of maize plant structure. For this purpose a total station, an IMU, and several 2D LiDARs with different orientations were mounted on an autonomous vehicle. By the multistep methodology presented, based on the application of the ICP algorithm for point cloud fusion, it was possible to perform the georeferenced point clouds overlapping. The overlapping point cloud algorithm showed that the aerial points (corresponding mainly to plant parts) were reduced to 1.5%–9% of the total registered data. The remaining were redundant or ground points. Through the inclusion of different LiDAR point of views of the scene, a more realistic representation of the surrounding is obtained by the incorporation of new useful information but also of noise. The use of georeferenced 3D maize plant reconstruction at different growth stages, combined with the total station accuracy could be highly useful when performing precision agriculture at the crop plant level.",
+  "references": [
+    {
+      "paperId": "f20658b8abbb9f18a8271c44e20b2053da7f7734"
+    },
+    {
+      "paperId": "9eacfdca325a3e7216551304398bf2e4e8c2e83c"
+    },
+    {
+      "paperId": "e0b85b2af0e33eb92b11aab2ab66aba3089d5b31"
+    },
+    {
+      "paperId": "85b2547001dc11beed2554fd16f41a558ee81562"
+    },
+    {
+      "paperId": "01427cdde689db3de351527c5d11e5511fa4068d"
+    },
+    {
+      "paperId": "0492a841f46da1d5d45a3547705d9991f4b8cce5"
+    },
+    {
+      "paperId": "b7619b57b29c23054290dcde3076d4c633b4945b"
+    },
+    {
+      "paperId": "4afa9253789c106edf8d6f7143b51536c4a0c8a3"
+    },
+    {
+      "paperId": "a0aaedd253249059252937b53d98b2c958a7ac3c"
+    },
+    {
+      "paperId": "45b91e4f865d6ec81168ffbb95bc8fbc7b89435d"
+    },
+    {
+      "paperId": "0a74d0fc44d1d2f14fafc2d6fd3515645f2797c6"
+    },
+    {
+      "paperId": "5a4449949b2d349ef08474f98ca722e441ae1ea4"
+    },
+    {
+      "paperId": "de1c5ac3eb9792ed73ea27c03b0f3ba0b7857af4"
+    },
+    {
+      "paperId": "dc9edd43ec458ffeb77d1feebb0c82de5d5f44b2"
+    },
+    {
+      "paperId": "30204cd1e8551ddc1d532c20cdb5717f4cfd884f"
+    },
+    {
+      "paperId": "2c819f3ee55102dfecf413d720916323c0d86ca7"
+    },
+    {
+      "paperId": "565a793147e1ebdf01bd5ae12a1db3220ccfb3f1"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "d312672f278eb3914cc541520737e7a26980503d"
+    },
+    {
+      "paperId": "6e218b1c950f913f004696cd80698b35ca2314b0"
+    },
+    {
+      "paperId": "b67837e9d10eaec453975cfd651d976cca52913d"
+    },
+    {
+      "paperId": "2089815d73c05e95b9a03d9cf6b1305216d4c9c7"
+    },
+    {
+      "paperId": "f610efbda519f71bb755556b480f84183127f39d"
+    },
+    {
+      "paperId": "22cccd1bb0bfb2fe01c8db5e3859ac214fcf9542"
+    },
+    {
+      "paperId": "5aba2d68da959c19c22b87db5b26625055e1d9e4"
+    },
+    {
+      "paperId": "4c3622c6eea49f7f49ef04938c5f9c3d1e1a1cb9"
+    },
+    {
+      "paperId": "387cf7d1af7f23493d58b7605e72320c7ebf22b3"
+    },
+    {
+      "paperId": "621a81910d1f0e49280bd73240564d793a1867d8"
+    },
+    {
+      "paperId": "ed422b340ffd8a9d595634098c62d4486e18f984"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b42d64afc855b1e21692e5cecdd3c16c169dd2cf"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "72c10465e44eb6e020459c1eafc6184e25ba26aa"
+    },
+    {
+      "paperId": "b8d83ac3390953b4ea2988c50c265abe4162c1eb"
+    },
+    {
+      "paperId": "f76d66149f35cfc868419063babd63d459eab405"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "9da0a659a9d2833295e8cdb666ee4e5c3378091b",
+  "externalIds": {
+    "MAG": "66993016",
+    "DBLP": "conf/ifip12/FuXD13",
+    "DOI": "10.1007/978-3-642-54341-8_6",
+    "CorpusId": 35465166
+  },
+  "url": "https://www.semanticscholar.org/paper/9da0a659a9d2833295e8cdb666ee4e5c3378091b",
+  "title": "Agricultural Field Environment High-Quality Image Remote Acquisition",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-54341-8_6.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-54341-8_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-54341-8_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2957596",
+      "name": "Junqiang Fu"
+    },
+    {
+      "authorId": "2512318",
+      "name": "Deqin Xiao"
+    },
+    {
+      "authorId": "2116836755",
+      "name": "Xiaohui Deng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

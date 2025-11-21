@@ -1,0 +1,63 @@
+{
+  "paperId": "2048db50f50e27cc36f65deb566e911c94890e70",
+  "externalIds": {
+    "DBLP": "journals/wicomm/AnCLWASWT15",
+    "MAG": "2128373340",
+    "DOI": "10.1002/wcm.2448",
+    "CorpusId": 37262602
+  },
+  "url": "https://www.semanticscholar.org/paper/2048db50f50e27cc36f65deb566e911c94890e70",
+  "title": "Effective sensor deployment based on field information coverage in precision agriculture",
+  "venue": "Wireless Communications and Mobile Computing",
+  "year": 2015,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wcm.2448?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wcm.2448, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2066296872",
+      "name": "W. An"
+    },
+    {
+      "authorId": "1701485",
+      "name": "S. Ci"
+    },
+    {
+      "authorId": "1784105",
+      "name": "Haiyan Luo"
+    },
+    {
+      "authorId": "2528190",
+      "name": "Dalei Wu"
+    },
+    {
+      "authorId": "2132147",
+      "name": "V. Adamchuk"
+    },
+    {
+      "authorId": "145505074",
+      "name": "H. Sharif"
+    },
+    {
+      "authorId": "122024387",
+      "name": "Xueyi Wang"
+    },
+    {
+      "authorId": "144981702",
+      "name": "Hui Tang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

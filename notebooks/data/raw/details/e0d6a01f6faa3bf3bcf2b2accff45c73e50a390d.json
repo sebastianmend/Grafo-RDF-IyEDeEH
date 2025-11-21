@@ -1,0 +1,36 @@
+{
+  "paperId": "e0d6a01f6faa3bf3bcf2b2accff45c73e50a390d",
+  "externalIds": {
+    "MAG": "1773258195",
+    "CorpusId": 154169468
+  },
+  "url": "https://www.semanticscholar.org/paper/e0d6a01f6faa3bf3bcf2b2accff45c73e50a390d",
+  "title": "Statistical versus response efficiency – the non-neutrality of the choice of an underlying experimental design",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2060672367",
+      "name": "J. Meyerhoff"
+    },
+    {
+      "authorId": "69883602",
+      "name": "S. B. Olsen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

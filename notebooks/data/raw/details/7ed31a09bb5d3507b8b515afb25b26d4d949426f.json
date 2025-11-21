@@ -1,0 +1,43 @@
+{
+  "paperId": "7ed31a09bb5d3507b8b515afb25b26d4d949426f",
+  "externalIds": {
+    "DBLP": "journals/tmc/El-MoukaddemTX13",
+    "MAG": "2298699973",
+    "DOI": "10.1109/TMC.2011.266",
+    "CorpusId": 168556
+  },
+  "url": "https://www.semanticscholar.org/paper/7ed31a09bb5d3507b8b515afb25b26d4d949426f",
+  "title": "Mobile Relay Configuration in Data-Intensive Wireless Sensor Networks",
+  "venue": "IEEE Transactions on Mobile Computing",
+  "year": 2013,
+  "citationCount": 124,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TMC.2011.266?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TMC.2011.266, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403830273",
+      "name": "Fatmé El-Moukaddem"
+    },
+    {
+      "authorId": "1702057",
+      "name": "E. Torng"
+    },
+    {
+      "authorId": "144289197",
+      "name": "G. Xing"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

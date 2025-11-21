@@ -1,0 +1,46 @@
+{
+  "paperId": "54a6023c2f7be17c7d18a920b4ab119fc0c1f46b",
+  "externalIds": {
+    "MAG": "1494920118",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2015.7248088",
+    "CorpusId": 24385770
+  },
+  "url": "https://www.semanticscholar.org/paper/54a6023c2f7be17c7d18a920b4ab119fc0c1f46b",
+  "title": "The design of general purpose autonomous agricultural mobile-robot: “AGROBOT”",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2015,
+  "citationCount": 46,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2015.7248088?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2015.7248088, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31237044",
+      "name": "Halil Durmus"
+    },
+    {
+      "authorId": "2778183",
+      "name": "E. O. Gunes"
+    },
+    {
+      "authorId": "1790649",
+      "name": "M. Kirci"
+    },
+    {
+      "authorId": "1686902",
+      "name": "B. Ustundag"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

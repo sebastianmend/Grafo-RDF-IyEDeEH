@@ -1,0 +1,32 @@
+{
+  "paperId": "39f10b9a8f631df329926be634e664afe041defd",
+  "externalIds": {
+    "MAG": "104082108",
+    "CorpusId": 108039731
+  },
+  "url": "https://www.semanticscholar.org/paper/39f10b9a8f631df329926be634e664afe041defd",
+  "title": "A low-cost remote sensing system for agricultural applications",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9310091",
+      "name": "S. Rambat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

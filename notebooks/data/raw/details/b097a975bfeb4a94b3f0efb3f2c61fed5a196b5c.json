@@ -1,0 +1,40 @@
+{
+  "paperId": "b097a975bfeb4a94b3f0efb3f2c61fed5a196b5c",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ChenX10",
+    "MAG": "1523091692",
+    "DOI": "10.1007/978-3-642-18336-2_61",
+    "CorpusId": 16276553
+  },
+  "url": "https://www.semanticscholar.org/paper/b097a975bfeb4a94b3f0efb3f2c61fed5a196b5c",
+  "title": "Simulation and Design of Mixing Mechanism in Fertilizer Automated Proportioning Equipment Based on Pro/E and CFD",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-18336-2_61.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18336-2_61?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18336-2_61, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109221649",
+      "name": "Liming Chen"
+    },
+    {
+      "authorId": "2125124521",
+      "name": "Liming Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

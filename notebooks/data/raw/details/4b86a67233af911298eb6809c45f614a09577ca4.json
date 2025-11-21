@@ -1,0 +1,56 @@
+{
+  "paperId": "4b86a67233af911298eb6809c45f614a09577ca4",
+  "externalIds": {
+    "DBLP": "conf/icoin/SuryadySBKSS11",
+    "MAG": "2105532728",
+    "DOI": "10.1109/ICOIN.2011.5723173",
+    "CorpusId": 18641835
+  },
+  "url": "https://www.semanticscholar.org/paper/4b86a67233af911298eb6809c45f614a09577ca4",
+  "title": "Performance evaluation of 6LoWPAN-based precision agriculture",
+  "venue": "International Conference on Information Networking",
+  "year": 2011,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOIN.2011.5723173?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOIN.2011.5723173, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2499337",
+      "name": "Zeldy Suryady"
+    },
+    {
+      "authorId": "3091987",
+      "name": "Mohd Hafiz Md Shaharil"
+    },
+    {
+      "authorId": "2369491",
+      "name": "Khairina Abu Bakar"
+    },
+    {
+      "authorId": "3281128",
+      "name": "R. Khoshdelniat"
+    },
+    {
+      "authorId": "1765645",
+      "name": "G. Sinniah"
+    },
+    {
+      "authorId": "48099600",
+      "name": "U. Sarwar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

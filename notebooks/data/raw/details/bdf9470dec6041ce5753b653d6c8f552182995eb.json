@@ -1,0 +1,43 @@
+{
+  "paperId": "bdf9470dec6041ce5753b653d6c8f552182995eb",
+  "externalIds": {
+    "DBLP": "journals/wicomm/ShenKW11",
+    "MAG": "1794108032",
+    "DOI": "10.1002/wcm.1237",
+    "CorpusId": 1777688
+  },
+  "url": "https://www.semanticscholar.org/paper/bdf9470dec6041ce5753b653d6c8f552182995eb",
+  "title": "Special issue on the selected papers of IWCMC'11",
+  "venue": "Wireless Communications and Mobile Computing",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wcm.1237?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wcm.1237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145947928",
+      "name": "Xuemin Shen"
+    },
+    {
+      "authorId": "145842185",
+      "name": "N. Kato"
+    },
+    {
+      "authorId": "144442055",
+      "name": "Ping Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

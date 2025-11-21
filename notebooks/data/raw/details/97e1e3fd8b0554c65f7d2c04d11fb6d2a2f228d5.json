@@ -1,0 +1,58 @@
+{
+  "paperId": "97e1e3fd8b0554c65f7d2c04d11fb6d2a2f228d5",
+  "externalIds": {
+    "MAG": "2591424394",
+    "DOI": "10.17660/ACTAHORTIC.2011.890.89",
+    "CorpusId": 185744009
+  },
+  "url": "https://www.semanticscholar.org/paper/97e1e3fd8b0554c65f7d2c04d11fb6d2a2f228d5",
+  "title": "Exportability of pomegranate on a threshold in North Karnataka",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.17660/ACTAHORTIC.2011.890.89?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17660/ACTAHORTIC.2011.890.89, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145083266",
+      "name": "R. Hosamani"
+    },
+    {
+      "authorId": "143785115",
+      "name": "H. Prabhu"
+    },
+    {
+      "authorId": "119896433",
+      "name": "S. Hosamani"
+    },
+    {
+      "authorId": "35691136",
+      "name": "N. M. Desai"
+    },
+    {
+      "authorId": "147991067",
+      "name": "R. A. Yaledahalli"
+    },
+    {
+      "authorId": "2104790648",
+      "name": "G. M. Hiremath"
+    },
+    {
+      "authorId": "79810801",
+      "name": "B. S. Kulkarni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

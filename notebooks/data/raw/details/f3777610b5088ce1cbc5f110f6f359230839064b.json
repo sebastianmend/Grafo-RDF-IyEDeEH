@@ -1,0 +1,45 @@
+{
+  "paperId": "f3777610b5088ce1cbc5f110f6f359230839064b",
+  "externalIds": {
+    "DBLP": "conf/nanocom/BhargavaID15",
+    "MAG": "1972283707",
+    "DOI": "10.1145/2800795.2800830",
+    "CorpusId": 6743482
+  },
+  "url": "https://www.semanticscholar.org/paper/f3777610b5088ce1cbc5f110f6f359230839064b",
+  "title": "Internet of Nano Things for Dairy Farming",
+  "venue": "Annual International Conference on Nanoscale Computing and Communication",
+  "year": 2015,
+  "citationCount": 19,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2800795.2800830?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2800795.2800830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39882924",
+      "name": "Kriti Bhargava"
+    },
+    {
+      "authorId": "48709947",
+      "name": "S. Ivanov"
+    },
+    {
+      "authorId": "144466141",
+      "name": "W. Donnelly"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

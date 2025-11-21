@@ -1,0 +1,44 @@
+{
+  "paperId": "db32a6c0428c185cfb08179bf6a84c32abc47a96",
+  "externalIds": {
+    "DBLP": "conf/iwcmc/JiberHK11",
+    "MAG": "2110692792",
+    "DOI": "10.1109/IWCMC.2011.5982844",
+    "CorpusId": 15708413
+  },
+  "url": "https://www.semanticscholar.org/paper/db32a6c0428c185cfb08179bf6a84c32abc47a96",
+  "title": "Precision agriculture monitoring framework based on WSN",
+  "venue": "International Wireless Communications & Mobile Computing Conference",
+  "year": 2011,
+  "citationCount": 47,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IWCMC.2011.5982844?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IWCMC.2011.5982844, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2199076",
+      "name": "Yassine Jiber"
+    },
+    {
+      "authorId": "1683919",
+      "name": "H. Harroud"
+    },
+    {
+      "authorId": "1681169",
+      "name": "A. Karmouch"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

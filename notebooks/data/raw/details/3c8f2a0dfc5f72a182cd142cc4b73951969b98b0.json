@@ -1,0 +1,40 @@
+{
+  "paperId": "3c8f2a0dfc5f72a182cd142cc4b73951969b98b0",
+  "externalIds": {
+    "MAG": "1980102650",
+    "DBLP": "conf/icnsc/SahotaK14a",
+    "DOI": "10.1109/ICNSC.2014.6819626",
+    "CorpusId": 18069466
+  },
+  "url": "https://www.semanticscholar.org/paper/3c8f2a0dfc5f72a182cd142cc4b73951969b98b0",
+  "title": "Network based sensor localization in multi-media application of precision agriculture Part 2: Time of arrival",
+  "venue": "Proceedings of the 11th IEEE International Conference on Networking, Sensing and Control",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICNSC.2014.6819626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICNSC.2014.6819626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47366436",
+      "name": "Herman Sahota"
+    },
+    {
+      "authorId": "1909719357",
+      "name": "Ratnesh Kumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

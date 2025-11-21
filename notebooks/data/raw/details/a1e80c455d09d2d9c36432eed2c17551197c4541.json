@@ -1,0 +1,48 @@
+{
+  "paperId": "a1e80c455d09d2d9c36432eed2c17551197c4541",
+  "externalIds": {
+    "DBLP": "conf/whispers/LeeHYB13",
+    "MAG": "2766427765",
+    "DOI": "10.1109/WHISPERS.2013.8080686",
+    "CorpusId": 20929100
+  },
+  "url": "https://www.semanticscholar.org/paper/a1e80c455d09d2d9c36432eed2c17551197c4541",
+  "title": "Determining optimal storage of field sampled cotton leaves for hyperspectral analysis",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2013.8080686?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2013.8080686, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1414111418",
+      "name": "Matthew A. Lee"
+    },
+    {
+      "authorId": "1793884",
+      "name": "Yanbo Huang"
+    },
+    {
+      "authorId": "33570367",
+      "name": "H. Yao"
+    },
+    {
+      "authorId": "2186022",
+      "name": "L. Bruce"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

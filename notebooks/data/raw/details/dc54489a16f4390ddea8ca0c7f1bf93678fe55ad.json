@@ -1,0 +1,42 @@
+{
+  "paperId": "dc54489a16f4390ddea8ca0c7f1bf93678fe55ad",
+  "externalIds": {
+    "MAG": "2316693938",
+    "DOI": "10.3724/SP.J.1238.2011.00576",
+    "CorpusId": 87695412
+  },
+  "url": "https://www.semanticscholar.org/paper/dc54489a16f4390ddea8ca0c7f1bf93678fe55ad",
+  "title": "Review on wireless sensor network technology applications in precision agriculture: Review on wireless sensor network technology applications in precision agriculture",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3724/SP.J.1238.2011.00576?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3724/SP.J.1238.2011.00576, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2110122978",
+      "name": "Zhen Li"
+    },
+    {
+      "authorId": "7922581",
+      "name": "T. Hong"
+    },
+    {
+      "authorId": "2075863929",
+      "name": "W. Ning"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

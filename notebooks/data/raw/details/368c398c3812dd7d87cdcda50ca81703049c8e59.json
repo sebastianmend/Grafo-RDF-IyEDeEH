@@ -1,0 +1,64 @@
+{
+  "paperId": "368c398c3812dd7d87cdcda50ca81703049c8e59",
+  "externalIds": {
+    "DBLP": "journals/staeors/HuangGLZZLHZ14",
+    "MAG": "2145887856",
+    "DOI": "10.1109/JSTARS.2013.2294961",
+    "CorpusId": 44687296
+  },
+  "url": "https://www.semanticscholar.org/paper/368c398c3812dd7d87cdcda50ca81703049c8e59",
+  "title": "New Optimized Spectral Indices for Identifying and Monitoring Winter Wheat Diseases",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2014,
+  "citationCount": 204,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2013.2294961?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2013.2294961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "2105525003",
+      "name": "Qingsong Guan"
+    },
+    {
+      "authorId": "46789070",
+      "name": "Juhua Luo"
+    },
+    {
+      "authorId": "47539689",
+      "name": "Jingcheng Zhang"
+    },
+    {
+      "authorId": "46509021",
+      "name": "Jinling Zhao"
+    },
+    {
+      "authorId": "2113984010",
+      "name": "Dong Liang"
+    },
+    {
+      "authorId": "2070741",
+      "name": "Linsheng Huang"
+    },
+    {
+      "authorId": "47845039",
+      "name": "Dongyan Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

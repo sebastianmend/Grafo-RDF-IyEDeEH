@@ -1,0 +1,128 @@
+{
+  "paperId": "b1aba7d3e3c1a82bf972c6a8e2a6d4f9eb6f5c58",
+  "externalIds": {
+    "MAG": "2035725901",
+    "PubMedCentral": "3178556",
+    "DOI": "10.1371/journal.pone.0024902",
+    "CorpusId": 14299465,
+    "PubMed": "21966378"
+  },
+  "url": "https://www.semanticscholar.org/paper/b1aba7d3e3c1a82bf972c6a8e2a6d4f9eb6f5c58",
+  "title": "Functional Mapping of Dynamic Traits with Robust t-Distribution",
+  "venue": "PLoS ONE",
+  "year": 2011,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0024902&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3178556, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2032358",
+      "name": "Cen Wu"
+    },
+    {
+      "authorId": "2599805",
+      "name": "Gengxin Li"
+    },
+    {
+      "authorId": "47055094",
+      "name": "Jun Zhu"
+    },
+    {
+      "authorId": "1808011",
+      "name": "Yuehua Cui"
+    }
+  ],
+  "abstract": "Functional mapping has been a powerful tool in mapping quantitative trait loci (QTL) underlying dynamic traits of agricultural or biomedical interest. In functional mapping, multivariate normality is often assumed for the underlying data distribution, partially due to the ease of parameter estimation. The normality assumption however could be easily violated in real applications due to various reasons such as heavy tails or extreme observations. Departure from normality has negative effect on testing power and inference for QTL identification. In this work, we relax the normality assumption and propose a robust multivariate -distribution mapping framework for QTL identification in functional mapping. Simulation studies show increased mapping power and precision with the distribution than that of a normal distribution. The utility of the method is demonstrated through a real data analysis.",
+  "references": [
+    {
+      "paperId": "ca5f9711679f5bba786c05c9d37476d71b2e84a5"
+    },
+    {
+      "paperId": "9ac54dc6a70e955a819b01a624cc321ae932fbd1"
+    },
+    {
+      "paperId": "28e95992691ebe261415bd48a67d1d3fe97f6d7c"
+    },
+    {
+      "paperId": "8a32cb80ddc27b090cedde4ae166f3655bf11f11"
+    },
+    {
+      "paperId": "66edaee076bff5a1f31a5cd8cd4e6655c5434e1e"
+    },
+    {
+      "paperId": "f644e26228b4608ed7ca5a5e65319b57f4065923"
+    },
+    {
+      "paperId": "4ec1a1bd4f38b2df7bf8c481f4cfa9b031f2f1d7"
+    },
+    {
+      "paperId": "c83b65f92e3c9f37625f6f7dc848a2a101a5a14b"
+    },
+    {
+      "paperId": "9d124bf6eb29f0e23c575e25a34670dbd1a852cc"
+    },
+    {
+      "paperId": "4b874fe2d1cdfdb9483a0837ea513c2d003d9278"
+    },
+    {
+      "paperId": "7b3cf6c38e0dd6645b0f81f51d866f1ad39b902f"
+    },
+    {
+      "paperId": "9fc3341711a12af154e4251d80061b882f0c4422"
+    },
+    {
+      "paperId": "cee1a001a8515629a2a9027181e769b23ea5e3fa"
+    },
+    {
+      "paperId": "f73e92f50ca907a3c2bcefcb0c7370cf990ec4d7"
+    },
+    {
+      "paperId": "42ba536dc4362e41a49bfc37af2950f343d98e49"
+    },
+    {
+      "paperId": "81152eebe2c9186d1fe50ad7d2d6aade78ee38a8"
+    },
+    {
+      "paperId": "035b796aeede23a8017ed731f843cc42254a2c55"
+    },
+    {
+      "paperId": "8aa7571820735e1c45e16781120878ec36d6994d"
+    },
+    {
+      "paperId": "e3d531fcf4ef7815e41958293ee7734428610a0a"
+    },
+    {
+      "paperId": "49c856541ff2f8153c2fd5fe3d2752f6b65d3049"
+    },
+    {
+      "paperId": "99249bb98264d128fd4b55f6838c05f3bb89832b"
+    },
+    {
+      "paperId": "5574d97ee9b3f4ab041fb1479c601446536cf27e"
+    },
+    {
+      "paperId": "e56bdc3a2388ff93205b42fce4546c5f272bbbdc"
+    },
+    {
+      "paperId": "b3dc56aedd8ec753821e7faee6bf129a1ca6ac2b"
+    },
+    {
+      "paperId": "96be493d2d823b6531579f2bb48ea766db0f5897"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "paperId": "4ad2800b8d96cf6a30af4da08b19b2be3bc24dd1",
+  "externalIds": {
+    "MAG": "2112507712",
+    "DOI": "10.1002/jssc.201201187",
+    "CorpusId": 34892176,
+    "PubMed": "23509020"
+  },
+  "url": "https://www.semanticscholar.org/paper/4ad2800b8d96cf6a30af4da08b19b2be3bc24dd1",
+  "title": "Use of chiral derivatization for the determination of dichlorprop in tea samples by ultra performance LC with fluorescence detection.",
+  "venue": "Journal of Separation Science",
+  "year": 2013,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jssc.201201187?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jssc.201201187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1891975",
+      "name": "K. Inoue"
+    },
+    {
+      "authorId": "15839158",
+      "name": "Nuntawat Prayoonhan"
+    },
+    {
+      "authorId": "34379282",
+      "name": "Haruhito Tsutsui"
+    },
+    {
+      "authorId": "3774955",
+      "name": "Tasuku Sakamoto"
+    },
+    {
+      "authorId": "48199096",
+      "name": "M. Nishimura"
+    },
+    {
+      "authorId": "152441937",
+      "name": "T. Toyo′oka"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

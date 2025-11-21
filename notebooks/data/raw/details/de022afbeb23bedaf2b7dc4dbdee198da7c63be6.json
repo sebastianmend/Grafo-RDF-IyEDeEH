@@ -1,0 +1,40 @@
+{
+  "paperId": "de022afbeb23bedaf2b7dc4dbdee198da7c63be6",
+  "externalIds": {
+    "MAG": "1623123887",
+    "CorpusId": 1973443
+  },
+  "url": "https://www.semanticscholar.org/paper/de022afbeb23bedaf2b7dc4dbdee198da7c63be6",
+  "title": "Security in IPv6-based wireless sensor network — Precision agriculture example",
+  "venue": "Proceedings of the 12th International Conference on Telecommunications",
+  "year": 2013,
+  "citationCount": 13,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3219583",
+      "name": "K. Grgic"
+    },
+    {
+      "authorId": "3197615",
+      "name": "D. Zagar"
+    },
+    {
+      "authorId": "2061095",
+      "name": "Visnja Krizanovic"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

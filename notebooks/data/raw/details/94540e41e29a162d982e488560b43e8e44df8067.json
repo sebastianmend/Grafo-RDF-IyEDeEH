@@ -1,0 +1,36 @@
+{
+  "paperId": "94540e41e29a162d982e488560b43e8e44df8067",
+  "externalIds": {
+    "MAG": "2038220364",
+    "DBLP": "journals/ijaeis/Lyle13",
+    "DOI": "10.4018/jaeis.2013040101",
+    "CorpusId": 35529251
+  },
+  "url": "https://www.semanticscholar.org/paper/94540e41e29a162d982e488560b43e8e44df8067",
+  "title": "Experiment to Test RTK GPS with Satellite \"Internet to Tractor\" for Precision Agriculture",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4018/jaeis.2013040101?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/jaeis.2013040101, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2282186",
+      "name": "S. Lyle"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

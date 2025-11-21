@@ -1,0 +1,43 @@
+{
+  "paperId": "a1641231beb2861e9e89a5e2b3b484529924164a",
+  "externalIds": {
+    "MAG": "1550810349",
+    "DBLP": "conf/ksem/YuanZZ13",
+    "DOI": "10.1007/978-3-642-39787-5_9",
+    "CorpusId": 19629141
+  },
+  "url": "https://www.semanticscholar.org/paper/a1641231beb2861e9e89a5e2b3b484529924164a",
+  "title": "A Semantic Technology Supported Precision Agriculture System: A Case Study for Citrus Fertilizing",
+  "venue": "Knowledge Science, Engineering and Management",
+  "year": 2013,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-39787-5_9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-39787-5_9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112461233",
+      "name": "Ye Yuan"
+    },
+    {
+      "authorId": "2069639790",
+      "name": "Wei Zeng"
+    },
+    {
+      "authorId": "2128158588",
+      "name": "Zili Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

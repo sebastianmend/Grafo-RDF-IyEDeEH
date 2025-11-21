@@ -1,0 +1,127 @@
+{
+  "paperId": "663649c0c7c595577d178433acb21be6a54f5ced",
+  "externalIds": {
+    "PubMedCentral": "4447852",
+    "MAG": "2139722889",
+    "DOI": "10.1186/2193-1801-3-225",
+    "CorpusId": 14088721,
+    "PubMed": "26034657"
+  },
+  "url": "https://www.semanticscholar.org/paper/663649c0c7c595577d178433acb21be6a54f5ced",
+  "title": "Feasibility of automated body trait determination using the SR4K time-of-flight camera in cow barns",
+  "venue": "SpringerPlus",
+  "year": 2014,
+  "citationCount": 41,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://springerplus.springeropen.com/counter/pdf/10.1186/2193-1801-3-225",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4447852, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3611907",
+      "name": "J. Salau"
+    },
+    {
+      "authorId": "35116993",
+      "name": "J. H. Haas"
+    },
+    {
+      "authorId": "50361325",
+      "name": "W. Junge"
+    },
+    {
+      "authorId": "46988738",
+      "name": "U. Bauer"
+    },
+    {
+      "authorId": "2053098319",
+      "name": "Jan Harms"
+    },
+    {
+      "authorId": "6283022",
+      "name": "Sascha Bieletzki"
+    }
+  ],
+  "abstract": "As herd sizes have increased in the last decades, computerized monitoring solutions, which provide fast, objective and accurate evaluations of the herd status, gain more and more importance. This study analyzes the feasibility of a Time-of-Flight-camera-based system for gathering body traits in dairy cows for use under cow barn conditions. Recording, determination of body condition score on a 5 point scale by visual and manual inspection, and measuring the backfat thickness with ultrasound took place from July 2011 to May 2012 at the dairy research farm Karkendamm of the Institute of Animal Breeding and Husbandry, Christian-Albrechts-University Kiel (Germany) and between August 2010 and July 2012 at the Institute for Agricultural Engineering and Animal Husbandry of Bavarian State Research Center for Agriculture in Grub (Germany). The two breeds Holstein Friesian cows (Karkendamm) and Fleckvieh (Grub) were considered in this study. Software for recording, image sorting and evaluation, determining the body parts needed, and extracting traits from the images was written and assembled to an automated system. Sorting the images and finding ischeal tuberosities, base of the tail, and dishes of the rump, backbone, and hips had error rates of 0.2%, 1.5%, 0.1%, and 2.6%, respectively. 13 traits were extracted and compared to backfat thickness and body condition score as well as between breeds. All traits depend significantly on the animal and showed very large effect sizes. Coefficients of determination restricted to individual animals were reaching up to 0.89. The precision in measuring the traits and gathering backfat thickness was comparable. Results indicated that the application of Time-Of-Flight in determination of body traits is feasible.",
+  "references": [
+    {
+      "paperId": "6627f1ae88f4521d6693926180ef984c683ad752"
+    },
+    {
+      "paperId": "d9182673cda9949ec3b5501d6a6352d4eaff3814"
+    },
+    {
+      "paperId": "dcf0abc518ad28eeb50c656f815cd52e2b2c1862"
+    },
+    {
+      "paperId": "d99f0e753755c3130ac4a7a49242fa4db1d32fa6"
+    },
+    {
+      "paperId": "cb19819676500104889a86e671c8b9e16b88f640"
+    },
+    {
+      "paperId": "01b44989904be690eccba17d388a3d7a5d061e23"
+    },
+    {
+      "paperId": "6f4e431472235de3ada3f8188af282b6ed4d9d72"
+    },
+    {
+      "paperId": "2c4796a8d592bef091915975cbec1d7bc75de4fc"
+    },
+    {
+      "paperId": "4fc2dbb6a804b784c00c30968807b57db8cd41f0"
+    },
+    {
+      "paperId": "2890d83402301fdcc8d82c52dd69fb5ca265a400"
+    },
+    {
+      "paperId": "6ed1459a0131d7166f3a104c9beaa32e4d8f3cf3"
+    },
+    {
+      "paperId": "4d8a5338042da99819746ff835b6f299135e2023"
+    },
+    {
+      "paperId": "66301e6553411e6fd3c2b9c39ab2ec77df8ff1e8"
+    },
+    {
+      "paperId": "a9e1bddb0fdc862859b90d03e20b34d4cfdf4b93"
+    },
+    {
+      "paperId": "88bb86ed43ec2cf396db6aee6c8559a48b64151c"
+    },
+    {
+      "paperId": "e4884ede95bd2e2539950a27141144a1684b6cce"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

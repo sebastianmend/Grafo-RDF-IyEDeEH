@@ -1,0 +1,277 @@
+{
+  "paperId": "73288675f0fe0b56e8ceeb0fc0abbd03da17c288",
+  "externalIds": {
+    "MAG": "1952209694",
+    "DBLP": "journals/tase/ChenLYJ15",
+    "DOI": "10.1109/TASE.2015.2422852",
+    "CorpusId": 15950715
+  },
+  "url": "https://www.semanticscholar.org/paper/73288675f0fe0b56e8ceeb0fc0abbd03da17c288",
+  "title": "Gaussian Process Decentralized Data Fusion and Active Sensing for Spatiotemporal Traffic Modeling and Prediction in Mobility-on-Demand Systems",
+  "venue": "IEEE Transactions on Automation Science and Engineering",
+  "year": 2015,
+  "citationCount": 105,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://dspace.mit.edu/bitstream/1721.1/100467/1/Jaillet_Gaussian%20process.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2015.2422852?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2015.2422852, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143713657",
+      "name": "Jie Chen"
+    },
+    {
+      "authorId": "145454065",
+      "name": "K. H. Low"
+    },
+    {
+      "authorId": "2707777",
+      "name": "Yujian Yao"
+    },
+    {
+      "authorId": "1805753",
+      "name": "Patrick Jaillet"
+    }
+  ],
+  "abstract": "Mobility-on-demand (MoD) systems have recently emerged as a promising paradigm of one-way vehicle sharing for sustainable personal urban mobility in densely populated cities. We assume the capability of a MoD system to be enhanced by deploying robotic shared vehicles that can autonomously cruise the streets to be hailed by users. A key challenge of the MoD system is that of real-time, fine-grained mobility demand and traffic flow sensing and prediction. This paper presents novel Gaussian process (GP) decentralized data fusion and active sensing algorithms for real-time, fine-grained traffic modeling and prediction with a fleet of MoD vehicles. The predictive performance of our decentralized data fusion algorithms are theoretically guaranteed to be equivalent to that of sophisticated centralized sparse GP approximations. We derive consensus filtering variants requiring only local communication between neighboring vehicles. We theoretically guarantee the performance of our decentralized active sensing algorithms. When they are used to gather informative data for mobility demand prediction, they can achieve a dual effect of fleet rebalancing to service mobility demands. Empirical evaluation on real-world datasets shows that our algorithms are significantly more time-efficient and scalable in the size of data and fleet while achieving predictive performance comparable to that of state-of-the-art algorithms. Note to Practitioners-Knowing, understanding, and predicting spatiotemporally varying traffic phenomena in real time has become increasingly important to the goal of achieving smooth-flowing, congestion-free traffic in densely populated urban cities, which motivates our work here. This paper addresses the following fundamental problem of data fusion and active sensing: How can a fleet of autonomous robotic vehicles or mobile probes actively cruise a road network to gather and assimilate the most informative data for predicting a spatiotemporally varying traffic phenomenon like a mobility demand pattern or traffic flow? Existing centralized solutions are poorly suited because they suffer from a single point of failure and incur huge communication, space, and time overheads with large data and fleet. This paper proposes novel efficient and scalable decentralized data fusion and active sensing algorithms with theoretical performance guarantees. The practical applicability of our algorithms is not restricted to traffic monitoring [1]-[4]; they can be used in other environmental sensing applications such as mineral prospecting [5], precision agriculture, monitoring of ocean/freshwater phenomena (e.g., plankton bloom) [6]-[9], forest ecosystems, pollution (e.g., oil spill), or contamination. Note that the decentralized data fusion component of our algorithms can also be used for static sensors and passive mobile probes and, interestingly, adapted to parallel implementations to be run on a cluster of machines for achieving efficient and scalable probabilistic prediction (i.e., with predictive uncertainty) with large data. Empirical results show that our algorithms can perform well with two datasets featuring real-world traffic phenomena in the densely-populated urban city of Singapore. A limitation of our algorithms is that the decentralized data fusion components assume independence between multiple traffic phenomena while the decentralized active sensing components only work for a single traffic phenomenon. So, in our future work, we will generalize our algorithms to perform active sensing of multiple traffic phenomena and remove the assumption of independence between them.",
+  "references": [
+    {
+      "paperId": "4587367a7b6675692f325ee76ce2a825e0734b57"
+    },
+    {
+      "paperId": "5235ab4503422983b537e1960bbc470abe4b2cef"
+    },
+    {
+      "paperId": "eff923c9b94dfa49a97bca344ba2bf18d69bb4e3"
+    },
+    {
+      "paperId": "802721665a0c4e41535b80058f436c942c10685c"
+    },
+    {
+      "paperId": "bfaafc8abd66b1eb7dd55a4f4344e08a535367b4"
+    },
+    {
+      "paperId": "9f3737da04a60e50cd5df0edabee10902029c94a"
+    },
+    {
+      "paperId": "8bd20d2b0502c19814686b31b2b0cd104d1594a2"
+    },
+    {
+      "paperId": "c503bb472f00eed11aee5ec7c75f360f70c09e79"
+    },
+    {
+      "paperId": "e3c14f6d5c642bc89caace64fef2c4f379f3da09"
+    },
+    {
+      "paperId": "b09b97cf3fbb3bd1c217591bb89bf299d8e249c3"
+    },
+    {
+      "paperId": "3e865fa867c1cad30646a7de4990bfd1c6f260a2"
+    },
+    {
+      "paperId": "31fcf570c22cbcb74ec4dc0ee6528d6ae1363e57"
+    },
+    {
+      "paperId": "6be8a8f986641c505a78b51fa6aa6cb6f63fbcf5"
+    },
+    {
+      "paperId": "e3d21f5802fcd8873a67e9bb902cd2381c7acb5d"
+    },
+    {
+      "paperId": "0c1261099c2dac0efb2b43a96726d3139174e04d"
+    },
+    {
+      "paperId": "268923650c6d03a21dfe003920cf7f7a0d252fbc"
+    },
+    {
+      "paperId": "b67cdbf22bc93369aeebe8d4df513b8ccdfd0aac"
+    },
+    {
+      "paperId": "499d0b1d4c0e8f7b93cd47343616daac17ee3ad3"
+    },
+    {
+      "paperId": "2b535a6bdc9329f89d09e0ca38b3c3a563617978"
+    },
+    {
+      "paperId": "a0f05ea4120be0a3053ef5416954a74868b6f41b"
+    },
+    {
+      "paperId": "966d18a9bf5e480bc421d56c6a4faefba71d5a1c"
+    },
+    {
+      "paperId": "6668f3e10232d2f3d793f4918029da17a9f927c9"
+    },
+    {
+      "paperId": "60026012161d8d15cfa546e11df9ed4535d0ae95"
+    },
+    {
+      "paperId": "12a710c108d8f843df1ce3b766ed157cc905e3c2"
+    },
+    {
+      "paperId": "a4d9bf181dd0709ed30a18aed88c119ca502b2b4"
+    },
+    {
+      "paperId": "96bbae8c69e669e2ea59d1130484dc563d0c21d6"
+    },
+    {
+      "paperId": "a4975ca2e2f68b1ebbcf1ea095623527da9a7263"
+    },
+    {
+      "paperId": "aa0b01b4b36e9be82382a4ff2f201f75a8e758ae"
+    },
+    {
+      "paperId": "2ec0d422cfa82588081381c8118f958d1ba963a9"
+    },
+    {
+      "paperId": "70fa5442018e5200e01ccb01779c96c8c787061c"
+    },
+    {
+      "paperId": "8380e87b9a4dc7cb724dc02e73d523eb77237dd8"
+    },
+    {
+      "paperId": "a301edf25f11440569f6f81af5902a4532b1dcb8"
+    },
+    {
+      "paperId": "40a7795fa8a3580b5d7462e8a05b1edbcd3a2840"
+    },
+    {
+      "paperId": "ca99c6d8e1321c02789a3e4fde334aea08874239"
+    },
+    {
+      "paperId": "261883712c238018af26f9f8db71a5e42a53f0fe"
+    },
+    {
+      "paperId": "ef7ec76ecc1811e8f55ca2dd6a02104ac2710605"
+    },
+    {
+      "paperId": "f7d96ad32e3d2476b1e6bbc40381b21a5301b4da"
+    },
+    {
+      "paperId": "371d401244db8825b994a55b5887ecd300b92b1a"
+    },
+    {
+      "paperId": "abca3c16c31d20c9d2796c07c5b24b06dee076b2"
+    },
+    {
+      "paperId": "49bc7fd1009598a340caa9c228bcce8ad92b78b7"
+    },
+    {
+      "paperId": "713fb831bf324690aa7a7e07ace3443770046007"
+    },
+    {
+      "paperId": "39e1c9b8d38bfed261674e24e9ef6bd1695b4b77"
+    },
+    {
+      "paperId": "af8e00996af554257dd935cdee1b9e6ba37db1b8"
+    },
+    {
+      "paperId": "5ac335eadd259f82acbbba266511d9ee9b56df44"
+    },
+    {
+      "paperId": "f0f1709e8057aa8bfda6bef1e2310f9f4793a20b"
+    },
+    {
+      "paperId": "58684e2f85dedd56b75e16188c23ad97206a3051"
+    },
+    {
+      "paperId": "8f4728b434e0c7d6f01dae506702aac86476cd01"
+    },
+    {
+      "paperId": "554894f70b28dba58b396c2d84080ac01051261b"
+    },
+    {
+      "paperId": "b4b3c29caab2058468a50c4eadc7cb37da852a8e"
+    },
+    {
+      "paperId": "fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4"
+    },
+    {
+      "paperId": "ba5014cae3d25ce0f4c666a3f60508a1dae5adac"
+    },
+    {
+      "paperId": "a836a5b1096b7639b5e1a5c79655f4ab52f4fa71"
+    },
+    {
+      "paperId": "91c6a2d541d38739a88616882c8f847369505a6a"
+    },
+    {
+      "paperId": "b6cddcd34200b4d4af1066e2dff770bc5846b8e2"
+    },
+    {
+      "paperId": "a6ee8a3634cdb4878caf223d477c9b866cdb2c67"
+    },
+    {
+      "paperId": "671f069518cec4b658c80fa31bde40ed2704a3cd"
+    },
+    {
+      "paperId": "e854885e41b6754177d0892129a8215b7e467c23"
+    },
+    {
+      "paperId": "1ec67714cfc03d275c42e14ba5c193e5c1e67c4c"
+    },
+    {
+      "paperId": "5b458ee989583e9a6a67046ed9441e254a49b1da"
+    },
+    {
+      "paperId": "6d45fd83bc901658a485b989dcb894b12e290be1"
+    },
+    {
+      "paperId": "7fe43354e5e3e40751589538abc30606f9c13c95"
+    },
+    {
+      "paperId": "86123dec962431974292e44d2f0485c4bc8eea50"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "444d70e3331b5083b40ef32e49390ef683a65e67"
+    },
+    {
+      "paperId": "a7216a0fa997153dce04398d64e9d68b773cf765"
+    },
+    {
+      "paperId": "f41f244022ca70ecf237ae463fc293de41ce3145"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "84d2b91be9df27d9db40fbd2259c7e37aaed40e0"
+    },
+    {
+      "paperId": "40d0a8f4eca57f1462499f3b8b481a978a4710db"
+    },
+    {
+      "paperId": "145512a08a7cd79a0efb1f0503ddc6a4e4ef02dc"
+    },
+    {
+      "paperId": "8357b247851cab255fee7a16edfed63959a6a383"
+    },
+    {
+      "paperId": "fde4bf50d48d54ba913d574c849566dc4f3d4fde"
+    },
+    {
+      "paperId": "6c09c25131ac2e7f01fd14ce2a576c209f8ad23e"
+    },
+    {
+      "paperId": "8af9a0db99cdb5e00a1244e836c70270c490230a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

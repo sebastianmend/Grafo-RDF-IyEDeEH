@@ -1,0 +1,50 @@
+{
+  "paperId": "41c43325dc2fec14b1f0debaa3f2b17d22cfd540",
+  "externalIds": {
+    "MAG": "1974421308",
+    "DOI": "10.1111/J.1741-3729.2012.00717.X",
+    "CorpusId": 143557083
+  },
+  "url": "https://www.semanticscholar.org/paper/41c43325dc2fec14b1f0debaa3f2b17d22cfd540",
+  "title": "Risk and Resilience in Rural Communities: The Experiences of Immigrant Latina Mothers",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 31,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/J.1741-3729.2012.00717.X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/J.1741-3729.2012.00717.X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Psychology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48289874",
+      "name": "M. Raffaelli"
+    },
+    {
+      "authorId": "6468275",
+      "name": "Steve P. Tran"
+    },
+    {
+      "authorId": "8458946",
+      "name": "A. Wiley"
+    },
+    {
+      "authorId": "1412902405",
+      "name": "Maria Galarza-Heras"
+    },
+    {
+      "authorId": "46751255",
+      "name": "Vanja Lazarevic"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

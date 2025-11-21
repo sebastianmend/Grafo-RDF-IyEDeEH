@@ -1,0 +1,56 @@
+{
+  "paperId": "93afc34a6025972c496eb74094c005a5dd73a747",
+  "externalIds": {
+    "MAG": "2329398122",
+    "DOI": "10.5740/JAOACINT.12-248",
+    "CorpusId": 11555742,
+    "PubMed": "24000762"
+  },
+  "url": "https://www.semanticscholar.org/paper/93afc34a6025972c496eb74094c005a5dd73a747",
+  "title": "Quantification of melamine in drinking water and wastewater by micellar liquid chromatography.",
+  "venue": "Journal of AOAC International",
+  "year": 2013,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5740/JAOACINT.12-248?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5740/JAOACINT.12-248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1398599915",
+      "name": "B. Beltrán-Martinavarro"
+    },
+    {
+      "authorId": "1397690827",
+      "name": "J. Peris‐Vicente"
+    },
+    {
+      "authorId": "1403156260",
+      "name": "M. Rambla-Alegre"
+    },
+    {
+      "authorId": "1397690841",
+      "name": "Sergio Marco-Peiró"
+    },
+    {
+      "authorId": "1413128999",
+      "name": "J. Esteve-Romero"
+    },
+    {
+      "authorId": "1399063445",
+      "name": "S. Carda-Broch"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

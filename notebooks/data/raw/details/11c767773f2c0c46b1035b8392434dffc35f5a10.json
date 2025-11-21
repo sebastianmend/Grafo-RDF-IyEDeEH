@@ -1,0 +1,50 @@
+{
+  "paperId": "11c767773f2c0c46b1035b8392434dffc35f5a10",
+  "externalIds": {
+    "MAG": "1521152300",
+    "DOI": "10.1109/ICIIECS.2015.7193192",
+    "CorpusId": 12835910
+  },
+  "url": "https://www.semanticscholar.org/paper/11c767773f2c0c46b1035b8392434dffc35f5a10",
+  "title": "Time series analysis of clustering high dimensional data in precision agriculture",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193192?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193192, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145143140",
+      "name": "Sweta Singh"
+    },
+    {
+      "authorId": "9456691",
+      "name": "Kiran Singh Champawat"
+    },
+    {
+      "authorId": "34926464",
+      "name": "Sanya Ambegaokar"
+    },
+    {
+      "authorId": "2110763559",
+      "name": "Animesh Gupta"
+    },
+    {
+      "authorId": "2667249",
+      "name": "Shirish , Sharma"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

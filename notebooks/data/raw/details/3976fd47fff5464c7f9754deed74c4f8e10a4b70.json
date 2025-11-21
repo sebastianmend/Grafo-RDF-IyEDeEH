@@ -1,0 +1,44 @@
+{
+  "paperId": "3976fd47fff5464c7f9754deed74c4f8e10a4b70",
+  "externalIds": {
+    "DBLP": "conf/ems/MadanyEA13",
+    "MAG": "1982143179",
+    "DOI": "10.1109/EMS.2013.121",
+    "CorpusId": 12688278
+  },
+  "url": "https://www.semanticscholar.org/paper/3976fd47fff5464c7f9754deed74c4f8e10a4b70",
+  "title": "Modelling and Simulation of Robust Navigation for Unmanned Air Systems (UASs) Based on Integration of Multiple Sensors Fusion Architecture",
+  "venue": "European Symposium on Computer Modeling and Simulation",
+  "year": 2013,
+  "citationCount": 12,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EMS.2013.121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EMS.2013.121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2647882",
+      "name": "Y. Madany"
+    },
+    {
+      "authorId": "34921951",
+      "name": "H. Elkamchouchi"
+    },
+    {
+      "authorId": "2115615730",
+      "name": "Mostafa M. Ahmed"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

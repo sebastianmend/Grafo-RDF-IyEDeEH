@@ -1,0 +1,59 @@
+{
+  "paperId": "db56ac2600279405f3bdbdaeab194be22b111e11",
+  "externalIds": {
+    "MAG": "2041141804",
+    "DOI": "10.1117/12.2066366",
+    "CorpusId": 129030213
+  },
+  "url": "https://www.semanticscholar.org/paper/db56ac2600279405f3bdbdaeab194be22b111e11",
+  "title": "Integration of geoinformatics and wireless sensors for smart agriculture in tea",
+  "venue": "International Conference on Remote Sensing and Geoinformation of Environment",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2066366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2066366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "116146073",
+      "name": "Niladri Gupta"
+    },
+    {
+      "authorId": "2119997114",
+      "name": "P. P. Gupta"
+    },
+    {
+      "authorId": "144082493",
+      "name": "P. Pramanik"
+    },
+    {
+      "authorId": "105036505",
+      "name": "A. Saikia"
+    },
+    {
+      "authorId": "1403741622",
+      "name": "Lahari Sengupta"
+    },
+    {
+      "authorId": "40390710",
+      "name": "R. M. Bhagat"
+    },
+    {
+      "authorId": "92006419",
+      "name": "N. Bhattacharya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

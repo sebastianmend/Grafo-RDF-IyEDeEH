@@ -1,0 +1,35 @@
+{
+  "paperId": "36879569ef7539dc61800ca2c21a0dedcbdfc5ff",
+  "externalIds": {
+    "MAG": "1601117465",
+    "DBLP": "journals/ijscn/Matricciani13",
+    "DOI": "10.1002/sat.1021",
+    "CorpusId": 41762563
+  },
+  "url": "https://www.semanticscholar.org/paper/36879569ef7539dc61800ca2c21a0dedcbdfc5ff",
+  "title": "A mathematical theory of de‐integrating long‐time integrated rainfall statistics. Part II: from 1 day to 1 minute",
+  "venue": "International Journal of Satellite Communications And Networking",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sat.1021",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/sat.1021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/sat.1021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2421223",
+      "name": "E. Matricciani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

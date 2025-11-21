@@ -1,0 +1,38 @@
+{
+  "paperId": "0fdd13a86349bad79e25f96bb11223f95dd2537b",
+  "externalIds": {
+    "MAG": "2039203398",
+    "DOI": "10.1109/CARPATHIANCC.2014.6843694",
+    "CorpusId": 33610570
+  },
+  "url": "https://www.semanticscholar.org/paper/0fdd13a86349bad79e25f96bb11223f95dd2537b",
+  "title": "Implementation of multi-node temperature measurement system for bee colonies online monitoring",
+  "venue": "International Conference on Innovative Computing and Cloud Computing",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CARPATHIANCC.2014.6843694?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CARPATHIANCC.2014.6843694, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2917517",
+      "name": "A. Zacepins"
+    },
+    {
+      "authorId": "9524756",
+      "name": "J. Meitalovs"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

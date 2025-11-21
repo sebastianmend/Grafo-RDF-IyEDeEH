@@ -1,0 +1,250 @@
+{
+  "paperId": "d5018bb186da70e01489bcf5734b1adab99e779b",
+  "externalIds": {
+    "MAG": "2116793731",
+    "DBLP": "journals/remotesensing/SiegmannJBE15",
+    "DOI": "10.3390/rs71012737",
+    "CorpusId": 11018231
+  },
+  "url": "https://www.semanticscholar.org/paper/d5018bb186da70e01489bcf5734b1adab99e779b",
+  "title": "The Potential of Pan-Sharpened EnMAP Data for the Assessment of Wheat LAI",
+  "venue": "Remote Sensing",
+  "year": 2015,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/7/10/12737/pdf?version=1443497899",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs71012737?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs71012737, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2411204",
+      "name": "B. Siegmann"
+    },
+    {
+      "authorId": "2421126",
+      "name": "T. Jarmer"
+    },
+    {
+      "authorId": "144226591",
+      "name": "F. Beyer"
+    },
+    {
+      "authorId": "144002559",
+      "name": "M. Ehlers"
+    }
+  ],
+  "abstract": "In modern agriculture, the spatially differentiated assessment of the leaf area index (LAI) is of utmost importance to allow an adapted field management. Current hyperspectral satellite systems provide information with a high spectral but only a medium spatial resolution. Due to the limited ground sampling distance (GSD), hyperspectral satellite images are often insufficient for precision agricultural applications. In the presented study, simulated hyperspectral data of the upcoming Environmental Mapping and Analysis Program (EnMAP) mission (30 m GSD) covering an agricultural region were pan-sharpened with higher resolution panchromatic aisaEAGLE (airborne imaging spectrometer for applications EAGLE) (3 m GSD) and simulated Sentinel-2 images (10 m GSD) using the spectral preserving Ehlers Fusion. As fusion evaluation criteria, the spectral angle (αspec) and the correlation coefficient (R) were calculated to determine the spectral preservation capability of the fusion results. Additionally, partial least squares regression (PLSR) models were built based on the EnMAP images, the fused datasets and the original aisaEAGLE hyperspectral data to spatially predict the LAI of two wheat fields. The aisaEAGLE model provided the best results (R2cv = 0.87) followed by the models built with the fused datasets (EnMAP–aisaEAGLE and EnMAP–Sentinel-2 fusion each with a R2cv of 0.75) and the simulated EnMAP data (R2cv = 0.68). The results showed the suitability of pan-sharpened EnMAP data for a reliable spatial prediction of LAI and underlined the potential of pan-sharpening to enhance spatial resolution as required for precision agriculture applications.",
+  "references": [
+    {
+      "paperId": "df7d5eabb0a924850541b979cbf9b5672355c45a"
+    },
+    {
+      "paperId": "e8c4211a96d1ff08a09a7adabc1c69e0f9d1120f"
+    },
+    {
+      "paperId": "a9449adbedc8d14cce63acd9f3771aab7a3481d4"
+    },
+    {
+      "paperId": "26e6e028e8a974490834a64caaa8a8c36cde6531"
+    },
+    {
+      "paperId": "be5ce848b3a421b3e95552ccc4725415062844da"
+    },
+    {
+      "paperId": "38ce9350514fa032e3323f1e42d808fc2fdbc3e5"
+    },
+    {
+      "paperId": "bb12e3c9150cb52ea43bd636be0f3b6a0a10beef"
+    },
+    {
+      "paperId": "b845bd9929fc410937698b1979f644632e3dcc9a"
+    },
+    {
+      "paperId": "bf6aeeabd5de51510331875f0759071b0ea0d94b"
+    },
+    {
+      "paperId": "db0ccb979f98b63846aca745953654fd8a441623"
+    },
+    {
+      "paperId": "131384a79bbd00d97d2f61999cdf4712f34aaad3"
+    },
+    {
+      "paperId": "2a14d63d6f1ac909069ef0b5d623349fe7a4af64"
+    },
+    {
+      "paperId": "a2e2574a638a4a1574a6e72bc78b57cb98fb5b16"
+    },
+    {
+      "paperId": "a38b0fa13da318e69cafbff2c8e9b0ef843d8eb4"
+    },
+    {
+      "paperId": "9b0c7714991f66c00c41c99962d4290ae73d4e3b"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "70975489d757df88dda2b36ef353f517db1de32a"
+    },
+    {
+      "paperId": "a71a9db1bcf346c3eba5f2377df41ca388f5514c"
+    },
+    {
+      "paperId": "7a2ed2b556f942f21eff671ca3eee08478b8c330"
+    },
+    {
+      "paperId": "b8afed5d8c39fdc9e98e26b80bac661ec35ceb85"
+    },
+    {
+      "paperId": "1fd80707121109a49660ef670390408355dc3760"
+    },
+    {
+      "paperId": "e3e8074c087a07139ca51f81542125457264046b"
+    },
+    {
+      "paperId": "70fb53d6031c96b9b2dc5a722933da81410c98e1"
+    },
+    {
+      "paperId": "633af1628157e4f4ecea6582f00730947d7de8d4"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "24560a52f6c69603769a244ba7fc23704bed4f96"
+    },
+    {
+      "paperId": "33232e0f2b2dac0b25ae160c7c06ca3fc0f140cf"
+    },
+    {
+      "paperId": "5e37092eaf96f622ad5687bfab96dd87a92e7841"
+    },
+    {
+      "paperId": "6e607dd5b4208d023f084fc9dd51bfcb2ff26d0c"
+    },
+    {
+      "paperId": "1fe51541cd37b8bd423e1cb31b4e4999ec21718a"
+    },
+    {
+      "paperId": "6fa0cec7af837349f234f38e334aaa86c517f731"
+    },
+    {
+      "paperId": "7fa7aa3ceaacacfa78fa75b719dbbe6ec5b907cb"
+    },
+    {
+      "paperId": "330d3cf5bd84ae4155d1c6673a653ce950320e10"
+    },
+    {
+      "paperId": "ee2c9fa4c5421d95588cf6a1958b249dd05c5b40"
+    },
+    {
+      "paperId": "69be582d6c9c90ee6a0710ab37566ab98b266174"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "736bd3722368faadf600f97424fe275fd1429e5d"
+    },
+    {
+      "paperId": "6380a991fda39fcf20d118d817755314f7203a7c"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "c42f10ecd89f9f9461e08ad4da2fbdcee0611fb4"
+    },
+    {
+      "paperId": "31cd41071b146a07b735aeb6ed710b0c849a6b37"
+    },
+    {
+      "paperId": "e34843845641951bd0d800000ead5076665c5ee9"
+    },
+    {
+      "paperId": "e7f8ca2ff10a62a60258292564a13c48b871f2d4"
+    },
+    {
+      "paperId": "4f18900d8f475e87678f544817c10be903036003"
+    },
+    {
+      "paperId": "bde306ea23f74a32783d1537cd334386e9710e73"
+    },
+    {
+      "paperId": "317556fa532acf9c4132f5907d392fbb8b21f41b"
+    },
+    {
+      "paperId": "091bde9c7a97adf6b40e3e172aa4f34bb4d725c5"
+    },
+    {
+      "paperId": "70775788414459393eb6ddcf5dce95aac68721d0"
+    },
+    {
+      "paperId": "cea14aab34e1d09d0a9eb02ceb2d5641065a581d"
+    },
+    {
+      "paperId": "b4dc6443289349123061eef483c337dc7f6d08ba"
+    },
+    {
+      "paperId": "ae56b6970102d2a1ad38cfaab044b7c09480602e"
+    },
+    {
+      "paperId": "63e0b9ff3a4e745ccd0a48ea508a57a374c44ac8"
+    },
+    {
+      "paperId": "50a42ed2f81b9fe150883a6c89194c88a9647106"
+    },
+    {
+      "paperId": "cef54a1a117157ab3ec336ff83acc62eaafdd3c2"
+    },
+    {
+      "paperId": "318cf9ee36ef519e450144a6a494dfb09a1be8eb"
+    },
+    {
+      "paperId": "3dd5244ab03ed82c9baaa9873d957df2125e037a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

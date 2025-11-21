@@ -1,0 +1,76 @@
+{
+  "paperId": "cb8b64ab1b2df7bb0f1d1b397a6fe6725183fd08",
+  "externalIds": {
+    "MAG": "2238690551",
+    "DOI": "10.15414/AFZ.2015.18.SI.68-70",
+    "CorpusId": 55148017
+  },
+  "url": "https://www.semanticscholar.org/paper/cb8b64ab1b2df7bb0f1d1b397a6fe6725183fd08",
+  "title": "Field spectroscopy for precision organic production",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://afz.fapz.uniag.sk/legacy/journal/index.php/on_line/article/download/214/214-1446-1-PB.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15414/AFZ.2015.18.SI.68-70?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15414/AFZ.2015.18.SI.68-70, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8870035",
+      "name": "A. Jung"
+    },
+    {
+      "authorId": "101265095",
+      "name": "B. Hegedus"
+    },
+    {
+      "authorId": "16252042",
+      "name": "D. Drexler"
+    }
+  ],
+  "abstract": "Field spectroscopy performs non-destructive chemical measurements without manipulating the measured materials, while providing the possibility of a broad spatial overview and a high temporal flexibility of measurements. High-resolution remote sensing applications can consolidate sustainable, prevention- and precision-oriented crop management strategies by decreasing their production risks. In  this  short  communication  technical  aspects  and  research  focuses  of  high  resolution  remote sensing in context of sustainable agricultural applications are presented. More detailed we focus on narrow band indications in the range of 400–1100  nm which are anticipated to become the basis of the  next  generation   of  commercialized   agricultural   sensors  due  to  their  cost-efficiency,   non-saturating behavior and high sensitivity. Non-scanning  snapshot hyperspectral imaging spectroscopy may  enable  researchers  to  overcome  the  gap  in  the  “point-pixel-image”-upscaling  of  proximal remote sensing, while providing a flexible solution for regular field applications such as soil and/or physiological vegetation paremeters. Keywords: field spectroscopy, proximal sensing, sensors, precision farming",
+  "references": [
+    {
+      "paperId": "71cb6053b6ecf9c39ff2d0bd1adcb162720478a3"
+    },
+    {
+      "paperId": "7f59cd4028094c8f3518b3e1ffd0d87c7f25ab35"
+    },
+    {
+      "paperId": "ba95467cf3552237b7c0dc63dee55ead6cf6a8b1"
+    },
+    {
+      "paperId": "f82149d1aac0f75c02c66c9b0cf5fea264a25889"
+    },
+    {
+      "paperId": "69be582d6c9c90ee6a0710ab37566ab98b266174"
+    },
+    {
+      "paperId": "6a18bf46308dcfa0d58547f68e678e8d976d3774"
+    },
+    {
+      "paperId": "b0868a01220f5fc86c270d722c8105e029f05035"
+    },
+    {
+      "paperId": "35a9823a9a6a8d9fa675437cd5c36958ed796ac5"
+    },
+    {
+      "paperId": "ea24304959a37eb641127f70623364d8f45d8c88"
+    },
+    {
+      "paperId": "a5cf92e5ab59803495c8ccd874eaaf47e430af86"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

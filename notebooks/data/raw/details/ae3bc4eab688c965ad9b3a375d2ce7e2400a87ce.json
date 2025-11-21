@@ -1,0 +1,39 @@
+{
+  "paperId": "ae3bc4eab688c965ad9b3a375d2ce7e2400a87ce",
+  "externalIds": {
+    "MAG": "2046978636",
+    "DOI": "10.1007/S11004-011-9318-9",
+    "CorpusId": 121426617
+  },
+  "url": "https://www.semanticscholar.org/paper/ae3bc4eab688c965ad9b3a375d2ce7e2400a87ce",
+  "title": "Application of Continuous Wavelet Transform in Examining Soil Spatial Variation: A Review",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 56,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S11004-011-9318-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S11004-011-9318-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "12704599",
+      "name": "Asim Biswas"
+    },
+    {
+      "authorId": "46760463",
+      "name": "B. Si"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

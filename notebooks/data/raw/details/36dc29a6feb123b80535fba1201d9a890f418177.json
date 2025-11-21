@@ -1,0 +1,47 @@
+{
+  "paperId": "36dc29a6feb123b80535fba1201d9a890f418177",
+  "externalIds": {
+    "DBLP": "journals/or/MillikenWMJ10",
+    "MAG": "2046881153",
+    "DOI": "10.1007/s12351-009-0072-4",
+    "CorpusId": 27579703
+  },
+  "url": "https://www.semanticscholar.org/paper/36dc29a6feb123b80535fba1201d9a890f418177",
+  "title": "Designing experiments to evaluate the effectiveness of precision agricultural practices on research fields: part 1 concepts for their formulation",
+  "venue": "Operational Research",
+  "year": 2010,
+  "citationCount": 15,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12351-009-0072-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12351-009-0072-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1827805",
+      "name": "G. Milliken"
+    },
+    {
+      "authorId": "49473090",
+      "name": "J. Willers"
+    },
+    {
+      "authorId": "3115524",
+      "name": "K. McCarter"
+    },
+    {
+      "authorId": "3152930",
+      "name": "J. Jenkins"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

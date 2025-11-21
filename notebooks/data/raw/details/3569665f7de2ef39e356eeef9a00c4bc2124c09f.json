@@ -1,0 +1,50 @@
+{
+  "paperId": "3569665f7de2ef39e356eeef9a00c4bc2124c09f",
+  "externalIds": {
+    "MAG": "2183611901",
+    "DOI": "10.25165/IJABE.V7I3.1037",
+    "CorpusId": 110958787
+  },
+  "url": "https://www.semanticscholar.org/paper/3569665f7de2ef39e356eeef9a00c4bc2124c09f",
+  "title": "GIS-based evaluation of maize cultivar lodging resistance performance in target growing environments.",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25165/IJABE.V7I3.1037?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/IJABE.V7I3.1037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "72138903",
+      "name": "Mi Chunqiao"
+    },
+    {
+      "authorId": "2106243501",
+      "name": "Liu Zhe"
+    },
+    {
+      "authorId": "46933504",
+      "name": "Z. Xiaodong"
+    },
+    {
+      "authorId": "2096710802",
+      "name": "Peng Xiaoning"
+    },
+    {
+      "authorId": "47531247",
+      "name": "Huang Bin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

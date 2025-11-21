@@ -1,0 +1,42 @@
+{
+  "paperId": "4465105ed3a51a8a676a5e226f645132caf9937a",
+  "externalIds": {
+    "MAG": "1971824871",
+    "DOI": "10.1007/s11119-012-9281-6",
+    "CorpusId": 17241268
+  },
+  "url": "https://www.semanticscholar.org/paper/4465105ed3a51a8a676a5e226f645132caf9937a",
+  "title": "Apparent electrical conductivity in dry versus wet soil conditions in a shallow soil",
+  "venue": "Precision Agriculture",
+  "year": 2013,
+  "citationCount": 27,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-012-9281-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-012-9281-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145055919",
+      "name": "J. Serrano"
+    },
+    {
+      "authorId": "5045178",
+      "name": "S. Shahidian"
+    },
+    {
+      "authorId": "49583060",
+      "name": "J. R. Marques da Silva"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

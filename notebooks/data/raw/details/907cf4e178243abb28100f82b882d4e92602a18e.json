@@ -1,0 +1,52 @@
+{
+  "paperId": "907cf4e178243abb28100f82b882d4e92602a18e",
+  "externalIds": {
+    "MAG": "2373532658",
+    "DOI": "10.3964/J.ISSN.1000-0593(2015)02-0479-07",
+    "CorpusId": 22814129,
+    "PubMed": "25970917"
+  },
+  "url": "https://www.semanticscholar.org/paper/907cf4e178243abb28100f82b882d4e92602a18e",
+  "title": "[Research on identification of cabbages and weeds combining spectral imaging technology and SAM taxonomy].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3964/J.ISSN.1000-0593(2015)02-0479-07?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3964/J.ISSN.1000-0593(2015)02-0479-07, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "16067570",
+      "name": "Qin Zu"
+    },
+    {
+      "authorId": "2117892734",
+      "name": "Shuisong Zhang"
+    },
+    {
+      "authorId": "2125468955",
+      "name": "Yang Cao"
+    },
+    {
+      "authorId": "3142728",
+      "name": "Huiyi Zhao"
+    },
+    {
+      "authorId": "13231750",
+      "name": "Chang-qing Dang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

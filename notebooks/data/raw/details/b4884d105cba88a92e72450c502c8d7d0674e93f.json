@@ -1,0 +1,47 @@
+{
+  "paperId": "b4884d105cba88a92e72450c502c8d7d0674e93f",
+  "externalIds": {
+    "MAG": "2549959674",
+    "DBLP": "conf/ifip12/SuHGG15",
+    "DOI": "10.1007/978-3-319-48357-3_24",
+    "CorpusId": 38590770
+  },
+  "url": "https://www.semanticscholar.org/paper/b4884d105cba88a92e72450c502c8d7d0674e93f",
+  "title": "Agricultural Environmental Information Collection Device Based on Raspberry Pi",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48357-3_24?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48357-3_24, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46763544",
+      "name": "Baofeng Su"
+    },
+    {
+      "authorId": "2125464881",
+      "name": "Linya Huang"
+    },
+    {
+      "authorId": "93119188",
+      "name": "Zhenning Gao"
+    },
+    {
+      "authorId": "2148900122",
+      "name": "Jiao Guo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

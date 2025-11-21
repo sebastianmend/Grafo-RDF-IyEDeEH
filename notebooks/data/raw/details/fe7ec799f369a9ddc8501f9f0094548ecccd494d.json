@@ -1,0 +1,112 @@
+{
+  "paperId": "fe7ec799f369a9ddc8501f9f0094548ecccd494d",
+  "externalIds": {
+    "MAG": "2053851547",
+    "PubMedCentral": "3789743",
+    "DOI": "10.1371/journal.pone.0076400",
+    "CorpusId": 6710462,
+    "PubMed": "24098489"
+  },
+  "url": "https://www.semanticscholar.org/paper/fe7ec799f369a9ddc8501f9f0094548ecccd494d",
+  "title": "Simultaneous Identification and Quantification of 20 β-Receptor Agonists in Feed Using Gas Chromatography-Tandem Mass Spectrometry",
+  "venue": "PLoS ONE",
+  "year": 2013,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0076400&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3789743, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152457306",
+      "name": "Jie Cheng"
+    },
+    {
+      "authorId": "2108669109",
+      "name": "Shi Wang"
+    },
+    {
+      "authorId": "144370222",
+      "name": "X. Su"
+    }
+  ],
+  "abstract": "“Lean meat powder” is a class of toxic chemicals that have structures similar to that of β-adrenergic receptor agonists. At least 16 chemicals from this class have been specifically banned by the 176th bulletin of the Chinese Department of Agriculture on breeding animals, and methods for monitoring the illicit use of β-agonists in animal feed are required. Herein, a method to quantify 20 β-agonists in feed, via analyte derivatization followed by gas chromatography-tandem mass spectrometry, has been developed. The optimized method has a good linear correlation (calibration coefficient > 0.99) between the quantitative ion peak area and the concentration of β-agonists over a large working range (0.05–1 mg/kg). The limit of detection (LOD) was 0.01 mg/kg, the recoveries for three β-agonists spikes (0.05, 0.1, and 1 µg/g) in feed ranged from 75.6 to 102.4%, repeatability ranged from 1.2 to 9.4% for all of the compounds, and intermediate precisions were lower than 13.8%. This precise, accurate method was applied to quantify 20 β-agonists in actual feed samples and represents an excellent complement to existing quantification methods.",
+  "references": [
+    {
+      "paperId": "2213e0f1b76a70e9a74d3f07057f9edd2006da81"
+    },
+    {
+      "paperId": "a56646b7e0003d835e960d44878b8f744aef74e9"
+    },
+    {
+      "paperId": "722d21aeedc867e5238e9477c4b21a55f7df0e02"
+    },
+    {
+      "paperId": "d9f4c0b21844202993058512accfa392fb0000ff"
+    },
+    {
+      "paperId": "c3729659b32933b47843f535b12b5b186468ff42"
+    },
+    {
+      "paperId": "82bbf0ab3ddb057ffe2077a4f3c687bd71297e23"
+    },
+    {
+      "paperId": "4458b3735ca78fcee72ecaf771a4d169c8d11c15"
+    },
+    {
+      "paperId": "03e0e5ea3796f3a94082fe64c92eaf9889775801"
+    },
+    {
+      "paperId": "c4c0871430c0403617c598a30f9cfd8a2724bb83"
+    },
+    {
+      "paperId": "361982ad04f893a68455f68325c2030aadeb21ae"
+    },
+    {
+      "paperId": "2ea15d75b9a12a17e2879ffdbcde0506e55a6666"
+    },
+    {
+      "paperId": "0a245798ea8774540df1e78d7e3ac847bfa95513"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c0ed570a7d5251f1d5056f60d8febaf71837c054"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c96dacaf348b63c8c0d9e46491efcc67c4fcb257"
+    },
+    {
+      "paperId": "356a7de42d49f6b21ba247331004eb1b61b366c1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

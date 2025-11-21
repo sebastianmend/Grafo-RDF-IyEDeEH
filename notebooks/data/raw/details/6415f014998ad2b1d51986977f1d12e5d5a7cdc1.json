@@ -1,0 +1,46 @@
+{
+  "paperId": "6415f014998ad2b1d51986977f1d12e5d5a7cdc1",
+  "externalIds": {
+    "MAG": "2020583380",
+    "DOI": "10.1109/TRANSDUCERS.2013.6626714",
+    "CorpusId": 12472148
+  },
+  "url": "https://www.semanticscholar.org/paper/6415f014998ad2b1d51986977f1d12e5d5a7cdc1",
+  "title": "On-site monitoring of soil condition for precision agriculture by using multimodal microchip integrated with EC and temperature sensors",
+  "venue": "International Conference on Solid-State Sensors, Actuators and Microsystems",
+  "year": 2013,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TRANSDUCERS.2013.6626714?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TRANSDUCERS.2013.6626714, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1880490",
+      "name": "M. Futagawa"
+    },
+    {
+      "authorId": "89745482",
+      "name": "Y. Ban"
+    },
+    {
+      "authorId": "2058342730",
+      "name": "K. Kawashima"
+    },
+    {
+      "authorId": "144684137",
+      "name": "K. Sawada"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

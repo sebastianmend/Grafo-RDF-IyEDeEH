@@ -1,0 +1,56 @@
+{
+  "paperId": "78e2c375e3ae12d335ffe160577332de86726358",
+  "externalIds": {
+    "MAG": "1514378914",
+    "DBLP": "journals/lgrs/GaoNSZJQ15",
+    "DOI": "10.1109/LGRS.2015.2441655",
+    "CorpusId": 11186071
+  },
+  "url": "https://www.semanticscholar.org/paper/78e2c375e3ae12d335ffe160577332de86726358",
+  "title": "Height Extraction of Maize Using Airborne Full-Waveform LIDAR Data and a Deconvolution Algorithm",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "year": 2015,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2015.2441655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2015.2441655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112312175",
+      "name": "Shuai Gao"
+    },
+    {
+      "authorId": "143767457",
+      "name": "Z. Niu"
+    },
+    {
+      "authorId": "2113638398",
+      "name": "Gang Sun"
+    },
+    {
+      "authorId": "2110817280",
+      "name": "Dan Zhao"
+    },
+    {
+      "authorId": "144091220",
+      "name": "K. Jia"
+    },
+    {
+      "authorId": "1831555",
+      "name": "Yuchu Qin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

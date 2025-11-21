@@ -1,0 +1,49 @@
+{
+  "paperId": "1d45e60e1b1b30adfe891ffedec90e08c8d4ceeb",
+  "externalIds": {
+    "MAG": "2027305499",
+    "DOI": "10.1080/03601231003613666",
+    "CorpusId": 26844207,
+    "PubMed": "20390957"
+  },
+  "url": "https://www.semanticscholar.org/paper/1d45e60e1b1b30adfe891ffedec90e08c8d4ceeb",
+  "title": "Simple analytical method for determination of pesticide residues in human serum by liquid chromatography tandem mass spectrometry",
+  "venue": "Journal of Environmental Science and Health. Part B - Pesticides, Food Contaminants, and Agricultural Wastes",
+  "year": 2010,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/03601231003613666?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/03601231003613666, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6345464",
+      "name": "M. Araoud"
+    },
+    {
+      "authorId": "5993218",
+      "name": "W. Douki"
+    },
+    {
+      "authorId": "1746192",
+      "name": "M. Najjar"
+    },
+    {
+      "authorId": "6183963",
+      "name": "A. Kénani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

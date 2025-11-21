@@ -1,0 +1,155 @@
+{
+  "paperId": "3c52a630538c1b0a48a7dd19c004c42c9cbf26c7",
+  "externalIds": {
+    "MAG": "2007594589",
+    "PubMedCentral": "3022269",
+    "DOI": "10.1155/2010/216547",
+    "CorpusId": 16703202,
+    "PubMed": "21317976"
+  },
+  "url": "https://www.semanticscholar.org/paper/3c52a630538c1b0a48a7dd19c004c42c9cbf26c7",
+  "title": "EM Algorithm for Mapping Quantitative Trait Loci in Multivalent Tetraploids",
+  "venue": "International Journal of Plant Genomics",
+  "year": 2011,
+  "citationCount": 17,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://downloads.hindawi.com/archive/2010/216547.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3022269, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46275987",
+      "name": "Jiahan Li"
+    },
+    {
+      "authorId": "2381001",
+      "name": "Kiranmoy Das"
+    },
+    {
+      "authorId": "37839912",
+      "name": "G. Fu"
+    },
+    {
+      "authorId": "40325962",
+      "name": "C. Tong"
+    },
+    {
+      "authorId": "2110973887",
+      "name": "Yao Li"
+    },
+    {
+      "authorId": "2640873",
+      "name": "C. Tobias"
+    },
+    {
+      "authorId": "145209799",
+      "name": "R. Wu"
+    }
+  ],
+  "abstract": "Multivalent tetraploids that include many plant species, such as potato, sugarcane, and rose, are of paramount importance to agricultural production and biological research. Quantitative trait locus (QTL) mapping in multivalent tetraploids is challenged by their unique cytogenetic properties, such as double reduction. We develop a statistical method for mapping multivalent tetraploid QTLs by considering these cytogenetic properties. This method is built in the mixture model-based framework and implemented with the EM algorithm. The method allows the simultaneous estimation of QTL positions, QTL effects, the chromosomal pairing factor, and the degree of double reduction as well as the assessment of the estimation precision of these parameters. We used simulated data to examine the statistical properties of the method and validate its utilization. The new method and its software will provide a useful tool for QTL mapping in multivalent tetraploids that undergo double reduction.",
+  "references": [
+    {
+      "paperId": "45ffc6f40f72b2cf165b0ec424c709eba3c0cc44"
+    },
+    {
+      "paperId": "c35e006686c4f03a8af66eae12260b61c001fb71"
+    },
+    {
+      "paperId": "b540e678d3113caf6d42c4d93afbaa01cd57d29d"
+    },
+    {
+      "paperId": "7452f3a40b18cbc2675c74b81a0537c3172dc35a"
+    },
+    {
+      "paperId": "74ea97a2053540fe909c14bf6f2cf51c489d29b0"
+    },
+    {
+      "paperId": "d8a344447d6fa19415320b40a9486d3eafc89ee0"
+    },
+    {
+      "paperId": "d1a0132e8cd49158d5e3901235166dc2c9322dc6"
+    },
+    {
+      "paperId": "1bc6c3a5257f2df1e39c999f1b260cef049e46f1"
+    },
+    {
+      "paperId": "15eeab7baea1442dfdd11942266615ec71677b50"
+    },
+    {
+      "paperId": "59dc006c6865a134c0c5b2467711a83632429cb5"
+    },
+    {
+      "paperId": "d97ebe406c8bd79e27e025937859575ec88c6183"
+    },
+    {
+      "paperId": "cfe041f2fe5d8694583a314bc0a122b3d2e4045b"
+    },
+    {
+      "paperId": "989f91d322c5bf59271a5cacc57bdbb2de7f0a14"
+    },
+    {
+      "paperId": "0c87e23b0e5f1ae9b05f0fcd20ac6552bdce624a"
+    },
+    {
+      "paperId": "39cde9699e07bdac55a9baa518b2936f0cad9ecb"
+    },
+    {
+      "paperId": "0dbf927dc15360d1198971ce6ca737b49d0cdcbe"
+    },
+    {
+      "paperId": "e334ede31e643f811463f1125b08506c27ced260"
+    },
+    {
+      "paperId": "99b76e4b2259f9719fdfdfc3a51779c28a2b5480"
+    },
+    {
+      "paperId": "f146d4cabd48f694bd36086cb681f32c33e4049e"
+    },
+    {
+      "paperId": "aa8e627df186d0fb739fe2a7ffa33272bc12da3a"
+    },
+    {
+      "paperId": "7b0c97bb0d3b5fab1dfbd3f1d755c2516f5be994"
+    },
+    {
+      "paperId": "d57d5bbdb47016c694c18f9a0827ef536a0a4463"
+    },
+    {
+      "paperId": "db8f45c83021e1d8ad46844031aaaa305b62dae9"
+    },
+    {
+      "paperId": "423f13c7d8f3901a0b4a55dc4a057d31366c7d5a"
+    },
+    {
+      "paperId": "785b4d4a6b26b116dba2c3e526e327d5f666c32b"
+    },
+    {
+      "paperId": "bd439851e506709a7ce56a8a36d242d9f4e9dc69"
+    },
+    {
+      "paperId": "954e2941a0118034f896623d1bc3b1a5fc942833"
+    },
+    {
+      "paperId": "ffff44bf21275d2fa64ddf38a66bb2d99af4786e"
+    },
+    {
+      "paperId": "bbcb65db765752def9bf197401ad41329f7cd641"
+    },
+    {
+      "paperId": "5abe24b70ee3a76480feb5ca42768d694ac30081"
+    },
+    {
+      "paperId": "96be493d2d823b6531579f2bb48ea766db0f5897"
+    }
+  ]
+}

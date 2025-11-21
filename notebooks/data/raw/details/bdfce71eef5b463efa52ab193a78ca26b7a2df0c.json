@@ -1,0 +1,152 @@
+{
+  "paperId": "bdfce71eef5b463efa52ab193a78ca26b7a2df0c",
+  "externalIds": {
+    "MAG": "2103526742",
+    "DOI": "10.17159/2411-9717/2015/v115n2a12",
+    "CorpusId": 54006117
+  },
+  "url": "https://www.semanticscholar.org/paper/bdfce71eef5b463efa52ab193a78ca26b7a2df0c",
+  "title": "Technological developments for spatial prediction of soil properties, and Danie Krige's influence on it",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.17159/2411-9717/2015/v115n2a12",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17159/2411-9717/2015/v115n2a12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17159/2411-9717/2015/v115n2a12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40245330",
+      "name": "R. Webster"
+    }
+  ],
+  "abstract": "Synopsis Daniel Krige’s influence on soil science, and on soil survey in particular, has been profound. From the 1920s onwards soil surveyors made their maps by classifying the soils and drawing boundaries between the classes they recognized. By the 1960s many influential pedologists were convinced that if one knew to which class of soil a site belonged then one would be able to predict the soil’s properties there. At the same time, engineers began to realize that prediction from such maps was essentially a statistical matter and to apply classical sampling theory. Such methods, though sound, proved inefficient because they failed to take account of the spatial dependence within the classes. Matters changed dramatically in the 1970s when soil scientists learned of the work of Daniel Krige and Georges Matheron’s theory of regionalized variables. Statistical pedologists (pedometricians) first linked R.A. Fisher’s analysis of variance to regionalized variables via spatial hierarchical designs to estimate spatial components of variance. They then applied the mainstream geostatistical methods of spatial analysis and kriging to map plant nutrients, trace elements, pollutants, salt, and agricultural pests in soil, which has led to advances in modern precision agriculture. They were among the first Earth scientists to use nonlinear statistical estimation for modelling variograms and to make the programmed algorithms publicly available. More recently, pedometricians have turned to likelihood methods, specifically residual maximum likelihood (REML), to combine fixed effects, such as trend and external variables, with spatially correlated variables in linear mixed models for spatial prediction. They have also explored nonstationary variances with wavelets and by spectral tempering, although it is not clear how the results should be used for prediction. This paper illustrates the most significant advances, with results from research projects.",
+  "references": [
+    {
+      "paperId": "9e477b99d1fe9f3956a5d7077f5884a174dc23fb"
+    },
+    {
+      "paperId": "fe15a9a0fbe9e62cb26ce0d2970ca0860692a7ff"
+    },
+    {
+      "paperId": "17b1f76794896049cee9d109414dc4cedcee3f17"
+    },
+    {
+      "paperId": "0e886d29e73968d7510c916613623c8869a4fe2a"
+    },
+    {
+      "paperId": "11d830c27eda0f60d945c03cbbd9644778537fa4"
+    },
+    {
+      "paperId": "8262922726003736f221543f6dfb53805db42606"
+    },
+    {
+      "paperId": "0b7803bb626734fc095250e7c604f50592212ab1"
+    },
+    {
+      "paperId": "dd1670a113a3f9a5d8bd58c92c627e512629dd5a"
+    },
+    {
+      "paperId": "9f84c6c8d375b13ea69daa9fec61e936877d762e"
+    },
+    {
+      "paperId": "94cf3b4318ac83b8cbad842d240b79f5953eaf9a"
+    },
+    {
+      "paperId": "847561c52be4d400760a6d67cc4478e2c16850dc"
+    },
+    {
+      "paperId": "f1afe644db0db499bc2844536f38b2b32847e581"
+    },
+    {
+      "paperId": "b6cddcd34200b4d4af1066e2dff770bc5846b8e2"
+    },
+    {
+      "paperId": "60af3d0f1ba98e4c1b5b4749148cea019922a9bb"
+    },
+    {
+      "paperId": "457cb559041fddf5b8fb3c197671862b969f3faf"
+    },
+    {
+      "paperId": "f49fc10981aa83154afe3f87dfb59d5cae13ca84"
+    },
+    {
+      "paperId": "c473167e4c49287b13a51035335f7993c3b102fc"
+    },
+    {
+      "paperId": "63eebbb47b6539a895ad2da845fa025c046f9fbd"
+    },
+    {
+      "paperId": "756d0090a1052827f99650bbf88a5047c745a745"
+    },
+    {
+      "paperId": "4771296c657cfe331955445890c31c61a9793e4a"
+    },
+    {
+      "paperId": "c3e1fb75e69e1b5773f5d15768a8117f95621d35"
+    },
+    {
+      "paperId": "58841507cb10c07d59dce1921d425f241f4bc433"
+    },
+    {
+      "paperId": "9e5c0879402ce43b6427d5e19aa965fc136eb617"
+    },
+    {
+      "paperId": "26a16ad509b33e785e78b5e4504c79582761bca1"
+    },
+    {
+      "paperId": "496d52453e93488edab4056ebf87c1392f10889e"
+    },
+    {
+      "paperId": "68f1683b30f3985f97043f5c22dd0c4cae6c3c0a"
+    },
+    {
+      "paperId": "6217ae224d48f96c5f45b1228ea1b29c769e9ec1"
+    },
+    {
+      "paperId": "8699db6b46069bac726a6bd97fe837e8273231f0"
+    },
+    {
+      "paperId": "db6fb6507fbab287c6bb03ade8bdfaaa0b1537a8"
+    },
+    {
+      "paperId": "f92c6b61781e209bc6899b37ab23c625f79db5c1"
+    },
+    {
+      "paperId": "c6925620211100fac7d68100b272cb171ebceb9c"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "556f2bbd66886080738d484a9bf31d9cb185e9e2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "78406b203dc98da3db71f1daf8d94f3e15cb5ecd"
+    },
+    {
+      "paperId": "80c08ea1124a2c11b3254df55408feb459ee14a6"
+    },
+    {
+      "paperId": "75a59af2f5d71e3b061e566381cce1a248497e51"
+    },
+    {
+      "paperId": "a49126533b1b61de19cb4c1ba6350c56f9ae0bcf"
+    },
+    {
+      "paperId": "da71636330d54b2713161c81edbc52f2a67c9bc1"
+    }
+  ]
+}

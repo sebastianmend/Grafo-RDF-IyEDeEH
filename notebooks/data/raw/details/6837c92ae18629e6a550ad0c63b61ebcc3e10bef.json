@@ -1,0 +1,40 @@
+{
+  "paperId": "6837c92ae18629e6a550ad0c63b61ebcc3e10bef",
+  "externalIds": {
+    "MAG": "2107170167",
+    "DBLP": "conf/africon/DiribuL15",
+    "DOI": "10.1109/AFRCON.2015.7331943",
+    "CorpusId": 25909630
+  },
+  "url": "https://www.semanticscholar.org/paper/6837c92ae18629e6a550ad0c63b61ebcc3e10bef",
+  "title": "Shape based customized node deployment approach for WSNs",
+  "venue": "IEEE Region 8 Conference AFRICON",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AFRCON.2015.7331943?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AFRCON.2015.7331943, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30856841",
+      "name": "Beza Diribu"
+    },
+    {
+      "authorId": "2272301",
+      "name": "M. Libsie"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

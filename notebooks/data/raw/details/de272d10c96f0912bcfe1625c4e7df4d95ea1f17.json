@@ -1,0 +1,145 @@
+{
+  "paperId": "de272d10c96f0912bcfe1625c4e7df4d95ea1f17",
+  "externalIds": {
+    "PubMedCentral": "4435154",
+    "MAG": "2041397665",
+    "DBLP": "journals/sensors/QuebrajoPRA15",
+    "DOI": "10.3390/s150305504",
+    "CorpusId": 13358897,
+    "PubMed": "25756861"
+  },
+  "url": "https://www.semanticscholar.org/paper/de272d10c96f0912bcfe1625c4e7df4d95ea1f17",
+  "title": "An Approach to Precise Nitrogen Management Using Hand-Held Crop Sensor Measurements and Winter Wheat Yield Mapping in a Mediterranean Environment",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/3/5504/pdf?version=1425640211",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4435154, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2104091122",
+      "name": "L. Quebrajo"
+    },
+    {
+      "authorId": "1399282204",
+      "name": "M. Pérez-Ruiz"
+    },
+    {
+      "authorId": "2352112076",
+      "name": "A. Rodríguez-Lizana"
+    },
+    {
+      "authorId": "143999920",
+      "name": "J. Agüera"
+    }
+  ],
+  "abstract": "Regardless of the crop production system, nutrients inputs must be controlled at or below a certain economic threshold to achieve an acceptable level of profitability. The use of management zones and variable-rate fertilizer applications is gaining popularity in precision agriculture. Many researchers have evaluated the application of final yield maps and geo-referenced geophysical measurements (e.g., apparent soil electrical conductivity-ECa) as a method of establishing relatively homogeneous management zones within the same plot. Yield estimation models based on crop conditions at certain growth stages, soil nutrient statuses, agronomic factors, moisture statuses, and weed/pest pressures are a primary goal in precision agriculture. This study attempted to achieve the following objectives: (1) to investigate the potential for predicting winter wheat yields using vegetation measurements (the Normalized Difference Vegetation Index—NDVI) at the beginning of the season, thereby allowing for a yield response to nitrogen (N) fertilizer; and (2) evaluate the feasibility of using inexpensive optical sensor measurements in a Mediterranean environment. A field experiment was conducted in two commercial wheat fields near Seville, in southwestern Spain. Yield data were collected at harvest using a yield monitoring system (RDS Ceres II-volumetric meter) installed on a combine. Wheat yield and NDVI values of 3498 ± 481 kg ha−1 and 0.67 ± 0.04 nm nm−1 (field 1) and 3221 ± 531 kg ha−1 and 0.68 ± 0.05 nm nm−1 (field 2) were obtained. In both fields, the yield and NDVI exhibited a strong Pearson correlation, with rxy = 0.64 and p < 10−4 in field 1 and rxy = 0.78 and p < 10−4 in field 2. The preliminary results indicate that hand-held crop sensor-based N management can be applied to wheat production in Spain and has the potential to increase agronomic N-use efficiency on a long-term basis.",
+  "references": [
+    {
+      "paperId": "0bd5efe20eacc21587cf14fea1ccf20e830e6b31"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "395298a892781b9595c3933771a596fb2f7c76f6"
+    },
+    {
+      "paperId": "82c173c68b83d9b7e6458c955f03a26035fecf01"
+    },
+    {
+      "paperId": "759f13e3210a1050ea57abe50e57c8f2b74c2676"
+    },
+    {
+      "paperId": "ca062d04a063a6c13fbba2b26062598e6d6582c0"
+    },
+    {
+      "paperId": "51f5ca01cd8a96c61d571e9f9585ee17bacffe13"
+    },
+    {
+      "paperId": "3ed644b777c4cdb688d0af6a7e0364ac9ce00320"
+    },
+    {
+      "paperId": "69be582d6c9c90ee6a0710ab37566ab98b266174"
+    },
+    {
+      "paperId": "634e72c56ce1569feb43577e70d9ae6045af2eda"
+    },
+    {
+      "paperId": "33fcf925f5796eb4cef343c1db4d939b05f440df"
+    },
+    {
+      "paperId": "5acbb1bee79d3384dceab74c66ba9b25306ab6f5"
+    },
+    {
+      "paperId": "ab5ef50e0df0748fb9a221dca6a34f591a863d53"
+    },
+    {
+      "paperId": "03566e29f93eaa29dc0e95355b7d8153ae70819b"
+    },
+    {
+      "paperId": "bd88203087deedfd461554d7814f710bcaff51b4"
+    },
+    {
+      "paperId": "aa0636d71abd329051f79a606592d39fc4fc4c46"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "e87cc5eb5de2cf3b61e2e028f12b6d8ee6c6b5b2"
+    },
+    {
+      "paperId": "146a20e5301a26d01daf58d5001df59b4d291d99"
+    },
+    {
+      "paperId": "97920ae52346780dba10162e6cda4a9687db8166"
+    },
+    {
+      "paperId": "6e6cee3d1dbf368e3be4ea296a6e8b29c3e4645b"
+    },
+    {
+      "paperId": "73cee043da2d5d6008d50d93ad35c38344dd3fbc"
+    },
+    {
+      "paperId": "d8e0b6b225b36cac23608b41a51e13ddb2746cbd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

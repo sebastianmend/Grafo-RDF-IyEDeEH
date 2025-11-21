@@ -1,0 +1,52 @@
+{
+  "paperId": "5ce3d9cdc1aeb20f73ffdadea92fd227eef2354b",
+  "externalIds": {
+    "DBLP": "conf/igarss/DharMGDW10",
+    "MAG": "1997155496",
+    "DOI": "10.1109/IGARSS.2010.5650531",
+    "CorpusId": 8733056
+  },
+  "url": "https://www.semanticscholar.org/paper/5ce3d9cdc1aeb20f73ffdadea92fd227eef2354b",
+  "title": "Supporting precision agriculture with dual-polarimetric TerraSAR-X - yield prediction and identification of in-field variations to generate fertilizer prescription maps",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2010.5650531?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2010.5650531, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144634300",
+      "name": "Tishampati Dhar"
+    },
+    {
+      "authorId": "152739930",
+      "name": "C. Menges"
+    },
+    {
+      "authorId": "144975223",
+      "name": "D. Gray"
+    },
+    {
+      "authorId": "2067879659",
+      "name": "J. Douglas"
+    },
+    {
+      "authorId": "1892174",
+      "name": "Leighton Wilksch"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

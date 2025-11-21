@@ -1,0 +1,430 @@
+{
+  "paperId": "50521719dc4b1c0b67a8b4fc12a3cdb19c339c8d",
+  "externalIds": {
+    "MAG": "1969660305",
+    "PubMedCentral": "4383386",
+    "DOI": "10.1155/2015/431487",
+    "CorpusId": 6747985,
+    "PubMed": "25874132"
+  },
+  "url": "https://www.semanticscholar.org/paper/50521719dc4b1c0b67a8b4fc12a3cdb19c339c8d",
+  "title": "Importance of Genetic Diversity Assessment in Crop Plants and Its Recent Advances: An Overview of Its Analytical Perspectives",
+  "venue": "Genetics Research International",
+  "year": 2015,
+  "citationCount": 821,
+  "influentialCitationCount": 30,
+  "openAccessPdf": {
+    "url": "https://downloads.hindawi.com/archive/2015/431487.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4383386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49785360",
+      "name": "M. Govindaraj"
+    },
+    {
+      "authorId": "49785360",
+      "name": "M. Govindaraj"
+    },
+    {
+      "authorId": "4496699",
+      "name": "M. Vetriventhan"
+    },
+    {
+      "authorId": "4496699",
+      "name": "M. Vetriventhan"
+    },
+    {
+      "authorId": "117527530",
+      "name": "M. Srinivasan"
+    }
+  ],
+  "abstract": "The importance of plant genetic diversity (PGD) is now being recognized as a specific area since exploding population with urbanization and decreasing cultivable lands are the critical factors contributing to food insecurity in developing world. Agricultural scientists realized that PGD can be captured and stored in the form of plant genetic resources (PGR) such as gene bank, DNA library, and so forth, in the biorepository which preserve genetic material for long period. However, conserved PGR must be utilized for crop improvement in order to meet future global challenges in relation to food and nutritional security. This paper comprehensively reviews four important areas; (i) the significance of plant genetic diversity (PGD) and PGR especially on agriculturally important crops (mostly field crops); (ii) risk associated with narrowing the genetic base of current commercial cultivars and climate change; (iii) analysis of existing PGD analytical methods in pregenomic and genomic era; and (iv) modern tools available for PGD analysis in postgenomic era. This discussion benefits the plant scientist community in order to use the new methods and technology for better and rapid assessment, for utilization of germplasm from gene banks to their applied breeding programs. With the advent of new biotechnological techniques, this process of genetic manipulation is now being accelerated and carried out with more precision (neglecting environmental effects) and fast-track manner than the classical breeding techniques. It is also to note that gene banks look into several issues in order to improve levels of germplasm distribution and its utilization, duplication of plant identity, and access to database, for prebreeding activities. Since plant breeding research and cultivar development are integral components of improving food production, therefore, availability of and access to diverse genetic sources will ensure that the global food production network becomes more sustainable. The pros and cons of the basic and advanced statistical tools available for measuring genetic diversity are briefly discussed and their source links (mostly) were provided to get easy access; thus, it improves the understanding of tools and its practical applicability to the researchers.",
+  "references": [
+    {
+      "paperId": "1c8456d7fdbb97c9c1f1677c41e45ddb1dfc1741"
+    },
+    {
+      "paperId": "e0b4e09e8a47fe489476ca81760e974d1162d2b3"
+    },
+    {
+      "paperId": "c700eee5f49366deed6d15f625083709cd323485"
+    },
+    {
+      "paperId": "508749ed490312ef42b41a6fd6c6acd8b2cfd332"
+    },
+    {
+      "paperId": "62f22d45b3011ba2f012e0adf895c543b77eefd9"
+    },
+    {
+      "paperId": "2f08939ce9a51e0128831ba3402c00e7dfe5925c"
+    },
+    {
+      "paperId": "20f6dda28b380eabb9c7bbb94063437dc735c63b"
+    },
+    {
+      "paperId": "92c15c860c4fd1248d720d676cbb04e6fb3fc718"
+    },
+    {
+      "paperId": "ab1c68bf6bbd4d8e1e1fa839508a501474cfb68e"
+    },
+    {
+      "paperId": "05e25b9797de9a544ca50e743aa2a15eb129ea72"
+    },
+    {
+      "paperId": "4e816ffa643b148c57d24fffb4d97b95bad22e81"
+    },
+    {
+      "paperId": "e755a12df1cb4d8afea6f7b42ff93cff668c1d1c"
+    },
+    {
+      "paperId": "4269f09af992baa178f79656ad5b5d3557d9c2b4"
+    },
+    {
+      "paperId": "497445bd1fa5533f1c94eff4172bf0c7605eb3d8"
+    },
+    {
+      "paperId": "6c4705433d923a9abb37ff25708ab0253d94c5b4"
+    },
+    {
+      "paperId": "70e170bdfbcaca3dd86652c64cd662323ae450b9"
+    },
+    {
+      "paperId": "adfbed2d370f884930ce75d78f62bffed2d6a7aa"
+    },
+    {
+      "paperId": "0501628c4a13a514c627103a56557a00fabf87d7"
+    },
+    {
+      "paperId": "2a968ff76bdb32d96b3425df122f0d0864c54231"
+    },
+    {
+      "paperId": "e50717123799f90f2fb421e3f276307b29920f6b"
+    },
+    {
+      "paperId": "96d799130edc8dcc5771366875983e2c00f75d1b"
+    },
+    {
+      "paperId": "5274a75abeead70b72f5cbcbcb81b7fe5693dad3"
+    },
+    {
+      "paperId": "ce8578c6688346c819e6ecf8e018c60bc55b3f48"
+    },
+    {
+      "paperId": "2798e96f71c151c12805347c55c1477b18fc4d90"
+    },
+    {
+      "paperId": "7bd23e6ec32cb1507a385c21a21150e9c332682f"
+    },
+    {
+      "paperId": "568ab985b675a0557fa9eca81c40eb5f9a5428cc"
+    },
+    {
+      "paperId": "51d2a024a653703daa20cba70ce58307ebdc6d38"
+    },
+    {
+      "paperId": "b14dd498c2006660373257796332ee5f03d0272d"
+    },
+    {
+      "paperId": "4cb4e5dd94c78bb633ec7bd4da97a7a830f757ea"
+    },
+    {
+      "paperId": "e823f5bd7280955c51e83bf3854857fcb3fe158a"
+    },
+    {
+      "paperId": "c5da1106929752414ca6d110f9ceb4500662cb9b"
+    },
+    {
+      "paperId": "0bf76efa102cb994f94a7f0ec37fc54314d20e29"
+    },
+    {
+      "paperId": "98c07e03cbae561cf6543fd9d37fba38b450e078"
+    },
+    {
+      "paperId": "ab5b86d33fd71ca838139387d60eeb2fa635c1fb"
+    },
+    {
+      "paperId": "0ad5733eafb41274895bf1dce6b92ae8f3d68c60"
+    },
+    {
+      "paperId": "70d2c4a5dc521cac0b0f5a8a908a6db1c27a0c08"
+    },
+    {
+      "paperId": "82f9265b5a9d34771649627f4b2c14b3534b49c6"
+    },
+    {
+      "paperId": "87ca1e5c40c1385e90bf79426be1a3aea3c4060a"
+    },
+    {
+      "paperId": "d35e5569c41fc7a18f0be4291784383b2522a418"
+    },
+    {
+      "paperId": "8185c3683581341dc34d82bce13c5cd203f2a9d1"
+    },
+    {
+      "paperId": "66ce7e4c2d44343513aac4088571e12337dadc0c"
+    },
+    {
+      "paperId": "1abf8bd6d17ed4834397c599cae2938c547b6d27"
+    },
+    {
+      "paperId": "a0ff15059229594dbb1f54540ae473480a82fc0b"
+    },
+    {
+      "paperId": "357e429faa42472837e5871b10a1881ab5af2fc0"
+    },
+    {
+      "paperId": "436bee671112ea5d846db09eada9cb3d3047d60b"
+    },
+    {
+      "paperId": "73351322cb3316816efbd900deb2130d5f869880"
+    },
+    {
+      "paperId": "8ecb0f8a687ce4a8cf69148f60054ed92ea6602c"
+    },
+    {
+      "paperId": "bbdc6cfd9b9a37dafa288c3c5666f4eb19642ef7"
+    },
+    {
+      "paperId": "1f52461c0702cef6347f5b5d156ca5eb64ba5388"
+    },
+    {
+      "paperId": "725a3cbac5e12ee0dcd1dbd036929dc6d7783b58"
+    },
+    {
+      "paperId": "30bf1567e11179e49679dea02c44c0075e56cf26"
+    },
+    {
+      "paperId": "98c914dfb78ac7e074b1504f54fe7be4403a89dc"
+    },
+    {
+      "paperId": "ea8de383ce790d674be58aee053c1e4afc41fbae"
+    },
+    {
+      "paperId": "925ca399ac50512ea33f8029a5a8c28dc2fbd6fb"
+    },
+    {
+      "paperId": "47c6f4799905ddc71b920f999bf34e6b04a8a2f1"
+    },
+    {
+      "paperId": "0f69fa40b21a59a58c3041aa5005caa0e6140aa1"
+    },
+    {
+      "paperId": "72d7c1dd6f4e90221080621947405429b474c82f"
+    },
+    {
+      "paperId": "fa02f9123abacd5ba13d41e937d99c077da8d3f6"
+    },
+    {
+      "paperId": "20525faf9f6a89a2cc25301c6270a1e7ce2e6bae"
+    },
+    {
+      "paperId": "2f5bd6c7dab67e9853e10052ffb5b1a4e1580e62"
+    },
+    {
+      "paperId": "a637c2d8eee7a244b6e7f2ef4587a5d2cf22276c"
+    },
+    {
+      "paperId": "0966e6f82fbec20b466253d8fc7140c59f6aef70"
+    },
+    {
+      "paperId": "f6e81856a74d12a79a7858c0906931bad05d3e43"
+    },
+    {
+      "paperId": "5a0d0fddb1ef8a361e0eedb8bd0c6096e7dd6b24"
+    },
+    {
+      "paperId": "73e757752262412abb434f2e1a5972b43edfd025"
+    },
+    {
+      "paperId": "858946bd3be7a65cf27ed512ffef134bcd44acf7"
+    },
+    {
+      "paperId": "36e5ed7c5be4176e38b0dae6e398bb0e1516b10a"
+    },
+    {
+      "paperId": "4fef417b8ae48cd4e5ce907e9b1fe13e7e8b5433"
+    },
+    {
+      "paperId": "3b3022b5adcd9aea3ddf42da649cdd0edceeda0d"
+    },
+    {
+      "paperId": "726c44f91e5a49ec226ad5a1900fcb6fa922c763"
+    },
+    {
+      "paperId": "9cd96a0b27863fa600e4cf5acec23491474b3e68"
+    },
+    {
+      "paperId": "909ec2bf49ae473483978bd4dec37026bc2f191f"
+    },
+    {
+      "paperId": "f6b150e7cace2f8633a424f1ce747a3e60a43d52"
+    },
+    {
+      "paperId": "552bc45bbffd9a8cf8434ebb0b36f07dacfac6e9"
+    },
+    {
+      "paperId": "9ead28b73dc3c2329ee2db668f288636b2870196"
+    },
+    {
+      "paperId": "be43fb729084c9fd7df3efe477aa3b0b8955ce03"
+    },
+    {
+      "paperId": "ee4a25c3b307792c695a77f4166191fabadc5d55"
+    },
+    {
+      "paperId": "188980ba192fdf08ad32eb26073c3d6e1c7a950d"
+    },
+    {
+      "paperId": "89e8793e96cd40f88383dc49320b478a0698b07c"
+    },
+    {
+      "paperId": "5a0d973979e3d301ec634e751adebb0363f6b065"
+    },
+    {
+      "paperId": "a4be8a1cf13149272082616813c3e81dacc022ea"
+    },
+    {
+      "paperId": "2a84de84ee525a751a8fec9e8af1e856be238134"
+    },
+    {
+      "paperId": "4685a3c66320c3afb52bd780572666732e9ebbe2"
+    },
+    {
+      "paperId": "1c4690af437016ba0ece6588517c33380bd3d16b"
+    },
+    {
+      "paperId": "0b51a30a54ce1070a7d9cd4c22ae595660fdb167"
+    },
+    {
+      "paperId": "c5e02cac5be461c8ddb72d17e64ae679e706c24b"
+    },
+    {
+      "paperId": "bd84112835099748196bf5195bafdbf910e5c366"
+    },
+    {
+      "paperId": "3e7856e631a849861a997d0e011dde348ebd1b90"
+    },
+    {
+      "paperId": "c7aa3d123645479c97d6d06babb0180a8daa2d4e"
+    },
+    {
+      "paperId": "c94922a6541da3df35809c993519fba677c1c3b3"
+    },
+    {
+      "paperId": "12c83ce6358a6f82781091e40cd8dfb274f19d35"
+    },
+    {
+      "paperId": "0db093335bc3b9445fa5a1a5526d634921d7b59a"
+    },
+    {
+      "paperId": "3130f6c54bede7d47dd97c4efd21fdf6a125574a"
+    },
+    {
+      "paperId": "95821091982c98cd9b88081ebeef43810c7cbfaa"
+    },
+    {
+      "paperId": "4aacf3335fca0a67c8f7034aaf2e74b5d300d771"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "722c04d5709030e4172745daeef83be6055b8035"
+    },
+    {
+      "paperId": "4454f47a59f967ff5a013b0649e5e48b95e550fc"
+    },
+    {
+      "paperId": "a879ce747e1083fb8a0cf4ac94a50f965dd6a877"
+    },
+    {
+      "paperId": "3d46fbb7c210292d1d69c399ad7e7c1497162a15"
+    },
+    {
+      "paperId": "c0a8e7801b5d5f99693a9ea843a3b6741fc21dec"
+    },
+    {
+      "paperId": "01dbb95fea56857df842ca224a4f403bdc68edff"
+    },
+    {
+      "paperId": "9646a8f1af28d5d54e5ddd9d49798c5e395c3682"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "90ebba3ccdcd60982aa54b5ff201c0ed63c5cb32"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3517c986c0121419d05b9bb96977356ec97d459b"
+    },
+    {
+      "paperId": "e733022aa8266a608d244af323dfdff59faa183d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1fce8d3c9f005b2f98f43462805cedddf9f1f156"
+    },
+    {
+      "paperId": "e27320e5c3928e913e7f28f2a50f7b554d5d601c"
+    },
+    {
+      "paperId": "67958a632e377b561219e15748787bf6987222f1"
+    },
+    {
+      "paperId": "4c3baf981d0f08d8822c374f33599e283cc837a0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "178bea92496bf5d8b5bf1ab5f1438a366deffaaa"
+    },
+    {
+      "paperId": "2dd80298d74a44643e2fa34a4d8328a8693c17ff"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2c924f14eec95597ad6a78b6588b3a8dac8e7d1e"
+    },
+    {
+      "paperId": "8a21c5ea21a3b6b9ac217336e85796c4a9c8868b"
+    },
+    {
+      "paperId": "ae1d5bf4ab4b5b291a9559521cd452347c47151e"
+    }
+  ]
+}

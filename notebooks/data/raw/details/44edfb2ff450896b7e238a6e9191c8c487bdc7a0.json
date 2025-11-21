@@ -1,0 +1,331 @@
+{
+  "paperId": "44edfb2ff450896b7e238a6e9191c8c487bdc7a0",
+  "externalIds": {
+    "PubMedCentral": "3797482",
+    "MAG": "2087308927",
+    "DOI": "10.1002/ece3.688",
+    "CorpusId": 12669892,
+    "PubMed": "24223273"
+  },
+  "url": "https://www.semanticscholar.org/paper/44edfb2ff450896b7e238a6e9191c8c487bdc7a0",
+  "title": "Sweeping beauty: is grassland arthropod community composition effectively estimated by sweep netting?",
+  "venue": "Ecology and Evolution",
+  "year": 2013,
+  "citationCount": 56,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.688",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3797482, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5918189",
+      "name": "Ryan D. Spafford"
+    },
+    {
+      "authorId": "2656556",
+      "name": "C. Lortie"
+    }
+  ],
+  "abstract": "Arthropods are critical ecosystem components due to their high diversity and sensitivity to perturbation. Furthermore, due to their ease of capture they are often the focus of environmental health surveys. There is much debate regarding the best sampling method to use in these surveys. Sweep netting and pan trapping are two sampling methods commonly used in agricultural arthropod surveys, but have not been contrasted in natural grassland systems at the community level. The purpose of this study was to determine whether sweep netting was effective at estimating arthropod diversity at the community level in grasslands or if supplemental pan trapping was needed. Arthropods were collected from grassland sites in Montana, USA, in the summer of 2011. The following three standardized evaluation criteria (consistency, reliability, and precision) were developed to assess the efficacy of sweep netting and pan trapping, based on analyses of variations in arthropod abundances, species richness, evenness, capture frequency, and community composition. Neither sampling method was sufficient in any criteria to be used alone for community-level arthropod surveys. On a taxa-specific basis, however, sweep netting was consistent, reliable, and precise for Thysanoptera, infrequently collected (i.e., rare) insects, and Arachnida, whereas pan trapping was consistent, reliable, and precise for Collembola and bees, which is especially significant given current threats to the latter's populations worldwide. Species-level identifications increase the detected dissimilarity between sweep netting and pan trapping. We recommend that community-level arthropod surveys use both sampling methods concurrently, at least in grasslands, but likely in most nonagricultural systems. Target surveys, such as monitoring bee communities in fragmented grassland habitat or where detailed information on behavior of the target arthropod groups is available can in some instances employ singular methods. As a general ecological principle, consistency, reliability, and precision are appropriate criteria to evaluate the applicability of a given sampling method for both community-level and taxa-specific arthropod surveys in any ecosystem.",
+  "references": [
+    {
+      "paperId": "78bc7fe2a43ae18c9a1e2316e4887476c11b2a1e"
+    },
+    {
+      "paperId": "fbb2b9ecca9fe34dfae772d214339bcb17ff5665"
+    },
+    {
+      "paperId": "7cc651e7937973814483b4949228dcfe446178cf"
+    },
+    {
+      "paperId": "183d745279cf7aa9f89bd033dff519cbbc2fea48"
+    },
+    {
+      "paperId": "f981a87011068a31512ad08247f56c96817621bd"
+    },
+    {
+      "paperId": "e6e3b8e055e79a0b404be794752653f31ba464b4"
+    },
+    {
+      "paperId": "fe3e1a7c970ad7145d92c9d499625df1e318304a"
+    },
+    {
+      "paperId": "c468ff31a1d79de0754d88a77c126a493fe593e4"
+    },
+    {
+      "paperId": "ea3b9aafbe9f66a49fe4facbacb93016b97c28d1"
+    },
+    {
+      "paperId": "44308d783d0406232c3b9dea7f50ee72718fa9e1"
+    },
+    {
+      "paperId": "a2e156eb3519523a421bc317e97d41a6c8ad13d4"
+    },
+    {
+      "paperId": "485ab05a5a4b16fa7df22554f9066beb3716ff4b"
+    },
+    {
+      "paperId": "92855c8b639f6a2b4c93207b080255fed22c031d"
+    },
+    {
+      "paperId": "aa24f5e7fbf1b039529a455820733f0fe9931783"
+    },
+    {
+      "paperId": "640d06878e196d76e8890b125043fc4158703217"
+    },
+    {
+      "paperId": "02aa033d7fe4e89a24ad1a023c05ae312764497d"
+    },
+    {
+      "paperId": "80825ee7b8b094d4325968c7b77f82e43fa664a3"
+    },
+    {
+      "paperId": "788ad5e5de5542e8bb9e08e2515fa375237ea798"
+    },
+    {
+      "paperId": "d6780bad8798b09f6c243c3b6b0b22a6c43311bc"
+    },
+    {
+      "paperId": "3230c5258bf07c9b7771e511597f201a51d4eac1"
+    },
+    {
+      "paperId": "6aec87d0d77c0c074f26628b9343cd199c98fe47"
+    },
+    {
+      "paperId": "eb61ee576e30b36d836a99c3ee734732dde2c220"
+    },
+    {
+      "paperId": "868a2d63ea18654757ba6e321e2c203a7ba329ed"
+    },
+    {
+      "paperId": "c6a3ae79a4cb1c881294dec9139c6bdd3d94f3ea"
+    },
+    {
+      "paperId": "e41d49a79de471f22c86bcbc6a489b0d1ed6f1d4"
+    },
+    {
+      "paperId": "4e547d5df2ef5de3fa2f91db0f11c93f4682a2a8"
+    },
+    {
+      "paperId": "5aeae03d89974c6021abc0299ecba4c32e4e6b97"
+    },
+    {
+      "paperId": "49bb098d7948ef897eebb090be866f79f265aae2"
+    },
+    {
+      "paperId": "2cd559255c93b7e51184595cdd6521be94dc9549"
+    },
+    {
+      "paperId": "7aff2a83a925172f926137e5cfcb066e4f1b1fdd"
+    },
+    {
+      "paperId": "53f241143e98318171348254f6e7ac60f004abd1"
+    },
+    {
+      "paperId": "57a8ed20c0eef540bc4b3cf727c19bfd0a2dea5c"
+    },
+    {
+      "paperId": "1030a2c62a518d5d79ae93ce12da0fede9ade842"
+    },
+    {
+      "paperId": "dee81913408a1020c2224b5380108afe6bdb30fe"
+    },
+    {
+      "paperId": "80889dbae9d81304779340188ce79b0db83621a2"
+    },
+    {
+      "paperId": "bb5d29e43a9ff97666cc39dfc50f12acf895422b"
+    },
+    {
+      "paperId": "99b5c792f3dd22e43fd73629d9696ce06b1cfe1b"
+    },
+    {
+      "paperId": "355e5279e7341c44a0a183c9dc866f3888098966"
+    },
+    {
+      "paperId": "3c0cdd101ed1abe2c1d581aa3bab357f298ad271"
+    },
+    {
+      "paperId": "efd00e582ee5fe4eb85eb13cf989ef39b6a293cc"
+    },
+    {
+      "paperId": "43144572880ed5394deb187f8e68ad0c8f59ecc7"
+    },
+    {
+      "paperId": "1f0f5c88e633f25968a77d698c0253caa6d89b92"
+    },
+    {
+      "paperId": "420c4f524455b888cc63409c3e4d362a991afa9a"
+    },
+    {
+      "paperId": "abf5969403ad3acae1b72f6dbdb028b677ede52b"
+    },
+    {
+      "paperId": "ae1f712d659840eab59cfa0f8103e77c9ab674c3"
+    },
+    {
+      "paperId": "7225f8ba5da05f7568443f3c8a58816e473e2673"
+    },
+    {
+      "paperId": "9f48f7a515d3d658d7ceb68b67cf925117a204d0"
+    },
+    {
+      "paperId": "3f0de9188469107011eab95e50e2fddf7d91e084"
+    },
+    {
+      "paperId": "8885481457c0a4eac926da26a24d2616cf073290"
+    },
+    {
+      "paperId": "4201882285f104ffe43ddc4bcfbf73e39fdd804b"
+    },
+    {
+      "paperId": "7689464d9b2866869b0c5e4dac6f35a5a70fee01"
+    },
+    {
+      "paperId": "70f7151cd81695b498eac04766df73fc082db5b2"
+    },
+    {
+      "paperId": "dbca3544d4960ac4a0743ce377309ae7f2154b54"
+    },
+    {
+      "paperId": "ed6f1841147be53770063289813021307d609949"
+    },
+    {
+      "paperId": "dd4fe3290f91790e76c7b2b7ae84f7de68106ef1"
+    },
+    {
+      "paperId": "66e3b5a9de61a4717501a30c8c02040cae74ce0a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b9d22b4bcdbae6c33467f5c293edc1ea862ad5b8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f1bc48f6f3595e7ed6907241d88291e5a7bdd442"
+    },
+    {
+      "paperId": "c39f2a5d9e092a255d7108c2ca40b6721a437533"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8781741aa5f620f028be193c723a02d9bf9d6bf4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "168ef2a077a4ad9dcc3525a6dbb8f2a392ffaebb"
+    },
+    {
+      "paperId": "77741fecd7108aef5bec50a631cbc6994c19394e"
+    },
+    {
+      "paperId": "27500d0cb9c79c2019a00a75fcc865c65fb20300"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "521763dcc6932d4418eb45bc997411757f34b6ed"
+    },
+    {
+      "paperId": "8e7d4c60d8e3f07a8c9781d8179b4d1c6cc6371c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "39f0c7faf9cabe3c1ef77e76358b707250ab0f3b"
+    },
+    {
+      "paperId": "96b2e0c09906bb20e1c80a62948a328ffb0e2274"
+    },
+    {
+      "paperId": "17c4262cb4f93b1dce77d48bd86ea745a46e8fc2"
+    },
+    {
+      "paperId": "bfdecda8673fe96bc5ee75e3e74d2e794be47a56"
+    },
+    {
+      "paperId": "3e9aaacaeda609f4e38014d6520c0f187800a4b6"
+    },
+    {
+      "paperId": "17503d1670ddb8e867e16d00d9a99127219aa4bd"
+    },
+    {
+      "paperId": "68acad59baead2b2afe013e790caafe45bfeba12"
+    },
+    {
+      "paperId": "5af88b93471f15e693d6447347bba0a223ada39d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac919093645859f51647ce8b40ad259d57fc1722"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a812c0bf9f5dfad56ff2780f6a4329ba926dcceb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "53826378904cf48db25d21aac481e2a9fc1e8031",
+  "externalIds": {
+    "MAG": "2132907582",
+    "DOI": "10.1109/ICEICE.2011.5778158",
+    "CorpusId": 35478863
+  },
+  "url": "https://www.semanticscholar.org/paper/53826378904cf48db25d21aac481e2a9fc1e8031",
+  "title": "Development and application of fertilization information systems based on ArcEngine",
+  "venue": "International Conference on Electric Information and Control Engineering",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEICE.2011.5778158?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEICE.2011.5778158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47073689",
+      "name": "Xia Zhen"
+    },
+    {
+      "authorId": "9185556",
+      "name": "Xu Jianbo"
+    },
+    {
+      "authorId": "22234331",
+      "name": "Wang Zhikun"
+    },
+    {
+      "authorId": "9149017",
+      "name": "Song Lisheng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,49 @@
+{
+  "paperId": "3f74f6417111a26b295797b44db7800e74e67dd7",
+  "externalIds": {
+    "MAG": "1987089530",
+    "DOI": "10.1007/s00216-009-3440-2",
+    "CorpusId": 20344349,
+    "PubMed": "20127321"
+  },
+  "url": "https://www.semanticscholar.org/paper/3f74f6417111a26b295797b44db7800e74e67dd7",
+  "title": "Evaluation of a modified QuEChERS method for the extraction of pesticides from agricultural, ornamental and forestal soils",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2010,
+  "citationCount": 142,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-009-3440-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-009-3440-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "1398689878",
+      "name": "M. Asensio‐Ramos"
+    },
+    {
+      "authorId": "1388890277",
+      "name": "J. Hernández-Borges"
+    },
+    {
+      "authorId": "1403266130",
+      "name": "Lidia M. Ravelo-Pérez"
+    },
+    {
+      "authorId": "1400928866",
+      "name": "M. Rodríguez-Delgado"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

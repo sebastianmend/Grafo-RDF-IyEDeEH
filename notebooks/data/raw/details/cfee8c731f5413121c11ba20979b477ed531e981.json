@@ -1,0 +1,42 @@
+{
+  "paperId": "cfee8c731f5413121c11ba20979b477ed531e981",
+  "externalIds": {
+    "MAG": "2167874662",
+    "DOI": "10.1007/s10344-009-0327-7",
+    "CorpusId": 20006617
+  },
+  "url": "https://www.semanticscholar.org/paper/cfee8c731f5413121c11ba20979b477ed531e981",
+  "title": "Assessment of methods for estimating wild rabbit population abundance in agricultural landscapes",
+  "venue": "Zeitschrift f\\ ur Jagdwissenschaft",
+  "year": 2010,
+  "citationCount": 40,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-00535256/file/10344_2009_327_ReferencePDF.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10344-009-0327-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10344-009-0327-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1740072",
+      "name": "I. Barrio"
+    },
+    {
+      "authorId": "47265275",
+      "name": "P. Acevedo"
+    },
+    {
+      "authorId": "144520220",
+      "name": "F. S. Tortosa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

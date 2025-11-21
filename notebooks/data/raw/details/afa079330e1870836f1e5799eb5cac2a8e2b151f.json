@@ -1,0 +1,68 @@
+{
+  "paperId": "afa079330e1870836f1e5799eb5cac2a8e2b151f",
+  "externalIds": {
+    "MAG": "1971982899",
+    "DOI": "10.1007/S12272-014-0533-Z",
+    "CorpusId": 21155713,
+    "PubMed": "25648632"
+  },
+  "url": "https://www.semanticscholar.org/paper/afa079330e1870836f1e5799eb5cac2a8e2b151f",
+  "title": "Simultaneous determination of 19 fatty acids in Antrodia camphorata by derivatized GC–MS and evaluation of antioxidant activity of Antrodia camphorata crude oil",
+  "venue": "Archives of pharmacal research",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S12272-014-0533-Z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S12272-014-0533-Z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "12223386",
+      "name": "Feng-su Zhang"
+    },
+    {
+      "authorId": "2182242913",
+      "name": "H. Cai"
+    },
+    {
+      "authorId": "8015981",
+      "name": "Xunhong Liu"
+    },
+    {
+      "authorId": "14411862",
+      "name": "Fei-yuan Chen"
+    },
+    {
+      "authorId": "39492150",
+      "name": "Nian-yun Yang"
+    },
+    {
+      "authorId": "145058774",
+      "name": "Ya Hou"
+    },
+    {
+      "authorId": "1911116",
+      "name": "Yang Ma"
+    },
+    {
+      "authorId": "48001749",
+      "name": "Yi-yuan Luo"
+    },
+    {
+      "authorId": "49722564",
+      "name": "Juan-xiu Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

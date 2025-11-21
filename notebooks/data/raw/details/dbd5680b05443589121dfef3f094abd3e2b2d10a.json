@@ -1,0 +1,46 @@
+{
+  "paperId": "dbd5680b05443589121dfef3f094abd3e2b2d10a",
+  "externalIds": {
+    "MAG": "2294280682",
+    "DBLP": "conf/ausai/MaireAH15",
+    "DOI": "10.1007/978-3-319-26350-2_33",
+    "CorpusId": 15302458
+  },
+  "url": "https://www.semanticscholar.org/paper/dbd5680b05443589121dfef3f094abd3e2b2d10a",
+  "title": "Automating Marine Mammal Detection in Aerial Images Captured During Wildlife Surveys: A Deep Learning Approach",
+  "venue": "Australasian Conference on Artificial Intelligence",
+  "year": 2015,
+  "citationCount": 52,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-26350-2_33?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-26350-2_33, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1737645",
+      "name": "F. Maire"
+    },
+    {
+      "authorId": "38332961",
+      "name": "Luis Mejías Alvarez"
+    },
+    {
+      "authorId": "47474212",
+      "name": "A. Hodgson"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

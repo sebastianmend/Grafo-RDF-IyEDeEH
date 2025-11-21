@@ -1,0 +1,44 @@
+{
+  "paperId": "277c3d2e14d4004f491f640302f2d6cfc3ef0e13",
+  "externalIds": {
+    "MAG": "2084007272",
+    "DOI": "10.1007/s00216-012-6184-3",
+    "CorpusId": 2087135,
+    "PubMed": "22752446"
+  },
+  "url": "https://www.semanticscholar.org/paper/277c3d2e14d4004f491f640302f2d6cfc3ef0e13",
+  "title": "Determination of terbuthylazine and desethylterbuthylazine in human urine and hair samples by eletrospray ionization-liquid chromatography/triple quadrupole mass spectrometry",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2012,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-012-6184-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-012-6184-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "88647365",
+      "name": "R. Mercadante"
+    },
+    {
+      "authorId": "15313344",
+      "name": "E. Polledri"
+    },
+    {
+      "authorId": "6092775",
+      "name": "S. Fustinoni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

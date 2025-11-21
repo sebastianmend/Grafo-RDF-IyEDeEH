@@ -1,0 +1,38 @@
+{
+  "paperId": "a2c037038042ad706c649574d3a55936484e9f94",
+  "externalIds": {
+    "MAG": "2167171988",
+    "DOI": "10.1109/ICEICE.2011.5777685",
+    "CorpusId": 18592068
+  },
+  "url": "https://www.semanticscholar.org/paper/a2c037038042ad706c649574d3a55936484e9f94",
+  "title": "Kalman filtering design for agricultural vehicle state estimation",
+  "venue": "International Conference on Electric Information and Control Engineering",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEICE.2011.5777685?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEICE.2011.5777685, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9069190",
+      "name": "R. Bao"
+    },
+    {
+      "authorId": "2110412160",
+      "name": "Yongkui Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

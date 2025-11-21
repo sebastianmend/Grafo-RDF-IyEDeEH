@@ -1,0 +1,296 @@
+{
+  "paperId": "a611e4c7a4d985c444a8d91ffc1ae6d0bb7114dc",
+  "externalIds": {
+    "PubMedCentral": "4585299",
+    "MAG": "1896550066",
+    "DOI": "10.3389/fgene.2015.00294",
+    "CorpusId": 17002686,
+    "PubMed": "26442110"
+  },
+  "url": "https://www.semanticscholar.org/paper/a611e4c7a4d985c444a8d91ffc1ae6d0bb7114dc",
+  "title": "Selection and validation of potato candidate genes for maturity corrected resistance to Phytophthora infestans based on differential expression combined with SNP association and linkage mapping",
+  "venue": "Frontiers in Genetics",
+  "year": 2015,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fgene.2015.00294/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4585299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8401983",
+      "name": "M. Muktar"
+    },
+    {
+      "authorId": "5563536",
+      "name": "J. Lübeck"
+    },
+    {
+      "authorId": "3814000",
+      "name": "J. Strahwald"
+    },
+    {
+      "authorId": "39604219",
+      "name": "C. Gebhardt"
+    }
+  ],
+  "abstract": "Late blight of potato (Solanum tuberosum L.) caused by the oomycete Phytophthora infestans (Mont.) de Bary, is one of the most important bottlenecks of potato production worldwide. Cultivars with high levels of durable, race unspecific, quantitative resistance are part of a solution to this problem. However, breeding for quantitative resistance is hampered by the correlation between resistance and late plant maturity, which is an undesirable agricultural attribute. The objectives of our research are (i) the identification of genes that condition quantitative resistance to P. infestans not compromised by late plant maturity and (ii) the discovery of diagnostic single nucleotide polymorphism (SNP) markers to be used as molecular tools to increase efficiency and precision of resistance breeding. Twenty two novel candidate genes were selected based on comparative transcript profiling by SuperSAGE (serial analysis of gene expression) in groups of plants with contrasting levels of maturity corrected resistance (MCR). Reproducibility of differential expression was tested by quantitative real time PCR and allele specific pyrosequencing in four new sets of genotype pools with contrasting late blight resistance levels, at three infection time points and in three independent infection experiments. Reproducibility of expression patterns ranged from 28 to 97%. Association mapping in a panel of 184 tetraploid cultivars identified SNPs in five candidate genes that were associated with MCR. These SNPs can be used in marker-assisted resistance breeding. Linkage mapping in two half-sib families (n = 111) identified SNPs in three candidate genes that were linked with MCR. The differentially expressed genes that showed association and/or linkage with MCR putatively function in phytosterol synthesis, fatty acid synthesis, asparagine synthesis, chlorophyll synthesis, cell wall modification, and in the response to pathogen elicitors.",
+  "references": [
+    {
+      "paperId": "dec040506488a55bb1846056a4595de22d15d799"
+    },
+    {
+      "paperId": "d92b292ab0d07ed9f51074575cd35c0da7ec9752"
+    },
+    {
+      "paperId": "e103616347767067000420b78bf0d1adeb770f3b"
+    },
+    {
+      "paperId": "a0972717ef9a6396042a70462434406bf648d4bc"
+    },
+    {
+      "paperId": "866f8d829e595db2bd9736c03145145ba1993ab8"
+    },
+    {
+      "paperId": "12d2e336ae4c6a639bd65acb98f66576cab75b83"
+    },
+    {
+      "paperId": "344e2ce67d4f011f4881a0f7b73eee7bebdf5ef1"
+    },
+    {
+      "paperId": "930d81eb167946b7dd7792d886292f793cfea753"
+    },
+    {
+      "paperId": "2aebf9be35c44a4e4263d4d7afed94c1b12a5ac5"
+    },
+    {
+      "paperId": "bafd1b054fe1bfa8aac183007164172868264d1a"
+    },
+    {
+      "paperId": "c1aded4e6c8662cb93e7a481a91424dabc6f8836"
+    },
+    {
+      "paperId": "4c7b31ba9e21e04a47cf30b9d47e1f217a3e8fa2"
+    },
+    {
+      "paperId": "36b96a2406f3a0ad30e6fba258fbc1d6409d0c0e"
+    },
+    {
+      "paperId": "23841548562c10786172f5af4f1af1651fb04643"
+    },
+    {
+      "paperId": "ac5b1d168ba59da112acdfa08f7de9efdd6475ab"
+    },
+    {
+      "paperId": "414f10b671cb6c5130700e629b246e6dac7e6b46"
+    },
+    {
+      "paperId": "03594022fb1b3a63650a7a9f33f9931f09e45b29"
+    },
+    {
+      "paperId": "ffe1c622ada0445238e770c20630b2cab60b51a4"
+    },
+    {
+      "paperId": "83a55416b9710f4be7138c49a64a727941d6a79c"
+    },
+    {
+      "paperId": "655f7744df4631f508ad7b2983760f70e2bc6cac"
+    },
+    {
+      "paperId": "b6ccccb14fc7b8d2b266c6c2f12eabae030733c7"
+    },
+    {
+      "paperId": "aaed468b97d1d5f4ef51b127628d687fb3b1f9b5"
+    },
+    {
+      "paperId": "4e12cc66ea3965440f9e9068ce0095f9333c0cc6"
+    },
+    {
+      "paperId": "021dd06180816a99134a4ad312bc9a837f8406b9"
+    },
+    {
+      "paperId": "4f6f27d61141e56c222261ce9b7475779e879ca8"
+    },
+    {
+      "paperId": "1d8f034e34b94fc4e8fe2916bc62ff95c9808318"
+    },
+    {
+      "paperId": "406243db01559b73299d6931ded52f5de7d380af"
+    },
+    {
+      "paperId": "3dd809c5df2c08589622d48ba49f4f9d00872c2e"
+    },
+    {
+      "paperId": "8fa32207049347bc8824742278836f2c8717e6eb"
+    },
+    {
+      "paperId": "c38ccfa1554a24e8635757d1e3482c2cbeb3b754"
+    },
+    {
+      "paperId": "7d167ee9a1824e7d4a5baa80e721aace6c1f7e8c"
+    },
+    {
+      "paperId": "02998e0472e8775cebacbcb0ece647dff13ca277"
+    },
+    {
+      "paperId": "49e701917d945df0359c1e21fba0b06777f04be3"
+    },
+    {
+      "paperId": "9f8358d4344a0f79d7a78b657133f10f271d828e"
+    },
+    {
+      "paperId": "d2462e6007853107b005f3a553dc12cff01e819e"
+    },
+    {
+      "paperId": "665a1ff35896765333eeffc975272fa34f5548b8"
+    },
+    {
+      "paperId": "a03b9e290b06461388c7c9c97c4821db1100f633"
+    },
+    {
+      "paperId": "ad394b40743f515b48cab11a6da30bf66961b9a8"
+    },
+    {
+      "paperId": "f614fe708eab85fbfe33ced20ea6febf17213550"
+    },
+    {
+      "paperId": "db29c98f1a47e1825a1d0f096aa4761f7bba2bfc"
+    },
+    {
+      "paperId": "8ad2ce7f45422c3b33b4a9d7246546b366fe13d7"
+    },
+    {
+      "paperId": "9c4fb83f9c95c677ca5fa7e478de438b733a002d"
+    },
+    {
+      "paperId": "44694d617d5edbbbe67c916ad4b93418f48a5dca"
+    },
+    {
+      "paperId": "ab5f654ad89ce66743ff115969557ee1a3acb045"
+    },
+    {
+      "paperId": "0c91c59fd554273205a3e6a34089da8edfd54ff1"
+    },
+    {
+      "paperId": "e8d24e57e6fa36edf17c389d6278966289d5e012"
+    },
+    {
+      "paperId": "543a8cd65bf6a8d0f851b8e368f83e4abeb60400"
+    },
+    {
+      "paperId": "9e513c9e2f9fbeea280738153fcb0d09f4e64768"
+    },
+    {
+      "paperId": "0a30c0fbdd2526d6875c918d696b60cfa9540d38"
+    },
+    {
+      "paperId": "b3f0a539fd43663f60c28fd0a1afdb95397399c4"
+    },
+    {
+      "paperId": "c9f95581f6542d5b3e29237bd417614f418fa66d"
+    },
+    {
+      "paperId": "6215a94992402e3a09bdc451116cf2bc6d7e8444"
+    },
+    {
+      "paperId": "16ac4d1af24a6174b0a5e1b6491424291d2973bb"
+    },
+    {
+      "paperId": "fbe674069a1fd4246f8b04335329b9349ecf1427"
+    },
+    {
+      "paperId": "9404237b7c649cce852a1e34bf7fe74fcd190817"
+    },
+    {
+      "paperId": "9c52f4a27de1d9f7fbbf12dc59588adb5fa22e0e"
+    },
+    {
+      "paperId": "fa02f9123abacd5ba13d41e937d99c077da8d3f6"
+    },
+    {
+      "paperId": "bcf1d9a6ed78e786e96226eed4f04b75df0b278b"
+    },
+    {
+      "paperId": "5ba707314dd8fd0a66669c4471f701ec355020bf"
+    },
+    {
+      "paperId": "2e84f3d74c693cb635bd229e6c59b8428691d1be"
+    },
+    {
+      "paperId": "40ebcf3dabe0a25a1a7f2447c51b5943ae3c2ed1"
+    },
+    {
+      "paperId": "609254885b8c1cd251061460f281bde3b9be5bb1"
+    },
+    {
+      "paperId": "25eb3c1903de3ebaf487b1e85adbdebc9ddd7fa1"
+    },
+    {
+      "paperId": "2cd8909ad8249b5b0f80f4c1e5112a99377d4fd3"
+    },
+    {
+      "paperId": "85753078e1763c5a4c5dc261d59217730ad469bc"
+    },
+    {
+      "paperId": "d8c622ec8468bc5cdd774a8a0e9a58da49d9f6e4"
+    },
+    {
+      "paperId": "aa35943538f98c6502168e6adeaee1811fed3bb8"
+    },
+    {
+      "paperId": "036fdbb40f72e10bb0541af772e982e26241171d"
+    },
+    {
+      "paperId": "5bd74628dc2527f6a3185c233b77c430e6f70a54"
+    },
+    {
+      "paperId": "87725090389df5b7c63c879777a31530e4b1be9c"
+    },
+    {
+      "paperId": "3f3a71bc85ba2676f5bf9e62443319bbbd9f58c8"
+    },
+    {
+      "paperId": "01a362356724ea66600e28ebd5ede22cd7867005"
+    },
+    {
+      "paperId": "dc1938180d66df50d38028f3634e79008ee8c3d4"
+    },
+    {
+      "paperId": "821e35524e107c70e4129806f17473549c135a9a"
+    },
+    {
+      "paperId": "38a4afb6a32fb515fd37ba2655769e183d57be0d"
+    },
+    {
+      "paperId": "c95e49f4ae9ff381d3b94b43074b69f6fcba7a56"
+    },
+    {
+      "paperId": "c41710f6d9a8dbeff211ab7cebc19f5462093d80"
+    },
+    {
+      "paperId": "dc336b7647a807f67b2bfdcaa15626fe7e7e7fbd"
+    },
+    {
+      "paperId": "e4dc4d65129181c27f2bd651588b528368e64a2f"
+    },
+    {
+      "paperId": "96cf3acc1da10d84774e20162be357f9d5309063"
+    },
+    {
+      "paperId": "5a7ff00ac75998c6612fd3cd64f1652134b49266"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

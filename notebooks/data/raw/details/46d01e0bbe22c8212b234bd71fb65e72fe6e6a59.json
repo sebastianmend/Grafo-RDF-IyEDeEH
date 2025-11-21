@@ -1,0 +1,57 @@
+{
+  "paperId": "46d01e0bbe22c8212b234bd71fb65e72fe6e6a59",
+  "externalIds": {
+    "MAG": "2093394303",
+    "DOI": "10.1007/s00244-010-9593-3",
+    "CorpusId": 25149366,
+    "PubMed": "20878153"
+  },
+  "url": "https://www.semanticscholar.org/paper/46d01e0bbe22c8212b234bd71fb65e72fe6e6a59",
+  "title": "High-Throughput Sample Preparation for the Quantitation of Acephate, Methamidophos, Omethoate, Dimethoate, Ethylenethiourea, and Propylenethiourea in Human Urine Using 96-Well–Plate Automated Extraction and High-Performance Liquid Chromatography–Tandem Mass Spectrometry",
+  "venue": "Archives of Environmental Contamination and Toxicology",
+  "year": 2011,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00244-010-9593-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00244-010-9593-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "10170085",
+      "name": "N. Jayatilaka"
+    },
+    {
+      "authorId": "46899076",
+      "name": "M. Angela Montesano"
+    },
+    {
+      "authorId": "5102226",
+      "name": "R. Whitehead"
+    },
+    {
+      "authorId": "13755329",
+      "name": "Sara J Schloth"
+    },
+    {
+      "authorId": "5094116",
+      "name": "L. Needham"
+    },
+    {
+      "authorId": "7140576",
+      "name": "D. Barr"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

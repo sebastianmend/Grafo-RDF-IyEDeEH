@@ -1,0 +1,47 @@
+{
+  "paperId": "ffc3f31a9c65ab859f8716c77837e3ab7d101a69",
+  "externalIds": {
+    "MAG": "2027598933",
+    "DOI": "10.1109/ICCSN.2011.6013956",
+    "CorpusId": 17020671
+  },
+  "url": "https://www.semanticscholar.org/paper/ffc3f31a9c65ab859f8716c77837e3ab7d101a69",
+  "title": "Research and implementation on web service registry center of precision agriculture on SOA-based",
+  "venue": "IEEE International Conference on Communication Software and Networks",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSN.2011.6013956?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSN.2011.6013956, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47204881",
+      "name": "Xu Li-yuan"
+    },
+    {
+      "authorId": "6070443",
+      "name": "Chen Liping"
+    },
+    {
+      "authorId": "2022709524",
+      "name": "Chen Tianen"
+    },
+    {
+      "authorId": "9125827",
+      "name": "Gao Yun-bing"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

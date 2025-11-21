@@ -1,0 +1,64 @@
+{
+  "paperId": "4c86388ee42d7163fd205a325abc7345049c3158",
+  "externalIds": {
+    "MAG": "2138189453",
+    "CorpusId": 110083721
+  },
+  "url": "https://www.semanticscholar.org/paper/4c86388ee42d7163fd205a325abc7345049c3158",
+  "title": "Nanotechnology: A new frontier in Agriculture",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 105,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144527138",
+      "name": "Muhammad Ishtiaq Ali"
+    },
+    {
+      "authorId": "90679245",
+      "name": "Iqra Rehman"
+    },
+    {
+      "authorId": "51116617",
+      "name": "A. Iqbal"
+    },
+    {
+      "authorId": "97883280",
+      "name": "S. Din"
+    },
+    {
+      "authorId": "90832371",
+      "name": "A. Q. Rao"
+    },
+    {
+      "authorId": "6440506",
+      "name": "A. Latif"
+    },
+    {
+      "authorId": "11307629",
+      "name": "T. R. Samiullah"
+    },
+    {
+      "authorId": "153851136",
+      "name": "Saira Azam"
+    },
+    {
+      "authorId": "2826757",
+      "name": "T. Husnain"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

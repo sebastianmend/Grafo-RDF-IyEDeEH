@@ -1,0 +1,48 @@
+{
+  "paperId": "944e796ba6eab7b00009f4d471d8cf84d39ab66e",
+  "externalIds": {
+    "MAG": "3025703330",
+    "CorpusId": 222768103
+  },
+  "url": "https://www.semanticscholar.org/paper/944e796ba6eab7b00009f4d471d8cf84d39ab66e",
+  "title": "Relationship between apparent soil electrical conductivity (ECa) and soil attributes at an experimental parcel under pasture in a region of Galicia, Spain",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2140127886",
+      "name": "M. D. Marinho"
+    },
+    {
+      "authorId": "1404966829",
+      "name": "A. Paz-González"
+    },
+    {
+      "authorId": "5655916",
+      "name": "J. Dafonte"
+    },
+    {
+      "authorId": "92039412",
+      "name": "M. V. Armesto"
+    },
+    {
+      "authorId": "145169799",
+      "name": "J. R. Raposo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

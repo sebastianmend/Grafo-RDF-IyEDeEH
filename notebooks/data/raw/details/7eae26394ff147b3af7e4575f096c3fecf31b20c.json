@@ -1,0 +1,48 @@
+{
+  "paperId": "7eae26394ff147b3af7e4575f096c3fecf31b20c",
+  "externalIds": {
+    "MAG": "2132869515",
+    "DBLP": "conf/igarss/ChangLWZ11",
+    "DOI": "10.1109/IGARSS.2011.6049886",
+    "CorpusId": 6045647
+  },
+  "url": "https://www.semanticscholar.org/paper/7eae26394ff147b3af7e4575f096c3fecf31b20c",
+  "title": "Root zone soil moisture estimation by Terra/MODIS imagery over the tropical catchment in northern Thailand",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2011.6049886?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2011.6049886, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2134373342",
+      "name": "Tzu-Yin Chang"
+    },
+    {
+      "authorId": "2352071",
+      "name": "Y. Liou"
+    },
+    {
+      "authorId": "2116640376",
+      "name": "Yi‐Chen Wang"
+    },
+    {
+      "authorId": "32395383",
+      "name": "A. Ziegler"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

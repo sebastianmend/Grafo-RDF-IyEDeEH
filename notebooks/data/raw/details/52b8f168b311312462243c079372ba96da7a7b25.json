@@ -1,0 +1,36 @@
+{
+  "paperId": "52b8f168b311312462243c079372ba96da7a7b25",
+  "externalIds": {
+    "MAG": "2615040829",
+    "CorpusId": 38237078
+  },
+  "url": "https://www.semanticscholar.org/paper/52b8f168b311312462243c079372ba96da7a7b25",
+  "title": "Monitoring for Precision Agriculture using Wireless Sensor Network-A review",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 73,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "117815490",
+      "name": "A. Awasthi"
+    },
+    {
+      "authorId": "145267200",
+      "name": "S. Reddy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

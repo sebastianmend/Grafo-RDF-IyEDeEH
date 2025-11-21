@@ -1,0 +1,160 @@
+{
+  "paperId": "93b3b7a19a54a3a405edcd8bc1e14dfae3849d3c",
+  "externalIds": {
+    "MAG": "2098609963",
+    "PubMedCentral": "4481894",
+    "DBLP": "journals/sensors/Chen15a",
+    "DOI": "10.3390/s150511387",
+    "CorpusId": 1273101,
+    "PubMed": "25988870"
+  },
+  "url": "https://www.semanticscholar.org/paper/93b3b7a19a54a3a405edcd8bc1e14dfae3849d3c",
+  "title": "Determining the Leaf Emissivity of Three Crops by Infrared Thermometry",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 59,
+  "influentialCitationCount": 14,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/5/11387/pdf?version=1431679599",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4481894, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "114576739",
+      "name": "Chiachung Chen"
+    }
+  ],
+  "abstract": "Plant temperature can provide important physiological information for crop management. Non-contact measurement with an infrared thermometer is useful for detecting leaf temperatures. In this study, a novel technique was developed to measure leaf emissivity using an infrared thermometer with an infrared sensor and a thermocouple wire. The measured values were transformed into true temperatures by calibration equations to improve the measurement accuracy. The relationship between two kinds of measurement temperatures and setting emissivities was derived as a model for calculating of true emissivity. The emissivities of leaves of three crops were calculated by the mathematical equation developed in this study. The mean emissivities were 0.9809, 0.9783, 0.981 and 0.9848 for Phalaenopsis mature and new leaves and Paphiopedilum and Malabar chestnut leaves, respectively. Emissivity differed significantly between leaves of Malabar chestnut and the two orchids. The range of emissivities determined in this study was similar to that in the literature. The precision of the measurement is acceptable. The method developed in this study is a real-time, in situ technique and could be used for agricultural and forestry plants.",
+  "references": [
+    {
+      "paperId": "9feb072a560f8141e65b5faffc9a1980c716ccb9"
+    },
+    {
+      "paperId": "b9e6454a9c07be11924f6d53fd88d046004c5351"
+    },
+    {
+      "paperId": "954b33813e35c9724993a89c073805d76af09c84"
+    },
+    {
+      "paperId": "586a8666c06f87fe348e6d7715964cec3bd3c306"
+    },
+    {
+      "paperId": "bdc22fae203209e6f94029c0d987ac01ee98e848"
+    },
+    {
+      "paperId": "6abfe4c6cc25244f7d2df5c8247ddcf61d9fe05b"
+    },
+    {
+      "paperId": "90012403bbbf338500d43b34230fd2000c98c1c2"
+    },
+    {
+      "paperId": "1b0e1f0da53460df2763e968c8191501eda92e59"
+    },
+    {
+      "paperId": "f275a707f2774ccd70ace72f2afe9703fe081f2d"
+    },
+    {
+      "paperId": "a663b8e35cba75eed19d3947c93dfb651366ed03"
+    },
+    {
+      "paperId": "fb5943196176474c32eb810540231ed98aaf5df3"
+    },
+    {
+      "paperId": "7906e55149e33dd51f95b1fc799b5dab93a4a256"
+    },
+    {
+      "paperId": "15eaac566a670fa13e951bab79960c5b21a8798f"
+    },
+    {
+      "paperId": "f817833fe1287478597cc6b6957642eb37e510f2"
+    },
+    {
+      "paperId": "787a16e5ad110528ea686cf14d148688e210ecbe"
+    },
+    {
+      "paperId": "8a05d095f7a30ec0f31765f52c0badfd15ffd2c0"
+    },
+    {
+      "paperId": "223cad5a8a1008f07652d965cdaf910811f3ce5f"
+    },
+    {
+      "paperId": "b37d6ecf8cd0fcd6a190f5d4e91d89d6e53197af"
+    },
+    {
+      "paperId": "ff5787574ec0b01a6381881009c5e196019bd4ef"
+    },
+    {
+      "paperId": "ed8ec2fd629cb00d14f1ad1b0d651ed102f2f98d"
+    },
+    {
+      "paperId": "4801df86916106eba95e387bf07e506a9eaf50cd"
+    },
+    {
+      "paperId": "0d499596486a775bd37aa2003602e203a88124a8"
+    },
+    {
+      "paperId": "b102a39ec30c2c796832193456ee02a8c36836bf"
+    },
+    {
+      "paperId": "73c8f8430a6b73912b1110492b8b3a0809fef690"
+    },
+    {
+      "paperId": "e0b23c261c99dad7f22676d221a645bcaddf3480"
+    },
+    {
+      "paperId": "cb8ad09261febd0c5b8e88794f298bfc868e52b9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

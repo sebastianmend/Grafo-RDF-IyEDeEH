@@ -1,0 +1,42 @@
+{
+  "paperId": "e1367035e263ee614a63f8669877aee9fe277158",
+  "externalIds": {
+    "MAG": "2278865334",
+    "DOI": "10.1109/INTELCIS.2015.7397200",
+    "CorpusId": 17492843
+  },
+  "url": "https://www.semanticscholar.org/paper/e1367035e263ee614a63f8669877aee9fe277158",
+  "title": "Wireless sensor networks in agriculture",
+  "venue": "International Conference on the Internet, Cyber Security and Information Systems",
+  "year": 2015,
+  "citationCount": 90,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INTELCIS.2015.7397200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INTELCIS.2015.7397200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145795861",
+      "name": "V. Romanov"
+    },
+    {
+      "authorId": "9219761",
+      "name": "I. Galelyuka"
+    },
+    {
+      "authorId": "2981103",
+      "name": "Y. Sarakhan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

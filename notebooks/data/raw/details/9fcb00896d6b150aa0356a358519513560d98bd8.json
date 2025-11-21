@@ -1,0 +1,55 @@
+{
+  "paperId": "9fcb00896d6b150aa0356a358519513560d98bd8",
+  "externalIds": {
+    "MAG": "2475101472",
+    "CorpusId": 19941687,
+    "PubMed": "26563062"
+  },
+  "url": "https://www.semanticscholar.org/paper/9fcb00896d6b150aa0356a358519513560d98bd8",
+  "title": "Assessment of Pesticide Contamination in Ground Water from Intensive Agricultural Sites, Using Gas Chromatography-Mass Spectrometry.",
+  "venue": "Journal of Environmental Science and Engineering",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11371705",
+      "name": "Shalini Sikarwar"
+    },
+    {
+      "authorId": "48805663",
+      "name": "K. Gandhi"
+    },
+    {
+      "authorId": "2109146545",
+      "name": "Kanchan Singh"
+    },
+    {
+      "authorId": "34565356",
+      "name": "S. Kashyap"
+    },
+    {
+      "authorId": "2111266793",
+      "name": "Shoeb Khan"
+    },
+    {
+      "authorId": "6842934",
+      "name": "N. Thacker"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

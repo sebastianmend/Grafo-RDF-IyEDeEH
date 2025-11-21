@@ -1,0 +1,44 @@
+{
+  "paperId": "ab88cfea78f88bffd691b547f19d22dab213b83b",
+  "externalIds": {
+    "DBLP": "conf/crv/AbuleilTM15",
+    "MAG": "1922622900",
+    "DOI": "10.1109/CRV.2015.43",
+    "CorpusId": 11488132
+  },
+  "url": "https://www.semanticscholar.org/paper/ab88cfea78f88bffd691b547f19d22dab213b83b",
+  "title": "An Integrated System for Mapping Red Clover Ground Cover Using Unmanned Aerial Vehicles: A Case Study in Precision Agriculture",
+  "venue": "2015 12th Conference on Computer and Robot Vision",
+  "year": 2015,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CRV.2015.43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CRV.2015.43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2739547",
+      "name": "Ammar M. Abuleil"
+    },
+    {
+      "authorId": "144639556",
+      "name": "Graham W. Taylor"
+    },
+    {
+      "authorId": "1843211",
+      "name": "M. Moussa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

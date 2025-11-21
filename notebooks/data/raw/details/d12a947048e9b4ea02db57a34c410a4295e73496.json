@@ -1,0 +1,98 @@
+{
+  "paperId": "d12a947048e9b4ea02db57a34c410a4295e73496",
+  "externalIds": {
+    "MAG": "2162673992",
+    "DOI": "10.7309/jmtm.3.2.3",
+    "CorpusId": 33010989,
+    "PubMed": "28794808"
+  },
+  "url": "https://www.semanticscholar.org/paper/d12a947048e9b4ea02db57a34c410a4295e73496",
+  "title": "Epilepsy Treatment Simplified through Mobile Ketogenic Diet Planning.",
+  "venue": "Journal of Mobile Technology in Medicine",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://articles.journalmtm.com/jmtm.3.2.3.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7309/jmtm.3.2.3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7309/jmtm.3.2.3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118384386",
+      "name": "Hanzhou Li"
+    },
+    {
+      "authorId": "22460347",
+      "name": "Jeffrey L. Jauregui"
+    },
+    {
+      "authorId": "22453439",
+      "name": "Cagla Fenton"
+    },
+    {
+      "authorId": "50854535",
+      "name": "C. Chee"
+    },
+    {
+      "authorId": "35013664",
+      "name": "A. Bergqvist"
+    }
+  ],
+  "abstract": "BACKGROUND\nThe Ketogenic Diet (KD) is an effective, alternative treatment for refractory epilepsy. This high fat, low protein and carbohydrate diet mimics the metabolic and hormonal changes that are associated with fasting.\n\n\nAIMS\nTo maximize the effectiveness of the KD, each meal is precisely planned, calculated, and weighed to within 0.1 gram for the average three-year duration of treatment. Managing the KD is time-consuming and may deter caretakers and patients from pursuing or continuing this treatment. Thus, we investigated methods of planning KD faster and making the process more portable through mobile applications.\n\n\nMETHODS\nNutritional data was gathered from the United States Department of Agriculture (USDA) Nutrient Database. User selected foods are converted into linear equations with n variables and three constraints: prescribed fat content, prescribed protein content, and prescribed carbohydrate content. Techniques are applied to derive the solutions to the underdetermined system depending on the number of foods chosen.\n\n\nRESULTS\nThe method was implemented on an iOS device and tested with varieties of foods and different number of foods selected. With each case, the application's constructed meal plan was within 95% precision of the KD requirements.\n\n\nCONCLUSION\nIn this study, we attempt to reduce the time needed to calculate a meal by automating the computation of the KD via a linear algebra model. We improve upon previous KD calculators by offering optimal suggestions and incorporating the USDA database. We believe this mobile application will help make the KD and other dietary treatment preparations less time consuming and more convenient.",
+  "references": [
+    {
+      "paperId": "c1caa3f6884a528d7c9cfe777e2a5294d14fa687"
+    },
+    {
+      "paperId": "d65e5ad46ac8cdab719a010c3b58f9bdc88a9d67"
+    },
+    {
+      "paperId": "8f782cce394d1d7c030871ddc156614039bfc2e6"
+    },
+    {
+      "paperId": "d14457404ca1d386a6458d447e692cbaa817c199"
+    },
+    {
+      "paperId": "b4739302aa51ae6730b9b12aecfeb8bbcdcd909f"
+    },
+    {
+      "paperId": "0dbbd2f936205661470e890b3c4513595aee5d7f"
+    },
+    {
+      "paperId": "ad0324d6325ce4c804659bcaea37129c771d260e"
+    },
+    {
+      "paperId": "e3d0be4699e00d1b98d4151916970a4a3f8c32e7"
+    },
+    {
+      "paperId": "d4802f2954508b75afa013a11c12936e03802213"
+    },
+    {
+      "paperId": "2684823edddb2aa8fe0882d0aacb0eeacc03df54"
+    },
+    {
+      "paperId": "2adf8bbe7d3af2548d2c2112d438a2d8b9fe5c93"
+    },
+    {
+      "paperId": "2f68f108d7ec741bcf92c79d40308e33e7663cbe"
+    },
+    {
+      "paperId": "c244ffa5564b781ae5980af0e336eff8e2325468"
+    },
+    {
+      "paperId": "80664036f040248b8e75c47066579147df524b82"
+    },
+    {
+      "paperId": "060e04ab5bdfa24a77484f1449a07b64db7c0873"
+    }
+  ]
+}

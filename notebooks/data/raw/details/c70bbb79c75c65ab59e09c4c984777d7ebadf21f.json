@@ -1,0 +1,44 @@
+{
+  "paperId": "c70bbb79c75c65ab59e09c4c984777d7ebadf21f",
+  "externalIds": {
+    "MAG": "1480716852",
+    "DBLP": "conf/bigdataservice/KarmasTK15",
+    "DOI": "10.1109/BigDataService.2015.49",
+    "CorpusId": 3139891
+  },
+  "url": "https://www.semanticscholar.org/paper/c70bbb79c75c65ab59e09c4c984777d7ebadf21f",
+  "title": "Scalable Geospatial Web Services through Efficient, Online and Near Real-Time Processing of Earth Observation Data",
+  "venue": "2015 IEEE First International Conference on Big Data Computing Service and Applications",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/BigDataService.2015.49?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BigDataService.2015.49, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2204309",
+      "name": "Athanasios Karmas"
+    },
+    {
+      "authorId": "1845950",
+      "name": "A. Tzotsos"
+    },
+    {
+      "authorId": "144542193",
+      "name": "K. Karantzalos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

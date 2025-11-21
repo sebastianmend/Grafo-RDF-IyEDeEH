@@ -1,0 +1,42 @@
+{
+  "paperId": "023da8584112ee193a876247de6b1e8e45aea450",
+  "externalIds": {
+    "MAG": "2024002069",
+    "DOI": "10.1007/s11119-014-9362-9",
+    "CorpusId": 15536798
+  },
+  "url": "https://www.semanticscholar.org/paper/023da8584112ee193a876247de6b1e8e45aea450",
+  "title": "In-field measurement and sampling technologies for monitoring quality in the sugarcane industry: a review",
+  "venue": "Precision Agriculture",
+  "year": 2014,
+  "citationCount": 26,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-014-9362-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-014-9362-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40412168",
+      "name": "N. M. Nawi"
+    },
+    {
+      "authorId": "49901737",
+      "name": "Guangnan Chen"
+    },
+    {
+      "authorId": "144568278",
+      "name": "T. Jensen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,45 @@
+{
+  "paperId": "e353f3a2f68f7d1c7e49df0e7b49c78f54cccb7f",
+  "externalIds": {
+    "MAG": "1535260751",
+    "DBLP": "conf/icit2/UtstumoBG15",
+    "DOI": "10.1109/ICIT.2015.7125124",
+    "CorpusId": 2920773
+  },
+  "url": "https://www.semanticscholar.org/paper/e353f3a2f68f7d1c7e49df0e7b49c78f54cccb7f",
+  "title": "Non-linear model predictive control for constrained robot navigation in row crops",
+  "venue": "International Conference on Industrial Technology",
+  "year": 2015,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIT.2015.7125124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIT.2015.7125124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2961349",
+      "name": "Trygve Utstumo"
+    },
+    {
+      "authorId": "32760969",
+      "name": "T. W. Berge"
+    },
+    {
+      "authorId": "1739946",
+      "name": "J. Gravdahl"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

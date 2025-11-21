@@ -1,0 +1,54 @@
+{
+  "paperId": "841364e8a1304842df22eb64530ad02be302c3f9",
+  "externalIds": {
+    "MAG": "1964886049",
+    "DOI": "10.1109/ICSENST.2012.6461755",
+    "CorpusId": 24971018
+  },
+  "url": "https://www.semanticscholar.org/paper/841364e8a1304842df22eb64530ad02be302c3f9",
+  "title": "mKRISHI wireless sensor network platform for precision agriculture",
+  "venue": "International Conference on Information Control Systems & Technologies",
+  "year": 2012,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSENST.2012.6461755?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSENST.2012.6461755, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2054017983",
+      "name": "A. Mittal"
+    },
+    {
+      "authorId": "2094657526",
+      "name": "K. Chetan"
+    },
+    {
+      "authorId": "2066769024",
+      "name": "S. Jayaraman"
+    },
+    {
+      "authorId": "2377553",
+      "name": "B. Jagyasi"
+    },
+    {
+      "authorId": "2064446358",
+      "name": "A. Pande"
+    },
+    {
+      "authorId": "1779695",
+      "name": "P. Balamuralidhar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

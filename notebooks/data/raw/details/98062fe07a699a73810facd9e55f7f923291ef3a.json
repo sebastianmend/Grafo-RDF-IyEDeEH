@@ -1,0 +1,42 @@
+{
+  "paperId": "98062fe07a699a73810facd9e55f7f923291ef3a",
+  "externalIds": {
+    "MAG": "2418723052",
+    "CorpusId": 28841752,
+    "PubMed": "21595235"
+  },
+  "url": "https://www.semanticscholar.org/paper/98062fe07a699a73810facd9e55f7f923291ef3a",
+  "title": "[Studies on the estimation of soil organic matter content based on hyper-spectrum].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2150801380",
+      "name": "Lei Liu"
+    },
+    {
+      "authorId": "9318749",
+      "name": "R. Shen"
+    },
+    {
+      "authorId": "15618013",
+      "name": "G. Ding"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

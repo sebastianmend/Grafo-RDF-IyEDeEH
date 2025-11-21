@@ -1,0 +1,321 @@
+{
+  "paperId": "03034b7464389f47c8d42656d09ae6c06cf7e362",
+  "externalIds": {
+    "MAG": "1970170857",
+    "PubMedCentral": "3514237",
+    "DOI": "10.1186/1471-2148-12-191",
+    "CorpusId": 106528,
+    "PubMed": "23009643"
+  },
+  "url": "https://www.semanticscholar.org/paper/03034b7464389f47c8d42656d09ae6c06cf7e362",
+  "title": "Reconstructing the history of a fragmented and heavily exploited red deer population using ancient and contemporary DNA",
+  "venue": "BMC Evolutionary Biology",
+  "year": 2012,
+  "citationCount": 25,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://bmcecolevol.biomedcentral.com/counter/pdf/10.1186/1471-2148-12-191",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3514237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40602173",
+      "name": "J. Rosvold"
+    },
+    {
+      "authorId": "2244842067",
+      "name": "K. Røed"
+    },
+    {
+      "authorId": "6272269",
+      "name": "A. Hufthammer"
+    },
+    {
+      "authorId": "35185410",
+      "name": "R. Andersen"
+    },
+    {
+      "authorId": "1398420728",
+      "name": "H. Stenøien"
+    }
+  ],
+  "abstract": "BackgroundRed deer (Cervus elaphus) have been an important human resource for millennia, experiencing intensive human influence through habitat alterations, hunting and translocation of animals. In this study we investigate a time series of ancient and contemporary DNA from Norwegian red deer spanning about 7,000 years. Our main aim was to investigate how increasing agricultural land use, hunting pressure and possibly human mediated translocation of animals have affected the genetic diversity on a long-term scale.ResultsWe obtained mtDNA (D-loop) sequences from 73 ancient specimens. These show higher genetic diversity in ancient compared to extant samples, with the highest diversity preceding the onset of agricultural intensification in the Early Iron Age. Using standard diversity indices, Bayesian skyline plot and approximate Bayesian computation, we detected a population reduction which was more prolonged than, but not as severe as, historic documents indicate. There are signs of substantial changes in haplotype frequencies primarily due to loss of haplotypes through genetic drift. There is no indication of human mediated translocations into the Norwegian population. All the Norwegian sequences show a western European origin, from which the Norwegian lineage diverged approximately 15,000 years ago.ConclusionsOur results provide direct insight into the effects of increasing habitat fragmentation and human hunting pressure on genetic diversity and structure of red deer populations. They also shed light on the northward post-glacial colonisation process of red deer in Europe and suggest increased precision in inferring past demographic events when including both ancient and contemporary DNA.",
+  "references": [
+    {
+      "paperId": "3c6b963962f0bba05033d5278d7358ec61ac63fb"
+    },
+    {
+      "paperId": "79c0441650051f5434135515e1374d5030285065"
+    },
+    {
+      "paperId": "448cf3898d3552caa71cb5f9d9351f5f82e289b1"
+    },
+    {
+      "paperId": "edba7534b1de13727e21dcfdf2a1a90a9699a5f3"
+    },
+    {
+      "paperId": "be0c6be114926c4dc0943ee33309df9ce3045189"
+    },
+    {
+      "paperId": "3dbfe6c73cf67159b28399ee8f75142a1cc8f7e5"
+    },
+    {
+      "paperId": "ce44d2ff2c69c25f0500a78b18ddc6516488484c"
+    },
+    {
+      "paperId": "bca67888fe165935f35509f5c9e8dfad614d5ffa"
+    },
+    {
+      "paperId": "b8e667225acb34d35bd62f934709f5f698b05d3b"
+    },
+    {
+      "paperId": "bdbbb5f15f580170317e182ed6eae97871aa9333"
+    },
+    {
+      "paperId": "1b5f5d2f13dacd641f35d00583d29a9026717a1f"
+    },
+    {
+      "paperId": "66caa21ac3b18c53f3e2e6695b9a47c3aefb5044"
+    },
+    {
+      "paperId": "3543bf2ede38474ba19541357910e81ddc26b681"
+    },
+    {
+      "paperId": "1644aea7f739fee8f38a38872c762a9930632750"
+    },
+    {
+      "paperId": "2746d21867db8f4da5c094e4824662dc0b564adc"
+    },
+    {
+      "paperId": "14b358f4eafcb8a328a2e7c958bb1f2aa75206b5"
+    },
+    {
+      "paperId": "2e9f83685de27e834a77de4b54a2e66e0bd7744b"
+    },
+    {
+      "paperId": "40ce636335a127b8877808b183ca840cfff6301d"
+    },
+    {
+      "paperId": "ded1373c3e1af712696d6be6e9a4935ce7a58ce9"
+    },
+    {
+      "paperId": "694485807b355f7073757b740fd905340ae2f0b7"
+    },
+    {
+      "paperId": "5386bcaeaa7d0c5b3ec6f589eba14b06e4bb3a19"
+    },
+    {
+      "paperId": "b329cd78191b3f0aa72ba733d1e5f26214713756"
+    },
+    {
+      "paperId": "28250bf83743d4830778c7cac67d916250f3296c"
+    },
+    {
+      "paperId": "1d2db4f6085c1e32fc4bae1fce00e7d60a9908f4"
+    },
+    {
+      "paperId": "e4233d6a51276eb3faae5d45c8607ff9e41b04e2"
+    },
+    {
+      "paperId": "bfaf9c0733d739fd20859f299c15ac5b7bb3540a"
+    },
+    {
+      "paperId": "6ff4ca2dd1f723ad8a9d6637142533404e58371f"
+    },
+    {
+      "paperId": "0501628c4a13a514c627103a56557a00fabf87d7"
+    },
+    {
+      "paperId": "2d6f573c36c5e2153b65859fb080523fc4d842d0"
+    },
+    {
+      "paperId": "ee90403ce373f4e6880397e345f648c7a491ac3e"
+    },
+    {
+      "paperId": "8084d605788f99dc785da7a2b955277980b67ad9"
+    },
+    {
+      "paperId": "5ebecf67d8c1326b42311785df04b0b75119eb52"
+    },
+    {
+      "paperId": "2bd3cb2cf01a6d59d171d48dd061a4bd0cca0fc3"
+    },
+    {
+      "paperId": "3ed6e4ac3b827a20bc2d0c47e93da5fc84b3a9a0"
+    },
+    {
+      "paperId": "22cbdc41430cc8aedfcd4e981aa8b2b223590ade"
+    },
+    {
+      "paperId": "6470ef44832d4889c1b89b189cffa9df7f128b70"
+    },
+    {
+      "paperId": "377721d994578aae94f1865d1dcd09f1aa35266c"
+    },
+    {
+      "paperId": "8f8ad3eadec56cb7fb0070ef5b261f801c5330d2"
+    },
+    {
+      "paperId": "4e98dde420b63f896fc7e1ca79a5c5e3b15351b8"
+    },
+    {
+      "paperId": "77f37d717ff9c818591c9a880924fdf4a0691e92"
+    },
+    {
+      "paperId": "d260b5c495daec9149319da796b9710f53deb8f3"
+    },
+    {
+      "paperId": "6d2afd7fe0a6dc771e76c2fef5eb1f2d7aa3a1f2"
+    },
+    {
+      "paperId": "2bc14d34ed8a77e17247fae814860cf0aa309217"
+    },
+    {
+      "paperId": "4cf4429f11acb8a51a362cbcf3713c06bba5aec7"
+    },
+    {
+      "paperId": "dc68bad1e598cd7bc75239eb4970f049e1cf00e3"
+    },
+    {
+      "paperId": "e7f8a69e00ea8601f1e05cdf226e94ca71e049ec"
+    },
+    {
+      "paperId": "1a9576e9193de5c890e38cf72e9169602bb7a80d"
+    },
+    {
+      "paperId": "59797602c57e49ba23e0444f7bd4f750771f07aa"
+    },
+    {
+      "paperId": "56e5471f70090da62a263be751b484becaf86058"
+    },
+    {
+      "paperId": "569128ac8014d20b889efec5ab5c7b5f015df1d1"
+    },
+    {
+      "paperId": "070eb63031af260d840534b33fd8385b7152fda6"
+    },
+    {
+      "paperId": "02426ce1a57fcd25934b047da708a9b745a3d445"
+    },
+    {
+      "paperId": "2014cf15ac7085f8d47c8536e4b7c9142bdd8a09"
+    },
+    {
+      "paperId": "ee4a25c3b307792c695a77f4166191fabadc5d55"
+    },
+    {
+      "paperId": "89e8793e96cd40f88383dc49320b478a0698b07c"
+    },
+    {
+      "paperId": "fc01bfd20c0f6e54d90cf53fe4dcdacb37e59295"
+    },
+    {
+      "paperId": "0fac75e4bf67546db213dc421cc3d5edc27b9cf0"
+    },
+    {
+      "paperId": "036005d1bd176c78cc2e20f603d59e30eb835a96"
+    },
+    {
+      "paperId": "108ac0fa924c528f8a3913e3c38f3deb6180ed21"
+    },
+    {
+      "paperId": "fad3cd73f2e5927595640d97375ea302b68caff1"
+    },
+    {
+      "paperId": "7883bc83d93b13a6e84487e1a8e04205f2cf0499"
+    },
+    {
+      "paperId": "c8506979a472488041393e1a24a5a3686ee5911d"
+    },
+    {
+      "paperId": "90a113ded7b0831a18454e1a1bb435d6d27ed5fb"
+    },
+    {
+      "paperId": "c38e4319118ec3de1ccfecb6b18c3e52d7e4d56a"
+    },
+    {
+      "paperId": "d864912e31115a06a95d76e9aa4206d53f5b7c05"
+    },
+    {
+      "paperId": "b13832b4e0ccf4d289826856cf27b5f95ff55cff"
+    },
+    {
+      "paperId": "f25c4830e2cf8ad239549c626e886f4f0c9b3602"
+    },
+    {
+      "paperId": "4bce65b308e88ce09f8a3bc69eec6d048c90723f"
+    },
+    {
+      "paperId": "90b0ffed82af0628c315a750412c91f529a103cc"
+    },
+    {
+      "paperId": "01a98890e66f9077043b28415259f2df76ed5727"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "27e5725be7e538f2329011e44481b68f4315f39e"
+    },
+    {
+      "paperId": "25dee4908ea34d46d39ea8774d144220983a5a02"
+    },
+    {
+      "paperId": "253c907adde00c062683f9fbe2556c0c7b9dedcf"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e2422eea0b95c0378c8bebebd4220d2b986d945e"
+    },
+    {
+      "paperId": "9f40426c9df0b16ffc9c37615569c81f565f0611"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3fe10639b7c74eb0ffb0a8c615cd250fce247067"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4700f4d20781835dd46630f2c0f1223a77e2f5aa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a50386cb42f8869a6d1a54d4a870c2601114a046"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

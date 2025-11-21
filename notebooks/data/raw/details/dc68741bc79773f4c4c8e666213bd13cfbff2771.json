@@ -1,0 +1,54 @@
+{
+  "paperId": "dc68741bc79773f4c4c8e666213bd13cfbff2771",
+  "externalIds": {
+    "MAG": "2370498644",
+    "CorpusId": 38684588,
+    "PubMed": "22870619"
+  },
+  "url": "https://www.semanticscholar.org/paper/dc68741bc79773f4c4c8e666213bd13cfbff2771",
+  "title": "[Monitoring spatio-temporal spectral characteristics of leaves of karst plant during dehydration using a field imaging spectrometer system].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2012,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2156640812",
+      "name": "Bo Liu"
+    },
+    {
+      "authorId": "2878519",
+      "name": "Q. Tong"
+    },
+    {
+      "authorId": "2108025210",
+      "name": "Lifu Zhang"
+    },
+    {
+      "authorId": "47956851",
+      "name": "Xia Zhang"
+    },
+    {
+      "authorId": "8105488",
+      "name": "Y. Yue"
+    },
+    {
+      "authorId": "2117925212",
+      "name": "Bing Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "9d227d29e1e8f09f0c9ba4264360b31d8f459b5f",
+  "externalIds": {
+    "DBLP": "conf/apweb/ChenLZL14",
+    "MAG": "78199002",
+    "DOI": "10.1007/978-3-319-11116-2_19",
+    "CorpusId": 7936712
+  },
+  "url": "https://www.semanticscholar.org/paper/9d227d29e1e8f09f0c9ba4264360b31d8f459b5f",
+  "title": "Acquiring Stored or Real Time Satellite Data via Natural Language Query",
+  "venue": "Asia-Pacific Web Conference",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-11116-2_19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-11116-2_19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2118182857",
+      "name": "Xu Chen"
+    },
+    {
+      "authorId": "2108457323",
+      "name": "Jin Liu"
+    },
+    {
+      "authorId": "3328724",
+      "name": "Xinyan Zhu"
+    },
+    {
+      "authorId": "2150654626",
+      "name": "Ming Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

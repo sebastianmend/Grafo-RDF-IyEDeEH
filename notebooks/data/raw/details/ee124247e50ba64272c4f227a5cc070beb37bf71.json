@@ -1,0 +1,53 @@
+{
+  "paperId": "ee124247e50ba64272c4f227a5cc070beb37bf71",
+  "externalIds": {
+    "MAG": "2093897908",
+    "DOI": "10.1007/s00216-012-6249-3",
+    "CorpusId": 25887760,
+    "PubMed": "22814972"
+  },
+  "url": "https://www.semanticscholar.org/paper/ee124247e50ba64272c4f227a5cc070beb37bf71",
+  "title": "Microwave-assisted extraction and determination of enrofloxacin and danofloxacin photo-transformation products in soil",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2012,
+  "citationCount": 31,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-012-6249-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-012-6249-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "10438631",
+      "name": "Andrea Speltini"
+    },
+    {
+      "authorId": "6226752",
+      "name": "Michela Sturini"
+    },
+    {
+      "authorId": "10395169",
+      "name": "Federica Maraschi"
+    },
+    {
+      "authorId": "2240574",
+      "name": "A. Profumo"
+    },
+    {
+      "authorId": "2739425",
+      "name": "A. Albini"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

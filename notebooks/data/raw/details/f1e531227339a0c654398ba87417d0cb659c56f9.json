@@ -1,0 +1,50 @@
+{
+  "paperId": "f1e531227339a0c654398ba87417d0cb659c56f9",
+  "externalIds": {
+    "MAG": "2392081533",
+    "CorpusId": 33082476,
+    "PubMed": "21322239"
+  },
+  "url": "https://www.semanticscholar.org/paper/f1e531227339a0c654398ba87417d0cb659c56f9",
+  "title": "[Black soil organic matter predicting model based on field hyperspectral reflectance].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2010,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2146397817",
+      "name": "Huanxian Liu"
+    },
+    {
+      "authorId": "2108029562",
+      "name": "Xinle Zhang"
+    },
+    {
+      "authorId": "153492758",
+      "name": "Shu-Feng Zheng"
+    },
+    {
+      "authorId": "2061506105",
+      "name": "Na Tang"
+    },
+    {
+      "authorId": "121617190",
+      "name": "Yan-Liang Hu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

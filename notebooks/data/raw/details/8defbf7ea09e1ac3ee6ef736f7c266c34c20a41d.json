@@ -1,0 +1,149 @@
+{
+  "paperId": "8defbf7ea09e1ac3ee6ef736f7c266c34c20a41d",
+  "externalIds": {
+    "MAG": "2044472864",
+    "PubMedCentral": "4918664",
+    "DOI": "10.4103/1463-1741.153403",
+    "CorpusId": 207484366,
+    "PubMed": "25774615"
+  },
+  "url": "https://www.semanticscholar.org/paper/8defbf7ea09e1ac3ee6ef736f7c266c34c20a41d",
+  "title": "Occupational noise and myocardial infarction: Considerations on the interrelation of noise with job demands",
+  "venue": "Noise and Health",
+  "year": 2015,
+  "citationCount": 21,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.4103/1463-1741.153403",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4918664, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2311418",
+      "name": "N. Kersten"
+    },
+    {
+      "authorId": "143995324",
+      "name": "E. Backé"
+    }
+  ],
+  "abstract": "The present analysis aims to differentiate the association of noise on myocardial infarction (MI) by job specific demands using International Standard Classification of Occupations (ISCO)-88 codes as a proxy. Data of a German case-control study were supplemented by job descriptions (indicated by ISCO-88). It was examined whether the demands in the various occupational groups modify the effect of noise. Noise and occupational groups are combined to form new exposure categories. Conditional logistic regression models were fitted to identify effects of combined job-noise categories. For the highest noise range (95-124 dB(A)) we found a significant odds-ratio (OR) of 2.18 (confidence interval [CI] 0.95 = 1.17-4.05) independent of the profession. Some interesting results were found indicating ISCO groups with possible risk. In men, noticeable effects for the exposure category between 62 dB(A) and 84 dB(A) are calculated in the group of legislators and senior officials (ISCO-group 11; OR=1.93; CI 0.95 = 0.50-7.42), the group consisting of life science and health professionals (ISCO-group 22; OR=2.18; CI 0.95 = 0.36-13.1), the group of life science and health associate professionals (ISCO-group 32; OR = 2.03; CI 0.95 = 0.50-8.24), and the group of \"precision, handicraft, printing, and related trades workers\" (ISCO-group 73; OR = 2.67; CI 0.95 = 0.54-13.0). In the exposure range of 85-94 dB(A), high ORs are calculated for \"skilled agricultural, fishery, and forestry workers\" (ISCO-group 6; OR = 4.31; CI 0.95 = 0.56-33.3). In women, there are high (nonsignificant) ORs in ISCO-group 1 (OR = 2.43; CI 0.95 = 0.12-50.0), ISCO-group 2 (OR = 1.80; CI 0.95 = 0.31-10.5), and ISCO-group 9 (OR = 2.45; CI 0.95 = 0.63-9.51) for a noise exposure between 62 dB(A) and 84 dB(A). When investigating noise at the workplace in relation to cardiovascular diseases it is important to take the specific requirements of a job into account. Thus, work tasks with high health risks can be identified that helps to develop appropriate prevention strategies.",
+  "references": [
+    {
+      "paperId": "f79c0a81a7309e7d11ba5301b266d7d9c7f72f9a"
+    },
+    {
+      "paperId": "6bc37b60949f2803e4f7787c8526a97b38f09ede"
+    },
+    {
+      "paperId": "12d7ef88ebaacfa4987d7f619d748a7c53ba9f8d"
+    },
+    {
+      "paperId": "103fd1b5dae97b80dda540974fc8467f11cb1aea"
+    },
+    {
+      "paperId": "9c3d51530f535ecf2594b093e816877cb569979e"
+    },
+    {
+      "paperId": "1865129e595a3953b9a2aeb66a29475942a2ee63"
+    },
+    {
+      "paperId": "e135fe013e0edd3fc73de703f04818502b6088c0"
+    },
+    {
+      "paperId": "7723eb9bc69445fcf134d4dbbf24d3310ca77a5e"
+    },
+    {
+      "paperId": "a5f13eb3b8789e0503a1fdbb57a9401355fa6b60"
+    },
+    {
+      "paperId": "df190fdc41bda468ba40f120faff54fbc8b3bbaa"
+    },
+    {
+      "paperId": "f665d0713feeee095f60caa06851ced09141a55a"
+    },
+    {
+      "paperId": "e50102456501ddb8ce28873607857a168b491ab2"
+    },
+    {
+      "paperId": "12cd2fe8cd5800deb0927dae157532bca0726694"
+    },
+    {
+      "paperId": "2b40b5cd6232ab435ccbc5daf41e11002cfcff6c"
+    },
+    {
+      "paperId": "294847b366c697a385c464b76b3f81bfbe2f12d5"
+    },
+    {
+      "paperId": "9ed45b65a2eab78c29318cb9756e3175c1fa8080"
+    },
+    {
+      "paperId": "ea51b3560a49b24761e1bd8a857a61c923878d3b"
+    },
+    {
+      "paperId": "20dd8c7684e625da43e2e842d81ddc4d16f8573b"
+    },
+    {
+      "paperId": "8f041529f5dd9f68f819d66704a14271b2782b59"
+    },
+    {
+      "paperId": "0abf1cd13dc3ec41fc738fda0a26193914c779db"
+    },
+    {
+      "paperId": "1030a202a51e7df06a321d01b395e98bbc9c7cf9"
+    },
+    {
+      "paperId": "6d7059f13be83cb11f8fad13f7fa37d31fa2bd2b"
+    },
+    {
+      "paperId": "37b13d179ffbee7dbfdfac9f7d7ba6221d224935"
+    },
+    {
+      "paperId": "050f1a0f6780dad3bae87909051a7ace83545eb4"
+    },
+    {
+      "paperId": "bbd1f8e38622097b6c964a8e445890aecce931fe"
+    },
+    {
+      "paperId": "c950c68d3dfe4cf30d0156c90b85ad2fdca8f154"
+    },
+    {
+      "paperId": "981c665ca5b34a235b2a85ecf887ad2aac5b1ce0"
+    },
+    {
+      "paperId": "a68847f89f24c43a0c67eff599faa096410a50a0"
+    },
+    {
+      "paperId": "9f190533a81b398964d5b7ca8d4c98363f7a2c4a"
+    },
+    {
+      "paperId": "4450343d365fbbff918863a536db96f1682e794d"
+    },
+    {
+      "paperId": "371f5c91040d9ffa8d0ba3d4c5154e77814fb945"
+    },
+    {
+      "paperId": "faba71752ae7ab5f428ee0b34c54b1c461177c20"
+    },
+    {
+      "paperId": "8810509d97118033a530e7c0b790db91a81e2993"
+    },
+    {
+      "paperId": "96c510efff39e2cf52abfe454bfde1e68cd8275c"
+    },
+    {
+      "paperId": "a0147acdca89e18f26ae800468af6216118e06f3"
+    },
+    {
+      "paperId": "f8ae49bb54d0129b35acbe2a144603519eaa42d9"
+    }
+  ]
+}

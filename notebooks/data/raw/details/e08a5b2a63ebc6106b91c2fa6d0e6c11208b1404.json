@@ -1,0 +1,220 @@
+{
+  "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/HonkavaaraSKPHL13",
+    "MAG": "2006588449",
+    "DOI": "10.3390/RS5105006",
+    "CorpusId": 7408475
+  },
+  "url": "https://www.semanticscholar.org/paper/e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404",
+  "title": "Processing and Assessment of Spectrometric, Stereoscopic Imagery Collected Using a Lightweight UAV Spectral Camera for Precision Agriculture",
+  "venue": "Remote Sensing",
+  "year": 2013,
+  "citationCount": 479,
+  "influentialCitationCount": 15,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/5/10/5006/pdf?version=1403133501",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS5105006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS5105006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3014621",
+      "name": "E. Honkavaara"
+    },
+    {
+      "authorId": "20438684",
+      "name": "H. Saari"
+    },
+    {
+      "authorId": "2643243",
+      "name": "J. Kaivosoja"
+    },
+    {
+      "authorId": "2565479",
+      "name": "I. Pölönen"
+    },
+    {
+      "authorId": "35682469",
+      "name": "T. Hakala"
+    },
+    {
+      "authorId": "2088523",
+      "name": "P. Litkey"
+    },
+    {
+      "authorId": "9743801",
+      "name": "J. Mäkynen"
+    },
+    {
+      "authorId": "1692398",
+      "name": "L. Pesonen"
+    }
+  ],
+  "abstract": "Imaging using lightweight, unmanned airborne vehicles (UAVs) is one of the most rapidly developing fields in remote sensing technology. The new, tunable, Fabry-Perot interferometer-based (FPI) spectral camera, which weighs less than 700 g, makes it possible to collect spectrometric image blocks with stereoscopic overlaps using light-weight UAV platforms. This new technology is highly relevant, because it opens up new possibilities for measuring and monitoring the environment, which is becoming increasingly important for many environmental challenges. Our objectives were to investigate the processing and use of this new type of image data in precision agriculture. We developed the entire processing chain from raw images up to georeferenced reflectance images, digital surface models and biomass estimates. The processing integrates photogrammetric and quantitative remote sensing approaches. We carried out an empirical assessment using FPI spectral imagery collected at an agricultural wheat test site in the summer of 2012. Poor weather conditions during the campaign complicated the data processing, but this is one of the challenges that are faced in operational applications. The",
+  "references": [
+    {
+      "paperId": "0d2e3d3ada6cdd13d59278798eff0e8371d6339f"
+    },
+    {
+      "paperId": "5a446e840c2a5851f5046ded66ee012cb21a4229"
+    },
+    {
+      "paperId": "705db7803a32a48c297240e300ef651794c51e44"
+    },
+    {
+      "paperId": "31d88691a1a4f42879c26189829cc4c3899f8dfa"
+    },
+    {
+      "paperId": "488105d076ad5918e7d71a9c423af7971fea64b5"
+    },
+    {
+      "paperId": "029c5841b3fc010f55b604d7d1c541adb0e4a782"
+    },
+    {
+      "paperId": "3b350fb33ab840918c87d8383e67a6c6864a1176"
+    },
+    {
+      "paperId": "cbc30ff598bcf512addfa67edcd00d36a6a61c76"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "5a058e59343870d24750fcc5305c8bf5d31f31a5"
+    },
+    {
+      "paperId": "03072e80904da60976467c0b9cd8a63ceaa1a69f"
+    },
+    {
+      "paperId": "4c70c2cc57354febaabc353ae1ba3fb978dc584b"
+    },
+    {
+      "paperId": "4dc55ce73f5ab8497698f333a9c602bc4099c111"
+    },
+    {
+      "paperId": "4f4f8444f52732a8a9c850c901e86d3cdb86e65f"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "5adeaf7588874edf28b537e465980223b7ed5e08"
+    },
+    {
+      "paperId": "8787b4f9049835f5bfdf5716c021bc24e6f5e1f0"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "baf9838d61f2a676ad30a38eb4e5ebdd52ae2770"
+    },
+    {
+      "paperId": "4791f8ebf55af9ab63cc9c277d082c6c36321bb4"
+    },
+    {
+      "paperId": "876440ba3aca07d01fec8c8a0d936655e97511b9"
+    },
+    {
+      "paperId": "da11f8b71e63dda947dcf7ad06cf587f4dd47772"
+    },
+    {
+      "paperId": "fc320cf1a93800c45b9e0fbf4ce1efac86e8ef6c"
+    },
+    {
+      "paperId": "6c186ae774067ce50f63368dcc316132e3b42980"
+    },
+    {
+      "paperId": "9dec3f9b093408aa774ae6f925467bf5d20209e4"
+    },
+    {
+      "paperId": "7317244107bd269cf4a91b04b15ec1efd7b32bef"
+    },
+    {
+      "paperId": "f93858dae98308e777e04b23b71407844e08acfd"
+    },
+    {
+      "paperId": "30587f271363e5098c5e9d009d3a32066988c379"
+    },
+    {
+      "paperId": "339558632f2d718136a723009de5cbccadfc079c"
+    },
+    {
+      "paperId": "91222a31f62e276cbe70bfb5f1665e5ff48e056e"
+    },
+    {
+      "paperId": "8c438f03c595dd89f082c74f2179347af4ed7f68"
+    },
+    {
+      "paperId": "f1749a013e1f607129d40a209a2abace3ea27716"
+    },
+    {
+      "paperId": "279281a55e00675bd73364969f1dd921a4d59b77"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "eb5e548e888c2bbe52c5f1da1ad207b772aa408d"
+    },
+    {
+      "paperId": "3436e3aa37ec66ad42daa957893530012fb3ef16"
+    },
+    {
+      "paperId": "f1b962fb4070fedd46758e334db3ba4f00ddc3ec"
+    },
+    {
+      "paperId": "0e82895974c686b16c0709206ed285bf447524d8"
+    },
+    {
+      "paperId": "af7170b7c9a2299e522df44c73a97dea88fb68ed"
+    },
+    {
+      "paperId": "819b06736231f060f834f36d905ef9bdbcdc7f85"
+    },
+    {
+      "paperId": "cb9cb8362352fd3048a21a25cee9bbbb7a6c5e92"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "80b955d20c201dd776a1310caa2d3d5831cf5b65"
+    },
+    {
+      "paperId": "ab4d908f2910ea5ccf46763940f082c657d9f54e"
+    },
+    {
+      "paperId": "6ed553b378dc6984c10e68f454de4e04129d2702"
+    },
+    {
+      "paperId": "6642c03d5e9fda9111e9329a4c49cebbf3528ee1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

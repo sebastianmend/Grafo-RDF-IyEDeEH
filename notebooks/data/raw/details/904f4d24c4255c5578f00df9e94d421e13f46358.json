@@ -1,0 +1,42 @@
+{
+  "paperId": "904f4d24c4255c5578f00df9e94d421e13f46358",
+  "externalIds": {
+    "MAG": "1600877088",
+    "DOI": "10.1201/B11222",
+    "CorpusId": 273524852
+  },
+  "url": "https://www.semanticscholar.org/paper/904f4d24c4255c5578f00df9e94d421e13f46358",
+  "title": "Hyperspectral Remote Sensing of Vegetation",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1201/B11222?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1201/B11222, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2650989",
+      "name": "P. Thenkabail"
+    },
+    {
+      "authorId": "2289121239",
+      "name": "J. G. Lyon"
+    },
+    {
+      "authorId": "2286520862",
+      "name": "Alfredo Huete"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

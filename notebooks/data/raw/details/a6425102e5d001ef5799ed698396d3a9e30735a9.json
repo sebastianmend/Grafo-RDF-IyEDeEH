@@ -1,0 +1,35 @@
+{
+  "paperId": "a6425102e5d001ef5799ed698396d3a9e30735a9",
+  "externalIds": {
+    "MAG": "2415601646",
+    "CorpusId": 24123824,
+    "PubMed": "23424846"
+  },
+  "url": "https://www.semanticscholar.org/paper/a6425102e5d001ef5799ed698396d3a9e30735a9",
+  "title": "The influence of physical soil properties on the water supply of irrigated orchards-some examples from Val Venosta (South Tyrol/Northern Italy).",
+  "venue": "Journal of environmental biology",
+  "year": 2012,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49452438",
+      "name": "Sven Jansen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

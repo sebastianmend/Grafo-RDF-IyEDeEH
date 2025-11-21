@@ -1,0 +1,52 @@
+{
+  "paperId": "06d42c1beed326c57dbe346c551f2441833d67d7",
+  "externalIds": {
+    "MAG": "1971879662",
+    "DOI": "10.1366/14-07539",
+    "CorpusId": 42358473,
+    "PubMed": "25498765"
+  },
+  "url": "https://www.semanticscholar.org/paper/06d42c1beed326c57dbe346c551f2441833d67d7",
+  "title": "Improvement of the Chemical Content Prediction of a Model Powder System by Reducing Multiple Scattering Using Polarized Light Spectroscopy",
+  "venue": "Applied Spectroscopy",
+  "year": 2015,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-01152872/file/mo2015-pub00043588.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1366/14-07539?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1366/14-07539, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4311709",
+      "name": "R. Bendoula"
+    },
+    {
+      "authorId": "15676216",
+      "name": "Alexia Gobrecht"
+    },
+    {
+      "authorId": "15972529",
+      "name": "B. Moulin"
+    },
+    {
+      "authorId": "145693443",
+      "name": "J. Roger"
+    },
+    {
+      "authorId": "1401148122",
+      "name": "V. Bellon-Maurel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

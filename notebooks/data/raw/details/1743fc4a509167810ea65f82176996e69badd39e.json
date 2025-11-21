@@ -1,0 +1,52 @@
+{
+  "paperId": "1743fc4a509167810ea65f82176996e69badd39e",
+  "externalIds": {
+    "MAG": "2315078251",
+    "DBLP": "conf/intenv/GoumopoulosPKST11",
+    "DOI": "10.1109/IE.2011.45",
+    "CorpusId": 14329814
+  },
+  "url": "https://www.semanticscholar.org/paper/1743fc4a509167810ea65f82176996e69badd39e",
+  "title": "Using Pervasive Computing and Open Space Design to Transform the Schoolyard into an Educational Setting",
+  "venue": "2011 Seventh International Conference on Intelligent Environments",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IE.2011.45?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IE.2011.45, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1831678",
+      "name": "C. Goumopoulos"
+    },
+    {
+      "authorId": "2809117",
+      "name": "Dimitris Papalexopoulos"
+    },
+    {
+      "authorId": "1737301",
+      "name": "A. Kameas"
+    },
+    {
+      "authorId": "32050201",
+      "name": "Athina Stavridou"
+    },
+    {
+      "authorId": "2638258",
+      "name": "S. Tzimopoulou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

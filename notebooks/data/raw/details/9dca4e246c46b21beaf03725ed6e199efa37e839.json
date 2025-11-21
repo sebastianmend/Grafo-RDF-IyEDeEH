@@ -1,0 +1,252 @@
+{
+  "paperId": "9dca4e246c46b21beaf03725ed6e199efa37e839",
+  "externalIds": {
+    "MAG": "2227098268",
+    "ArXiv": "1509.02400",
+    "DBLP": "journals/corr/AbouzarMH15",
+    "DOI": "10.1109/TWC.2016.2586844",
+    "CorpusId": 16286526
+  },
+  "url": "https://www.semanticscholar.org/paper/9dca4e246c46b21beaf03725ed6e199efa37e839",
+  "title": "RSSI-Based Distributed Self-Localization for Wireless Sensor Networks Used in Precision Agriculture",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "year": 2015,
+  "citationCount": 144,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "http://arxiv.org/pdf/1509.02400",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1509.02400, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2296574",
+      "name": "Pooyan Abouzar"
+    },
+    {
+      "authorId": "1767603",
+      "name": "D. Michelson"
+    },
+    {
+      "authorId": "2059697",
+      "name": "Maziyar Hamdi"
+    }
+  ],
+  "abstract": "In this paper, we propose a received signal strength indication-based distributed Bayesian localization algorithm based on message passing to solve the approximate inference problem. The algorithm is designed for precision agriculture applications, such as pest management and pH sensing in large farms, where greater power efficiency besides communication and computational scalability is needed but location accuracy requirements are less demanding. Communication overhead, which is a key limitation of popular non-Bayesian and Bayesian distributed techniques, is avoided by a message passing schedule, in which outgoing message by each node does not depend on the destination node, and therefore is a fixed size. Fast convergence is achieved by: 1) eliminating the setup phase linked with spanning tree construction, which is frequent in belief propagation schemes and 2) the parallel nature of the updates, since no message needs to be exchanged among nodes during each update, which is called the coupled variables phenomenon in non-Bayesian techniques and accounts for a significant amount of communication overhead. These features make the proposed algorithm highly compatible with realistic wireless sensor network (WSN) deployments, e.g., ZigBee, that are based upon the ad hoc on-demand distance vector, where route request and route reply packets are flooded in the network during route discovery phase.",
+  "references": [
+    {
+      "paperId": "f7731e9529fa348b9e06dbc2e8f35267bf934b98"
+    },
+    {
+      "paperId": "94c193ad51e58755bfa9c78dbb1b7fd2891e56dc"
+    },
+    {
+      "paperId": "ea203771824f3f49bd91dfcacc821586ede24bc3"
+    },
+    {
+      "paperId": "484bbcabe561a39c0b3575c19fccef879d7a07f8"
+    },
+    {
+      "paperId": "e9f0784a961f1cd05257bb616b2fc28d8efa1188"
+    },
+    {
+      "paperId": "eb4f28bf75ca93df9704c629d48132a4b6f7cb48"
+    },
+    {
+      "paperId": "1131cf75edad6ec7af2c8647f1907a58d9907889"
+    },
+    {
+      "paperId": "27eaf9b306f44a2ca02f52b0a4b0c5d7388af739"
+    },
+    {
+      "paperId": "d1d961179f8c130e674ee348c6e3207b994cfba2"
+    },
+    {
+      "paperId": "ee8143df2aa7a72edfa2b3a74bf566c63ff92449"
+    },
+    {
+      "paperId": "49c4fca4eb9d4c85e47577b17b3242934ad04696"
+    },
+    {
+      "paperId": "347d990f94e19b28e71c2f98ab7c80e1d2846fda"
+    },
+    {
+      "paperId": "29f871152da24b3bfb1836096d6fcd208f7012ca"
+    },
+    {
+      "paperId": "0565bb07ddbb68815d0bf1930081c944a3a11276"
+    },
+    {
+      "paperId": "372f2173ffcd4876101a8908503151be81abe267"
+    },
+    {
+      "paperId": "bf0366535d479b1f3d102ffbbd46ca3712524a4a"
+    },
+    {
+      "paperId": "c7444d537cd0e892a9aa7bb46bf5ea2a9fca84a3"
+    },
+    {
+      "paperId": "449cea57ffd1c86745b35ae1f1c96a5140fd633c"
+    },
+    {
+      "paperId": "2527f1b5d69b8abe14bb9d10c791a3b96c7cf1b4"
+    },
+    {
+      "paperId": "51921fb83aff052c275158a8d5cef25d8b8dc515"
+    },
+    {
+      "paperId": "e8ede34e9040b90bb30a2a2305dda61c8b0bdc75"
+    },
+    {
+      "paperId": "21870378fe8467b59e23f95a362f05c1ab995159"
+    },
+    {
+      "paperId": "c9cae3482876ca53752d47b1fdc349c592979e6a"
+    },
+    {
+      "paperId": "349fe3f1d9b1d32d0b23bbb35a06a420d96de837"
+    },
+    {
+      "paperId": "fbd879eb5b9f57055f56a9fc0d4f36f804947ace"
+    },
+    {
+      "paperId": "b54c7a99b37e601005839490b49120a33c3405dc"
+    },
+    {
+      "paperId": "9dc28d6a56854f13484a195e0c301a34aa7e5810"
+    },
+    {
+      "paperId": "2293047d2205cb8c3b4da4e09362e4dc3cb2ec7d"
+    },
+    {
+      "paperId": "6d09b342cc3b2aff1dcbfb359c6ac4156b82d7fb"
+    },
+    {
+      "paperId": "2d771ef487aaa762c828d1ce41029facd050f7da"
+    },
+    {
+      "paperId": "928da2f0e79dc2b7b8deadd9a93411dc0ef1bdbf"
+    },
+    {
+      "paperId": "bbbbdf7a2df7633ba88527bd21a655e18cc23bbc"
+    },
+    {
+      "paperId": "06f00d7b2e3ac8252a114a04a3552bc35e9bb97d"
+    },
+    {
+      "paperId": "986c23dc16a623e696d68dc73af47e8aff8f2d3c"
+    },
+    {
+      "paperId": "cd44023fd45693f22cd533e69c2f66571901db9c"
+    },
+    {
+      "paperId": "7faffdbae0bff1c2d7c384c5041215cf16bd05ad"
+    },
+    {
+      "paperId": "edc1bc5218387aea9e8d78ae5df5a9b9595aed82"
+    },
+    {
+      "paperId": "6f2e8bf9cf00e1b693a823b270c110d817119c0f"
+    },
+    {
+      "paperId": "317a2def8dd3babd024c343ec85e3d80a3cf119c"
+    },
+    {
+      "paperId": "e88bd71059c64b1dac601981c439aa9708993abf"
+    },
+    {
+      "paperId": "5e58af7715952a35054b8daa89d821255377351d"
+    },
+    {
+      "paperId": "9853911a0d0ae050128137af8b68a41708534596"
+    },
+    {
+      "paperId": "1370c4e8d1f9b889497fb3d7fd13d6addd171038"
+    },
+    {
+      "paperId": "837a5c6ef3a3ab87b1a5ce23df0a9f03ca18d69c"
+    },
+    {
+      "paperId": "26d7477c2f05594eb98a191826dcbdb836c9fb45"
+    },
+    {
+      "paperId": "831560d69619ad6485dfe21875cf83fe6ef571e1"
+    },
+    {
+      "paperId": "34f9192eecd9e0065202414d527d486b480fce24"
+    },
+    {
+      "paperId": "728d520d43412c8fa3d3b41def27c5d5ab63be49"
+    },
+    {
+      "paperId": "f8293530b47f4284c7e16fe955aa5a4d4136bebc"
+    },
+    {
+      "paperId": "94daae98620cc7b96786313082942bea3c1c12c7"
+    },
+    {
+      "paperId": "298a83cd6de79a6c7e1fc68789efa74336ae8c9f"
+    },
+    {
+      "paperId": "f7ea56910d1abc9eb8d740f5a05148e94de9ccbf"
+    },
+    {
+      "paperId": "e03d0d68acacf5c4472e4dfbd004d508d1d36d7d"
+    },
+    {
+      "paperId": "64d10b96f2d25fcbaf47d7f4ba0db01eaf8f095b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac0a40a305b5b08378f572f08bfc682351cb6d32"
+    },
+    {
+      "paperId": "221b4cf5d0ee28167b7a5d6eff12ea040639613b"
+    },
+    {
+      "paperId": "b29450a227b08e99788d390512688d9dff07b892"
+    },
+    {
+      "paperId": "b04c608f274ed8e69b1734b7e1644114d30d5794"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "8bb552d32396036cd8e9dffdaba56c4f9e8ef66d"
+    },
+    {
+      "paperId": "78e5fbe56e09ae3977d94e2f44fce554e337608f"
+    },
+    {
+      "paperId": "329ea533c0834195fc43f0d7c523c5ac7b0b0001"
+    },
+    {
+      "paperId": "05a281df21f4cb2b01e7751c50a4cba3ae0b992f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

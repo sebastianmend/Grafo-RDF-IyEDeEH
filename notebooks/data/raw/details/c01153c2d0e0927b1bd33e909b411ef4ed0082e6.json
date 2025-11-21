@@ -1,0 +1,56 @@
+{
+  "paperId": "c01153c2d0e0927b1bd33e909b411ef4ed0082e6",
+  "externalIds": {
+    "MAG": "2008017647",
+    "DBLP": "conf/igarss/BetbederLCPCH14",
+    "DOI": "10.1109/IGARSS.2014.6946720",
+    "CorpusId": 2609105
+  },
+  "url": "https://www.semanticscholar.org/paper/c01153c2d0e0927b1bd33e909b411ef4ed0082e6",
+  "title": "Multi-temporal optical and radar data fusion for crop monitoring: Application to an intensive agricultural area in BRITTANY(France)",
+  "venue": "2014 IEEE Geoscience and Remote Sensing Symposium",
+  "year": 2014,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2014.6946720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2014.6946720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49122786",
+      "name": "J. Betbeder"
+    },
+    {
+      "authorId": "1980382",
+      "name": "Marianne Laslier"
+    },
+    {
+      "authorId": "2637442",
+      "name": "T. Corpetti"
+    },
+    {
+      "authorId": "1786585",
+      "name": "E. Pottier"
+    },
+    {
+      "authorId": "1988972",
+      "name": "S. Corgne"
+    },
+    {
+      "authorId": "1402211813",
+      "name": "L. Hubert‐Moy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

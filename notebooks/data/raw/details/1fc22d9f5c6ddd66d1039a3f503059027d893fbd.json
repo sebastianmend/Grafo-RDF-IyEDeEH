@@ -1,0 +1,38 @@
+{
+  "paperId": "1fc22d9f5c6ddd66d1039a3f503059027d893fbd",
+  "externalIds": {
+    "MAG": "2482081216",
+    "DOI": "10.1002/9781118967423",
+    "CorpusId": 168597190
+  },
+  "url": "https://www.semanticscholar.org/paper/1fc22d9f5c6ddd66d1039a3f503059027d893fbd",
+  "title": "RFID and Sensor Network Automation in the Food Industry: Ensuring Quality and Safety through Supply Chain Visibility",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 38,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/9781118967423?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/9781118967423, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1730130",
+      "name": "S. Piramuthu"
+    },
+    {
+      "authorId": "40234191",
+      "name": "W. Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

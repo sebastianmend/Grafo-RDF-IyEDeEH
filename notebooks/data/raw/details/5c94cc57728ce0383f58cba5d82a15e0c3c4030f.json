@@ -1,0 +1,50 @@
+{
+  "paperId": "5c94cc57728ce0383f58cba5d82a15e0c3c4030f",
+  "externalIds": {
+    "MAG": "1583382343",
+    "DBLP": "conf/sysose/JoordensBOS15",
+    "DOI": "10.1109/SYSOSE.2015.7151983",
+    "CorpusId": 20891731
+  },
+  "url": "https://www.semanticscholar.org/paper/5c94cc57728ce0383f58cba5d82a15e0c3c4030f",
+  "title": "Conceptual design for fully autonomous aerial and ground system for precision agriculture",
+  "venue": "International Symposium on Service Oriented Software Engineering",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SYSOSE.2015.7151983?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SYSOSE.2015.7151983, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9454236",
+      "name": "M. Joordens"
+    },
+    {
+      "authorId": "32253126",
+      "name": "Tom A. Brodie"
+    },
+    {
+      "authorId": "1393228926",
+      "name": "T. Oberli"
+    },
+    {
+      "authorId": "97256471",
+      "name": "Philip R. Swinsburg"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

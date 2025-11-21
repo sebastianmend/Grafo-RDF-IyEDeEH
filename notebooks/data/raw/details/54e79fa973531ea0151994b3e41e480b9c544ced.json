@@ -1,0 +1,49 @@
+{
+  "paperId": "54e79fa973531ea0151994b3e41e480b9c544ced",
+  "externalIds": {
+    "MAG": "2099752046",
+    "DBLP": "conf/eurocon/PiedraBDT13",
+    "DOI": "10.1109/EUROCON.2013.6624996",
+    "CorpusId": 25839828
+  },
+  "url": "https://www.semanticscholar.org/paper/54e79fa973531ea0151994b3e41e480b9c544ced",
+  "title": "Wireless sensor networks for environmental research: A survey on limitations and challenges",
+  "venue": "EUROCON Conference",
+  "year": 2013,
+  "citationCount": 51,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EUROCON.2013.6624996?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EUROCON.2013.6624996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8588785",
+      "name": "Antonio de la Piedra"
+    },
+    {
+      "authorId": "1402559498",
+      "name": "Francisco Benitez-Capistros"
+    },
+    {
+      "authorId": "144543581",
+      "name": "Federico Domínguez"
+    },
+    {
+      "authorId": "3358506",
+      "name": "A. Touhafi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

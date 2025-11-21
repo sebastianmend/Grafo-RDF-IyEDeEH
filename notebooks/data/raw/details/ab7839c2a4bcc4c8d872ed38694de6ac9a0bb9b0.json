@@ -1,0 +1,53 @@
+{
+  "paperId": "ab7839c2a4bcc4c8d872ed38694de6ac9a0bb9b0",
+  "externalIds": {
+    "DBLP": "conf/geoinformatics/WenZMLL15",
+    "MAG": "2241829848",
+    "DOI": "10.1109/GEOINFORMATICS.2015.7378596",
+    "CorpusId": 206676373
+  },
+  "url": "https://www.semanticscholar.org/paper/ab7839c2a4bcc4c8d872ed38694de6ac9a0bb9b0",
+  "title": "Application of delta-wing airplane remote sensing system with dual-camera in mapping vegetation fraction",
+  "venue": "GEOINFORMATICS",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GEOINFORMATICS.2015.7378596?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GEOINFORMATICS.2015.7378596, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2064209618",
+      "name": "Amin Wen"
+    },
+    {
+      "authorId": "40609697",
+      "name": "Jianghua Zheng"
+    },
+    {
+      "authorId": "2065355138",
+      "name": "C. Mu"
+    },
+    {
+      "authorId": "144846711",
+      "name": "Jun Lin"
+    },
+    {
+      "authorId": "2112728276",
+      "name": "Peixian Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

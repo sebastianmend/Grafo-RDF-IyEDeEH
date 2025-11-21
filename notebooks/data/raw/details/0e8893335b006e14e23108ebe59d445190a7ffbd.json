@@ -1,0 +1,212 @@
+{
+  "paperId": "0e8893335b006e14e23108ebe59d445190a7ffbd",
+  "externalIds": {
+    "DBLP": "journals/isrob/CorrellABBCCDDDJLPRSSTWR10",
+    "MAG": "2112718380",
+    "DOI": "10.1007/s11370-010-0076-1",
+    "CorpusId": 9933046
+  },
+  "url": "https://www.semanticscholar.org/paper/0e8893335b006e14e23108ebe59d445190a7ffbd",
+  "title": "Indoor robot gardening: design and implementation",
+  "venue": "Intell. Serv. Robotics",
+  "year": 2010,
+  "citationCount": 27,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://dspace.mit.edu/bitstream/1721.1/71699/1/si-agri.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11370-010-0076-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11370-010-0076-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2886493",
+      "name": "N. Correll"
+    },
+    {
+      "authorId": "1802507",
+      "name": "Nikos Aréchiga"
+    },
+    {
+      "authorId": "3102387",
+      "name": "Adrienne Bolger"
+    },
+    {
+      "authorId": "47879783",
+      "name": "M. Bollini"
+    },
+    {
+      "authorId": "2090209",
+      "name": "B. Charrow"
+    },
+    {
+      "authorId": "15452227",
+      "name": "Adam Clayton"
+    },
+    {
+      "authorId": "145520989",
+      "name": "Felipe Dominguez"
+    },
+    {
+      "authorId": "144638720",
+      "name": "K. Donahue"
+    },
+    {
+      "authorId": "40380306",
+      "name": "Samuel Dyar"
+    },
+    {
+      "authorId": "2107749258",
+      "name": "Luke Johnson"
+    },
+    {
+      "authorId": "2146398233",
+      "name": "Huan Liu"
+    },
+    {
+      "authorId": "32442395",
+      "name": "Alexander Patrikalakis"
+    },
+    {
+      "authorId": "2057022335",
+      "name": "Timothy Robertson"
+    },
+    {
+      "authorId": "2109849031",
+      "name": "Jeremy Smith"
+    },
+    {
+      "authorId": "3065531",
+      "name": "Daniel E. Soltero"
+    },
+    {
+      "authorId": "31780890",
+      "name": "M. Tanner"
+    },
+    {
+      "authorId": "2065519990",
+      "name": "Lauren White"
+    },
+    {
+      "authorId": "145944286",
+      "name": "D. Rus"
+    }
+  ],
+  "abstract": "This paper describes the architecture and implementation of a distributed autonomous gardening system with applications in urban/indoor precision agriculture. The garden is a mesh network of robots and plants. The gardening robots are mobile manipulators with an eye-in-hand camera. They are capable of locating plants in the garden, watering them, and locating and grasping fruit. The plants are potted cherry tomatoes enhanced with sensors and computation to monitor their well-being (e.g. soil humidity, state of fruits) and with networking to communicate servicing requests to the robots. By embedding sensing, computation, and communication into the pots, task allocation in the system is de-centrally coordinated, which makes the system scalable and robust against the failure of a centralized agent. We describe the architecture of this system and present experimental results for navigation, object recognition, and manipulation as well as challenges that lie ahead toward autonomous precision agriculture with multi-robot teams.",
+  "references": [
+    {
+      "paperId": "c29c26d2ea69d572d9fadfcb5265d80e19230f95"
+    },
+    {
+      "paperId": "aafa635f3d374f91fd41acf943f5273df8c22e89"
+    },
+    {
+      "paperId": "f6548c2a47980163f75bc82229ad81b56111e597"
+    },
+    {
+      "paperId": "958fd1a1eeea1a0da952f7e1585c898784159036"
+    },
+    {
+      "paperId": "487c89eb3cf73d71413536e1c9f4992fd4dfbbaa"
+    },
+    {
+      "paperId": "659455f06c270c3991bf35f2c7458539582e8cbe"
+    },
+    {
+      "paperId": "092c275005ae49dc1303214f6d02d134457c7053"
+    },
+    {
+      "paperId": "0847f37c2ecbb6d233b366c5a68594b2e4723732"
+    },
+    {
+      "paperId": "fd8f3bac0c19c1353bda00769f0b6d53b5779f73"
+    },
+    {
+      "paperId": "98e081f874c3295b13560d07a2c669473caf80e2"
+    },
+    {
+      "paperId": "42de22c119f25d303032396b8f7d962f62d6498b"
+    },
+    {
+      "paperId": "66fa8f9fe1af44f50c1ba54b0c22ec7cbce66a37"
+    },
+    {
+      "paperId": "d46cde12f5510d0af16e7594f48a7dc8c39342fb"
+    },
+    {
+      "paperId": "fc51713ee4e512c285d38a7e8925a24062704257"
+    },
+    {
+      "paperId": "59e9239c5a1cfe9aaa28c53840e8fab75ae16bc5"
+    },
+    {
+      "paperId": "f089c3ad4ba2de066a802152f8e1381d72fb6d60"
+    },
+    {
+      "paperId": "4d95e5c7c3b7d8a2a8a273e69a5b4fb98557b912"
+    },
+    {
+      "paperId": "522d437642905289c87ca70898fba56c00b0ffe1"
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "30d24eb93f1da229f70d361b4665cdba6574051b"
+    },
+    {
+      "paperId": "e13fde5f98d9d6bc466128c989f9f8b86468bec2"
+    },
+    {
+      "paperId": "be29b59d8dc064ce6b37dff097c0f111fab4f055"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "35812c1ee865369042ca1c35b44d9670c959075a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "af969d65a77ee02ce6413c6a28451350c1ceedfc"
+    },
+    {
+      "paperId": "ad2ce72a4f6127d5fa607d4fcf16b6ead6a74649"
+    },
+    {
+      "paperId": "6a9b77a9f254c5ae1aeaeeaeba0dc7373f40e382"
+    },
+    {
+      "paperId": "218101bf4358859cdf94395b52b53d4c2696a529"
+    },
+    {
+      "paperId": "e5c1b5e84ee975e20aad0ad7f5e36b1662e3fe9e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

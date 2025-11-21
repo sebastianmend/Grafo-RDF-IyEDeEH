@@ -1,0 +1,44 @@
+{
+  "paperId": "f4b1453fb86b04d841b68dfe963d134b3a7c1f74",
+  "externalIds": {
+    "DBLP": "journals/ei/MullerRS10",
+    "MAG": "16530412",
+    "DOI": "10.1007/s00502-010-0719-0",
+    "CorpusId": 9140014
+  },
+  "url": "https://www.semanticscholar.org/paper/f4b1453fb86b04d841b68dfe963d134b3a7c1f74",
+  "title": "A wireless sensor network using energy harvesting for agricultural machinery",
+  "venue": "Elektrotech. Informationstechnik",
+  "year": 2010,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00502-010-0719-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00502-010-0719-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2070057992",
+      "name": "Gerhard Müller"
+    },
+    {
+      "authorId": "1866341",
+      "name": "T. Rittenschober"
+    },
+    {
+      "authorId": "145097122",
+      "name": "A. Springer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

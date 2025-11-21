@@ -1,0 +1,190 @@
+{
+  "paperId": "03e9a197a2803da5b9d2423dcf4ccdc37fb05cd2",
+  "externalIds": {
+    "MAG": "1963782711",
+    "DOI": "10.3390/SU6128452",
+    "CorpusId": 27612550
+  },
+  "url": "https://www.semanticscholar.org/paper/03e9a197a2803da5b9d2423dcf4ccdc37fb05cd2",
+  "title": "Farmers’ Perception of Precision Farming Technology among Hungarian Farmers",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 52,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/6/12/8452/pdf?version=1424779091",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/SU6128452?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/SU6128452, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87242300",
+      "name": "E. Lencsés"
+    },
+    {
+      "authorId": "71570194",
+      "name": "I. Takács"
+    },
+    {
+      "authorId": "1405317678",
+      "name": "K. Takács-György"
+    }
+  ],
+  "abstract": "Many technologies have appeared in agriculture to reduce the harmful effects of chemical use. One of these technologies is precision farming technology. Precision farming technology should not be considered as only the latest plant production technology or only a new agro-management tool. It is achieved only when the results of electronics and IT equipment are realized in the variable rate treatments zone-by-zone. The advantages and disadvantages of this technology highly depend on the heterogeneity of soil, the knowledge and attitude of the manager and the staff. This is the reason why opinions about the technology effects are so wide. This paper shows the results of the investigation based on interviews about the adoption and knowledge of precision farming technology among Hungarian crop producers. This technology is mostly used by farms over 300 hectares with young farmers. The most characteristic elements were precision fertilization and tractor guidance. The survey examined three groups of farmers with respect to whether they apply precision farming elements or not. We refer to them as “users”, “planners” and “non-users”. According to the survey, the opinions of the “user” and the “non-user” groups of farmers are not significantly different regarding the impacts of precision farming technology (the main advantages were the change in yield quantity, chemical usage and income). Furthermore, the opinions of the farmers regarding the changes in variable costs resulting from the adoption of precision farming technology were also examined (measured in percent). Box-plot analysis was used for this examination. According to the opinion of the “user” group of farmers, the highest cost savings occurred in fertilizer and herbicide costs.",
+  "references": [
+    {
+      "paperId": "8626acf059b3bf6663d71709b42f07e55acb1a3c"
+    },
+    {
+      "paperId": "533e3f22e332767814deaac230e7d1df265476a8"
+    },
+    {
+      "paperId": "3911342372452b9d7c9e51afb78c17f9fbeb9edb"
+    },
+    {
+      "paperId": "ed33e4499cecf5b8356df7f1a4218ac308bab79f"
+    },
+    {
+      "paperId": "1593fb061c1fe68796e74ba984b70555f0991569"
+    },
+    {
+      "paperId": "de5d97beb341db316bb374843c71419d9e88d19c"
+    },
+    {
+      "paperId": "7da8a6a359f4a19dceb2c0df1fb3d34f9e3eb02f"
+    },
+    {
+      "paperId": "26b8dbe5fa6b43382465db33aea7bdf0e6a96c6f"
+    },
+    {
+      "paperId": "f53588f03024c381c23db9cd751b0f99ea92d73d"
+    },
+    {
+      "paperId": "9d20a9935777b23fe4d74cd268e8092b32ebc7d1"
+    },
+    {
+      "paperId": "1aea5198ac46b8cb128cca6f8ca74fdd59e754b3"
+    },
+    {
+      "paperId": "21dfe98f3510e64b35ee3bcb8a999ddc3b87b5ed"
+    },
+    {
+      "paperId": "f6eba731cb7e00fd271736ce18909ed63ff5e2db"
+    },
+    {
+      "paperId": "b980d5dd78e77a30de4e25586025443d52f86f5a"
+    },
+    {
+      "paperId": "a3071e13e083724739d3ba5db0797919a3b58cd9"
+    },
+    {
+      "paperId": "97269d5d426b07b470c81b3e095c54af78bdf833"
+    },
+    {
+      "paperId": "feb4a558ce6b0d5977ad0e623a1dca4be59c07a0"
+    },
+    {
+      "paperId": "03d884cab892e0e0af0e8c85d25cda05ab9d3957"
+    },
+    {
+      "paperId": "75cccae32e98dac281d588d730c1ab919f1dcdcb"
+    },
+    {
+      "paperId": "bccbc20c001dcc51f5b9f84c6af691cd4f066281"
+    },
+    {
+      "paperId": "065b7e09cc81e44d5f7912e6aaf7d551f3770532"
+    },
+    {
+      "paperId": "b22e619164ec3c2411d57cde496408e6eb4f3442"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5ea96ea3be15ea59815a42915c24cffd93761f8e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8d7c0adfe8025a2898920fe5b6faaba36a1b7cca"
+    },
+    {
+      "paperId": "cd346cc50f4e50fba59b12f969a7b5a04635e01f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "99d8867b5e84a50728ce2ffedeb1843b79bfe94a"
+    },
+    {
+      "paperId": "874e6a03519cbcad18a48a00359bb3c861e046aa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bba7459ad9cd25d1a95ab19c4e11b1089b50e8e8"
+    },
+    {
+      "paperId": "fb5ef3bb3fc3007fac2af896937694e152d023d2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f147aaa7118fcc2f02e4d2c327db9377ad1df0a9"
+    },
+    {
+      "paperId": "a3599acaa68448cc557b9423f8309c8c706b31e0"
+    },
+    {
+      "paperId": "5b0ccc4d8d207e35f5d4d5a55c4355b59491a070"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

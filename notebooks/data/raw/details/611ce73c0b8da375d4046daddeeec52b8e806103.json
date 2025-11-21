@@ -1,0 +1,46 @@
+{
+  "paperId": "611ce73c0b8da375d4046daddeeec52b8e806103",
+  "externalIds": {
+    "MAG": "2094230113",
+    "DOI": "10.1007/s11540-014-9266-0",
+    "CorpusId": 8316781
+  },
+  "url": "https://www.semanticscholar.org/paper/611ce73c0b8da375d4046daddeeec52b8e806103",
+  "title": "Precision Agriculture in Potato Production",
+  "venue": "Potato Research",
+  "year": 2014,
+  "citationCount": 39,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11540-014-9266-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11540-014-9266-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5271665",
+      "name": "A. Cambouris"
+    },
+    {
+      "authorId": "49114440",
+      "name": "B. Zebarth"
+    },
+    {
+      "authorId": "3672591",
+      "name": "N. Ziadi"
+    },
+    {
+      "authorId": "2635472",
+      "name": "I. Perron"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,36 @@
+{
+  "paperId": "3b1729eb66198fe09bf57a10e494bd332d757ccd",
+  "externalIds": {
+    "DBLP": "journals/digearth/Genderen13",
+    "MAG": "2080919908",
+    "DOI": "10.1080/17538947.2013.817183",
+    "CorpusId": 34147207
+  },
+  "url": "https://www.semanticscholar.org/paper/3b1729eb66198fe09bf57a10e494bd332d757ccd",
+  "title": "Precision agriculture for grain production systems",
+  "venue": "International Journal of Digital Earth",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1080/17538947.2013.817183",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17538947.2013.817183?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17538947.2013.817183, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Economics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2448688",
+      "name": "J. Genderen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

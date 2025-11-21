@@ -1,0 +1,84 @@
+{
+  "paperId": "2a48cd6a560752cb72299ea3d1f76370b26a7b2c",
+  "externalIds": {
+    "MAG": "2103504431",
+    "DOI": "10.1071/FP12060",
+    "CorpusId": 6504371,
+    "PubMed": "32480838"
+  },
+  "url": "https://www.semanticscholar.org/paper/2a48cd6a560752cb72299ea3d1f76370b26a7b2c",
+  "title": "Early drought stress detection in cereals: simplex volume maximisation for hyperspectral image analysis.",
+  "venue": "Functional Plant Biology",
+  "year": 2012,
+  "citationCount": 145,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "http://publica.fraunhofer.de/bitstreams/55ca0efa-1eec-4efe-aa3f-25ac674dcabd/download",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1071/FP12060?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1071/FP12060, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1734200049",
+      "name": "Christoph R Mer"
+    },
+    {
+      "authorId": "2835075",
+      "name": "Mirwaes Wahabzada"
+    },
+    {
+      "authorId": "3291979",
+      "name": "A. Ballvora"
+    },
+    {
+      "authorId": "78059170",
+      "name": "F. Pinto"
+    },
+    {
+      "authorId": "34656068",
+      "name": "M. Rossini"
+    },
+    {
+      "authorId": "2171002",
+      "name": "C. Panigada"
+    },
+    {
+      "authorId": "2895826",
+      "name": "J. Behmann"
+    },
+    {
+      "authorId": "1734200048",
+      "name": "Jens L On"
+    },
+    {
+      "authorId": "2020614",
+      "name": "Christian Thurau"
+    },
+    {
+      "authorId": "1692283",
+      "name": "C. Bauckhage"
+    },
+    {
+      "authorId": "1746871",
+      "name": "K. Kersting"
+    },
+    {
+      "authorId": "2852289",
+      "name": "U. Rascher"
+    },
+    {
+      "authorId": "1734206982",
+      "name": "Lutz Pl Mer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

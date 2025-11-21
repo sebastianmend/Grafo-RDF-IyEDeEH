@@ -1,0 +1,37 @@
+{
+  "paperId": "85b8033cf782110c287a4443c23d2f42f595795d",
+  "externalIds": {
+    "MAG": "2197346969",
+    "DOI": "10.1002/humu.22861",
+    "CorpusId": 39412589,
+    "PubMed": "26768517"
+  },
+  "url": "https://www.semanticscholar.org/paper/85b8033cf782110c287a4443c23d2f42f595795d",
+  "title": "The Genome Editing Revolution in Livestock Marches on",
+  "venue": "Human Mutation",
+  "year": 2016,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/humu.22861",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/humu.22861?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/humu.22861, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "LettersAndComments",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145789212",
+      "name": "C. Whitelaw"
+    }
+  ],
+  "abstract": "Genome editing technology is taking the world by storm, no more so than in its application in livestock. The opportunities for both beneficial biomedical and agricultural applications abound. Although most transgenic livestock have been made using somatic cell nuclear transfer, the advent of genome editing technology initially ZFNs, then TALEN and now CRISPR/Cas9 engineered nuclease systems has brought back into favor the zygote (fertilized egg) injection route. Initial studies of genome editor delivery to zygotes in pigs focused on non-homologous end joining (Lillico et al., Sci Rep 10(3): 2847, 2013). In this form of genome editing, insertions or deletions (indels) are produced at the target site. The location of the editing event is specific but the indel is random. A more elegant use or genome editing technology is to cause a sequence change at precisely the desired genetic locus through homology-directed repair (HDR). In this issue, Zhou et al (Hum Mutat 37:110–118, 2016) report the first demonstration of CRISPR/Cas9 HDR by zygote injection in pigs. They achieve this through the use of a single-stranded DNA oligo (ssODN) carrying a point mutation within exon 2 of the pig SOX10 gene which would result in an arginine to tryptophan exchange (Arg106Try) in encoded amino acid (an allele swap) and this is what they detected. Mosaicism of the editing event was detected, with the majority of founder animals displaying at least three sequence traces for the target locus and in no cases were biallelic HDR events detected. The introduced SOX10 mutation is associated with clinical symptoms of hearing loss and pigmentation disturbance in human patients. The founder animals did show some alteration in pigmentation, however, it will take more detailed study to determine if these animals do indeed represent a reliable model of the human condition. Regardless, the study by Zhou and colleagues exemplify the utility and precision of genome editing technology for HDR in livestock. Their intention is to add to the growing interest in engineered large animal models of human disease, to accelerate disease mitigation strategies from the bench to the bedside.",
+  "references": []
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "57c86260e69e23b149a3e2f0828545f06cdf21df",
+  "externalIds": {
+    "DBLP": "journals/wpc/RahmanHS13",
+    "MAG": "2014194750",
+    "DOI": "10.1007/s11277-013-1275-9",
+    "CorpusId": 2580090
+  },
+  "url": "https://www.semanticscholar.org/paper/57c86260e69e23b149a3e2f0828545f06cdf21df",
+  "title": "Efficient Energy Utilization Through Optimum Number of Sensor Node Distribution in Engineered Corona-Based (ONSD-EC) Wireless Sensor Network",
+  "venue": "Wireless personal communications",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11277-013-1275-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11277-013-1275-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2148758375",
+      "name": "A. Rahman"
+    },
+    {
+      "authorId": "144230509",
+      "name": "H. Hasbullah"
+    },
+    {
+      "authorId": "2234879",
+      "name": "N. Sama"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

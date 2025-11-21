@@ -1,0 +1,42 @@
+{
+  "paperId": "51519f65eafe3c1cb0bd3728de43293fac779427",
+  "externalIds": {
+    "MAG": "2087655552",
+    "DOI": "10.1109/ICPRIME.2013.6496717",
+    "CorpusId": 14253331
+  },
+  "url": "https://www.semanticscholar.org/paper/51519f65eafe3c1cb0bd3728de43293fac779427",
+  "title": "CRY — An improved crop yield prediction model using bee hive clustering approach for agricultural data sets",
+  "venue": "2013 International Conference on Pattern Recognition, Informatics and Mobile Engineering",
+  "year": 2013,
+  "citationCount": 38,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPRIME.2013.6496717?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPRIME.2013.6496717, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9161877",
+      "name": "M. G. Ananthara"
+    },
+    {
+      "authorId": "2268368964",
+      "name": "T Arunkumar"
+    },
+    {
+      "authorId": "2268371791",
+      "name": "Ms R Hemavathy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

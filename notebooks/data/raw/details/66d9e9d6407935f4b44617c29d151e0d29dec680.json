@@ -1,0 +1,48 @@
+{
+  "paperId": "66d9e9d6407935f4b44617c29d151e0d29dec680",
+  "externalIds": {
+    "MAG": "2074812315",
+    "DOI": "10.1007/s00128-012-0579-x",
+    "CorpusId": 22924662,
+    "PubMed": "22398693"
+  },
+  "url": "https://www.semanticscholar.org/paper/66d9e9d6407935f4b44617c29d151e0d29dec680",
+  "title": "Determination of Six Neonicotinoid Insecticides Residues in Spinach, Cucumber, Apple and Pomelo by QuEChERS Method and LC–MS/MS",
+  "venue": "Bulletin of Environmental Contamination and Toxicology",
+  "year": 2012,
+  "citationCount": 64,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00128-012-0579-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00128-012-0579-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "13947123",
+      "name": "F. Zhang"
+    },
+    {
+      "authorId": "2110500618",
+      "name": "Yanjie Li"
+    },
+    {
+      "authorId": "5176178",
+      "name": "Chuanshan Yu"
+    },
+    {
+      "authorId": "6050565",
+      "name": "C. Pan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

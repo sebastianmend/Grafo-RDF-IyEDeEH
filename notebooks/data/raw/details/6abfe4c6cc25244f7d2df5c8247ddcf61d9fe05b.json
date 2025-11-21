@@ -1,0 +1,111 @@
+{
+  "paperId": "6abfe4c6cc25244f7d2df5c8247ddcf61d9fe05b",
+  "externalIds": {
+    "DBLP": "journals/sensors/ChenWS10",
+    "PubMedCentral": "3231037",
+    "MAG": "2081916535",
+    "DOI": "10.3390/s101110081",
+    "CorpusId": 6174891,
+    "PubMed": "22163458"
+  },
+  "url": "https://www.semanticscholar.org/paper/6abfe4c6cc25244f7d2df5c8247ddcf61d9fe05b",
+  "title": "Performance Evaluation of an Infrared Thermocouple",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2010,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/10/11/10081/pdf?version=1403313249",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3231037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "114576739",
+      "name": "Chiachung Chen"
+    },
+    {
+      "authorId": "8836411",
+      "name": "Yu-Kai Weng"
+    },
+    {
+      "authorId": "32180035",
+      "name": "T. Shen"
+    }
+  ],
+  "abstract": "The measurement of the leaf temperature of forests or agricultural plants is an important technique for the monitoring of the physiological state of crops. The infrared thermometer is a convenient device due to its fast response and nondestructive measurement technique. Nowadays, a novel infrared thermocouple, developed with the same measurement principle of the infrared thermometer but using a different detector, has been commercialized for non-contact temperature measurement. The performances of two-kinds of infrared thermocouples were evaluated in this study. The standard temperature was maintained by a temperature calibrator and a special black cavity device. The results indicated that both types of infrared thermocouples had good precision. The error distribution ranged from −1.8 °C to 18 °C as the reading values served as the true values. Within the range from 13 °C to 37 °C, the adequate calibration equations were the high-order polynomial equations. Within the narrower range from 20 °C to 35 °C, the adequate equation was a linear equation for one sensor and a two-order polynomial equation for the other sensor. The accuracy of the two kinds of infrared thermocouple was improved by nearly 0.4 °C with the calibration equations. These devices could serve as mobile monitoring tools for in situ and real time routine estimation of leaf temperatures.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "1b0e1f0da53460df2763e968c8191501eda92e59"
+    },
+    {
+      "paperId": "706d5e1538e9ec7455053e9c9f410a0d49eeff87"
+    },
+    {
+      "paperId": "6e65a40205e5204f12dd0f1b68887a4678263d61"
+    },
+    {
+      "paperId": "a663b8e35cba75eed19d3947c93dfb651366ed03"
+    },
+    {
+      "paperId": "ef284f049ea3f3a90c52f0027c3c748958abd6d7"
+    },
+    {
+      "paperId": "8a05d095f7a30ec0f31765f52c0badfd15ffd2c0"
+    },
+    {
+      "paperId": "962be0be5d3922a4afedd216eb72478e5817f7d3"
+    },
+    {
+      "paperId": "b3befcc1d6cbb37cc00c753b4d5e6890cc2c4afb"
+    },
+    {
+      "paperId": "190b4f11edf150675c9f2e9b0e13d7414b1fc527"
+    },
+    {
+      "paperId": "51b89678a5a93c969d0f31ce91bf68a81ae92dd2"
+    },
+    {
+      "paperId": "72ae84b0aa99528f4242f50a46c53ffc12aafd81"
+    },
+    {
+      "paperId": "ff5787574ec0b01a6381881009c5e196019bd4ef"
+    },
+    {
+      "paperId": "d4e015f5b1b1de4c1aafdf950b2a48efc139764f"
+    },
+    {
+      "paperId": "b102a39ec30c2c796832193456ee02a8c36836bf"
+    },
+    {
+      "paperId": "cb8ad09261febd0c5b8e88794f298bfc868e52b9"
+    },
+    {
+      "paperId": "b9bb6963c8291a9a3b697d30d8e8979c25c51f02"
+    },
+    {
+      "paperId": "408a354c752a4124f68369fa671d93f5acfba7fc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

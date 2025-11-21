@@ -1,0 +1,102 @@
+{
+  "paperId": "e54d7efacd957294d2234050813aece32e4b3347",
+  "externalIds": {
+    "MAG": "1026683349",
+    "DBLP": "conf/enviroinfo/ReznikCLCHK15",
+    "DOI": "10.2991/ICT4S-ENV-15.2015.12",
+    "CorpusId": 55091658
+  },
+  "url": "https://www.semanticscholar.org/paper/e54d7efacd957294d2234050813aece32e4b3347",
+  "title": "Open Data Model for (Precision) Agriculture Applications and Agricultural Pollution Monitoring",
+  "venue": "EnviroInfo/ICT4S",
+  "year": 2015,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://download.atlantis-press.com/article/25836156.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ICT4S-ENV-15.2015.12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ICT4S-ENV-15.2015.12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34651030",
+      "name": "T. Řezník"
+    },
+    {
+      "authorId": "2289002",
+      "name": "K. Charvát"
+    },
+    {
+      "authorId": "40088778",
+      "name": "V. Lukas"
+    },
+    {
+      "authorId": "2289002",
+      "name": "K. Charvát"
+    },
+    {
+      "authorId": "152419240",
+      "name": "S. Horáková"
+    },
+    {
+      "authorId": "35240984",
+      "name": "M. Kepka"
+    }
+  ],
+  "abstract": "Both agricultural and environmental domains have to manage many different and heterogeneous sources of information that need to be combined in order to make environmentally and economically sound decisions. Such examples may be found at the definition of subsidies, national strategies for rural development, development of sustainable agriculture etc. This paper describes in detail the development of an open data model for (precision) agriculture applications and agricultural pollution monitoring when aiming at identification of requirements from users from agricultural and environmental domains. The presented open data model for (precision) agriculture applications and agricultural pollution monitoring has been registered under the GEOSS (Global Earth Observation System of Systems) Architecture Implementation Pilot – Phase 8 in order to support the wide variety of demands that are primary aimed at agriculture and water pollution monitoring.",
+  "references": [
+    {
+      "paperId": "ddaf7c851ab91f3530a13152fe1fa1d445573335"
+    },
+    {
+      "paperId": "295a707270f8343a7c8b629c3f11df068523192b"
+    },
+    {
+      "paperId": "af275ecb097889c8154a830851f31dcf505c872c"
+    },
+    {
+      "paperId": "61fbc24c48e4dbcb952506d22a22f474cb9b6d2b"
+    },
+    {
+      "paperId": "d94ce29a163009fb961986c465204fdbea5773e6"
+    },
+    {
+      "paperId": "961b8e95e4b360e5d95ef79a21958540d4e551ab"
+    },
+    {
+      "paperId": "0ba3b54b7d1126b1dccf3e1d47fd59508b1bc4b0"
+    },
+    {
+      "paperId": "52edc2a8f21d7bd206608f83117058ea7c714b0d"
+    },
+    {
+      "paperId": "a135c78be1222670848587dc648b7e8fe39a120f"
+    },
+    {
+      "paperId": "4f65f0a9b7585d160a819f8f4db1804ff034de56"
+    },
+    {
+      "paperId": "4bd4c7a48d2219bac2ba9516742065e378c7d698"
+    },
+    {
+      "paperId": "5e02aae9fff772d4d6c9c36b8758235ab4522d16"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

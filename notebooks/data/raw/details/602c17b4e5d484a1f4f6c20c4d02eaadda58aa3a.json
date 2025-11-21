@@ -1,0 +1,40 @@
+{
+  "paperId": "602c17b4e5d484a1f4f6c20c4d02eaadda58aa3a",
+  "externalIds": {
+    "MAG": "2053114336",
+    "DBLP": "conf/IEEEcit/BiZ14",
+    "DOI": "10.1109/CIT.2014.43",
+    "CorpusId": 17572619
+  },
+  "url": "https://www.semanticscholar.org/paper/602c17b4e5d484a1f4f6c20c4d02eaadda58aa3a",
+  "title": "Study on Application of Grey Prediction Fuzzy PID Control in Water and Fertilizer Precision Irrigation",
+  "venue": "2014 IEEE International Conference on Computer and Information Technology",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CIT.2014.43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CIT.2014.43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2044441079",
+      "name": "Peng Bi"
+    },
+    {
+      "authorId": "50021356",
+      "name": "Jinfeng Zheng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

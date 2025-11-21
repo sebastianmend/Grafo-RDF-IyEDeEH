@@ -1,0 +1,46 @@
+{
+  "paperId": "80b515b0f7eacc949894db3c12864520870f2082",
+  "externalIds": {
+    "MAG": "2058326440",
+    "DOI": "10.1109/ICCDA.2010.5540840",
+    "CorpusId": 13999432
+  },
+  "url": "https://www.semanticscholar.org/paper/80b515b0f7eacc949894db3c12864520870f2082",
+  "title": "HJ-1A HSI image data quality evaluation and application potential for features recognition",
+  "venue": "2010 International Conference On Computer Design and Applications",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCDA.2010.5540840?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCDA.2010.5540840, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2065897734",
+      "name": "Nie Qian"
+    },
+    {
+      "authorId": "9332575",
+      "name": "Liu Xiuguo"
+    },
+    {
+      "authorId": "49397073",
+      "name": "H. Xiaodong"
+    },
+    {
+      "authorId": "2113825999",
+      "name": "Gao Wei"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

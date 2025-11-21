@@ -1,0 +1,57 @@
+{
+  "paperId": "a6f64d196852cd07bdaa2a651023f4acf96eba2e",
+  "externalIds": {
+    "MAG": "2329461455",
+    "DOI": "10.4081/JAE.2013.396",
+    "CorpusId": 112431445
+  },
+  "url": "https://www.semanticscholar.org/paper/a6f64d196852cd07bdaa2a651023f4acf96eba2e",
+  "title": "Noise levels of a track-laying tractor during field operations in the vineyard",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.agroengineering.org/index.php/jae/article/download/jae.2013.s2.e154/358",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4081/JAE.2013.396?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4081/JAE.2013.396, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40022619",
+      "name": "P. Catania"
+    },
+    {
+      "authorId": "15915625",
+      "name": "M. Vallone"
+    }
+  ],
+  "abstract": "Noise in agriculture is one of the risk factors to be taken into account in the assessment of the health and safety of workers; in particular, it is known that the tractor is a source of high noise. The Italian Low Decree 81/2008 defined the requirements for assessing and managing noise risk identifying a number of procedures to be adopted at different noise levels to limit workers exposure. This paper concerns the analysis of the noise risk arising from the use of a tracklaying tractor during field operations carried out in the vineyard. The objective of this study was to evaluate the noise level that comes close to the ear of the operator driving the tractor measuring the values of equivalent sound level (Leq(A)) and peak sound pressure (LCpk). We considered four options related to the same tractor coupled with the following tools to perform some farming operations: rototilling, chisel plough, flail mowers and vibro farmer. We considered three test conditions: T1 in flat (slope 0%), T2 uphill and T3 downhill (both 30% slope). The instrument used for the measurements is a precision integrating portable sound level meter, class 1, model HD2110L by Delta OHM, Italy. Each survey lasted 2 minutes, with an interval of measurement equal to 0.5 s. The tests were performed in compliance with the standards ISO 9612 and ISO 9432. The results show that the measured sound levels exceed the limits allowed by the regulations in almost all the test conditions; values exceeding the threshold limit of 80 dB(A) were recorded coming up to a maximum value of 92.8 dB(A) for flail mowers in test T1. When limits imposed by the regulations are exceeded, the operator is obliged to wear the appropriate Personal Protective Equipment.",
+  "references": [
+    {
+      "paperId": "fe586f134aa54a9cf17050c9c8d55bd3dc0d2454"
+    },
+    {
+      "paperId": "a156c474c21c016daab612255db68e1bca9f1b3e"
+    },
+    {
+      "paperId": "77eb1a50bf37ec42e32ad557282051b688226601"
+    },
+    {
+      "paperId": "1215e86316c1dec00b577c678fca2d1b69962848"
+    },
+    {
+      "paperId": "c9a1818d1aba36d5eb8ca3533dd14866fd13a228"
+    },
+    {
+      "paperId": "2e77c084796bc01578977a3a2e03aac0c3fcbadc"
+    }
+  ]
+}

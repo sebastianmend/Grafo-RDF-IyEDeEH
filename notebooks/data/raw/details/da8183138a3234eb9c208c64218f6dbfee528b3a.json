@@ -1,0 +1,46 @@
+{
+  "paperId": "da8183138a3234eb9c208c64218f6dbfee528b3a",
+  "externalIds": {
+    "MAG": "2099429146",
+    "DOI": "10.1109/CCTAE.2010.5544390",
+    "CorpusId": 3236651
+  },
+  "url": "https://www.semanticscholar.org/paper/da8183138a3234eb9c208c64218f6dbfee528b3a",
+  "title": "Research and development precision irrigation control system in agricultural",
+  "venue": "International Conference on Computer and Communication Technologies in Agriculture Engineering",
+  "year": 2010,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCTAE.2010.5544390?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCTAE.2010.5544390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47845702",
+      "name": "Zheng Yao"
+    },
+    {
+      "authorId": "13856090",
+      "name": "Guohuan Lou"
+    },
+    {
+      "authorId": "33367070",
+      "name": "Xiuli Zeng"
+    },
+    {
+      "authorId": "2118377870",
+      "name": "Qingxin Zhao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

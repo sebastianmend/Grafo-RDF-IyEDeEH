@@ -1,0 +1,63 @@
+{
+  "paperId": "37bf76271647b61458b7774a1322b3693673d7ec",
+  "externalIds": {
+    "MAG": "2115191498",
+    "DBLP": "conf/ssdbm/GalpinSVGPFSG14",
+    "DOI": "10.1145/2618243.2618252",
+    "CorpusId": 13910787
+  },
+  "url": "https://www.semanticscholar.org/paper/37bf76271647b61458b7774a1322b3693673d7ec",
+  "title": "SensorBench: benchmarking approaches to processing wireless sensor network data",
+  "venue": "International Conference on Statistical and Scientific Database Management",
+  "year": 2014,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2618243.2618252?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2618243.2618252, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2445257",
+      "name": "I. Galpin"
+    },
+    {
+      "authorId": "48045971",
+      "name": "A. B. Stokes"
+    },
+    {
+      "authorId": "1703780",
+      "name": "G. Valkanas"
+    },
+    {
+      "authorId": "34071005",
+      "name": "A. Gray"
+    },
+    {
+      "authorId": "1716510",
+      "name": "N. Paton"
+    },
+    {
+      "authorId": "144779687",
+      "name": "A. Fernandes"
+    },
+    {
+      "authorId": "1716839",
+      "name": "K. Sattler"
+    },
+    {
+      "authorId": "1736832",
+      "name": "D. Gunopulos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

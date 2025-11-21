@@ -1,0 +1,46 @@
+{
+  "paperId": "7cc974ddfdaf1b41a0784dc942a7e660b47caf4c",
+  "externalIds": {
+    "MAG": "2024315795",
+    "DOI": "10.1109/ARGO-GEOINFORMATICS.2013.6621894",
+    "CorpusId": 40651453
+  },
+  "url": "https://www.semanticscholar.org/paper/7cc974ddfdaf1b41a0784dc942a7e660b47caf4c",
+  "title": "Remote sensing with unmanned aircraft systems for precision agriculture applications",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2013,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ARGO-GEOINFORMATICS.2013.6621894?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ARGO-GEOINFORMATICS.2013.6621894, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145403205",
+      "name": "E. Hunt"
+    },
+    {
+      "authorId": "2529128",
+      "name": "C. Daughtry"
+    },
+    {
+      "authorId": "6788132",
+      "name": "S. Mirsky"
+    },
+    {
+      "authorId": "145359507",
+      "name": "W. Hively"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

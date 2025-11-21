@@ -1,0 +1,208 @@
+{
+  "paperId": "45130402ca2e5d51db09de9612d20047f22db08f",
+  "externalIds": {
+    "MAG": "2276930547",
+    "PubMedCentral": "4801612",
+    "DBLP": "journals/sensors/GutierrezTFD16",
+    "DOI": "10.3390/s16020236",
+    "CorpusId": 5197792,
+    "PubMed": "26891304"
+  },
+  "url": "https://www.semanticscholar.org/paper/45130402ca2e5d51db09de9612d20047f22db08f",
+  "title": "Data Mining and NIR Spectroscopy in Viticulture: Applications for Plant Phenotyping under Field Conditions",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2016,
+  "citationCount": 41,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/16/2/236/pdf?version=1456300121",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4801612, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145135909",
+      "name": "S. Gutiérrez"
+    },
+    {
+      "authorId": "3379717",
+      "name": "J. Tardáguila"
+    },
+    {
+      "authorId": "1402199005",
+      "name": "J. Fernández-Novales"
+    },
+    {
+      "authorId": "3467798",
+      "name": "M. Diago"
+    }
+  ],
+  "abstract": "Plant phenotyping is a very important topic in agriculture. In this context, data mining strategies may be applied to agricultural data retrieved with new non-invasive devices, with the aim of yielding useful, reliable and objective information. This work presents some applications of machine learning algorithms along with in-field acquired NIR spectral data for plant phenotyping in viticulture, specifically for grapevine variety discrimination and assessment of plant water status. Support vector machine (SVM), rotation forests and M5 trees models were built using NIR spectra acquired in the field directly on the adaxial side of grapevine leaves, with a non-invasive portable spectrophotometer working in the spectral range between 1600 and 2400 nm. The ν-SVM algorithm was used for the training of a model for varietal classification. The classifiers’ performance for the 10 varieties reached, for cross- and external validations, the 88.7% and 92.5% marks, respectively. For water stress assessment, the models developed using the absorbance spectra of six varieties yielded the same determination coefficient for both cross- and external validations (R2 = 0.84; RMSEs of 0.164 and 0.165 MPa, respectively). Furthermore, a variety-specific model trained only with samples of Tempranillo from two different vintages yielded R2 = 0.76 and RMSE of 0.16 MPa for cross-validation and R2 = 0.79, RMSE of 0.17 MPa for external validation. These results show the power of the combined use of data mining and non-invasive NIR sensing for in-field grapevine phenotyping and their usefulness for the wine industry and precision viticulture implementations.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "24f939dbc68aadfe67fbaab7c48c090ab2793bea"
+    },
+    {
+      "paperId": "de19bc5522a44e0344c10594ba416acf028a7f21"
+    },
+    {
+      "paperId": "fdd4689ad903b1ac29abaf0d5a4483bbfa59e2d2"
+    },
+    {
+      "paperId": "4732a77c3753c0a5f31c62ce2e38407d6a945ebf"
+    },
+    {
+      "paperId": "b38e991c0ed49a51303860f58b844151a29d874a"
+    },
+    {
+      "paperId": "29fd26be45af944adad9fb6e757967c46d0a40a7"
+    },
+    {
+      "paperId": "a059418ba24f3038f9e2d62c87a7e7a3db548a9c"
+    },
+    {
+      "paperId": "5fe4fcb0e704df2b325cd536c3d7d99835a82e0e"
+    },
+    {
+      "paperId": "54e310ebca94ca8789926e62463c8c6b9e4ab23e"
+    },
+    {
+      "paperId": "c8e5e610592382b50fdb7556484f6c33b527e1e6"
+    },
+    {
+      "paperId": "cb4469d587575b78859c94002f18423f682f2c95"
+    },
+    {
+      "paperId": "d47cfaf38daa230e6595b4ecb8f62d4f006bbf39"
+    },
+    {
+      "paperId": "dd5282b7736411bc88ae9d5f81c30bc7d8ddc158"
+    },
+    {
+      "paperId": "d392355cdb41733c91270310a1963581b3ea5bf3"
+    },
+    {
+      "paperId": "273dfbcb68080251f5e9ff38b4413d7bd84b10a1"
+    },
+    {
+      "paperId": "dbe2939b6035a81fc225f476c0576fcf4e78c0d5"
+    },
+    {
+      "paperId": "2ac057c46dc9b99118109e76aec7395b64b0ed9e"
+    },
+    {
+      "paperId": "460d92e89a0a63f4cd62ea5a03450957e2b8fc45"
+    },
+    {
+      "paperId": "6d8c9fcce8177d6f8d122d653c7d32d7624d6714"
+    },
+    {
+      "paperId": "459102d5f2f79873a0b03fce18abb87b8d113e9b"
+    },
+    {
+      "paperId": "651d2f38939e537b323b4dc39a650fdd5a09533d"
+    },
+    {
+      "paperId": "2645ed6eb12233621aa7379965e4bb69d64a08b4"
+    },
+    {
+      "paperId": "5d193f4be968dc342b30899a445bb31c74773bd4"
+    },
+    {
+      "paperId": "4cb835ace34f53c0d69c1f155d2527a2ec9f35ef"
+    },
+    {
+      "paperId": "b2489c3a82bd5785818877b043d6d730c7c85dac"
+    },
+    {
+      "paperId": "d38be153e667bb4754f5e78fc91f2aa004d97d17"
+    },
+    {
+      "paperId": "9b9d5f186044f8251dcfb52a86320724b8ee445a"
+    },
+    {
+      "paperId": "e875652115fcd5dc9ec57bfcdffb99baf42773fb"
+    },
+    {
+      "paperId": "30ac2ab31378b4edc54451a9112bfeaf6f0daf31"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "e2d6a84dc3dd89c38dd3c9a8085bf5a321976df4"
+    },
+    {
+      "paperId": "c36991759325bedd19f69264f72d1cbf59a6158c"
+    },
+    {
+      "paperId": "f632a774878c5cef9157908354252bb6d6b119df"
+    },
+    {
+      "paperId": "0ed269ce5462a4a0ba22a1270d7810c7b3374a09"
+    },
+    {
+      "paperId": "52b7bf3ba59b31f362aa07f957f1543a29a4279e"
+    },
+    {
+      "paperId": "c32441778573e8f9e5e2ee75d1c5d5384335cb1b"
+    },
+    {
+      "paperId": "4aaa30769ca49875f45670970130c088136986d1"
+    },
+    {
+      "paperId": "a98923f2613f9304bff525609a04b9b56e8b8644"
+    },
+    {
+      "paperId": "052b1d8ce63b07fec3de9dbb583772d860b7c769"
+    },
+    {
+      "paperId": "a0155c2d2d69db4e2bf5870fc9be9b0adecdd9ee"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": "24800233be0ee6ab11024d1d42f3328e8cebf228"
+    },
+    {
+      "paperId": "730ca170962a58607e092035beb2afc4b5fa6242"
+    },
+    {
+      "paperId": "85d5a2a3b3816b91ff915b6a48bd4f6c20ce815d"
+    },
+    {
+      "paperId": "5f8efcdd8765109e28c69c107f074cbc6dc5673c"
+    },
+    {
+      "paperId": "441e2282f37e35eea34531d3052ebf565392c8eb"
+    },
+    {
+      "paperId": "6ccb34bf2122304af5cbecf54402ee3d970e43f2"
+    },
+    {
+      "paperId": "15670d07bc387c5a5ed7dad1712588a6e3b93b94"
+    },
+    {
+      "paperId": "ead572634c6f7253bf187a3e9a7dc87ae2e34258"
+    },
+    {
+      "paperId": "c04f42e41a25b2d80718bc86696612f75e079624"
+    },
+    {
+      "paperId": "0a0d35b5bc1656ebe9b1fd104eead48fedc7ee4f"
+    }
+  ]
+}

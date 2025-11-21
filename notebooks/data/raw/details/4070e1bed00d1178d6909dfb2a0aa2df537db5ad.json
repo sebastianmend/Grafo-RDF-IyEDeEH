@@ -1,0 +1,38 @@
+{
+  "paperId": "4070e1bed00d1178d6909dfb2a0aa2df537db5ad",
+  "externalIds": {
+    "MAG": "2548486222",
+    "DOI": "10.1109/CSSR.2010.5773931",
+    "CorpusId": 35089412
+  },
+  "url": "https://www.semanticscholar.org/paper/4070e1bed00d1178d6909dfb2a0aa2df537db5ad",
+  "title": "Diffuse-to-global irradiance ratios extracted from MODIS aerosol product for paddy-rice",
+  "venue": "International Conference on Science and Social Research",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CSSR.2010.5773931?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CSSR.2010.5773931, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30637053",
+      "name": "J.A Yasinan"
+    },
+    {
+      "authorId": "7782790",
+      "name": "A. Asmat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

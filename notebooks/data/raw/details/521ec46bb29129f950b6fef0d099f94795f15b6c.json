@@ -1,0 +1,46 @@
+{
+  "paperId": "521ec46bb29129f950b6fef0d099f94795f15b6c",
+  "externalIds": {
+    "MAG": "2075460227",
+    "DOI": "10.1115/DETC2012-71430",
+    "CorpusId": 30753431
+  },
+  "url": "https://www.semanticscholar.org/paper/521ec46bb29129f950b6fef0d099f94795f15b6c",
+  "title": "A Computational Strategy for Design and Implementation of Equipment That Addresses Sustainable Agricultural Residue Removal at the Subfield Scale",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://dr.lib.iastate.edu/bitstreams/99a37dc3-f3d2-4a89-83dd-78ddeb6a1c8d/download",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1115/DETC2012-71430?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/DETC2012-71430, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "33893544",
+      "name": "David Muth"
+    },
+    {
+      "authorId": "39337737",
+      "name": "Joshua B. Koch"
+    },
+    {
+      "authorId": "2110913",
+      "name": "D. McCorkle"
+    },
+    {
+      "authorId": "2064700",
+      "name": "K. Bryden"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

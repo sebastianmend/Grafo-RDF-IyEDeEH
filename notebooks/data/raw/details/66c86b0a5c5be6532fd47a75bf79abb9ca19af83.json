@@ -1,0 +1,61 @@
+{
+  "paperId": "66c86b0a5c5be6532fd47a75bf79abb9ca19af83",
+  "externalIds": {
+    "MAG": "2074031755",
+    "DOI": "10.1080/19440049.2011.642102",
+    "CorpusId": 432946,
+    "PubMed": "22292605"
+  },
+  "url": "https://www.semanticscholar.org/paper/66c86b0a5c5be6532fd47a75bf79abb9ca19af83",
+  "title": "A multi-residue method for the determination of pesticides in high water content matrices by gas chromatography–single quadrupole mass spectrometry with electron ionisation (EI-GC/MS)",
+  "venue": "Food Additives and Contaminants Part A-chemistry Analysis Control Exposure & Risk Assessment",
+  "year": 2012,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/19440049.2011.642102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/19440049.2011.642102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40123634",
+      "name": "Mauro Lúcio Gonçalves de Oliveira"
+    },
+    {
+      "authorId": "14168745",
+      "name": "F. Madureira"
+    },
+    {
+      "authorId": "36123071",
+      "name": "Fabiano Aurélio"
+    },
+    {
+      "authorId": "15948800",
+      "name": "Ana Paula Pontelo"
+    },
+    {
+      "authorId": "152694870",
+      "name": "G. Silva"
+    },
+    {
+      "authorId": "2109444631",
+      "name": "Reginaldo S Oliveira"
+    },
+    {
+      "authorId": "2081286064",
+      "name": "C. Paes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

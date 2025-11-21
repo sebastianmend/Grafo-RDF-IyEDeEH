@@ -1,0 +1,61 @@
+{
+  "paperId": "40802cc758de00a9815fb23ddef4c43c1338a031",
+  "externalIds": {
+    "MAG": "1659349535",
+    "DBLP": "conf/case/DasCQMTMK15",
+    "DOI": "10.1109/CoASE.2015.7294123",
+    "CorpusId": 14340477
+  },
+  "url": "https://www.semanticscholar.org/paper/40802cc758de00a9815fb23ddef4c43c1338a031",
+  "title": "Devices, systems, and methods for automated monitoring enabling precision agriculture",
+  "venue": "2015 IEEE International Conference on Automation Science and Engineering (CASE)",
+  "year": 2015,
+  "citationCount": 149,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CoASE.2015.7294123?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CoASE.2015.7294123, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "36405105",
+      "name": "J. Das"
+    },
+    {
+      "authorId": "29648711",
+      "name": "Gareth Cross"
+    },
+    {
+      "authorId": "2064702575",
+      "name": "Chao Qu"
+    },
+    {
+      "authorId": "3211656",
+      "name": "Anurag Makineni"
+    },
+    {
+      "authorId": "2390456",
+      "name": "Pratap Tokekar"
+    },
+    {
+      "authorId": "2435597",
+      "name": "Yash Mulgaonkar"
+    },
+    {
+      "authorId": "37956314",
+      "name": "Vijay R. Kumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

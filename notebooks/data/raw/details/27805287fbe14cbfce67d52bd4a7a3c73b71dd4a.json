@@ -1,0 +1,63 @@
+{
+  "paperId": "27805287fbe14cbfce67d52bd4a7a3c73b71dd4a",
+  "externalIds": {
+    "MAG": "2587856689",
+    "DBLP": "conf/whispers/SuomalainenAIFW13",
+    "DOI": "10.1109/WHISPERS.2013.8080721",
+    "CorpusId": 21736473
+  },
+  "url": "https://www.semanticscholar.org/paper/27805287fbe14cbfce67d52bd4a7a3c73b71dd4a",
+  "title": "A light-weight hyperspectral mapping system for unmanned aerial vehicles — The first results",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2013,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2013.8080721?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2013.8080721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2012912",
+      "name": "J. Suomalainen"
+    },
+    {
+      "authorId": "10430534",
+      "name": "N. Anders"
+    },
+    {
+      "authorId": "48891497",
+      "name": "S. Iqbal"
+    },
+    {
+      "authorId": "2053121135",
+      "name": "J. Franke"
+    },
+    {
+      "authorId": "87552848",
+      "name": "P.F.M. Wenting"
+    },
+    {
+      "authorId": "3027884",
+      "name": "H. Bartholomeus"
+    },
+    {
+      "authorId": "2054683725",
+      "name": "R. Becker"
+    },
+    {
+      "authorId": "3289950",
+      "name": "L. Kooistra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,192 @@
+{
+  "paperId": "54bfa0262849175a85a0b5bcda25992c42d622f0",
+  "externalIds": {
+    "PubMedCentral": "4227877",
+    "MAG": "2038448037",
+    "DOI": "10.1371/journal.pone.0112894",
+    "CorpusId": 17658625,
+    "PubMed": "25386696"
+  },
+  "url": "https://www.semanticscholar.org/paper/54bfa0262849175a85a0b5bcda25992c42d622f0",
+  "title": "Applications of Low Altitude Remote Sensing in Agriculture upon Farmers' Requests– A Case Study in Northeastern Ontario, Canada",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 84,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112894&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4227877, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40640224",
+      "name": "Chunhua Zhang"
+    },
+    {
+      "authorId": "144439854",
+      "name": "D. Walters"
+    },
+    {
+      "authorId": "4427727",
+      "name": "J. Kovacs"
+    }
+  ],
+  "abstract": "With the growth of the low altitude remote sensing (LARS) industry in recent years, their practical application in precision agriculture seems all the more possible. However, only a few scientists have reported using LARS to monitor crop conditions. Moreover, there have been concerns regarding the feasibility of such systems for producers given the issues related to the post-processing of images, technical expertise, and timely delivery of information. The purpose of this study is to showcase actual requests by farmers to monitor crop conditions in their fields using an unmanned aerial vehicle (UAV). Working in collaboration with farmers in northeastern Ontario, we use optical and near-infrared imagery to monitor fertilizer trials, conduct crop scouting and map field tile drainage. We demonstrate that LARS imagery has many practical applications. However, several obstacles remain, including the costs associated with both the LARS system and the image processing software, the extent of professional training required to operate the LARS and to process the imagery, and the influence from local weather conditions (e.g. clouds, wind) on image acquisition all need to be considered. Consequently, at present a feasible solution for producers might be the use of LARS service provided by private consultants or in collaboration with LARS scientific research teams.",
+  "references": [
+    {
+      "paperId": "6e59d7fd1c9f4382783cf53451ef0a5f15e3db22"
+    },
+    {
+      "paperId": "0c7d1b41dd387a63c62f3bc9d4761670d774bb17"
+    },
+    {
+      "paperId": "69df9a5e10b73dd256df3d253054f05d20607532"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "5d9e25b636815055c20293146dc5e25bb2cd66b9"
+    },
+    {
+      "paperId": "6cf99ffb530f85784345a7d9e46eb5981df8937c"
+    },
+    {
+      "paperId": "b4fa6b10f740547f834bd89eb67a80bebb9244b9"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "22efc5291c07bf4ca7cb5f3dc2e8b8394c5acec6"
+    },
+    {
+      "paperId": "ef276f08d939f82dcb52299107c681b0a4dc02cb"
+    },
+    {
+      "paperId": "339558632f2d718136a723009de5cbccadfc079c"
+    },
+    {
+      "paperId": "506f337e65bfe428d417828fed0b7f56838abb38"
+    },
+    {
+      "paperId": "3a2890cca79ec179408d2eb964a0f11c935bff3c"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "9097d93618c5ff3f9ae2943cf0be59d3aee46f38"
+    },
+    {
+      "paperId": "51f5ca01cd8a96c61d571e9f9585ee17bacffe13"
+    },
+    {
+      "paperId": "bd039d9ef12fc59167b359d9c43aad40ad2f8c4c"
+    },
+    {
+      "paperId": "f3212cba7bbff642fc1f86cbb508e798387e21b6"
+    },
+    {
+      "paperId": "5711ef9d2cc3d3f52a61be7c71b2bff9b52b3409"
+    },
+    {
+      "paperId": "aa415c4bb29bdcae8aada310a7b87c9b417a3dd3"
+    },
+    {
+      "paperId": "198428a75f8048e95b86d8d6ff2023101616e1f0"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "e685139cadf07929e4aefd2855eb8a55c192f0e4"
+    },
+    {
+      "paperId": "4411f189245919365b0a543086c90a9ed747195f"
+    },
+    {
+      "paperId": "65057e914f15e90553fefa69aaf981026a3034a1"
+    },
+    {
+      "paperId": "6d7c63a44d490ed74a7d634d35b0e0d8b6c96858"
+    },
+    {
+      "paperId": "c8426d9aabd7633b5fdb97ce49a932e8e7e5fcdb"
+    },
+    {
+      "paperId": "94e6b26b0a648fc697c0c8db8f9dd40289d5d494"
+    },
+    {
+      "paperId": "8e8d3ca4e0920d14797366acf346e1155ceca29b"
+    },
+    {
+      "paperId": "488ce2aee490784fa68e3c7a4c52f8a629856d09"
+    },
+    {
+      "paperId": "10644c8a03ac5a847f71bf56ffa6724b1f1188e3"
+    },
+    {
+      "paperId": "c12e68ddbc9423d67174d94f039589c6403fdf17"
+    },
+    {
+      "paperId": "bb8fdd314e2ea8c7eac506820a3bc577ff4c9bb4"
+    },
+    {
+      "paperId": "564a82a30c5e60c7ecfea437309b6dda1160493f"
+    },
+    {
+      "paperId": "41f3a77b26915bb7a7a7dbe44510ff03d9a5635c"
+    },
+    {
+      "paperId": "1119df2099bc9a859d272e82ea810b51a63d2962"
+    },
+    {
+      "paperId": "6e4e29b7b569a55d2fe16ea8126795a95d24472d"
+    },
+    {
+      "paperId": "4d13f137daf1f4f05e9e7b7bd68ba770ee1c680e"
+    },
+    {
+      "paperId": "3e2c9f6f570099e5a250d7045c6a131eab920c2a"
+    },
+    {
+      "paperId": "7cd576bd2efbc2e4746ac074d1516da644e55e85"
+    },
+    {
+      "paperId": "a077d412535abc7aea98a33f5e9d8700beb49bce"
+    },
+    {
+      "paperId": "14cd327d9fad354b5cf88c2c1efb3de023c618ae"
+    },
+    {
+      "paperId": "140581f636f2c88e73c5f6adc7f9ecc8778c30ea"
+    },
+    {
+      "paperId": "5d3c59862be4f3780e87859099d9f7379960b160"
+    },
+    {
+      "paperId": "40ab871121e594e77493564afbea7360c857744c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "paperId": "4051af1946f1ecd7e657ce67f2dc4680d78d3ac4",
+  "externalIds": {
+    "MAG": "2373694312",
+    "DOI": "10.56093/ijas.v84i6.41464",
+    "CorpusId": 58919256
+  },
+  "url": "https://www.semanticscholar.org/paper/4051af1946f1ecd7e657ce67f2dc4680d78d3ac4",
+  "title": "Effect of precision land leveling and permanent raised bed planting on soil properties, input use efficiency, productivity and profitability under maize (Zea mays) – wheat (Triticum aestivum) cropping system",
+  "venue": "Indian Journal of Agricultural Sciences",
+  "year": 2014,
+  "citationCount": 31,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://epubs.icar.org.in/index.php/IJAgS/article/download/41464/18487",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56093/ijas.v84i6.41464?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56093/ijas.v84i6.41464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145435134",
+      "name": "R. Naresh"
+    },
+    {
+      "authorId": "144669820",
+      "name": "R. Rathore"
+    },
+    {
+      "authorId": "2108178163",
+      "name": "Parvinder Kumar"
+    },
+    {
+      "authorId": "2253946836",
+      "name": "S. Singh"
+    },
+    {
+      "authorId": "47264639",
+      "name": "Ashutosh Kumar Singh"
+    },
+    {
+      "authorId": "14087067",
+      "name": "U. Shahi"
+    }
+  ],
+  "abstract": "Precision land leveling with permanent raised bed planting with recommended dose of NPK can be used to improve crop yield,water and nutrient use efficiency over the existing traditional land leveling with flat beds planting with recommended dose of NPK practices. The objective of present study was to establish an understanding of maize (Zea mays L.) -wheat (Triticum aestivum L.) rotation yield and input use efficiency can be improved and how land leveling and crop establishment practices can be modified to be more efficient in water use through precision conservation crop management techniques. A farmers participatory field experiment was conducted during 2009- 2011 in the jurisdiction of Sardar Vallabhbhai Patel University of Agriculture & Technology, Meerut, UP. Multi crop planter with inclined plate seed metering device machine were given to the farmers and crops were sown on permanent raised beds in maize-wheat cropping system.The data collected from the farmers participatory field experiment showed that there was about 20.4% (295.8 mm/ha for wide beds, i e 107 cm furrow centre gap) water saving and about 16.5% (310.3 mm/ha for narrow beds, i e 37 cm furrow centre gap) with grain yield increase about 13.5% (5.13 and 4.44 tonnes/ha) for wheat crop and 11.8% (4.33 and 3.82 tonnes/ha) for maize crop with precision land leveling raised bed planting compared to traditional land leveling with flat beds planting. The agronomic efficiency (AE) of N (23.4 and 30.4 kg grain/kg N for maize and wheat) and uptake of N, P and K (103.85, 25.6 and 110.7 kg/ha for maize and 112.95, 19.49 and 112.96 kg/ha for wheat) were significantly improved under precision land leveling with raised bed planting technique compared to other practices.",
+  "references": [
+    {
+      "paperId": "b12fcb1d746d747f2adc2eef7381f31afac4ec4c"
+    },
+    {
+      "paperId": "5a6280f834bc5488341482dd9c8592e71225d965"
+    },
+    {
+      "paperId": "d8a55fbd3874378f44b1fc832cab86f21a107f4f"
+    },
+    {
+      "paperId": "5c29c0b4eb5300d51f4679c58a5a4a63a95e89e6"
+    },
+    {
+      "paperId": "08e525c96bde29f265f4437eefde038582a71db6"
+    },
+    {
+      "paperId": "810c61ad694671b49586b643f55dbbeeeab951f3"
+    },
+    {
+      "paperId": "1f44d1c4f365c66e6c5834d963a26a5d59255266"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1ace279cc4a4ed0c3db4f878e02e595d877461ab"
+    },
+    {
+      "paperId": "c743f895e95337ef2c42a5fc7d251aa1e571c0ec"
+    },
+    {
+      "paperId": "15f20d3b8cf9552e35dcce6d78a913ea4393d78e"
+    },
+    {
+      "paperId": "475ea4344e4a1be3ccedee27fffb03f308ad82f0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "16f16ea8ff8a36445cf556d70c86ed62685a4057"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "eb2beacef72033cfc3364de191e703e363b7721a"
+    }
+  ]
+}

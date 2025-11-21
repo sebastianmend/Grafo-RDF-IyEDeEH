@@ -1,0 +1,40 @@
+{
+  "paperId": "941c5efefdcd90125296387d91b09d14d83b11b0",
+  "externalIds": {
+    "DBLP": "conf/ipmu/RussB10",
+    "MAG": "1522644772",
+    "DOI": "10.1007/978-3-642-14049-5_36",
+    "CorpusId": 31231504
+  },
+  "url": "https://www.semanticscholar.org/paper/941c5efefdcd90125296387d91b09d14d83b11b0",
+  "title": "Data Mining in Precision Agriculture: Management of Spatial Information",
+  "venue": "International Conference on Information Processing and Management of Uncertainty",
+  "year": 2010,
+  "citationCount": 83,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-14049-5_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-14049-5_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32349706",
+      "name": "G. Ruß"
+    },
+    {
+      "authorId": "2817369",
+      "name": "A. Brenning"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

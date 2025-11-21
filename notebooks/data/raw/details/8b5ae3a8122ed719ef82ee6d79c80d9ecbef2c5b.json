@@ -1,0 +1,43 @@
+{
+  "paperId": "8b5ae3a8122ed719ef82ee6d79c80d9ecbef2c5b",
+  "externalIds": {
+    "DBLP": "conf/igarss/KucukKE15",
+    "MAG": "1964715579",
+    "DOI": "10.1109/IGARSS.2015.7326737",
+    "CorpusId": 12496350
+  },
+  "url": "https://www.semanticscholar.org/paper/8b5ae3a8122ed719ef82ee6d79c80d9ecbef2c5b",
+  "title": "CO-POLAR SAR data classification as a tool for real time paddy-rice monitoring",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2015.7326737?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2015.7326737, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1786973",
+      "name": "Caglar Kucuk"
+    },
+    {
+      "authorId": "143919790",
+      "name": "Gülsen Taskin Kaya"
+    },
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

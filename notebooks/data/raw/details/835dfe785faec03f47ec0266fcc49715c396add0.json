@@ -1,0 +1,133 @@
+{
+  "paperId": "835dfe785faec03f47ec0266fcc49715c396add0",
+  "externalIds": {
+    "MAG": "2024409320",
+    "DOI": "10.5194/ISPRSARCHIVES-XL-7-181-2014",
+    "CorpusId": 55452915
+  },
+  "url": "https://www.semanticscholar.org/paper/835dfe785faec03f47ec0266fcc49715c396add0",
+  "title": "Terrestrial laser scanning for plant height measurement and biomass estimation of maize",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://isprs-archives.copernicus.org/articles/XL-7/181/2014/isprsarchives-XL-7-181-2014.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRSARCHIVES-XL-7-181-2014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRSARCHIVES-XL-7-181-2014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15108712",
+      "name": "N. Tilly"
+    },
+    {
+      "authorId": "144759107",
+      "name": "D. Hoffmeister"
+    },
+    {
+      "authorId": "12594780",
+      "name": "H. Schiedung"
+    },
+    {
+      "authorId": "2760011",
+      "name": "C. Hütt"
+    },
+    {
+      "authorId": "120542325",
+      "name": "J. Brands"
+    },
+    {
+      "authorId": "2801990",
+      "name": "G. Bareth"
+    }
+  ],
+  "abstract": "Over the last decades, the role of remote sensing gained in importance for monitoring applications in precision agriculture. A key factor for assessing the development of crops during the growing period is the actual biomass. As non-destructive methods of directly measuring biomass do not exist, parameters like plant height are considered as estimators. In this contribution, first results of multitemporal surveys on a maize field with a terrestrial laser scanner are shown. The achieved point clouds are interpolated to generate Crop Surface Models (CSM) that represent the top canopy. These CSMs are used for visualizing the spatial distribution of plant height differences within the field and calculating plant height above ground with a high resolution of 1 cm. In addition, manual measurements of plant height were carried out corresponding to each TLS campaign to verify the results. The high coefficient of determination (R² = 0.93) between both measurement methods shows the applicability of the presented approach. The established regression model between CSM-derived plant height and destructively measured biomass shows a varying performance depending on the considered time frame during the growing period. This study shows that TLS is a suitable and promising method for measuring plant height of maize. Moreover, it shows the potential of plant height as a non-destructive estimator for biomass in the early growing period. However, challenges are the non-linear development of plant height and biomass over the whole growing period.",
+  "references": [
+    {
+      "paperId": "3d9cb57abc25dc26ccd78ee55b4ccadacbb96aac"
+    },
+    {
+      "paperId": "5d66c50c79d1b6dbd54fd9141b763b8a3c1658c0"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "0e9f52291e45e75b61b328cb17d263e80f600ee7"
+    },
+    {
+      "paperId": "42a2e04d39bbc7bab37b81fa7646e0f0b7104702"
+    },
+    {
+      "paperId": "8e13fe8bbd787daa17e14cced2544fea2bd1781c"
+    },
+    {
+      "paperId": "53cc1ace5dccec728de7ce4ae04b971226e386e6"
+    },
+    {
+      "paperId": "411a0a90b29473a396c3c9da8b7ab2dd7633d236"
+    },
+    {
+      "paperId": "2edc63a4b5340fb0b92500a8a0ed70b63cabb931"
+    },
+    {
+      "paperId": "2c819f3ee55102dfecf413d720916323c0d86ca7"
+    },
+    {
+      "paperId": "7221676c27803b322ef27f1c44c656cbefec1831"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "87bd3ae8213dff9ca8ae129562195223a47238a8"
+    },
+    {
+      "paperId": "00f8e9b7394a1d6261cdc0b7f1796c3c3b68edc3"
+    },
+    {
+      "paperId": "254fee01b5edc642c1fcac709b9f7fc83143c1ec"
+    },
+    {
+      "paperId": "8458412282496da39f71c9f80b266a173e26027e"
+    },
+    {
+      "paperId": "d01e72ba893e90d533d8df8b732bd5e6bb77a40a"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "1252b101f3761b94570370fcb2ee8a2779d051db"
+    },
+    {
+      "paperId": "75462d362d1d511ca580223af38c329630c7b040"
+    },
+    {
+      "paperId": "181c50302de87548bf21a52e654836db40bdf2ae"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

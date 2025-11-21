@@ -1,0 +1,52 @@
+{
+  "paperId": "98597f657032422c30de525fa7cce6281438f49d",
+  "externalIds": {
+    "MAG": "1503936662",
+    "DOI": "10.1002/jsfa.5998",
+    "CorpusId": 27822811,
+    "PubMed": "23258318"
+  },
+  "url": "https://www.semanticscholar.org/paper/98597f657032422c30de525fa7cce6281438f49d",
+  "title": "Determination of fungicide pyrimethanil in grapes, must, fermenting must and wine.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2013,
+  "citationCount": 18,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.5998?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.5998, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1398779203",
+      "name": "L. Vaquero-Fernández"
+    },
+    {
+      "authorId": "1398779198",
+      "name": "J. Sanz-Asensio"
+    },
+    {
+      "authorId": "1398779208",
+      "name": "Purificación Fernández-Zurbano"
+    },
+    {
+      "authorId": "2077419277",
+      "name": "M. López-Alonso"
+    },
+    {
+      "authorId": "1398779317",
+      "name": "M. Martínez-Soria"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

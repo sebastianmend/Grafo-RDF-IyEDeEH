@@ -1,0 +1,36 @@
+{
+  "paperId": "f1e9a4885b372f6de201ac2d891e67318380d8d9",
+  "externalIds": {
+    "MAG": "1502642737",
+    "CorpusId": 28256530
+  },
+  "url": "https://www.semanticscholar.org/paper/f1e9a4885b372f6de201ac2d891e67318380d8d9",
+  "title": "Design and application of portable and electric system of soil sampling and positioning",
+  "venue": "Workshop on Autonomic Communication",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2072848672",
+      "name": "Ma Wei"
+    },
+    {
+      "authorId": "2068877152",
+      "name": "Wang Xiu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

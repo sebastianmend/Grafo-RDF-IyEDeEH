@@ -1,0 +1,38 @@
+{
+  "paperId": "c4536cd21000fb527bf4e1ed8b6fb5ad99783c81",
+  "externalIds": {
+    "MAG": "2155976964",
+    "DOI": "10.1109/CCTAE.2010.5544354",
+    "CorpusId": 17519265
+  },
+  "url": "https://www.semanticscholar.org/paper/c4536cd21000fb527bf4e1ed8b6fb5ad99783c81",
+  "title": "The realization of precision agriculture monitoring system based on wireless sensor network",
+  "venue": "International Conference on Computer and Communication Technologies in Agriculture Engineering",
+  "year": 2010,
+  "citationCount": 58,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCTAE.2010.5544354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCTAE.2010.5544354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2110394701",
+      "name": "Lei Xiao"
+    },
+    {
+      "authorId": "2870293",
+      "name": "Lejiang Guo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

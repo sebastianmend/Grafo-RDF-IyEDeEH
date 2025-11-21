@@ -1,0 +1,43 @@
+{
+  "paperId": "a6719a076949370b4d1d6c9f2b2474b59752dd76",
+  "externalIds": {
+    "MAG": "2088345974",
+    "DOI": "10.1117/12.2020131",
+    "CorpusId": 62584783
+  },
+  "url": "https://www.semanticscholar.org/paper/a6719a076949370b4d1d6c9f2b2474b59752dd76",
+  "title": "An improved K-means clustering algorithm in agricultural image segmentation",
+  "venue": "Other Conferences",
+  "year": 2013,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2020131?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2020131, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9369988",
+      "name": "Huifeng Cheng"
+    },
+    {
+      "authorId": "2140197975",
+      "name": "Hui Peng"
+    },
+    {
+      "authorId": "8603050",
+      "name": "Shanmei Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

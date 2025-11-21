@@ -1,0 +1,105 @@
+{
+  "paperId": "d7bc25de9a508773dc310e78c412f592e349eefa",
+  "externalIds": {
+    "MAG": "1116572674",
+    "DOI": "10.56093/ijas.v85i8.50796",
+    "CorpusId": 82671596
+  },
+  "url": "https://www.semanticscholar.org/paper/d7bc25de9a508773dc310e78c412f592e349eefa",
+  "title": "Nutrient Expert assisted site-specific-nutrient-management: An alternative precision fertilization technology for maize-wheat cropping system in South-Asian Indo-Gangetic Plains",
+  "venue": "Indian Journal of Agricultural Sciences",
+  "year": 2015,
+  "citationCount": 35,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://epubs.icar.org.in/index.php/IJAgS/article/download/50796/21621",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56093/ijas.v85i8.50796?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56093/ijas.v85i8.50796, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152605866",
+      "name": "V. Pooniya"
+    },
+    {
+      "authorId": "31910886",
+      "name": "S. L. Jat"
+    },
+    {
+      "authorId": "39481720",
+      "name": "A. Choudhary"
+    },
+    {
+      "authorId": "48775708",
+      "name": "A. Singh"
+    },
+    {
+      "authorId": "51109105",
+      "name": "C. M. Parihar"
+    },
+    {
+      "authorId": "23842803",
+      "name": "R. Bana"
+    },
+    {
+      "authorId": "4863846",
+      "name": "K. Swarnalakshmi"
+    },
+    {
+      "authorId": "145369397",
+      "name": "K. Rana"
+    }
+  ],
+  "abstract": "Site-specific-nutrient-management (SSNM)-nutrient expert (NE) is the recently developed precision nutrient management technology guided by decision-support system software for improving crop yields, environmental-quality and overall agricultural sustainability specifically in South-Asian Indo-Gangetic Plains Region (IGPR). SSNM-NE in maize-wheat cropping system (MWCS) assumes a great-significance to restore soil-fertility and enhance farm nutrient-use efficiency with minimal deleterious effects on environment. Therefore, an attempt was made to develop and standardize SSNM-NE technology in MWCS. Results indicated that system-productivity in terms of wheatequivalent yield (WEY) with SSNM-NE + FYM @ 5 tonnes/ha (9.60 Mg/ha) and with 125% recommended NPK(RDF) (9.33 Mg/ha) was ~38.8; 12.3% and 36.8; 9.8% higher over control and 100%RDF (2 yearsâ€™ av.), respectively. Among nutrient-management schedules, SSNM-NE + FYM registered highest available N, K and soil organic carbon (SOC) in 0-15 cm soil-depth which was closely followed by 125%RDF and SSNM treatments while plots under 125%RDF registered significantly highest available P over other treatments. SSNM-NE alongwith FYM led to highest soil microbial biomass carbon (SMBC) and dehydrogenase-activity which was 9.25 and 11.6% higher over 125%RDF. However, non-significant variation was observed in bulk density at both soil-depths (0â€“15; 15â€“30 cm). SSNM-NE +FYM experienced highest root-length density and root-surface area (RSA) in both crops followed by 125%RDF. SSNM-NE + FYM and SSNM-NE treatments exhibited significantly higher agronomicâ€“efficiency of applied-N and P over rest of the treatments in both crops. Overall, SSNM-NE in combination with FYM led to significant improvement in soil physico-chemical and microbial properties as well as nutrient use-efficiencies; which assume paramount importance for long-term soil productivity that may translate into sustained MWCS productivity in South-Asian IGPR. Besides, this SSNM-NE decision support system software is easy to handle and operationalizable by the field extension functionaries, progressive farmers and through custom hiring services to illiterate and resource poor farmingclientele at village level in developing world.",
+  "references": [
+    {
+      "paperId": "6eca653b192475885577121217fbddabb5b572f8"
+    },
+    {
+      "paperId": "8cdaafb6935e27778c948cb4696309e912436e41"
+    },
+    {
+      "paperId": "c3490038576bb83d3b7a00b2397e49fd9d847a7d"
+    },
+    {
+      "paperId": "e61bc5b0320bc589250d4431f59aaf0e9e3ba5a6"
+    },
+    {
+      "paperId": "628bf9ff12ca6a0179aebde17eacf37befe334cd"
+    },
+    {
+      "paperId": "8d130aa592f9c53a68ae14d1db9ca2e082f96f4d"
+    },
+    {
+      "paperId": "cd8b96b11783945d988663c5f59106e6534b0dbc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3cf1d31bdda7cbd1b41f8d00fbf68f01a403fded"
+    },
+    {
+      "paperId": "08e02d71e2ad289ed94346be935a79d980c5d998"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "52ffe89573e16b42ecd336100d19550cb9fdaa40"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

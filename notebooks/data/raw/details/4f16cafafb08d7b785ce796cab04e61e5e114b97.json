@@ -1,0 +1,50 @@
+{
+  "paperId": "4f16cafafb08d7b785ce796cab04e61e5e114b97",
+  "externalIds": {
+    "MAG": "1671756459",
+    "DOI": "10.15835/buasvmcn-hort:5693",
+    "CorpusId": 83922570
+  },
+  "url": "https://www.semanticscholar.org/paper/4f16cafafb08d7b785ce796cab04e61e5e114b97",
+  "title": "Construction of a Geodetic-topographic Base Inside University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15835/buasvmcn-hort:5693?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15835/buasvmcn-hort:5693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87742148",
+      "name": "M. Ortelecan"
+    },
+    {
+      "authorId": "87220261",
+      "name": "A. Ciotlaus"
+    },
+    {
+      "authorId": "151153745",
+      "name": "N. Pop"
+    },
+    {
+      "authorId": "88019607",
+      "name": "Diana Ficior"
+    },
+    {
+      "authorId": "87653152",
+      "name": "J. Deak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

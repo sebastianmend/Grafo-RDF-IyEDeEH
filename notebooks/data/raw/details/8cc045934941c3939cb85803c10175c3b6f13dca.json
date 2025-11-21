@@ -1,0 +1,47 @@
+{
+  "paperId": "8cc045934941c3939cb85803c10175c3b6f13dca",
+  "externalIds": {
+    "MAG": "1593518229",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2015.7248102",
+    "CorpusId": 28317070
+  },
+  "url": "https://www.semanticscholar.org/paper/8cc045934941c3939cb85803c10175c3b6f13dca",
+  "title": "Integrated geosptial sensor web for agricultural soil moisture monitoring",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2015,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2015.7248102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2015.7248102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7700987",
+      "name": "Nengcheng Chen"
+    },
+    {
+      "authorId": "40569903",
+      "name": "Xiang Zhang"
+    },
+    {
+      "authorId": "48354580",
+      "name": "Zeqiang Chen"
+    },
+    {
+      "authorId": "47188522",
+      "name": "Songhua Yan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

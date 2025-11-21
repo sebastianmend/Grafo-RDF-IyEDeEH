@@ -1,0 +1,38 @@
+{
+  "paperId": "a4e48fcc1cf05b3370794c567faea26eee955104",
+  "externalIds": {
+    "MAG": "2169769794",
+    "DOI": "10.1109/MEC.2011.6025438",
+    "CorpusId": 27307703
+  },
+  "url": "https://www.semanticscholar.org/paper/a4e48fcc1cf05b3370794c567faea26eee955104",
+  "title": "Design and implement a B/S model monitoring system of Multi-layer Soil temperature based on WCDMA",
+  "venue": "International Conference on Mechatronic Science, Electric Engineering and Computer",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MEC.2011.6025438?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MEC.2011.6025438, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2144043757",
+      "name": "Guifen Chen"
+    },
+    {
+      "authorId": "143966972",
+      "name": "Shuwen Jiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

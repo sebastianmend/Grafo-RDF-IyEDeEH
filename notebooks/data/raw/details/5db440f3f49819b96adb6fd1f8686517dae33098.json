@@ -1,0 +1,42 @@
+{
+  "paperId": "5db440f3f49819b96adb6fd1f8686517dae33098",
+  "externalIds": {
+    "MAG": "2187073560",
+    "DOI": "10.1109/CCAC.2015.7345184",
+    "CorpusId": 24031775
+  },
+  "url": "https://www.semanticscholar.org/paper/5db440f3f49819b96adb6fd1f8686517dae33098",
+  "title": "Drip irrigation system based on distributed control — Part 1: Design and model",
+  "venue": "2015 IEEE 2nd Colombian Conference on Automatic Control (CCAC)",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCAC.2015.7345184?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCAC.2015.7345184, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30851919",
+      "name": "Yenifer De la Cruz"
+    },
+    {
+      "authorId": "77520784",
+      "name": "C. Martínez"
+    },
+    {
+      "authorId": "47779989",
+      "name": "A. Pantoja"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

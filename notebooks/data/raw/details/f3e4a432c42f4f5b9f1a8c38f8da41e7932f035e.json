@@ -1,0 +1,74 @@
+{
+  "paperId": "f3e4a432c42f4f5b9f1a8c38f8da41e7932f035e",
+  "externalIds": {
+    "MAG": "2077133623",
+    "DBLP": "journals/ijdsn/KoKS14",
+    "DOI": "10.1155/2014/832510",
+    "CorpusId": 30512763
+  },
+  "url": "https://www.semanticscholar.org/paper/f3e4a432c42f4f5b9f1a8c38f8da41e7932f035e",
+  "title": "Real Time Traceability and Monitoring System for Agricultural Products Based on Wireless Sensor Network",
+  "venue": "Int. J. Distributed Sens. Networks",
+  "year": 2014,
+  "citationCount": 33,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2014/832510",
+    "status": "CLOSED",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2014/832510?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2014/832510, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "120493097",
+      "name": "Daesik Ko"
+    },
+    {
+      "authorId": "2221799",
+      "name": "Yunsik Kwak"
+    },
+    {
+      "authorId": "1703191",
+      "name": "Seokil Song"
+    }
+  ],
+  "abstract": "A system to monitor and trace the yields and distribution of agricultural products is an important precision agricultural application. The system can be used to predict the next year's yields or provide the distribution channel of agricultural products from farmers to customers. Existing traceability and monitoring systems, usually, are implemented by using both wireless sensor network (WSN) and radio frequency identification (RFID) techniques. In this paper, we propose a system architecture that only requires WSN techniques and implement it. The implementing system consists of sensor nodes, communication hubs, a communication protocol, and an event detection engine. We define events to trace and monitor agricultural products, and our event detection engine detects those events by using the current location and the status of each sensor node. We describe the overall architecture of the proposed system and implementation details.",
+  "references": [
+    {
+      "paperId": "642a8fc0fa1caf8b902079911bca7c98d6dbd51d"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "5a290637aaadf5e85aa6efc9e8e57a7e15dfb09e"
+    },
+    {
+      "paperId": "0cad65ae93474c96170f6935db3f820fc127255d"
+    },
+    {
+      "paperId": "1346bcd87b7e94902d5bf9f39597d24ac82780bc"
+    },
+    {
+      "paperId": "666010dc3621e1a08fb6830f03a1f7857c7377cc"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "cdcb4cf0271a1049c8240ea70fd8579bdcdf0c97"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

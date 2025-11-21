@@ -1,0 +1,52 @@
+{
+  "paperId": "f670d98704031f24a55c4835891ff0c083a50834",
+  "externalIds": {
+    "MAG": "1546044864",
+    "CorpusId": 109786387
+  },
+  "url": "https://www.semanticscholar.org/paper/f670d98704031f24a55c4835891ff0c083a50834",
+  "title": "Flower Classification Supported by Digital Imaging Techniques",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11427023",
+      "name": "A. C. L. Lino"
+    },
+    {
+      "authorId": "2058550625",
+      "name": "J. Sanches"
+    },
+    {
+      "authorId": "1403523788",
+      "name": "G. M. Dias-Tagliacozzo"
+    },
+    {
+      "authorId": "3310030",
+      "name": "I. Fabbro"
+    },
+    {
+      "authorId": "88199188",
+      "name": "F. A. Lima"
+    },
+    {
+      "authorId": "87411970",
+      "name": "T. Nascimento"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

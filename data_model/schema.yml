@@ -1,0 +1,15 @@
+version: "0.1"
+domain: "Precision Agriculture"
+description: >
+  Esquema tentativo para representar un grafo bibliográfico de Agricultura de Precisión.
+nodes:
+  Paper:   { key: paperId,  properties: [title, abstract, year, citationCount, doi, url, publicationVenue] }
+  Author:  { key: authorId, properties: [name, url] }
+  Venue:   { key: venueId, properties: [name, type] }
+  Field:   { key: fieldName, properties: [fieldName] }
+edges:
+  AUTHORED_BY:  { from: Paper, to: Author, properties: [] }
+  PUBLISHED_IN: { from: Paper, to: Venue,  properties: [] }
+  HAS_TOPIC:    { from: Paper, to: Field,  properties: [] }
+  CITES:        { from: Paper, to: Paper,  properties: [] }
+

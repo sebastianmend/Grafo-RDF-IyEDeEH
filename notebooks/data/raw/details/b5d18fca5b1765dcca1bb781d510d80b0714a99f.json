@@ -1,0 +1,51 @@
+{
+  "paperId": "b5d18fca5b1765dcca1bb781d510d80b0714a99f",
+  "externalIds": {
+    "MAG": "2003815320",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2012.6311600",
+    "CorpusId": 19980343
+  },
+  "url": "https://www.semanticscholar.org/paper/b5d18fca5b1765dcca1bb781d510d80b0714a99f",
+  "title": "Methodology of the crops Acreage Estimation Using Remote Sensing and Survey Sampling in National statistical system of China",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2012.6311600?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2012.6311600, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "41214505",
+      "name": "Yaozhong Pan"
+    },
+    {
+      "authorId": "2108141140",
+      "name": "Jinshui Zhang"
+    },
+    {
+      "authorId": "144666099",
+      "name": "Wei Zhou"
+    },
+    {
+      "authorId": "48019459",
+      "name": "Jianhua Zhao"
+    },
+    {
+      "authorId": "47166185",
+      "name": "Xinhua Yu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "192036fc244dfcf7a7a2002d113686fed57cf115",
+  "externalIds": {
+    "DBLP": "conf/icca/PereiraLSPI11",
+    "MAG": "2168497850",
+    "DOI": "10.1109/ICCA.2011.6138069",
+    "CorpusId": 15617675
+  },
+  "url": "https://www.semanticscholar.org/paper/192036fc244dfcf7a7a2002d113686fed57cf115",
+  "title": "Object oriented C++ library IsoAgLib study and implementation from the remote CAN-Based Distributed Control System",
+  "venue": "2011 9th IEEE International Conference on Control and Automation (ICCA)",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCA.2011.6138069?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCA.2011.6138069, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40621281",
+      "name": "R. D. Pereira"
+    },
+    {
+      "authorId": "40455403",
+      "name": "W. Lopes"
+    },
+    {
+      "authorId": "2053315942",
+      "name": "R. Sousa"
+    },
+    {
+      "authorId": "2607583",
+      "name": "A. Porto"
+    },
+    {
+      "authorId": "2091705980",
+      "name": "R. Inamasu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

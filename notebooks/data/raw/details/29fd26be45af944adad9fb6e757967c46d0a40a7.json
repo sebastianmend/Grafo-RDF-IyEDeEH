@@ -1,0 +1,43 @@
+{
+  "paperId": "29fd26be45af944adad9fb6e757967c46d0a40a7",
+  "externalIds": {
+    "MAG": "2120202249",
+    "DBLP": "journals/spm/MinerviniST15",
+    "DOI": "10.1109/MSP.2015.2405111",
+    "CorpusId": 13495859
+  },
+  "url": "https://www.semanticscholar.org/paper/29fd26be45af944adad9fb6e757967c46d0a40a7",
+  "title": "Image Analysis: The New Bottleneck in Plant Phenotyping [Applications Corner]",
+  "venue": "IEEE Signal Processing Magazine",
+  "year": 2015,
+  "citationCount": 228,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.pure.ed.ac.uk/ws/files/22078988/Image_Analysis_The_New_Bottleneck_in_Plant_Phenotyping.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MSP.2015.2405111?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MSP.2015.2405111, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50233316",
+      "name": "M. Minervini"
+    },
+    {
+      "authorId": "1725647",
+      "name": "H. Scharr"
+    },
+    {
+      "authorId": "1919157",
+      "name": "S. Tsaftaris"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

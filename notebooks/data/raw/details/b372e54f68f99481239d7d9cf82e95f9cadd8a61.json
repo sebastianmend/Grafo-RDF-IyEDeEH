@@ -1,0 +1,50 @@
+{
+  "paperId": "b372e54f68f99481239d7d9cf82e95f9cadd8a61",
+  "externalIds": {
+    "MAG": "2116277900",
+    "DOI": "10.25165/IJABE.V6I3.900",
+    "CorpusId": 13677575
+  },
+  "url": "https://www.semanticscholar.org/paper/b372e54f68f99481239d7d9cf82e95f9cadd8a61",
+  "title": "Development and prospect of unmanned aerial vehicle technologies for agricultural production management",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 229,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25165/IJABE.V6I3.900?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/IJABE.V6I3.900, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1793884",
+      "name": "Yanbo Huang"
+    },
+    {
+      "authorId": "35130222",
+      "name": "S. Thomson"
+    },
+    {
+      "authorId": "144587560",
+      "name": "W. C. Hoffmann"
+    },
+    {
+      "authorId": "27388096",
+      "name": "Y. Lan"
+    },
+    {
+      "authorId": "3469830",
+      "name": "B. Fritz"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

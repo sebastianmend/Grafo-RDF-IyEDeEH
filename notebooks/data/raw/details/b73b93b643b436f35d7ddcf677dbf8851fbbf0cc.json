@@ -1,0 +1,104 @@
+{
+  "paperId": "b73b93b643b436f35d7ddcf677dbf8851fbbf0cc",
+  "externalIds": {
+    "PubMedCentral": "3376617",
+    "DBLP": "journals/sensors/HanH012",
+    "MAG": "2038533034",
+    "DOI": "10.3390/s120303118",
+    "CorpusId": 2941792,
+    "PubMed": "22736996"
+  },
+  "url": "https://www.semanticscholar.org/paper/b73b93b643b436f35d7ddcf677dbf8851fbbf0cc",
+  "title": "Feasibility Study on a Portable Field Pest Classification System Design Based on DSP and 3G Wireless Communication Technology",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2012,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/12/3/3118/pdf?version=1403317233",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3376617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2151222438",
+      "name": "Ruizhen Han"
+    },
+    {
+      "authorId": "87689783",
+      "name": "Yong He"
+    },
+    {
+      "authorId": "50207705",
+      "name": "Fei Liu"
+    }
+  ],
+  "abstract": "This paper presents a feasibility study on a real-time in field pest classification system design based on Blackfin DSP and 3G wireless communication technology. This prototype system is composed of remote on-line classification platform (ROCP), which uses a digital signal processor (DSP) as a core CPU, and a host control platform (HCP). The ROCP is in charge of acquiring the pest image, extracting image features and detecting the class of pest using an Artificial Neural Network (ANN) classifier. It sends the image data, which is encoded using JPEG 2000 in DSP, to the HCP through the 3G network at the same time for further identification. The image transmission and communication are accomplished using 3G technology. Our system transmits the data via a commercial base station. The system can work properly based on the effective coverage of base stations, no matter the distance from the ROCP to the HCP. In the HCP, the image data is decoded and the pest image displayed in real-time for further identification. Authentication and performance tests of the prototype system were conducted. The authentication test showed that the image data were transmitted correctly. Based on the performance test results on six classes of pests, the average accuracy is 82%. Considering the different live pests’ pose and different field lighting conditions, the result is satisfactory. The proposed technique is well suited for implementation in field pest classification on-line for precision agriculture.",
+  "references": [
+    {
+      "paperId": "5c01e420092d717d1be1dac56b0182ae813afa79"
+    },
+    {
+      "paperId": "1240d9010c1eb82a013cb825c8c1efab82162ff2"
+    },
+    {
+      "paperId": "4c1c90c1e64236e684bbddd95f91a69535f26745"
+    },
+    {
+      "paperId": "da24419dcbc837782d704511552f085b9069983d"
+    },
+    {
+      "paperId": "14f93f35921b4d31392597b174a0afaa1c87e5a0"
+    },
+    {
+      "paperId": "b21f1c4372689b2cce7c1984149ce5c557e8d258"
+    },
+    {
+      "paperId": "ec8697ba5f1d530e8450b36a91f57d278d037b0f"
+    },
+    {
+      "paperId": "f72e593f9b8819347c4038fe52553ac0c73b6cb1"
+    },
+    {
+      "paperId": "1323edcffa318087676b72c8123200c129258e17"
+    },
+    {
+      "paperId": "5b1160f565fffa7adeed7bb34ce34bebaf305190"
+    },
+    {
+      "paperId": "1c6d4081ea1e1c13afabdc9870e6e27d75facaa0"
+    },
+    {
+      "paperId": "90d7aa2a54923eabd42525cc6cbca1757a57da0f"
+    },
+    {
+      "paperId": "4fb536b5688dfaa04037928f6e28884ac7be7f7e"
+    },
+    {
+      "paperId": "47add39f09a5e54f1f7d143ea09c4793f315e115"
+    },
+    {
+      "paperId": "48a0d5f8787356f827adc4418b68c1aac205796c"
+    },
+    {
+      "paperId": "be7596e4d02e447b55910da415f699952804e821"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

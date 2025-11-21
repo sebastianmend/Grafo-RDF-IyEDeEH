@@ -1,0 +1,49 @@
+{
+  "paperId": "3bb5f834d46f171175475842f826f0639d3ad846",
+  "externalIds": {
+    "DBLP": "conf/iccsa/ModicaPPF14",
+    "MAG": "68994500",
+    "DOI": "10.1007/978-3-319-09147-1_35",
+    "CorpusId": 10250371
+  },
+  "url": "https://www.semanticscholar.org/paper/3bb5f834d46f171175475842f826f0639d3ad846",
+  "title": "Geomatics in Analysing the Evolution of Agricultural Terraced Landscapes",
+  "venue": "Communication Systems and Applications",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-09147-1_35?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-09147-1_35, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152879064",
+      "name": "G. Modica"
+    },
+    {
+      "authorId": "1924199",
+      "name": "S. Praticò"
+    },
+    {
+      "authorId": "1849709",
+      "name": "M. Pollino"
+    },
+    {
+      "authorId": "2058747847",
+      "name": "S. D. Fazio"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

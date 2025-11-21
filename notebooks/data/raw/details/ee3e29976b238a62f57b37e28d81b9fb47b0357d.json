@@ -1,0 +1,40 @@
+{
+  "paperId": "ee3e29976b238a62f57b37e28d81b9fb47b0357d",
+  "externalIds": {
+    "DBLP": "conf/cason/CaiM10",
+    "MAG": "2023985561",
+    "DOI": "10.1109/CASoN.2010.16",
+    "CorpusId": 16467832
+  },
+  "url": "https://www.semanticscholar.org/paper/ee3e29976b238a62f57b37e28d81b9fb47b0357d",
+  "title": "Intelligent Operation Parameters Optimization for Screw Conveyor Based on PSO",
+  "venue": "2010 International Conference on Computational Aspects of Social Networks",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CASoN.2010.16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CASoN.2010.16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2578012",
+      "name": "Jianghui Cai"
+    },
+    {
+      "authorId": "2210925",
+      "name": "W. Meng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

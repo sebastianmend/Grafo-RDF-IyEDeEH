@@ -1,0 +1,38 @@
+{
+  "paperId": "203c6f11d434ffee0209ce2b75318e995fb4b952",
+  "externalIds": {
+    "MAG": "2591331028",
+    "DOI": "10.17660/ACTAHORTIC.2011.913.83",
+    "CorpusId": 133366528
+  },
+  "url": "https://www.semanticscholar.org/paper/203c6f11d434ffee0209ce2b75318e995fb4b952",
+  "title": "SPATIAL DISTRIBUTION OF QUALITATIVE CHARACTERISTICS AND PRODUCTION FACTORS OF KIWIFRUIT AT \"BEIRA LITORAL\", PORTUGAL",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.17660/ACTAHORTIC.2011.913.83?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17660/ACTAHORTIC.2011.913.83, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15778744",
+      "name": "T. Panagopoulos"
+    },
+    {
+      "authorId": "143825300",
+      "name": "M. D. C. Antunes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

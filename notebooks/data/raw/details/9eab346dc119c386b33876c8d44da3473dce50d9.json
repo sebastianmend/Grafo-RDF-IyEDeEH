@@ -1,0 +1,122 @@
+{
+  "paperId": "9eab346dc119c386b33876c8d44da3473dce50d9",
+  "externalIds": {
+    "MAG": "2552310893",
+    "DBLP": "conf/ifip12/AnWDGM15",
+    "DOI": "10.1007/978-3-319-48354-2_12",
+    "CorpusId": 39372503
+  },
+  "url": "https://www.semanticscholar.org/paper/9eab346dc119c386b33876c8d44da3473dce50d9",
+  "title": "Study on the Prediction Model Based on a Portable Soil TN Detector",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01614165/file/434298_1_En_12_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "92330396",
+      "name": "Xiaofei An"
+    },
+    {
+      "authorId": "49553451",
+      "name": "Guangwei Wu"
+    },
+    {
+      "authorId": "47946389",
+      "name": "Jianjun Dong"
+    },
+    {
+      "authorId": "2218911065",
+      "name": "Jianhua Guo"
+    },
+    {
+      "authorId": "1706713",
+      "name": "Zhijun Meng"
+    }
+  ],
+  "abstract": "As the development of precision agriculture, it is necessary to obtain soil total nitrogen (TN) content and other element parameters. With the NIRS technology, a soil detector for soil total nitrogen content was developed. It included two part: optical part and control part. The detector took each lamp-house connected with the incidence of Y type optical fiber in turn by a manual rotation, The different wavelength lamp-house signal was transferred to the surface of soil by the input fibre. The reflected signal would be converted by photoelectric sensor, the optical signal was converted to electrical signal. After the power circuit, amplier circuit, and AD convert circuit, the electrical signal was processed by MCU. Finally, the result of soil total nitrogen content could be displayed on LCD. With the forty-eight apple orchard soil samples of Beijing surburb, the predicted models were established by seven different methods (MLR, PLSR, SVM, BPNN, GA + BPNN, GA + SVM and PSO + SVM). The model established by genetic algorithm (GA) optimizing BP neural network was optimal, with RC of 0.94, RV of 0.78, RMSEC and RMSEP of 0.037 and 0.067. The results showed that the soil total nitrogen content detector had a stable performance. The established model had perfect accuracy and strong robustness.",
+  "references": [
+    {
+      "paperId": "0cffef059231624b39a2003a61ce16f0f0bcca89"
+    },
+    {
+      "paperId": "be4a117f2b0ec0eb05ae5b96fe39f27503b95515"
+    },
+    {
+      "paperId": "88beb06e45520ec19d96b557cf8167276b86e02d"
+    },
+    {
+      "paperId": "5a199085dfb16dfb0c230622fadf61f94e298ef6"
+    },
+    {
+      "paperId": "9389872958c4d84eaf0e3a115e1ed58a46b04487"
+    },
+    {
+      "paperId": "b35a875a87417b417c3557d101eea8e9df976eee"
+    },
+    {
+      "paperId": "842da953415e60310d77bec887acf52eff811011"
+    },
+    {
+      "paperId": "50fda01622798ffc2b856eb8bc28aabb2070fc0a"
+    },
+    {
+      "paperId": "785e3aab76e253fa9d6ba1528079fa3f7bb8a522"
+    },
+    {
+      "paperId": "e6900bd1e327343eea915c2edc87fa9331fd7b27"
+    },
+    {
+      "paperId": "767fd5b5d884ccbf92906739bc10afa1ac71d15c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c044ea5bc9cf56d93fbcec5cff08241ee5e70fa7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8d93a3a3bd2abc5bcc7d0c2d2fe1fe2e8a3ca4c9"
+    },
+    {
+      "paperId": "e01d1ecaeaa069392de1d4c60a75d43ba0658ce8"
+    },
+    {
+      "paperId": "231b8a74ccfe9be101e5695cf2a7044e249daa35"
+    },
+    {
+      "paperId": "4ae22b088c0329de0a10393ce3f22206f636f503"
+    },
+    {
+      "paperId": "f66d0eee1a101a866f0ca288caad0620f3aa0e2c"
+    },
+    {
+      "paperId": "8c611de5cc25f12d1eb49ae74f64df2a602215c1"
+    },
+    {
+      "paperId": "c04f42e41a25b2d80718bc86696612f75e079624"
+    },
+    {
+      "paperId": "0315f621c3fde81be2fd04dbd7ec78804c3df072"
+    }
+  ]
+}

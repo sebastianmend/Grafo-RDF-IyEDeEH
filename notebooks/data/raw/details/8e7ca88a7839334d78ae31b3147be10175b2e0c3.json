@@ -1,0 +1,42 @@
+{
+  "paperId": "8e7ca88a7839334d78ae31b3147be10175b2e0c3",
+  "externalIds": {
+    "MAG": "2157147311",
+    "DOI": "10.5815/IJIGSP.2014.02.03",
+    "CorpusId": 15767274
+  },
+  "url": "https://www.semanticscholar.org/paper/8e7ca88a7839334d78ae31b3147be10175b2e0c3",
+  "title": "Improving the mri tumor segmentation process using appropriate image processing techniques",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5815/ijigsp.2014.02.03",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5815/IJIGSP.2014.02.03?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5815/IJIGSP.2014.02.03, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1409080424",
+      "name": "A. Al-Othman"
+    },
+    {
+      "authorId": "1402538139",
+      "name": "Z. Al-Ameen"
+    },
+    {
+      "authorId": "2529988",
+      "name": "G. Sulong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

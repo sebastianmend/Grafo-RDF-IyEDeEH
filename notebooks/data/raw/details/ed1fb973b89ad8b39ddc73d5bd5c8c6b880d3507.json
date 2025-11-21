@@ -1,0 +1,89 @@
+{
+  "paperId": "ed1fb973b89ad8b39ddc73d5bd5c8c6b880d3507",
+  "externalIds": {
+    "MAG": "787836962",
+    "DOI": "10.56093/ijas.v85i7.50124",
+    "CorpusId": 83245670
+  },
+  "url": "https://www.semanticscholar.org/paper/ed1fb973b89ad8b39ddc73d5bd5c8c6b880d3507",
+  "title": "Precision nutrient and conservation agriculture practices for enhancing productivity, profitability, nutrient-use efficiencies and soil nutrient status of maize (Zea mays) hybrids",
+  "venue": "Indian Journal of Agricultural Sciences",
+  "year": 2015,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://epubs.icar.org.in/index.php/IJAgS/article/download/50124/21412",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56093/ijas.v85i7.50124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56093/ijas.v85i7.50124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2218268598",
+      "name": "V. Kumar"
+    },
+    {
+      "authorId": "48775708",
+      "name": "A. Singh"
+    },
+    {
+      "authorId": "31910886",
+      "name": "S. L. Jat"
+    },
+    {
+      "authorId": "51109105",
+      "name": "C. M. Parihar"
+    },
+    {
+      "authorId": "152605866",
+      "name": "V. Pooniya"
+    },
+    {
+      "authorId": "3381529",
+      "name": "B. Singh"
+    },
+    {
+      "authorId": "2206611713",
+      "name": "S. Sharma"
+    }
+  ],
+  "abstract": "A field experiment was conducted at New Delhi during kharif season to study the effect of precision nutrient and conservation agriculture practices for enhancing productivity, profitability, nutrient-use efficiencies and soil nutrient status of maize (Zea mays L) hybrids. Using nutrient expert system based site-specific nutrient management (SSNM) practices higher dose of K and N while lower dose of P were estimated for hybrid maize over recommended dose of fertilizers (RDF). Data of the previous crop, target yield, residue management and soil nutrient status were entered in the nutrient expert system. The significant interaction of SSNM and hybrids showed that hybrid PMH 3 along with site specific nutrient management (SSNM) produced significantly higher grain yield under conservation agriculture. The SSNM practice gave 14.7% higher grain yield (5 491 kg/ha) over RDF (4 182 kg/ha). Significantly higher gross return, net return (Rupees 41 137) and B:C ratio (1.57) was obtained with SSNM and the net returns of the maize were improved by rupees 7 856/ha by SSNM over RDF. Amongst genotypes, PMH 3 produced significantly higher gross, net return and B:C ratio over HQPM 1, however, it remained at par with PMH 1, S 6217 and CMH 08-292. Significantly higher partial factor productivity of applied N, P and K was obtained with 50% RDF while it remained at par for applied P by SSNM. Significantly highest agronomic efficiency of applied N and P was obtained with SSNM while for applied K it was significantly highest with 50% RDF. Initially before crop sowing, significantly highest organic carbon in soil was in 100% RDF plots. However, significantly higher organic carbon build up was obtained with SSNM which remained at par with 100% RDF, after crop harvest. In SSNM plots, significantly higher ammonical nitrogen and potassium was observed after maize harvest.",
+  "references": [
+    {
+      "paperId": "3738cbdf7da2d065900516bc8ffa18bdcdf38a38"
+    },
+    {
+      "paperId": "eecb5d669b581f6c0bfdabc3da678a709e624a7f"
+    },
+    {
+      "paperId": "aa0158439e68f8bdca2180fd91782b78f0ab8da2"
+    },
+    {
+      "paperId": "cd8b96b11783945d988663c5f59106e6534b0dbc"
+    },
+    {
+      "paperId": "2b1b0dd8922c0378ec4b82ae58fc53edddfbede2"
+    },
+    {
+      "paperId": "3bccfa76cc2dc0d00f29af50678a3711a1ca96ae"
+    },
+    {
+      "paperId": "acff934637d4265798089aaef8b3fca67777985b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bb0d80afe9e41d7bda810c06e7e40840fce32225"
+    },
+    {
+      "paperId": "29e178af63bac68d5b16d78426b530b5ebdea874"
+    }
+  ]
+}

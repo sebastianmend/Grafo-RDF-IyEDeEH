@@ -1,0 +1,46 @@
+{
+  "paperId": "fae55d035bd11ec4549f1a2b5eb65fcb50c3736f",
+  "externalIds": {
+    "MAG": "197450044",
+    "CorpusId": 35182915,
+    "PubMed": "22720615"
+  },
+  "url": "https://www.semanticscholar.org/paper/fae55d035bd11ec4549f1a2b5eb65fcb50c3736f",
+  "title": "[Monitoring and simulation of soil electrical conductivity based on the hyperspectral parameters of cotton (Gossypium hirsutum) functional leaves].",
+  "venue": "Ying yong sheng tai xue bao = The journal of applied ecology",
+  "year": 2012,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2152830295",
+      "name": "Lei Zhang"
+    },
+    {
+      "authorId": "2113728857",
+      "name": "Ming-xing Tang"
+    },
+    {
+      "authorId": "2116628668",
+      "name": "Guo-wei Zhang"
+    },
+    {
+      "authorId": "48741477",
+      "name": "Zhiguo Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

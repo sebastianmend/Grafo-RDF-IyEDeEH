@@ -1,0 +1,178 @@
+{
+  "paperId": "36f000ea1aac3b548a09e57ea6cf73929a5c9e1a",
+  "externalIds": {
+    "PubMedCentral": "3821358",
+    "MAG": "2009476132",
+    "DBLP": "journals/sensors/PajaresPS13",
+    "DOI": "10.3390/s130912132",
+    "CorpusId": 9398661,
+    "PubMed": "24025558"
+  },
+  "url": "https://www.semanticscholar.org/paper/36f000ea1aac3b548a09e57ea6cf73929a5c9e1a",
+  "title": "Sensors in Agriculture and Forestry",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2013,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/13/9/12132/pdf?version=1403334304",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3821358, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Editorial"
+  ],
+  "authors": [
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    },
+    {
+      "authorId": "38439598",
+      "name": "A. Peruzzi"
+    },
+    {
+      "authorId": "9370715",
+      "name": "P. Santos"
+    }
+  ],
+  "abstract": "Agriculture and Forestry are two broad and promising areas demanding technological solutions with the aim of increasing production or accurate inventories for sustainability while the environmental impact is minimized by reducing the application of agro-chemicals and increasing the use of environmental friendly agronomical practices. In addition, the immediate consequence of this “trend” is the reduction of production costs. Sensors-based technologies provide appropriate tools to achieve the above mentioned goals. The explosive technological advances and development in recent years enormously facilitates the attainment of these objectives removing many barriers for their implementation, including the reservations expressed by the farmers themselves. Precision Agriculture is an emerging area where sensor-based technologies play an important role. Farmers, researchers and technical manufacturers, all together are joining their efforts to find efficient solutions, improvements in production and reductions in costs. The dissemination of results through scientific publications and international events, among which Sensors is a clear example, contributes significantly to this effort. This is the second special issue published in Sensors for the same topic (Agriculture and Forestry) with important contributions; some of them coming from the First International Conference on Robotics and associated High-technologies and Equipment (www.rhea-conference.eu/2012), emphasizing how much sensitivity and coverage Sensors offer for technological advancement in these areas.",
+  "references": [
+    {
+      "paperId": "9d3911855b6882dd6553eb5028b688fbd753920f"
+    },
+    {
+      "paperId": "3bada2ba87a4bba9940df28590b3b62213022418"
+    },
+    {
+      "paperId": "f3e401bf0d8d488ab0f809514d3a9c7c6b353abf"
+    },
+    {
+      "paperId": "30d49ba2992fd1e8617921d2947d1e737bfcc01f"
+    },
+    {
+      "paperId": "c7fd72cf5c24a6c55f915bacbe558ad65668eb82"
+    },
+    {
+      "paperId": "eac8318715a6610d2f3f976a530ecbb0b010e7b8"
+    },
+    {
+      "paperId": "04dae9b2384b92918c4d49f435e7d97d1b840442"
+    },
+    {
+      "paperId": "ba50d124e775a670805854765aa23d743e137815"
+    },
+    {
+      "paperId": "cd1ee02d5bcd53897bec2e494794d98067cd11d1"
+    },
+    {
+      "paperId": "9bb0fc924cfdaf30e08ec7474eda94d8fa529f76"
+    },
+    {
+      "paperId": "2ba13fdf159a374829547ad7c17d120934440854"
+    },
+    {
+      "paperId": "3677e40cda2f6f27f1ea3c5dd718dd38374b8cd7"
+    },
+    {
+      "paperId": "885152b55202e18ea4158f65a69970bd7a1f730a"
+    },
+    {
+      "paperId": "0240c137b9247bce5f973e40b18762d317f960b3"
+    },
+    {
+      "paperId": "fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c"
+    },
+    {
+      "paperId": "621793e7948ef73f595a121e3b8127c462e880e0"
+    },
+    {
+      "paperId": "2fbccc9029395ab081a5b9f2e4421244d3d8af19"
+    },
+    {
+      "paperId": "95f87cda5d75341c69b2d247859fd7971074f1c0"
+    },
+    {
+      "paperId": "2da7989da98730fe9b06ff4f15f36955c1f80cf4"
+    },
+    {
+      "paperId": "db393dade816644c0890cb542cd6aea4afb7817e"
+    },
+    {
+      "paperId": "e176c0a8f1ff65c81ca88573d6e6ea243fc98fbf"
+    },
+    {
+      "paperId": "0b8ee1933e99ba2c01b7f7c38e84222b0ebc597b"
+    },
+    {
+      "paperId": "a14794169f5b1e41ff1b79b1560b4f150a60714e"
+    },
+    {
+      "paperId": "b0b8c61c97c07a2702eee1761c3141a1c8e2bb64"
+    },
+    {
+      "paperId": "fb7175cd966ae3e5a3dcdb2c2074966337e138c2"
+    },
+    {
+      "paperId": "ef279ec211d7a2645728bc224c17c3de964e9696"
+    },
+    {
+      "paperId": "a848e3e90bed29e3a3d472ae93ab118f8ab9bb49"
+    },
+    {
+      "paperId": "98a3635d14a0f05fd1207c7c0ad840e60d35ad41"
+    },
+    {
+      "paperId": "0476d5437e0abf7927c80d4e2ef25143dbf9b907"
+    },
+    {
+      "paperId": "5813e1a62fcacb5f9b70c333e50fa380ae36f4b6"
+    },
+    {
+      "paperId": "f4089716e5524e6b00bb413d96d8667faf97079c"
+    },
+    {
+      "paperId": "5f5b02374c7da07e2421bf45278413def7b9ae21"
+    },
+    {
+      "paperId": "7b06dea9fb5d060dc9ae8fbca0ff2c66e62f1a0f"
+    },
+    {
+      "paperId": "39db3f8e93ea42c4c8019097aacd42377db78b24"
+    },
+    {
+      "paperId": "fbdcbf2c99af1961f37b433c70aa1d16cf819621"
+    },
+    {
+      "paperId": "751b52701dba9a84b6afe0307f3c201ac2f50ed2"
+    },
+    {
+      "paperId": "8196d3a9201f8007e355828b8b7caab5e6d72fed"
+    },
+    {
+      "paperId": "67708c9c4f79175bb3e149112c65d81a318a0a6b"
+    },
+    {
+      "paperId": "48cbb02e8371a7ed1f48137b2ddfa32469eacd12"
+    },
+    {
+      "paperId": "6d626ed04348021419398efa03e9263127cd379e"
+    },
+    {
+      "paperId": "4363d5332b8197a03cc514704eb2e3319d8809b3"
+    },
+    {
+      "paperId": "adb574ab43abf5c452d3bd15a811543b6984ebf5"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

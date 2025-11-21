@@ -1,0 +1,42 @@
+{
+  "paperId": "298b9deadef1f7cf6b39e1588060a2693a035dd7",
+  "externalIds": {
+    "MAG": "2088828204",
+    "DOI": "10.4028/www.scientific.net/AMM.333-335.492",
+    "CorpusId": 110298429
+  },
+  "url": "https://www.semanticscholar.org/paper/298b9deadef1f7cf6b39e1588060a2693a035dd7",
+  "title": "Study on the Position Drift of GPS Single Point and Improving the Accuracy of Positioning",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4028/www.scientific.net/AMM.333-335.492?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4028/www.scientific.net/AMM.333-335.492, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2067808978",
+      "name": "Fei Yan"
+    },
+    {
+      "authorId": "16146992",
+      "name": "Yin-xi Gong"
+    },
+    {
+      "authorId": "2113906949",
+      "name": "Zhong-ke Feng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

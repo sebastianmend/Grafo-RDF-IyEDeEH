@@ -1,0 +1,38 @@
+{
+  "paperId": "1dff9976fb4e0860290640da4f3ebd236f945f8e",
+  "externalIds": {
+    "MAG": "1977348464",
+    "DOI": "10.1109/COMPSC.2014.7032632",
+    "CorpusId": 17724117
+  },
+  "url": "https://www.semanticscholar.org/paper/1dff9976fb4e0860290640da4f3ebd236f945f8e",
+  "title": "WSN technologies for low data rate and power constrained applications",
+  "venue": "IEEE International Conference on Circuits and Systems for Communications",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPSC.2014.7032632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPSC.2014.7032632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "32195017",
+      "name": "George Eldho John"
+    },
+    {
+      "authorId": "40012044",
+      "name": "Joaquim Ignatious Monteiro"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

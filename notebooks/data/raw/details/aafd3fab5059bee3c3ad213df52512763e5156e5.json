@@ -1,0 +1,50 @@
+{
+  "paperId": "aafd3fab5059bee3c3ad213df52512763e5156e5",
+  "externalIds": {
+    "MAG": "1937290727",
+    "DOI": "10.1109/SUSTECH.2015.7314326",
+    "CorpusId": 27243025
+  },
+  "url": "https://www.semanticscholar.org/paper/aafd3fab5059bee3c3ad213df52512763e5156e5",
+  "title": "Development of unmanned aerial systems for use in precision agriculture: The AggieAir experience",
+  "venue": "IEEE Conference on Technologies for Sustainability",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SUSTECH.2015.7314326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SUSTECH.2015.7314326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1401923045",
+      "name": "Alfonso F. Torres-Rua"
+    },
+    {
+      "authorId": "2103397333",
+      "name": "Manal Al Arab"
+    },
+    {
+      "authorId": "1405178764",
+      "name": "Leila Hassan-Esfahani"
+    },
+    {
+      "authorId": "18152960",
+      "name": "A. Jensen"
+    },
+    {
+      "authorId": "38543517",
+      "name": "M. McKee"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

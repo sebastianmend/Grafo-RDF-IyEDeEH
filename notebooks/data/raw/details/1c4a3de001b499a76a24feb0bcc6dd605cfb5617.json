@@ -1,0 +1,176 @@
+{
+  "paperId": "1c4a3de001b499a76a24feb0bcc6dd605cfb5617",
+  "externalIds": {
+    "MAG": "1501926153",
+    "DOI": "10.5772/24242",
+    "CorpusId": 31792737
+  },
+  "url": "https://www.semanticscholar.org/paper/1c4a3de001b499a76a24feb0bcc6dd605cfb5617",
+  "title": "Ximenia americana: Chemistry, Pharmacology and Biological Properties, a Review",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.intechopen.com/citation-pdf-url/32955",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/24242?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/24242, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87770680",
+      "name": "F. Monte"
+    },
+    {
+      "authorId": "1400557571",
+      "name": "T. G. Lemos"
+    },
+    {
+      "authorId": "120672453",
+      "name": "Mônica Regina Silva de Araújo"
+    },
+    {
+      "authorId": "2086738868",
+      "name": "E. D. S. Gomes"
+    }
+  ],
+  "abstract": "The use of plants as medicinal agents to the treat of many diseases has been investigated for a long time since the antique civilizations. Several plants are used in traditional medicine against inflammatory diseases as well as various types of tumors on the base the potential of their chemical constituents. Although many compounds are extremely toxic, when we have the relation between the toxicity of a compound and its chemical pattern of substitution that can result in a more in-depth understanding of these compounds (Atta-ur-Rahman, 2005). Today, even after more than 200 years, the chemistry of natural products remains a challenge and an important field of research in several science areas (chemistry, biology, medicine, agronomy, botany and pharmacy). The reasons for it’s large use are the considerable pharmacological potential observed in natural products, in the great development in the process of detection, isolation, purification and, especially, the advances in spectrometric techniques [infrared (IR), mass spectrometry (MS) and nuclear magnetic resonance (NMR 1H and 13C) for structural elucidation of new and complex compounds. These advances were outstanding in both NMR and MS spectrometry. The NMR allows the complete 1H and 13C NMR spectral assignments (chemical shifts and coupling constants) which serve to build a data base to support computer assisted structure elucidation. These data are also useful in the fuller understanding of the correlations between molecular conformation and biological activity of natural substances with biological importance (Loganathan et al., 1990). Mass spectrometry has a huge application in chemistry, biochemistry, medicine, pharmacology, agriculture and food science. Although the mass spectrometric ionization techniques EI (electron impact) and CI (chemical ionization) required the analyte molecules to be present in the gas phase and were thus suitable only for volatile compounds, the development of several desorption ionization methods [FD (field desorption), FABMS (fast atom bombardment), ESIMS (electrospray), MALDI-MS (matrix assisted laser desorption ionization)] allowed the hight-precision mass spectrometric analysis of different classes of biomolecules.",
+  "references": [
+    {
+      "paperId": "7d68a8886a890f5ea48d0637c99239df0a0b239c"
+    },
+    {
+      "paperId": "a66689ebb2d985414f90b88d0f5f52f8ede1e45a"
+    },
+    {
+      "paperId": "b3f067b5acfeaf53b358c400d532da3b510f59f8"
+    },
+    {
+      "paperId": "7f67db95cf0544315076233c8ad76e31f026d7ee"
+    },
+    {
+      "paperId": "f0ae3bbf88b30bf3dd9301f452566b4c49ea2885"
+    },
+    {
+      "paperId": "c83870fa83c8a9b6bb19cca4406e7cd7e046e13b"
+    },
+    {
+      "paperId": "06d3d923af3973fea79e15bf82f51fe790a98f7d"
+    },
+    {
+      "paperId": "166af1f20d18b93c99d863c0a88e01310ea0f5bb"
+    },
+    {
+      "paperId": "7bee4b69bc6f9d00478849c73b9b4ef5717de0a1"
+    },
+    {
+      "paperId": "fd295a5163954524a1f904cab2b913ee51800e87"
+    },
+    {
+      "paperId": "bfdc83d5bdcc6e5fbb0a1c36965c778ddc70aa1c"
+    },
+    {
+      "paperId": "ade927d0039acedabf4f6b867dd0f1f1996be68c"
+    },
+    {
+      "paperId": "dd127df42e466661401ce12b7978d0442667ff62"
+    },
+    {
+      "paperId": "d595c2042cfde04dc83af4c283bbbd16e6f3ff72"
+    },
+    {
+      "paperId": "1ff33f81fac6e5f5e4ff733bf6dafcfa833482a0"
+    },
+    {
+      "paperId": "311d2d4666daca2e6c67709af55b2caba46d04f7"
+    },
+    {
+      "paperId": "1fee491979ac0ecbc1e122b4e6d3ab71e2be79d1"
+    },
+    {
+      "paperId": "ae0f6d959782bba6669fd5d6aa6112de99e64579"
+    },
+    {
+      "paperId": "719389cd2bb88fa0a757757cec7b69f4ff2fa8cc"
+    },
+    {
+      "paperId": "92e8a29dfd094790c7c4038e3d5a533eb6b05d68"
+    },
+    {
+      "paperId": "feee80482b48befcab34d6fe4a9df5bf5b0ee49d"
+    },
+    {
+      "paperId": "c0df1f64dffc1f67d77bc72715f959ab0db61dcb"
+    },
+    {
+      "paperId": "166ad1cd5377889141643a87df2a7732b8f88060"
+    },
+    {
+      "paperId": "b528cd0764fd2ea675fe666a6a2e754573e03b84"
+    },
+    {
+      "paperId": "63c3899591983717b0e707d7f358b246a4c96363"
+    },
+    {
+      "paperId": "ebcbe3ad19b250112c9645f20bc0c597945ca3a6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a6e16acb491041763f1fb10f4493460b1adc7550"
+    },
+    {
+      "paperId": "d716dfd2b813cea6541ba62ac9c96f78cbe08a20"
+    },
+    {
+      "paperId": "77c5a67902db8c1ce2afd0bbf4f7cf9420fc6cef"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "979dfd8c8585507a670f871360e740567f91dcdd"
+    },
+    {
+      "paperId": "6988a2b3997275e62306a19cf0425a8921e20f68"
+    },
+    {
+      "paperId": "bf7227e35a1a2a3966c0407a8b81edec76c2c4b6"
+    },
+    {
+      "paperId": "27f2affe5df5c013e159f8d80792e827ddb92b6d"
+    },
+    {
+      "paperId": "580cd5b403e41d06dcca0eed6437e498803bdbe8"
+    },
+    {
+      "paperId": "ed2c7ba8e28079778dff31c51ada31bcd071a8df"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "078c6b3c45829ef569223490e9cdc4666a3008c1"
+    },
+    {
+      "paperId": "35aa4f64b5bc03cd7db2b674af1b3a8bcce3a583"
+    }
+  ]
+}

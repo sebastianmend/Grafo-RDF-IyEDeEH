@@ -1,0 +1,46 @@
+{
+  "paperId": "87a93adcb26729c35ed77ac93315fd0be9acf517",
+  "externalIds": {
+    "MAG": "1976543698",
+    "DOI": "10.1080/00103624.2012.666300",
+    "CorpusId": 93035123
+  },
+  "url": "https://www.semanticscholar.org/paper/87a93adcb26729c35ed77ac93315fd0be9acf517",
+  "title": "Field and Laboratory Evaluation of the Cardy Nitrate-Nitrogen Meter for Measuring Soil Solution Nitrate Nitrogen in Hawaiian Soils",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00103624.2012.666300?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00103624.2012.666300, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "91981911",
+      "name": "Rebecca S. Mitschele"
+    },
+    {
+      "authorId": "90624513",
+      "name": "T. Radovich"
+    },
+    {
+      "authorId": "144385240",
+      "name": "A. Fares"
+    },
+    {
+      "authorId": "12789644",
+      "name": "Amjad A. Ahmad"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

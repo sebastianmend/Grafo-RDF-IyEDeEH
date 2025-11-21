@@ -1,0 +1,76 @@
+{
+  "paperId": "4232a168d4f68d1ab73d8305d180bbc871414e5d",
+  "externalIds": {
+    "MAG": "2371338195",
+    "DOI": "10.4268/cjcmm20140701",
+    "CorpusId": 1760083,
+    "PubMed": "25011244"
+  },
+  "url": "https://www.semanticscholar.org/paper/4232a168d4f68d1ab73d8305d180bbc871414e5d",
+  "title": "[Good agricultural practice (GAP) of Chinese materia medica (CMM) for ten years: achievements, problems and proposals].",
+  "venue": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+  "year": 2014,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4268/cjcmm20140701?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4268/cjcmm20140701, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34568816",
+      "name": "Lan-Ping Guo"
+    },
+    {
+      "authorId": "2152819203",
+      "name": "Yan Zhang"
+    },
+    {
+      "authorId": "12555096",
+      "name": "Shou-dong Zhu"
+    },
+    {
+      "authorId": "12265351",
+      "name": "Guiyin Wang"
+    },
+    {
+      "authorId": "2118419592",
+      "name": "Xiu-ping Wang"
+    },
+    {
+      "authorId": "2108066024",
+      "name": "Xiao-Bo Zhang"
+    },
+    {
+      "authorId": "2108607157",
+      "name": "Mei-lan Chen"
+    },
+    {
+      "authorId": "1717212",
+      "name": "Ya-Li He"
+    },
+    {
+      "authorId": "2469149",
+      "name": "B. Han"
+    },
+    {
+      "authorId": "2104568348",
+      "name": "N. Chen"
+    },
+    {
+      "authorId": "2111131062",
+      "name": "Lu‐qi Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,58 @@
+{
+  "paperId": "b776f443afc8228a92c1a952df32d9badd86a5c3",
+  "externalIds": {
+    "MAG": "2370216867",
+    "CorpusId": 24393169,
+    "PubMed": "22097817"
+  },
+  "url": "https://www.semanticscholar.org/paper/b776f443afc8228a92c1a952df32d9badd86a5c3",
+  "title": "[FTIR microspectroscopy and its progress in application].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "121856954",
+      "name": "Xiao-ting Li"
+    },
+    {
+      "authorId": "2229989",
+      "name": "Dazhou Zhu"
+    },
+    {
+      "authorId": "2023001",
+      "name": "Ligang Pan"
+    },
+    {
+      "authorId": "2480264",
+      "name": "Zhi-hong Ma"
+    },
+    {
+      "authorId": "153252912",
+      "name": "An-xiang Lu"
+    },
+    {
+      "authorId": "2152687284",
+      "name": "Dong Wang"
+    },
+    {
+      "authorId": "2109655559",
+      "name": "Ji‐Hua Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

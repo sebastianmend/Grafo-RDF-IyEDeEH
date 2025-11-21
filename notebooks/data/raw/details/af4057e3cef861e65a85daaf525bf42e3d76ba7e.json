@@ -1,0 +1,40 @@
+{
+  "paperId": "af4057e3cef861e65a85daaf525bf42e3d76ba7e",
+  "externalIds": {
+    "MAG": "1577467495",
+    "DBLP": "conf/ifip12/CuiL10",
+    "DOI": "10.1007/978-3-642-18336-2_82",
+    "CorpusId": 11605425
+  },
+  "url": "https://www.semanticscholar.org/paper/af4057e3cef861e65a85daaf525bf42e3d76ba7e",
+  "title": "Study on the Differences of Village-Level Spatial Variability of Agricultural Soil Available K in the Typical Black Soil Regions of Northeast China",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-18336-2_82.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18336-2_82?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18336-2_82, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2053108800",
+      "name": "Weiwei Cui"
+    },
+    {
+      "authorId": "2138791242",
+      "name": "Jiping Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

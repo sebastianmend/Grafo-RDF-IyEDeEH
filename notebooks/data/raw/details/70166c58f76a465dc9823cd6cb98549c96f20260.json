@@ -1,0 +1,64 @@
+{
+  "paperId": "70166c58f76a465dc9823cd6cb98549c96f20260",
+  "externalIds": {
+    "MAG": "2075150346",
+    "DOI": "10.7860/JCDR/2014/7959.4482",
+    "CorpusId": 261038829,
+    "PubMed": "25120986"
+  },
+  "url": "https://www.semanticscholar.org/paper/70166c58f76a465dc9823cd6cb98549c96f20260",
+  "title": "Seroprevalence of Hepatitis B, Hepatitis C and Human Immunodeficiency viruses amongst Injecting Drug Users in Mumbai,India.",
+  "venue": "Journal of clinical and diagnostic research : JCDR",
+  "year": 2014,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.7860/jcdr/2014/7959.4482",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7860/JCDR/2014/7959.4482?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7860/JCDR/2014/7959.4482, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30806186",
+      "name": "A. Shukla"
+    },
+    {
+      "authorId": "1713594864",
+      "name": "Anuradha Sharma"
+    }
+  ],
+  "abstract": "Dear Sir, \n \nInjecting drug users (IDUs) are prone to infections caused by pathogens like hepatitis B virus, hepatitis C virus and human immunodeficiency virus. Their transmissions are primarily parenteral, which occur through the sharing of contaminated injection equipments. \n \nThis study was carried out from August 2007 to October 2007 at the Department of Microbiology, T. N. Medical College and BYL Nair Charitable Hospital, Mumbai, India, after obtaining the approval of the institutional ethics committee. \n \nThe sample size and the study design were the same as were followed at NACO identified sentinel sites at Mumbai, for the annual HIV sentinel surveillance round. Two hundred and fifty blood samples were collected by using an outreach strategy. Sample size was determined by the formula, n=Z2 p (1-p)/d2, where n= sample size, z= 1.96 for a 95% confidence limit, p= prevalence rate and d=degree of precision [1]. The target group comprised of first time visitors at the surveillance round, who had injected at least once in the last six months and were identified by a drug de-addiction centre. Testing for anti-HIV antibodies was done by using Microlisa (J.Mitra and Co., New Delhi) and Pareekshak ½ Triline (Bhat Biotec India (P) Ltd. Bangalore, Karnataka), as per strategy II of NACO guidelines. For anti-HCV antibodies, INNOVA HCV ELISA Kit test ( Span Diagnostics, Surat, India ) was used and for HBsAg, ERBA LISA hepatitis B kit (Transasia Biomedicals Ltd. Mumbai, India) was used. The positive samples were confirmed by retesting the respective ELISA tests. \n \nThe target population was urban in locale. 76% were non-migrants and 54.4% were illiterate, and only 2.4% were graduates. Most of them were from agricultural background. One hundred and fifteen (46%) of the IDUs were of the age group of 21-29 years [Table/Fig-1]. The male to female ratio was 100: 6.8. The first injecting drug abuse had occurred at the age of 18 years, and the ages of IDUs ranged from 18-67 years [Table/Fig-1]. Fifty Two (20.8%) tested positive for antibodies to HIV 1, 192 (76.8%) were positive for antibodies to HCV and 83(33.2%) were HBsAg positive [Table/Fig-2]. HIV-HCV co-infection was detected in 16% cases (p-value: 0.8536 ), HIV-HBV co-infection was detected in 7.8% cases (p-value : 0.6149) and HIV and HBV co-infection was seen in 7.2% cases (p-value: 0.6149 ). HIV-HBV-HCV co-infection was seen in 6% of the IDUs. Co-infections were not statistically significant [Table/Fig-2,​,33]. \n \n \n \n[Table/Fig-1]: \n \nAge distribution of IDU’s \n \n \n \n \n \n[Table/Fig-2]: \n \nHIV, HBV and HCV Co-infections in IDU’s (n=250) \n \n \n \n \n \n[Table/Fig-3]: \n \nHIV, HBV, HCV Reactivity in IDU’s (n=250) \n \n \n \n20.8% HIV infection seen amongst IDUs was similar to that seen in a previous study [2], though 30% and 59.6% infection had also been reported previously [3-5].Only HIV 1 infection was detected, although there had been reports on HIV 2 infection seen among IDUs in Manipur, India, being a pattern II country for the spread of HIV, the major mode of HIV transmission is heterosexual (70-75%) and therefore, HIV in IDUs quickly spreads to the general population. \n \n33.2% HbsAg reactivity seen in the present study was similar to those seen in studies done in 2000 and 2001, in which the HBsAg positivity in IDUs was found to be 35.3% [6]. Most of the HBV infections occur as a result of sexual activity, intravenous drug use, or occupational exposure. Less common causes include household contact, haemodialysis, and receipt of solid organs or blood products. No clear risk factors were identified in 20% to 30% of infected individuals. \n \nA high HCV reactivity of 76.8% seen in the present study, was similar to 76.9% in Garfein’s study [2]. In a previous study in 2004, 61.2% HCV reactivity was reported from Mumbai [5]. Factors which are associated with HCV mono-infection and HIV-HCV co-infection are: longer durations of injecting drug use, use of multiple injection drugs and sharing injection equipments and containers.",
+  "references": [
+    {
+      "paperId": "599c75d25176149b6653e78af5673e092bee8165"
+    },
+    {
+      "paperId": "b4bacff2fd1d9c5e413dfc0206c1f1b39ff55d66"
+    },
+    {
+      "paperId": "dda02180ef19a34ce9d908e1020f10e53332d94b"
+    },
+    {
+      "paperId": "c95f4a161615d187787c8c40ba1aac86f3397c26"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

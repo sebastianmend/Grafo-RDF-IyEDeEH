@@ -1,0 +1,40 @@
+{
+  "paperId": "8f9891b873b850b9a41d665772c44d6575cea221",
+  "externalIds": {
+    "DBLP": "journals/iet-cvi/Robles-KellyS13",
+    "MAG": "1981887833",
+    "DOI": "10.1049/iet-cvi.2010.0205",
+    "CorpusId": 32731502
+  },
+  "url": "https://www.semanticscholar.org/paper/8f9891b873b850b9a41d665772c44d6575cea221",
+  "title": "Imaging spectroscopy for scene analysis: challenges and opportunities",
+  "venue": "IET Computer Vision",
+  "year": 2013,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-cvi.2010.0205",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1049/iet-cvi.2010.0205?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/iet-cvi.2010.0205, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1398981145",
+      "name": "A. Robles-Kelly"
+    },
+    {
+      "authorId": "1403854151",
+      "name": "B. Simpson-Young"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

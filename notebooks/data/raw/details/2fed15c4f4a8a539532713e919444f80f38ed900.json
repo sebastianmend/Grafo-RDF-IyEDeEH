@@ -1,0 +1,38 @@
+{
+  "paperId": "2fed15c4f4a8a539532713e919444f80f38ed900",
+  "externalIds": {
+    "MAG": "1568457636",
+    "DOI": "10.1109/ICCSN.2011.6014979",
+    "CorpusId": 14637012
+  },
+  "url": "https://www.semanticscholar.org/paper/2fed15c4f4a8a539532713e919444f80f38ed900",
+  "title": "Preliminary design for crop monitoring involving water and fertilizer conservation using wireless sensor networks",
+  "venue": "IEEE International Conference on Communication Software and Networks",
+  "year": 2011,
+  "citationCount": 31,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSN.2011.6014979?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSN.2011.6014979, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "144575699",
+      "name": "S. Vijayakumar"
+    },
+    {
+      "authorId": "2074636598",
+      "name": "J. Rosario"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

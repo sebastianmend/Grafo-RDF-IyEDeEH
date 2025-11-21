@@ -1,0 +1,38 @@
+{
+  "paperId": "030cf5f83ed6a8544fae0be17d6e12ce56b15500",
+  "externalIds": {
+    "MAG": "2111837193",
+    "DOI": "10.1109/RSETE.2011.5964790",
+    "CorpusId": 42701895
+  },
+  "url": "https://www.semanticscholar.org/paper/030cf5f83ed6a8544fae0be17d6e12ce56b15500",
+  "title": "Research on business model running of wheat drought remote monitoring before mound closure in ShanDong China",
+  "venue": "International Conference on Remote Sensing, Environment and Transportation Engineering",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RSETE.2011.5964790?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RSETE.2011.5964790, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50313424",
+      "name": "Wang Zhaohai"
+    },
+    {
+      "authorId": "31141619",
+      "name": "Yang Yu-yong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

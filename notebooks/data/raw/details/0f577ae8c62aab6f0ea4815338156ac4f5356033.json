@@ -1,0 +1,46 @@
+{
+  "paperId": "0f577ae8c62aab6f0ea4815338156ac4f5356033",
+  "externalIds": {
+    "MAG": "2545029900",
+    "DOI": "10.1109/ISCRAM.2011.6184145",
+    "CorpusId": 263826573
+  },
+  "url": "https://www.semanticscholar.org/paper/0f577ae8c62aab6f0ea4815338156ac4f5356033",
+  "title": "Risk assessment of agricultural drought in Inner Mongolia based on information diffusion technique",
+  "venue": "International Conference on Information Systems for Crisis Response and Management",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCRAM.2011.6184145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCRAM.2011.6184145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2313271401",
+      "name": "Jin-gui Jiang"
+    },
+    {
+      "authorId": "2313639451",
+      "name": "Qi Song"
+    },
+    {
+      "authorId": "2313192163",
+      "name": "Yong-jun Wang"
+    },
+    {
+      "authorId": "2152748692",
+      "name": "Jun Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,167 @@
+{
+  "paperId": "453760e7a55bd8068569bf3611bcb0067b0bc1da",
+  "externalIds": {
+    "PubMedCentral": "3436032",
+    "MAG": "2002707892",
+    "DBLP": "journals/sensors/FutagawaIMIS12",
+    "DOI": "10.3390/s120608338",
+    "CorpusId": 1203348,
+    "PubMed": "22969403"
+  },
+  "url": "https://www.semanticscholar.org/paper/453760e7a55bd8068569bf3611bcb0067b0bc1da",
+  "title": "A Miniature Integrated Multimodal Sensor for Measuring pH, EC and Temperature for Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2012,
+  "citationCount": 66,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/12/6/8338/pdf?version=1403317747",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3436032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1880490",
+      "name": "M. Futagawa"
+    },
+    {
+      "authorId": "21951662",
+      "name": "Taichi Iwasaki"
+    },
+    {
+      "authorId": "2057183303",
+      "name": "Hiroaki Murata"
+    },
+    {
+      "authorId": "145289275",
+      "name": "M. Ishida"
+    },
+    {
+      "authorId": "144684137",
+      "name": "K. Sawada"
+    }
+  ],
+  "abstract": "Making several simultaneous measurements with different kinds of sensors at the same location in a solution is difficult because of crosstalk between the sensors. In addition, because the conditions at different locations in plant beds differ, in situ measurements in agriculture need to be done in small localized areas. We have fabricated a multimodal sensor on a small Si chip in which a pH sensor was integrated with electrical conductivity (EC) and temperature sensors. An ISFET with a Si3N4 membrane was used for the pH sensor. For the EC sensor, the electrical conductivity between platinum electrodes was measured, and the temperature sensor was a p-n junction diode. These are some of the most important measurements required for controlling the conditions in plant beds. The multimodal sensor can be inserted into a plant bed for in situ monitoring. To confirm the absence of crosstalk between the sensors, we made simultaneous measurements of pH, EC, and temperature of a pH buffer solution in a plant bed. When the solution was diluted with hot or cold water, the real time measurements showed changes to the EC and temperature, but no change in pH. We also demonstrated that our sensor was capable of simultaneous in situ measurements in rock wool without being affected by crosstalk.",
+  "references": [
+    {
+      "paperId": "cc09e000dd0a6db0c0ee082e65990aa1f7e82ef7"
+    },
+    {
+      "paperId": "bd547ccd4b930e57da087f5a7dc066c794b0929a"
+    },
+    {
+      "paperId": "e65723e8db386d1bcc190b316b18355231cf6512"
+    },
+    {
+      "paperId": "b70a6530f33662cb17f6e82f30fac0d38bc3c283"
+    },
+    {
+      "paperId": "65c0ffd77809c7710af2ad55214a23b961ff54b3"
+    },
+    {
+      "paperId": "5e94c9f3df1e146cbce42ce4b353e5ff4bb1daaa"
+    },
+    {
+      "paperId": "d079127a36777288dddc595e7a04e9a6e551faab"
+    },
+    {
+      "paperId": "968ba9018ac1c7bd58945e5c6cd064d246275b5b"
+    },
+    {
+      "paperId": "f8b7d9c996b7fa7525f98e604ef2075762f36109"
+    },
+    {
+      "paperId": "1e6920fe30fefb625030d356e0c94019cc787a1d"
+    },
+    {
+      "paperId": "2f9e23f9d67cf824604b99d95b8ea33245043319"
+    },
+    {
+      "paperId": "f7b190eb795d4cc594e45569d150f85eac5c5f0a"
+    },
+    {
+      "paperId": "a0b878f80fd380b7f8ed92c63e231df42ab17804"
+    },
+    {
+      "paperId": "4d372111cbc1dc621ef45d3378692ae950f5451b"
+    },
+    {
+      "paperId": "1674670fd04f6b5d128c5843b040c9cb6410974b"
+    },
+    {
+      "paperId": "4567a79d89691088c6e415258b21a22437ff9d18"
+    },
+    {
+      "paperId": "2ee8e12b4c3f95abc7b4cbc38f5c3f3b35816aa8"
+    },
+    {
+      "paperId": "19cb4fe2b4345804b613ff6cccb1b31a54e8d942"
+    },
+    {
+      "paperId": "5e2ee6d0eb9eca29f484c346d4e7d1233bdb63e8"
+    },
+    {
+      "paperId": "4dbae92af2ebf0ad218213a7fc1d3eabcc288f33"
+    },
+    {
+      "paperId": "381d62b783acb2ebe9db89160ba11d46eb89e863"
+    },
+    {
+      "paperId": "6adfbc909bb062cb2bc052b085ed4e81c2d33d26"
+    },
+    {
+      "paperId": "0dc8c2e3ad6d27763bc7a8b10728aec4c089f379"
+    },
+    {
+      "paperId": "35e5148146b292c05cd7b3d04f6ffc153dee2465"
+    },
+    {
+      "paperId": "87f5eefd90c776f319c8b41be54d42a83eb4f964"
+    },
+    {
+      "paperId": "12474884681e65c6e2f8ae28e4058cab135808cb"
+    },
+    {
+      "paperId": "eedde7157c588d13b38d896dc8722043baa8a2ca"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "595849338082ecb88e10ee50c59bb0c4358d8fc6"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "cc16d672abbe6b7b4567e2089f454883523a7d71"
+    },
+    {
+      "paperId": "6fc50da5a5452fa1ccf3d4658b7143ce8ff9359b"
+    },
+    {
+      "paperId": "6134862a99965c7a0faf46c2239c8d5f39b93403"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "26f53dae3cef5a05e36d79478292b723c5174c03"
+    },
+    {
+      "paperId": "524954d758539d0db33cf89a2ebbb8ecf7b73235"
+    }
+  ]
+}

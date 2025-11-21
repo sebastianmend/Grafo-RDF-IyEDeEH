@@ -1,0 +1,51 @@
+{
+  "paperId": "f266647cb4680685ddeb2620b4285e1937606779",
+  "externalIds": {
+    "MAG": "2002139346",
+    "DBLP": "journals/wc/WangDLYC13",
+    "DOI": "10.1109/MWC.2013.6704477",
+    "CorpusId": 42700013
+  },
+  "url": "https://www.semanticscholar.org/paper/f266647cb4680685ddeb2620b4285e1937606779",
+  "title": "Confident information coverage in sensor networks for field reconstruction",
+  "venue": "IEEE wireless communications",
+  "year": 2013,
+  "citationCount": 60,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MWC.2013.6704477?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MWC.2013.6704477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1719003",
+      "name": "Bang Wang"
+    },
+    {
+      "authorId": "2967169",
+      "name": "Xianjun Deng"
+    },
+    {
+      "authorId": null,
+      "name": "Wenyu Liu"
+    },
+    {
+      "authorId": "1690341",
+      "name": "L. Yang"
+    },
+    {
+      "authorId": "144861189",
+      "name": "H. Chao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,32 @@
+{
+  "paperId": "b35a902e71d513c834d6fd5f3eacbbb09843dbf4",
+  "externalIds": {
+    "MAG": "2735679839",
+    "CorpusId": 115242477
+  },
+  "url": "https://www.semanticscholar.org/paper/b35a902e71d513c834d6fd5f3eacbbb09843dbf4",
+  "title": "Precision Agriculture Adoption By Texas Cotton Producers: Trends and Drivers",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145892848",
+      "name": "S. Nair"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

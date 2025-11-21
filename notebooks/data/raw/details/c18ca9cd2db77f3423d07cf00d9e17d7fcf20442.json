@@ -1,0 +1,36 @@
+{
+  "paperId": "c18ca9cd2db77f3423d07cf00d9e17d7fcf20442",
+  "externalIds": {
+    "MAG": "2261030704",
+    "CorpusId": 130251895
+  },
+  "url": "https://www.semanticscholar.org/paper/c18ca9cd2db77f3423d07cf00d9e17d7fcf20442",
+  "title": "THE USE OF LASE-SCAN TECHNOLOGIES TO THE CREATION OF THE TERRAIN DIGITAL MODEL",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "103353896",
+      "name": "G. Iosif"
+    },
+    {
+      "authorId": "8369382",
+      "name": "C. Vasile"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

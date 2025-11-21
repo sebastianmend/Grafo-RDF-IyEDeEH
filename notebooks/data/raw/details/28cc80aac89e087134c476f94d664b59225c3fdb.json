@@ -1,0 +1,32 @@
+{
+  "paperId": "28cc80aac89e087134c476f94d664b59225c3fdb",
+  "externalIds": {
+    "MAG": "2997445070",
+    "DBLP": "conf/sbsi/CruzVM15",
+    "DOI": "10.5753/sbsi.2015.5840",
+    "CorpusId": 106598802
+  },
+  "url": "https://www.semanticscholar.org/paper/28cc80aac89e087134c476f94d664b59225c3fdb",
+  "title": "Manejo Tecnológico de Lavouras Através de Dispositivos Móveis e Agricultura de Precisão [Technological Management of Small Crops Through Mobile Apps and Precision Agriculture]",
+  "venue": "Brazilian Symposium on Information Systems",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5753/sbsi.2015.5840",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5753/sbsi.2015.5840?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5753/sbsi.2015.5840, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "46cd41b5406e3cbe1c0b461a1957652cf11cb40d",
+  "externalIds": {
+    "MAG": "2168398101",
+    "DBLP": "conf/dc/MorshedCJK11",
+    "CorpusId": 9746635
+  },
+  "url": "https://www.semanticscholar.org/paper/46cd41b5406e3cbe1c0b461a1957652cf11cb40d",
+  "title": "Thesaurus Alignment for Linked Data Publishing",
+  "venue": "Dublin Core Conference",
+  "year": 2011,
+  "citationCount": 30,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "143990656",
+      "name": "Ahsan Morshed"
+    },
+    {
+      "authorId": "3292729",
+      "name": "Caterina Caracciolo"
+    },
+    {
+      "authorId": "32603987",
+      "name": "Gudrun Johannsen"
+    },
+    {
+      "authorId": "1970116",
+      "name": "Johannes Keizer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

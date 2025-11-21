@@ -1,0 +1,50 @@
+{
+  "paperId": "69177f0c00dda834d3e0af2b6b96e38016a7c476",
+  "externalIds": {
+    "MAG": "2360508827",
+    "CorpusId": 23100849,
+    "PubMed": "23705431"
+  },
+  "url": "https://www.semanticscholar.org/paper/69177f0c00dda834d3e0af2b6b96e38016a7c476",
+  "title": "[Effect of soil moisture on prediction of soil total nitrogen using NIR spectroscopy].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2013,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "92330396",
+      "name": "Xiaofei An"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    },
+    {
+      "authorId": "2763970",
+      "name": "Lihua Zheng"
+    },
+    {
+      "authorId": "2108104051",
+      "name": "Yumeng Liu"
+    },
+    {
+      "authorId": "122309082",
+      "name": "Hong Sun"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

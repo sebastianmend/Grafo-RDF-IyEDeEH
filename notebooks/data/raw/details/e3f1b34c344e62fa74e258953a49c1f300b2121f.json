@@ -1,0 +1,42 @@
+{
+  "paperId": "e3f1b34c344e62fa74e258953a49c1f300b2121f",
+  "externalIds": {
+    "MAG": "2413865018",
+    "CorpusId": 21073809,
+    "PubMed": "20939349"
+  },
+  "url": "https://www.semanticscholar.org/paper/e3f1b34c344e62fa74e258953a49c1f300b2121f",
+  "title": "[Using hyperspectral remote sensing to estimate canopy chlorophyll density of wheat under yellow rust stress].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2010,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "13049725",
+      "name": "Jinbao Jiang"
+    },
+    {
+      "authorId": "1993125148",
+      "name": "Yun-Hao Chen"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

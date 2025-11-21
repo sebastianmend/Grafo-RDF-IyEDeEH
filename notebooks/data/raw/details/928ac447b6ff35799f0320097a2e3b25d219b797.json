@@ -1,0 +1,195 @@
+{
+  "paperId": "928ac447b6ff35799f0320097a2e3b25d219b797",
+  "externalIds": {
+    "MAG": "2079481367",
+    "PubMedCentral": "4051603",
+    "DOI": "10.1371/journal.pone.0096352",
+    "CorpusId": 2835301,
+    "PubMed": "24914778"
+  },
+  "url": "https://www.semanticscholar.org/paper/928ac447b6ff35799f0320097a2e3b25d219b797",
+  "title": "Exploring Novel Bands and Key Index for Evaluating Leaf Equivalent Water Thickness in Wheat Using Hyperspectra Influenced by Nitrogen",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0096352&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4051603, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46581238",
+      "name": "Xia Yao"
+    },
+    {
+      "authorId": "49166691",
+      "name": "W. Jia"
+    },
+    {
+      "authorId": "2139645125",
+      "name": "Haiyang Si"
+    },
+    {
+      "authorId": "2112225572",
+      "name": "Ziqing Guo"
+    },
+    {
+      "authorId": "49902497",
+      "name": "Yongchao Tian"
+    },
+    {
+      "authorId": "49544190",
+      "name": "Xiaojun Liu"
+    },
+    {
+      "authorId": "1979404",
+      "name": "W. Cao"
+    },
+    {
+      "authorId": "26560296",
+      "name": "Yan Zhu"
+    }
+  ],
+  "abstract": "Leaf equivalent water thickness (LEWT) is an important indicator of crop water status. Effectively monitoring the water status of wheat under different nitrogen treatments is important for effective water management in precision agriculture. Trends in the variation of LEWT in wheat plants during plant growth were analyzed based on field experiments in which wheat plants under various water and nitrogen treatments in two consecutive growing seasons. Two-band spectral indices [normalized difference spectral indices (NDSI), ratio spectral indices (RSI), different spectral indices (DSI)], and then three-band spectral indices were established based on the best two-band spectral index within the range of 350–2500 nm to reduce the noise caused by nitrogen and saturation. Then, optimal spectral indices were selected to construct models of LEWT monitoring in wheat. The results showed that the two-band spectral index NDSI(R1204, R1318) could be used for LEWT monitoring throughout the wheat growth season, but the model performed differently before and after anthesis. Therefore, further two-band spectral indices NDSIb(R1445, R487), NDSIa(R1714, R1395), and NDSI(R1429, R416), were constructed for the two developmental phases, with NDSI(R1429, R416) considered to be the best index. Finally, a three-band index (R1429−R416−R1865)/(R1429+R416+R1865), which was superior for monitoring LEWT and reducing the noise caused by nitrogen, was formed on the best two-band spectral index NDSI(R1429, R416) by adding the 1,865 nm wavelenght as the third band. This produced more uniformity and stable performance compared with the two-band spectral indices in the LEWT model. The results are of technical significance for monitoring the water status of wheat under different nitrogen treatments in precision agriculture.",
+  "references": [
+    {
+      "paperId": "1febbc7ab861b455a384f21f58d8d00fd549ba54"
+    },
+    {
+      "paperId": "b4988acba3aeb3d8c4666f2f8d15f5fc3cc26300"
+    },
+    {
+      "paperId": "bf6f827bb29e55ea42fc735ad295b45f3b324219"
+    },
+    {
+      "paperId": "51ff4250e2dd0375a91d98f64d349d94476a7f01"
+    },
+    {
+      "paperId": "41b12bff250081eac68ec2d1ee6e8a60a647862d"
+    },
+    {
+      "paperId": "b34dc95b8c78f855a76ad8e1fbca304cb0f5669d"
+    },
+    {
+      "paperId": "0bfbe35a4f732e0651eeb0a05ff86001fe92e34e"
+    },
+    {
+      "paperId": "b0f928ca7a89c60b4d29e9f79f3a48201a16cdf6"
+    },
+    {
+      "paperId": "3199bfde07723d3a01f4c50c4a48e3b8a43227aa"
+    },
+    {
+      "paperId": "b16457392e25f9677dfe1a0140187c0ce9ddd90c"
+    },
+    {
+      "paperId": "637072011e074337733bdca1ae2445a38707e99e"
+    },
+    {
+      "paperId": "17e306b40bbad7253be125157ddea1c569eacc81"
+    },
+    {
+      "paperId": "0eb360e45df663ebfad55e78e6d7e83b746466b2"
+    },
+    {
+      "paperId": "48594c73528d57b50d334fb68376b477add463f4"
+    },
+    {
+      "paperId": "2c42c85b16449eb74a4bb0a307255515d6664fe0"
+    },
+    {
+      "paperId": "8c6177797fdb00d726c6df0edb2673e0abe09e52"
+    },
+    {
+      "paperId": "f3c0227b874786189c98d9948e93832ac08e9ac3"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "0db3f871ab2735d543ad639d8390475538da65e8"
+    },
+    {
+      "paperId": "ee92be51a40718abed1d0f239589d228ff02841e"
+    },
+    {
+      "paperId": "9f04fac6afb8adcbd74eda4f0479d8f62884e2be"
+    },
+    {
+      "paperId": "2023fc7bc858fcb2c9033a6cacc0becc49b0b0e2"
+    },
+    {
+      "paperId": "8eb85281521846a1993681bdb7578b813a2e054d"
+    },
+    {
+      "paperId": "09628d26170125cf765f1b661743762cf85ac3b0"
+    },
+    {
+      "paperId": "30d127cdc0d0a0f617862a008318e867973564ab"
+    },
+    {
+      "paperId": "8f7bcfd4e0f850ad71f40aace40adab4052a1940"
+    },
+    {
+      "paperId": "e6dab19c915cbde41fb00793f825508c24f05720"
+    },
+    {
+      "paperId": "ae168edba465a956664cae9cb38bc0980ace5a50"
+    },
+    {
+      "paperId": "9626d92cb0993923fb5ac2a35eb57e85c5623b87"
+    },
+    {
+      "paperId": "b76088eaafa6756eefb126326442c524297370f8"
+    },
+    {
+      "paperId": "d0e05a731635640bc8b39b807f45be1c02f4d6c2"
+    },
+    {
+      "paperId": "92b5813fba7445a08a9ae8e1519552bd498b3354"
+    },
+    {
+      "paperId": "df179cce9943a3f7bbfff6ab1476f3c0c0fdd076"
+    },
+    {
+      "paperId": "f677c5f55d5a8c8dc4e97b812654963dcc5ffca8"
+    },
+    {
+      "paperId": "ef8cd505c2db69e66ab664658f0d81aa55511e0d"
+    },
+    {
+      "paperId": "e58fa12d92e55bbeb6b036add8c59555dfdec462"
+    },
+    {
+      "paperId": "4a022e4d1a153b766b437cc6823dddd6c463c24e"
+    },
+    {
+      "paperId": "fcd5e24c8d85c4230ea4aba9656b1bab88478d77"
+    },
+    {
+      "paperId": "d7c0ebad7628395c32483444d58a7e52a1747df5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

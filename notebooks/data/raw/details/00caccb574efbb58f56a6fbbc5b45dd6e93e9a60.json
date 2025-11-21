@@ -1,0 +1,289 @@
+{
+  "paperId": "00caccb574efbb58f56a6fbbc5b45dd6e93e9a60",
+  "externalIds": {
+    "MAG": "2010879595",
+    "DBLP": "journals/ijgi/ZhaoLYJMZB15",
+    "DOI": "10.3390/ijgi4010236",
+    "CorpusId": 14934581
+  },
+  "url": "https://www.semanticscholar.org/paper/00caccb574efbb58f56a6fbbc5b45dd6e93e9a60",
+  "title": "Investigating Within-Field Variability of Rice from High Resolution Satellite Imagery in Qixing Farm County, Northeast China",
+  "venue": "ISPRS Int. J. Geo Inf.",
+  "year": 2015,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2220-9964/4/1/236/pdf?version=1423120726",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/ijgi4010236?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/ijgi4010236, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40429696",
+      "name": "Quanying Zhao"
+    },
+    {
+      "authorId": "1403823144",
+      "name": "V. Lenz-Wiedemann"
+    },
+    {
+      "authorId": "2056631933",
+      "name": "Fei Yuan"
+    },
+    {
+      "authorId": "35794663",
+      "name": "R. Jiang"
+    },
+    {
+      "authorId": "1953258",
+      "name": "Y. Miao"
+    },
+    {
+      "authorId": "145241280",
+      "name": "Fusuo Zhang"
+    },
+    {
+      "authorId": "2801990",
+      "name": "G. Bareth"
+    }
+  ],
+  "abstract": "Rice is a primary staple food for the world population and there is a strong need to map its cultivation area and monitor its crop status on regional scales. This study was conducted in the Qixing Farm County of the Sanjiang Plain, Northeast China. First, the rice cultivation areas were identified by integrating the remote sensing (RS) classification maps from three dates and the Geographic Information System (GIS) data obtained from a local agency. Specifically, three FORMOSAT-2 (FS-2) images captured during the growing season in 2009 and a GIS topographic map were combined using a knowledge-based classification method. A highly accurate classification map (overall accuracy = 91.6%) was generated based on this Multi-Data-Approach (MDA). Secondly, measured agronomic variables that include biomass, leaf area index (LAI), plant nitrogen (N) concentration and plant N uptake were correlated with the date-specific FS-2 image spectra using stepwise multiple linear regression models. The best model validation results with a relative error (RE) of 8.9% were found in the biomass regression model at the phenological stage of heading. The best index of agreement (IA) value of 0.85 with an RE of 13.6% was found in the LAI model, also at the heading stage. For plant N uptake estimation, the most accurate model was again achieved at the heading stage with an RE of 11% and an IA value of 0.77; however, for plant N concentration estimation, the model performance was best at the booting stage. Finally, the regression models were applied to the identified rice areas to map the within-field variability of the four agronomic variables at different growth stages for the Qixing Farm County. The results provide detailed spatial information on the within-field variability on a regional scale, which is critical for effective field management in precision agriculture.",
+  "references": [
+    {
+      "paperId": "37103c0d9b8f0bd23dcbecae1d9a462cc1776d5d"
+    },
+    {
+      "paperId": "4374c2f0ac86647ac4057f26e7184027563b94a6"
+    },
+    {
+      "paperId": "07a29e3904ee007fb2fb9b9f5afdc10b9e54e7c1"
+    },
+    {
+      "paperId": "3009c086881339734eb0127daf30f7a7d7823d39"
+    },
+    {
+      "paperId": "40bc8561d8776fe6820d486a2f2139291de21d53"
+    },
+    {
+      "paperId": "3f0ff67db3ea6b362cebf45a4e3f3ab05919d437"
+    },
+    {
+      "paperId": "c8a8f1ee6d4b001a69480c446d417a26169cb55a"
+    },
+    {
+      "paperId": "3009b72708427d9f7394b1f78e73779d98f628b1"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "f3f3840051645c83bd80f31bd4f81b34a9c35862"
+    },
+    {
+      "paperId": "012b36897f1c3f9d99cb6f9bbb98012eae001bdf"
+    },
+    {
+      "paperId": "ac8d2291e0855497ca5d7841d54d2c4316562eec"
+    },
+    {
+      "paperId": "f591f45a6f1f8726e65eab0bc4595824fe0b3544"
+    },
+    {
+      "paperId": "0906931ccfbf560b8bc23c873b576a27d391432e"
+    },
+    {
+      "paperId": "a96854237ded76cdb2008516e01777f1028dd5db"
+    },
+    {
+      "paperId": "88cd0d50c54f732dd1168b2be40cbcdf3d916b16"
+    },
+    {
+      "paperId": "567a72f80e1771999434b0d4c5ec625ab68e723e"
+    },
+    {
+      "paperId": "1461c96c0dfe94d3b841cbb9bf3c099d8ef90683"
+    },
+    {
+      "paperId": "4d117c2c0b5a18864e2b438b2c632aae3e95420c"
+    },
+    {
+      "paperId": "351930f2a78ab343a5f462a9bb065ab1884636d1"
+    },
+    {
+      "paperId": "ed97c99ff0d86c28b8bcb5486396d4f1406f5c60"
+    },
+    {
+      "paperId": "c56839d46b1be6c073672f90e5b26a11ed8738e3"
+    },
+    {
+      "paperId": "5bf6de1cfbdcdd54e81351415cded6f69600fa4d"
+    },
+    {
+      "paperId": "ca5b72a45edfbe5eee2e9916a5256c3834950948"
+    },
+    {
+      "paperId": "56cbfcc97269fc5e6c80869cb8c56471fc8f199b"
+    },
+    {
+      "paperId": "a9441ea63d14511a33191c4116955b34777cd567"
+    },
+    {
+      "paperId": "eaf905b6d4d75db98f5d603cb7fe88c4755b59a9"
+    },
+    {
+      "paperId": "e507c4b2552b0484b1c0fbd4d6494735e68d9537"
+    },
+    {
+      "paperId": "9929bcc9a929382d1351fd8e2c500e7e96fe0863"
+    },
+    {
+      "paperId": "a6f44f39e7c73b26092f0daeea2de2f34463511d"
+    },
+    {
+      "paperId": "d9623d1c0d377cef08d10dff29ae6e77be49c89e"
+    },
+    {
+      "paperId": "0dd74c3b14272919fc668554fc393257e0726b91"
+    },
+    {
+      "paperId": "e9b70a62cfab217759ad47de8f59e8ae033fa27e"
+    },
+    {
+      "paperId": "24114154a25136984656a5e22aafb5177dafa36c"
+    },
+    {
+      "paperId": "0c57c587fb0c0f46f5479642fe723ab6937bbfad"
+    },
+    {
+      "paperId": "2ffbdcba13d2306192056c9b1253a2433cf716ae"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "8eee8bca68a2c256055cd290d4f6546c97af4b75"
+    },
+    {
+      "paperId": "8223526d3516b3a5ceb0692ef49b4880e3a973af"
+    },
+    {
+      "paperId": "987c9a69908b2b096a789cc17e60b63cf0dff288"
+    },
+    {
+      "paperId": "4ca1dae37e77e8d3e28306d791007bd8ec92f1eb"
+    },
+    {
+      "paperId": "72eb9dc9b75176327afb0cfea5617b9f36ec85aa"
+    },
+    {
+      "paperId": "a1e70b6d310e9d280daa3d9072a437bcece969ec"
+    },
+    {
+      "paperId": "2f25864854810587ac5c974942844f99bc1a727f"
+    },
+    {
+      "paperId": "7832155f3c96bc3b4020e2c3612878b9ef3c8071"
+    },
+    {
+      "paperId": "7aa14f75c9f8db372ac821f25e76af1a7af06339"
+    },
+    {
+      "paperId": "260742c1ad7d97aecbb1a441104e716db793bd47"
+    },
+    {
+      "paperId": "fbd977b15ee792bc73a769d43d6f41d159ff217d"
+    },
+    {
+      "paperId": "309369162573cf0fd9ddcaad950bafa35e46b53b"
+    },
+    {
+      "paperId": "7751966bfb10733c1c20cad709e1b4cb74dfd83f"
+    },
+    {
+      "paperId": "c338aeee4ec0307cc8741da77a7e16e40cdacf84"
+    },
+    {
+      "paperId": "6118f6aa285715208c7428b6483b432b5604183d"
+    },
+    {
+      "paperId": "682ad8e5a90d70970408af33a2c8e305c7b7acc8"
+    },
+    {
+      "paperId": "980b66283edef547fa1c5aa59e263b2a02f1c214"
+    },
+    {
+      "paperId": "1c7d53cdac81f78b86b797a7ec0c98704fac6d29"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "f63b256ddcbb646ee2c04dff3eb99010a737a5bb"
+    },
+    {
+      "paperId": "72a520ccd8080ff8f4de14bc2959dd22081f72a7"
+    },
+    {
+      "paperId": "249dd1c67de3862c6666f300840388c34e05f969"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0bda2a1bfdded0a962e25f45e4312664dbce9477"
+    },
+    {
+      "paperId": "fd77f4b6074855da62f55e219463e65231eb4bda"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fd2e47b2c291e88ed97f6d6714682104cb8865f1"
+    },
+    {
+      "paperId": "ef487415b7e70135708b8f6fb38e543099d45385"
+    },
+    {
+      "paperId": "1616c2db14b1b52238301439cc0516e5fb2a8d13"
+    },
+    {
+      "paperId": "461599bee1061e27c11319df56206598d45cb114"
+    },
+    {
+      "paperId": "2d4a6ff8a343d8c7767e055b4c435ecc9fecf5bb"
+    },
+    {
+      "paperId": "aaa83f729d9f9f8009104471cd152df223daaaa9"
+    },
+    {
+      "paperId": "3dd5244ab03ed82c9baaa9873d957df2125e037a"
+    },
+    {
+      "paperId": "8f3198e2710fd17ce5c8fe4d9a29a774f8dcf135"
+    },
+    {
+      "paperId": "b7391f5b90df713bbc3fbbdb07a16b9eda492005"
+    },
+    {
+      "paperId": "5b839e9db341550e8e878944552e9c0a979d7c50"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "6cfd0423580716ac3bdcec1251ee87b6821b37dc",
+  "externalIds": {
+    "MAG": "1970226154",
+    "DOI": "10.1007/s12665-013-2792-2",
+    "CorpusId": 109695559
+  },
+  "url": "https://www.semanticscholar.org/paper/6cfd0423580716ac3bdcec1251ee87b6821b37dc",
+  "title": "A review of precision fertilization research",
+  "venue": "Environmental Earth Sciences",
+  "year": 2014,
+  "citationCount": 56,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://minerva-access.unimelb.edu.au/bitstreams/065ef168-c714-5ad4-a329-ea22e8bf0e49/download",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12665-013-2792-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12665-013-2792-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2109063082",
+      "name": "Can Chen"
+    },
+    {
+      "authorId": "47595101",
+      "name": "J. Pan"
+    },
+    {
+      "authorId": "5254190",
+      "name": "S. Lam"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

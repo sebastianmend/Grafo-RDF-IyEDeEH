@@ -1,0 +1,73 @@
+{
+  "paperId": "2ff58fc5b4f4d0903a1fb21176ac03d7e204adc5",
+  "externalIds": {
+    "MAG": "2905564794",
+    "DOI": "10.31421/ijhs/18/1/986",
+    "CorpusId": 135459753
+  },
+  "url": "https://www.semanticscholar.org/paper/2ff58fc5b4f4d0903a1fb21176ac03d7e204adc5",
+  "title": "Assessment of soil characteristics in orchard",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ojs.lib.unideb.hu/IJHS/article/download/986/984",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31421/ijhs/18/1/986?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31421/ijhs/18/1/986, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47414718",
+      "name": "A. Nagy"
+    },
+    {
+      "authorId": "91463483",
+      "name": "T. Fórián"
+    },
+    {
+      "authorId": "39078829",
+      "name": "J. Tamás"
+    },
+    {
+      "authorId": "145776151",
+      "name": "Z. Szabó"
+    },
+    {
+      "authorId": "32642418",
+      "name": "J. Nyéki"
+    },
+    {
+      "authorId": "35033587",
+      "name": "M. Soltész"
+    }
+  ],
+  "abstract": "Spatial variability of soil properties may appear in yield variation within a single field even in areas considered to be homogeneous from soil survey point of view. Effects of various sources of soil heterogeneity on the annual or longterm average soil water budget appear to differ markedly (Kim, 1995). Furthermore the negative water balance in the Carpathian Lowland: 450–600 mm precipitation vs. 680–720 mm potential evapotranspiration is equilibrated by horizontal inflow (on the surface as runoff, in the unsaturated zone as seepage; and in the saturated zone as groundwater flow), which leads to the accumulation of the weathering products of the large catchment area. In addiction to the hardly predictable atmospheric precipitation pattern, the two additional reasons of extreme soil moisture regime (the simultaneous hazard of waterlogging or overmoistening and drought sensitivity) are: – the heterogeneous microrelief of the „flat” lowland; – the highly variable, sometimes mosaic-like soil cover and the unfavourable physical and hydrophysical properties of some soils (mainly due to heavy texture, high clay and swelling clay content, or high sodium saturation: ESP). The hyperand multispectral technology is widely used in the precision agriculture (Burai, 2006; Milics et al. 2008), field growing of plants, and nowadays in gardening culture (Tamás et al. 2009). Remote sensing technologies make a possibility to the time series analyzing of the gardening stock and obtaining information of qualitative and quantitative parameters of plants (Berke et al. 2004).",
+  "references": [
+    {
+      "paperId": "7993ed04122dc70c00325a14a791093a732fa8a5"
+    },
+    {
+      "paperId": "e1962747603fcf10d299e58aea25e7bf1fb8fddc"
+    },
+    {
+      "paperId": "32a05961fffb65a8e6e4e1f976d9dd6cbb94cb52"
+    },
+    {
+      "paperId": "85727824249ce4330318926b8776a9a663024a9d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

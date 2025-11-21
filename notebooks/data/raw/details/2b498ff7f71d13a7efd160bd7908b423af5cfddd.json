@@ -1,0 +1,50 @@
+{
+  "paperId": "2b498ff7f71d13a7efd160bd7908b423af5cfddd",
+  "externalIds": {
+    "MAG": "2288666420",
+    "DOI": "10.1109/ICENCO.2015.7416326",
+    "CorpusId": 25057727
+  },
+  "url": "https://www.semanticscholar.org/paper/2b498ff7f71d13a7efd160bd7908b423af5cfddd",
+  "title": "An embedded system for agricultural monitoring of remote areas",
+  "venue": "International Computer Engineering Conference",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICENCO.2015.7416326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICENCO.2015.7416326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2080472",
+      "name": "A. Shaout"
+    },
+    {
+      "authorId": "9265298",
+      "name": "Karen Juzswik"
+    },
+    {
+      "authorId": "10346850",
+      "name": "Kiet Van Nguyen"
+    },
+    {
+      "authorId": "9190091",
+      "name": "Heather Peurasaari"
+    },
+    {
+      "authorId": "145340853",
+      "name": "A. S. Awad"
+    }
+  ],
+  "abstract": "Precision agriculture is a farming management concept based on observing, measuring and responding to inter and intra-field variability in crops. By collecting real-time data on weather, soil and air quality, crop maturity and other factors, predictive analytics can be used to make better decisions for the future. This paper proposes a low power, low cost, robust data collection system to generate and gather data autonomously in isolated or remote areas. The sensor module collects soil moisture and temperature data and air temperature and humidity data that is then gathered periodically by a line following robot that uploads the stored data from the sensor module via Bluetooth communication for further analysis.",
+  "references": null
+}

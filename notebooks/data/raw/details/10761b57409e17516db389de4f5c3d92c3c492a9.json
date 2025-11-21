@@ -1,0 +1,54 @@
+{
+  "paperId": "10761b57409e17516db389de4f5c3d92c3c492a9",
+  "externalIds": {
+    "MAG": "2026461522",
+    "DOI": "10.1109/NANO.2011.6144536",
+    "CorpusId": 36173689
+  },
+  "url": "https://www.semanticscholar.org/paper/10761b57409e17516db389de4f5c3d92c3c492a9",
+  "title": "Intelligent informatics platform for nano-agriculture",
+  "venue": "IEEE International Conference on Nanotechnology",
+  "year": 2011,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NANO.2011.6144536?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NANO.2011.6144536, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50493199",
+      "name": "P. Rose"
+    },
+    {
+      "authorId": "145385235",
+      "name": "Manoj Bhat"
+    },
+    {
+      "authorId": "49934255",
+      "name": "K. Vidhani"
+    },
+    {
+      "authorId": "2889245",
+      "name": "Nirav Ajmeri"
+    },
+    {
+      "authorId": "34967281",
+      "name": "A. Gole"
+    },
+    {
+      "authorId": "2107155",
+      "name": "S. Ghaisas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

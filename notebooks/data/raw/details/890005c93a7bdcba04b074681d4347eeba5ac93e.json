@@ -1,0 +1,36 @@
+{
+  "paperId": "890005c93a7bdcba04b074681d4347eeba5ac93e",
+  "externalIds": {
+    "MAG": "2161469887",
+    "DOI": "10.1534/genetics.110.120493",
+    "CorpusId": 323371,
+    "PubMed": "20713688"
+  },
+  "url": "https://www.semanticscholar.org/paper/890005c93a7bdcba04b074681d4347eeba5ac93e",
+  "title": "Estimating Indirect Genetic Effects: Precision of Estimates and Optimum Designs",
+  "venue": "Genetics",
+  "year": 2010,
+  "citationCount": 114,
+  "influentialCitationCount": 14,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/genetics/article-pdf/186/3/1013/42178172/genetics1013.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1534/genetics.110.120493?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1534/genetics.110.120493, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6233848",
+      "name": "P. Bijma"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

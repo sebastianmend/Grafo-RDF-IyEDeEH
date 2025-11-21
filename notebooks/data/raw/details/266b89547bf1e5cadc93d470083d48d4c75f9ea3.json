@@ -1,0 +1,56 @@
+{
+  "paperId": "266b89547bf1e5cadc93d470083d48d4c75f9ea3",
+  "externalIds": {
+    "MAG": "2464240445",
+    "DOI": "10.34068/joe.53.04.04",
+    "CorpusId": 168353053
+  },
+  "url": "https://www.semanticscholar.org/paper/266b89547bf1e5cadc93d470083d48d4c75f9ea3",
+  "title": "Hands-On Precision Agriculture Data Management Workshops for Producers and Industry Professionals: Development and Assessment",
+  "venue": "Journal of Extension",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3555&context=joe",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.34068/joe.53.04.04?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.34068/joe.53.04.04, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32154996",
+      "name": "J. Luck"
+    },
+    {
+      "authorId": "145598739",
+      "name": "J. Fulton"
+    },
+    {
+      "authorId": "38154671",
+      "name": "J. Rees"
+    }
+  ],
+  "abstract": "Three Precision Agriculture Data Management workshops regarding yield monitor data were conducted in 2014, reaching 62 participants. Post-workshop surveys (n=58) indicated 73% of respondents experienced a moderate to significant increase in knowledge related to yield monitor data usage. Another 72% reported that they planned to utilize best management practices presented or would expand their current practices based on knowledge gained. One-year post-workshop survey (n=14) results indicated that far less (36%) were able to implement some of the techniques presented. However, comments indicated that accessible follow-up material would be beneficial in successfully integrating learning topics into data management systems.",
+  "references": [
+    {
+      "paperId": "3d2413756f37a909801db94ffbe45e97bc6095f1"
+    },
+    {
+      "paperId": "bb0816ea0fe6c26979ff8e8d2510e2b4ab886426"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

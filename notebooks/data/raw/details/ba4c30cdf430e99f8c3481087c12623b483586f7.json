@@ -1,0 +1,41 @@
+{
+  "paperId": "ba4c30cdf430e99f8c3481087c12623b483586f7",
+  "externalIds": {
+    "MAG": "2015718504",
+    "DOI": "10.2527/jas.2011-4546",
+    "CorpusId": 23648682,
+    "PubMed": "22038991"
+  },
+  "url": "https://www.semanticscholar.org/paper/ba4c30cdf430e99f8c3481087c12623b483586f7",
+  "title": "Cell Biology Symposium: Zinc finger nucleases to create custom-designed modifications in the swine (Sus scrofa) genome.",
+  "venue": "Journal of Animal Science",
+  "year": 2012,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2527/jas.2011-4546?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2527/jas.2011-4546, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47707756",
+      "name": "J. Whyte"
+    },
+    {
+      "authorId": "4013416",
+      "name": "R. Prather"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

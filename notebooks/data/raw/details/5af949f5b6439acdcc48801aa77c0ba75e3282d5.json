@@ -1,0 +1,50 @@
+{
+  "paperId": "5af949f5b6439acdcc48801aa77c0ba75e3282d5",
+  "externalIds": {
+    "MAG": "2107292482",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2012.6311622",
+    "CorpusId": 40417461
+  },
+  "url": "https://www.semanticscholar.org/paper/5af949f5b6439acdcc48801aa77c0ba75e3282d5",
+  "title": "Based on HJ-CCD image to monitoring degree of corn tasseling",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2012.6311622?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2012.6311622, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109007860",
+      "name": "Huifang Wang"
+    },
+    {
+      "authorId": "2109655595",
+      "name": "Jihua Wang"
+    },
+    {
+      "authorId": "7788004",
+      "name": "X. Gu"
+    },
+    {
+      "authorId": "50054975",
+      "name": "W. Guo"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

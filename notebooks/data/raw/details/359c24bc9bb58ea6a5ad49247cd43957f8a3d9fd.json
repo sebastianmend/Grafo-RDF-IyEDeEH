@@ -1,0 +1,53 @@
+{
+  "paperId": "359c24bc9bb58ea6a5ad49247cd43957f8a3d9fd",
+  "externalIds": {
+    "MAG": "1507338230",
+    "DOI": "10.1002/jsfa.6511",
+    "CorpusId": 28400127,
+    "PubMed": "24323896"
+  },
+  "url": "https://www.semanticscholar.org/paper/359c24bc9bb58ea6a5ad49247cd43957f8a3d9fd",
+  "title": "Study on an electrochromatography method based on organic-inorganic hybrid molecularly imprinted monolith for determination of trace trichlorfon in vegetables.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2014,
+  "citationCount": 20,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.6511?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.6511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "153276667",
+      "name": "T. Zhao"
+    },
+    {
+      "authorId": "2109062288",
+      "name": "Qingqing Wang"
+    },
+    {
+      "authorId": "2155871283",
+      "name": "Jie Li"
+    },
+    {
+      "authorId": "7565421",
+      "name": "X. Qiao"
+    },
+    {
+      "authorId": "1689177",
+      "name": "Zhixiang Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

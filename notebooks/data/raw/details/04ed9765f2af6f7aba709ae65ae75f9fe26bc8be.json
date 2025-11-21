@@ -1,0 +1,38 @@
+{
+  "paperId": "04ed9765f2af6f7aba709ae65ae75f9fe26bc8be",
+  "externalIds": {
+    "MAG": "2188105322",
+    "DOI": "10.1007/s11540-014-9280-2",
+    "CorpusId": 9690074
+  },
+  "url": "https://www.semanticscholar.org/paper/04ed9765f2af6f7aba709ae65ae75f9fe26bc8be",
+  "title": "Report on Workshop “Precision Agriculture for the Potato Crop”",
+  "venue": "Potato Research",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11540-014-9280-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11540-014-9280-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2562148",
+      "name": "K. Nackaerts"
+    },
+    {
+      "authorId": "4132487",
+      "name": "K. Demeulemeester"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

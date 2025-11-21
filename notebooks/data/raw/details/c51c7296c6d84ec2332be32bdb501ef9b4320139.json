@@ -1,0 +1,59 @@
+{
+  "paperId": "c51c7296c6d84ec2332be32bdb501ef9b4320139",
+  "externalIds": {
+    "DBLP": "conf/whispers/SerruysSLDTGL14",
+    "MAG": "2765494655",
+    "DOI": "10.1109/WHISPERS.2014.8077554",
+    "CorpusId": 12756759
+  },
+  "url": "https://www.semanticscholar.org/paper/c51c7296c6d84ec2332be32bdb501ef9b4320139",
+  "title": "Linear variable filters — A camera system requirement analysis for hyperspectral imaging sensors onboard small Remotely Piloted Aircraft Systems",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2014.8077554?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2014.8077554, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30783007",
+      "name": "P. Serruys"
+    },
+    {
+      "authorId": "26945804",
+      "name": "A. Sima"
+    },
+    {
+      "authorId": "3239635",
+      "name": "S. Livens"
+    },
+    {
+      "authorId": "1895044",
+      "name": "B. Delauré"
+    },
+    {
+      "authorId": "1772896",
+      "name": "K. Tack"
+    },
+    {
+      "authorId": "2447938",
+      "name": "B. Geelen"
+    },
+    {
+      "authorId": "49843322",
+      "name": "A. Lambrechts"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

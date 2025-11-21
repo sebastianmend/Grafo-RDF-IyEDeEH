@@ -1,0 +1,53 @@
+{
+  "paperId": "46d4a9b35562618e00460b1fa409be88a01d1aa9",
+  "externalIds": {
+    "MAG": "1533024968",
+    "DBLP": "conf/iecon/SalasVOBL14",
+    "DOI": "10.1109/IECON.2014.7049083",
+    "CorpusId": 3550765
+  },
+  "url": "https://www.semanticscholar.org/paper/46d4a9b35562618e00460b1fa409be88a01d1aa9",
+  "title": "Implementation analysis of GPRS communication for precision agriculture",
+  "venue": "Annual Conference of the IEEE Industrial Electronics Society",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IECON.2014.7049083?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IECON.2014.7049083, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2064969262",
+      "name": "Jorge Salas"
+    },
+    {
+      "authorId": "153634194",
+      "name": "H. Vega"
+    },
+    {
+      "authorId": "2057797971",
+      "name": "Julio Ortiz"
+    },
+    {
+      "authorId": "2077279579",
+      "name": "Raime Bustos"
+    },
+    {
+      "authorId": "145377564",
+      "name": "C. Lozoya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

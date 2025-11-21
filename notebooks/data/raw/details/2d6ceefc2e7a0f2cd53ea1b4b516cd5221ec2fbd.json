@@ -1,0 +1,62 @@
+{
+  "paperId": "2d6ceefc2e7a0f2cd53ea1b4b516cd5221ec2fbd",
+  "externalIds": {
+    "MAG": "2119118851",
+    "DOI": "10.2489/jswc.66.4.276",
+    "CorpusId": 50942023
+  },
+  "url": "https://www.semanticscholar.org/paper/2d6ceefc2e7a0f2cd53ea1b4b516cd5221ec2fbd",
+  "title": "Management to mitigate and adapt to climate change",
+  "venue": "Journal of Soil and Water Conservation",
+  "year": 2011,
+  "citationCount": 342,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://www.jswconline.org/content/jswc/66/4/276.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2489/jswc.66.4.276?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2489/jswc.66.4.276, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "21669357",
+      "name": "R. Lal"
+    },
+    {
+      "authorId": "143605325",
+      "name": "J. Delgado"
+    },
+    {
+      "authorId": "2241338553",
+      "name": "M. Groffman"
+    },
+    {
+      "authorId": "2241338632",
+      "name": "York. Neville Millar"
+    },
+    {
+      "authorId": "2241338651",
+      "name": "Curtis J. Dell"
+    },
+    {
+      "authorId": "2241336700",
+      "name": "Alan Rotz"
+    },
+    {
+      "authorId": "2310276",
+      "name": "P. Groffman"
+    },
+    {
+      "authorId": "50481880",
+      "name": "N. Millar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

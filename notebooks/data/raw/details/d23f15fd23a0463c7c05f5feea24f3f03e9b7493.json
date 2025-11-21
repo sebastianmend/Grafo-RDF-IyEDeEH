@@ -1,0 +1,52 @@
+{
+  "paperId": "d23f15fd23a0463c7c05f5feea24f3f03e9b7493",
+  "externalIds": {
+    "MAG": "2068821511",
+    "DOI": "10.5740/JAOACINT.11-224",
+    "CorpusId": 28569372,
+    "PubMed": "22649935"
+  },
+  "url": "https://www.semanticscholar.org/paper/d23f15fd23a0463c7c05f5feea24f3f03e9b7493",
+  "title": "Determination of total cholesterol in meat and poultry by gas chromatography: single-laboratory validation.",
+  "venue": "Journal of AOAC International",
+  "year": 2012,
+  "citationCount": 10,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5740/jaoacint.11-224",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5740/JAOACINT.11-224?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5740/JAOACINT.11-224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1901335",
+      "name": "T. Dinh"
+    },
+    {
+      "authorId": "48895315",
+      "name": "L. Thompson"
+    },
+    {
+      "authorId": "97819763",
+      "name": "M. Galyean"
+    },
+    {
+      "authorId": "88485893",
+      "name": "J. Brooks"
+    },
+    {
+      "authorId": "8305479",
+      "name": "M. Boylan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

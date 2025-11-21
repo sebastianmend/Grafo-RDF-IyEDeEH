@@ -1,0 +1,40 @@
+{
+  "paperId": "7a798b9c1a3a8b02c404a2b96f81f85ec533ae71",
+  "externalIds": {
+    "MAG": "1158524224",
+    "CorpusId": 106643919
+  },
+  "url": "https://www.semanticscholar.org/paper/7a798b9c1a3a8b02c404a2b96f81f85ec533ae71",
+  "title": "Finding Color Blindness Using Ishihara Algorithm",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "83185709",
+      "name": "Srinivasulu Munakala"
+    },
+    {
+      "authorId": "95883137",
+      "name": "D. Tejesh"
+    },
+    {
+      "authorId": "2071609260",
+      "name": "P. Sumathi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

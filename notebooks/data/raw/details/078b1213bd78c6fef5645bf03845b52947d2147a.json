@@ -1,0 +1,46 @@
+{
+  "paperId": "078b1213bd78c6fef5645bf03845b52947d2147a",
+  "externalIds": {
+    "MAG": "1991231477",
+    "DOI": "10.1109/CICN.2011.169",
+    "CorpusId": 16137655
+  },
+  "url": "https://www.semanticscholar.org/paper/078b1213bd78c6fef5645bf03845b52947d2147a",
+  "title": "Wireless Sensor Network for Precision Agriculture",
+  "venue": "International Conference on Computational Intelligence and Communication Networks",
+  "year": 2011,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CICN.2011.169?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CICN.2011.169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145698385",
+      "name": "Prakashgoud R. Patil"
+    },
+    {
+      "authorId": "1452758889",
+      "name": "V. H."
+    },
+    {
+      "authorId": "2113319920",
+      "name": "Shreedevi Patil"
+    },
+    {
+      "authorId": "2486306",
+      "name": "U. Kulkarni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

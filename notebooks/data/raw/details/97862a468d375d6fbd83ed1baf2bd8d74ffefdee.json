@@ -1,0 +1,42 @@
+{
+  "paperId": "97862a468d375d6fbd83ed1baf2bd8d74ffefdee",
+  "externalIds": {
+    "MAG": "2110486987",
+    "DOI": "10.1109/ICICTA.2011.87",
+    "CorpusId": 18412588
+  },
+  "url": "https://www.semanticscholar.org/paper/97862a468d375d6fbd83ed1baf2bd8d74ffefdee",
+  "title": "Wireless Sensor Network for Precise Agriculture Monitoring",
+  "venue": "2011 Fourth International Conference on Intelligent Computation Technology and Automation",
+  "year": 2011,
+  "citationCount": 46,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICTA.2011.87?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICTA.2011.87, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1804698",
+      "name": "Shining Li"
+    },
+    {
+      "authorId": "2114355107",
+      "name": "Jin Cui"
+    },
+    {
+      "authorId": "2109711062",
+      "name": "Zhigang Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

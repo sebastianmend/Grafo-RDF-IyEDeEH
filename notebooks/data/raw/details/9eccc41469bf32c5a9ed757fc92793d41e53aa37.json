@@ -1,0 +1,43 @@
+{
+  "paperId": "9eccc41469bf32c5a9ed757fc92793d41e53aa37",
+  "externalIds": {
+    "MAG": "2423793223",
+    "DOI": "10.1109/ICSCTI.2015.7489591",
+    "CorpusId": 15276333
+  },
+  "url": "https://www.semanticscholar.org/paper/9eccc41469bf32c5a9ed757fc92793d41e53aa37",
+  "title": "Design issues for wireless sensor networks and smart humidity sensors for precision agriculture: A review",
+  "venue": "2015 International Conference on Soft Computing Techniques and Implementations (ICSCTI)",
+  "year": 2015,
+  "citationCount": 33,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSCTI.2015.7489591?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSCTI.2015.7489591, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "30901358",
+      "name": "S. A. Imam"
+    },
+    {
+      "authorId": "2064162631",
+      "name": "A. Choudhary"
+    },
+    {
+      "authorId": "9354694",
+      "name": "V. Sachan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

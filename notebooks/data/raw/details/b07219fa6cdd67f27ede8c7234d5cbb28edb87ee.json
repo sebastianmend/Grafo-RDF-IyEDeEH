@@ -1,0 +1,36 @@
+{
+  "paperId": "b07219fa6cdd67f27ede8c7234d5cbb28edb87ee",
+  "externalIds": {
+    "MAG": "2142987401",
+    "DOI": "10.1111/1556-4029.12825",
+    "CorpusId": 31790684,
+    "PubMed": "26120050"
+  },
+  "url": "https://www.semanticscholar.org/paper/b07219fa6cdd67f27ede8c7234d5cbb28edb87ee",
+  "title": "The Measurement of Stable Carbon Isotope Ratios of Eight Methamidophos Samples",
+  "venue": "Journal of Forensic Sciences",
+  "year": 2015,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1556-4029.12825?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1556-4029.12825, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49060944",
+      "name": "H. Kawashima"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

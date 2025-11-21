@@ -1,0 +1,116 @@
+{
+  "paperId": "9da954ad3c3b980d1a6266d67deb02ba5e1c7d66",
+  "externalIds": {
+    "MAG": "2018062146",
+    "PubMedCentral": "5083864",
+    "DOI": "10.4081/ijfs.2014.1647",
+    "CorpusId": 6950335,
+    "PubMed": "27800334"
+  },
+  "url": "https://www.semanticscholar.org/paper/9da954ad3c3b980d1a6266d67deb02ba5e1c7d66",
+  "title": "Rapid Modified QuEChERS Method for Pesticides Detection in Honey by High-Performance Liquid Chromatography UV-visible",
+  "venue": "Italian Journal of Food Safety",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.4081/ijfs.2014.1647",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5083864, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5716392",
+      "name": "E. Bonerba"
+    },
+    {
+      "authorId": "34655143",
+      "name": "E. Ceci"
+    },
+    {
+      "authorId": "2351846259",
+      "name": "Nicola Montemurro"
+    },
+    {
+      "authorId": "49193287",
+      "name": "G. Tantillo"
+    },
+    {
+      "authorId": "7588116",
+      "name": "A. Di Pinto"
+    },
+    {
+      "authorId": "47914427",
+      "name": "G. Celano"
+    },
+    {
+      "authorId": "48899338",
+      "name": "G. Bozzo"
+    }
+  ],
+  "abstract": "The extensive use of pesticides in agriculture plays an important role in bees die-off and allows the presence of residues in hive products, particularly in honey. An accurate and reliable analytical method, based on QuEChERS extractive technique, has been developed for the quantitative determination by high-performance liquid chromatography UV-visible detector of 5 pesticides (Deltamethrin, Dimethoate, Imidacloprid, Acetamiprid, Chlorfenvinphos) in honey. The method, according to Commission Directive 2002/63/EC and Regulation 882/2004/EC, provided excellent results with respect to linearity (correlation coefficient up to 0.993), limits of detection and quantification (0.005 and 0.01 µg/mL for Dimethoate, Deltamethrin and Chlorfenvinphos; 0.02 and 0.05 µg/mL for Acetamiprid and Imidacloprid), recovery values (86.4 to 96.3%), precision and relative expanded uncertainty of a measurement, demonstrating the conformity of the this method with the European directives. The proposed method was applied to 23 samples of Apulian honey. None of the investigated pesticides was detected in these samples.",
+  "references": [
+    {
+      "paperId": "183d745279cf7aa9f89bd033dff519cbbc2fea48"
+    },
+    {
+      "paperId": "179dfdaefe886520085cbc0c9baef9b5c629ca8a"
+    },
+    {
+      "paperId": "014ddc6df7fe435890dc742ecc3554f539f8bf56"
+    },
+    {
+      "paperId": "9233c0090a4a0f804f4a294775d395bb55400e2d"
+    },
+    {
+      "paperId": "3b6004934bf6e5ed259a8e2a5feac67323c2e5f9"
+    },
+    {
+      "paperId": "844ce3721476c3f35f32b91b718254856467e399"
+    },
+    {
+      "paperId": "d511f47801bc65cd0ede212b45d438cb9be0a961"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9e85e2668c689cfc56a33907fea36ae2cff9c8e9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2c10ae8e70972f15370c5c8a993571f21c35902c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

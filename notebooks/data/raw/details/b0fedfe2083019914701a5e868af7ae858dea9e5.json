@@ -1,0 +1,50 @@
+{
+  "paperId": "b0fedfe2083019914701a5e868af7ae858dea9e5",
+  "externalIds": {
+    "MAG": "2366293348",
+    "CorpusId": 23691064,
+    "PubMed": "25269308"
+  },
+  "url": "https://www.semanticscholar.org/paper/b0fedfe2083019914701a5e868af7ae858dea9e5",
+  "title": "[Winter wheat GPC estimation based on leaf and canopy chlorophyll parameters].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2014,
+  "citationCount": 2,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50706865",
+      "name": "Xiao-yu Song"
+    },
+    {
+      "authorId": "2109655559",
+      "name": "Ji‐Hua Wang"
+    },
+    {
+      "authorId": "34831475",
+      "name": "Guijun Yang"
+    },
+    {
+      "authorId": "39417043",
+      "name": "B. Cui"
+    },
+    {
+      "authorId": "2116284723",
+      "name": "Hong Chang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

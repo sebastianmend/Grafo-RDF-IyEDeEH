@@ -1,0 +1,38 @@
+{
+  "paperId": "82706a0dcd0537f0270f36da1536ce94820f5f49",
+  "externalIds": {
+    "MAG": "2079553231",
+    "DOI": "10.1007/s13593-012-0110-0",
+    "CorpusId": 17766245
+  },
+  "url": "https://www.semanticscholar.org/paper/82706a0dcd0537f0270f36da1536ce94820f5f49",
+  "title": "Agriculture and greenhouse gases, a common tragedy. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2012,
+  "citationCount": 85,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-01201354/file/13593_2012_Article_110.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-012-0110-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-012-0110-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5769705",
+      "name": "I. Stavi"
+    },
+    {
+      "authorId": "21669357",
+      "name": "R. Lal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

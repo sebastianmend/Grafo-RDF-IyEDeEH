@@ -1,0 +1,48 @@
+{
+  "paperId": "9fc9c3f86434d13ef60c1f1feb32e4abf9b7bdcb",
+  "externalIds": {
+    "MAG": "2218982152",
+    "DBLP": "journals/tim/Konstantopoulos16",
+    "DOI": "10.1109/TIM.2015.2495718",
+    "CorpusId": 5037455
+  },
+  "url": "https://www.semanticscholar.org/paper/9fc9c3f86434d13ef60c1f1feb32e4abf9b7bdcb",
+  "title": "Converting a Plant to a Battery and Wireless Sensor with Scatter Radio and Ultra-Low Cost",
+  "venue": "IEEE Transactions on Instrumentation and Measurement",
+  "year": 2016,
+  "citationCount": 57,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TIM.2015.2495718?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TIM.2015.2495718, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2520279",
+      "name": "Christos Konstantopoulos"
+    },
+    {
+      "authorId": "2460889",
+      "name": "E. Koutroulis"
+    },
+    {
+      "authorId": "1879125",
+      "name": "N. Mitianoudis"
+    },
+    {
+      "authorId": "1738195",
+      "name": "A. Bletsas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

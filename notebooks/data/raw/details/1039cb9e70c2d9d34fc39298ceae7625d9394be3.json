@@ -1,0 +1,40 @@
+{
+  "paperId": "1039cb9e70c2d9d34fc39298ceae7625d9394be3",
+  "externalIds": {
+    "MAG": "2280055477",
+    "CorpusId": 262412073
+  },
+  "url": "https://www.semanticscholar.org/paper/1039cb9e70c2d9d34fc39298ceae7625d9394be3",
+  "title": "Development of Counting Algorithm for Overlapped Agricultural Products",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "73290507",
+      "name": "Neetika Bairwa"
+    },
+    {
+      "authorId": "46482813",
+      "name": "N. Agrawal"
+    },
+    {
+      "authorId": "2114034153",
+      "name": "S. Joshi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

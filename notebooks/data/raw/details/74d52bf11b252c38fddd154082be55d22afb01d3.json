@@ -1,0 +1,46 @@
+{
+  "paperId": "74d52bf11b252c38fddd154082be55d22afb01d3",
+  "externalIds": {
+    "MAG": "1968939405",
+    "DOI": "10.1109/ARGO-GEOINFORMATICS.2013.6621959",
+    "CorpusId": 21170670
+  },
+  "url": "https://www.semanticscholar.org/paper/74d52bf11b252c38fddd154082be55d22afb01d3",
+  "title": "Studies on soil organic matter content mapping using EO-1 hyperion data",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ARGO-GEOINFORMATICS.2013.6621959?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ARGO-GEOINFORMATICS.2013.6621959, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50443403",
+      "name": "Shikai Yu"
+    },
+    {
+      "authorId": "9121557",
+      "name": "Yanmin Yao"
+    },
+    {
+      "authorId": "2118961792",
+      "name": "Deying Wang"
+    },
+    {
+      "authorId": "2097158879",
+      "name": "Haiqing Si"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

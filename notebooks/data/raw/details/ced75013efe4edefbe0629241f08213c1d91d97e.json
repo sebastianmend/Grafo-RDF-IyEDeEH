@@ -1,0 +1,32 @@
+{
+  "paperId": "ced75013efe4edefbe0629241f08213c1d91d97e",
+  "externalIds": {
+    "MAG": "1856637801",
+    "CorpusId": 129216315
+  },
+  "url": "https://www.semanticscholar.org/paper/ced75013efe4edefbe0629241f08213c1d91d97e",
+  "title": "Near Real-Time High-Rate GPS Data Analysis for Earthquake and Tsunami Early Warning",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104830586",
+      "name": "Leonor Mendoza Malia"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

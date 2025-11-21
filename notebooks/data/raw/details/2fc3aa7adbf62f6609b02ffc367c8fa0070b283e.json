@@ -1,0 +1,41 @@
+{
+  "paperId": "2fc3aa7adbf62f6609b02ffc367c8fa0070b283e",
+  "externalIds": {
+    "DBLP": "conf/icdma/ShenY11",
+    "MAG": "2054532990",
+    "DOI": "10.1109/ICDMA.2011.122",
+    "CorpusId": 31267286
+  },
+  "url": "https://www.semanticscholar.org/paper/2fc3aa7adbf62f6609b02ffc367c8fa0070b283e",
+  "title": "Dynamic Weighing of the Application Based on Parameters Identification",
+  "venue": "2011 Second International Conference on Digital Manufacturing & Automation",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDMA.2011.122?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDMA.2011.122, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2052469005",
+      "name": "Guoqiang Shen"
+    },
+    {
+      "authorId": "2889308",
+      "name": "Zujian Yan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

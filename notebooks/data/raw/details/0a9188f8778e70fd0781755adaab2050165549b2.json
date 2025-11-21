@@ -1,0 +1,50 @@
+{
+  "paperId": "0a9188f8778e70fd0781755adaab2050165549b2",
+  "externalIds": {
+    "MAG": "2344304383",
+    "DOI": "10.22067/GSC.V8I6.8037",
+    "CorpusId": 130198038
+  },
+  "url": "https://www.semanticscholar.org/paper/0a9188f8778e70fd0781755adaab2050165549b2",
+  "title": "مستندسازی مدیریت زراعی مزارع با استفاده از سیستم های GIS و ArcView (نمونه کاربردی، مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد)",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22067/GSC.V8I6.8037?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22067/GSC.V8I6.8037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1397348448",
+      "name": "کوچکی کوچکی"
+    },
+    {
+      "authorId": "52414039",
+      "name": "شباهنگ شباهنگ"
+    },
+    {
+      "authorId": "86927322",
+      "name": "دل خرمدلخرم"
+    },
+    {
+      "authorId": "89817095",
+      "name": "عظیم عظیمی"
+    },
+    {
+      "authorId": "104887512",
+      "name": "عاقل عاقل"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "5767d02fb65ecc147abaa9e0cdb43fb830b831ca",
+  "externalIds": {
+    "MAG": "117930091",
+    "DBLP": "conf/ifip12/YuLSHQ13",
+    "DOI": "10.1007/978-3-642-54341-8_21",
+    "CorpusId": 35799399
+  },
+  "url": "https://www.semanticscholar.org/paper/5767d02fb65ecc147abaa9e0cdb43fb830b831ca",
+  "title": "Studies on Domestic and Overseas in Research Progress of Agricultural Information Technologies",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-54341-8_21?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-54341-8_21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2119041775",
+      "name": "Ying Yu"
+    },
+    {
+      "authorId": "1707992",
+      "name": "Cunjun Li"
+    },
+    {
+      "authorId": "3095499",
+      "name": "Leigang Shi"
+    },
+    {
+      "authorId": "49006110",
+      "name": "Heju Huai"
+    },
+    {
+      "authorId": "2803802",
+      "name": "Xiangyang Qin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,277 @@
+{
+  "paperId": "eecc0f8c4232f2bd78bb6b36220f9c1c38d8ae87",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/SalamiBP14",
+    "MAG": "2059862423",
+    "DOI": "10.3390/RS61111051",
+    "CorpusId": 9332249
+  },
+  "url": "https://www.semanticscholar.org/paper/eecc0f8c4232f2bd78bb6b36220f9c1c38d8ae87",
+  "title": "UAV Flight Experiments Applied to the Remote Sensing of Vegetated Areas",
+  "venue": "Remote Sensing",
+  "year": 2014,
+  "citationCount": 200,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/6/11/11051/pdf?version=1415694744",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS61111051?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS61111051, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50658562",
+      "name": "E. Salamí"
+    },
+    {
+      "authorId": "1766541",
+      "name": "C. Barrado"
+    },
+    {
+      "authorId": "144639893",
+      "name": "E. Pastor"
+    }
+  ],
+  "abstract": "The miniaturization of electronics, computers and sensors has created new opportunities for remote sensing applications. Despite the current restrictions on regulation, the use of unmanned aerial vehicles equipped with small thermal, laser or spectral sensors has emerged as a promising alternative for assisting modeling, mapping and monitoring applications in rangelands, forests and agricultural environments. This review provides an overview of recent research that has reported UAV flight experiments on the remote sensing of vegetated areas. To provide a differential trend to other reviews, this paper is not limited to crops and precision agriculture applications, but also includes forest and rangeland applications. This work follows a top-down categorization strategy and attempts to fill the gap between application requirements and the characteristics of selected tools, payloads and platforms. Furthermore, correlations between common requirements and the most frequently used solutions are highlighted.",
+  "references": [
+    {
+      "paperId": "f793bba7c224d6e422a1b0c001aab742bd3eace7"
+    },
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "aac799300a3545f7a63ec35cc50a31ed8571f4c0"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "08127ea987fe710153716c3da0bdf3750864f198"
+    },
+    {
+      "paperId": "9f9b0cd39d5edd9f3125ea927213d34609d6aeed"
+    },
+    {
+      "paperId": "5b5d2bd18007095cc529dec8d01148e614881f67"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "5c152139b698742bf7b8571990c1edcbf60b1b8b"
+    },
+    {
+      "paperId": "3be183b6bda63eb14a196431e78dc8a068172344"
+    },
+    {
+      "paperId": "705db7803a32a48c297240e300ef651794c51e44"
+    },
+    {
+      "paperId": "31d88691a1a4f42879c26189829cc4c3899f8dfa"
+    },
+    {
+      "paperId": "075c3fe6bce134d72e08d5109abe2d96276fd52d"
+    },
+    {
+      "paperId": "696b2bc8cfc1753a64f88b7042da79db0c946aa1"
+    },
+    {
+      "paperId": "c54a6d7a4d2677b6254e9004723cfdd2fa61ac71"
+    },
+    {
+      "paperId": "9eca0ea5717419385fa20cf69d09da25da3fcaba"
+    },
+    {
+      "paperId": "0f0d11429e5aaecbc9fce8445afaa3bad7a74888"
+    },
+    {
+      "paperId": "4d29182ae4852a9e35268ff822159ac51694e1de"
+    },
+    {
+      "paperId": "4a06f0f0d643f023411ab79d6a34f756737a6b8a"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "71cb6053b6ecf9c39ff2d0bd1adcb162720478a3"
+    },
+    {
+      "paperId": "6ca598d948991774b2effcee5e245381d85830ec"
+    },
+    {
+      "paperId": "4c70c2cc57354febaabc353ae1ba3fb978dc584b"
+    },
+    {
+      "paperId": "4dc55ce73f5ab8497698f333a9c602bc4099c111"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "102ae43f8f775519c28892a2c0de0d000bde9c7a"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "054cc4c8c5068abd074663592aa5e387963986a0"
+    },
+    {
+      "paperId": "da66bb5f8fc361f0ebe5c2e9bc65448aa60e5e4e"
+    },
+    {
+      "paperId": "680e1398a99ca9606575ec26af6fbdce7c415a6f"
+    },
+    {
+      "paperId": "cf70f7cd10cb910b9789df710a83369c9494cfbe"
+    },
+    {
+      "paperId": "cbe88fcf8ffb55936910afbfd3a89289f40a6501"
+    },
+    {
+      "paperId": "24a931f2000cef230bfc88612223dce1f106f982"
+    },
+    {
+      "paperId": "f4a3e30a92f2e5759a7718819e80961620f715ad"
+    },
+    {
+      "paperId": "8848ec495120fee9d3a0bc5131897b4f7a679408"
+    },
+    {
+      "paperId": "339558632f2d718136a723009de5cbccadfc079c"
+    },
+    {
+      "paperId": "289cd8eda507b667192e94f0799f368dc006a132"
+    },
+    {
+      "paperId": "fe96ba25cf74353406d796651c687df78604c3b5"
+    },
+    {
+      "paperId": "aa17e10ef43eb15b0796d568d68e866fbc111d20"
+    },
+    {
+      "paperId": "d6d938c3a7cb8de9b2d7a7fc8cf8a3c25f0b3163"
+    },
+    {
+      "paperId": "279281a55e00675bd73364969f1dd921a4d59b77"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "dd0beaaa333ef79d7a440005cc07291e7fb2e616"
+    },
+    {
+      "paperId": "0535d5cfbeb1fa24ad41f432d2ec4d5e5fa12e82"
+    },
+    {
+      "paperId": "ba204322c526cffb21386ad295ecdede3aa36621"
+    },
+    {
+      "paperId": "ad077c342d2a4675fc6cb0c1eef27f4cd23f9753"
+    },
+    {
+      "paperId": "3436e3aa37ec66ad42daa957893530012fb3ef16"
+    },
+    {
+      "paperId": "704c996b2d0663dafe6be6c5b5eee7b2878aa420"
+    },
+    {
+      "paperId": "42ed3e4a42e94693b5d73af8ff3898b588ecb409"
+    },
+    {
+      "paperId": "f275a707f2774ccd70ace72f2afe9703fe081f2d"
+    },
+    {
+      "paperId": "b506638c650c1ab84277f5d664f45dea5e997b2f"
+    },
+    {
+      "paperId": "e9677c0173f40981fce871d952f740143c9662d1"
+    },
+    {
+      "paperId": "511ed0f259728e4f9c6ca1d897d90c0f5e1e5789"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "3da2c5a2f1e23727761809184c8b4e39dbe1ad48"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "bb3aa08b5f6f9e8568317b7fcc39d74334d43d23"
+    },
+    {
+      "paperId": "736bd3722368faadf600f97424fe275fd1429e5d"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "368e10ad06b58375c718849a42cfdbb591da953d"
+    },
+    {
+      "paperId": "51b89678a5a93c969d0f31ce91bf68a81ae92dd2"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "0887a4013e47cc290a4112eb8abf73968c459a80"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "479bdb0223b4d2898e1776ef74eabbda532a7c15"
+    },
+    {
+      "paperId": "26db97fc002be217c47ea0d82e09be693b1a95a2"
+    },
+    {
+      "paperId": "491286c61158ad3024e1cef1faa52f2259e37196"
+    },
+    {
+      "paperId": "955a70058c6fa1b1a3fbfa17c5aef6818068e024"
+    },
+    {
+      "paperId": "9380a289a05419b59c736fc53a1852485e4c1349"
+    },
+    {
+      "paperId": "2634296223ce455f56af7d6da4f61e30e654d429"
+    },
+    {
+      "paperId": "bdd7ad027c773b2a1bf53d865b92c0a7199a6da1"
+    },
+    {
+      "paperId": "b628b279f63b2c7436bff3539598000528d768be"
+    },
+    {
+      "paperId": "26ffa240d824f1503f3afafdc14e4a1711449138"
+    },
+    {
+      "paperId": "1bd44f7b8e4ca522253b3072a07efd5b18cabf5d"
+    },
+    {
+      "paperId": "799c56caa55e00f3b27b4a53de3c3cc979649621"
+    }
+  ]
+}

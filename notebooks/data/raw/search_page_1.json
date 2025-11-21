@@ -1,0 +1,23 @@
+{
+  "total": 1,
+  "token": null,
+  "data": [
+    {
+      "paperId": "a773da9fbdcd6be8274d7264585aa31d282572b4",
+      "url": "https://www.semanticscholar.org/paper/a773da9fbdcd6be8274d7264585aa31d282572b4",
+      "title": "Technology for a Food-secure Future: A Review of Technology Advances in Sustainable Agriculture",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://journaljeai.com/index.php/JEAI/article/download/2822/5753",
+        "status": "BRONZE",
+        "license": null
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-08-31"
+    }
+  ]
+}

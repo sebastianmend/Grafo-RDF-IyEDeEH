@@ -1,0 +1,36 @@
+{
+  "paperId": "c39008aa2e74df26fb60b0c63eff55cbc870d836",
+  "externalIds": {
+    "MAG": "1521963256",
+    "CorpusId": 36470727
+  },
+  "url": "https://www.semanticscholar.org/paper/c39008aa2e74df26fb60b0c63eff55cbc870d836",
+  "title": "Evaluation of Digital Maize Planting and Management System based on simulation model",
+  "venue": "Intelligent Memory Systems",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2118159140",
+      "name": "Shijuan Li"
+    },
+    {
+      "authorId": "2811584",
+      "name": "Yeping Zhu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "27ea2e38588ad5a6add0be3ac3e50803a27a1314",
+  "externalIds": {
+    "MAG": "1583106483",
+    "DBLP": "journals/pieee/MuraPPGCB15",
+    "DOI": "10.1109/JPROC.2015.2462751",
+    "CorpusId": 12082535
+  },
+  "url": "https://www.semanticscholar.org/paper/27ea2e38588ad5a6add0be3ac3e50803a27a1314",
+  "title": "Challenges and Opportunities of Multimodality and Data Fusion in Remote Sensing",
+  "venue": "Proceedings of the IEEE",
+  "year": 2015,
+  "citationCount": 252,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-01259771/file/df_rs_pieee_v2.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JPROC.2015.2462751?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JPROC.2015.2462751, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "28325456",
+      "name": "M. Mura"
+    },
+    {
+      "authorId": "145349708",
+      "name": "S. Prasad"
+    },
+    {
+      "authorId": "1806908",
+      "name": "F. Pacifici"
+    },
+    {
+      "authorId": "2833202",
+      "name": "P. Gamba"
+    },
+    {
+      "authorId": "1744943",
+      "name": "J. Chanussot"
+    },
+    {
+      "authorId": "1682001",
+      "name": "J. Benediktsson"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

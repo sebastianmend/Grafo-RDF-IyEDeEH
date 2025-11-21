@@ -1,0 +1,34 @@
+{
+  "paperId": "fcde6c8300200f64d8096b97056424faf3abd796",
+  "externalIds": {
+    "MAG": "2059444818",
+    "DOI": "10.1177/0309816812444828i",
+    "CorpusId": 144667677
+  },
+  "url": "https://www.semanticscholar.org/paper/fcde6c8300200f64d8096b97056424faf3abd796",
+  "title": "Marx’s Capital, by Ben Fine and Alfredo Saad-Filho",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0309816812444828i?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0309816812444828i, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2071589802",
+      "name": "Tiago Camarinha Lopes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

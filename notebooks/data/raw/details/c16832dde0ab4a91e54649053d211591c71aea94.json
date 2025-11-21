@@ -1,0 +1,46 @@
+{
+  "paperId": "c16832dde0ab4a91e54649053d211591c71aea94",
+  "externalIds": {
+    "MAG": "1974700157",
+    "DOI": "10.1109/ICCMS.2010.437",
+    "CorpusId": 18155529
+  },
+  "url": "https://www.semanticscholar.org/paper/c16832dde0ab4a91e54649053d211591c71aea94",
+  "title": "The Modeling and Dynamic Simulation of a Spatial Variable-Link-Length Mechanism",
+  "venue": "2010 Second International Conference on Computer Modeling and Simulation",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCMS.2010.437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCMS.2010.437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "13023073",
+      "name": "Xia Liping"
+    },
+    {
+      "authorId": "91062205",
+      "name": "Wei Wenjun"
+    },
+    {
+      "authorId": "9422111",
+      "name": "Song Jiannong"
+    },
+    {
+      "authorId": "9157647",
+      "name": "L. Shaoming"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

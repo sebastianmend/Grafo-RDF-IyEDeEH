@@ -1,0 +1,139 @@
+{
+  "paperId": "9e234417d13d3eda6e0baad3f8544f1d4653215f",
+  "externalIds": {
+    "MAG": "1594848598",
+    "DOI": "10.5772/55206",
+    "CorpusId": 153808635
+  },
+  "url": "https://www.semanticscholar.org/paper/9e234417d13d3eda6e0baad3f8544f1d4653215f",
+  "title": "Climate change and food security",
+  "venue": "International journal of agriculture extension and social development",
+  "year": 2013,
+  "citationCount": 27,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.intechopen.com/citation-pdf-url/44243",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/55206?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/55206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2245113383",
+      "name": "Christopher K. Saina"
+    },
+    {
+      "authorId": "104829156",
+      "name": "D. K. Murgor"
+    },
+    {
+      "authorId": "2245110494",
+      "name": "FlorenceA.C Murgor"
+    }
+  ],
+  "abstract": "This paper discusses the complex nature of climate change-food security linkages, focusing on how a planet under warming affects food governance at global levels. With changing rainfall patterns, high temperature levels and increases in frequency of severe weather events conventional agricultural practices are endangered by the disruptions in crop yields water availability. Disadvantage areas, usually subsistence farmers, have been hit by more food insufficiency risks. The paper highlights the need for adaptive strategies and resilient agricultural methods to combat the effects of climate change on food productivity. Agriculture emerges as a vital solution, focusing on precision farming, agro ecology and technological innovations which use resources efficiently without affecting the environment. These strategies will require global coordination since climate change does not have borders and affects people all over the world. In addition, the article discusses social and economic aspects of food insecurity linked to climate change that significantly affect deprived groups. It promotes policies that consider the weak points of smallholder farmers and strengthen local communities. Educational initiatives and campaigns create a sense of collective awareness about the challenges that are being faced. The article ends by pointing out the need for immediate and coordinated worldwide efforts to strengthen resilience, ensure food sustainability, and secure future food security with a changing climate. Keywords: Climate Change, Food Security, Technological Innovation, Education, Awareness.",
+  "references": [
+    {
+      "paperId": "cc3a9ca27abdd8dd16f75ce6c3716e57de10fe27"
+    },
+    {
+      "paperId": "7a0fb219deae478ad58cc61244a1c01dda2bb75c"
+    },
+    {
+      "paperId": "08391e969a72dfbeb65f6a86f2203c035c8bc70e"
+    },
+    {
+      "paperId": "2856df3bd23a719593c0adc3ab2f95aa419596cb"
+    },
+    {
+      "paperId": "54924b852895a644585173fb362820171108c14c"
+    },
+    {
+      "paperId": "18ca8edeb91ba55004334e09f0ace2a5e353888a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac48153daa7fb6c3188c2363d8da35a5b5d569a1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7f5b12c7a4cfe071018e6f3aad3379e7c05a0742"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "346c1a825b817040820b6f1186221a09987b1682"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4b8f1071ebd52a6b73f7efeb11cc927f15555e7d"
+    },
+    {
+      "paperId": "046362071b1283a754a4cff7b64968bc110dfd74"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2d5aebde610d2da4bc5b2c8b28d494eb54a3ba2b"
+    },
+    {
+      "paperId": "2af8cff804d2588b8d955e6a79aecc56546543c6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

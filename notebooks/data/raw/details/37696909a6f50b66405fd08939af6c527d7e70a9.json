@@ -1,0 +1,57 @@
+{
+  "paperId": "37696909a6f50b66405fd08939af6c527d7e70a9",
+  "externalIds": {
+    "MAG": "2170819105",
+    "DOI": "10.1002/jssc.201101057",
+    "CorpusId": 36174864,
+    "PubMed": "22532355"
+  },
+  "url": "https://www.semanticscholar.org/paper/37696909a6f50b66405fd08939af6c527d7e70a9",
+  "title": "Comparison of several extraction procedures for the determination of biopesticides in soil samples by ultrahigh pressure LC-MS/MS.",
+  "venue": "Journal of Separation Science",
+  "year": 2012,
+  "citationCount": 32,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jssc.201101057?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jssc.201101057, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "7145711",
+      "name": "O. Prestes"
+    },
+    {
+      "authorId": "1399033737",
+      "name": "J. A. Padilla-Sánchez"
+    },
+    {
+      "authorId": "1397226065",
+      "name": "R. Romero-González"
+    },
+    {
+      "authorId": "13843509",
+      "name": "Sergio José López Grío"
+    },
+    {
+      "authorId": "144327618",
+      "name": "A. Garrido Frenich"
+    },
+    {
+      "authorId": "1442542946",
+      "name": "J. Martínez-Vidal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

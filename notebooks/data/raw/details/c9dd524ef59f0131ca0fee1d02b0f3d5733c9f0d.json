@@ -1,0 +1,121 @@
+{
+  "paperId": "c9dd524ef59f0131ca0fee1d02b0f3d5733c9f0d",
+  "externalIds": {
+    "MAG": "2094303529",
+    "DOI": "10.1071/SR10121",
+    "CorpusId": 54829641
+  },
+  "url": "https://www.semanticscholar.org/paper/c9dd524ef59f0131ca0fee1d02b0f3d5733c9f0d",
+  "title": "The pH of Australian soils: field results from a national survey",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 77,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://www.publish.csiro.au/sr/pdf/SR10121",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1071/SR10121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1071/SR10121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32617470",
+      "name": "P. Caritat"
+    },
+    {
+      "authorId": "2069383026",
+      "name": "M. Cooper"
+    },
+    {
+      "authorId": "50687171",
+      "name": "J. Wilford"
+    }
+  ],
+  "abstract": "The pH is one of the fundamental soil properties governing nutrient availability, metal mobility, elemental toxicity, microbial activity, and plant growth. The field pH of topsoil (0–0.10 m depth) and subsoil (~0.60–0.80 m depth) was measured on floodplain soils collected near the outlet of 1186 catchments covering >6 Mkm2 (6 × 1012 m2) or ~80% of Australia. Field pH duplicate data, obtained at 124 randomly selected sites, indicate a precision of 0.5 pH unit (or 7%), and mapped pH patterns are consistent and meaningful. The median topsoil pH is 6.5, while the subsoil pH has a median of 7 but is strongly bimodal (6–6.5 and 8–8.5). In most cases (64%) the topsoil and subsoil pH values are similar; among the sites exhibiting a pH contrast, those with more acidic topsoils are more common (28%) than those with more alkaline topsoils (7%). The distribution of soil pH at the national scale indicates the strong controls exerted by precipitation and ensuing leaching (e.g. low pH along the coastal fringe, high pH in the dry centre), aridity (e.g. high pH where calcrete is common in the regolith), vegetation (e.g. low pH reflecting abundant soil organic matter), and subsurface lithology (e.g. high pH over limestone bedrock). The new data, together with existing soil pH datasets, can support regional-scale decision-making relating to agricultural, environmental, infrastructural, and mineral exploration decisions.",
+  "references": [
+    {
+      "paperId": "5bb58f12eb22b87a70cd759a0cd28bae7eb7011d"
+    },
+    {
+      "paperId": "b9a07d5cc555b5f2572cb8809b31eed42284f236"
+    },
+    {
+      "paperId": "73b8918d78567289eddad60b1e0191dca6383991"
+    },
+    {
+      "paperId": "32e52f213416d9dc1d083557f6e25e0108e4fc11"
+    },
+    {
+      "paperId": "703295e12c73371cda50fdf2e9ab63c79376b8e2"
+    },
+    {
+      "paperId": "2c6ad47390c1b614ede4783a63be841ebc495989"
+    },
+    {
+      "paperId": "e6180de6121036ebca91336d6660a63315666e34"
+    },
+    {
+      "paperId": "993426ff52a306714cce0e00f9905b8e5bc4c386"
+    },
+    {
+      "paperId": "f48adbbf1d855cbca25e9348516304b4fe51db44"
+    },
+    {
+      "paperId": "c55d141bd39374803e63004ce6d5d10c43d439da"
+    },
+    {
+      "paperId": "7785e97b94e2aaf2ab5a0124941249f5bf0c9004"
+    },
+    {
+      "paperId": "4bc5c56ed3a509c2908dc378e4a6fca1231fa52b"
+    },
+    {
+      "paperId": "c7e9b45ded52878056ccae278c071d8edcd94397"
+    },
+    {
+      "paperId": "5b4d58630f7d7e18d09cd8ada2c96cd9194deebf"
+    },
+    {
+      "paperId": "361e55b277e33263246a2a0b152c620dec65c355"
+    },
+    {
+      "paperId": "10bcd21fe8454a72395c169a4c56465b343c2678"
+    },
+    {
+      "paperId": "7697eb45e3a261594e771d187ffe5885db0697d2"
+    },
+    {
+      "paperId": "9710d6f54d662c24f6b2903f3097af4f5e46abf8"
+    },
+    {
+      "paperId": "16feaf15110662d712c820bf39ce17f2c0bcde88"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "paperId": "7b7b9dee49a34fb6a84af2d154f3b6a5be9e7d0c",
+  "externalIds": {
+    "MAG": "2068090356",
+    "DOI": "10.1109/IITA-GRS.2010.5604219",
+    "CorpusId": 24671770
+  },
+  "url": "https://www.semanticscholar.org/paper/7b7b9dee49a34fb6a84af2d154f3b6a5be9e7d0c",
+  "title": "Soil moisture monitoring using hyper-spectral remote sensing technology",
+  "venue": "2010 Second IITA International Conference on Geoscience and Remote Sensing",
+  "year": 2010,
+  "citationCount": 16,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IITA-GRS.2010.5604219?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IITA-GRS.2010.5604219, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9121557",
+      "name": "Yanmin Yao"
+    },
+    {
+      "authorId": "2056932098",
+      "name": "Wei Na"
+    },
+    {
+      "authorId": "9392659",
+      "name": "Chen Youqi"
+    },
+    {
+      "authorId": "9253611",
+      "name": "Yingbin He"
+    },
+    {
+      "authorId": "2277296569",
+      "name": "Pengqin Tang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

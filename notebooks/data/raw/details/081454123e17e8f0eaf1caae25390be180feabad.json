@@ -1,0 +1,118 @@
+{
+  "paperId": "081454123e17e8f0eaf1caae25390be180feabad",
+  "externalIds": {
+    "MAG": "2299016645",
+    "PubMedCentral": "4609977",
+    "DOI": "10.5487/TR.2015.31.3.299",
+    "CorpusId": 10535840,
+    "PubMed": "26483889"
+  },
+  "url": "https://www.semanticscholar.org/paper/081454123e17e8f0eaf1caae25390be180feabad",
+  "title": "Validation of an HPLC Analytical Method for Determination of Biogenic Amines in Agricultural Products and Monitoring of Biogenic Amines in Korean Fermented Agricultural Products",
+  "venue": "Toxicological Research",
+  "year": 2015,
+  "citationCount": 45,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://koreascience.or.kr:80/article/JAKO201530261999103.pdf",
+    "status": "BRONZE",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4609977, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7914429",
+      "name": "Hyeock Yoon"
+    },
+    {
+      "authorId": "50001512",
+      "name": "J. H. Park"
+    },
+    {
+      "authorId": "39714892",
+      "name": "A. Choi"
+    },
+    {
+      "authorId": "8561261",
+      "name": "H. Hwang"
+    },
+    {
+      "authorId": "49893202",
+      "name": "J. Mah"
+    }
+  ],
+  "abstract": "An HPLC analytical method was validated for the quantitative determination of biogenic amines in agricultural products. Four agricultural foods, including apple juice, Juk , corn oil and peanut butter, were selected as food matrices based on their water and fat contents (i.e., non-fatty liquid, non-fatty solid, fatty liquid and fatty solid, respectively). The precision, accuracy, recovery, limit of detection (LOD) and quantification (LOQ) were determined to test the validity of an HPLC procedure for the determination of biogenic amines, including tryptamine, β-phenylethylamine, putrescine, cadaverine, histamine, tyramine, spermidine and spermine, in each matrix. The LODs and LOQs for the biogenic amines were within the range of 0.01~0.10 mg/kg and 0.02~0.31 mg/kg, respectively. The relative standard deviation (RSD) of intraday for biogenic amine concentrations ranged from 1.86 to 5.95%, whereas the RSD of interday ranged from 2.08 to 5.96%. Of the matrices spiked with biogenic amines, corn oil with tyramine and Juk with putrescine exhibited the least accuracy of 84.85% and recovery rate of 89.63%, respectively, at the lowest concentration (10 mg/kg). Therefore, the validation results fulfilled AOAC criteria and recommendations. Subsequently, the method was applied to the analysis of biogenic amines in fermented agricultural products for a total dietary survey in Korea. Although the results revealed that Korean traditional soy sauce and Doenjang contained relatively high levels of histamine, the amounts are of no concern if these fermented agricultural products serve as condiments.",
+  "references": [
+    {
+      "paperId": "80154a72a9da836768c732e1069d39e8ad8742c5"
+    },
+    {
+      "paperId": "8aa2a10561d8aa3b0483a3f0d247abf0221a4b56"
+    },
+    {
+      "paperId": "322db2ce701ffee255a96ddef1e4efdfc60013b9"
+    },
+    {
+      "paperId": "8cf133bd3d3b9ad96844e8cddda9f5e8ed6f18b1"
+    },
+    {
+      "paperId": "ebf90db9b6ce9e0bbdb6adace0296d9420052490"
+    },
+    {
+      "paperId": "30dbfc266b3932bf00e6214d9852abcf45a4245c"
+    },
+    {
+      "paperId": "b8f4bd66c0e0f356e8f25910b9962c9397565f4a"
+    },
+    {
+      "paperId": "b4126ca634b8052c4ad6c615e884a76f64a36822"
+    },
+    {
+      "paperId": "1046862608b69772e036fc5cb37d34370b7231d3"
+    },
+    {
+      "paperId": "4a30c3e0f14f428757882e2c89b37a7cb03d850b"
+    },
+    {
+      "paperId": "bdc0a2848386ea6cf8d2c6374469366d645c3bca"
+    },
+    {
+      "paperId": "348f08787f34438d8286a5d3b7f686cd81520ee9"
+    },
+    {
+      "paperId": "860f72876488f798f0c694cab1b9a81a243c151a"
+    },
+    {
+      "paperId": "bc7b13cf4905c3f9623463f36521e859d9e8eb20"
+    },
+    {
+      "paperId": "e26ffc6db7159409f31a25fbd5a6284b2e8674b1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4c928b5151614df3f5247a970045f85845d39926"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "paperId": "9740932a71695f585482c9b9d449ae9672fd45d8",
+  "externalIds": {
+    "MAG": "2157039528",
+    "DOI": "10.1109/ICMT.2011.6001934",
+    "CorpusId": 1443176
+  },
+  "url": "https://www.semanticscholar.org/paper/9740932a71695f585482c9b9d449ae9672fd45d8",
+  "title": "The application of mobile based on MapX mobile in the precision irrigation agricultural demonstration zone",
+  "venue": "2011 International Conference on Multimedia Technology",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMT.2011.6001934?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMT.2011.6001934, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2152798521",
+      "name": "Yang Liu"
+    },
+    {
+      "authorId": "1456160549",
+      "name": "Ji Qian"
+    },
+    {
+      "authorId": "31335356",
+      "name": "Xinglong Geng"
+    },
+    {
+      "authorId": "2110227625",
+      "name": "Chunlei Guo"
+    },
+    {
+      "authorId": "48268444",
+      "name": "Xiuyan Gao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

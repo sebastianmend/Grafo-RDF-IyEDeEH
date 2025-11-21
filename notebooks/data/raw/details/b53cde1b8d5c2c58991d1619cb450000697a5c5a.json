@@ -1,0 +1,43 @@
+{
+  "paperId": "b53cde1b8d5c2c58991d1619cb450000697a5c5a",
+  "externalIds": {
+    "MAG": "2323380171",
+    "DOI": "10.1524/teme.2011.0204",
+    "CorpusId": 111429915
+  },
+  "url": "https://www.semanticscholar.org/paper/b53cde1b8d5c2c58991d1619cb450000697a5c5a",
+  "title": "UAV based Multi-spectral Imaging System for Environmental Monitoring",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1524/teme.2011.0204?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1524/teme.2011.0204, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120305647",
+      "name": "M. D. Biasio"
+    },
+    {
+      "authorId": "47482248",
+      "name": "T. Arnold"
+    },
+    {
+      "authorId": "49725587",
+      "name": "R. Leitner"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

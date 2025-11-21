@@ -1,0 +1,43 @@
+{
+  "paperId": "c5d81d051b027e17688f07dd9662d9b116876717",
+  "externalIds": {
+    "DBLP": "conf/ems/IncebacakBT10",
+    "MAG": "2148429015",
+    "DOI": "10.1109/EMS.2010.75",
+    "CorpusId": 11954531
+  },
+  "url": "https://www.semanticscholar.org/paper/c5d81d051b027e17688f07dd9662d9b116876717",
+  "title": "Investigating the Tradeoffs between Spatial Granularity and Energy Requirements in Wireless Sensor Networks",
+  "venue": "2010 Fourth UKSim European Symposium on Computer Modeling and Simulation",
+  "year": 2010,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EMS.2010.75?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EMS.2010.75, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2800620",
+      "name": "Davut Incebacak"
+    },
+    {
+      "authorId": "1724757",
+      "name": "K. Bicakci"
+    },
+    {
+      "authorId": "2925687",
+      "name": "B. Tavlı"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

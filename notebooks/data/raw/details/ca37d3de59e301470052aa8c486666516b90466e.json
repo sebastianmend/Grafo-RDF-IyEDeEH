@@ -1,0 +1,54 @@
+{
+  "paperId": "ca37d3de59e301470052aa8c486666516b90466e",
+  "externalIds": {
+    "MAG": "2300553119",
+    "CorpusId": 41575520,
+    "PubMed": "26978924"
+  },
+  "url": "https://www.semanticscholar.org/paper/ca37d3de59e301470052aa8c486666516b90466e",
+  "title": "[Prediction of Cadmium Content in the Leaves of Navel Orange in Heavy Metal Contaminated Soil Using VIS-NIR Reflectance Spectroscopy].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2015,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "12481011",
+      "name": "Rongjie Shi"
+    },
+    {
+      "authorId": "10960794",
+      "name": "Xianzhang Pan"
+    },
+    {
+      "authorId": "50096772",
+      "name": "Changkun Wang"
+    },
+    {
+      "authorId": "2116071595",
+      "name": "Ya Liu"
+    },
+    {
+      "authorId": "2110512719",
+      "name": "Yan-li Li"
+    },
+    {
+      "authorId": "2111336443",
+      "name": "Zhi-Ting Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

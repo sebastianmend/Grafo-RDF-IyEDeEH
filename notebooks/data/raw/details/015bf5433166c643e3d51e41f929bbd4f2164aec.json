@@ -1,0 +1,37 @@
+{
+  "paperId": "015bf5433166c643e3d51e41f929bbd4f2164aec",
+  "externalIds": {
+    "MAG": "2022212208",
+    "PubMedCentral": "2982086",
+    "DOI": "10.1091/mbc.E10-04-0344",
+    "CorpusId": 1543232,
+    "PubMed": "21079030"
+  },
+  "url": "https://www.semanticscholar.org/paper/015bf5433166c643e3d51e41f929bbd4f2164aec",
+  "title": "Engineering the Future with Cell Biology",
+  "venue": "Molecular Biology of the Cell",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc2982086",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2982086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "79711699",
+      "name": "K. Simons"
+    }
+  ],
+  "abstract": "In the next 50 years, we will have to face the issue of dwindling natural resources. Our welfare is dependent on an increasing consumption of fossil materials and metals that are limited in supply. The challenge is how we can come up with solutions that enable us to live in peace and prosperity on this planet. \n \n \n \nKai Simons \n \n \n \nThis challenge can only be met with new technologies. Our present technologies are simply too energy-intensive and consume too much of the reserves that will be limited in supply in the future. The only way out is to continue miniaturization—to move into the age of nanotechnology. This implies a technological revolution with enormous challenges. It is my contention that this revolution will be fed by new cell biology. \n \nThis is because all living organisms on this planet contain small machines—nanomachines—that sustain the life of each living species. Life is dependent on nanotechnology. The scaling of life is in the nanometer range. The machines in cells can produce energy and materials of almost any kind. The cellular production plants have inbuilt waste disposal systems with highly efficient recycling capabilities. The products produced in our cellular factories can be transported to their intracellular and extracellular destinations along cables by motors with unheard of performance. The cellular signaling and communication systems are wonders of precision and efficiency. Today, we are focusing cell biological research on a limited number of model organisms. The time has come to expand this repertoire to more and more organisms. Each of them will have some remarkable feature, which will provide a never-ending source of discoveries of how nature works. This will of course require a new symbiosis of engineering, physics, chemistry, and biology that has already started. \n \nCell biology needs to introduce the strategies of engineering to unravel the design principles underlying different molecular processes. Design principles offer a potentially powerful tool to understand the rationale behind the existence of the different large families of proteins such as motor proteins—each family member may be adapted for a particular cellular or developmental role, but one really would need to unravel the design principles to substantiate this argument. You might call this strategy systems biology or synthetic biology, but in the end we want to understand the workings of life. \n \nBiotechnology today is being applied in the pharmaceutical, health, and agricultural arenas that will continue to be pillars of the biotechnological industry. However, the most important pillar for the future will be molecular bioengineering, based on nature's nanomachines. In this regard, the unending discussions on the pros and cons of genetically modified organisms, stem cells, and cloning are missing the point. The real challenge lies elsewhere, in inventing new technologies that can replace those that we use today. We do not have much time. If we cannot find alternative ways to produce energy and materials before our fossil resources start to dwindle, this planet will be threatened by wars as destructive as those in the past century. \n \nThis coming revolution is not only an enormous global challenge but also full of opportunities. I predict that engineers, who today lack training or knowledge of cell biology, will in the future take their inspiration from all the wonder machines that nature has produced. Molecular cell biologists are continuously unraveling the workings of the cellular nanomachineries. This will be a real source of future welfare and wealth globally, and not like the virtual dividends that result from manipulating the financial markets.",
+  "references": []
+}

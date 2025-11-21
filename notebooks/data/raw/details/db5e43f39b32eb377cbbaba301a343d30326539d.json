@@ -1,0 +1,275 @@
+{
+  "paperId": "db5e43f39b32eb377cbbaba301a343d30326539d",
+  "externalIds": {
+    "DBLP": "journals/sensors/BitellaRBPA14",
+    "PubMedCentral": "4239887",
+    "MAG": "2098845242",
+    "DOI": "10.3390/s141019639",
+    "CorpusId": 929247,
+    "PubMed": "25337742"
+  },
+  "url": "https://www.semanticscholar.org/paper/db5e43f39b32eb377cbbaba301a343d30326539d",
+  "title": "A Novel Low-Cost Open-Hardware Platform for Monitoring Soil Water Content and Multiple Soil-Air-Vegetation Parameters",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2014,
+  "citationCount": 92,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/14/10/19639/pdf?version=1414059381",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4239887, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8666473",
+      "name": "G. Bitella"
+    },
+    {
+      "authorId": "48727389",
+      "name": "R. Rossi"
+    },
+    {
+      "authorId": "8667933",
+      "name": "R. Bochicchio"
+    },
+    {
+      "authorId": "6300039",
+      "name": "M. Perniola"
+    },
+    {
+      "authorId": "39429380",
+      "name": "M. Amato"
+    }
+  ],
+  "abstract": "Monitoring soil water content at high spatio-temporal resolution and coupled to other sensor data is crucial for applications oriented towards water sustainability in agriculture, such as precision irrigation or phenotyping root traits for drought tolerance. The cost of instrumentation, however, limits measurement frequency and number of sensors. The objective of this work was to design a low cost “open hardware” platform for multi-sensor measurements including water content at different depths, air and soil temperatures. The system is based on an open-source ARDUINO microcontroller-board, programmed in a simple integrated development environment (IDE). Low cost high-frequency dielectric probes were used in the platform and lab tested on three non-saline soils (ECe1: 2.5 < 0.1 mS/cm). Empirical calibration curves were subjected to cross-validation (leave-one-out method), and normalized root mean square error (NRMSE) were respectively 0.09 for the overall model, 0.09 for the sandy soil, 0.07 for the clay loam and 0.08 for the sandy loam. The overall model (pooled soil data) fitted the data very well (R2 = 0.89) showing a high stability, being able to generate very similar RMSEs during training and validation (RMSEtraining = 2.63; RMSEvalidation = 2.61). Data recorded on the card were automatically sent to a remote server allowing repeated field-data quality checks. This work provides a framework for the replication and upgrading of a customized low cost platform, consistent with the open source approach whereby sharing information on equipment design and software facilitates the adoption and continuous improvement of existing technologies.",
+  "references": [
+    {
+      "paperId": "34ce693458ae179b92c1e1c5ba294d3d6bcec052"
+    },
+    {
+      "paperId": "a1e9802f570c577f5b1c70a7e018310c5f057a10"
+    },
+    {
+      "paperId": "aa76b74584d50facad52e098a0d3d9c7c1e3c019"
+    },
+    {
+      "paperId": "163c331e2212d7ed3b46d47428eeb1a17af19f34"
+    },
+    {
+      "paperId": "23c27d88d30218346673348bff59c849ac3a2219"
+    },
+    {
+      "paperId": "bd0a03abc9f47ae8450e827e0db1a0067d07c835"
+    },
+    {
+      "paperId": "c32f8ce38eb7fb58b4ae7b21d90db527c9881fad"
+    },
+    {
+      "paperId": "dda990c75e29087f6a7fe8180f90e959a24cf0c1"
+    },
+    {
+      "paperId": "9e6c8205dc8eef3a6c55b28efc60545b259440b6"
+    },
+    {
+      "paperId": "155379ab94e87ee9cf7648eb53dfc8749887eee7"
+    },
+    {
+      "paperId": "02ebef49f5c7e5e2a7ec41bcbad28b1f0b1e4a44"
+    },
+    {
+      "paperId": "55f1c5fab75e4ad00a28ed79bf6f7b95f488c93a"
+    },
+    {
+      "paperId": "fb7175cd966ae3e5a3dcdb2c2074966337e138c2"
+    },
+    {
+      "paperId": "03a447001455d6cd0f80d0524fa5f94b468c154b"
+    },
+    {
+      "paperId": "d759e9ac8b2c46931e2502797209845d95b82720"
+    },
+    {
+      "paperId": "82bf540cb32248f24f8f87124a7dcff45e08a726"
+    },
+    {
+      "paperId": "e9f4095135aeef7fda84da5c1ece9521a39403a3"
+    },
+    {
+      "paperId": "c6531ef4617fce1327ab29fed811f07b28111a47"
+    },
+    {
+      "paperId": "cc62eeba7120ffd63df75134f0752bf15f5c1f21"
+    },
+    {
+      "paperId": "baaaf9832bda901dc970f4850b8735fdc880fcb5"
+    },
+    {
+      "paperId": "30db71579aa4ae9646643479e4ff4aa48b1b5d66"
+    },
+    {
+      "paperId": "bdc30231562f317a4f6e2b150fb86541a9209b87"
+    },
+    {
+      "paperId": "6db9e1f5550962977df85e4df3585849ea851fb0"
+    },
+    {
+      "paperId": "b480a06ade90a773c8eca8e0d08089b5aa8c471e"
+    },
+    {
+      "paperId": "d950ebfbb82b382d8345362d9fb03fa36da41a0a"
+    },
+    {
+      "paperId": "0fd3826afe06f836a0ac02ea2206a008c1962b57"
+    },
+    {
+      "paperId": "27756251a546396a3e8528d5d8d835af52cd0dd2"
+    },
+    {
+      "paperId": "726d86e5e0802200dfdbc205523fd2d85e834715"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "55132aa56998ce7e6c635f0660ef894d5ff2d7ba"
+    },
+    {
+      "paperId": "706d5e1538e9ec7455053e9c9f410a0d49eeff87"
+    },
+    {
+      "paperId": "dc617e0cefb93525561bebf8ce2305f30558b5cd"
+    },
+    {
+      "paperId": "9626414fc2027e85e8f5ea3af6a09add6dff9d2e"
+    },
+    {
+      "paperId": "e83114fb1bff85dbb249d468287c5d632b7ecfc5"
+    },
+    {
+      "paperId": "3cb9d6081b82a6d0906298198be2708488131596"
+    },
+    {
+      "paperId": "f1ab8dea52e6829ceb421a26224ec92fc24826b4"
+    },
+    {
+      "paperId": "1e8ad7bd7b66e686726d87e3fc56bb865ddd8bde"
+    },
+    {
+      "paperId": "d84c7664da9bd97cd9e6d3cca188a177ca064f6a"
+    },
+    {
+      "paperId": "57ee33360a784dfbf3f0ea202a20f061051d7ed1"
+    },
+    {
+      "paperId": "69f2e1ec4841482dd237f12b027ce61124edbbc6"
+    },
+    {
+      "paperId": "ace9abbace7da896ae9a15195e8ba352acf3c457"
+    },
+    {
+      "paperId": "4501a9a9649b116dea787a65f4daf7ca30f2350a"
+    },
+    {
+      "paperId": "72ae84b0aa99528f4242f50a46c53ffc12aafd81"
+    },
+    {
+      "paperId": "7263ac5ad8cd4138d99996b7c49e56b5d5a1fb66"
+    },
+    {
+      "paperId": "7ce1068926f1018be731795453b8e1fdbbede363"
+    },
+    {
+      "paperId": "6e9f674a97c24e03fa3ae64f214897b2dbc428e1"
+    },
+    {
+      "paperId": "702e3e593fd7d4e4058c7edf8277839fbaea248a"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": "aeab2e9169b2e0130cf3ade4b76e75a8ff54cfbe"
+    },
+    {
+      "paperId": "84f2219c5e5842284e5ff12797fe121ba46e3523"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "28534cab50c07e4ea2266f768d293694286c1e98"
+    },
+    {
+      "paperId": "cc530501bd47433f01a93e61bdd5de0289d129ed"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

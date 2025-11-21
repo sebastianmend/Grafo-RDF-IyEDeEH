@@ -1,0 +1,34 @@
+{
+  "paperId": "04fc41a69e306866bfd9b8756306eab6a753c039",
+  "externalIds": {
+    "MAG": "2108024277",
+    "DOI": "10.31428/10317/4697",
+    "CorpusId": 110643090
+  },
+  "url": "https://www.semanticscholar.org/paper/04fc41a69e306866bfd9b8756306eab6a753c039",
+  "title": "Contribution to the optimal design and performance improvement of wireless mesh sensor networks",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.31428/10317/4697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31428/10317/4697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "96841271",
+      "name": "David Herraiz"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

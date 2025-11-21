@@ -1,0 +1,38 @@
+{
+  "paperId": "a0a87d3f8d7d53c0cfc840c6362d136603dcdfa3",
+  "externalIds": {
+    "MAG": "1964259039",
+    "DOI": "10.1109/MACE.2011.5988710",
+    "CorpusId": 18845000
+  },
+  "url": "https://www.semanticscholar.org/paper/a0a87d3f8d7d53c0cfc840c6362d136603dcdfa3",
+  "title": "Analyze relationship of rainfall-runoff through the distributed hydrological modeling",
+  "venue": "2011 Second International Conference on Mechanic Automation and Control Engineering",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MACE.2011.5988710?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MACE.2011.5988710, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "11227762",
+      "name": "Kong-yun Wu"
+    },
+    {
+      "authorId": "98232485",
+      "name": "X. Lu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

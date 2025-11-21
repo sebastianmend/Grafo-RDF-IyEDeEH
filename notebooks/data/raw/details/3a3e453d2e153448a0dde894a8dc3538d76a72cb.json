@@ -1,0 +1,64 @@
+{
+  "paperId": "3a3e453d2e153448a0dde894a8dc3538d76a72cb",
+  "externalIds": {
+    "MAG": "2089532276",
+    "DOI": "10.1080/19393210.2014.932311",
+    "CorpusId": 27465662,
+    "PubMed": "24916139"
+  },
+  "url": "https://www.semanticscholar.org/paper/3a3e453d2e153448a0dde894a8dc3538d76a72cb",
+  "title": "Determination of toxic heavy metals in Echinodermata and Chordata species from South Korea",
+  "venue": "Food Additives & Contaminants, Part B",
+  "year": 2014,
+  "citationCount": 26,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/19393210.2014.932311?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/19393210.2014.932311, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1399900380",
+      "name": "J. Choi"
+    },
+    {
+      "authorId": "12680675",
+      "name": "Girum Habte"
+    },
+    {
+      "authorId": "145927505",
+      "name": "N. Khan"
+    },
+    {
+      "authorId": "14614076",
+      "name": "E. Nho"
+    },
+    {
+      "authorId": "1393373598",
+      "name": "Joon Ho Hong"
+    },
+    {
+      "authorId": "143971786",
+      "name": "Hoon Choi"
+    },
+    {
+      "authorId": "144544576",
+      "name": "K. Park"
+    },
+    {
+      "authorId": "6423964",
+      "name": "K. Kim"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

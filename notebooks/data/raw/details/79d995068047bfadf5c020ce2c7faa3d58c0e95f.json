@@ -1,0 +1,55 @@
+{
+  "paperId": "79d995068047bfadf5c020ce2c7faa3d58c0e95f",
+  "externalIds": {
+    "DOI": "10.1007/s11119-013-9337-2",
+    "CorpusId": 254935481
+  },
+  "url": "https://www.semanticscholar.org/paper/79d995068047bfadf5c020ce2c7faa3d58c0e95f",
+  "title": "Innovation mechanisms in German precision farming",
+  "venue": "Precision Agriculture",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-013-9337-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-013-9337-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35028092",
+      "name": "M. Busse"
+    },
+    {
+      "authorId": "4228348",
+      "name": "A. Doernberg"
+    },
+    {
+      "authorId": "4912721",
+      "name": "R. Siebert"
+    },
+    {
+      "authorId": "2248625",
+      "name": "A. Kuntosch"
+    },
+    {
+      "authorId": "3518283",
+      "name": "W. Schwerdtner"
+    },
+    {
+      "authorId": "48708912",
+      "name": "B. König"
+    },
+    {
+      "authorId": "3357119",
+      "name": "W. Bokelmann"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

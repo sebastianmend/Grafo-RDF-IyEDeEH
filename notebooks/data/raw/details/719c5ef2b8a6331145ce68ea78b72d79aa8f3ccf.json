@@ -1,0 +1,39 @@
+{
+  "paperId": "719c5ef2b8a6331145ce68ea78b72d79aa8f3ccf",
+  "externalIds": {
+    "MAG": "2007910329",
+    "DBLP": "journals/ki/BauckhageK13a",
+    "DOI": "10.1007/s13218-013-0273-0",
+    "CorpusId": 3239584
+  },
+  "url": "https://www.semanticscholar.org/paper/719c5ef2b8a6331145ce68ea78b72d79aa8f3ccf",
+  "title": "Data Mining and Pattern Recognition in Agriculture",
+  "venue": "KI - Künstliche Intelligenz",
+  "year": 2013,
+  "citationCount": 46,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13218-013-0273-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13218-013-0273-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1692283",
+      "name": "C. Bauckhage"
+    },
+    {
+      "authorId": "1746871",
+      "name": "K. Kersting"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

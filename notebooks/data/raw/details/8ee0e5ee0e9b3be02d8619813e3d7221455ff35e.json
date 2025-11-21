@@ -1,0 +1,50 @@
+{
+  "paperId": "8ee0e5ee0e9b3be02d8619813e3d7221455ff35e",
+  "externalIds": {
+    "MAG": "2385675194",
+    "CorpusId": 32293712,
+    "PubMed": "20827978"
+  },
+  "url": "https://www.semanticscholar.org/paper/8ee0e5ee0e9b3be02d8619813e3d7221455ff35e",
+  "title": "[Winter wheat growth spatial variation study based on temporal airborne high-spectrum images].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2010,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50706865",
+      "name": "Xiao-yu Song"
+    },
+    {
+      "authorId": "2109655559",
+      "name": "Ji‐Hua Wang"
+    },
+    {
+      "authorId": "1993608",
+      "name": "G. Yan"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "3101481",
+      "name": "Liang-Yun Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "e0027d4a2bf44d2fa448066d0be7d371399e2da6",
+  "externalIds": {
+    "MAG": "2545563783",
+    "DOI": "10.1109/MICC.2015.7725400",
+    "CorpusId": 23307587
+  },
+  "url": "https://www.semanticscholar.org/paper/e0027d4a2bf44d2fa448066d0be7d371399e2da6",
+  "title": "Precision agriculture applications using wireless moisture sensor network",
+  "venue": "2015 IEEE 12th Malaysia International Conference on Communications (MICC)",
+  "year": 2015,
+  "citationCount": 33,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MICC.2015.7725400?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MICC.2015.7725400, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40170162",
+      "name": "I. Mat"
+    },
+    {
+      "authorId": "9427886",
+      "name": "Mohamed Rawidean Mohd Kassim"
+    },
+    {
+      "authorId": "37345377",
+      "name": "A. N. Harun"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

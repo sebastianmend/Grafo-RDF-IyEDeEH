@@ -1,0 +1,49 @@
+{
+  "paperId": "90234b1e12afa18be5dc295a2bbfdf929fda8742",
+  "externalIds": {
+    "MAG": "2050995257",
+    "DBLP": "conf/icnc/WangHLZ10",
+    "DOI": "10.1109/ICNC.2010.5584591",
+    "CorpusId": 8349663
+  },
+  "url": "https://www.semanticscholar.org/paper/90234b1e12afa18be5dc295a2bbfdf929fda8742",
+  "title": "Estimating chlorophyll content of rice under soil contamination stress using BPNN",
+  "venue": "2010 Sixth International Conference on Natural Computation",
+  "year": 2010,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICNC.2010.5584591?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICNC.2010.5584591, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "49830884",
+      "name": "Ping Wang"
+    },
+    {
+      "authorId": "144751792",
+      "name": "F. Huang"
+    },
+    {
+      "authorId": "46522095",
+      "name": "Xiangnan Liu"
+    },
+    {
+      "authorId": "48096447",
+      "name": "Ling-jun Zhao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,138 @@
+{
+  "paperId": "1f407ba997265fdd0d72432dcf8b5d39ad5f0540",
+  "externalIds": {
+    "MAG": "2156710280",
+    "DOI": "10.3844/AJABSSP.2010.50.55",
+    "CorpusId": 52064877
+  },
+  "url": "https://www.semanticscholar.org/paper/1f407ba997265fdd0d72432dcf8b5d39ad5f0540",
+  "title": "A Review: The Role of Remote Sensing in Precision Agriculture",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 262,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://thescipub.com/pdf/ajabssp.2010.50.55.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3844/AJABSSP.2010.50.55?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3844/AJABSSP.2010.50.55, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "88935942",
+      "name": "Shohreh Liaghat"
+    },
+    {
+      "authorId": "51260647",
+      "name": "S. K. Balasundram"
+    }
+  ],
+  "abstract": "Precision agriculture is an emerging farm management strategy that is changing the way people farm. At present, there is an increasing commitment to reduce reliance on excessive chemical inputs in agriculture. Numerous technologies have been applied to make agricultural products safer and to lower their adverse impacts on the environment, a goal that is consistent with sustainable agriculture. Precision agriculture has emerged as a valuable component of the framework to achieve this goal. This review highlighted on remote sensing technology and describes how it can be used as an effective tool in precision agriculture.",
+  "references": [
+    {
+      "paperId": "ffca419df301880e14de7effed557e5d88d05c18"
+    },
+    {
+      "paperId": "a1ce92dc0a914463509c406d8e70b2971fb99123"
+    },
+    {
+      "paperId": "7b5e0059150c3e630bd3e9fc8395b730390b59dd"
+    },
+    {
+      "paperId": "d9c92f1581009b0dcd40311fc027dc0799fc2558"
+    },
+    {
+      "paperId": "5791f0bb027d26b08850a16bb1c44ad50567b509"
+    },
+    {
+      "paperId": "449cac5bdb0b0d131335520956f758265c2efacd"
+    },
+    {
+      "paperId": "ad624f7fbb25290667d2422bcaa17aa85357a218"
+    },
+    {
+      "paperId": "24a3520784f389f63014a947cb74ca194675bade"
+    },
+    {
+      "paperId": "b7ad7b46361f830de2905b444d4fac6aaa6b6d7d"
+    },
+    {
+      "paperId": "e1ac925108c1fb09a063c8eeb1745da2cfd7ba96"
+    },
+    {
+      "paperId": "9746db3ffc6f5207588d996ae2fcf03964a3b1e1"
+    },
+    {
+      "paperId": "b16457392e25f9677dfe1a0140187c0ce9ddd90c"
+    },
+    {
+      "paperId": "6c535cb698e96085095f9c22df3f01e2efd5e4e6"
+    },
+    {
+      "paperId": "bb2e6a8d516f775586e109ca591ed3acbed9f12d"
+    },
+    {
+      "paperId": "343400879ef6fe433cc090c39f3fbb1a846076f0"
+    },
+    {
+      "paperId": "abf35bb32d077832d6cc1ead91a01b68b3628413"
+    },
+    {
+      "paperId": "14a2b3b4480a42364fec89fad613edcbb4909333"
+    },
+    {
+      "paperId": "bd86d4b98aacd579eeff70c296226a4a18296e94"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "065b7e09cc81e44d5f7912e6aaf7d551f3770532"
+    },
+    {
+      "paperId": "da7a70a97733eaaee04bf0c253314f29ed10aa53"
+    },
+    {
+      "paperId": "488ce2aee490784fa68e3c7a4c52f8a629856d09"
+    },
+    {
+      "paperId": "985001efb8d132c7f44bb14808e5f95684f0dfa0"
+    },
+    {
+      "paperId": "8d478b70394d39e0d7d7d58d3c014087923ade1d"
+    },
+    {
+      "paperId": "71130cbe93a92959ca1ede99269c2caca75c8a86"
+    },
+    {
+      "paperId": "d074dd03ae0392b91996c4993a218dab143470df"
+    },
+    {
+      "paperId": "4508cc47899805213f9d29fc1a9ed414429d88f8"
+    },
+    {
+      "paperId": "b0a6c43773a77c83d8d3049e850ba61502375f3e"
+    },
+    {
+      "paperId": "056fb11cd0a37f29e70a32762b219c3d64d47ff4"
+    },
+    {
+      "paperId": "f3ced6f8de2918cc3950b7dd320d8dccc743cf87"
+    },
+    {
+      "paperId": "c91062c3e1c4cd489765d74a2a71344050ef9d66"
+    },
+    {
+      "paperId": "b9b82c81b3eccb9b188ff2de0382f98f63b94ab4"
+    },
+    {
+      "paperId": "52d7cd5af5fa402c88ac5d355d2bd120b5544846"
+    }
+  ]
+}

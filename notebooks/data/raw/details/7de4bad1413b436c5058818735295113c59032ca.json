@@ -1,0 +1,39 @@
+{
+  "paperId": "7de4bad1413b436c5058818735295113c59032ca",
+  "externalIds": {
+    "DBLP": "conf/ida/RussB10",
+    "MAG": "1486716343",
+    "DOI": "10.1007/978-3-642-13062-5_18",
+    "CorpusId": 15730902
+  },
+  "url": "https://www.semanticscholar.org/paper/7de4bad1413b436c5058818735295113c59032ca",
+  "title": "Spatial Variable Importance Assessment for Yield Prediction in Precision Agriculture",
+  "venue": "International Symposium on Intelligent Data Analysis",
+  "year": 2010,
+  "citationCount": 30,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-13062-5_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-13062-5_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "32349706",
+      "name": "G. Ruß"
+    },
+    {
+      "authorId": "2817369",
+      "name": "A. Brenning"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

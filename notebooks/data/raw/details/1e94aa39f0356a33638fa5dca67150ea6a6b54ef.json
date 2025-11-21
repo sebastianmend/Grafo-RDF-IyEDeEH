@@ -1,0 +1,58 @@
+{
+  "paperId": "1e94aa39f0356a33638fa5dca67150ea6a6b54ef",
+  "externalIds": {
+    "MAG": "1575990685",
+    "DOI": "10.1117/12.2192660",
+    "CorpusId": 33547289
+  },
+  "url": "https://www.semanticscholar.org/paper/1e94aa39f0356a33638fa5dca67150ea6a6b54ef",
+  "title": "Development of a UAV system for VNIR-TIR acquisitions in precision agriculture",
+  "venue": "International Conference on Remote Sensing and Geoinformation of Environment",
+  "year": 2015,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2192660?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2192660, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2273041991",
+      "name": "Lazaros Misopolinos"
+    },
+    {
+      "authorId": "98753394",
+      "name": "Ch. Zalidis"
+    },
+    {
+      "authorId": "49729149",
+      "name": "V. Liakopoulos"
+    },
+    {
+      "authorId": "98595559",
+      "name": "D. Stavridou"
+    },
+    {
+      "authorId": "9220972",
+      "name": "P. Katsigiannis"
+    },
+    {
+      "authorId": "2295693",
+      "name": "T. Alexandridis"
+    },
+    {
+      "authorId": "145393721",
+      "name": "G. Zalidis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

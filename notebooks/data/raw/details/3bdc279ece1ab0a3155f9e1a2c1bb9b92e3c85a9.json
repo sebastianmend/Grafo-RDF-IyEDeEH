@@ -1,0 +1,54 @@
+{
+  "paperId": "3bdc279ece1ab0a3155f9e1a2c1bb9b92e3c85a9",
+  "externalIds": {
+    "MAG": "1948430469",
+    "DOI": "10.2991/ISRME-15.2015.150",
+    "CorpusId": 58792801
+  },
+  "url": "https://www.semanticscholar.org/paper/3bdc279ece1ab0a3155f9e1a2c1bb9b92e3c85a9",
+  "title": "An Application of Fuzzy C-Means Based Clustering Technique in Smart Farming",
+  "venue": "International Conference on Interaction Sciences",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.atlantis-press.com/article/18338.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ISRME-15.2015.150?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ISRME-15.2015.150, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49178922",
+      "name": "Zhuo Tian"
+    },
+    {
+      "authorId": "71788681",
+      "name": "B. Li"
+    }
+  ],
+  "abstract": "Customised farming has seen ever increasing interest of next level farming practices across the globe by the modern agronomist of the age. Customized Management practices (CMP) make use of creating management zones (MZs’), leading to precision farming through application of variable rate technology for soil inputs. In this paper site-specific Apparent Electrical conductivity (ECa) and crop yield information have been used to study the spatial distribution and variability of the land. Matlab 8.5 version was used to implement Fuzzy c-means clustering in order to cluster the data and various performance indices such as NCE, FPI and their ifference were calculated to determine the clustering performance. Both the clusters (ECa and crop yield) were mapped and good amount of overlap was observed indicating the relationship between ECa and crop yield. Introduction Agriculture production system is an outcome of complex interaction of seed, soil, water and agro-chemicals. Therefore, judicious management of all the inputs is essential for the sustainability of such a complex system. It is also certain that availability of labour is also going to be a major worry for the agriculture lands. So it is imperative to utilize the resources judiciously and effectively. Precision farming merges the new technology borne out of information age and mature agriculture industry. It is an integrated crop management system that attempts to match the kind and amount of inputs with the actual crop needs for small areas in the field. This goal although is not new but the modern technology and advancements allow this concept to take shape. New information tools not only serve to manage within-field variability but also general aspects of farming such as documentation of field work. Precision agriculture (PA) emerged with the application of new technologies in farming such as GPS, new sensing techniques and variable rate technology, enabling local field measurement and adjustment of local inputs. But the precision agriculture system is not yet complete. Especially, decision support in precision management needs to be further developed so that detailed field information may be used in an effective way in precise field management. The objective of the research described here is clustering of soil parameters, and comparing this with the yield results. Another clustering was performed, using apparent soil Electrical Conductivity (ECa) and yield of Punjab Agriculture University (PAU) fields. This was used as a means to highlight the soil-yield interaction in the field. The interpolation methods and grid size of the soil and crop data can influence the analysis result. Materials and Methodology Survey data of geo-referenced ECa of soil has been collected on three experimental fields. Sites description.Sensor measured soil properties and yield were measured during the 2010 season, on field scale basis with summer paddy, varieties such as PBW 343, PBW 550 and DBW 17. The normal crop protection measures were taken, including herbicides, stem growth reduction and fungicides. The field was harvested in May 010.Numbered plots with dimensions as per below mentioned details were established on the field. Post harvesting different varieties of paddy fields during 2010 summers,the field survey was conducted on these three experimental fields situated in International Conference on Intelligent Systems Research and Mechatronics Engineering (ISRME 2015) © 2015. The authors Published by Atlantis Press 744 Punjab agricultural University (PAU),Ludhiana, (INDIA). All the fields were under experimental precision farming studies, located at farm and machinery site ofPAU. An arrangement of field1 was divided into three different parts (part1, part2 and part3) each having gridmatrix structure of 3(column) by 5(row’s) total 15 grid cells in each part, each grid cell was having dimension of 6m by 5m, a row of one metre width was separating two parts as shown in Fig.1. The sensor data was collected at the vertices of each cell. Therefore, twenty four points have been collected from each matrix grid i.e. seventy two points from three parts in total of the field1 with the helpof in-situ field usable sensors in one case, whereas collected fine resolution geo-referenced continuous ECa measurements with geonics EM38MK2 trolley mounted arrangement from the same field. Figure 1. Arrangement of experimental field Field2 as shown in Fig.2 was organized in to 4 by 5 grid matrix, each grid cell having dimensions of 9m by 9m giving thirty geo-referenced point’s whose measurements were done at the vertices of each grid cell besides recording continuous geo-referenced ECa measurements. Figure 2. Grid arrangement of field 2 Similarly, as shown in Fig.3, field3 was divided into 1by1 grid matrix, each grid cell having dimension of 9m by 9m creating 24 geo-referenced points at the vertices of grid cells. Figure 3. Grid arrangement of field 3 Data Collection of geo-referenced ECa.The basic steps followed for the data collection of geo-referenced ECa during survey are as follows: Firstly spatial variations of ECa data was collected with EM38MK2 field usable geo-sensor, data was logged manually as well as automatically. The data logging system consists of geonics EM38MK2xp logging software,laptop as a field computer, and associated cables to connect the computer to the geonics EM38-MK2 conductivity sensor. Through EM38MK2xp program,survey data was acquired and recorded from the EM38-MK2 system to field computer under the control of operator. using geo-sensors. Data Analysis of Measured Soil Properties Clustering. Clustering is the process of partitioning or grouping a given set of patterns into disjoint clusters. This is done such that patterns in the same cluster are alike and patterns belonging to two different clusters are different.",
+  "references": [
+    {
+      "paperId": "9dea1e735f415c699a105a57eae0aa1efc38f18d"
+    },
+    {
+      "paperId": "a4d611b423d5482be04676a1f60089628c53a78e"
+    },
+    {
+      "paperId": "e31e8a753a9bbd112d4c170c3b3f487a24632d56"
+    },
+    {
+      "paperId": "516a158ffd905ef1e4977913e9dfa5cc61ea60ad"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

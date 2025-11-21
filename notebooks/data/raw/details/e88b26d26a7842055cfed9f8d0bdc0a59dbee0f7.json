@@ -1,0 +1,44 @@
+{
+  "paperId": "e88b26d26a7842055cfed9f8d0bdc0a59dbee0f7",
+  "externalIds": {
+    "MAG": "1574071964",
+    "CorpusId": 55010264
+  },
+  "url": "https://www.semanticscholar.org/paper/e88b26d26a7842055cfed9f8d0bdc0a59dbee0f7",
+  "title": "Potential technologies to measure sugarcane quality in the field.",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40412168",
+      "name": "N. M. Nawi"
+    },
+    {
+      "authorId": "49901737",
+      "name": "Guangnan Chen"
+    },
+    {
+      "authorId": "144568278",
+      "name": "T. Jensen"
+    },
+    {
+      "authorId": "49261835",
+      "name": "C. Baillie"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

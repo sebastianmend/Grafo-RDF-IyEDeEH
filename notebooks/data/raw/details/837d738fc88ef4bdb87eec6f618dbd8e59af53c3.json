@@ -1,0 +1,51 @@
+{
+  "paperId": "837d738fc88ef4bdb87eec6f618dbd8e59af53c3",
+  "externalIds": {
+    "MAG": "106896511",
+    "DBLP": "conf/ifip12/GuoZAWL12",
+    "DOI": "10.1007/978-3-642-36124-1_49",
+    "CorpusId": 22415411
+  },
+  "url": "https://www.semanticscholar.org/paper/837d738fc88ef4bdb87eec6f618dbd8e59af53c3",
+  "title": "Integration and Development of On-Site Grain Yield Monitoring System Based on IPC",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-36124-1_49.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-36124-1_49?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-36124-1_49, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118281903",
+      "name": "Xiang Guo"
+    },
+    {
+      "authorId": "2763970",
+      "name": "Lihua Zheng"
+    },
+    {
+      "authorId": "92330396",
+      "name": "Xiaofei An"
+    },
+    {
+      "authorId": "113210927",
+      "name": "Jia Wu"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

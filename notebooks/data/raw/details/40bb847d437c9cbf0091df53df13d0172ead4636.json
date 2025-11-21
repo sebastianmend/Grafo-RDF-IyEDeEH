@@ -1,0 +1,46 @@
+{
+  "paperId": "40bb847d437c9cbf0091df53df13d0172ead4636",
+  "externalIds": {
+    "MAG": "2162445631",
+    "DOI": "10.7764/RCIA.V40I2.1109",
+    "CorpusId": 53972086
+  },
+  "url": "https://www.semanticscholar.org/paper/40bb847d437c9cbf0091df53df13d0172ead4636",
+  "title": "Methods of performance evaluation for the supervised classification of satellite imagery in determining land cover classes",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.7764/RCIA.V40I2.1109?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7764/RCIA.V40I2.1109, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "30628210",
+      "name": "C. H. E. D. Souza"
+    },
+    {
+      "authorId": "88086944",
+      "name": "E. Mercante"
+    },
+    {
+      "authorId": "90909530",
+      "name": "V. Prudente"
+    },
+    {
+      "authorId": "51878378",
+      "name": "D. D. Justina"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

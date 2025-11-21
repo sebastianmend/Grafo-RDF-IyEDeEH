@@ -1,0 +1,56 @@
+{
+  "paperId": "64b6da81b4b160ac29234c87d4c2fa58bcb21270",
+  "externalIds": {
+    "MAG": "1932597167",
+    "DOI": "10.1002/ps.3545",
+    "CorpusId": 44533203,
+    "PubMed": "23553904"
+  },
+  "url": "https://www.semanticscholar.org/paper/64b6da81b4b160ac29234c87d4c2fa58bcb21270",
+  "title": "Estimating economic thresholds for site-specific weed control using manual weed counts and sensor technology: an example based on three winter wheat trials.",
+  "venue": "Pest Management Science",
+  "year": 2014,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ps.3545?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ps.3545, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47315586",
+      "name": "M. Keller"
+    },
+    {
+      "authorId": "48432195",
+      "name": "C. Gutjahr"
+    },
+    {
+      "authorId": "16053952",
+      "name": "J. Möhring"
+    },
+    {
+      "authorId": "1766796",
+      "name": "M. Weis"
+    },
+    {
+      "authorId": "50539296",
+      "name": "M. Sökefeld"
+    },
+    {
+      "authorId": "144434484",
+      "name": "R. Gerhards"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

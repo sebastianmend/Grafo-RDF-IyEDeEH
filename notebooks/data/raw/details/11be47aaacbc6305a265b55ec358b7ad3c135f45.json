@@ -1,0 +1,458 @@
+{
+  "paperId": "11be47aaacbc6305a265b55ec358b7ad3c135f45",
+  "externalIds": {
+    "MAG": "2095726164",
+    "PubMedCentral": "4079955",
+    "DOI": "10.1186/1471-2164-15-508",
+    "CorpusId": 15627807,
+    "PubMed": "24952641"
+  },
+  "url": "https://www.semanticscholar.org/paper/11be47aaacbc6305a265b55ec358b7ad3c135f45",
+  "title": "Identification of host-microbe interaction factors in the genomes of soft rot-associated pathogens Dickeya dadantii 3937 and Pectobacterium carotovorum WPP14 with supervised machine learning",
+  "venue": "BMC Genomics",
+  "year": 2014,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-15-508",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4079955, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "93333568",
+      "name": "B. Ma"
+    },
+    {
+      "authorId": "4294675",
+      "name": "A. Charkowski"
+    },
+    {
+      "authorId": "3089427",
+      "name": "J. Glasner"
+    },
+    {
+      "authorId": "2387684",
+      "name": "N. Perna"
+    }
+  ],
+  "abstract": "A wealth of genome sequences has provided thousands of genes of unknown function, but identification of functions for the large numbers of hypothetical genes in phytopathogens remains a challenge that impacts all research on plant-microbe interactions. Decades of research on the molecular basis of pathogenesis focused on a limited number of factors associated with long-known host-microbe interaction systems, providing limited direction into this challenge. Computational approaches to identify virulence genes often rely on two strategies: searching for sequence similarity to known host-microbe interaction factors from other organisms, and identifying islands of genes that discriminate between pathogens of one type and closely related non-pathogens or pathogens of a different type. The former is limited to known genes, excluding vast collections of genes of unknown function found in every genome. The latter lacks specificity, since many genes in genomic islands have little to do with host-interaction. In this study, we developed a supervised machine learning approach that was designed to recognize patterns from large and disparate data types, in order to identify candidate host-microbe interaction factors. The soft rot Enterobacteriaceae strains Dickeya dadantii 3937 and Pectobacterium carotovorum WPP14 were used for development of this tool, because these pathogens are important on multiple high value crops in agriculture worldwide and more genomic and functional data is available for the Enterobacteriaceae than any other microbial family. Our approach achieved greater than 90% precision and a recall rate over 80% in 10-fold cross validation tests. Application of the learning scheme to the complete genome of these two organisms generated a list of roughly 200 candidates, many of which were previously not implicated in plant-microbe interaction and many of which are of completely unknown function. These lists provide new targets for experimental validation and further characterization, and our approach presents a promising pattern-learning scheme that can be generalized to create a resource to study host-microbe interactions in other bacterial phytopathogens.",
+  "references": [
+    {
+      "paperId": "bd175a5424ed9e3ded0be3034ec75625f20303f3"
+    },
+    {
+      "paperId": "74a302964054f2624ac9bf7791c1718abd64f132"
+    },
+    {
+      "paperId": "b51d6074dea1e431bad50a43ab1e7dc101c03bff"
+    },
+    {
+      "paperId": "0100cdc7a8a18bdcfbfa5cf03b757609e1bb71d8"
+    },
+    {
+      "paperId": "1fd4d88e6ac401bd4445054809615c2737f6ddee"
+    },
+    {
+      "paperId": "6d8c9fcce8177d6f8d122d653c7d32d7624d6714"
+    },
+    {
+      "paperId": "8fe1a2527b31829a34090961370cd2883ef6bbd8"
+    },
+    {
+      "paperId": "af73f2a2bccb0d79f4f6c01d0a8f8b8ca1f4ef8a"
+    },
+    {
+      "paperId": "63f7cc431683619da4689e7be6e30044ac0ed995"
+    },
+    {
+      "paperId": "50984381a5c07de890d3901b67ccec74165af6b3"
+    },
+    {
+      "paperId": "5e0eb022531426f82501774e8c594a61cc63e79e"
+    },
+    {
+      "paperId": "d89ec7df335ab2245355b586934dbe392fd9f6a6"
+    },
+    {
+      "paperId": "f2a0b8ce9d8bac95a4946ac3e185fa6de8d836eb"
+    },
+    {
+      "paperId": "a6e2fc404997c285bc703571ce36222451a9bfe6"
+    },
+    {
+      "paperId": "970a90859fd955c7bb937ab6ca4ce8758aa26f72"
+    },
+    {
+      "paperId": "17a963979524b808e06d7d0fb30e6efa59543571"
+    },
+    {
+      "paperId": "923e94412f6c9f9bef5769bbddc7f0736ddd4e40"
+    },
+    {
+      "paperId": "56fde380debafc4007a35d96be5dfe39d24ddd6b"
+    },
+    {
+      "paperId": "36d7eea211e309fec7ca20645f9432f6a171e9ee"
+    },
+    {
+      "paperId": "15d0e1a0d255c4d67ae4ba1ed3ea31c9f7de1be2"
+    },
+    {
+      "paperId": "d2ad7a1191aed6bfe435cb2d82d39612a391fce7"
+    },
+    {
+      "paperId": "32d4d44110d343633a46a8af9e5a4df16dca023c"
+    },
+    {
+      "paperId": "955fcf6643c6946f491e70a96db3ffe3bc719a14"
+    },
+    {
+      "paperId": "a883cacbc8f9b021b2a63f0453307855fa075d33"
+    },
+    {
+      "paperId": "a22d9c1518ce5047d4b68097064a5461fdbe8c91"
+    },
+    {
+      "paperId": "1ad2248a56783691ceab7356d8f77e27ed3827a6"
+    },
+    {
+      "paperId": "9ba6903248c73f1c11c39fea9dbabcb401fbd04e"
+    },
+    {
+      "paperId": "fe8d787ddd992034efcbd8584da0bd043de16da9"
+    },
+    {
+      "paperId": "ad99c4d98a042ae9df3554289b88545da00c470c"
+    },
+    {
+      "paperId": "ecffface823a61bc11ae47f8ca55236800920635"
+    },
+    {
+      "paperId": "70c72477aabb0706dce483ebb4d449a670fc795e"
+    },
+    {
+      "paperId": "ff8424f6c64f4945b99b37ffabcc67ab311b3676"
+    },
+    {
+      "paperId": "f4bdf25a9f5510f79c9e6cdcc58c84ebd2ccb89a"
+    },
+    {
+      "paperId": "7a92314ff9ef62aab0f30510225736aa30aa7b84"
+    },
+    {
+      "paperId": "def9abc5eaada98e89698389558d649e3bb27a73"
+    },
+    {
+      "paperId": "05f2d3b1b3402d40849cdeb18334e2eff9ae1b4d"
+    },
+    {
+      "paperId": "3e382135a3fe140cfed2e6ccc0ca7acb9d7df348"
+    },
+    {
+      "paperId": "303210c2865ef940c5a5bfa445f924ac411cd436"
+    },
+    {
+      "paperId": "9b5cc61f682128be529e81798cbbc1bc20d3beb5"
+    },
+    {
+      "paperId": "a13243e7682a98750be57580076f3febae210915"
+    },
+    {
+      "paperId": "0f62ce98b50a2c36d47f19638a298916f057652d"
+    },
+    {
+      "paperId": "b8fd2dd8f6c5a4d8397f26becff69e7536ab037d"
+    },
+    {
+      "paperId": "2bb4ccb06326bdbad1052a0f514dc4aa43f721e0"
+    },
+    {
+      "paperId": "2aacbd4c8893fbbe584706d24d617675583692f2"
+    },
+    {
+      "paperId": "9aa8d62603a44c77740ec121f41c0e567a9679cf"
+    },
+    {
+      "paperId": "e618c61789b7c1578c7049b0aacf7c8dc6a7c103"
+    },
+    {
+      "paperId": "338427238b13cbc325d4f6a778d2a71a44557e79"
+    },
+    {
+      "paperId": "552cf61a696fc0c58c7402ac1b3d3b1c0b39b9d5"
+    },
+    {
+      "paperId": "7f364ed47fc52e057c50204a93dc29953dec2e68"
+    },
+    {
+      "paperId": "0afb9afefb94dd82569a814a40ad471080266122"
+    },
+    {
+      "paperId": "5e31f37eaa11eba19fe1c7f1aa53b28066cb7fe0"
+    },
+    {
+      "paperId": "994dbf22f7e1a12c5501fa64c075327782fe2c17"
+    },
+    {
+      "paperId": "414e617decaaa8ce519e5616d38935d11b0b7e0e"
+    },
+    {
+      "paperId": "ed8ea1f00d51691f1b620505dd3c689df4b45550"
+    },
+    {
+      "paperId": "974f78e0162a316ddab58b1de35bf558937c3264"
+    },
+    {
+      "paperId": "657710ecd18c1479d7989414b849259ba97f5a79"
+    },
+    {
+      "paperId": "b1fd3818cde56c6452a541155d698884fb303283"
+    },
+    {
+      "paperId": "cadc94f603bdbbcd54f55dd88a575097426a915f"
+    },
+    {
+      "paperId": "a28c903ebe2809dbd1c5ec65167d1d13c4e835f3"
+    },
+    {
+      "paperId": "63c56ef7a68d79163c3a2086d3d48cbec21f8e0f"
+    },
+    {
+      "paperId": "6d95b96d71669f3f4edfcc95cacd428b62b3fcde"
+    },
+    {
+      "paperId": "77860dd0ed907efd60ebf997c5d60ce848bea7ad"
+    },
+    {
+      "paperId": "94eaee984b3017a3be3a386c3ae42b243494f62a"
+    },
+    {
+      "paperId": "8de3191a56a122ca746183a7120d90ed2a1cfcff"
+    },
+    {
+      "paperId": "1fda43befc6a06ae89b4c7b2a8657f2bada31625"
+    },
+    {
+      "paperId": "471453d87e096775d8edeb25ac88b1385410a114"
+    },
+    {
+      "paperId": "6f4493eff2531536a7aeb3fc11d62c30a8f487f6"
+    },
+    {
+      "paperId": "a86171e13f84fe32212dd7fb6a1c31a34a47155f"
+    },
+    {
+      "paperId": "adea14ce6f45a439d3480bf2f4c030b77ea89102"
+    },
+    {
+      "paperId": "44aeb99cb39db1dc557a3875dac840cc38fa196a"
+    },
+    {
+      "paperId": "9c4da62e9e89e65ac78ee271e424e8b498053e8c"
+    },
+    {
+      "paperId": "9e5c589223e56047acd3864e4f225f2cc4c6cf37"
+    },
+    {
+      "paperId": "ea47263edd2a9b9d472ae6a60b4c99270bbf65f3"
+    },
+    {
+      "paperId": "77703a2783f64dfceb638aa9eebd9c9c501bb835"
+    },
+    {
+      "paperId": "54801c260df5221a9de533d371d3edcc358b4050"
+    },
+    {
+      "paperId": "004888621a4e4cee56b6633338a89aa036cf5ae5"
+    },
+    {
+      "paperId": "f642a692da944604a7df590e9f9fa06089b7991a"
+    },
+    {
+      "paperId": "8f04029d1d83f41eaebf5a216ebecf2a61ff6dc0"
+    },
+    {
+      "paperId": "d5f2bbd11b69186d40fd1a70636d2fa255ad0d91"
+    },
+    {
+      "paperId": "65a76d1d6252f304b0f01c68102e5af18ef0d804"
+    },
+    {
+      "paperId": "e99708649b7d783f30592b7dfbb7ce19d5d0ed2c"
+    },
+    {
+      "paperId": "7999f2ceff7d285da88c9b8a6601035fb23c49dc"
+    },
+    {
+      "paperId": "d1ee87290fa827f1217b8fa2bccb3485da1a300e"
+    },
+    {
+      "paperId": "68c1bfe375dde46777fe1ac8f3636fb651e3f0f8"
+    },
+    {
+      "paperId": "99f91b786e83497a100b059cbb58917406459ebd"
+    },
+    {
+      "paperId": "8c70a0a39a686bf80b76cb1b77f9eef156f6432d"
+    },
+    {
+      "paperId": "a12e0be54528ed870337a48c365ada768c66b623"
+    },
+    {
+      "paperId": "7d4642da036febe5174da1390521444ef405c864"
+    },
+    {
+      "paperId": "6665e03447f989c9bdb3432d93e89b516b9d18a7"
+    },
+    {
+      "paperId": "b5302d966b14f5f605996ef87c97faca722d81db"
+    },
+    {
+      "paperId": "d485a67b9479774a0d353884445d4a0bd1496d5e"
+    },
+    {
+      "paperId": "26e3c824ef0ccffbb3e65d60aef94ba1aad26ab9"
+    },
+    {
+      "paperId": "1dc53b91327cab503acc0ca5afb9155882b717a5"
+    },
+    {
+      "paperId": "ef4a7edbe3381f0db5daaadb4b45bd471cf7e20a"
+    },
+    {
+      "paperId": "807c1f19047f96083e13614f7ce20f2ac98c239a"
+    },
+    {
+      "paperId": "99588b3ac889ac70845fbbad4a1d67c1f8b37306"
+    },
+    {
+      "paperId": "bbc25a700e51984e560eae27df1587baa92e3afe"
+    },
+    {
+      "paperId": "781346bad276191229e4496ce1f455bd34f5c526"
+    },
+    {
+      "paperId": "fa991b6e38c32f8fcd948303e642242cb147d1b1"
+    },
+    {
+      "paperId": "b824cb051ffbdd81b529c4b82379a3af270fb6f7"
+    },
+    {
+      "paperId": "a16ff1a1fc3d66356ae1dfcabd31422fa0872e2d"
+    },
+    {
+      "paperId": "6e0fa56600418072e4e7738f982a84a7b83129b7"
+    },
+    {
+      "paperId": "ccd70ededed1dd130ef0fa1c56fc8c71401adbb4"
+    },
+    {
+      "paperId": "111d3dc102a485e69520ba730a5575597734b04f"
+    },
+    {
+      "paperId": "5d728e8d39cc8eef639b44ef4aa5f1b8f0bcc8a2"
+    },
+    {
+      "paperId": "5e11b2b1720f9abf57caa170b3f993bc7c347e74"
+    },
+    {
+      "paperId": "684fe8d5caf65dc88667aedd38c44e46cf89c462"
+    },
+    {
+      "paperId": "730ca170962a58607e092035beb2afc4b5fa6242"
+    },
+    {
+      "paperId": "ac793a22a276e670c13991dd7c1a67f7868e4f5b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "51c77c289835aa2c5b90e30b4968ccfa33391bf7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "49291405badd247b2f1ab6a620d4a67d96297927"
+    },
+    {
+      "paperId": "cf729f706cdf7e6cf833d30f397a4aa0d88e2896"
+    },
+    {
+      "paperId": "0c2753df73bb3671bad8ef48763443d8f7a213ef"
+    },
+    {
+      "paperId": "f1eb123931c165be5e2059f4fc6681ae3190fa82"
+    },
+    {
+      "paperId": "885eca9271ec7e9779e5cee739184d3deb2fb7e8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cc06fe0c096d4d48681892b0164c599a0477ac36"
+    },
+    {
+      "paperId": "632ac94d1d7e023080b59fa3c864935918de0294"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": "6454311250cb47141f571eeca05f15bb99c80031"
+    },
+    {
+      "paperId": "ecf1848db9f0e81a8a0dbffeb8162772cb6be733"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "63d8fa7b6f5bd60da3d4ec9a6062dfba13288f5f"
+    },
+    {
+      "paperId": "23b4f22d3d1171c4034bb05a32c1e30312b46f0f"
+    },
+    {
+      "paperId": "7feb0fc888cd55360949554db032d7d1cba9e947"
+    },
+    {
+      "paperId": "4adb08aceced03e62eed3db653d6281409fc7493"
+    },
+    {
+      "paperId": "65be35eca841de7f6582f9a93a4307fa92abba98"
+    },
+    {
+      "paperId": "dc5a5cf6aa29ae0847dbd88bcc0ac042a9ee71fb"
+    },
+    {
+      "paperId": "0eaa446565ecdcc301a7f1fa5df368e64fd8578a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "eaf451a159fa4693e0dc3f8e290688ad768c1786"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b84be6902be58dcbfa13b84ee38b0ec9a211ddf0"
+    }
+  ]
+}

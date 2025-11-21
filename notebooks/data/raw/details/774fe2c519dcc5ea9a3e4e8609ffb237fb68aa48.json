@@ -1,0 +1,42 @@
+{
+  "paperId": "774fe2c519dcc5ea9a3e4e8609ffb237fb68aa48",
+  "externalIds": {
+    "MAG": "2249865094",
+    "DOI": "10.1109/NGCT.2015.7375220",
+    "CorpusId": 18242748
+  },
+  "url": "https://www.semanticscholar.org/paper/774fe2c519dcc5ea9a3e4e8609ffb237fb68aa48",
+  "title": "Big data in precision agriculture: Weather forecasting for future farming",
+  "venue": "International Conference on Next Generation Computing Technologies",
+  "year": 2015,
+  "citationCount": 151,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NGCT.2015.7375220?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NGCT.2015.7375220, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "72875362",
+      "name": "M. Bendre"
+    },
+    {
+      "authorId": "2423345",
+      "name": "R. Thool"
+    },
+    {
+      "authorId": "2237668",
+      "name": "V. Thool"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

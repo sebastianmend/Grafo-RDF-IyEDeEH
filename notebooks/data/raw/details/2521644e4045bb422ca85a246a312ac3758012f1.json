@@ -1,0 +1,53 @@
+{
+  "paperId": "2521644e4045bb422ca85a246a312ac3758012f1",
+  "externalIds": {
+    "MAG": "1918006664",
+    "DOI": "10.1002/ps.3677",
+    "CorpusId": 24122087,
+    "PubMed": "24203911"
+  },
+  "url": "https://www.semanticscholar.org/paper/2521644e4045bb422ca85a246a312ac3758012f1",
+  "title": "Potential use of ground-based sensor technologies for weed detection.",
+  "venue": "Pest Management Science",
+  "year": 2014,
+  "citationCount": 113,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://digital.csic.es/bitstream/10261/238312/1/Potential%20use%20of%20ground%e2%80%90based%20sensor%20technologies%20for%20weed%20detection.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ps.3677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ps.3677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2023667",
+      "name": "G. Peteinatos"
+    },
+    {
+      "authorId": "1766796",
+      "name": "M. Weis"
+    },
+    {
+      "authorId": "143996752",
+      "name": "D. Andújar"
+    },
+    {
+      "authorId": "33110069",
+      "name": "Victor Rueda Ayala"
+    },
+    {
+      "authorId": "144434484",
+      "name": "R. Gerhards"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

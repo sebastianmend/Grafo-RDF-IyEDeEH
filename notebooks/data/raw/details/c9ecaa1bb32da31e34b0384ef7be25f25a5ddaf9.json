@@ -1,0 +1,69 @@
+{
+  "paperId": "c9ecaa1bb32da31e34b0384ef7be25f25a5ddaf9",
+  "externalIds": {
+    "DBLP": "journals/wsn/FanLLL10",
+    "MAG": "2044748322",
+    "DOI": "10.4236/wsn.2010.29084",
+    "CorpusId": 3186555
+  },
+  "url": "https://www.semanticscholar.org/paper/c9ecaa1bb32da31e34b0384ef7be25f25a5ddaf9",
+  "title": "Sensors Dynamic Energy Management in WSN",
+  "venue": "Wireless Sensor Network",
+  "year": 2010,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=2700",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4236/wsn.2010.29084?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4236/wsn.2010.29084, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2877404",
+      "name": "Xianghui Fan"
+    },
+    {
+      "authorId": "1804698",
+      "name": "Shining Li"
+    },
+    {
+      "authorId": "46947185",
+      "name": "Zhigang Li"
+    },
+    {
+      "authorId": "2116478520",
+      "name": "Jingyuan Li"
+    }
+  ],
+  "abstract": "A wireless sensor node is typically battery operated and energy constrained. Therefore, it is apparent that optimal energy management is one of the most important challenges in WSN development. However, energy management requires in-depth knowledge and detailed insight concerning specific scenarios. After Carrying out a large number of experiments in precision agriculture, we find that it is the sensors that have never been concerned consuming the most energy of the node. In order to conserve energy and prolong the lifetime of WSN, we design and carry out a dynamic energy management strategy for sensors. The basic idea is to shut down all sensors’ power when not needed and wake them up when necessary. Valuable conclusions are extracted and analyzed.",
+  "references": [
+    {
+      "paperId": "158dceb9da71e4289027a430060976c632f15c75"
+    },
+    {
+      "paperId": "1cafd2215fab82d86699fa5260fc377da5d6a2cf"
+    },
+    {
+      "paperId": "c8802b7b15bd2098377ed49256eef0f308dce6a7"
+    },
+    {
+      "paperId": "bbc88d58b4fe4bb120ee2db071c09cf6af8df430"
+    },
+    {
+      "paperId": "af231ba1805e1ec4fd3998775535ad4a0a6688c3"
+    },
+    {
+      "paperId": "9ffa39fe875fe7a0db7b530f4dedafe49ee58b46"
+    },
+    {
+      "paperId": "f58a92d0b278bd03117049ba9aa75b43a4026ab8"
+    }
+  ]
+}

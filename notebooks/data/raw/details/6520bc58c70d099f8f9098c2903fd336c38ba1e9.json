@@ -1,0 +1,43 @@
+{
+  "paperId": "6520bc58c70d099f8f9098c2903fd336c38ba1e9",
+  "externalIds": {
+    "MAG": "2039305231",
+    "DBLP": "journals/telsys/DargieCD10",
+    "DOI": "10.1007/s11235-009-9228-z",
+    "CorpusId": 8654421
+  },
+  "url": "https://www.semanticscholar.org/paper/6520bc58c70d099f8f9098c2903fd336c38ba1e9",
+  "title": "Modelling the energy cost of a fully operational wireless sensor network",
+  "venue": "Telecommunications Systems",
+  "year": 2010,
+  "citationCount": 41,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11235-009-9228-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11235-009-9228-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3149184",
+      "name": "W. Dargie"
+    },
+    {
+      "authorId": "2054504565",
+      "name": "Xiaojuan Chao"
+    },
+    {
+      "authorId": "1749167",
+      "name": "M. Denko"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

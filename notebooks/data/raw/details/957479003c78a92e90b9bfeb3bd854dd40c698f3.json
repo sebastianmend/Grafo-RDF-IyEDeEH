@@ -1,0 +1,35 @@
+{
+  "paperId": "957479003c78a92e90b9bfeb3bd854dd40c698f3",
+  "externalIds": {
+    "MAG": "1612901215",
+    "DOI": "10.5380/ACD.V15I4.39236",
+    "CorpusId": 131406673
+  },
+  "url": "https://www.semanticscholar.org/paper/957479003c78a92e90b9bfeb3bd854dd40c698f3",
+  "title": "ELEMENTOS DA PRODUÇÃO VITIVINÍCOLA NOS VALES DO SÃO FRANCISCO - BRASIL E COLCHAGUA - CHILE ELEMENTS OF WINE PRODUCTION IN THE VALLEY OF SAN FRANCISCO BRAZIL - AND COLCHAGUA - CHILE",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://revistas.ufpr.br/academica/article/download/39236/24998",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5380/ACD.V15I4.39236?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5380/ACD.V15I4.39236, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1422293870",
+      "name": "C. Belfort"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

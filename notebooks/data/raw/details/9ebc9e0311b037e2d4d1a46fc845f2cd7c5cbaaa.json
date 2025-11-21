@@ -1,0 +1,36 @@
+{
+  "paperId": "9ebc9e0311b037e2d4d1a46fc845f2cd7c5cbaaa",
+  "externalIds": {
+    "DBLP": "journals/ijrft/Kidd12",
+    "MAG": "1144601891",
+    "DOI": "10.3233/RFT-2011-017",
+    "CorpusId": 10499265
+  },
+  "url": "https://www.semanticscholar.org/paper/9ebc9e0311b037e2d4d1a46fc845f2cd7c5cbaaa",
+  "title": "The role of the internet of things in enabling sustainable agriculture in Europe",
+  "venue": "International Journal of RF Technologies",
+  "year": 2012,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/RFT-2011-017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/RFT-2011-017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "29724857",
+      "name": "P. Kidd"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "0242006dbf480b95a55b4a6bd1b0b8a347c88cde",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ZhaoHCMC14",
+    "MAG": "2397809869",
+    "DOI": "10.1007/978-3-319-19620-6_77",
+    "CorpusId": 35988034
+  },
+  "url": "https://www.semanticscholar.org/paper/0242006dbf480b95a55b4a6bd1b0b8a347c88cde",
+  "title": "Study on the Temporal and Spatial Variability of Maize Yield in Precision Operation Area",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-19620-6_77.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-19620-6_77?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-19620-6_77, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "7637264",
+      "name": "Yueling Zhao"
+    },
+    {
+      "authorId": "3319410",
+      "name": "Haiyan Han"
+    },
+    {
+      "authorId": "3034297",
+      "name": "Liying Cao"
+    },
+    {
+      "authorId": "2109876555",
+      "name": "Li Ma"
+    },
+    {
+      "authorId": "46878887",
+      "name": "Guifen Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

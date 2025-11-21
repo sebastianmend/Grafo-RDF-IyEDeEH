@@ -1,0 +1,183 @@
+{
+  "paperId": "eac8318715a6610d2f3f976a530ecbb0b010e7b8",
+  "externalIds": {
+    "DBLP": "journals/sensors/RomeoGMEGSP13",
+    "PubMedCentral": "3673087",
+    "MAG": "2074370753",
+    "DOI": "10.3390/s130404348",
+    "CorpusId": 5717729,
+    "PubMed": "23549361"
+  },
+  "url": "https://www.semanticscholar.org/paper/eac8318715a6610d2f3f976a530ecbb0b010e7b8",
+  "title": "Camera Sensor Arrangement for Crop/Weed Detection Accuracy in Agronomic Images",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2013,
+  "citationCount": 39,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/13/4/4348/pdf?version=1403326061",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3673087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145833020",
+      "name": "J. Romeo"
+    },
+    {
+      "authorId": "143625323",
+      "name": "J. M. Guerrero"
+    },
+    {
+      "authorId": "144628800",
+      "name": "M. Montalvo"
+    },
+    {
+      "authorId": "34956292",
+      "name": "L. Emmi"
+    },
+    {
+      "authorId": "35050981",
+      "name": "M. Guijarro"
+    },
+    {
+      "authorId": "1403763403",
+      "name": "P. González-De-Santos"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    }
+  ],
+  "abstract": "In Precision Agriculture, images coming from camera-based sensors are commonly used for weed identification and crop line detection, either to apply specific treatments or for vehicle guidance purposes. Accuracy of identification and detection is an important issue to be addressed in image processing. There are two main types of parameters affecting the accuracy of the images, namely: (a) extrinsic, related to the sensor's positioning in the tractor; (b) intrinsic, related to the sensor specifications, such as CCD resolution, focal length or iris aperture, among others. Moreover, in agricultural applications, the uncontrolled illumination, existing in outdoor environments, is also an important factor affecting the image accuracy. This paper is exclusively focused on two main issues, always with the goal to achieve the highest image accuracy in Precision Agriculture applications, making the following two main contributions: (a) camera sensor arrangement, to adjust extrinsic parameters and (b) design of strategies for controlling the adverse illumination effects.",
+  "references": [
+    {
+      "paperId": "6f2ed638389430d7b71e074d8532e2fd0fac94d6"
+    },
+    {
+      "paperId": "235e1aa6fe650aed0edc6f30952962542d30b8b2"
+    },
+    {
+      "paperId": "ed605bebf07e1859951e5836e1ffbf6f63221199"
+    },
+    {
+      "paperId": "e513ddd199f36760f804313d9c126778c2cfa470"
+    },
+    {
+      "paperId": "adb574ab43abf5c452d3bd15a811543b6984ebf5"
+    },
+    {
+      "paperId": "ca660e430d5e1e72b7cd016ed10e5f36a3639b60"
+    },
+    {
+      "paperId": "b5b4905e2fc9427387c728504d38c63b379e5056"
+    },
+    {
+      "paperId": "c354701f5b983ef31a6a94b92deb145c3f75d845"
+    },
+    {
+      "paperId": "dab4e013dceb49f6f84ea02ac5d75e3fd99e7f90"
+    },
+    {
+      "paperId": "1404f72d92c3c602f16e789fb3f54f5eb1beafca"
+    },
+    {
+      "paperId": "588f394ec00fa079f0ad172c52bb3429c44ecd39"
+    },
+    {
+      "paperId": "a5bf1d4e79e69663a66fdf4ca16a78178b6c428a"
+    },
+    {
+      "paperId": "2145ee21793db812efc510c8d3c6b7b63885eba8"
+    },
+    {
+      "paperId": "0dccecddcf647f5060d91564bfa592ce02cf7cf3"
+    },
+    {
+      "paperId": "e1ac925108c1fb09a063c8eeb1745da2cfd7ba96"
+    },
+    {
+      "paperId": "71120b6d5bac5cd1b2aebe51b5dbda27001f20d3"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "034c396fdc29df99a062b40f1d705abc51a3534a"
+    },
+    {
+      "paperId": "c29f332acd365a132645b5733aae05b738388ba3"
+    },
+    {
+      "paperId": "5e0e44655617c28afb7986f14eabdfb5633d22e3"
+    },
+    {
+      "paperId": "092353d0eb01be3bcb51178fad4d19033dec945b"
+    },
+    {
+      "paperId": "d46cde12f5510d0af16e7594f48a7dc8c39342fb"
+    },
+    {
+      "paperId": "020c389397b9eb0043116d9388156d8f9193d5dd"
+    },
+    {
+      "paperId": "8e0224636f0921cd335f6b30430d88c2e8af1db9"
+    },
+    {
+      "paperId": "2ae138496ed106d5a949acd8be788a05d3b6d1eb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e98ff1b87a0dbfe1b80f28e1452bb71ca4b4b173"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "b43c740c99d6ac7184201252fe2b9b358b8d1f5b"
+    },
+    {
+      "paperId": "229a48124bea5ebffb15e0bc7e701597c7fa12f4"
+    },
+    {
+      "paperId": "1e34435375dcfc6381200ac6d23c48037b3fa5a9"
+    },
+    {
+      "paperId": "658aa17f120e75a6eeb453c84a7563b039079396"
+    },
+    {
+      "paperId": "1e2d2cca33dfb08982e884c780202bdaace8cee3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

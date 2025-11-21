@@ -1,0 +1,54 @@
+{
+  "paperId": "a7e633e155898cf4e5ecf307d96ba4b9ee891f67",
+  "externalIds": {
+    "MAG": "1526672741",
+    "DOI": "10.1109/ICIIECS.2015.7193206",
+    "CorpusId": 18087443
+  },
+  "url": "https://www.semanticscholar.org/paper/a7e633e155898cf4e5ecf307d96ba4b9ee891f67",
+  "title": "Comparison of Self organizing maps and Sammon's mapping on agricultural datasets for precision agriculture",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193206?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9156658",
+      "name": "Yash Sanghvi"
+    },
+    {
+      "authorId": "34174423",
+      "name": "Harshit Gupta"
+    },
+    {
+      "authorId": "9327994",
+      "name": "Harmish Doshi"
+    },
+    {
+      "authorId": "9350472",
+      "name": "D. Koli"
+    },
+    {
+      "authorId": "9210903",
+      "name": "Amogh Ansh"
+    },
+    {
+      "authorId": "2058888221",
+      "name": "U. Gupta"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

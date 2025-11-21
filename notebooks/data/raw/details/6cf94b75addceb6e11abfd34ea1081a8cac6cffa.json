@@ -1,0 +1,38 @@
+{
+  "paperId": "6cf94b75addceb6e11abfd34ea1081a8cac6cffa",
+  "externalIds": {
+    "MAG": "1928707138",
+    "DOI": "10.1109/NICS.2015.7302210",
+    "CorpusId": 16110666
+  },
+  "url": "https://www.semanticscholar.org/paper/6cf94b75addceb6e11abfd34ea1081a8cac6cffa",
+  "title": "Design and deploy a wireless sensor network for precision agriculture",
+  "venue": "National Foundation for Science and Technology Development Conference on Information and Computer Science",
+  "year": 2015,
+  "citationCount": 36,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NICS.2015.7302210?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NICS.2015.7302210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2067951725",
+      "name": "Tuan Dinh Le"
+    },
+    {
+      "authorId": "9069314",
+      "name": "Dat Ho Tan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

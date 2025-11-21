@@ -1,0 +1,52 @@
+{
+  "paperId": "92fc0079e982f7a7b33b6806bd31def3782e7fab",
+  "externalIds": {
+    "MAG": "2765688404",
+    "DBLP": "conf/whispers/ZhaoSHKY13",
+    "DOI": "10.1109/WHISPERS.2013.8080696",
+    "CorpusId": 19251578
+  },
+  "url": "https://www.semanticscholar.org/paper/92fc0079e982f7a7b33b6806bd31def3782e7fab",
+  "title": "Application of portable hyper-spectral camera in andisols soil nitrogen assessment",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2013.8080696?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2013.8080696, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46887619",
+      "name": "Tiejun Zhao"
+    },
+    {
+      "authorId": "7640738",
+      "name": "K. Sakai"
+    },
+    {
+      "authorId": "2061191535",
+      "name": "Tatsuya Higashi"
+    },
+    {
+      "authorId": "3564489",
+      "name": "M. Komatsuzaki"
+    },
+    {
+      "authorId": "2752765",
+      "name": "Xujun Ye"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

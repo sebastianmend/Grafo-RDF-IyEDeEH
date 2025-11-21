@@ -1,0 +1,102 @@
+{
+  "paperId": "0977e3234bf2204b74bef4d6d2a5e3a51723e46c",
+  "externalIds": {
+    "MAG": "2098763776",
+    "DOI": "10.1109/ICCDCS.2012.6188923",
+    "CorpusId": 21353252
+  },
+  "url": "https://www.semanticscholar.org/paper/0977e3234bf2204b74bef4d6d2a5e3a51723e46c",
+  "title": "A 2.4GHz transceiver for wireless sensor network",
+  "venue": "International Caribbean Conference on Devices, Circuits and Systems",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCDCS.2012.6188923?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCDCS.2012.6188923, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2074357749",
+      "name": "W. A. Amaral"
+    },
+    {
+      "authorId": "144292495",
+      "name": "F. Castro"
+    },
+    {
+      "authorId": "2060922349",
+      "name": "S. T. Coelho"
+    },
+    {
+      "authorId": "115914485",
+      "name": "M. Goes"
+    },
+    {
+      "authorId": "47375566",
+      "name": "C. O. Hamanaka"
+    },
+    {
+      "authorId": "2058597914",
+      "name": "I. C. S. Junior"
+    },
+    {
+      "authorId": "144361872",
+      "name": "J. L. E. Júnior"
+    },
+    {
+      "authorId": "2074528510",
+      "name": "W. B. Moraes"
+    },
+    {
+      "authorId": "2107526979",
+      "name": "M. D. Pereira"
+    },
+    {
+      "authorId": "2052378002",
+      "name": "R. L. O. Pinto"
+    },
+    {
+      "authorId": "3167316",
+      "name": "A. F. Ponchet"
+    },
+    {
+      "authorId": "2068081497",
+      "name": "E. A. C. Sanchez"
+    },
+    {
+      "authorId": "2111488247",
+      "name": "J. C. Silva"
+    },
+    {
+      "authorId": "49153749",
+      "name": "L. H. Spiller"
+    },
+    {
+      "authorId": "38932373",
+      "name": "A. Ximenes"
+    },
+    {
+      "authorId": "2107660816",
+      "name": "S. D. Yamamoto"
+    },
+    {
+      "authorId": "2304902821",
+      "name": "R. N. Lima"
+    },
+    {
+      "authorId": "31706140",
+      "name": "V. L. Sobral"
+    }
+  ],
+  "abstract": "A transceiver design will be presented in the following items. The circuit will be used in a wireless sensor network for precision irrigation in agriculture. The transceiver was designed to operate in the license - free ISM band of 2.4GHz. A complete top-down methodology was used, improving the coverage of the system functional verification. The design was made using XFAB 0.18um CMOS technology.",
+  "references": null
+}

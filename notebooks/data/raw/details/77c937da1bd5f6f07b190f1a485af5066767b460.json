@@ -1,0 +1,38 @@
+{
+  "paperId": "77c937da1bd5f6f07b190f1a485af5066767b460",
+  "externalIds": {
+    "MAG": "1637389589",
+    "DOI": "10.1109/ISCO.2015.7282311",
+    "CorpusId": 17267042
+  },
+  "url": "https://www.semanticscholar.org/paper/77c937da1bd5f6f07b190f1a485af5066767b460",
+  "title": "XCYPF: A flexible and extensible framework for agricultural Crop Yield Prediction",
+  "venue": "2015 IEEE 9th International Conference on Intelligent Systems and Control (ISCO)",
+  "year": 2015,
+  "citationCount": 61,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCO.2015.7282311?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCO.2015.7282311, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "66328397",
+      "name": "A. Manjula"
+    },
+    {
+      "authorId": "48648486",
+      "name": "G. Narsimha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,31 @@
+{
+  "paperId": "3ea9bdb14b55fa511c3decaa1ed57f1c1cca47ad",
+  "externalIds": {
+    "DOI": "10.54119/jflp.mxzq7128",
+    "CorpusId": 280555373
+  },
+  "url": "https://www.semanticscholar.org/paper/3ea9bdb14b55fa511c3decaa1ed57f1c1cca47ad",
+  "title": "Setting the Table for Feast or Famine: How Education will Play a Deciding Role in the Future of Precision Agriculture",
+  "venue": "Journal of Food Law &amp; Policy",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.54119/jflp.mxzq7128?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54119/jflp.mxzq7128, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2375230830",
+      "name": "Lauren Manning"
+    }
+  ],
+  "abstract": "Precision agriculture has many names including satellite farming, or site-specific crop management. Early forms of precision agriculture involved creating fertilizer maps, yield measurements, grid sampling, and soil pH content monitoring. Roughly 25 years ago, the advent of global positioning systems, commonly known as GPS, enabled farmers to make more informed decisions about where to plant seed and how much seed to plant. Precision agriculture technologies typically utilize sensors that are placed on tractors, combines, and other farm equipment, and which measure various conditions including seeding rates, soil conditions, and other indicators of production. Over time, this technology has been expanded to provide a wide range of services like field mapping, tractor guidance, and yield monitoring. These technologies also help farmers make the most efficient use of pesticides, herbicides, and fertilizers. As a result, farmers are no longer forced to treat fields uniformly or to make guesses about the best courses of action for their fields. Instead, precision agriculture enables farmers to micromanage their fields on a day-to day basis, or even minute-by-minute basis, while relying on highly accurate data.",
+  "references": null
+}

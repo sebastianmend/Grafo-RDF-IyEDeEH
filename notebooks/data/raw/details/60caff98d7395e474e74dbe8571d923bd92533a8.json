@@ -1,0 +1,54 @@
+{
+  "paperId": "60caff98d7395e474e74dbe8571d923bd92533a8",
+  "externalIds": {
+    "MAG": "2060603009",
+    "DOI": "10.1017/S0021859615000313",
+    "CorpusId": 84958661
+  },
+  "url": "https://www.semanticscholar.org/paper/60caff98d7395e474e74dbe8571d923bd92533a8",
+  "title": "The soybean yield gap in Brazil – magnitude, causes and possible solutions for sustainable production",
+  "venue": "Journal of Agricultural Sciences",
+  "year": 2015,
+  "citationCount": 205,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DB059CC032A27B7C5A07FF896F56E8D5/S0021859615000313a.pdf/div-class-title-the-soybean-yield-gap-in-brazil-magnitude-causes-and-possible-solutions-for-sustainable-production-div.pdf",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0021859615000313?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0021859615000313, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4462295",
+      "name": "P. Sentelhas"
+    },
+    {
+      "authorId": "87831486",
+      "name": "R. Battisti"
+    },
+    {
+      "authorId": "115076414",
+      "name": "G. Câmara"
+    },
+    {
+      "authorId": "35198137",
+      "name": "J. Farias"
+    },
+    {
+      "authorId": "88688153",
+      "name": "A. Hampf"
+    },
+    {
+      "authorId": "1706813",
+      "name": "C. Nendel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

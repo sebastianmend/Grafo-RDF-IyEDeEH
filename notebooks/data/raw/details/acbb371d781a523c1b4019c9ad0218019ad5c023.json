@@ -1,0 +1,48 @@
+{
+  "paperId": "acbb371d781a523c1b4019c9ad0218019ad5c023",
+  "externalIds": {
+    "DBLP": "conf/eScience/SperanzaCGV14",
+    "MAG": "2067260098",
+    "DOI": "10.1109/eScience.2014.42",
+    "CorpusId": 35095077
+  },
+  "url": "https://www.semanticscholar.org/paper/acbb371d781a523c1b4019c9ad0218019ad5c023",
+  "title": "A Cluster-Based Approach to Support the Delineation of Management Zones in Precision Agriculture",
+  "venue": "IEEE International Conference on e-Science",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/eScience.2014.42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/eScience.2014.42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2083229068",
+      "name": "E. A. Speranza"
+    },
+    {
+      "authorId": "1742412",
+      "name": "R. R. Ciferri"
+    },
+    {
+      "authorId": "30068272",
+      "name": "C. R. Grego"
+    },
+    {
+      "authorId": "152690275",
+      "name": "L. E. Vicente"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

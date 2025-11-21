@@ -1,0 +1,56 @@
+{
+  "paperId": "e39285ad542efe56dc388eb4c47e6984b61a27f0",
+  "externalIds": {
+    "MAG": "1957219917",
+    "DBLP": "conf/iwann/Perez-OrtizGPTH15",
+    "DOI": "10.1007/978-3-319-19258-1_22",
+    "CorpusId": 32214015
+  },
+  "url": "https://www.semanticscholar.org/paper/e39285ad542efe56dc388eb4c47e6984b61a27f0",
+  "title": "An Experimental Comparison for the Identification of Weeds in Sunflower Crops via Unmanned Aerial Vehicles and Object-Based Analysis",
+  "venue": "International Work-Conference on Artificial and Natural Neural Networks",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://digital.csic.es/bitstream/10261/165653/1/accesoRestringido.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-19258-1_22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-19258-1_22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1393680545",
+      "name": "M. Pérez-Ortiz"
+    },
+    {
+      "authorId": "1740647",
+      "name": "Pedro Antonio Gutiérrez"
+    },
+    {
+      "authorId": "1398284521",
+      "name": "J. M. Peñá-Barragán"
+    },
+    {
+      "authorId": "1398642053",
+      "name": "J. Torres-Sánchez"
+    },
+    {
+      "authorId": "1388386495",
+      "name": "C. Hervás‐Martínez"
+    },
+    {
+      "authorId": "1396985901",
+      "name": "F. López-Granados"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

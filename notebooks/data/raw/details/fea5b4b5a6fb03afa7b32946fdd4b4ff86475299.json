@@ -1,0 +1,42 @@
+{
+  "paperId": "fea5b4b5a6fb03afa7b32946fdd4b4ff86475299",
+  "externalIds": {
+    "MAG": "2586001693",
+    "DOI": "10.1139/CJPS2012-005",
+    "CorpusId": 90266815
+  },
+  "url": "https://www.semanticscholar.org/paper/fea5b4b5a6fb03afa7b32946fdd4b4ff86475299",
+  "title": "The Biology of Canadian Weeds. 27. Avena fatua L. (updated)",
+  "venue": "Canadian Journal of Plant Science",
+  "year": 2012,
+  "citationCount": 23,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1139/CJPS2012-005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1139/CJPS2012-005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4107812",
+      "name": "H. Beckie"
+    },
+    {
+      "authorId": "145859390",
+      "name": "A. Francis"
+    },
+    {
+      "authorId": "48941651",
+      "name": "L. Hall"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

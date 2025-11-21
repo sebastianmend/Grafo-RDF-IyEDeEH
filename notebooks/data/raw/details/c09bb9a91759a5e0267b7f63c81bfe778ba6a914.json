@@ -1,0 +1,38 @@
+{
+  "paperId": "c09bb9a91759a5e0267b7f63c81bfe778ba6a914",
+  "externalIds": {
+    "MAG": "2100488858",
+    "DOI": "10.1109/ICGCCEE.2014.6922254",
+    "CorpusId": 17309928
+  },
+  "url": "https://www.semanticscholar.org/paper/c09bb9a91759a5e0267b7f63c81bfe778ba6a914",
+  "title": "RPL optimization for precise green house management using wireless sensor network",
+  "venue": "International Conference on Green Computing Communication and Electrical Engineering",
+  "year": 2014,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICGCCEE.2014.6922254?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICGCCEE.2014.6922254, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2285109273",
+      "name": "Arunkumar M"
+    },
+    {
+      "authorId": "9105935",
+      "name": "M. Alagumeenaakshi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

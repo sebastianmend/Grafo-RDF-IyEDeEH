@@ -1,0 +1,72 @@
+{
+  "paperId": "a94369bdfc9509d677af8b8b48479bc688abaf8e",
+  "externalIds": {
+    "MAG": "2045974037",
+    "DBLP": "journals/lgrs/Alonso-ArroyoCAFMRWPPO14",
+    "DOI": "10.1109/LGRS.2014.2320052",
+    "CorpusId": 16957623
+  },
+  "url": "https://www.semanticscholar.org/paper/a94369bdfc9509d677af8b8b48479bc688abaf8e",
+  "title": "Improving the Accuracy of Soil Moisture Retrievals Using the Phase Difference of the Dual-Polarization GNSS-R Interference Patterns",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "year": 2014,
+  "citationCount": 39,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://upcommons.upc.edu/bitstream/2117/24152/1/grsl14-2.pdf",
+    "status": "GREEN",
+    "license": "public-domain",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2014.2320052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2014.2320052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2859727",
+      "name": "Alberto Alonso Arroyo"
+    },
+    {
+      "authorId": "73642840",
+      "name": "Adriano Camps"
+    },
+    {
+      "authorId": "1734328",
+      "name": "A. Aguasca"
+    },
+    {
+      "authorId": "2870625",
+      "name": "G. Forte"
+    },
+    {
+      "authorId": "2600056",
+      "name": "A. Monerris"
+    },
+    {
+      "authorId": "31360002",
+      "name": "C. Rüdiger"
+    },
+    {
+      "authorId": "2110582032",
+      "name": "J. Walker"
+    },
+    {
+      "authorId": "143759541",
+      "name": "Hyuk Park"
+    },
+    {
+      "authorId": "144582510",
+      "name": "D. Pascual"
+    },
+    {
+      "authorId": "1998191",
+      "name": "Raul Onrubia Ibáñez"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

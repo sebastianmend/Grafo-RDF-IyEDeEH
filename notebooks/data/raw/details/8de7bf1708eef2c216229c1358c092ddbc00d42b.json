@@ -1,0 +1,46 @@
+{
+  "paperId": "8de7bf1708eef2c216229c1358c092ddbc00d42b",
+  "externalIds": {
+    "MAG": "107742200",
+    "DOI": "10.1007/978-3-642-23226-8_49",
+    "CorpusId": 195592038
+  },
+  "url": "https://www.semanticscholar.org/paper/8de7bf1708eef2c216229c1358c092ddbc00d42b",
+  "title": "Application Study of Precision Agriculture Based on Ontology in the Internet of Things Environment",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-23226-8_49?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-23226-8_49, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2058037926",
+      "name": "Zhang Min"
+    },
+    {
+      "authorId": "48723537",
+      "name": "Wang Bei"
+    },
+    {
+      "authorId": "2084093751",
+      "name": "Gao Chunyuan"
+    },
+    {
+      "authorId": "2112296952",
+      "name": "Shuai Zhao qian"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,173 @@
+{
+  "paperId": "95fa6b68ca6669e29c0e965599d884d499063dc9",
+  "externalIds": {
+    "MAG": "2147590709",
+    "DOI": "10.1186/1179-5395-44-S1-S6",
+    "CorpusId": 5560042
+  },
+  "url": "https://www.semanticscholar.org/paper/95fa6b68ca6669e29c0e965599d884d499063dc9",
+  "title": "Forest nutrition and fertilization in teak (Tectona grandis L.f.) plantations in Central America†",
+  "venue": "New Zealand Journal of Forestry Science",
+  "year": 2014,
+  "citationCount": 19,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://nzjforestryscience.springeropen.com/counter/pdf/10.1186/1179-5395-44-S1-S6",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/1179-5395-44-S1-S6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/1179-5395-44-S1-S6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1404088936",
+      "name": "J. Fernández-Moya"
+    },
+    {
+      "authorId": "144999089",
+      "name": "A. Alvarado"
+    },
+    {
+      "authorId": "1402196941",
+      "name": "A. San Miguel-Ayanz"
+    },
+    {
+      "authorId": "1404836956",
+      "name": "Miguel Marchamalo-Sacristán"
+    }
+  ],
+  "abstract": "BackgroundSoil fertility management and forest nutrition are key factors determining management and productivity of both natural and planted forests. Reference values for foliar and soil nutrient contents and assessment of nutrient balances to evaluate the sustainability of planted forest systems can guide forest managers in determining whether or not additional fertilisation is required.MethodsThis review summarises the authors' research into the nutritional requirements for planted teak (Tectona grandis L.f.) forests in Central and South America. Teak is an important species for commercial forest plantations, usually in carefully selected productive sites, with rotations of 20-25 years and commercial volume anticipated to be around 10 m3 ha-1 year-1.ResultsFoliar nutrient concentration values can be used as a reference to evaluate the nutritional status of planted teak forests. In addition, there may be an association between the dynamics of the concentrations of K, Mg and N with tree age and the age-related declines in teak productivity. Timber extraction by felling constitutes a major nutrient output from the system and repeated nutrient exports during several rotations could be a cause of soil nutrients depletion, especially P and K which typically have low availability in these Central American systems. Multivariate analyses have been shown to be appropriate and helpful tools for grouping forest stands by fertility classes (i.e. soil management zones using the terminology of precision agriculture).ConclusionsThe techniques developed can be used as tools for the design of efficient fertilisation programmes, taking into account the inherent heterogeneity of soil fertility across different stands. This is considered as a first step towards a precision forestry scheme. Whether age-related changes in nutrient concentrations are a cause or a consequence of age-related declines in productivity is an important issue for future research.",
+  "references": [
+    {
+      "paperId": "916d56a4966858dfbc84d3151d7a7f078487c418"
+    },
+    {
+      "paperId": "049fc847d30426ce2619475d6b2217e345f5c941"
+    },
+    {
+      "paperId": "fa89188cc44f460af066b03657fe82562374800d"
+    },
+    {
+      "paperId": "e427e25806017289bf47758d91d9c9d663b18f93"
+    },
+    {
+      "paperId": "99238f1a3cdfe145332dae6ccaa573344f3acb78"
+    },
+    {
+      "paperId": "d96e1eae38f3a7deb3ca4186da09ce02e593fd3d"
+    },
+    {
+      "paperId": "d127f8321cfaf2ba74b06851ab40f082d50ff8a1"
+    },
+    {
+      "paperId": "832f0a0d57835a04ff6d66eae15db65232710097"
+    },
+    {
+      "paperId": "c236d592020205996f38ed375cbb005962d83784"
+    },
+    {
+      "paperId": "cd88cd6452ffdc1437870c6b93315a19e68be0bf"
+    },
+    {
+      "paperId": "8e7cc73c648c3c9643561eda19913f49cc53b97c"
+    },
+    {
+      "paperId": "bae1fd98895d2f73d7bdd64816b3bbbcdb7aea3d"
+    },
+    {
+      "paperId": "c295bf34a79b85412590ceb2e047eab671df87a9"
+    },
+    {
+      "paperId": "134e067a77876d896aec6ac6b995838dd078fa39"
+    },
+    {
+      "paperId": "ff8ebc7257407b5ad66a0798866007eb1dfed0aa"
+    },
+    {
+      "paperId": "b67d87777917c237cc14b644135806623cd9ea24"
+    },
+    {
+      "paperId": "1ca976d29cc3c4f3106d967622af7b2400314f50"
+    },
+    {
+      "paperId": "ee7557f4bb497a1920f164958d773c72b6133aeb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9edceffa05e59923362f9f3bfe2f2f6387fb6c59"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5d3f8ad54782f1cb8ca5694545a416f988adc649"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d1d5b26609f43c63935f0c8ca841a06b135dfc8e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "db650c362042fe308f9885a9cd951883b578038e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8720d5ba4053eca9debf19eb7f852b1a7e2ea021"
+    },
+    {
+      "paperId": "2c56d90e6edf9893abde000bcc12acce9ed23554"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ccea30e930b20502615f18160c7505c75b67efed"
+    },
+    {
+      "paperId": "91f866a766682a9d4bf173ec22717222179e715a"
+    },
+    {
+      "paperId": "5adaf7569512f3b3e784c004ff0f2fdcb7a0d890"
+    },
+    {
+      "paperId": "2265d2e37a0dd0e7ec11ecacb692237ffa943eeb"
+    },
+    {
+      "paperId": "e8045566bd826b3efcd3c18040786e9cba394ad6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2f6833061925130c647b61531e631cdfbd644bb2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7bad611ac1a985a6d709ef5172708775d1ecab2a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

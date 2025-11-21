@@ -1,0 +1,63 @@
+{
+  "paperId": "c39ea10b11821618381ae1007efa6a6561dd3b98",
+  "externalIds": {
+    "MAG": "2059750606",
+    "DOI": "10.3923/AJES.2011.193.202",
+    "CorpusId": 140620821
+  },
+  "url": "https://www.semanticscholar.org/paper/c39ea10b11821618381ae1007efa6a6561dd3b98",
+  "title": "Ground water estimation and water table detection with ground penetrating radar",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.3923/ajes.2011.193.202",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3923/AJES.2011.193.202?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3923/AJES.2011.193.202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2807361",
+      "name": "B. Y. Idi"
+    },
+    {
+      "authorId": "10137452",
+      "name": "M. N. Kamarudin"
+    }
+  ],
+  "abstract": "A shallow subsurface survey was conducted along a 20 m long profile on a test site with the aim of mapping and assessing ground water resource of the area. The profile was scanned with ground penetrating radar using common offset geometric configuration. Velocity information obtained from the processed radar image were used to estimate and mapped the spatial distribution of the ground water within the shallow depth based on Topp’s empirical relation between the water content and the dielectric constant of the soil medium. Due to the absence of scattering objects within the deeper high water content region, borehole log data were used to correlate the radar reflection signatures with the observed stratigraphic sequences. Layer picking was used to delineate the water table which correlates well with the log data. Significant lateral variation in both the shallow water content and the level of water table were observed with the water table found to be within a depth range of 0.5 to 1.4 m. These were attributed to the nature of the soil identified as till with variable grain size distribution. The soil is therefore, considered to have great variation in hydraulic conductivity which implies significant variability in water retention capacity. Region of maximum water content within the shallow level was found to coincide with the region of higher level of the water table. The study therefore, appraised the effectiveness of GPR as a tool for precision agricultural practice and environmental studies.",
+  "references": [
+    {
+      "paperId": "610a544121dad32ac8e07701265e1580635712e1"
+    },
+    {
+      "paperId": "509165278d869d57589da74cbbab7d03203075d4"
+    },
+    {
+      "paperId": "42d33ef63cba3d997eff5ef134eae6db4a8ad90a"
+    },
+    {
+      "paperId": "11071e98268120af62dfe8e2209d0f4a0ac9ba42"
+    },
+    {
+      "paperId": "b389a0426e9ebe0ada2699ad11edd4cebd499072"
+    },
+    {
+      "paperId": "9cc4a252f5f2a982ef8b99e0879e2cc7bcf73f7f"
+    },
+    {
+      "paperId": "dd9db24278fb7cac98a0b6d2adfaba0b219e1272"
+    },
+    {
+      "paperId": "dce46c67d3b4d7b32e3464f5cceb11adc5f8b6e7"
+    }
+  ]
+}

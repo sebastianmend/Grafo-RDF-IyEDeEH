@@ -1,0 +1,65 @@
+{
+  "paperId": "77ae97ae51abc9691c8c203519ecf9f8754a14c9",
+  "externalIds": {
+    "MAG": "2098304449",
+    "DOI": "10.1111/ppl.12328",
+    "CorpusId": 5161848,
+    "PubMed": "25625618"
+  },
+  "url": "https://www.semanticscholar.org/paper/77ae97ae51abc9691c8c203519ecf9f8754a14c9",
+  "title": "A multivariate approach for assessing leaf photo-assimilation performance using the IPL index.",
+  "venue": "Physiologia Plantarum : An International Journal for Plant Biology",
+  "year": 2015,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ppl.12328?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ppl.12328, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6878035",
+      "name": "P. Losciale"
+    },
+    {
+      "authorId": "7293146",
+      "name": "L. Manfrini"
+    },
+    {
+      "authorId": "39697377",
+      "name": "B. Morandi"
+    },
+    {
+      "authorId": "47301048",
+      "name": "E. Pierpaoli"
+    },
+    {
+      "authorId": "4422426",
+      "name": "M. Zibordi"
+    },
+    {
+      "authorId": "5698374",
+      "name": "A. M. Stellacci"
+    },
+    {
+      "authorId": "3424867",
+      "name": "L. Salvati"
+    },
+    {
+      "authorId": "5152518",
+      "name": "L. Corelli Grappadelli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

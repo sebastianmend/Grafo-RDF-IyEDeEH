@@ -1,0 +1,42 @@
+{
+  "paperId": "7db7c555dfe78fa6f626a9f78faf7147a9c7091c",
+  "externalIds": {
+    "MAG": "2441164784",
+    "CorpusId": 12555458,
+    "PubMed": "26211059"
+  },
+  "url": "https://www.semanticscholar.org/paper/7db7c555dfe78fa6f626a9f78faf7147a9c7091c",
+  "title": "[Land use pattern change in Ejin Delta of Northwest China during 1930-2010].",
+  "venue": "Ying yong sheng tai xue bao = The journal of applied ecology",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1989903",
+      "name": "Yanyun Nian"
+    },
+    {
+      "authorId": "2145748395",
+      "name": "Xiao-li Wang"
+    },
+    {
+      "authorId": "2115385582",
+      "name": "Luan Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "4c1ad8610e966b8ef9167dce35d3e21ffc045734",
+  "externalIds": {
+    "MAG": "2004289780",
+    "DOI": "10.1117/12.2067450",
+    "CorpusId": 129434034
+  },
+  "url": "https://www.semanticscholar.org/paper/4c1ad8610e966b8ef9167dce35d3e21ffc045734",
+  "title": "Insights and recommendations of use of UAV platforms in precision agriculture in Brazil",
+  "venue": "Remote Sensing",
+  "year": 2014,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2067450?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2067450, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3141973",
+      "name": "L. Jorge"
+    },
+    {
+      "authorId": "88026550",
+      "name": "Ziany N. Brandão"
+    },
+    {
+      "authorId": "2091705980",
+      "name": "R. Inamasu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,109 @@
+{
+  "paperId": "bab348927c667a0f97b7975f99fad38238f75ef7",
+  "externalIds": {
+    "MAG": "1188609574",
+    "DBLP": "journals/cea/GimenezHTC15",
+    "DOI": "10.1016/j.compag.2015.06.013",
+    "CorpusId": 23667840
+  },
+  "url": "https://www.semanticscholar.org/paper/bab348927c667a0f97b7975f99fad38238f75ef7",
+  "title": "Optimization methodology to fruit grove mapping in precision agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2015,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ri.conicet.gov.ar/bitstream/11336/6644/5/CONICET_Digital_Nro.8907_D.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2015.06.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2015.06.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47338222",
+      "name": "Javier Gimenez"
+    },
+    {
+      "authorId": "121634277",
+      "name": "D. Herrera"
+    },
+    {
+      "authorId": "2463159",
+      "name": "Santiago Tosetti"
+    },
+    {
+      "authorId": "1783160",
+      "name": "R. Carelli"
+    }
+  ],
+  "abstract": null,
+  "references": [
+    {
+      "paperId": "4fa0f2b669ad55a1be6a7492f0b67b58914eb1f8"
+    },
+    {
+      "paperId": "f4b2a1acd7b2e4c829f140d6ee13fce9ab116a7a"
+    },
+    {
+      "paperId": "48a6eddf4b81930ba601cfbd3e7bb02d8798a17a"
+    },
+    {
+      "paperId": "9b7046ae2d4b81dc57775d6ef9007a21ce45ee7a"
+    },
+    {
+      "paperId": "98247f75ac9a4302b03ab37373d3506507ed8314"
+    },
+    {
+      "paperId": "d072fa2ffd967166a201b066296b5fedc05a1453"
+    },
+    {
+      "paperId": "c2170eb607bc4d6130112d8b3e32328c77253d70"
+    },
+    {
+      "paperId": "f3ef867bf2549c2e96cede505f29ea17f792aa5e"
+    },
+    {
+      "paperId": "f844dae1c5e6910c9cb4431a7abdf6ff7804f0cb"
+    },
+    {
+      "paperId": "32b9e3ea64fe67aadd053b9ca6070bf2c7a6e273"
+    },
+    {
+      "paperId": "1f12c738c4b5892532f249520618250e3f3f4c8e"
+    },
+    {
+      "paperId": "fd8f3bac0c19c1353bda00769f0b6d53b5779f73"
+    },
+    {
+      "paperId": "e6b22a31bbab3a6217150b74b9c416cc084564d3"
+    },
+    {
+      "paperId": "30f67b7275cec21a94be945dfe4beff08c7e004a"
+    },
+    {
+      "paperId": "d2426026eaaf382e17a33af0d81ad1d98aed374e"
+    },
+    {
+      "paperId": "53a97d7c2fe1d2dc9db5c3c26ac06633e73e59fc"
+    },
+    {
+      "paperId": "8ae53ba837d91524eef5fe2532829381f2f6061a"
+    },
+    {
+      "paperId": "c34a678e40a7d80cb3683f07fc837179fd9bf3ee"
+    },
+    {
+      "paperId": "1c641fbea5fa19396b2781b6447761b1e406e5fd"
+    },
+    {
+      "paperId": "3f8d7bdfc3ed0ff793f1236730486b3d5cf946aa"
+    }
+  ]
+}

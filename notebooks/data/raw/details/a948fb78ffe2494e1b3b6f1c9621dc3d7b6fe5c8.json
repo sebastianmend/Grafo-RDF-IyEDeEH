@@ -1,0 +1,60 @@
+{
+  "paperId": "a948fb78ffe2494e1b3b6f1c9621dc3d7b6fe5c8",
+  "externalIds": {
+    "MAG": "2133107448",
+    "DOI": "10.1002/jsfa.6051",
+    "CorpusId": 24721308,
+    "PubMed": "23436218"
+  },
+  "url": "https://www.semanticscholar.org/paper/a948fb78ffe2494e1b3b6f1c9621dc3d7b6fe5c8",
+  "title": "More 'crop per drop': constraints and opportunities for precision irrigation in European agriculture.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2013,
+  "citationCount": 87,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.6051?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.6051, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2270127988",
+      "name": "James M. Monaghan"
+    },
+    {
+      "authorId": "6289431",
+      "name": "A. Daccache"
+    },
+    {
+      "authorId": "2270205526",
+      "name": "Laura H. Vickers"
+    },
+    {
+      "authorId": "2241738228",
+      "name": "Tim Hess"
+    },
+    {
+      "authorId": "2287754656",
+      "name": "E Keith Weatherhead"
+    },
+    {
+      "authorId": "2287606203",
+      "name": "Ivan G Grove"
+    },
+    {
+      "authorId": "144812814",
+      "name": "J. Knox"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

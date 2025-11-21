@@ -1,0 +1,46 @@
+{
+  "paperId": "c462c93228b55e4d45a4933428756aa2f073f6b6",
+  "externalIds": {
+    "MAG": "2331282935",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910634",
+    "CorpusId": 5101274
+  },
+  "url": "https://www.semanticscholar.org/paper/c462c93228b55e4d45a4933428756aa2f073f6b6",
+  "title": "Automatic recognition of rape seeding emergence stage based on computer vision technology",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910634?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30839689",
+      "name": "Fang Yihang"
+    },
+    {
+      "authorId": "30997195",
+      "name": "Chang Tingting"
+    },
+    {
+      "authorId": "9190164",
+      "name": "Zhai Ruifang"
+    },
+    {
+      "authorId": "12542376",
+      "name": "W. Xingyu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

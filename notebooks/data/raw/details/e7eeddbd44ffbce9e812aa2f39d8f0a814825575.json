@@ -1,0 +1,42 @@
+{
+  "paperId": "e7eeddbd44ffbce9e812aa2f39d8f0a814825575",
+  "externalIds": {
+    "DBLP": "conf/ghtc/MaqsoodK13",
+    "MAG": "2093813102",
+    "DOI": "10.1109/GHTC.2013.6713710",
+    "CorpusId": 27035654
+  },
+  "url": "https://www.semanticscholar.org/paper/e7eeddbd44ffbce9e812aa2f39d8f0a814825575",
+  "title": "A review of direct and indirect implications of laser land leveling as agriculture resource conservation technology in Punjab province of Pakistan",
+  "venue": "IEEE Global Humanitarian Technology Conference",
+  "year": 2013,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GHTC.2013.6713710?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GHTC.2013.6713710, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1961633",
+      "name": "Leena Maqsood"
+    },
+    {
+      "authorId": "2343325",
+      "name": "T. Khalil"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

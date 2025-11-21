@@ -1,0 +1,43 @@
+{
+  "paperId": "1bb76ea947bb3c4c99b5c4b58796f92435415317",
+  "externalIds": {
+    "MAG": "2018972731",
+    "DOI": "10.1109/CSNT.2014.222",
+    "CorpusId": 17382048
+  },
+  "url": "https://www.semanticscholar.org/paper/1bb76ea947bb3c4c99b5c4b58796f92435415317",
+  "title": "Development of a Classification System for Quality Evaluation of Oryza Sativa L. (Rice) Using Computer Vision",
+  "venue": "2014 Fourth International Conference on Communication Systems and Network Technologies",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CSNT.2014.222?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CSNT.2014.222, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2054069460",
+      "name": "Niky K. Jain"
+    },
+    {
+      "authorId": "32747005",
+      "name": "S. Khanna"
+    },
+    {
+      "authorId": "39375692",
+      "name": "K. Jain"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

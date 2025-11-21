@@ -1,0 +1,44 @@
+{
+  "paperId": "07cb8a2f759dec615984d0f870f5c643cd970e1d",
+  "externalIds": {
+    "DBLP": "journals/cea/ChenZW15",
+    "MAG": "2042564667",
+    "DOI": "10.1016/j.compag.2014.12.009",
+    "CorpusId": 39545617
+  },
+  "url": "https://www.semanticscholar.org/paper/07cb8a2f759dec615984d0f870f5c643cd970e1d",
+  "title": "Integrated open geospatial web service enabled cyber-physical information infrastructure for precision agriculture monitoring",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2015,
+  "citationCount": 77,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2014.12.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2014.12.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "7700987",
+      "name": "Nengcheng Chen"
+    },
+    {
+      "authorId": "40569903",
+      "name": "Xiang Zhang"
+    },
+    {
+      "authorId": "2144446949",
+      "name": "Chao Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

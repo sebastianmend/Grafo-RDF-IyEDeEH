@@ -1,0 +1,52 @@
+{
+  "paperId": "abc6b6326737d36ca11f11ba2ce76719995c6f19",
+  "externalIds": {
+    "DBLP": "journals/irob/EmmiPRPS13",
+    "MAG": "2081224464",
+    "DOI": "10.1108/01439911311294246",
+    "CorpusId": 35322707
+  },
+  "url": "https://www.semanticscholar.org/paper/abc6b6326737d36ca11f11ba2ce76719995c6f19",
+  "title": "Fleets of robots for precision agriculture: a simulation environment",
+  "venue": "Industrial robot",
+  "year": 2013,
+  "citationCount": 46,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1108/01439911311294246?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/01439911311294246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34956292",
+      "name": "L. Emmi"
+    },
+    {
+      "authorId": "1398765789",
+      "name": "L. Paredes-Madrid"
+    },
+    {
+      "authorId": "2075353113",
+      "name": "A. Ribeiro"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    },
+    {
+      "authorId": "9370715",
+      "name": "P. Santos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

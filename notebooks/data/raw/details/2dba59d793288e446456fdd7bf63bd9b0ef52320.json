@@ -1,0 +1,57 @@
+{
+  "paperId": "2dba59d793288e446456fdd7bf63bd9b0ef52320",
+  "externalIds": {
+    "MAG": "2273616267",
+    "DOI": "10.32628/IJSRSET141115",
+    "CorpusId": 111711470
+  },
+  "url": "https://www.semanticscholar.org/paper/2dba59d793288e446456fdd7bf63bd9b0ef52320",
+  "title": "Role of Information Technology in Agriculture : A Review",
+  "venue": "International Journal of Scientific Research in Science Engineering and Technology",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.32628/ijsrset141115",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32628/IJSRSET141115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32628/IJSRSET141115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "27085058",
+      "name": "Bhavesh Kataria"
+    }
+  ],
+  "abstract": "Information Technology (IT) is the application of computers and telecommunications equipment to store, retrieve, transmit and manipulate data, often in the context of a business, education or other enterprise. This paper reviewed the India’s IT Industry and in addition studied the Impact of IT on the Indian Agriculture. To improve the quality of agricultural products and production using information technology that requires efficiency and information in all sectors of agriculture. Information technology support new methods and ideas for precision and healthy agriculture used computers in farm, climate or weather forecasting, use of method and materials and kind of crops. In this paper I tried to find how information technology is useful for making choices to setting goals, improve planning and produce better agriculture products and study the key elements and basic issues of information technology in agriculture.",
+  "references": [
+    {
+      "paperId": "3fe8ea66945b3699df4bcdc55b263b1546feea95"
+    },
+    {
+      "paperId": "c85ce57b6375cc1dd3250f05d7674e1aa9b9861b"
+    },
+    {
+      "paperId": "0fe9069406de9eb565f7ba5b378b9535357cd434"
+    },
+    {
+      "paperId": "6b9c11621d4d5bc9906dc0f6673197bb41e85db7"
+    },
+    {
+      "paperId": "37e75a9ea553b75818bc4d648fe86b7c51d72bd2"
+    },
+    {
+      "paperId": "e5853df50d9b3014fc5368e31869d7a70aa47e70"
+    },
+    {
+      "paperId": "4152ac2d0551793b0f98006dfbcc19d49488f25d"
+    }
+  ]
+}

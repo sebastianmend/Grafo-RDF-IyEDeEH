@@ -1,0 +1,47 @@
+{
+  "paperId": "0dd060cc928c9564a41f553db035dfffb582f60d",
+  "externalIds": {
+    "MAG": "2554429657",
+    "DBLP": "conf/ifip12/ZhaoJYZ15",
+    "DOI": "10.1007/978-3-319-48354-2_18",
+    "CorpusId": 35285515
+  },
+  "url": "https://www.semanticscholar.org/paper/0dd060cc928c9564a41f553db035dfffb582f60d",
+  "title": "Design and Implementation of TD-LTE-Based Real-Time Monitoring System for Greenhouse Environment Temperature",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2145734000",
+      "name": "Xin Zhao"
+    },
+    {
+      "authorId": "2055180049",
+      "name": "Yang Jiao"
+    },
+    {
+      "authorId": "17428537",
+      "name": "Lianjun Yu"
+    },
+    {
+      "authorId": "2264202",
+      "name": "Chuanhong Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

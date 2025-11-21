@@ -1,0 +1,66 @@
+{
+  "paperId": "011121b74f5f63c96e51ad786be642a9b52bec0e",
+  "externalIds": {
+    "MAG": "2934427354",
+    "DOI": "10.31026/j.eng.2015.07.02",
+    "CorpusId": 133147770
+  },
+  "url": "https://www.semanticscholar.org/paper/011121b74f5f63c96e51ad786be642a9b52bec0e",
+  "title": "Spiking Neural Network in Precision Agriculture",
+  "venue": "Jurnal Engineering",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://joe.uobaghdad.edu.iq/index.php/main/article/download/390/337",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31026/j.eng.2015.07.02?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31026/j.eng.2015.07.02, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "70444636",
+      "name": "N. A. Shiltagh"
+    },
+    {
+      "authorId": "107598515",
+      "name": "Hasnaa Ahmed Abas"
+    }
+  ],
+  "abstract": "In this paper, precision agriculture system is introduced based on Wireless Sensor Network (WSN). Soil moisture considered one of environment factors that effect on crop. The period of irrigation must be monitored. Neural network capable of learning the behavior of the agricultural soil in absence of mathematical model. This paper introduced modified type of neural network that is known as Spiking Neural Network (SNN). In this work, the precision agriculture system  is modeled, contains two SNNs which have been identified off-line based on logged data, one of these SNNs represents the monitor that located at sink where the period of irrigation is calculated and the other represents the soil. In addition, to reduce power consumption of sensor nodes Modified Chain-Cluster based Mixed (MCCM) routing algorithm is used. According to MCCM, the sensors will send their packets that are less than threshold moisture level to the sink. The SNN with Modified Spike-Prop (MSP) training algorithm is capable of identifying soil, irrigation periods and monitoring the soil moisture level, this means that SNN has the ability to be an identifier and monitor. By applying this system the particular agriculture area reaches to the desired moisture level. \n  \n ",
+  "references": [
+    {
+      "paperId": "bba145fdaa1a032aa6a25d54957fafd43e11dc8d"
+    },
+    {
+      "paperId": "316ef2c131b1a912467e868fdfa39f70f865aee8"
+    },
+    {
+      "paperId": "ff80dea7c270501162e8735d4cb988289ed7c269"
+    },
+    {
+      "paperId": "df2abdfdcb6883e2ef65d6c404d2399d8ff125c8"
+    },
+    {
+      "paperId": "c6a09b560fd3ffdd8833fa5625896f6bd302072e"
+    },
+    {
+      "paperId": "4022fb646dc463c535cf86e15558ccf0dfa48284"
+    },
+    {
+      "paperId": "79490836783710240712a9ffa036fb75a3f6c7a6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

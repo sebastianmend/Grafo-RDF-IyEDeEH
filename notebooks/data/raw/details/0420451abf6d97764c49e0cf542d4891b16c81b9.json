@@ -1,0 +1,48 @@
+{
+  "paperId": "0420451abf6d97764c49e0cf542d4891b16c81b9",
+  "externalIds": {
+    "MAG": "2182956653",
+    "CorpusId": 130616598
+  },
+  "url": "https://www.semanticscholar.org/paper/0420451abf6d97764c49e0cf542d4891b16c81b9",
+  "title": "Integrating proximal soil sensing techniques and terrain indexes to generate 3D maps of soil restrictive layers in the Palouse region, Washington, USA",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2630812",
+      "name": "M. Poggio"
+    },
+    {
+      "authorId": "2115443624",
+      "name": "David J. Brown"
+    },
+    {
+      "authorId": "6246034",
+      "name": "C. Gasch"
+    },
+    {
+      "authorId": "4741983",
+      "name": "E. Brooks"
+    },
+    {
+      "authorId": "10803390",
+      "name": "M. Yourek"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

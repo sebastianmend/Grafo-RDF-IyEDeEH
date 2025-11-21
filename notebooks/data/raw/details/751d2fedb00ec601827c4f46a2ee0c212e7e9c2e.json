@@ -1,0 +1,54 @@
+{
+  "paperId": "751d2fedb00ec601827c4f46a2ee0c212e7e9c2e",
+  "externalIds": {
+    "MAG": "2428019493",
+    "DOI": "10.1109/ITACT.2015.7492686",
+    "CorpusId": 18718893
+  },
+  "url": "https://www.semanticscholar.org/paper/751d2fedb00ec601827c4f46a2ee0c212e7e9c2e",
+  "title": "Navigation control of a mobile robotic system in semi-structured and dynamic environment for controlled dose delivery of pesticides",
+  "venue": "2015 International Conference on Trends in Automation, Communications and Computing Technology (I-TACT-15)",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ITACT.2015.7492686?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ITACT.2015.7492686, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "49045240",
+      "name": "M. Patel"
+    },
+    {
+      "authorId": "9156103",
+      "name": "H. K. Sahoo"
+    },
+    {
+      "authorId": "9312118",
+      "name": "C. Kathuria"
+    },
+    {
+      "authorId": "3469798",
+      "name": "M. Nayak"
+    },
+    {
+      "authorId": "46991379",
+      "name": "Aneesh Singla"
+    },
+    {
+      "authorId": "2518000",
+      "name": "C. Ghanshyam"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

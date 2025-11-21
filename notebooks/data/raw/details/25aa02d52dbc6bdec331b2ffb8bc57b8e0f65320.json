@@ -1,0 +1,34 @@
+{
+  "paperId": "25aa02d52dbc6bdec331b2ffb8bc57b8e0f65320",
+  "externalIds": {
+    "MAG": "2031835940",
+    "DOI": "10.1109/ICICES.2014.7034183",
+    "CorpusId": 15084083
+  },
+  "url": "https://www.semanticscholar.org/paper/25aa02d52dbc6bdec331b2ffb8bc57b8e0f65320",
+  "title": "MPSoC based dynamic power management in wireless sensor networks",
+  "venue": "International Conference on Information Communication and Embedded Systems",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICES.2014.7034183?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICES.2014.7034183, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2084026178",
+      "name": "G. M. Banu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

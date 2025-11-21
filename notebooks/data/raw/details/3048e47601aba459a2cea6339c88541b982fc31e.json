@@ -1,0 +1,32 @@
+{
+  "paperId": "3048e47601aba459a2cea6339c88541b982fc31e",
+  "externalIds": {
+    "MAG": "1766999041",
+    "CorpusId": 60974384
+  },
+  "url": "https://www.semanticscholar.org/paper/3048e47601aba459a2cea6339c88541b982fc31e",
+  "title": "Automatic Plant Annotation Using 3D Computer Vision",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50416905",
+      "name": "M. Nielsen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

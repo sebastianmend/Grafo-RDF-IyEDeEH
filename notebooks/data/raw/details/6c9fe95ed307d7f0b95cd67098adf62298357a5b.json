@@ -1,0 +1,36 @@
+{
+  "paperId": "6c9fe95ed307d7f0b95cd67098adf62298357a5b",
+  "externalIds": {
+    "MAG": "1516487132",
+    "CorpusId": 24077205
+  },
+  "url": "https://www.semanticscholar.org/paper/6c9fe95ed307d7f0b95cd67098adf62298357a5b",
+  "title": "Research progress on agronomic parameter estimation based on spectral analysis technology",
+  "venue": "International Conference on Advanced Mechatronic Systems",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47047560",
+      "name": "Zhe Xu"
+    },
+    {
+      "authorId": "2075332705",
+      "name": "Na Yang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

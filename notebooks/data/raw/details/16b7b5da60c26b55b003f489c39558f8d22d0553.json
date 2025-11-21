@@ -1,0 +1,58 @@
+{
+  "paperId": "16b7b5da60c26b55b003f489c39558f8d22d0553",
+  "externalIds": {
+    "MAG": "2356617668",
+    "CorpusId": 36992151,
+    "PubMed": "21714269"
+  },
+  "url": "https://www.semanticscholar.org/paper/16b7b5da60c26b55b003f489c39558f8d22d0553",
+  "title": "[Investigation of the hyperspectral image characteristics of wheat leaves under different stress].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2011,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109566989",
+      "name": "Dong-yan Zhang"
+    },
+    {
+      "authorId": "47539689",
+      "name": "Jingcheng Zhang"
+    },
+    {
+      "authorId": "2229989",
+      "name": "Dazhou Zhu"
+    },
+    {
+      "authorId": "2109655559",
+      "name": "Ji‐Hua Wang"
+    },
+    {
+      "authorId": "46789070",
+      "name": "Juhua Luo"
+    },
+    {
+      "authorId": "2109874366",
+      "name": "Jinling Zhao"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,54 @@
+{
+  "paperId": "b0f70d18a3611b6c61bd6f1e3771e01835a7d3dc",
+  "externalIds": {
+    "MAG": "1971206136",
+    "DOI": "10.1109/SBR.LARS.ROBOCONTROL.2014.30",
+    "CorpusId": 3040281
+  },
+  "url": "https://www.semanticscholar.org/paper/b0f70d18a3611b6c61bd6f1e3771e01835a7d3dc",
+  "title": "Simulation of Rovers for Precision Agriculture",
+  "venue": "2014 Joint Conference on Robotics: SBR-LARS Robotics Symposium and Robocontrol",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SBR.LARS.ROBOCONTROL.2014.30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SBR.LARS.ROBOCONTROL.2014.30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9454908",
+      "name": "John Faber Archila"
+    },
+    {
+      "authorId": "2061094898",
+      "name": "Junior Marques Moreira"
+    },
+    {
+      "authorId": "9187101",
+      "name": "Victor Ivar Van Halts"
+    },
+    {
+      "authorId": "9390977",
+      "name": "Luiz Antonio Neto Alves"
+    },
+    {
+      "authorId": "36642991",
+      "name": "O. E. Rueda"
+    },
+    {
+      "authorId": "143926646",
+      "name": "M. Becker"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

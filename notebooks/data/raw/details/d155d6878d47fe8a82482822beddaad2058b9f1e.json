@@ -1,0 +1,47 @@
+{
+  "paperId": "d155d6878d47fe8a82482822beddaad2058b9f1e",
+  "externalIds": {
+    "ACL": "L14-1608",
+    "DBLP": "conf/lrec/BoscaCDM14",
+    "MAG": "2250739664",
+    "CorpusId": 17307513
+  },
+  "url": "https://www.semanticscholar.org/paper/d155d6878d47fe8a82482822beddaad2058b9f1e",
+  "title": "A Gold Standard for CLIR evaluation in the Organic Agriculture Domain",
+  "venue": "International Conference on Language Resources and Evaluation",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://aclanthology.org/L14-1608, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2315050",
+      "name": "A. Bosca"
+    },
+    {
+      "authorId": "34883505",
+      "name": "Matteo Casu"
+    },
+    {
+      "authorId": "2346796",
+      "name": "M. Dragoni"
+    },
+    {
+      "authorId": "2500607",
+      "name": "N. Marianos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

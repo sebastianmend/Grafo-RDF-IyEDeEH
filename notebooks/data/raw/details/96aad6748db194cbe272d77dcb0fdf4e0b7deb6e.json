@@ -1,0 +1,134 @@
+{
+  "paperId": "96aad6748db194cbe272d77dcb0fdf4e0b7deb6e",
+  "externalIds": {
+    "PubMedCentral": "3231495",
+    "DBLP": "journals/sensors/VeraBMCC11",
+    "MAG": "1557595827",
+    "DOI": "10.3390/s110909009",
+    "CorpusId": 16395617,
+    "PubMed": "22164118"
+  },
+  "url": "https://www.semanticscholar.org/paper/96aad6748db194cbe272d77dcb0fdf4e0b7deb6e",
+  "title": "A Programmable Plug & Play Sensor Interface for WSN Applications",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/11/9/9009/pdf?version=1403316158",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3231495, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2071175549",
+      "name": "S. Vera"
+    },
+    {
+      "authorId": "49701350",
+      "name": "A. Bayo"
+    },
+    {
+      "authorId": "145129647",
+      "name": "N. Medrano"
+    },
+    {
+      "authorId": "144566689",
+      "name": "B. Calvo"
+    },
+    {
+      "authorId": "1692613",
+      "name": "S. Celma"
+    }
+  ],
+  "abstract": "Cost reduction in wireless sensor networks (WSN) becomes a priority when extending their application to fields where a great number of sensors is needed, such as habitat monitoring, precision agriculture or diffuse greenhouse emission measurement. In these cases, the use of smart sensors is expensive, consequently requiring the use of low-cost sensors. The solution to convert such generic low-cost sensors into intelligent ones leads to the implementation of a versatile system with enhanced processing and storage capabilities to attain a plug and play electronic interface able to adapt to all the sensors used. This paper focuses on this issue and presents a low-voltage plug & play reprogrammable interface capable of adapting to different sensor types and achieving an optimum reading performance for every sensor. The proposed interface, which includes both electronic and software elements so that it can be easily integrated in WSN nodes, is described and experimental test results to validate its performance are given.",
+  "references": [
+    {
+      "paperId": "ce5a5ef51ef1b470c00a7aad533d5e8ad2ef9363"
+    },
+    {
+      "paperId": "e0926354ae5f042c48a85ede2ee0beb70104fd99"
+    },
+    {
+      "paperId": "ed7b43f0d52efa3b893f19217559f49b4c066d8b"
+    },
+    {
+      "paperId": "f4b3ea7c28043954623b99962bdc2f614af52043"
+    },
+    {
+      "paperId": "64994e789f8d92ca68b08c3c8ce44868edd19b07"
+    },
+    {
+      "paperId": "202b787f47b35819589ebee9fce33ccd5eb04ec6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c2b9c4d093eb4c9c76c59a58d2398129670c6235"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "337402a74c945cef868bcd6a69b2060558e266d0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

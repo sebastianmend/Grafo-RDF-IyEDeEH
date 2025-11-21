@@ -1,0 +1,42 @@
+{
+  "paperId": "772a42ba08ef0035137c6b8aece5ba6e9a0eec38",
+  "externalIds": {
+    "MAG": "2094832293",
+    "DOI": "10.1109/ISTAFRICA.2014.6880613",
+    "CorpusId": 10619856
+  },
+  "url": "https://www.semanticscholar.org/paper/772a42ba08ef0035137c6b8aece5ba6e9a0eec38",
+  "title": "PotatoSense: A wireless sensor network system for precision agriculture",
+  "venue": "2014 IST-Africa Conference Proceedings",
+  "year": 2014,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISTAFRICA.2014.6880613?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISTAFRICA.2014.6880613, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2895714",
+      "name": "K. Khedo"
+    },
+    {
+      "authorId": "30652003",
+      "name": "Mohammad Riyad Hosseny"
+    },
+    {
+      "authorId": "31057786",
+      "name": "Mohammad Ziyad Toonah"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

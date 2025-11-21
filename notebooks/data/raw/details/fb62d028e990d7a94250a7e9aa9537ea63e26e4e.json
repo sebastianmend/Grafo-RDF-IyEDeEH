@@ -1,0 +1,52 @@
+{
+  "paperId": "fb62d028e990d7a94250a7e9aa9537ea63e26e4e",
+  "externalIds": {
+    "MAG": "2552276317",
+    "DBLP": "conf/ifip12/WangCDJL15",
+    "DOI": "10.1007/978-3-319-48354-2_30",
+    "CorpusId": 9762883
+  },
+  "url": "https://www.semanticscholar.org/paper/fb62d028e990d7a94250a7e9aa9537ea63e26e4e",
+  "title": "Study of Spatio-temporal Variation of Soil Nutrients in Paddy Rice Planting Farm",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2116641130",
+      "name": "Cong Wang"
+    },
+    {
+      "authorId": "2927958",
+      "name": "Tian'en Chen"
+    },
+    {
+      "authorId": "2117142890",
+      "name": "Jing Dong"
+    },
+    {
+      "authorId": "47536757",
+      "name": "Shuwen Jiang"
+    },
+    {
+      "authorId": "2150358391",
+      "name": "Chaodong Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

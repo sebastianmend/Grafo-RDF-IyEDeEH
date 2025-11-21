@@ -1,0 +1,50 @@
+{
+  "paperId": "db2b35ffa31571c76f3209c940c1653d8dc897c8",
+  "externalIds": {
+    "MAG": "2049003250",
+    "DOI": "10.1109/ICECC.2011.6067842",
+    "CorpusId": 20072511
+  },
+  "url": "https://www.semanticscholar.org/paper/db2b35ffa31571c76f3209c940c1653d8dc897c8",
+  "title": "The fuzzy decision-making method of irrigation amount based on ET and soil water potentioal",
+  "venue": "International Conference on Electronics, Communications and Control",
+  "year": 2011,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECC.2011.6067842?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECC.2011.6067842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2017993605",
+      "name": "He Yong"
+    },
+    {
+      "authorId": "2055543417",
+      "name": "Liu Fei"
+    },
+    {
+      "authorId": "2149152470",
+      "name": "Zhang Wei"
+    },
+    {
+      "authorId": "31080603",
+      "name": "Miao Congcong"
+    },
+    {
+      "authorId": "1456531637",
+      "name": "Chen Yuewei"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "edd5789f463e6261c872f71927604c55b206240a",
+  "externalIds": {
+    "MAG": "2997590647",
+    "CorpusId": 217939198
+  },
+  "url": "https://www.semanticscholar.org/paper/edd5789f463e6261c872f71927604c55b206240a",
+  "title": "Fugitive methane emissions from natural, urban, agricultural, and energy-production landscapes of eastern Australia",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3247292",
+      "name": "B. Kelly"
+    },
+    {
+      "authorId": "5923488",
+      "name": "C. P. Iverach"
+    },
+    {
+      "authorId": "145376400",
+      "name": "D. Lowry"
+    },
+    {
+      "authorId": "40452714",
+      "name": "R. Fisher"
+    },
+    {
+      "authorId": "3914533",
+      "name": "E. Nisbet"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

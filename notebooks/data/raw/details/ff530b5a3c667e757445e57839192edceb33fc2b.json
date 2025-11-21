@@ -1,0 +1,42 @@
+{
+  "paperId": "ff530b5a3c667e757445e57839192edceb33fc2b",
+  "externalIds": {
+    "MAG": "2387635683",
+    "CorpusId": 21148945,
+    "PubMed": "20707161"
+  },
+  "url": "https://www.semanticscholar.org/paper/ff530b5a3c667e757445e57839192edceb33fc2b",
+  "title": "[Using the distance between hyperspectral red edge position and yellow edge position to identify wheat yellow rust disease].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2010,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "13049725",
+      "name": "Jinbao Jiang"
+    },
+    {
+      "authorId": "1993125148",
+      "name": "Yun-Hao Chen"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,252 @@
+{
+  "paperId": "e2648465d4da35d2a25400833c91d8177b70d179",
+  "externalIds": {
+    "MAG": "1831279204",
+    "DOI": "10.11606/D.11.2012.TDE-16082012-105301",
+    "CorpusId": 179050647
+  },
+  "url": "https://www.semanticscholar.org/paper/e2648465d4da35d2a25400833c91d8177b70d179",
+  "title": "Amostragem de solo em agricultura de precisão: particularidades e recomendações",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.teses.usp.br/teses/disponiveis/11/11140/tde-16082012-105301/publico/Leonardo_Anchieta.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11606/D.11.2012.TDE-16082012-105301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11606/D.11.2012.TDE-16082012-105301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "134279751",
+      "name": "L. Anchieta"
+    }
+  ],
+  "abstract": "Soil sampling in Precision Agriculture: particularities and recomendations Precision agriculture (PA) management depends on the variability of the factors that influence agricultural productivity. Its main product decisions are based on maps that provide the variation of soil parameters. For reliable maps there is a need to collect large amount of samples, resulting in costly implementation of the technique. The present study aimed to evaluate the sampling grids particularities designed to understand the spatial distribution of soil chemical parameters, as well as propose a methodology for evaluation of soil fertility. We tested different instruments of soil collecting, type of samples and sample preparation methodology. The study assumes that the traditional method of fertility survey analyzes several parameters quantified in the laboratory for prescribing agricultural recommendations. Its use is limited by the cost-intensive, compromising the accuracy of the application of agricultural inputs. This way the work tested a method that aims quantify soil chemical attributes with low cost and estimate parameters related to the agricultural prescription, and so, increase the number of samples with less parameters to be analyzed instead of a few samples with many parameters. The methodology presented satisfactory results for quantification of lime requirement. For most of the areas studied the effects of limestone was statistically equal to the estimated lime requirement calculated by the traditional method of soil analysis. The smallest difference presented by the methodologies and the need for liming was 0.035 Mg ha−1 and the biggest difference was 0.203 Mg ha−1.",
+  "references": [
+    {
+      "paperId": "c0e836f106a31237979204edccfd185d25eed751"
+    },
+    {
+      "paperId": "53e4b13cb789a6d2699e90c2b9e684962a8e7275"
+    },
+    {
+      "paperId": "53d213d5d07cbde4072a1d3d84a13d1f42720dc8"
+    },
+    {
+      "paperId": "416157bf0d64f9b6af2c19c9d5ab1d02e4ecd568"
+    },
+    {
+      "paperId": "2374fa1dbd453438fec9e3b482274d6d9d25cd55"
+    },
+    {
+      "paperId": "d4e9e4ba328e3781c95cbac62e98bf044976cc53"
+    },
+    {
+      "paperId": "8eec4c460993edf0ee872b3544a388188361b7c7"
+    },
+    {
+      "paperId": "0be09e9442a05ef6db41f76d1341b560e162c3b8"
+    },
+    {
+      "paperId": "00e7a2e4a0bab7c13b9b5e9824cf63a1926260a1"
+    },
+    {
+      "paperId": "18413388c3b7ef23cf606aea5b8601710de1c58e"
+    },
+    {
+      "paperId": "0da6b507db469eb0b40ca02ea1483304ce68e1f1"
+    },
+    {
+      "paperId": "38e2cf73efda756fb5e681c4ed9b389a29f707cc"
+    },
+    {
+      "paperId": "dcad652b6fbebf1616d41fbc1fbe45da9d950d93"
+    },
+    {
+      "paperId": "9f00e3dc5911fa85afb9400cfc99ad2805e0d208"
+    },
+    {
+      "paperId": "51c63d6066482dd450cf2496073b972b8a8d778c"
+    },
+    {
+      "paperId": "198b7f1bb972c41c13ab1db355ecabbb660bf3a2"
+    },
+    {
+      "paperId": "7262ad92c11dfcd9612f0bf981eccebc06493978"
+    },
+    {
+      "paperId": "a8699ab68ea8f8ce2f8dea9e33892443c244dd82"
+    },
+    {
+      "paperId": "f1167b8bcaf3f2dc9ad71e730c75f7bb3136ef6a"
+    },
+    {
+      "paperId": "80dece6980337918132f054d106d579bde353ca8"
+    },
+    {
+      "paperId": "0f8ae2055bc022da081ac598005cbba95aa785cb"
+    },
+    {
+      "paperId": "d571963a597742e6aa80f43db9446517501b3e20"
+    },
+    {
+      "paperId": "e118ef01633b0fdce2e7c713a05ea13e7f78f529"
+    },
+    {
+      "paperId": "a9d49dccea243c6aa9fa1925cbe77bf7a2c55ccf"
+    },
+    {
+      "paperId": "910d35b3545e73e127787f14a45f927745265aa9"
+    },
+    {
+      "paperId": "066a0fd5ee03f209d0815c8e8b72e869a54f84f9"
+    },
+    {
+      "paperId": "6cd791bb6ab3179d19beef78be039dc20c83c4c1"
+    },
+    {
+      "paperId": "7a2174050be6118b66fd4379cc2ebea6e94d374a"
+    },
+    {
+      "paperId": "87cbed883368d4a9efd42fdd91f47038f8d8fbe6"
+    },
+    {
+      "paperId": "3a5e696a03d8052d46136bff8d64a28f8935a531"
+    },
+    {
+      "paperId": "8ec3a1d7a805a0fc6a362d14a57916d14386365c"
+    },
+    {
+      "paperId": "0dc2f3ea76b9627497b8c7b1dba92c4037c5d4f0"
+    },
+    {
+      "paperId": "549345f1db80410cb8c22a2691e9d953fda417ec"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "f7a48d17ec454c844facf247ca37f0f371ff3f5d"
+    },
+    {
+      "paperId": "556f2bbd66886080738d484a9bf31d9cb185e9e2"
+    },
+    {
+      "paperId": "642a2b7702ff219e9bec66fc77b005a605e3235d"
+    },
+    {
+      "paperId": "79443a3af59a4ef192bc9c5aca3aaeb9f54a319e"
+    },
+    {
+      "paperId": "215595fa5ad70dfebb741836804f15044304035a"
+    },
+    {
+      "paperId": "546380dc1d466ff8c575f261b8211e1fefb85079"
+    },
+    {
+      "paperId": "15ae8e4c010d1eab3ae6ef423aa5f8abebcfc5e9"
+    },
+    {
+      "paperId": "256961582963f27f40c7a97ccaad7093f6330ce4"
+    },
+    {
+      "paperId": "6de688fdd3eb0ce1bd01fa7687e710e3f52a276e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

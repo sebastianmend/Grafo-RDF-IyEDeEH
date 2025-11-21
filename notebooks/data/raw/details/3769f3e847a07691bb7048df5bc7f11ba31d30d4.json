@@ -1,0 +1,53 @@
+{
+  "paperId": "3769f3e847a07691bb7048df5bc7f11ba31d30d4",
+  "externalIds": {
+    "MAG": "2331099591",
+    "DOI": "10.5740/JAOACINT.12-190",
+    "CorpusId": 6388426,
+    "PubMed": "24000760"
+  },
+  "url": "https://www.semanticscholar.org/paper/3769f3e847a07691bb7048df5bc7f11ba31d30d4",
+  "title": "Method development and validation for the simultaneous determination of organochlorine and organophosphorus pesticides in a complex sediment matrix.",
+  "venue": "Journal of AOAC International",
+  "year": 2013,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jaoac/article-pdf/96/4/854/32423625/jaoac0854.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5740/JAOACINT.12-190?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5740/JAOACINT.12-190, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1444627392",
+      "name": "Víctor Alcántara-Concepcion"
+    },
+    {
+      "authorId": "144204758",
+      "name": "S. Cram"
+    },
+    {
+      "authorId": "152425403",
+      "name": "R. Gibson"
+    },
+    {
+      "authorId": "7845617",
+      "name": "C. A. Ponce de León"
+    },
+    {
+      "authorId": "108286472",
+      "name": "M. Mazari-Hiriart"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

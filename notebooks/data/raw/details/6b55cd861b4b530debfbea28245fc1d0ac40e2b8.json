@@ -1,0 +1,40 @@
+{
+  "paperId": "6b55cd861b4b530debfbea28245fc1d0ac40e2b8",
+  "externalIds": {
+    "MAG": "1563954983",
+    "CorpusId": 45431027
+  },
+  "url": "https://www.semanticscholar.org/paper/6b55cd861b4b530debfbea28245fc1d0ac40e2b8",
+  "title": "Machine vision-based weed spot spraying: a review and where next for sugarcane?",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32869427",
+      "name": "C. McCarthy"
+    },
+    {
+      "authorId": "2055388166",
+      "name": "S. Rees"
+    },
+    {
+      "authorId": "49261835",
+      "name": "C. Baillie"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

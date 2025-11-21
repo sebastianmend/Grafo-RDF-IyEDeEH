@@ -1,0 +1,34 @@
+{
+  "paperId": "2cf855fb5eb80bca0fb1fdf3337b20647fe32816",
+  "externalIds": {
+    "MAG": "2326523250",
+    "DOI": "10.2489/jswc.66.6.171A",
+    "CorpusId": 130991627
+  },
+  "url": "https://www.semanticscholar.org/paper/2cf855fb5eb80bca0fb1fdf3337b20647fe32816",
+  "title": "Potential of precision conservation agriculture as a means of increasing productivity and incomes for smallholder farmers",
+  "venue": "Journal of Soil and Water Conservation",
+  "year": 2011,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2489/jswc.66.6.171A?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2489/jswc.66.6.171A, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104388932",
+      "name": "M. Jenrich"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

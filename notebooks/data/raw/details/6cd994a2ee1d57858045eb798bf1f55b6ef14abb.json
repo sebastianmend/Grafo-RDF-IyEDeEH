@@ -1,0 +1,52 @@
+{
+  "paperId": "6cd994a2ee1d57858045eb798bf1f55b6ef14abb",
+  "externalIds": {
+    "DBLP": "conf/cyberc/XuZZWH15",
+    "MAG": "1954614767",
+    "DOI": "10.1109/CyberC.2015.17",
+    "CorpusId": 16672618
+  },
+  "url": "https://www.semanticscholar.org/paper/6cd994a2ee1d57858045eb798bf1f55b6ef14abb",
+  "title": "Wireless Sensors in Farmland Environmental Monitoring",
+  "venue": "International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery",
+  "year": 2015,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CyberC.2015.17?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CyberC.2015.17, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2150636605",
+      "name": "Juan Xu"
+    },
+    {
+      "authorId": "2108120126",
+      "name": "Jianjun Zhang"
+    },
+    {
+      "authorId": "2110301946",
+      "name": "Xuehui Zheng"
+    },
+    {
+      "authorId": "50652735",
+      "name": "Xing Wei"
+    },
+    {
+      "authorId": "1769039",
+      "name": "Jianghong Han"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

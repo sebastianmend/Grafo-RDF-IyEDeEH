@@ -1,0 +1,51 @@
+{
+  "paperId": "8d9c73d0fdc4ffceb86909eca2418d9efd840323",
+  "externalIds": {
+    "MAG": "831614595",
+    "DBLP": "conf/ifip12/PantaziMMKA14",
+    "DOI": "10.1007/978-3-662-44654-6_55",
+    "CorpusId": 40289266
+  },
+  "url": "https://www.semanticscholar.org/paper/8d9c73d0fdc4ffceb86909eca2418d9efd840323",
+  "title": "Application of Supervised Self Organising Models for Wheat Yield Prediction",
+  "venue": "Artificial Intelligence Applications and Innovations",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-44654-6_55.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-662-44654-6_55?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-662-44654-6_55, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2793738",
+      "name": "X. Pantazi"
+    },
+    {
+      "authorId": "3201660",
+      "name": "D. Moshou"
+    },
+    {
+      "authorId": "2798803",
+      "name": "A. Mouazen"
+    },
+    {
+      "authorId": "40240454",
+      "name": "B. Kuang"
+    },
+    {
+      "authorId": "2295693",
+      "name": "T. Alexandridis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

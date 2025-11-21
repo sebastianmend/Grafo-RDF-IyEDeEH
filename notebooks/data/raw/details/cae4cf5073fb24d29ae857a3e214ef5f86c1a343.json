@@ -1,0 +1,54 @@
+{
+  "paperId": "cae4cf5073fb24d29ae857a3e214ef5f86c1a343",
+  "externalIds": {
+    "MAG": "2472206294",
+    "CorpusId": 1455695,
+    "PubMed": "26601388"
+  },
+  "url": "https://www.semanticscholar.org/paper/cae4cf5073fb24d29ae857a3e214ef5f86c1a343",
+  "title": "Sophisticated Vegetation Classification Based on Feature Band Set Using Hyperspectral Image.",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2015,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143962964",
+      "name": "K. Shang"
+    },
+    {
+      "authorId": "2144535636",
+      "name": "Xia Zhang"
+    },
+    {
+      "authorId": "1445333348",
+      "name": "Sun Yan-li"
+    },
+    {
+      "authorId": "151504259",
+      "name": "Lifu Zhang"
+    },
+    {
+      "authorId": "2108595137",
+      "name": "Shudong Wang"
+    },
+    {
+      "authorId": "2075344482",
+      "name": "Zhi Zhuang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

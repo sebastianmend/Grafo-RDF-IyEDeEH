@@ -1,0 +1,32 @@
+{
+  "paperId": "6b256a89d870aef18217eb92bbacfba09b77d43c",
+  "externalIds": {
+    "MAG": "2240913789",
+    "CorpusId": 7916423
+  },
+  "url": "https://www.semanticscholar.org/paper/6b256a89d870aef18217eb92bbacfba09b77d43c",
+  "title": "A Feasibility Study of Direct Injection Spraying Technology for Small Scale Farms: Modeling and Design of A Process Control System",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11342548",
+      "name": "A. Aissaoui"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

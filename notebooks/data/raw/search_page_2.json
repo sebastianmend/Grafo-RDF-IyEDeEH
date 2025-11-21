@@ -1,0 +1,40 @@
+{
+  "total": 2,
+  "token": null,
+  "data": [
+    {
+      "paperId": "319905fda1e8d17a8c2fdc60489362cd3bb90299",
+      "url": "https://www.semanticscholar.org/paper/319905fda1e8d17a8c2fdc60489362cd3bb90299",
+      "title": "Revolutionizing Agriculture: Innovative Techniques, Applications, and Future Prospects in Precision Farming",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-07-30"
+    },
+    {
+      "paperId": "a773da9fbdcd6be8274d7264585aa31d282572b4",
+      "url": "https://www.semanticscholar.org/paper/a773da9fbdcd6be8274d7264585aa31d282572b4",
+      "title": "Technology for a Food-secure Future: A Review of Technology Advances in Sustainable Agriculture",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "https://journaljeai.com/index.php/JEAI/article/download/2822/5753",
+        "status": "BRONZE",
+        "license": null
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ],
+      "publicationDate": "2024-08-31"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "694adac9193f666bc3ac52bca73515d75fa84355",
+  "externalIds": {
+    "MAG": "1975858361",
+    "DOI": "10.1080/14498596.2011.623341",
+    "CorpusId": 129701079
+  },
+  "url": "https://www.semanticscholar.org/paper/694adac9193f666bc3ac52bca73515d75fa84355",
+  "title": "Testing precise positioning using RTK and NRTK corrections provided by MAC and VRS approaches in SE Spain",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 25,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/14498596.2011.623341?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/14498596.2011.623341, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "121751523",
+      "name": "M. S. Garrido"
+    },
+    {
+      "authorId": "145361241",
+      "name": "E. Giménez"
+    },
+    {
+      "authorId": "151394107",
+      "name": "M. C. de Lacy"
+    },
+    {
+      "authorId": "37635564",
+      "name": "A. Gil"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

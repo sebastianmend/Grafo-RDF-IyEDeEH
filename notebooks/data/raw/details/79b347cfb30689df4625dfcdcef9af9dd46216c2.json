@@ -1,0 +1,44 @@
+{
+  "paperId": "79b347cfb30689df4625dfcdcef9af9dd46216c2",
+  "externalIds": {
+    "DBLP": "journals/staeors/YouPW14",
+    "MAG": "2066202570",
+    "DOI": "10.1109/JSTARS.2014.2320156",
+    "CorpusId": 22763765
+  },
+  "url": "https://www.semanticscholar.org/paper/79b347cfb30689df4625dfcdcef9af9dd46216c2",
+  "title": "Crop Mapping of Complex Agricultural Landscapes Based on Discriminant Space",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2014.2320156?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2014.2320156, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8353029",
+      "name": "Jiong You"
+    },
+    {
+      "authorId": "2973645",
+      "name": "Zhiyuan Pei"
+    },
+    {
+      "authorId": "2144293086",
+      "name": "Dongliang Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

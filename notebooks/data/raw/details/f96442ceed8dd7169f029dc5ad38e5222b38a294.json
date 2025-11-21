@@ -1,0 +1,44 @@
+{
+  "paperId": "f96442ceed8dd7169f029dc5ad38e5222b38a294",
+  "externalIds": {
+    "MAG": "120495536",
+    "CorpusId": 127377974
+  },
+  "url": "https://www.semanticscholar.org/paper/f96442ceed8dd7169f029dc5ad38e5222b38a294",
+  "title": "CEMSYS modelled wind erosion",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "37970738",
+      "name": "J. Leys"
+    },
+    {
+      "authorId": "47947895",
+      "name": "H. Butler"
+    },
+    {
+      "authorId": "50031290",
+      "name": "Xihua Yang"
+    },
+    {
+      "authorId": "116131365",
+      "name": "S. Heidenreich"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

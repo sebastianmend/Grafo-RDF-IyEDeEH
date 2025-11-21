@@ -1,0 +1,35 @@
+{
+  "paperId": "7040fc8cda9442cbb1556759a8a2cf7a2cc063fb",
+  "externalIds": {
+    "MAG": "182694890",
+    "DBLP": "conf/eurocast/Chaczko11",
+    "DOI": "10.1007/978-3-642-27579-1_18",
+    "CorpusId": 43644296
+  },
+  "url": "https://www.semanticscholar.org/paper/7040fc8cda9442cbb1556759a8a2cf7a2cc063fb",
+  "title": "WSN Clustering Using IC-SVD Algorithms",
+  "venue": "International Conference/Workshop on Computer Aided Systems Theory",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27579-1_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27579-1_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1684306",
+      "name": "Z. Chaczko"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

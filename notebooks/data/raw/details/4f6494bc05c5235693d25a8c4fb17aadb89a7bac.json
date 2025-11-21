@@ -1,0 +1,52 @@
+{
+  "paperId": "4f6494bc05c5235693d25a8c4fb17aadb89a7bac",
+  "externalIds": {
+    "DBLP": "conf/msn/XiaTSFL11",
+    "MAG": "2008177638",
+    "DOI": "10.1109/MSN.2011.16",
+    "CorpusId": 10785822
+  },
+  "url": "https://www.semanticscholar.org/paper/4f6494bc05c5235693d25a8c4fb17aadb89a7bac",
+  "title": "An Environment Monitoring System for Precise Agriculture Based on Wireless Sensor Networks",
+  "venue": "2011 Seventh International Conference on Mobile Ad-hoc and Sensor Networks",
+  "year": 2011,
+  "citationCount": 49,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MSN.2011.16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MSN.2011.16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2104449",
+      "name": "J. Xia"
+    },
+    {
+      "authorId": "2297008",
+      "name": "Zhenzhou Tang"
+    },
+    {
+      "authorId": "2342254",
+      "name": "X. Shi"
+    },
+    {
+      "authorId": "2147260700",
+      "name": "Lei Fan"
+    },
+    {
+      "authorId": "2135768408",
+      "name": "Huaizhong Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

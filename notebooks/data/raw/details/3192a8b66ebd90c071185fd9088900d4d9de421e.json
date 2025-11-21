@@ -1,0 +1,46 @@
+{
+  "paperId": "3192a8b66ebd90c071185fd9088900d4d9de421e",
+  "externalIds": {
+    "MAG": "2351565834",
+    "CorpusId": 13162611,
+    "PubMed": "20672610"
+  },
+  "url": "https://www.semanticscholar.org/paper/3192a8b66ebd90c071185fd9088900d4d9de421e",
+  "title": "[Applications of near infrared reflectance spectroscopy technique to determination of forage mycotoxins].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2202851730",
+      "name": "Qingfang Xu"
+    },
+    {
+      "authorId": "9309376",
+      "name": "Jian-guo Han"
+    },
+    {
+      "authorId": "2112232432",
+      "name": "Zhu Yu"
+    },
+    {
+      "authorId": "2058051230",
+      "name": "Wenjie Yue"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

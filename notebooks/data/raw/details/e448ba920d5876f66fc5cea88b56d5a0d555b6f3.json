@@ -1,0 +1,40 @@
+{
+  "paperId": "e448ba920d5876f66fc5cea88b56d5a0d555b6f3",
+  "externalIds": {
+    "MAG": "2300543603",
+    "CorpusId": 54979831
+  },
+  "url": "https://www.semanticscholar.org/paper/e448ba920d5876f66fc5cea88b56d5a0d555b6f3",
+  "title": "Low-cost quantification of greenhouse gas emissions in smallholder agro-ecosystem: a comparative analysis of methods",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "6118957",
+      "name": "T. Sapkota"
+    },
+    {
+      "authorId": "116784735",
+      "name": "P. Kapoor"
+    },
+    {
+      "authorId": "5636084",
+      "name": "M. L. Jat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

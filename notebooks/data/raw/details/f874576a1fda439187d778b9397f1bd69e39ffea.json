@@ -1,0 +1,32 @@
+{
+  "paperId": "f874576a1fda439187d778b9397f1bd69e39ffea",
+  "externalIds": {
+    "MAG": "23296808",
+    "CorpusId": 107869756
+  },
+  "url": "https://www.semanticscholar.org/paper/f874576a1fda439187d778b9397f1bd69e39ffea",
+  "title": "UAV Laboratories AEM Systems Group Seminar 20140926",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152148343",
+      "name": "B. Taylor"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

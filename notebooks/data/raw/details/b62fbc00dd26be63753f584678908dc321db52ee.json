@@ -1,0 +1,47 @@
+{
+  "paperId": "b62fbc00dd26be63753f584678908dc321db52ee",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ZhaoCWC15",
+    "MAG": "2553402557",
+    "DOI": "10.1007/978-3-319-48354-2_29",
+    "CorpusId": 19637099
+  },
+  "url": "https://www.semanticscholar.org/paper/b62fbc00dd26be63753f584678908dc321db52ee",
+  "title": "Research on the Agricultural Skills Training Based on the Motion-Sensing Technology of the Leap Motion",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_29?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_29, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2114870917",
+      "name": "Peng-fei Zhao"
+    },
+    {
+      "authorId": "2927958",
+      "name": "Tian'en Chen"
+    },
+    {
+      "authorId": "2158629412",
+      "name": "Wei Wang"
+    },
+    {
+      "authorId": "2149500750",
+      "name": "Fang-yi Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

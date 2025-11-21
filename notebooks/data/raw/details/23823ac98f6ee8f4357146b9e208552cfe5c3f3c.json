@@ -1,0 +1,52 @@
+{
+  "paperId": "23823ac98f6ee8f4357146b9e208552cfe5c3f3c",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ZhaoZLWH11",
+    "MAG": "96949003",
+    "DOI": "10.1007/978-3-642-27278-3_29",
+    "CorpusId": 17070862
+  },
+  "url": "https://www.semanticscholar.org/paper/23823ac98f6ee8f4357146b9e208552cfe5c3f3c",
+  "title": "Identifying Leaf-Scale Wheat Aphids Using the Near-Ground Hyperspectral Pushbroom Imaging Spectrometer",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-27278-3_29.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27278-3_29?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27278-3_29, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46509021",
+      "name": "Jinling Zhao"
+    },
+    {
+      "authorId": "47845039",
+      "name": "Dongyan Zhang"
+    },
+    {
+      "authorId": "46789070",
+      "name": "Juhua Luo"
+    },
+    {
+      "authorId": "2111216349",
+      "name": "Dacheng Wang"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

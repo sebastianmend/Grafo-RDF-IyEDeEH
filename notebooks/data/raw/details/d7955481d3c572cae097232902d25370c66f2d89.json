@@ -1,0 +1,42 @@
+{
+  "paperId": "d7955481d3c572cae097232902d25370c66f2d89",
+  "externalIds": {
+    "MAG": "2018605047",
+    "DOI": "10.1109/ICCCCT.2010.5670556",
+    "CorpusId": 16348611
+  },
+  "url": "https://www.semanticscholar.org/paper/d7955481d3c572cae097232902d25370c66f2d89",
+  "title": "A novel hybrid routing protocol for data aggregation in agricultural applications",
+  "venue": "INTERNATIONAL CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING TECHNOLOGIES",
+  "year": 2010,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCCCT.2010.5670556?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCCCT.2010.5670556, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9076550",
+      "name": "N.P. Karthickraja"
+    },
+    {
+      "authorId": "2368880",
+      "name": "V. Sumathy"
+    },
+    {
+      "authorId": "9264516",
+      "name": "M.N. Jabeer Ahamed"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

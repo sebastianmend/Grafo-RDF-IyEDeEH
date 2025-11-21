@@ -1,0 +1,59 @@
+{
+  "paperId": "f03b1bd1043e88497657ba5dfc985e8c9157cfd3",
+  "externalIds": {
+    "MAG": "2091701868",
+    "DBLP": "journals/tgrs/WangZFMQCW14",
+    "DOI": "10.1109/TGRS.2013.2291815",
+    "CorpusId": 21877359
+  },
+  "url": "https://www.semanticscholar.org/paper/f03b1bd1043e88497657ba5dfc985e8c9157cfd3",
+  "title": "A Structure-Aware Global Optimization Method for Reconstructing 3-D Tree Models From Terrestrial Laser Scanning Data",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2014,
+  "citationCount": 61,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGRS.2013.2291815?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGRS.2013.2291815, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118453373",
+      "name": "Zhen Wang"
+    },
+    {
+      "authorId": "1429345377",
+      "name": "Liqiang Zhang"
+    },
+    {
+      "authorId": "3406486",
+      "name": "Tian Fang"
+    },
+    {
+      "authorId": "1978094731",
+      "name": "P. Mathiopoulos"
+    },
+    {
+      "authorId": "2300486168",
+      "name": "Huamin Qu"
+    },
+    {
+      "authorId": "2048886848",
+      "name": "Dong Chen"
+    },
+    {
+      "authorId": "3307496",
+      "name": "Yuebin Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

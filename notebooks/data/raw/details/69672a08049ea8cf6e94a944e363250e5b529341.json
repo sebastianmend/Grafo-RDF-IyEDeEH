@@ -1,0 +1,38 @@
+{
+  "paperId": "69672a08049ea8cf6e94a944e363250e5b529341",
+  "externalIds": {
+    "MAG": "2034712472",
+    "DOI": "10.1109/ICTSD.2015.7095855",
+    "CorpusId": 42035010
+  },
+  "url": "https://www.semanticscholar.org/paper/69672a08049ea8cf6e94a944e363250e5b529341",
+  "title": "Assessment of spatial variability of soil physical and hydraulic properties in Netravati catchment, Karnataka State, India",
+  "venue": "2015 International Conference on Technologies for Sustainable Development (ICTSD)",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICTSD.2015.7095855?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICTSD.2015.7095855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31167683",
+      "name": "B. P. Ganasri"
+    },
+    {
+      "authorId": "2253205",
+      "name": "G. Dwarakish"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

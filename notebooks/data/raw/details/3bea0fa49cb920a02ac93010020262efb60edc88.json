@@ -1,0 +1,32 @@
+{
+  "paperId": "3bea0fa49cb920a02ac93010020262efb60edc88",
+  "externalIds": {
+    "MAG": "1699000964",
+    "CorpusId": 109633630
+  },
+  "url": "https://www.semanticscholar.org/paper/3bea0fa49cb920a02ac93010020262efb60edc88",
+  "title": "Examining the Role of Information and Communication Technologies to Improve Food Security Management: The Case in Oregon",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "97848646",
+      "name": "Amy Cissell"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,50 @@
+{
+  "paperId": "367db64b2758974fb94521ef66531a4da68509b8",
+  "externalIds": {
+    "MAG": "1523468869",
+    "DOI": "10.1109/EEEIC.2015.7165367",
+    "CorpusId": 36230328
+  },
+  "url": "https://www.semanticscholar.org/paper/367db64b2758974fb94521ef66531a4da68509b8",
+  "title": "Intelligent system for measuring soil compaction on croplands",
+  "venue": "International Conference on Environment and Electrical Engineering",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EEEIC.2015.7165367?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EEEIC.2015.7165367, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9285400",
+      "name": "G. Furriel"
+    },
+    {
+      "authorId": "145352480",
+      "name": "W. Calixto"
+    },
+    {
+      "authorId": "2008260",
+      "name": "A. Alves"
+    },
+    {
+      "authorId": "2052424288",
+      "name": "Pedro H. M. Campos"
+    },
+    {
+      "authorId": "9224424",
+      "name": "E. G. Domingues"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

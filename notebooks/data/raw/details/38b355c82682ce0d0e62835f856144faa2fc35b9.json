@@ -1,0 +1,281 @@
+{
+  "paperId": "38b355c82682ce0d0e62835f856144faa2fc35b9",
+  "externalIds": {
+    "MAG": "1989753369",
+    "PubMedCentral": "3382274",
+    "DOI": "10.2174/138920212800543110",
+    "CorpusId": 15803672,
+    "PubMed": "23115521"
+  },
+  "url": "https://www.semanticscholar.org/paper/38b355c82682ce0d0e62835f856144faa2fc35b9",
+  "title": "Quantitative Genetics in the Genomics Era",
+  "venue": "Current Genomics",
+  "year": 2012,
+  "citationCount": 54,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc3382274?pdf=render",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3382274, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144079122",
+      "name": "W. G. Hill"
+    }
+  ],
+  "abstract": "The genetic analysis of quantitative or complex traits has been based mainly on statistical quantities such as genetic variances and heritability. These analyses continue to be developed, for example in studies of natural populations. Genomic methods are having an impact on progress and prospects. Actual relationships of individuals can be estimated enabling novel quantitative analyses. Increasing precision of linkage mapping is feasible with dense marker panels and designed stocks allowing multiple generations of recombination, and large SNP panels enable the use of genome wide association analysis utilising historical recombination. Whilst such analyses are identifying many loci for disease genes and traits such as height, typically each individually contributes a small amount of the variation. Only by fitting all SNPs without regard to significance can a high proportion be accounted for, so a classical polygenic model with near infinitesimally small effects remains a useful one. Theory indicates that a high proportion of variants will have low minor allele frequency, making detection difficult. Genomic selection, based on simultaneously fitting very dense markers and incorporating these with phenotypic data in breeding value prediction is revolutionising breeding programmes in agriculture and has a major potential role in human disease prediction.",
+  "references": [
+    {
+      "paperId": "b5e6c2fb0cb8e5fef2d847eb73e133ba41f700e8"
+    },
+    {
+      "paperId": "5a4adf7726f1b2c01bf475ad953e4e581ade9c7b"
+    },
+    {
+      "paperId": "b99e2e2c7d35fc3801adafcec643f82947314722"
+    },
+    {
+      "paperId": "64c7ccc8c53c41dd1d5d2936271af4b518733c12"
+    },
+    {
+      "paperId": "00b81ddeab5c2dd23b6599f684fd9313ec090eaf"
+    },
+    {
+      "paperId": "619cb495e905f22855aed49df8580179982a3d4c"
+    },
+    {
+      "paperId": "7098886b2f665491b678771170cec39018e296a0"
+    },
+    {
+      "paperId": "3f7d6afb5c152ee828e0f1e94d7071b91d7b78a5"
+    },
+    {
+      "paperId": "cd25404078b6c96f3e83d81a3fef4c75aec7d996"
+    },
+    {
+      "paperId": "2f343224d6273d55e87a322923ed5aac9f91cc8c"
+    },
+    {
+      "paperId": "599dceeed1c8178a1da7d608db803488d6a467dc"
+    },
+    {
+      "paperId": "9e61d3f73bd757cdad4551a5b483c2bb472a71d9"
+    },
+    {
+      "paperId": "e1642991384b46fc878c8c45fff5f2fdc4ba8290"
+    },
+    {
+      "paperId": "07a7737646e0bd45c497ea12bd5d330734fb9719"
+    },
+    {
+      "paperId": "61f8fdbefd360d5300ebf4857dcec338bcdaa38f"
+    },
+    {
+      "paperId": "44c6ce7c696bfd299a7800a84d58ada2e47155c9"
+    },
+    {
+      "paperId": "7cd5382ff13830b6c263e15eb301f3ebcd9d203a"
+    },
+    {
+      "paperId": "5903301093c7e31d5050404b29ccad8414fc0d29"
+    },
+    {
+      "paperId": "23135e2443b703ea7e80b1da2f5fa21217764baa"
+    },
+    {
+      "paperId": "bf22a4aa9002c000878b6df83802227dce38cb78"
+    },
+    {
+      "paperId": "431b3b5eab63bcf018aa5fd819bca5293a97ae75"
+    },
+    {
+      "paperId": "7061d549b764e4799c33232de4ce9e8fcc9f0866"
+    },
+    {
+      "paperId": "421d5450ddd044cb53171eb69b3877a9896290ee"
+    },
+    {
+      "paperId": "0778732d4a44de7d86dda777d9e59d4a1cf3e823"
+    },
+    {
+      "paperId": "3107276a535d17a3fb33f4af4df0f5b82296e85a"
+    },
+    {
+      "paperId": "5e130e73f7bfd56d9205a892a10becec8a432638"
+    },
+    {
+      "paperId": "22e42d944528158c1a6fba394246bfce5fd2e85c"
+    },
+    {
+      "paperId": "5b54f020b5403497e7455640c4615e4621700b53"
+    },
+    {
+      "paperId": "b978c536fdee70e221737c47ff52755439206ed1"
+    },
+    {
+      "paperId": "075ab654942835c2f967d6ac5c00f5df9363cad5"
+    },
+    {
+      "paperId": "000551662c3902ed66709be879053d95dafc0211"
+    },
+    {
+      "paperId": "72c5bc41c4483de6a2a9f3a77d4e49a531906c36"
+    },
+    {
+      "paperId": "6428a4ef6b2376c1e47c7665c7d32aa9205dfff2"
+    },
+    {
+      "paperId": "7c9c96531aae7afc6bdfbcb1a6e03b20d779a17d"
+    },
+    {
+      "paperId": "aa6627bbc3f18d9add7a4a3389e34e19371673d2"
+    },
+    {
+      "paperId": "50adcbf922a276963fa9b097a085c443cc505707"
+    },
+    {
+      "paperId": "d242b55498a974f3dcab6ca34cc95324dbec890a"
+    },
+    {
+      "paperId": "dd6d79d672fe28be4efb7a82dcf59ce602813cba"
+    },
+    {
+      "paperId": "896a4f3ea29a0a3b82a64aab5feaf9d370f5ab1f"
+    },
+    {
+      "paperId": "1c4e4e3231ab8e64cc9c0f5250d982ed95ab988c"
+    },
+    {
+      "paperId": "8eba3346b0539255273d37e9fc536e7eb3daf8de"
+    },
+    {
+      "paperId": "062d27341f70443d5bfa52b4e1ca7ab6accece9b"
+    },
+    {
+      "paperId": "8dad831936474c5d0f534c3449c7af884e9abe8a"
+    },
+    {
+      "paperId": "5f5f51eea108ef516e4809f2d445cd9578311d86"
+    },
+    {
+      "paperId": "a9e6bd28ae8370b64b5a0e51419ad5f9cc45aea1"
+    },
+    {
+      "paperId": "478d0a863cd3c2c0a878410a43d2fa3b81829639"
+    },
+    {
+      "paperId": "adfbed2d370f884930ce75d78f62bffed2d6a7aa"
+    },
+    {
+      "paperId": "19b13aa2e33a5c1b3ed159fe950da3e474a2246e"
+    },
+    {
+      "paperId": "7890c59313888aa8aa5905ad07c79d7f310f07d2"
+    },
+    {
+      "paperId": "c5907b175aace726b0b9c6a1158e7f3db01100eb"
+    },
+    {
+      "paperId": "dbc447956c16e27cfb030e40552359d3c79bc690"
+    },
+    {
+      "paperId": "b68c4439d0a6c0feebae5a08c8d7093b11af9358"
+    },
+    {
+      "paperId": "be0f3e105b8a7891e731e20b6948f5a4b6e77edc"
+    },
+    {
+      "paperId": "697a33357313a2b702dc4d6cfa67ac2f8e8cd34c"
+    },
+    {
+      "paperId": "9e42fdd9c19fa96b6fbfdbcb6ef4a126b4be5799"
+    },
+    {
+      "paperId": "204a890a3d0ea59d70b728c276aeb36c2d2a1655"
+    },
+    {
+      "paperId": "54dda614e59cdd76eaa707869dbf1c7e4ad93dda"
+    },
+    {
+      "paperId": "385c50ad34667db6776371337ca4c7b532024ea7"
+    },
+    {
+      "paperId": "dab09713dfeaf5b3b3ec08d9303ed962ddcef883"
+    },
+    {
+      "paperId": "f61ec7db70d43758c2d84a1d79256ddaccc5de7f"
+    },
+    {
+      "paperId": "c774293d4c49e99a7920d8bd46ffc250d9a23132"
+    },
+    {
+      "paperId": "8e248795c89cc30ebb478e7949a76cd6a49fd53c"
+    },
+    {
+      "paperId": "4e8b8cc3839e12b94618ffc78d30076f618ed296"
+    },
+    {
+      "paperId": "8de0f4d3168750a2509a7ef72131e055aba4c674"
+    },
+    {
+      "paperId": "49891dc1512bad3e5dde4c6f98f4625ad0c36e40"
+    },
+    {
+      "paperId": "43cca5664ec19e400f64385a2b6bedd2b5d6575c"
+    },
+    {
+      "paperId": "c8e619f9f633c97250dc04475d0bca52c8bbfb8c"
+    },
+    {
+      "paperId": "f92162b0685d0f5fb52862c23065a5ffb9d70e02"
+    },
+    {
+      "paperId": "294dfa22a3f0d1569f6973d7d2f6c98dcf8b6e74"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "eb6ae3e2d2854cad64025adcb905457d9df5c042"
+    },
+    {
+      "paperId": "4ea46e63f3f8b03ec8bbfec29c7556e88e01b40e"
+    },
+    {
+      "paperId": "36f31eede4232e955b1948c17f8f319ecfec9fd2"
+    },
+    {
+      "paperId": "32173b73b56e748dde2015f625bd2ee5ac529583"
+    },
+    {
+      "paperId": "77e3456be70f10f9ce535e7e38976f853a9db4d6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bd1ef9825029655d534cff4000dd8f90ac902600"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "96be493d2d823b6531579f2bb48ea766db0f5897"
+    }
+  ]
+}

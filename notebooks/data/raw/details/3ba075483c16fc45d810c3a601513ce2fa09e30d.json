@@ -1,0 +1,48 @@
+{
+  "paperId": "3ba075483c16fc45d810c3a601513ce2fa09e30d",
+  "externalIds": {
+    "MAG": "1910492096",
+    "DBLP": "conf/cits/KrishnaSMO15",
+    "DOI": "10.1109/CITS.2015.7297720",
+    "CorpusId": 15913845
+  },
+  "url": "https://www.semanticscholar.org/paper/3ba075483c16fc45d810c3a601513ce2fa09e30d",
+  "title": "Learning automaton based context oriented middleware architecture for precision agriculture",
+  "venue": "International Conference on Computer, Information and Telecommunication Systems",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CITS.2015.7297720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CITS.2015.7297720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50628121",
+      "name": "P. V. Krishna"
+    },
+    {
+      "authorId": "49336150",
+      "name": "S. Sivanesan"
+    },
+    {
+      "authorId": "1739575",
+      "name": "S. Misra"
+    },
+    {
+      "authorId": "1747075",
+      "name": "M. Obaidat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

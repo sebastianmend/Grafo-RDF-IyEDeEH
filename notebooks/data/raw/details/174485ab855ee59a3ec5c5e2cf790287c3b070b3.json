@@ -1,0 +1,50 @@
+{
+  "paperId": "174485ab855ee59a3ec5c5e2cf790287c3b070b3",
+  "externalIds": {
+    "MAG": "2026021064",
+    "DOI": "10.1007/s11119-014-9372-7",
+    "CorpusId": 15245771
+  },
+  "url": "https://www.semanticscholar.org/paper/174485ab855ee59a3ec5c5e2cf790287c3b070b3",
+  "title": "A review of advanced machine learning methods for the detection of biotic stress in precision crop protection",
+  "venue": "Precision Agriculture",
+  "year": 2015,
+  "citationCount": 317,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-014-9372-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-014-9372-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2895826",
+      "name": "J. Behmann"
+    },
+    {
+      "authorId": "2470933",
+      "name": "Anne-Katrin Mahlein"
+    },
+    {
+      "authorId": "3338283",
+      "name": "Till Rumpf"
+    },
+    {
+      "authorId": "2617093",
+      "name": "Christoph Römer"
+    },
+    {
+      "authorId": "1897102",
+      "name": "L. Plümer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

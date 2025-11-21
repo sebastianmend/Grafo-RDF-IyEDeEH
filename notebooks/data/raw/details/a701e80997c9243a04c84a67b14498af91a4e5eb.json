@@ -1,0 +1,40 @@
+{
+  "paperId": "a701e80997c9243a04c84a67b14498af91a4e5eb",
+  "externalIds": {
+    "MAG": "1979300861",
+    "DOI": "10.3168/jds.2013-6859",
+    "CorpusId": 24854379,
+    "PubMed": "24393175"
+  },
+  "url": "https://www.semanticscholar.org/paper/a701e80997c9243a04c84a67b14498af91a4e5eb",
+  "title": "Precision diet formulation to improve performance and profitability across various climates: Modeling the implications of increasing the formulation frequency of dairy cattle diets.",
+  "venue": "Journal of Dairy Science",
+  "year": 2014,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.journalofdairyscience.org/article/S0022030213008771/pdf",
+    "status": "HYBRID",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3168/jds.2013-6859?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3168/jds.2013-6859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "123395170",
+      "name": "R. White"
+    },
+    {
+      "authorId": "30521749",
+      "name": "J. Capper"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

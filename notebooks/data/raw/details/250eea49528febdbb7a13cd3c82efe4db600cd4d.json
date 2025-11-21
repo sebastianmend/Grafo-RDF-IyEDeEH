@@ -1,0 +1,56 @@
+{
+  "paperId": "250eea49528febdbb7a13cd3c82efe4db600cd4d",
+  "externalIds": {
+    "MAG": "129941570",
+    "DBLP": "conf/ifip12/CuiRZYDX10",
+    "DOI": "10.1007/978-3-642-18333-1_50",
+    "CorpusId": 13224133
+  },
+  "url": "https://www.semanticscholar.org/paper/250eea49528febdbb7a13cd3c82efe4db600cd4d",
+  "title": "Design and Implementation of Automatic Control System for Rice Seed Tape Winding Units",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-18333-1_50.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18333-1_50?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18333-1_50, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112821332",
+      "name": "Hongguang Cui"
+    },
+    {
+      "authorId": "2921293",
+      "name": "Wentao Ren"
+    },
+    {
+      "authorId": "2347934",
+      "name": "Benhua Zhang"
+    },
+    {
+      "authorId": "2143686858",
+      "name": "Yi Yang"
+    },
+    {
+      "authorId": "2072645654",
+      "name": "Lili Dai"
+    },
+    {
+      "authorId": "2056006561",
+      "name": "Quanli Xiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

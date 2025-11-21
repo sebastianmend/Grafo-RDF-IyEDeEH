@@ -1,0 +1,80 @@
+{
+  "paperId": "311e8edb636278d4b8c8d03010b56cc53f8b2a05",
+  "externalIds": {
+    "MAG": "2904298745",
+    "DOI": "10.31421/ijhs/16/1/860",
+    "CorpusId": 135053655
+  },
+  "url": "https://www.semanticscholar.org/paper/311e8edb636278d4b8c8d03010b56cc53f8b2a05",
+  "title": "New evaluation method to detect physiological stress in fruit trees by airborne hyperspectral image spectroscopy",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ojs.lib.unideb.hu/IJHS/article/download/860/858",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31421/ijhs/16/1/860?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31421/ijhs/16/1/860, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39078829",
+      "name": "J. Tamás"
+    }
+  ],
+  "abstract": "Nowadays airborne remote sensing data are increasingly used in precision agriculture. The fast space-time dependent localization of stresses in orchards, which allows for a more efficient application of horticultural technologies, could lead to improved sustainable precise management. The disadvantage of the near field multi and hyper spectroscopy is the spot sample taking, which can apply independently only for experimental survey in plantations. The traditional satellite images is optionally suitable for precision investigation because of the low spectral and ground resolution on field condition. The presented airborne hyperspectral image spectroscopy reduces above mentioned disadvantages and at the same time provides newer analyzing possibility to the user. In this paper we demonstrate the conditions of data base collection and some informative examination possibility. The estimating of the board band vegetation indices calculated from reflectance is well known in practice of the biomass stress examinations. In this method the N-dimension spectral data cube enables to calculate numerous special narrow band indexes and to evaluate maps. This paper aims at investigating the applied hyperspectral analysis for fruit tree stress detection. In our study, hyperspectral data were collected by an AISA DUAL hyperspectral image spectroscopy system, with high (0,5-1,5 m) ground resolution. The research focused on determining of leaves condition in different fruit plantations in the peach orchard near Siófok. Moreover the spectral reflectance analyses could provide more information about plant condition due to changes in the absorption of incident light in the visible and near infrared range of the spectrum. International Journal of Horticultural Science 2010, 16 (1): 37–40. Agroinform Publishing House, Budapest, Printed in Hungary ISSN 1585-0404",
+  "references": [
+    {
+      "paperId": "52b7658a658b38cc04936370761bea1a13e97ac5"
+    },
+    {
+      "paperId": "d3be743853e88b67aecc74501b1ea9b4afa15e7e"
+    },
+    {
+      "paperId": "53ab03566d6ac19a63a10011df9936cea8a80a52"
+    },
+    {
+      "paperId": "bc4fe49d3dab3c7872808004190b6b4badeee92e"
+    },
+    {
+      "paperId": "6af638f63ca6ae6a15642ec7dc494493a39ecf88"
+    },
+    {
+      "paperId": "32a05961fffb65a8e6e4e1f976d9dd6cbb94cb52"
+    },
+    {
+      "paperId": "710403b11ba4d24c6b618d849fee4a4451bff357"
+    },
+    {
+      "paperId": "6ae00ebd3a91c0667c79c39035b5163025bcfcad"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

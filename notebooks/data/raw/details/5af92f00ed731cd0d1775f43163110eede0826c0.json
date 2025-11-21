@@ -1,0 +1,37 @@
+{
+  "paperId": "5af92f00ed731cd0d1775f43163110eede0826c0",
+  "externalIds": {
+    "MAG": "2119924518",
+    "DOI": "10.1111/j.1439-0531.2012.02058.x",
+    "CorpusId": 10802287,
+    "PubMed": "22827353"
+  },
+  "url": "https://www.semanticscholar.org/paper/5af92f00ed731cd0d1775f43163110eede0826c0",
+  "title": "Global food systems: feeding the world.",
+  "venue": "Reproduction in domestic animals = Zuchthygiene",
+  "year": 2012,
+  "citationCount": 10,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1439-0531.2012.02058.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1439-0531.2012.02058.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46945502",
+      "name": "G. Bevier"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

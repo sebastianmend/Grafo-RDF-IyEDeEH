@@ -1,0 +1,42 @@
+{
+  "paperId": "cff589ee836a0427e9c49e93998058c842215c06",
+  "externalIds": {
+    "MAG": "2090244042",
+    "DOI": "10.1007/s13593-011-0041-1",
+    "CorpusId": 18802394
+  },
+  "url": "https://www.semanticscholar.org/paper/cff589ee836a0427e9c49e93998058c842215c06",
+  "title": "Sensing crop nitrogen status with fluorescence indicators. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2012,
+  "citationCount": 243,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-00930513/file/hal-00930513.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-011-0041-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-011-0041-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145661356",
+      "name": "N. Tremblay"
+    },
+    {
+      "authorId": "2027601093",
+      "name": "Zhijie Wang"
+    },
+    {
+      "authorId": "5139215",
+      "name": "Z. Cerovic"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

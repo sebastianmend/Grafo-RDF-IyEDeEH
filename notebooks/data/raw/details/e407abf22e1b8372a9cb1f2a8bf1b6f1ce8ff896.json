@@ -1,0 +1,40 @@
+{
+  "paperId": "e407abf22e1b8372a9cb1f2a8bf1b6f1ce8ff896",
+  "externalIds": {
+    "MAG": "2295118867",
+    "DBLP": "conf/cita/TabassumZ15",
+    "DOI": "10.1109/CITA.2015.7349825",
+    "CorpusId": 23680213
+  },
+  "url": "https://www.semanticscholar.org/paper/e407abf22e1b8372a9cb1f2a8bf1b6f1ce8ff896",
+  "title": "Performance evaluation of ZigBee in indoor and outdoor environment",
+  "venue": "International Conference on Information Technology in Asia",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://ir.unimas.my/13466/1/Performance%20Evaluation%20of%20ZigBee%20in%20Indoor%20%28abstract%29.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CITA.2015.7349825?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CITA.2015.7349825, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2352635001",
+      "name": "Mujahid Tabassum"
+    },
+    {
+      "authorId": "1905346",
+      "name": "K. Zen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

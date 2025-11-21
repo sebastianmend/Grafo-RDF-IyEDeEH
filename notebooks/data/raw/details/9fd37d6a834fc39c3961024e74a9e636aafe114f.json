@@ -1,0 +1,70 @@
+{
+  "paperId": "9fd37d6a834fc39c3961024e74a9e636aafe114f",
+  "externalIds": {
+    "MAG": "2107927383",
+    "DOI": "10.2489/jswc.69.5.365",
+    "CorpusId": 52950396
+  },
+  "url": "https://www.semanticscholar.org/paper/9fd37d6a834fc39c3961024e74a9e636aafe114f",
+  "title": "A decade of conservation effects assessment research by the USDA Agricultural Research Service: Progress overview and future outlook",
+  "venue": "Journal of Soil and Water Conservation",
+  "year": 2014,
+  "citationCount": 43,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.jswconline.org/content/jswc/69/5/365.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2489/jswc.69.5.365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2489/jswc.69.5.365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9968184",
+      "name": "M. Tomer"
+    },
+    {
+      "authorId": "12740940",
+      "name": "E. Sadler"
+    },
+    {
+      "authorId": "3869672",
+      "name": "R. Lizotte"
+    },
+    {
+      "authorId": "1724283",
+      "name": "R. Bryant"
+    },
+    {
+      "authorId": "2550078",
+      "name": "T. Potter"
+    },
+    {
+      "authorId": "143944372",
+      "name": "M. Moore"
+    },
+    {
+      "authorId": "3274776",
+      "name": "T. Veith"
+    },
+    {
+      "authorId": "3308770",
+      "name": "C. Baffaut"
+    },
+    {
+      "authorId": "37828304",
+      "name": "M. Locke"
+    },
+    {
+      "authorId": "12798592",
+      "name": "M. Walbridge"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

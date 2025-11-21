@@ -1,0 +1,56 @@
+{
+  "paperId": "8c8c339bbc4f6c0b9d95d5c501498949fc43ee1f",
+  "externalIds": {
+    "MAG": "2035911819",
+    "DOI": "10.1007/s10661-015-4414-9",
+    "CorpusId": 42868999,
+    "PubMed": "25773896"
+  },
+  "url": "https://www.semanticscholar.org/paper/8c8c339bbc4f6c0b9d95d5c501498949fc43ee1f",
+  "title": "Geostatistical approach for management of soil nutrients with special emphasis on different forms of potassium considering their spatial variation in intensive cropping system of West Bengal, India",
+  "venue": "Environmental Monitoring & Assessment",
+  "year": 2015,
+  "citationCount": 30,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10661-015-4414-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10661-015-4414-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "32550215",
+      "name": "S. Chatterjee"
+    },
+    {
+      "authorId": "30753120",
+      "name": "P. Santra"
+    },
+    {
+      "authorId": "49598157",
+      "name": "K. Majumdar"
+    },
+    {
+      "authorId": "9396873",
+      "name": "Debjani Das Ghosh"
+    },
+    {
+      "authorId": "2055653742",
+      "name": "I. Das"
+    },
+    {
+      "authorId": "84031136",
+      "name": "S. Sanyal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

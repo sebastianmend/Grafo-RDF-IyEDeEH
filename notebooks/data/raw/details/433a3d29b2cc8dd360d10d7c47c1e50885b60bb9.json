@@ -1,0 +1,64 @@
+{
+  "paperId": "433a3d29b2cc8dd360d10d7c47c1e50885b60bb9",
+  "externalIds": {
+    "MAG": "2373681430",
+    "DOI": "10.26472/IJRAE.V1I12.44",
+    "CorpusId": 184410894
+  },
+  "url": "https://www.semanticscholar.org/paper/433a3d29b2cc8dd360d10d7c47c1e50885b60bb9",
+  "title": "A Study on the application of Remote Sensing, GIS and GPS Tools in Precision Business",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://knowledgecuddle.com/index.php/IJRAE/article/download/44/A%20Study%20on%20the%20application%20of%20Remote%20Sensing%2C%20GIS%20and%20GPS%20Tools%20in%20Precision%20Business",
+    "status": "HYBRID",
+    "license": "CCBYND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26472/IJRAE.V1I12.44?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26472/IJRAE.V1I12.44, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2901412",
+      "name": "Vikram Agrawal"
+    },
+    {
+      "authorId": "92457835",
+      "name": "D. Parmar"
+    }
+  ],
+  "abstract": "From long time there are many technologies was developed by researchers, scientists and engineers to increase the market and production if the agriculture. Just because of this research work the cost and work of production is decreased but sometime there is some opposite effect on environment and geology. To improve the agriculture practice accurate agriculture pacts with the study of the application of technology as compare to old agricultural method and lower unpleasant impact on environment and geology. Remote sensing, GIS and GPS technology play an important role in accurate agriculture which increases the agriculture practices. It is easy to keep field data like slope, aspect, yield, wet and nutrients with the help of GPS (Global Positioning System) with geographically latitude and longitude. GIS (Geographic Information System) store and handle these data for further analysis. This review paper include topics remote sensing technology, GIS and GPS which give you brief knowledge about value of them in agriculture.",
+  "references": [
+    {
+      "paperId": "c15707b4fc17445a8a3045ca3f9fef1013bc5802"
+    },
+    {
+      "paperId": "2d743ab0a7d199a4f4431cb2a5edcebe7669bd97"
+    },
+    {
+      "paperId": "d60f337025f67823b3549f4cf6e02048885d0761"
+    },
+    {
+      "paperId": "4875952ff3aac7b65142cffc80c2f335af192789"
+    },
+    {
+      "paperId": "70729d7b847dcd117080cd903ff73a8ef7d1d00b"
+    },
+    {
+      "paperId": "16638fe9b1a142a48f885d161f551fadc4c4424a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

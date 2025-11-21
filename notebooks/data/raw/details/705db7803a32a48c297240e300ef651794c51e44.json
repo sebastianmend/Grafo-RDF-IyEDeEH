@@ -1,0 +1,421 @@
+{
+  "paperId": "705db7803a32a48c297240e300ef651794c51e44",
+  "externalIds": {
+    "MAG": "2004433746",
+    "DOI": "10.5194/JSSS-2-51-2013",
+    "CorpusId": 109272790
+  },
+  "url": "https://www.semanticscholar.org/paper/705db7803a32a48c297240e300ef651794c51e44",
+  "title": "Mobile sensor platforms: categorisation and research applications in precision farming",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 47,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://jsss.copernicus.org/articles/2/51/2013/jsss-2-51-2013.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/JSSS-2-51-2013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/JSSS-2-51-2013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11447950",
+      "name": "C. Zecha"
+    },
+    {
+      "authorId": "16124574",
+      "name": "J. Link"
+    },
+    {
+      "authorId": "3171509",
+      "name": "W. Claupein"
+    }
+  ],
+  "abstract": "Abstract. The usage of mobile sensor platforms arose in research a few decades ago. Since the beginning of satellite sensing, measurement principles and analysing methods have become widely implemented for aerial and ground vehicles. Mainly in Europe, the United States and Australia, sensor platforms in precision farming are used for surveying, monitoring and scouting tasks. This review gives an overview of available sensor platforms used in recent agricultural and related research projects. A general categorisation tree for platforms is outlined in this work. Working in manual, automatic or autonomous ways, these ground platforms and unmanned aircraft systems (UAS) with an agricultural scope are presented with their sensor equipment and the possible architectural models. Thanks to advances in highly powerful electronics, smaller devices mounted on platforms have become economically feasible for many applications. Designed to work automatically or autonomously, they will be able to interact in intelligent swarms. Sensor platforms can fulfil the need for developing, testing and optimising new applications in precision farming like weed control or pest management. Furthermore, commercial suppliers of platform hardware used in sensing tasks are listed.",
+  "references": [
+    {
+      "paperId": "12823d3d5bffc565cc25f0d88c5f9c2b927a7e16"
+    },
+    {
+      "paperId": "2da7989da98730fe9b06ff4f15f36955c1f80cf4"
+    },
+    {
+      "paperId": "2ff4764384d2308fe981e28dd2c2835bace78803"
+    },
+    {
+      "paperId": "791a5609b7f8411292fc5c62db9d7d8c69efe368"
+    },
+    {
+      "paperId": "6451c8890eaacf05ba2a18ffd115c350bb73dd26"
+    },
+    {
+      "paperId": "be05df90f8535125f27f24f8d006fc2e7af79795"
+    },
+    {
+      "paperId": "f43143aff77b5d236a836945a63d9a293c13b8ed"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "0cedca1a5f68a8e1730c916b075962c6373d70bb"
+    },
+    {
+      "paperId": "b063239bd450038531eeb2db5466eaed34a0f9a0"
+    },
+    {
+      "paperId": "406364c0ad9255bd9ff5b86e49f7123c4a7733b3"
+    },
+    {
+      "paperId": "4c70c2cc57354febaabc353ae1ba3fb978dc584b"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "8fdf78c0ed353521893e3d7a2e5dbe71ac156ba1"
+    },
+    {
+      "paperId": "ea22d917887485613777409952ef40346ffe139e"
+    },
+    {
+      "paperId": "cff589ee836a0427e9c49e93998058c842215c06"
+    },
+    {
+      "paperId": "2718f1d9a1de7d375017b8d1b4148c14fc78a414"
+    },
+    {
+      "paperId": "156d95b37ca7d8c59c0fb2ef5944d5f2fc1a1983"
+    },
+    {
+      "paperId": "5ff62a8a31a9bdf90ce18cfd3f9be079ac569f35"
+    },
+    {
+      "paperId": "37c099aed9b69189de2cf320a014b50900772ce6"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "97b010b602172348657aaa6b9a76da03ac4a3e84"
+    },
+    {
+      "paperId": "f27b7c358ab5fd338924295acde226667e8ab9da"
+    },
+    {
+      "paperId": "76e40704d42ae7a31feeb047b2d5e963e81fd2ec"
+    },
+    {
+      "paperId": "a6a5d1c1c5cba366ef444fa9b66d4436b5d2d138"
+    },
+    {
+      "paperId": "8a2fcc2e3915c115ccaac63297ff48a4fd52ed73"
+    },
+    {
+      "paperId": "ca660e430d5e1e72b7cd016ed10e5f36a3639b60"
+    },
+    {
+      "paperId": "a03dd22aef5cd64d63ea74b5d06ecb3b78661631"
+    },
+    {
+      "paperId": "5cd576580eeedcd6af4761d1eee1ed65795035f8"
+    },
+    {
+      "paperId": "eeaae077a92cd3333a2b511e915b06c52734c288"
+    },
+    {
+      "paperId": "0eaa27e8c35b8321ab4a707f7dc06655fdafc8ee"
+    },
+    {
+      "paperId": "c354701f5b983ef31a6a94b92deb145c3f75d845"
+    },
+    {
+      "paperId": "dfcfab36c177c7ef777df41c9306808b3884a1b8"
+    },
+    {
+      "paperId": "0561a7534e5cb2f5bc33664db7cb77159b53d1f5"
+    },
+    {
+      "paperId": "51b445b30ab033e873fe018e9502f2a23dcba936"
+    },
+    {
+      "paperId": "a3408d2ec113c88aba76b4f70657c22aee47891e"
+    },
+    {
+      "paperId": "339558632f2d718136a723009de5cbccadfc079c"
+    },
+    {
+      "paperId": "efeba75fcfb119fa4d0e7e0d1b48e76ce5335317"
+    },
+    {
+      "paperId": "289cd8eda507b667192e94f0799f368dc006a132"
+    },
+    {
+      "paperId": "306c7ad3badd0eb652080a63c2dc814020d36299"
+    },
+    {
+      "paperId": "b5e70b1852596ccc415791243f060774a566ca9c"
+    },
+    {
+      "paperId": "5f486dc517af5e09e41ad853da49b8ffb564c568"
+    },
+    {
+      "paperId": "5d7a77ebca713a6fccb6fb6fc9a78ae8469ee01c"
+    },
+    {
+      "paperId": "1ca99515ffef2c4cb2266beb0a32483ac449bc42"
+    },
+    {
+      "paperId": "e4ee2c2cee9525439bfdd08cd065f36dc3c5f3b7"
+    },
+    {
+      "paperId": "3436e3aa37ec66ad42daa957893530012fb3ef16"
+    },
+    {
+      "paperId": "7396b4abd8bb01a2020a4eca3dce2cec45ec19f2"
+    },
+    {
+      "paperId": "d61906c50c254164dfb2d607acc577bb53fd8cc4"
+    },
+    {
+      "paperId": "475dc46a743e4fd5d0f8b0709b4f55f5b0ead001"
+    },
+    {
+      "paperId": "e6728da939f1230beb55b475edeef382b7949a4e"
+    },
+    {
+      "paperId": "82ea9899b80b479f4f0f749f39e7230250ff7987"
+    },
+    {
+      "paperId": "ce7d7b40f734955f82440f428969bd8da01822a1"
+    },
+    {
+      "paperId": "30f67b7275cec21a94be945dfe4beff08c7e004a"
+    },
+    {
+      "paperId": "bbfff1bd408d9d96f75c93dbc07131c3c30cba8e"
+    },
+    {
+      "paperId": "b83c87e2ff247a70bdc15ecb38fc3f6dd8b0a756"
+    },
+    {
+      "paperId": "d89a975a12a0d8d0f443551153e42cf87d22d9bc"
+    },
+    {
+      "paperId": "8ae6c3a2e0040a268c7864c862dadeb985f9666e"
+    },
+    {
+      "paperId": "bb84542559be5d13e6fe50d535676fb4f8d3703f"
+    },
+    {
+      "paperId": "431f6d70e447dfc9c437e2311dc22b513a99b236"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "dd4837dd1396baebd2fbc30b278e95fafda0f4ee"
+    },
+    {
+      "paperId": "57b0521a4f5e52960a65ed430be330f4dd189abd"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "8792e78f1d77b4874ebf7e9dbda486a2311bf0ea"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "df706d522e23a32cbc76361538ebb910999be255"
+    },
+    {
+      "paperId": "cccb0332e621aebd0019858a7c1373d769cb979e"
+    },
+    {
+      "paperId": "736bd3722368faadf600f97424fe275fd1429e5d"
+    },
+    {
+      "paperId": "8f24558a6e40db7e8c591c7c5c9257ce88769411"
+    },
+    {
+      "paperId": "bf0330ae2818fdb8fc09a3a547aaf46ae650d9e4"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "077bcdeb78222ada4bbc2a757cd293e3410f22d5"
+    },
+    {
+      "paperId": "2a1b6f39ab2652b6490ca7f70c0d191b5acbd75e"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "ab19ffdc9411f9a9894b119e0f6863b9b05f58f9"
+    },
+    {
+      "paperId": "e0ead30812434b54a8fa8489dd47f0cc4fe326b8"
+    },
+    {
+      "paperId": "065b7e09cc81e44d5f7912e6aaf7d551f3770532"
+    },
+    {
+      "paperId": "27988b1b7299cd02eb4548f7b877bb883c4cfc90"
+    },
+    {
+      "paperId": "24d51ad3f76d4bf81d647750d5dd3673ae656f24"
+    },
+    {
+      "paperId": "6f15d95ca7c75a99037dfc8a5d76164bcb28a38b"
+    },
+    {
+      "paperId": "735062d87cdb81e7a2c02a9f7e19e00189d23f4f"
+    },
+    {
+      "paperId": "bde306ea23f74a32783d1537cd334386e9710e73"
+    },
+    {
+      "paperId": "d30b32aa01c16d8b9f142b6b460cbdd8f02de079"
+    },
+    {
+      "paperId": "ff8c316bc39761f6353e9e80bde937b8439d109b"
+    },
+    {
+      "paperId": "9fff26151ffbb19a568c6ce076059e8b1f046548"
+    },
+    {
+      "paperId": "00c58c8bdab85e3c437b32ccd5930f900ca028fa"
+    },
+    {
+      "paperId": "75ed7e957b0fed81d8279980ea4f854435bd2f77"
+    },
+    {
+      "paperId": "c801cfa77b3e9d781fdd330720caad6ee08e1d8e"
+    },
+    {
+      "paperId": "fd7739d095bac65208f4a0a73a93dc5d6451c9ff"
+    },
+    {
+      "paperId": "c48f74aba85af35c1b9c064d392b47dba0f3ac54"
+    },
+    {
+      "paperId": "54ed9df3ef335b57407d895ae5ce1e9633e497b4"
+    },
+    {
+      "paperId": "48e2e3de255b309cf1d0f00dda19a06f1cce0414"
+    },
+    {
+      "paperId": "3e691db8d8a5f1541f4d8f0da6dfdfdc6dcc1272"
+    },
+    {
+      "paperId": "c79a41dc13c796c26388f8cbf599c67126374e39"
+    },
+    {
+      "paperId": "c2d56900c1fa78ca148a5500bcf33756ee4aba70"
+    },
+    {
+      "paperId": "3c91f7adbe7c7cb611a86b77790c7410a7fe7508"
+    },
+    {
+      "paperId": "d1851f8f10de634306c06c4505250e4b3dd40a5a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6de26bba77d42f108e4d0f8c5e66d300fcf47078"
+    },
+    {
+      "paperId": "ee841e74fe12a8bb2f9cebde5e36abf62ca61ffb"
+    },
+    {
+      "paperId": "f8245c90e6b63d8e38e8987fc57376006d533dbe"
+    },
+    {
+      "paperId": "da0a0cafdc4ac5157cf735fd3408e87fb9c1f7f6"
+    },
+    {
+      "paperId": "8b35cc62ee7946dfc5af51ea5f24fc4dea25262c"
+    },
+    {
+      "paperId": "ebb07a28f77531191c5ff18cbdf569b54c5a7518"
+    },
+    {
+      "paperId": "97557b01fcff53d368056f0f8629ff082698a266"
+    },
+    {
+      "paperId": "f8accc208f79d858d6db76dc8774ceb2ffb555fa"
+    },
+    {
+      "paperId": "041e4fb4056e353d18f63b359f210cf198c0e364"
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": "85f94ac6ddf3604447a4d2ca2719834c3c0b48a4"
+    },
+    {
+      "paperId": "784fc48ea139a483fe14917e97c0ae1f6ee9697a"
+    },
+    {
+      "paperId": "2ac37d664fe5aee29cf26896268f2b4b1b6652e6"
+    },
+    {
+      "paperId": "18d1d1c18fa3e58efc85c6d81496030bf54d749d"
+    },
+    {
+      "paperId": "6a9b77a9f254c5ae1aeaeeaeba0dc7373f40e382"
+    },
+    {
+      "paperId": "eb0e12daa85cef53b8f7782a50a0e89268f431a4"
+    },
+    {
+      "paperId": "04af65c2b576e7adc8194ef88573cc7dac6daddf"
+    },
+    {
+      "paperId": "4bac82f913727aa8e7271a6dbc8516f20c4ff595"
+    },
+    {
+      "paperId": "8f685123d92e868959703fe37830865237b2cd88"
+    },
+    {
+      "paperId": "74b91dea998b7129924494ba14fbbe9d320290bb"
+    },
+    {
+      "paperId": "2d54a33d62255c4abb2a87116c4dca9e73e53800"
+    },
+    {
+      "paperId": "b9b82c81b3eccb9b188ff2de0382f98f63b94ab4"
+    },
+    {
+      "paperId": "cf32322457f562d441ac870cafc36803434f53ea"
+    },
+    {
+      "paperId": "5a67c54865d475d4932be2e8e528a43ccad99d24"
+    },
+    {
+      "paperId": "7dec5bcb40f4e6205f9abcaebe75ad57def9e17f"
+    },
+    {
+      "paperId": "d704063a2f2a70aa651a3c68909ba895be7201c8"
+    },
+    {
+      "paperId": "d242816ac8bf52f493d0842c86851fb77c86b24a"
+    },
+    {
+      "paperId": "abd3f5c11d9d4d3291359ada25f58c3f9970f8e8"
+    }
+  ]
+}

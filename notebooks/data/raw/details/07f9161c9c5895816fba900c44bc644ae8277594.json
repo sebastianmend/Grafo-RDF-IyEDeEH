@@ -1,0 +1,68 @@
+{
+  "paperId": "07f9161c9c5895816fba900c44bc644ae8277594",
+  "externalIds": {
+    "MAG": "2128805959",
+    "DOI": "10.1111/gcb.12347",
+    "CorpusId": 205141158,
+    "PubMed": "23929733"
+  },
+  "url": "https://www.semanticscholar.org/paper/07f9161c9c5895816fba900c44bc644ae8277594",
+  "title": "Assessing the performance of the photo‐acoustic infrared gas monitor for measuring CO2, N2O, and CH4 fluxes in two major cereal rotations",
+  "venue": "Global Change Biology",
+  "year": 2014,
+  "citationCount": 27,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.12347?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.12347, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403091200",
+      "name": "A. Tirol-Padre"
+    },
+    {
+      "authorId": "40335387",
+      "name": "M. Rai"
+    },
+    {
+      "authorId": "13664029",
+      "name": "M. Gathala"
+    },
+    {
+      "authorId": "50214450",
+      "name": "Sheetal Sharma"
+    },
+    {
+      "authorId": "46511542",
+      "name": "Virender Kumar"
+    },
+    {
+      "authorId": "153513891",
+      "name": "P. C. Sharma"
+    },
+    {
+      "authorId": "144940124",
+      "name": "D. K. Sharma"
+    },
+    {
+      "authorId": "4656377",
+      "name": "R. Wassmann"
+    },
+    {
+      "authorId": "6508726",
+      "name": "J. Ladha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

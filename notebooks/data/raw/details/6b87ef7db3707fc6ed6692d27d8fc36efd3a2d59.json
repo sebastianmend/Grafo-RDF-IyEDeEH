@@ -1,0 +1,36 @@
+{
+  "paperId": "6b87ef7db3707fc6ed6692d27d8fc36efd3a2d59",
+  "externalIds": {
+    "MAG": "2193815992",
+    "CorpusId": 167522397
+  },
+  "url": "https://www.semanticscholar.org/paper/6b87ef7db3707fc6ed6692d27d8fc36efd3a2d59",
+  "title": "Precision Agriculture: Not the Same as Big Data But...",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 10,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2012259",
+      "name": "S. Sonka"
+    },
+    {
+      "authorId": "9414341",
+      "name": "Yu-Tien Cheng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

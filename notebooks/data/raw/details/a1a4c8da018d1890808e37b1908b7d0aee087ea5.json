@@ -1,0 +1,38 @@
+{
+  "paperId": "a1a4c8da018d1890808e37b1908b7d0aee087ea5",
+  "externalIds": {
+    "MAG": "1600257160",
+    "DOI": "10.23901/1679-4605.2013v9n1p135-149",
+    "CorpusId": 142760467
+  },
+  "url": "https://www.semanticscholar.org/paper/a1a4c8da018d1890808e37b1908b7d0aee087ea5",
+  "title": "Mapas de aplicação localizada de insumos e técnicas para agricultura familiar",
+  "venue": "Revista Ciência em Extensão",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23901/1679-4605.2013v9n1p135-149?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23901/1679-4605.2013v9n1p135-149, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51131389",
+      "name": "Edson Luís Piroli"
+    },
+    {
+      "authorId": "96611206",
+      "name": "Lucas Vituri Santarosa"
+    }
+  ],
+  "abstract": "In Brazil, family farming is an activity that has emerged during the Portuguese empire, and had a major expansion later, with the arrival of immigrants in the nineteenth century. During the recession caused by the 1929 crisis, which led many farmers to bankruptcy, these immigrants bought small plots of land, thus increasing the number of these establishments. Nevertheless, Brazil still maintains a history of agricultural production on farms. So, historically, family farms got in the background, receiving less encouragement and direction from public policy, which brings about great technological backwardness compared to large producers. In this sense, it is now known that by using rudimentary techniques many small farmers are unable to compete in the market. Thus, this project was proposed in order to meet family farmers seeking for support and instructions for handling their properties economically viable and environmentally sustainable, based on assumptions of precision agriculture. This action also tries to ensure the permanence of these farmers in the field, both for preserving natural resources and also for reducing their spending on inputs by applying appropriate localized doses and preparing soil tillage according to the need. The objective was to create physical and chemical soil maps of their properties, aiming at providing information needed for input and technique applications most appropriately and accurately.",
+  "references": null
+}

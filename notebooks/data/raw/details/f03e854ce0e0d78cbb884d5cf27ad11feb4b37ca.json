@@ -1,0 +1,46 @@
+{
+  "paperId": "f03e854ce0e0d78cbb884d5cf27ad11feb4b37ca",
+  "externalIds": {
+    "MAG": "2045301678",
+    "DOI": "10.1109/ICCSE.2012.6295150",
+    "CorpusId": 16470548
+  },
+  "url": "https://www.semanticscholar.org/paper/f03e854ce0e0d78cbb884d5cf27ad11feb4b37ca",
+  "title": "Prediction model of agricultural product's price based on the improved BP neural network",
+  "venue": "International Conference on Crowd Science and Engineering",
+  "year": 2012,
+  "citationCount": 20,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSE.2012.6295150?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSE.2012.6295150, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "27777931",
+      "name": "Wei Ming-hua"
+    },
+    {
+      "authorId": "2094872557",
+      "name": "Zhou Qiaolin"
+    },
+    {
+      "authorId": "9241340",
+      "name": "Yang Zhijian"
+    },
+    {
+      "authorId": "9519043",
+      "name": "Zheng Jingui"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,250 @@
+{
+  "paperId": "c48fe48516bbc20f97cada2832b36219b5ed0e91",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/LyleLO13",
+    "MAG": "2098400452",
+    "DOI": "10.3390/rs5041549",
+    "CorpusId": 41348818
+  },
+  "url": "https://www.semanticscholar.org/paper/c48fe48516bbc20f97cada2832b36219b5ed0e91",
+  "title": "Testing the Temporal Ability of Landsat Imagery and Precision Agriculture Technology to Provide High Resolution Historical Estimates of Wheat Yield at the Farm Scale",
+  "venue": "Remote Sensing",
+  "year": 2013,
+  "citationCount": 36,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/5/4/1549/pdf?version=1403131974",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs5041549?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs5041549, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50567897",
+      "name": "G. Lyle"
+    },
+    {
+      "authorId": "2150518342",
+      "name": "Megan M. Lewis"
+    },
+    {
+      "authorId": "21466975",
+      "name": "B. Ostendorf"
+    }
+  ],
+  "abstract": "The long term archiving of both Landsat imagery and wheat yield mapping datasets sensed by precision agriculture technology has the potential through the development of statistical relationships to predict high resolution estimates of wheat yield over large areas for multiple seasons. Quantifying past yield performance over different growing seasons can inform agricultural management decisions ranging from fertilizer applications at the sub-paddock scale to changes in land use at a landscape scale. However, an understanding of the magnitude of prediction errors is needed. In this study, we examine the predictive wheat yield relationships developed from Normalised Difference Vegetation Index (NDVI) acquired Landsat imagery and combine-mounted yield monitors for three Western Australian farms over different growing seasons. We further analysed their predictive capability when these relationships are used to extrapolate yield from one farm to another. Over all seasons, the best predictions were achieved with imagery acquired in September. Of the five seasons reviewed, three showed very reasonable prediction accuracies, with the low and high rainfall years providing good predictions. Medium rainfall years showed the greatest variation in prediction accuracy with marginal to poor predictions resulting from narrow ranges of measured wheat yield and NDVI values. These results demonstrate the potential benefit of fusing together two high resolution datasets to create robust wheat yield prediction models over different growing seasons, the outputs of which can be used to inform agricultural decision making.",
+  "references": [
+    {
+      "paperId": "c8794c73fc9f6fd18c7bd6516dc54d89f67eccb1"
+    },
+    {
+      "paperId": "7e686455edecd282657eaa89d660e9a61859f91f"
+    },
+    {
+      "paperId": "54d254950c492384858c4b4c275d8675e354d097"
+    },
+    {
+      "paperId": "14951fac58a3caa7d8fbe1c57dcefa1b4178eba1"
+    },
+    {
+      "paperId": "50a031a2a72cb610f1f1ee08dd28fad2db0a31b5"
+    },
+    {
+      "paperId": "955de06d8b8b25684177b8be5daa8baca4129621"
+    },
+    {
+      "paperId": "90215c256e2424c19b856178d0e7f5d77635ad51"
+    },
+    {
+      "paperId": "b603f58b3f74545ed294807185dcd807b837ecc5"
+    },
+    {
+      "paperId": "647fa5e741cd77166c4008b8794a568bb8930618"
+    },
+    {
+      "paperId": "9d2b75cbcc12778159a256604355ffef5c3567c8"
+    },
+    {
+      "paperId": "f1d09a260e0f9e7cfa05e52f1972daab0b40b6b7"
+    },
+    {
+      "paperId": "3ed45144b9cca10dfd6d18389da088d94b5a2454"
+    },
+    {
+      "paperId": "d283707ad94d648448f1c0c854cba89f087076b4"
+    },
+    {
+      "paperId": "f38ae385fd0679de0535dc67668af2a930146887"
+    },
+    {
+      "paperId": "414d792def97a88a97acd2fe7725cbd1212a2d5b"
+    },
+    {
+      "paperId": "986bad8295e503aa6d49a1078ca476a9624d071a"
+    },
+    {
+      "paperId": "7152eda2e549422dde3f75283f18fd214397bfef"
+    },
+    {
+      "paperId": "ae980cf4b47e9929d9b32c7e5737a983c0973f00"
+    },
+    {
+      "paperId": "b68e173226144fd9acbb88b09c29510e2120ddd4"
+    },
+    {
+      "paperId": "c97c7c748a5f66bf86a55b77d65818013ddb6059"
+    },
+    {
+      "paperId": "04ac82bbd45d995ff65c8106c02614e6f8da9b0b"
+    },
+    {
+      "paperId": "cb512439473f56642ded8031a9944ea6cc7d271c"
+    },
+    {
+      "paperId": "05c2803e12f2bc9c03ade8a7e8c4001d24218841"
+    },
+    {
+      "paperId": "736bd3722368faadf600f97424fe275fd1429e5d"
+    },
+    {
+      "paperId": "77f54caacb2bf9b800fdeda5265f6c24721a043f"
+    },
+    {
+      "paperId": "8aab5afc317013ff683d44f997e1774b2272c118"
+    },
+    {
+      "paperId": "0c57c587fb0c0f46f5479642fe723ab6937bbfad"
+    },
+    {
+      "paperId": "7582e7be75db59a4320f8990efc3c66db914a200"
+    },
+    {
+      "paperId": "1d978e84b514051a9b74c84e14f4322192c320f0"
+    },
+    {
+      "paperId": "936da0d07521ea0874bdad5b80a95669404fc196"
+    },
+    {
+      "paperId": "5db01092c3ef91f1a248be478da7fec6d338b29c"
+    },
+    {
+      "paperId": "40709f044c50b850f54980e95acbda9a0a9d4538"
+    },
+    {
+      "paperId": "d14bbae3cb51fd3e44557006b65be46d590894c2"
+    },
+    {
+      "paperId": "85cb2089d6ede2c6f383916ad0417d7b2f9af445"
+    },
+    {
+      "paperId": "0405d9c9ad5b67c6826645fa5e0d75288df7a4d6"
+    },
+    {
+      "paperId": "556a36c405a9e2a748694b5aba05d5f60a0acf92"
+    },
+    {
+      "paperId": "68b7bf66451be85e4d70287aaeb19e74a82347d1"
+    },
+    {
+      "paperId": "170f084812ac56796801205148ef443aab43fd47"
+    },
+    {
+      "paperId": "1ca8daf67fd9c6e92b3426a7cb272a05854d9ab8"
+    },
+    {
+      "paperId": "8514a0789430f325038899a651de0d734165c3a0"
+    },
+    {
+      "paperId": "da9615b5dc8b5a85b2a9497670779bd516a2752b"
+    },
+    {
+      "paperId": "aba23e20e7c98eca588f90b45870acde7c66ba9a"
+    },
+    {
+      "paperId": "d6f400421ea3bea8e1b0abe5b6ed589a2f3885c0"
+    },
+    {
+      "paperId": "d767abc43e4ea5c39ab62c4c889c25e1a337529c"
+    },
+    {
+      "paperId": "7c468ec2ecc57101e3e18346805305f0d6153b3e"
+    },
+    {
+      "paperId": "73defb6489856dcb2229ad2f830f0072ea687ce7"
+    },
+    {
+      "paperId": "9212eb7ed6548a6c1740741b9c3b3e6ef3d0b23a"
+    },
+    {
+      "paperId": "93a479595bd7282fe90e4cdb00a9eaea6f10d24b"
+    },
+    {
+      "paperId": "b822afa864337ae91ef11d1caa41de7776f9c663"
+    },
+    {
+      "paperId": "ca4604058520beebb3205e67322e0798c0b62d45"
+    },
+    {
+      "paperId": "1cb717ea5f5f98f31a1e992546e61c88e6f00b07"
+    },
+    {
+      "paperId": "132bcc9b21c34e240c3e9acf1b95a88fd3a4c628"
+    },
+    {
+      "paperId": "36292f1e6e3667c8ab9df7c3856d93a167a1ce81"
+    },
+    {
+      "paperId": "36b5ee7bfdd122232401dbb0534b9e6121587635"
+    },
+    {
+      "paperId": "0c14683705b2cd35ff3a4d5fd27dd28339a780f4"
+    },
+    {
+      "paperId": "dd784efa73b3a2c58e55ac7a727ca2cee6dfa338"
+    },
+    {
+      "paperId": "5d7a6aef965e7f8ea6bd04536e370a2486d782fa"
+    },
+    {
+      "paperId": "3dd5244ab03ed82c9baaa9873d957df2125e037a"
+    },
+    {
+      "paperId": "d936070b720a93470e677ee23daea453c305960b"
+    },
+    {
+      "paperId": "b055b5dfa368e98bc2e42fc8522bd2c578bbb8fc"
+    },
+    {
+      "paperId": "cfc48bddbe15319d4302431785aa9df4e325cd0f"
+    },
+    {
+      "paperId": "54c5eb05e3c826fefba685081df49651509d1356"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "4a0929da75d909909ea9feeb36fd66d237d57e81",
+  "externalIds": {
+    "MAG": "2082606916",
+    "DOI": "10.1117/12.2019664",
+    "CorpusId": 128985366
+  },
+  "url": "https://www.semanticscholar.org/paper/4a0929da75d909909ea9feeb36fd66d237d57e81",
+  "title": "Paddy soil nutrient assessment using visible and near infrared reflectance spectroscopy",
+  "venue": "Other Conferences",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2019664?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2019664, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "7498174",
+      "name": "A. Gholizadeh"
+    },
+    {
+      "authorId": "1887243",
+      "name": "M. M. Saberioon"
+    },
+    {
+      "authorId": "144233985",
+      "name": "M. Amin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

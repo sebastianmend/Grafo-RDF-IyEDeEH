@@ -1,0 +1,241 @@
+{
+  "paperId": "d392e3a35c905899e27e20d4acaaac0aab4ac07f",
+  "externalIds": {
+    "PubMedCentral": "4276977",
+    "MAG": "1978453876",
+    "DOI": "10.3390/nu6125434",
+    "CorpusId": 4499537,
+    "PubMed": "25436433"
+  },
+  "url": "https://www.semanticscholar.org/paper/d392e3a35c905899e27e20d4acaaac0aab4ac07f",
+  "title": "The Omega-3 Fatty Acid Docosahexaenoic Acid Attenuates Organic Dust-Induced Airway Inflammation",
+  "venue": "Nutrients",
+  "year": 2014,
+  "citationCount": 36,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-6643/6/12/5434/pdf?version=1417094145",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4276977, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6075658",
+      "name": "T. Nordgren"
+    },
+    {
+      "authorId": "6318367",
+      "name": "Taylor Friemel"
+    },
+    {
+      "authorId": "152191539",
+      "name": "A. Heires"
+    },
+    {
+      "authorId": "5393691",
+      "name": "J. Poole"
+    },
+    {
+      "authorId": "6022657",
+      "name": "T. Wyatt"
+    },
+    {
+      "authorId": "3017610",
+      "name": "D. Romberger"
+    }
+  ],
+  "abstract": "Workers exposed to organic dusts from concentrated animal feeding operations (CAFOs) are at risk for developing airway inflammatory diseases. Available preventative and therapeutic measures for alleviating dust-induced lung disease are inadequate. Because omega-3 fatty acids can mitigate inflammatory processes, we aimed to determine whether nutritional supplementation with the omega-3 fatty acid docosahexaenoic acid (DHA) could reduce the airway inflammatory consequences of exposures to organic dust. Aqueous extracts of organic dusts from swine CAFOs (ODE) were utilized. In DHA-pretreated human bronchial epithelial cells, lung fibroblasts, monocyte cell cultures, and precision-cut murine lung slices, we found that DHA pretreatment dose-dependently decreased ODE-induced inflammatory cytokine production. To determine the in vivo significance of DHA, C57BL/6 mice were orally administered DHA for seven days prior to treatment with intranasal ODE or saline inhalations. Animals treated with 2 mg DHA demonstrated significant reductions in ODE-induced bronchial alveolar lavage neutrophil influx and pro-inflammatory cytokine/chemokine production compared to mice exposed to ODE alone. Collectively, these data demonstrate that DHA affects several lung cells to reduce the airway inflammatory response to organic dust exposures. Dietary supplementation with DHA may be an effective therapeutic strategy to reduce the airway inflammatory consequences in individuals exposed to agriculture dust environments.",
+  "references": [
+    {
+      "paperId": "aede5406146ebda6c797ad7ef51d75a5c98a8fca"
+    },
+    {
+      "paperId": "2979b647c696d67bdc62b28685f851c41eb4286f"
+    },
+    {
+      "paperId": "5da1c5a34d3a730cdb8aa09c4ed9c05aa4e8c289"
+    },
+    {
+      "paperId": "c4f90e8ea8c3f8b013212db25ef985643e41797d"
+    },
+    {
+      "paperId": "c05ae99e8f1ac7019a1c14710dcc79f5243e25a5"
+    },
+    {
+      "paperId": "40ceedfa990972594960e7a78bea6ba1d1df6cae"
+    },
+    {
+      "paperId": "686c99bf0604dae662707ad5753f7d61c1732731"
+    },
+    {
+      "paperId": "ba8db9843271f071bc034128187c59275246b492"
+    },
+    {
+      "paperId": "36fea98a0855ef4bf6503eff94ebfa1abd612196"
+    },
+    {
+      "paperId": "e837e1c8d09be0532ba840a717d42914e93f0933"
+    },
+    {
+      "paperId": "bf0effb50a78beed430ad233a308f2ec822eeb72"
+    },
+    {
+      "paperId": "8c82436f0a327f5b4060cbe9105814086a992cf6"
+    },
+    {
+      "paperId": "06092a047871db0c70b0d443e6686dceb9e7d5bb"
+    },
+    {
+      "paperId": "7b51f8feb3c9eb1b6947d51c0dce16c8bef82800"
+    },
+    {
+      "paperId": "67194049bb2f1502339546da25598655ea1fc496"
+    },
+    {
+      "paperId": "f28fa59b64c3d4be6f60c89bad415a552e6cca64"
+    },
+    {
+      "paperId": "2dd2a86387013d8ca2a20057186e484b225ffedc"
+    },
+    {
+      "paperId": "54b056db20dcba8130aeaea1bd242fe2b302158a"
+    },
+    {
+      "paperId": "f631e0e1b4bc86a53302b23f0d3c580f316f0ab8"
+    },
+    {
+      "paperId": "3e73b792a2436f4692f2d4c368d41fdaeffd603c"
+    },
+    {
+      "paperId": "63fccfaaf3b145d911c994bf58117793a0c2093d"
+    },
+    {
+      "paperId": "f94e0a9efad3ef7442f7621a604c5c349a4aeb81"
+    },
+    {
+      "paperId": "8c13db8e950b110390ce5b85826e21ffca2c3594"
+    },
+    {
+      "paperId": "9db955c005d580530a931b456764dab6eb993f4a"
+    },
+    {
+      "paperId": "3dcef27799ca4e0d9c4b6936c7b9f4970bf73d11"
+    },
+    {
+      "paperId": "4bd0f802936d633409970295ec508876f6617043"
+    },
+    {
+      "paperId": "43468f4a6c6e51f1a9286df8685966b5061d4468"
+    },
+    {
+      "paperId": "03be91be1533de25ff2fdd9c29fca52b280db839"
+    },
+    {
+      "paperId": "389cf6c1f0dff9e6ca0ba0dad6c487feab5a77ad"
+    },
+    {
+      "paperId": "ca983802d60266beb21368a4c797c39e380cd95d"
+    },
+    {
+      "paperId": "de978521d87a41d96ce83121982d6aeb251efff6"
+    },
+    {
+      "paperId": "630f3d666b1ea00b60e67c3ced64ead3cd9f1edc"
+    },
+    {
+      "paperId": "394f3538b62d98c3eb0d4a77a3d71ecb5d1d25c0"
+    },
+    {
+      "paperId": "04b6433e70e03f73f900b61f60d8f20d83f2d837"
+    },
+    {
+      "paperId": "0b557d94d22ea9aacd17f297e6d4226e1b2e5d16"
+    },
+    {
+      "paperId": "e3c0e0ceffa673c98d2411e98298002a63cff5ae"
+    },
+    {
+      "paperId": "96835b4cff19180faf381efb3d8d1b239e3096a6"
+    },
+    {
+      "paperId": "fa4243e98e3425293ea4f37e02094b07ae789822"
+    },
+    {
+      "paperId": "24223ea2e673b199227ffa595260529f3664f2d6"
+    },
+    {
+      "paperId": "1e7cf522315ed3b2463f0aae53b8e4425e290aa5"
+    },
+    {
+      "paperId": "ca69cfda9e5d2e1902a00e8375a7f6f448daeee5"
+    },
+    {
+      "paperId": "122eaf9519c39efd6a14dba59d81c5875b315bb3"
+    },
+    {
+      "paperId": "220dc8b6b45b5c2f4037780d44b465645ea8a6d7"
+    },
+    {
+      "paperId": "7687803efa8c475aab6dac56ba32baf575a14486"
+    },
+    {
+      "paperId": "a692b320f9a79de828685fb73698d8415c663232"
+    },
+    {
+      "paperId": "edead8be7920f02dbbb8d022d84bfe44ffa60c96"
+    },
+    {
+      "paperId": "b302771e05060823b17812b3b104a678c71428cd"
+    },
+    {
+      "paperId": "7eaddb4076bf392a60ec772887fc54985b32ec27"
+    },
+    {
+      "paperId": "6b71d1bc7834d0a2082bfe8ff3832b8ff9c61f15"
+    },
+    {
+      "paperId": "5b3ba2014c507791ac2a9453bed4ef3f27bc794b"
+    },
+    {
+      "paperId": "5ffebbd35e33d76b7af2c5128c8bc2446a2e04b8"
+    },
+    {
+      "paperId": "eece00570992d8618721978ed99637ec4cc13881"
+    },
+    {
+      "paperId": "2ad75a0251f96e96cb27db1bf99191849badd5e7"
+    },
+    {
+      "paperId": "03c5203f0e0fed90249c9eeb576c56b4e3b443a0"
+    },
+    {
+      "paperId": "9b45414df495b0bfa84eafaa8a7ce030bbbc81c9"
+    },
+    {
+      "paperId": "b874709d5ffde254651413b4e6c320b5e094ef89"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "296153e26bb15397f4b8b585d29c8ba118f18f7c"
+    },
+    {
+      "paperId": "6936a5c868d0c44c265e4c85ea1d71e643d8a759"
+    },
+    {
+      "paperId": "e41017ff98b0b6d19bef4638995114c64eb681bf"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

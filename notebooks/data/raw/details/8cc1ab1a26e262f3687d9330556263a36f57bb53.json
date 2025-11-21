@@ -1,0 +1,48 @@
+{
+  "paperId": "8cc1ab1a26e262f3687d9330556263a36f57bb53",
+  "externalIds": {
+    "MAG": "2180495203",
+    "DBLP": "conf/pacrim/KimBHK15",
+    "DOI": "10.1109/PACRIM.2015.7334877",
+    "CorpusId": 14949975
+  },
+  "url": "https://www.semanticscholar.org/paper/8cc1ab1a26e262f3687d9330556263a36f57bb53",
+  "title": "Data aggregation in precision agriculture for low-power and lossy networks",
+  "venue": "Pacific Rim Conference on Communications, Computers and Signal Processing",
+  "year": 2015,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PACRIM.2015.7334877?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PACRIM.2015.7334877, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2108045374",
+      "name": "Yongjoo Kim"
+    },
+    {
+      "authorId": "2672283",
+      "name": "Puleum Bae"
+    },
+    {
+      "authorId": "2146363916",
+      "name": "Jina Han"
+    },
+    {
+      "authorId": "1683831",
+      "name": "Young-Bae Ko"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

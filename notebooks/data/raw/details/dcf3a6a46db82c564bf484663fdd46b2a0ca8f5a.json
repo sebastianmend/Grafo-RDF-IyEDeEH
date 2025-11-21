@@ -1,0 +1,44 @@
+{
+  "paperId": "dcf3a6a46db82c564bf484663fdd46b2a0ca8f5a",
+  "externalIds": {
+    "MAG": "2106254387",
+    "DOI": "10.1002/jsfa.4477",
+    "CorpusId": 2798669,
+    "PubMed": "21928390"
+  },
+  "url": "https://www.semanticscholar.org/paper/dcf3a6a46db82c564bf484663fdd46b2a0ca8f5a",
+  "title": "Improvement in regression of corn yield with plant height using relative data.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2011,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.4477?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.4477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46643548",
+      "name": "X. Yin"
+    },
+    {
+      "authorId": "40420276",
+      "name": "M. McClure"
+    },
+    {
+      "authorId": "48983060",
+      "name": "R. Hayes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

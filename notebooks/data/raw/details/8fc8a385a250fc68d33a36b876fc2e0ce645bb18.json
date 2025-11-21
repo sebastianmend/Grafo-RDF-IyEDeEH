@@ -1,0 +1,220 @@
+{
+  "paperId": "8fc8a385a250fc68d33a36b876fc2e0ce645bb18",
+  "externalIds": {
+    "PubMedCentral": "4731982",
+    "MAG": "2288090578",
+    "DOI": "10.1186/s13007-016-0109-7",
+    "CorpusId": 3225973,
+    "PubMed": "26834822"
+  },
+  "url": "https://www.semanticscholar.org/paper/8fc8a385a250fc68d33a36b876fc2e0ce645bb18",
+  "title": "Terrestrial 3D laser scanning to track the increase in canopy height of both monocot and dicot crop species under field conditions",
+  "venue": "Plant Methods",
+  "year": 2016,
+  "citationCount": 108,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1186/s13007-016-0109-7",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4731982, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3732327",
+      "name": "M. Friedli"
+    },
+    {
+      "authorId": "2449261",
+      "name": "N. Kirchgessner"
+    },
+    {
+      "authorId": "6200286",
+      "name": "C. Grieder"
+    },
+    {
+      "authorId": "2538810",
+      "name": "F. Liebisch"
+    },
+    {
+      "authorId": "7877245",
+      "name": "Michael Mannale"
+    },
+    {
+      "authorId": "145043184",
+      "name": "A. Walter"
+    }
+  ],
+  "abstract": "Plant growth is a good indicator of crop performance and can be measured by different methods and on different spatial and temporal scales. In this study, we measured the canopy height growth of maize (Zea mays), soybean (Glycine max) and wheat (Triticum aestivum) under field conditions by terrestrial laser scanning (TLS). We tested the hypotheses whether such measurements are capable to elucidate (1) differences in architecture that exist between genotypes; (2) genotypic differences between canopy height growth during the season and (3) short-term growth fluctuations (within 24 h), which could e.g. indicate responses to rapidly fluctuating environmental conditions. The canopies were scanned with a commercially available 3D laser scanner and canopy height growth over time was analyzed with a novel and simple approach using spherical targets with fixed positions during the whole season. This way, a high precision of the measurement was obtained allowing for comparison of canopy parameters (e.g. canopy height growth) at subsequent time points. Three filtering approaches for canopy height calculation from TLS were evaluated and the most suitable approach was used for the subsequent analyses. For wheat, high coefficients of determination (R2) of the linear regression between manually measured and TLS-derived canopy height were achieved. The temporal resolution that can be achieved with our approach depends on the scanned crop. For maize, a temporal resolution of several hours can be achieved, whereas soybean is ideally scanned only once per day, after leaves have reached their most horizontal orientation. Additionally, we could show for maize that plant architectural traits are potentially detectable with our method. The TLS approach presented here allows for measuring canopy height growth of different crops under field conditions with a high temporal resolution, depending on crop species. This method will enable advances in automated phenotyping for breeding and precision agriculture applications. In future studies, the TLS method can be readily applied to detect the effects of plant stresses such as drought, limited nutrient availability or compacted soil on different genotypes or on spatial variance in fields.",
+  "references": [
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "a73072561a5ff1e7dc89ff2eea34e2412cfbd92b"
+    },
+    {
+      "paperId": "85b2547001dc11beed2554fd16f41a558ee81562"
+    },
+    {
+      "paperId": "e7bb0c81ef0273f9567691ee616d53cad79d6e1a"
+    },
+    {
+      "paperId": "a059418ba24f3038f9e2d62c87a7e7a3db548a9c"
+    },
+    {
+      "paperId": "ad98731c4473bcb001a819a533079c81aec46a37"
+    },
+    {
+      "paperId": "24b2b82ad64769b67d62802c1f223d546979a125"
+    },
+    {
+      "paperId": "88aaf745a02fc5ccc762ba91b86b2c3a3894de05"
+    },
+    {
+      "paperId": "f62acf27f134d5b0d3e89e0bc559b45661cc59d3"
+    },
+    {
+      "paperId": "a17c54d8de0f91586b9c92443fcb5c2e2c5eec23"
+    },
+    {
+      "paperId": "37b6f4c193ff02045536c1a60d2c396b0e0bf460"
+    },
+    {
+      "paperId": "21fd74e77e37e1d0dfb5bfa7d207d7871f05c094"
+    },
+    {
+      "paperId": "48d83f4465a11d2dca3ef079eb9ca65c7ebd4570"
+    },
+    {
+      "paperId": "2b6840ee643f1670baf3d0d2d23a109d50e91656"
+    },
+    {
+      "paperId": "f4ab46dcba79e65dab629feee66f1c94eef8844a"
+    },
+    {
+      "paperId": "ee0ec965fa358d51f1a9edf7912869b1d3ba2db6"
+    },
+    {
+      "paperId": "cf8e4e184d56677efe2303cc6096750370868f0c"
+    },
+    {
+      "paperId": "653460f6638ddd0e5caad09adbc9f40850f6b8ba"
+    },
+    {
+      "paperId": "0939239e77abe11627bc701effa85280491b6b32"
+    },
+    {
+      "paperId": "0ba3dbac67f1936d87ff771d67b6ebe1370fd0e4"
+    },
+    {
+      "paperId": "87d8b4e5873079e9a71dd3d3fc7e8a219e442d76"
+    },
+    {
+      "paperId": "de1c5ac3eb9792ed73ea27c03b0f3ba0b7857af4"
+    },
+    {
+      "paperId": "2d7b492b44b0f0dd7ccbe196f3051cfd82de536a"
+    },
+    {
+      "paperId": "411a0a90b29473a396c3c9da8b7ab2dd7633d236"
+    },
+    {
+      "paperId": "66daf6c92e6669afdc849f8c84ebda6edefd2151"
+    },
+    {
+      "paperId": "50edc0a1db5b249d486b8e77b4023a87f540fec2"
+    },
+    {
+      "paperId": "30204cd1e8551ddc1d532c20cdb5717f4cfd884f"
+    },
+    {
+      "paperId": "a31f0bbf6d346bc8170f8cc44abd9799caae796d"
+    },
+    {
+      "paperId": "f52bbd65835f795f9297ade15076e85ab00bca0f"
+    },
+    {
+      "paperId": "78e02b5dfb7a990234f0ccdb80f5024114e0ef95"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "25ab1b263d840a8c3b7bfac11f50e63824ffc360"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "87bd3ae8213dff9ca8ae129562195223a47238a8"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "bc8384cf8313667d69554649681d67232d9e3815"
+    },
+    {
+      "paperId": "29ae78ad6c72d290c7a86625d8cc70b618366831"
+    },
+    {
+      "paperId": "f7c00f8f73d9d63bb8de40dcbaee5b8d575cfe3f"
+    },
+    {
+      "paperId": "0f288e1b7d01cd3af59d4b2423c14ba9b45cc43d"
+    },
+    {
+      "paperId": "6e218b1c950f913f004696cd80698b35ca2314b0"
+    },
+    {
+      "paperId": "d3d4f7280e756831adb867c8a22020742d18b357"
+    },
+    {
+      "paperId": "d4b81b2fd1f339d0ba80dbdd9f5efbe027fca22f"
+    },
+    {
+      "paperId": "f8f89e5730cabb7868c6596f73663f1acc88ab6d"
+    },
+    {
+      "paperId": "ff8d258f9d5f94bfc2d1b8546091ad73debf1edb"
+    },
+    {
+      "paperId": "a18ac15c9b4749019e5dbb5339fd3434f4644432"
+    },
+    {
+      "paperId": "98cc932474bff996d409d072b38a543749d02add"
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "1252b101f3761b94570370fcb2ee8a2779d051db"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "75462d362d1d511ca580223af38c329630c7b040"
+    },
+    {
+      "paperId": "6c45b5f5481125a311ea46a05e7acfa1de0f2cfb"
+    },
+    {
+      "paperId": "18648407e048086fad9bce8a6fb23c68229fe0d1"
+    }
+  ]
+}

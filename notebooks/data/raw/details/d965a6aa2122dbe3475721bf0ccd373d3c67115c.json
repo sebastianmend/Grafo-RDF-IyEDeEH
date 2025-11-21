@@ -1,0 +1,52 @@
+{
+  "paperId": "d965a6aa2122dbe3475721bf0ccd373d3c67115c",
+  "externalIds": {
+    "DBLP": "conf/igarss/Hassan-EsfahaniTTJM14",
+    "MAG": "1979674791",
+    "DOI": "10.1109/IGARSS.2014.6947175",
+    "CorpusId": 22358759
+  },
+  "url": "https://www.semanticscholar.org/paper/d965a6aa2122dbe3475721bf0ccd373d3c67115c",
+  "title": "Topsoil moisture estimation for precision agriculture using unmmaned aerial vehicle multispectral imagery",
+  "venue": "2014 IEEE Geoscience and Remote Sensing Symposium",
+  "year": 2014,
+  "citationCount": 49,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://zenodo.org/record/1272875/files/article.pdf",
+    "status": "GREEN",
+    "license": "public-domain",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2014.6947175?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2014.6947175, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1405178764",
+      "name": "Leila Hassan-Esfahani"
+    },
+    {
+      "authorId": "1401923045",
+      "name": "Alfonso F. Torres-Rua"
+    },
+    {
+      "authorId": "3104911",
+      "name": "A. M. Ticlavilca"
+    },
+    {
+      "authorId": "18152960",
+      "name": "A. Jensen"
+    },
+    {
+      "authorId": "38543517",
+      "name": "M. McKee"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

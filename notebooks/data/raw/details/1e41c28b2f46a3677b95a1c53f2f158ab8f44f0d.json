@@ -1,0 +1,279 @@
+{
+  "paperId": "1e41c28b2f46a3677b95a1c53f2f158ab8f44f0d",
+  "externalIds": {
+    "MAG": "1975127197",
+    "DOI": "10.4236/AS.2012.32018",
+    "CorpusId": 21127527
+  },
+  "url": "https://www.semanticscholar.org/paper/1e41c28b2f46a3677b95a1c53f2f158ab8f44f0d",
+  "title": "Sustainability issues in agro-ecology: Socio-ecological perspective",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=18378",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4236/AS.2012.32018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4236/AS.2012.32018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47355339",
+      "name": "S. Kumaraswamy"
+    }
+  ],
+  "abstract": "In the recent past there has been concern to address the declining trends and deteriorating ecological elements and their functions in productive agricultural landscapes. The efforts to revive the ecological functions needs multiple scale approach, which include scientific understanding, time dependent restorative activities and incorporation of wisdom of the stakeholders. Conservation initiatives linked to precision farming is an apt mechanism to minimize the loss of natural resources of agricultural landscapes to maintain the complex stabilizers of ecological functions. Such an effort must address the scientific evaluation of the farm as “ecologically sustainable unit” with due consideration to social construct at local to regional level. Sustainability indices can be useful tools for evaluating the farms to isolate degradative factors and identify ecologically conservative practices. This review will analyze certain inter-linked concepts relevant to address the sustainability issues in agro-ecology at the interface of socio-ecological perspective.",
+  "references": [
+    {
+      "paperId": "866aa75137548df3cef906819aa80e217601b698"
+    },
+    {
+      "paperId": "3be9c73bf5bba58af0c636aad51ea62716bf16a6"
+    },
+    {
+      "paperId": "b318d18ceb42d8a063d26d9b7229603b4b7b08bc"
+    },
+    {
+      "paperId": "32e38ae1186bbd4ff7fdcaf45a484209d3bfdf40"
+    },
+    {
+      "paperId": "3909381062ac1a575621e263ed1cbcf23f8b7683"
+    },
+    {
+      "paperId": "16cff53ba6536bcde0df3c16b9609107679b1211"
+    },
+    {
+      "paperId": "15228414c6d50a71e22dbedfeaa651e84074624d"
+    },
+    {
+      "paperId": "3e4a0549c4cb27605cb97881437f3e35dcb985b7"
+    },
+    {
+      "paperId": "ea399858d64d9b96541bca73f0e62c0a8cfc8f1e"
+    },
+    {
+      "paperId": "54fa671463d476a2c41ff3e4b8129b07b77c099e"
+    },
+    {
+      "paperId": "58d3222a763b55883e0550b08b5d9105a76a9cad"
+    },
+    {
+      "paperId": "47d24e24bb2d3a98ab59f81fb1050f49633ceead"
+    },
+    {
+      "paperId": "5fac466af2501852c6db805436ea48837e412fcf"
+    },
+    {
+      "paperId": "5ba8cca1b05f315dc5beb813d3987e12d056face"
+    },
+    {
+      "paperId": "7b263b043ce236a31412fcd9c2f0fc93b595beeb"
+    },
+    {
+      "paperId": "e462e12c0ce5e637acd2ccd2d801e37c02ba0596"
+    },
+    {
+      "paperId": "6413cce5e0cc2495bfdab0596f292ff7a720c7ec"
+    },
+    {
+      "paperId": "5b006cc284395e3ed251a025b87c4170b0f7fecc"
+    },
+    {
+      "paperId": "518ddc07d6b38e809e14decb4ce4b90882bf4b7a"
+    },
+    {
+      "paperId": "7165c9cc6e121a500cf835de16338e1e49769647"
+    },
+    {
+      "paperId": "b41c8e50d10b7c9fbfa69c4168fbf104d9ed0c2a"
+    },
+    {
+      "paperId": "1e3d81d40d7fe67cc277b77917bce89e74623a4a"
+    },
+    {
+      "paperId": "ea6551df5ad50179b1d330eb3459254af632bd16"
+    },
+    {
+      "paperId": "6c0042a64685ebfc4e420ecd8aa9accd964e5281"
+    },
+    {
+      "paperId": "7572ac19c9d6ed8b365105823b91bcc16065b61e"
+    },
+    {
+      "paperId": "d571963a597742e6aa80f43db9446517501b3e20"
+    },
+    {
+      "paperId": "10fe9995ff2f3ca2ba32a87d7d5aa1e1e01580f1"
+    },
+    {
+      "paperId": "5d055a91582ffd8f252f8a2f5913475d68071fa4"
+    },
+    {
+      "paperId": "96db047bc38e8c9535c0d6e87f8de48e2c08999b"
+    },
+    {
+      "paperId": "189271c0821539735eea9a7a1824d1f6584c4759"
+    },
+    {
+      "paperId": "817409b03bf857b0403c4fb734a1841208cb36d2"
+    },
+    {
+      "paperId": "1b588428dede9bdb053b14890e7cb5668a40abf1"
+    },
+    {
+      "paperId": "21f702e3d75f36d24077175f1dd86e184c5ed592"
+    },
+    {
+      "paperId": "f94e24e2aac66d4915fcebb7fb07af7d5b9e570e"
+    },
+    {
+      "paperId": "0dd27d34fec99c7f8ce545e455280af52726f597"
+    },
+    {
+      "paperId": "f7e2784ebbdeb70547af0ec6adfe0f87dcaac2f0"
+    },
+    {
+      "paperId": "a081a7dc866a867cdb10c0a44580ab6ea19b0cbb"
+    },
+    {
+      "paperId": "fd5617a970143c020178a9a1e24a9e2e56dca38a"
+    },
+    {
+      "paperId": "771958b3f1fb39743f9710f565a88cb01ea41d77"
+    },
+    {
+      "paperId": "061157f9a8ed59b21fdded53c136c53a2313cf17"
+    },
+    {
+      "paperId": "69794cd3d92009b009e3ba7c9b3775bf332b92e2"
+    },
+    {
+      "paperId": "96170a2817740addfda6cee812af9a68911f431e"
+    },
+    {
+      "paperId": "5d33039e2db8d0ccdb190914084bbfb19c1bd3f0"
+    },
+    {
+      "paperId": "c21fbbee07b3879ebc1acd0991ab669cad73c22b"
+    },
+    {
+      "paperId": "ea6410373c480b0889625a7bc146f02a5bb34d3b"
+    },
+    {
+      "paperId": "617782b88ee7630a334065ce3d0a430ea54ac015"
+    },
+    {
+      "paperId": "1e18c180d5a5dda7990b46b596a568147efce49e"
+    },
+    {
+      "paperId": "ac5bba0edb367f2dd5b4ef3c812664fb1a063909"
+    },
+    {
+      "paperId": "30beeef45e0f76a8d319de69903eb368b8650c5a"
+    },
+    {
+      "paperId": "ab410490509b2151de8b5424241e21d82b2df5f0"
+    },
+    {
+      "paperId": "e730ba9db4aa2029e5297890c5772f0f264f869f"
+    },
+    {
+      "paperId": "cdfeba74280bc4b9e6f514bf5f99e792e280f80e"
+    },
+    {
+      "paperId": "6736ae8ac75816d07f48747df58937fa88eae70f"
+    },
+    {
+      "paperId": "48f4dd03b7bb312b22a8c320c3db253a623acdec"
+    },
+    {
+      "paperId": "4a5ef43d944d91c7a7ab3f5a7cb3771d12f60df3"
+    },
+    {
+      "paperId": "8566052ccb25a501b4bc284015621ec91a103198"
+    },
+    {
+      "paperId": "c4df7b6d4d34b6e2a4bbf06b55fba8ab0a05060c"
+    },
+    {
+      "paperId": "b913744ad2720e77f0ef01b0a31c3e8bdbc8aad4"
+    },
+    {
+      "paperId": "cf48388678c7147232574a4085259b5276f77a20"
+    },
+    {
+      "paperId": "f98467b2c1a3233b76e36c040369bbd0ab9fe0cb"
+    },
+    {
+      "paperId": "98bc9caf9f9c679c022034c7d73e3abfac52d6e5"
+    },
+    {
+      "paperId": "9acaf0b5c1a70d29d1ca52717d6ed3af2f6ee322"
+    },
+    {
+      "paperId": "5c89ee7c2d71bb1a727e856118d3eac6dcbf083a"
+    },
+    {
+      "paperId": "b86c7aa7c3435ebc5f1c29f74ff76b4e99ef7c02"
+    },
+    {
+      "paperId": "c317e0483404fff8004ea67c7eee1399f5e3809d"
+    },
+    {
+      "paperId": "001d38a21084c47c859f593d8881b6681eb98689"
+    },
+    {
+      "paperId": "4cadd350211795e4d1d4e903bac77107b98a910f"
+    },
+    {
+      "paperId": "fb8cc9059239159af9c52f61f29bd9ff1a8d24a2"
+    },
+    {
+      "paperId": "980d0d84c3c034170001d63db4ac63af411313b5"
+    },
+    {
+      "paperId": "fdd0ba623a35ab991e98444f0b413cf68f234c64"
+    },
+    {
+      "paperId": "056edd8d1dd2de56e7eae154b47e468f33c69e9a"
+    },
+    {
+      "paperId": "8c8d80d95cb1c0fd83a70335f8ae272a81eae0ab"
+    },
+    {
+      "paperId": "966f8003c90f36db67ad3ab49353c8579d47767b"
+    },
+    {
+      "paperId": "b3570d68247b3f67fc734b4da857a13520ea2d54"
+    },
+    {
+      "paperId": "ef7eb513e18317352286beaa8875315e5dc6fcf4"
+    },
+    {
+      "paperId": "d6fdfcfcd3579a0256259fc4aa03db3afd7bdb0a"
+    },
+    {
+      "paperId": "9483b445a345e36ef8e3b83f06c2b7f94502a3fb"
+    },
+    {
+      "paperId": "6b458814b4f73a4e4165db7ba769e292aeba71ff"
+    },
+    {
+      "paperId": "7c75ef43ba96633822306ac10cdc60f63afad334"
+    },
+    {
+      "paperId": "e291558b99d6c583dd7891f9e4e51268950fe785"
+    },
+    {
+      "paperId": "de905b36d1ae7f590826484ea56a931c3691e0e3"
+    },
+    {
+      "paperId": "5d145fd6a6013dfb0700acd850d9f1a96f1bef59"
+    }
+  ]
+}

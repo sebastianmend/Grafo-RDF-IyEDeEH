@@ -1,0 +1,41 @@
+{
+  "paperId": "483944100d0c661b53a027f421ccbb5f1d6996d8",
+  "externalIds": {
+    "MAG": "1607080459",
+    "DBLP": "conf/incdm/RussK10",
+    "DOI": "10.1007/978-3-642-14400-4_35",
+    "CorpusId": 32673746
+  },
+  "url": "https://www.semanticscholar.org/paper/483944100d0c661b53a027f421ccbb5f1d6996d8",
+  "title": "Regression Models for Spatial Data: An Example from Precision Agriculture",
+  "venue": "Industrial Conference on Data Mining",
+  "year": 2010,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-14400-4_35?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-14400-4_35, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32349706",
+      "name": "G. Ruß"
+    },
+    {
+      "authorId": "1718723",
+      "name": "R. Kruse"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

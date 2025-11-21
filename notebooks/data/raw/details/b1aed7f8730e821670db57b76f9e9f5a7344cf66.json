@@ -1,0 +1,47 @@
+{
+  "paperId": "b1aed7f8730e821670db57b76f9e9f5a7344cf66",
+  "externalIds": {
+    "MAG": "2023546407",
+    "DBLP": "conf/whispers/SeiffertBMM10",
+    "DOI": "10.1109/WHISPERS.2010.5594947",
+    "CorpusId": 18465028
+  },
+  "url": "https://www.semanticscholar.org/paper/b1aed7f8730e821670db57b76f9e9f5a7344cf66",
+  "title": "Clustering of crop phenotypes by means of hyperspectral signatures using artificial neural networks",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2010,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2010.5594947?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2010.5594947, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1766728",
+      "name": "U. Seiffert"
+    },
+    {
+      "authorId": "2503549",
+      "name": "Felix Bollenbeck"
+    },
+    {
+      "authorId": "88072940",
+      "name": "H. Mock"
+    },
+    {
+      "authorId": "4442432",
+      "name": "A. Matros"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

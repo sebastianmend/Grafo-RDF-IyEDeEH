@@ -1,0 +1,38 @@
+{
+  "paperId": "0f439edce8e6de8b3f63cd33b5de0b141e7c906e",
+  "externalIds": {
+    "MAG": "2158746954",
+    "DOI": "10.7480/KNOB.112.2013.3.626",
+    "CorpusId": 130463681
+  },
+  "url": "https://www.semanticscholar.org/paper/0f439edce8e6de8b3f63cd33b5de0b141e7c906e",
+  "title": "De polderkaart van Nederland. Een instrument voor de ruimtelijke ontwikkeling van het laagland",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.7480/KNOB.112.2013.3.626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7480/KNOB.112.2013.3.626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "102234976",
+      "name": "S. Nijhuis"
+    },
+    {
+      "authorId": "2089246377",
+      "name": "M. Pouderoijen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "045b87272bdf0f20faf0c1231c36d924f012b9af",
+  "externalIds": {
+    "MAG": "2399961208",
+    "DOI": "10.1021/acs.est.5b00477",
+    "CorpusId": 206544848,
+    "PubMed": "26177307"
+  },
+  "url": "https://www.semanticscholar.org/paper/045b87272bdf0f20faf0c1231c36d924f012b9af",
+  "title": "Fate of Selenium in Soils at a Seleniferous Site Recorded by High Precision Se Isotope Measurements.",
+  "venue": "Environmental Science and Technology",
+  "year": 2015,
+  "citationCount": 48,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://dspace.library.uu.nl/bitstream/handle/1874/329865/Selenium.pdf?sequence=1&isAllowed=y",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.est.5b00477?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.est.5b00477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144835174",
+      "name": "K. Schilling"
+    },
+    {
+      "authorId": "144404881",
+      "name": "T. Johnson"
+    },
+    {
+      "authorId": "80786059",
+      "name": "K. S. Dhillon"
+    },
+    {
+      "authorId": "145344612",
+      "name": "P. Mason"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

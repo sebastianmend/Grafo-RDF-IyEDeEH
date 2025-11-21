@@ -1,0 +1,46 @@
+{
+  "paperId": "fe5a8f57d0911f9026b6cc2479006cf0f369df27",
+  "externalIds": {
+    "MAG": "2287287327",
+    "DOI": "10.1109/HNICEM.2015.7393212",
+    "CorpusId": 14773902
+  },
+  "url": "https://www.semanticscholar.org/paper/fe5a8f57d0911f9026b6cc2479006cf0f369df27",
+  "title": "A Wireless Sensor Network using XBee for precision agriculture of sweet potatoes (Ipomoea batatas)",
+  "venue": "International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management",
+  "year": 2015,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/HNICEM.2015.7393212?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/HNICEM.2015.7393212, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9195729",
+      "name": "Romeo Lazaro Pascual"
+    },
+    {
+      "authorId": "9442157",
+      "name": "Don Michael R. Sanchez"
+    },
+    {
+      "authorId": "9279047",
+      "name": "Diego Lloyd E. Naces"
+    },
+    {
+      "authorId": "9220602",
+      "name": "Warren A. Nunez"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

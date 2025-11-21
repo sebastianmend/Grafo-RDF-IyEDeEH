@@ -1,0 +1,33 @@
+{
+  "paperId": "30b9a2e417ed46027eb3059c6cb67a8a0f738929",
+  "externalIds": {
+    "MAG": "2156966845",
+    "CorpusId": 18019101
+  },
+  "url": "https://www.semanticscholar.org/paper/30b9a2e417ed46027eb3059c6cb67a8a0f738929",
+  "title": "The use of characteristic features of wireless cellular networks for transmission of GNSS assistance and correction data",
+  "venue": "Proceedings of the ITI 2010, 32nd International Conference on Information Technology Interfaces",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9070129",
+      "name": "D. Diglys"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

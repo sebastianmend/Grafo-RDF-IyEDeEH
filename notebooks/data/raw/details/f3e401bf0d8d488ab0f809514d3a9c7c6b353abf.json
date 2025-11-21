@@ -1,0 +1,162 @@
+{
+  "paperId": "f3e401bf0d8d488ab0f809514d3a9c7c6b353abf",
+  "externalIds": {
+    "DBLP": "journals/sensors/AgueraCGGP13",
+    "MAG": "2157371502",
+    "PubMedCentral": "3690040",
+    "DOI": "10.3390/s130505945",
+    "CorpusId": 8342744,
+    "PubMed": "23666127"
+  },
+  "url": "https://www.semanticscholar.org/paper/f3e401bf0d8d488ab0f809514d3a9c7c6b353abf",
+  "title": "Design of a Soil Cutting Resistance Sensor for Application in Site-Specific Tillage",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2013,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/13/5/5945/pdf?version=1403327164",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3690040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "143999920",
+      "name": "J. Agüera"
+    },
+    {
+      "authorId": "35617638",
+      "name": "J. Carballido"
+    },
+    {
+      "authorId": "1403385052",
+      "name": "J. Gil-Ribes"
+    },
+    {
+      "authorId": "3038129",
+      "name": "C. Gliever"
+    },
+    {
+      "authorId": "1399282204",
+      "name": "M. Pérez-Ruiz"
+    }
+  ],
+  "abstract": "One objective of precision agriculture is to provide accurate information about soil and crop properties to optimize the management of agricultural inputs to meet site-specific needs. This paper describes the development of a sensor equipped with RTK-GPS technology that continuously and efficiently measures soil cutting resistance at various depths while traversing the field. Laboratory and preliminary field tests verified the accuracy of this prototype soil strength sensor. The data obtained using a hand-operated soil cone penetrometer was used to evaluate this field soil compaction depth profile sensor. To date, this sensor has only been tested in one field under one gravimetric water content condition. This field test revealed that the relationships between the soil strength profile sensor (SSPS) cutting force and soil cone index values are assumed to be quadratic for the various depths considered: 0–10, 10–20 and 20–30 cm (r2 = 0.58, 0.45 and 0.54, respectively). Soil resistance contour maps illustrated its practical value. The developed sensor provides accurate, timely and affordable information on soil properties to optimize resources and improve agricultural economy.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "3de1b455fe63bd96ffe50cbadbd96190b9272a18"
+    },
+    {
+      "paperId": "737de86036391a01ee0c722829b8a1ceb320654e"
+    },
+    {
+      "paperId": "5cc754acb9f4439cd7fad590b0021ae49178107b"
+    },
+    {
+      "paperId": "e74e355d9dc2fb6b7599eafbbcfe9e36bd902d56"
+    },
+    {
+      "paperId": "def08eb9e9eb69dc3417468f0e82d87a15766c67"
+    },
+    {
+      "paperId": "1064eca6f4ceaab58ba305ecf95b09af20c78665"
+    },
+    {
+      "paperId": "f322f26d01b537d3ac8bbe58cbb16e6866001639"
+    },
+    {
+      "paperId": "55443f25664ca4a8f4007c3b75a47fe22ef94a7e"
+    },
+    {
+      "paperId": "349fc3889fc25d48cde4e0b31468a9360974d755"
+    },
+    {
+      "paperId": "8a8ddc3d36d892e1f17a0532aa3a1ef388530846"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "f8a8af43d5962d41da5b1d29869bfea0ab8b3ff9"
+    },
+    {
+      "paperId": "ecf7d8b665600dff1968501700dfb6979c781122"
+    },
+    {
+      "paperId": "c2454024710fd57d0bcb6cbf792657c0aac9a403"
+    },
+    {
+      "paperId": "97ae6eac31cbf6cac3cb320d2737be18e2715a60"
+    },
+    {
+      "paperId": "805711965e7537f7ed1f2e0d095cfe79331c7dc1"
+    },
+    {
+      "paperId": "6221f1a5bea7b5c72832f08e6553fd63e9708fed"
+    },
+    {
+      "paperId": "99904fe390f1d2ed5e4509046514c756f4ef1fa2"
+    },
+    {
+      "paperId": "9db1a15c1d361604ea02af3cb5dab0732983a7ec"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "413d2281169050d8c946efa1ee3941c47a193277"
+    },
+    {
+      "paperId": "ae13e63c4b2b59234316be16cd7a2c978787cd6f"
+    },
+    {
+      "paperId": "f686524bb88f36e877433c0732685a21c7367897"
+    },
+    {
+      "paperId": "70574d07609c69502213b53ef839b89ffa9373d4"
+    },
+    {
+      "paperId": "63a5eac8d106a2aa860cef865058a8b97903b709"
+    },
+    {
+      "paperId": "0c55204ae0bd872a5f59a2689c7aa3a13ebeb903"
+    },
+    {
+      "paperId": "fddf9b60f24bb2a3381add2485d06576024236a2"
+    },
+    {
+      "paperId": "4398375aa036a755765cb1dd885226ce18797ee4"
+    },
+    {
+      "paperId": "cffe1141c3b1bf81d0303199c5e94152b8384801"
+    },
+    {
+      "paperId": "3af2d34cca85244ead2d4be994ea074a05d43656"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

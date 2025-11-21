@@ -1,0 +1,39 @@
+{
+  "paperId": "f44a1a6e3eae96e54104d3ba2adf74f3f2e2b22e",
+  "externalIds": {
+    "DBLP": "journals/jcp/TangM14",
+    "MAG": "2075053992",
+    "DOI": "10.4304/jcp.9.8.1946-1951",
+    "CorpusId": 17728980
+  },
+  "url": "https://www.semanticscholar.org/paper/f44a1a6e3eae96e54104d3ba2adf74f3f2e2b22e",
+  "title": "Extraction and Analysis of Farmland Objects in Hyperspectral Images",
+  "venue": "Journal of Computers",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4304/jcp.9.8.1946-1951?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4304/jcp.9.8.1946-1951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2458143",
+      "name": "Jinglei Tang"
+    },
+    {
+      "authorId": "3058089",
+      "name": "Ronghui Miao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

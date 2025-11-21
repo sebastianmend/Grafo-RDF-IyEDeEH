@@ -1,0 +1,43 @@
+{
+  "paperId": "aae9c28e707ec9fe1dda84d042d8146c67310f19",
+  "externalIds": {
+    "MAG": "2048296018",
+    "DBLP": "journals/adhoc/DongVI13",
+    "DOI": "10.1016/j.adhoc.2012.06.012",
+    "CorpusId": 14150905
+  },
+  "url": "https://www.semanticscholar.org/paper/aae9c28e707ec9fe1dda84d042d8146c67310f19",
+  "title": "Autonomous precision agriculture through integration of wireless underground sensor networks with center pivot irrigation systems",
+  "venue": "Ad hoc networks",
+  "year": 2013,
+  "citationCount": 252,
+  "influentialCitationCount": 18,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.adhoc.2012.06.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.adhoc.2012.06.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51004257",
+      "name": "Xin Dong"
+    },
+    {
+      "authorId": "29777554",
+      "name": "M. Vuran"
+    },
+    {
+      "authorId": "2684806",
+      "name": "S. Irmak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

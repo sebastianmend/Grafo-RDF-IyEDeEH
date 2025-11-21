@@ -1,0 +1,55 @@
+{
+  "paperId": "60d4e037aae288f0683d43d9ab22366db2141fc8",
+  "externalIds": {
+    "MAG": "2266867889",
+    "DOI": "10.2991/ETMHS-16.2016.160",
+    "CorpusId": 130598328
+  },
+  "url": "https://www.semanticscholar.org/paper/60d4e037aae288f0683d43d9ab22366db2141fc8",
+  "title": "Analysis of rural landscape pattern based on GIS in Yanqing, Beijing",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.atlantis-press.com/article/25849369.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ETMHS-16.2016.160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ETMHS-16.2016.160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2110591152",
+      "name": "Qun Zhao"
+    },
+    {
+      "authorId": "2108519010",
+      "name": "Xiao-yan Ma"
+    },
+    {
+      "authorId": "7690265",
+      "name": "Zhuowei Hu"
+    }
+  ],
+  "abstract": "In recent years, as the process of urbanization in china become fast,the new rural construction has a great impact on the original rural landscape pattern and appearance all over the country.How to protect the rural landscape in the new rural construction is the most concern of scholars. Introduction In the suburbs of Beijing City, rural areas are in the process of transforming from traditional agricultural landscape to modern agricultural landscape, and the rural landscape construction is facing a new opportunity.Such as, rural natural landscape and cultural landscape, from the suburbs to the outer suburbs, and Tazono Kanhikaru, orchard, forest tourism, \"peasant music\", folk culture, rural tourism develop rapidly.This is not only an effective way to promote the adjustment of local rural industrial structure, economic development and farmers to get rich, but also on the outskirts of the city of rural development has a strong impact. Therefore, the research and analysis of landscape pattern of Yanqing Sihai Town, can provide reference for the new rural development and planning. The forest resources of Sihai Town are abundant, the vegetation is lush, the forest cover rate is 79.42%.The average temperature of Sihai Town is 4 degrees, annual rainfall is 700 550 mm.Fresh air, pleasant climate, it is a place for summer holidays and leisure tourism. Image Data Processing Image data include 2004 SPOT 5 and 2010 GeoEye 1 satellite remote sensing image data, 2005 Landse data, DEM data, Contour distribution data and national basic geographic data (including road, traffic, water system, residents, etc.) . Based on 10 m spatial resolution DEM data,through selecting some ground control points in the image,using the digital elevation model(DEM), correction of tilt correction and projection correction carried on to the image.Sampling the image into a normal shot. Mosaic multiple image into one.Through color balance, in a certain range of cutting out of the image is a positive image. Through image fusion, ortho rectification, image registration and image mosaic, Image preprocessing is done. Through setting points, lines, and planes,the vector of the image is completed. Choose a reasonable color scheme,according to the method of visual interpretation, the distribution map of land use types was obtained by correlation analysis. At last field survey and precision verification must be done. According to the distribution of sampling points, design sampling route, Land use types recorded at sampling points, through GPS positioning, according to field survey data on land use types verificate accuracy.According to land use types, Landscape is classificated . 2nd International Conference on Education Technology, Management and Humanities Science (ETMHS 2016) © 2016. The authors Published by Atlantis Press 726 Landscape Index Calculation Using FRAGSTATS 4.2 software, the main elements of rural landscape types is calculated.It is including CA,PLAND,LPI,LSI,PLADJ. Table1 The numerical value of landscape elements in Sihai (2004,2010) Index Year Cultivated land landscappe Garden landscape Woodland landscape Grassland landscape Water landscape Settlement landscape Road landscape Unused land landscape CA 2004 1456.1848 1.5834 7626.0545 654.7138 108.4825 161.3766 78.3074 34.3643 201",
+  "references": [
+    {
+      "paperId": "94074e7d431b46df3505e53c2784a5eef47348f3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

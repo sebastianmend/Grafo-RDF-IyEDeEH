@@ -1,0 +1,50 @@
+{
+  "paperId": "aa3dd274393c615269a90534cdb5114a879ba361",
+  "externalIds": {
+    "MAG": "1573799028",
+    "DOI": "10.1109/CEWIT.2011.6163052",
+    "CorpusId": 31858226
+  },
+  "url": "https://www.semanticscholar.org/paper/aa3dd274393c615269a90534cdb5114a879ba361",
+  "title": "Infrastructure for data-driven agriculture: identifying management zones for cotton using statistical modeling and machine learning techniques",
+  "venue": "2011 8th International Conference & Expo on Emerging Technologies for a Smarter World",
+  "year": 2011,
+  "citationCount": 29,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CEWIT.2011.6163052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CEWIT.2011.6163052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2286829555",
+      "name": "Edmund W. Schuster"
+    },
+    {
+      "authorId": "2155294782",
+      "name": "Sumeet Kumar"
+    },
+    {
+      "authorId": "2286848246",
+      "name": "Sanjay E. Sarma"
+    },
+    {
+      "authorId": "49473090",
+      "name": "J. Willers"
+    },
+    {
+      "authorId": "1827805",
+      "name": "G. Milliken"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,59 @@
+{
+  "paperId": "12bdfc6352b5d29b802237c3c55f6a6e527d7245",
+  "externalIds": {
+    "DBLP": "conf/ammds/GonzalezSWBMBG14",
+    "MAG": "70176361",
+    "DOI": "10.1007/978-3-319-13323-2_9",
+    "CorpusId": 43397741
+  },
+  "url": "https://www.semanticscholar.org/paper/12bdfc6352b5d29b802237c3c55f6a6e527d7245",
+  "title": "A Wireless Sensor Network Application with Distributed Processing in the Compressed Domain",
+  "venue": "International Workshop on Activity Monitoring by Multiple Distributed Sensing",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-13323-2_9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-13323-2_9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2110160008",
+      "name": "Mauricio González"
+    },
+    {
+      "authorId": "3084495",
+      "name": "Javier Schandy"
+    },
+    {
+      "authorId": "52238227",
+      "name": "N. Wainstein"
+    },
+    {
+      "authorId": "37335063",
+      "name": "Martín Bertrán"
+    },
+    {
+      "authorId": "144323649",
+      "name": "Natalia Martínez"
+    },
+    {
+      "authorId": "2770674",
+      "name": "L. Barboni"
+    },
+    {
+      "authorId": "2072830348",
+      "name": "Álvaro Gómez"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

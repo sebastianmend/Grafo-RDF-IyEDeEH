@@ -1,0 +1,55 @@
+{
+  "paperId": "521ea177ec42286740d824115eb8e23c9b298770",
+  "externalIds": {
+    "MAG": "141767116",
+    "DBLP": "conf/acivs/MontalvoGRGCP13",
+    "DOI": "10.1007/978-3-319-02895-8_4",
+    "CorpusId": 28018951
+  },
+  "url": "https://www.semanticscholar.org/paper/521ea177ec42286740d824115eb8e23c9b298770",
+  "title": "Acquisition of Agronomic Images with Sufficient Quality by Automatic Exposure Time Control and Histogram Matching",
+  "venue": "Advanced Concepts for Intelligent Vision Systems Conference",
+  "year": 2013,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-02895-8_4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-02895-8_4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144628800",
+      "name": "M. Montalvo"
+    },
+    {
+      "authorId": "143625323",
+      "name": "J. M. Guerrero"
+    },
+    {
+      "authorId": "145833020",
+      "name": "J. Romeo"
+    },
+    {
+      "authorId": "35050981",
+      "name": "M. Guijarro"
+    },
+    {
+      "authorId": "3463811",
+      "name": "J. M. Cruz"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

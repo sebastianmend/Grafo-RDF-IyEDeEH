@@ -1,0 +1,58 @@
+{
+  "paperId": "3c9ae049cfbb06045f8e7741266460362d0a44f4",
+  "externalIds": {
+    "MAG": "2045515788",
+    "DOI": "10.1109/PARCOMPTECH.2013.6621399",
+    "CorpusId": 15115986
+  },
+  "url": "https://www.semanticscholar.org/paper/3c9ae049cfbb06045f8e7741266460362d0a44f4",
+  "title": "Data mining and wireless sensor network for groundnut pest/disease precision protection",
+  "venue": "2013 National Conference on Parallel Computing Technologies (PARCOMPTECH)",
+  "year": 2013,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PARCOMPTECH.2013.6621399?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PARCOMPTECH.2013.6621399, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1778219",
+      "name": "A. Tripathy"
+    },
+    {
+      "authorId": "2382081",
+      "name": "J. Adinarayana"
+    },
+    {
+      "authorId": "145586719",
+      "name": "S. Merchant"
+    },
+    {
+      "authorId": "2249205637",
+      "name": "U. Desai"
+    },
+    {
+      "authorId": "2257292243",
+      "name": "Seishi Ninomiya"
+    },
+    {
+      "authorId": "34635003",
+      "name": "M. Hirafuji"
+    },
+    {
+      "authorId": "2980944",
+      "name": "T. Kiura"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

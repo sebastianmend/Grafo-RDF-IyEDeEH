@@ -1,0 +1,154 @@
+{
+  "paperId": "cd5c6ef21355b24d2c8d64c15318a5ca89c3ffa7",
+  "externalIds": {
+    "MAG": "2043294670",
+    "DOI": "10.5194/ISPRSARCHIVES-XL-7-1-2014",
+    "CorpusId": 54712697
+  },
+  "url": "https://www.semanticscholar.org/paper/cd5c6ef21355b24d2c8d64c15318a5ca89c3ffa7",
+  "title": "Introduction and preliminary results of a calibration for full-frame hyperspectral cameras to monitor agricultural crops with UAVs",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-7/1/2014/isprsarchives-XL-7-1-2014.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRSARCHIVES-XL-7-1-2014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRSARCHIVES-XL-7-1-2014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1892379",
+      "name": "H. Aasen"
+    },
+    {
+      "authorId": "48129880",
+      "name": "J. Bendig"
+    },
+    {
+      "authorId": "32054757",
+      "name": "A. Bolten"
+    },
+    {
+      "authorId": "1811955",
+      "name": "Simon Bennertz"
+    },
+    {
+      "authorId": "79491171",
+      "name": "Maximilian Willkomm"
+    },
+    {
+      "authorId": "2801990",
+      "name": "G. Bareth"
+    }
+  ],
+  "abstract": "Abstract. Hyperspectral remote sensing helps to acquire information about the status of agricultural crops to allow optimized management practices in the context of precision agriculture. Due to technological innovations small and lightweight hyperspectral sensors have become available which may be carried by unmanned aerial vehicles (UAVs). In this paper we give a brief overview over existing hyperspectral sensors for UAVs. We focus on a new type of full-frame sensors which capture hyperspectral information in two dimensional image frames. We then develop a calibration procedure for these sensors and identify challenges in remote sensing of vegetation. The calibration is evaluate by in-field data acquired during a flight campaign. The spectral calibration shows good results with less than three percent difference in reflection for 110 of the 125 bands (458 to 886 nm).",
+  "references": [
+    {
+      "paperId": "02f498a7242fce3a3185f1f50332fbdaa8e152c9"
+    },
+    {
+      "paperId": "83df4ec3b8f6a851509c2b46000163e9e629f07e"
+    },
+    {
+      "paperId": "af186a8f3f88ca3953b28267e4706dfaf528ab8b"
+    },
+    {
+      "paperId": "40bc8561d8776fe6820d486a2f2139291de21d53"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "5a446e840c2a5851f5046ded66ee012cb21a4229"
+    },
+    {
+      "paperId": "9308b27baf24b4f389fb54e17b629c21e263e1b5"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "f3f3840051645c83bd80f31bd4f81b34a9c35862"
+    },
+    {
+      "paperId": "029c5841b3fc010f55b604d7d1c541adb0e4a782"
+    },
+    {
+      "paperId": "d353d4b04d5bce84ed3ccdf5ce59e3ecf00217fa"
+    },
+    {
+      "paperId": "3b350fb33ab840918c87d8383e67a6c6864a1176"
+    },
+    {
+      "paperId": "d1003fcb8a3938cc976642cd21730888fb6703d6"
+    },
+    {
+      "paperId": "d60f337025f67823b3549f4cf6e02048885d0761"
+    },
+    {
+      "paperId": "0368918cf05ac1937b841cf7ba5b2a6c15dab506"
+    },
+    {
+      "paperId": "fd589aff759cfdb92d60f91dbb5844d3d6000a8f"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "10d986726000e7038b21f6b8a856765127b1d593"
+    },
+    {
+      "paperId": "3162484c77821df00b22cd9ddbd9477199ae2b78"
+    },
+    {
+      "paperId": "edd90b2e8da024163c96d5fb4f2a94a338e3a3f3"
+    },
+    {
+      "paperId": "8f547caac0d2079ba86d1f6ef267c593b01febad"
+    },
+    {
+      "paperId": "9c7623d015cb47012792dce79c3ceaa1fd78da23"
+    },
+    {
+      "paperId": "42854acb4f350b28479d255b37c7168ae4237b96"
+    },
+    {
+      "paperId": "71a49a994af22a6996460cc1e886569ee858ffd3"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "16ba13d5be8f899de362ca784dfcb087c43347eb"
+    },
+    {
+      "paperId": "081ab5a5e28e54a2a869493600154e47ac5affe2"
+    },
+    {
+      "paperId": "479bdb0223b4d2898e1776ef74eabbda532a7c15"
+    },
+    {
+      "paperId": "a0efc8c94de0c0e0c26fea0d5afdeaa6227d14fb"
+    },
+    {
+      "paperId": "0128272af5d7dc50634109e4e96ee30b21ce581d"
+    },
+    {
+      "paperId": "70e223e48ae22c856780f7f3771fe6bfd287c8b5"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

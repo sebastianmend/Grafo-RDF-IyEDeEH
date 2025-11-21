@@ -1,0 +1,43 @@
+{
+  "paperId": "e9d8c0896229a3ddca28ac3cce58653001240ed3",
+  "externalIds": {
+    "MAG": "2033480243",
+    "DOI": "10.1109/CICN.2012.210",
+    "CorpusId": 13146650
+  },
+  "url": "https://www.semanticscholar.org/paper/e9d8c0896229a3ddca28ac3cce58653001240ed3",
+  "title": "Wireless Sensor Networks: Apple Farming in Northern India",
+  "venue": "2012 Fourth International Conference on Computational Intelligence and Communication Networks",
+  "year": 2012,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CICN.2012.210?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CICN.2012.210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "150248692",
+      "name": "N. Rajput"
+    },
+    {
+      "authorId": "2285925201",
+      "name": "Niketa Gandhi"
+    },
+    {
+      "authorId": "2135165390",
+      "name": "L. Saxena"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

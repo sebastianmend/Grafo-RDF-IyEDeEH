@@ -1,0 +1,40 @@
+{
+  "paperId": "da1440e66d68b6bf033d89c7ced428ce5f6db9e4",
+  "externalIds": {
+    "MAG": "1223950695",
+    "DOI": "10.1007/s11248-012-9670-7",
+    "CorpusId": 10715678,
+    "PubMed": "23117588"
+  },
+  "url": "https://www.semanticscholar.org/paper/da1440e66d68b6bf033d89c7ced428ce5f6db9e4",
+  "title": "UC Davis transgenic animal research conference VIII",
+  "venue": "Transgenic research",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11248-012-9670-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11248-012-9670-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4315041",
+      "name": "G. Laible"
+    },
+    {
+      "authorId": "2298310",
+      "name": "S. Fahrenkrug"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

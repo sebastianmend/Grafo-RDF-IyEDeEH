@@ -1,0 +1,29 @@
+{
+  "paperId": "65b11bc8471ba6edd540e68bc7a50ebf9d02eb6e",
+  "externalIds": {
+    "MAG": "2013924437",
+    "DOI": "10.1109/ICMTMA.2014.133",
+    "CorpusId": 264602540
+  },
+  "url": "https://www.semanticscholar.org/paper/65b11bc8471ba6edd540e68bc7a50ebf9d02eb6e",
+  "title": "Research on the Rice Counting Method Based on Connected Component Labeling",
+  "venue": "2014 Sixth International Conference on Measuring Technology and Mechatronics Automation",
+  "year": 2014,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMTMA.2014.133?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMTMA.2014.133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "10382df92091357a5c8ef29fd0f7c2f4f2e12cce",
+  "externalIds": {
+    "MAG": "2035996896",
+    "DOI": "10.1109/ICISCON.2013.6524164",
+    "CorpusId": 15488356
+  },
+  "url": "https://www.semanticscholar.org/paper/10382df92091357a5c8ef29fd0f7c2f4f2e12cce",
+  "title": "Application of computer vision and color image segmentation for yield prediction precision",
+  "venue": "2013 International Conference on Information Systems and Computer Networks",
+  "year": 2013,
+  "citationCount": 28,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISCON.2013.6524164?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISCON.2013.6524164, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9405046",
+      "name": "R. S. Sarkate"
+    },
+    {
+      "authorId": "1818430",
+      "name": "N. Kalyankar"
+    },
+    {
+      "authorId": "9196808",
+      "name": "P. Khanale"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

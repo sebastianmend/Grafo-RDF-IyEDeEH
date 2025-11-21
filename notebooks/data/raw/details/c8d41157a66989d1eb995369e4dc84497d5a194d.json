@@ -1,0 +1,40 @@
+{
+  "paperId": "c8d41157a66989d1eb995369e4dc84497d5a194d",
+  "externalIds": {
+    "MAG": "2158365090",
+    "DBLP": "conf/incdm/RussK11",
+    "DOI": "10.1007/978-3-642-23184-1_13",
+    "CorpusId": 28032856
+  },
+  "url": "https://www.semanticscholar.org/paper/c8d41157a66989d1eb995369e4dc84497d5a194d",
+  "title": "Exploratory Hierarchical Clustering for Management Zone Delineation in Precision Agriculture",
+  "venue": "Industrial Conference on Data Mining",
+  "year": 2011,
+  "citationCount": 31,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-23184-1_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-23184-1_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "32349706",
+      "name": "G. Ruß"
+    },
+    {
+      "authorId": "1718723",
+      "name": "R. Kruse"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

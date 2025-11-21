@@ -1,0 +1,47 @@
+{
+  "paperId": "c97253dbefb23c5fdee3688290e33f54c8bbc984",
+  "externalIds": {
+    "DBLP": "journals/jaihc/GuanWCZ16",
+    "MAG": "1122121225",
+    "DOI": "10.1007/s12652-015-0314-7",
+    "CorpusId": 37343274
+  },
+  "url": "https://www.semanticscholar.org/paper/c97253dbefb23c5fdee3688290e33f54c8bbc984",
+  "title": "Design and implementation of wireless monitoring network for temperature-humidity measurement",
+  "venue": "Journal of Ambient Intelligence and Humanized Computing",
+  "year": 2015,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12652-015-0314-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12652-015-0314-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145426191",
+      "name": "Wei Guan"
+    },
+    {
+      "authorId": "2144491837",
+      "name": "Cheng Wang"
+    },
+    {
+      "authorId": "2116972608",
+      "name": "Yiqiao Cai"
+    },
+    {
+      "authorId": "2143460082",
+      "name": "Huizhen Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

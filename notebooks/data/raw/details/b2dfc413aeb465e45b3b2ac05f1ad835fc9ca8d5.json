@@ -1,0 +1,43 @@
+{
+  "paperId": "b2dfc413aeb465e45b3b2ac05f1ad835fc9ca8d5",
+  "externalIds": {
+    "DBLP": "journals/ijsnet/IslamAH15",
+    "MAG": "2188204400",
+    "DOI": "10.1504/IJSNET.2015.070405",
+    "CorpusId": 38867421
+  },
+  "url": "https://www.semanticscholar.org/paper/b2dfc413aeb465e45b3b2ac05f1ad835fc9ca8d5",
+  "title": "Energy-efficient multilayer routing protocol for SPMIPv6-based IP-WSN",
+  "venue": "Int. J. Sens. Networks",
+  "year": 2015,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1504/IJSNET.2015.070405?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1504/IJSNET.2015.070405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3309048",
+      "name": "Md. Motaharul Islam"
+    },
+    {
+      "authorId": "1398015195",
+      "name": "M. Abdullah-Al-Wadud"
+    },
+    {
+      "authorId": "1705900",
+      "name": "Eui-nam Huh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

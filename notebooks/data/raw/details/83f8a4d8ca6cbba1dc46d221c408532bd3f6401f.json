@@ -1,0 +1,55 @@
+{
+  "paperId": "83f8a4d8ca6cbba1dc46d221c408532bd3f6401f",
+  "externalIds": {
+    "MAG": "1585011418",
+    "DOI": "10.1109/ICIIECS.2015.7193070",
+    "CorpusId": 18638424
+  },
+  "url": "https://www.semanticscholar.org/paper/83f8a4d8ca6cbba1dc46d221c408532bd3f6401f",
+  "title": "Survey of unsupervised machine learning algorithms on precision agricultural data",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2112149878",
+      "name": "Parth Mehta"
+    },
+    {
+      "authorId": "2118313690",
+      "name": "Hetasha Shah"
+    },
+    {
+      "authorId": "49579958",
+      "name": "Vineet Kori"
+    },
+    {
+      "authorId": "9199129",
+      "name": "Vivek Vikani"
+    },
+    {
+      "authorId": "2068181952",
+      "name": "Soumya Shukla"
+    },
+    {
+      "authorId": "46681297",
+      "name": "Mihir Shenoy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

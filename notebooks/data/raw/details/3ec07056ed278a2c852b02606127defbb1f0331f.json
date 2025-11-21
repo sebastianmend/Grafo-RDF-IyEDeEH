@@ -1,0 +1,42 @@
+{
+  "paperId": "3ec07056ed278a2c852b02606127defbb1f0331f",
+  "externalIds": {
+    "MAG": "2089073166",
+    "DOI": "10.1109/IMCCC.2014.153",
+    "CorpusId": 25866866
+  },
+  "url": "https://www.semanticscholar.org/paper/3ec07056ed278a2c852b02606127defbb1f0331f",
+  "title": "Design of Multi-parameter Wireless Sensor Network Monitoring System in Precision Agriculture",
+  "venue": "2014 Fourth International Conference on Instrumentation and Measurement, Computer, Communication and Control",
+  "year": 2014,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IMCCC.2014.153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IMCCC.2014.153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2089841447",
+      "name": "Wang Yitong"
+    },
+    {
+      "authorId": "9169742",
+      "name": "Shi Yunbo"
+    },
+    {
+      "authorId": "30944141",
+      "name": "Yu Xiaoyu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,277 @@
+{
+  "paperId": "5c61143c825b82373e368e66ba16ff51df2bb455",
+  "externalIds": {
+    "MAG": "2019894796",
+    "PubMedCentral": "4138211",
+    "DOI": "10.1371/journal.pone.0105519",
+    "CorpusId": 11370807,
+    "PubMed": "25137066"
+  },
+  "url": "https://www.semanticscholar.org/paper/5c61143c825b82373e368e66ba16ff51df2bb455",
+  "title": "Digital Mapping of Soil Organic Carbon Contents and Stocks in Denmark",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 294,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0105519&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4138211, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5501171",
+      "name": "K. Adhikari"
+    },
+    {
+      "authorId": "35212391",
+      "name": "A. Hartemink"
+    },
+    {
+      "authorId": "2526638",
+      "name": "B. Minasny"
+    },
+    {
+      "authorId": "12577733",
+      "name": "R. Bou Kheir"
+    },
+    {
+      "authorId": "33446450",
+      "name": "M. Greve"
+    },
+    {
+      "authorId": "2751606",
+      "name": "M. Greve"
+    }
+  ],
+  "abstract": "Estimation of carbon contents and stocks are important for carbon sequestration, greenhouse gas emissions and national carbon balance inventories. For Denmark, we modeled the vertical distribution of soil organic carbon (SOC) and bulk density, and mapped its spatial distribution at five standard soil depth intervals (0−5, 5−15, 15−30, 30−60 and 60−100 cm) using 18 environmental variables as predictors. SOC distribution was influenced by precipitation, land use, soil type, wetland, elevation, wetness index, and multi-resolution index of valley bottom flatness. The highest average SOC content of 20 g kg−1 was reported for 0−5 cm soil, whereas there was on average 2.2 g SOC kg−1 at 60−100 cm depth. For SOC and bulk density prediction precision decreased with soil depth, and a standard error of 2.8 g kg−1 was found at 60−100 cm soil depth. Average SOC stock for 0−30 cm was 72 t ha−1 and in the top 1 m there was 120 t SOC ha−1. In total, the soils stored approximately 570 Tg C within the top 1 m. The soils under agriculture had the highest amount of carbon (444 Tg) followed by forest and semi-natural vegetation that contributed 11% of the total SOC stock. More than 60% of the total SOC stock was present in Podzols and Luvisols. Compared to previous estimates, our approach is more reliable as we adopted a robust quantification technique and mapped the spatial distribution of SOC stock and prediction uncertainty. The estimation was validated using common statistical indices and the data and high-resolution maps could be used for future soil carbon assessment and inventories.",
+  "references": [
+    {
+      "paperId": "147b68c3c543a4b8870ae08827b09252166d1638"
+    },
+    {
+      "paperId": "f9caf3de062e69c9ef79d52a4f19aad3ce6bd6bf"
+    },
+    {
+      "paperId": "312672d26ccd58f6db6570534f6c602083a8adfc"
+    },
+    {
+      "paperId": "62e8c1457a9977fd07da6bce413260dabf09faab"
+    },
+    {
+      "paperId": "3c2927ec1caef0d6142b89d6e6e12efbff38eb11"
+    },
+    {
+      "paperId": "36551016a77298c9479ae764106f0d6fb0958290"
+    },
+    {
+      "paperId": "14d1ee34822ebd1a7c1d1c88601f222298e78015"
+    },
+    {
+      "paperId": "72349ef17c5546e6292753fc4e5386db62907810"
+    },
+    {
+      "paperId": "8305083ab3b6a7ff82f7bcb1f837a871a55f176d"
+    },
+    {
+      "paperId": "f3238b45f222aefec880a9018d7f6f33609476cb"
+    },
+    {
+      "paperId": "9925669469d2ff94912eccf028a587d893074130"
+    },
+    {
+      "paperId": "9c1407536af2252b27b40538f34527af02da73ba"
+    },
+    {
+      "paperId": "c89d081614079b79ca807fa18f34c89c550855d7"
+    },
+    {
+      "paperId": "57a444f1af168232968829f35827de7cc162e1b6"
+    },
+    {
+      "paperId": "76f5e85b66e7dea21fe20e64699cf5542a9d7d9f"
+    },
+    {
+      "paperId": "2f972ca4882a50878fc3952cc51a996d83d12dde"
+    },
+    {
+      "paperId": "6c1879dc35d68343d6f079fb07782bc0c1dbb676"
+    },
+    {
+      "paperId": "0c7ecbdb2e6e8ebaeccc284af7af9c4e16fc0d7f"
+    },
+    {
+      "paperId": "9497b366536f71026b666fd441496907bb37a6f2"
+    },
+    {
+      "paperId": "c414160f6760dbf32fa49852aca69281b01bc03a"
+    },
+    {
+      "paperId": "97ab1d713ebccbed918ff5da475d410a1e725930"
+    },
+    {
+      "paperId": "2dbdc67e04782777046f4ed1684c0f0f4fb5b163"
+    },
+    {
+      "paperId": "8db48ae71cb95d1a9ba02ef698eeacea8be2a6a0"
+    },
+    {
+      "paperId": "793fb5e743a6609c21e1032c382682a26fdb5b21"
+    },
+    {
+      "paperId": "6ee287e0dbc3443508d4c0e897d6b5ba3da29124"
+    },
+    {
+      "paperId": "886c36e0641152bac788c7a77ca1d1349ba5d76e"
+    },
+    {
+      "paperId": "9503baaaefe04c15b36302ce0a25c6ab1b5fa8d8"
+    },
+    {
+      "paperId": "53099878a9e1e76efddd5a1837481df79c624188"
+    },
+    {
+      "paperId": "836a81a2dea682d5cdb873f2b0c11bf15bc76e38"
+    },
+    {
+      "paperId": "463c424c9149d2a208ff4365f493cec9e1db4f22"
+    },
+    {
+      "paperId": "81bcd83f218c4fb5813cf1976a5afe0473a3971e"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "e18272577598b173dbdca2b27c6c901d11154d99"
+    },
+    {
+      "paperId": "108a730279225bbfc68aa17738f6e87bebd103c7"
+    },
+    {
+      "paperId": "28490fba6c7c8e4061bb03d157cd271738da458c"
+    },
+    {
+      "paperId": "34b34ca1cba40b60b76025368ab3106c60ae0005"
+    },
+    {
+      "paperId": "88b4e1fa5dc9bc6a0c750a68a9c6af4f3af4c542"
+    },
+    {
+      "paperId": "c490c7bfe99089bab0c2d4a4effa25b6b53eac7c"
+    },
+    {
+      "paperId": "13d306a112353b42b36ef08840855d741819eb65"
+    },
+    {
+      "paperId": "bbf54844ee85a3466eb3b71b6c4d3ca6a96f42a3"
+    },
+    {
+      "paperId": "b189335952e1456defcf1c2c860083d7ed316e0d"
+    },
+    {
+      "paperId": "650f5a4464b11b4247f1c7bdbf8fe63eaf71b0ea"
+    },
+    {
+      "paperId": "c4467436c28a551d4ac5b74d1bf39d8ff71ba65f"
+    },
+    {
+      "paperId": "3003e3094bd29199fd4fca57a9d40b93cbd99b6e"
+    },
+    {
+      "paperId": "807c1f19047f96083e13614f7ce20f2ac98c239a"
+    },
+    {
+      "paperId": "aced5cdf01de1ce04f7286527a323fc29d30da55"
+    },
+    {
+      "paperId": "da5443c6919f8182e8e93e0077308b2c12fa9e46"
+    },
+    {
+      "paperId": "9fec83ff309b0ce5c72fb9e3a0f9e4566c843c21"
+    },
+    {
+      "paperId": "b239cc1aede1c03a629d8883264c900aff0b4c91"
+    },
+    {
+      "paperId": "3a79d5ad9c64cf85cb735d4a10777a12b0d62a46"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "b3db7c95738605d24b4ce3d00909fb472d3d87a5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c9e0016d025d527e4bb71293bbc81a1840a65d62"
+    },
+    {
+      "paperId": "773df41248b6585a599dc211ba5da465f2249993"
+    },
+    {
+      "paperId": "31dab34769113aa2c4f58e86b40e07573fab4155"
+    },
+    {
+      "paperId": "c81cde56a2c943ac150b2cae6f636293281d009e"
+    },
+    {
+      "paperId": "ac2435098d5cb553b07c091024e66a4466ed4579"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5f82c454518af7f808b307eafb8be07d4f3d0f04"
+    },
+    {
+      "paperId": "9f2248211c54e96627557e4f1e886d13c5665191"
+    },
+    {
+      "paperId": "7feb0fc888cd55360949554db032d7d1cba9e947"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "40b583233bc573bdd7481db128033a5b6bc3bcdc"
+    },
+    {
+      "paperId": "3328334623f548e0b7a05dfe6e81ccaadca0a1c9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

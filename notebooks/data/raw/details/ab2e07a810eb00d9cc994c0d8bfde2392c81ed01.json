@@ -1,0 +1,47 @@
+{
+  "paperId": "ab2e07a810eb00d9cc994c0d8bfde2392c81ed01",
+  "externalIds": {
+    "DBLP": "journals/jzusc/TumenjargalBKH13",
+    "MAG": "2058065700",
+    "DOI": "10.1631/jzus.C1200270",
+    "CorpusId": 207240561
+  },
+  "url": "https://www.semanticscholar.org/paper/ab2e07a810eb00d9cc994c0d8bfde2392c81ed01",
+  "title": "Embedded software and hardware implementation system for a human machine interface based on ISOAgLib",
+  "venue": "Journal of Zhejiang University SCIENCE C",
+  "year": 2013,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1631/jzus.C1200270?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1631/jzus.C1200270, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2224794",
+      "name": "E. Tumenjargal"
+    },
+    {
+      "authorId": "2265505",
+      "name": "L. Badarch"
+    },
+    {
+      "authorId": "1754617",
+      "name": "Hyeokjae Kwon"
+    },
+    {
+      "authorId": "40400999",
+      "name": "W. Ham"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

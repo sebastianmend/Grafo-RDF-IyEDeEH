@@ -1,0 +1,44 @@
+{
+  "paperId": "c863d485847c15a0915bd0cf9c20e8a077b629f4",
+  "externalIds": {
+    "MAG": "2058012413",
+    "DBLP": "conf/comsnets/ShuklaSK14",
+    "DOI": "10.1109/COMSNETS.2014.6734884",
+    "CorpusId": 15022721
+  },
+  "url": "https://www.semanticscholar.org/paper/c863d485847c15a0915bd0cf9c20e8a077b629f4",
+  "title": "Maximizing transported data before partition in a wireless sensor network",
+  "venue": "International Conference on Communication Systems and Networks",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMSNETS.2014.6734884?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMSNETS.2014.6734884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2284258",
+      "name": "Samta Shukla"
+    },
+    {
+      "authorId": "134756679",
+      "name": "S. Sarma"
+    },
+    {
+      "authorId": "144954593",
+      "name": "J. Kuri"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

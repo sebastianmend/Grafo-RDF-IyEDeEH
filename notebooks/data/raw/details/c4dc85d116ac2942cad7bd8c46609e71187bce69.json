@@ -1,0 +1,179 @@
+{
+  "paperId": "c4dc85d116ac2942cad7bd8c46609e71187bce69",
+  "externalIds": {
+    "PubMedCentral": "4445320",
+    "MAG": "1567980320",
+    "DOI": "10.3389/fpls.2015.00375",
+    "CorpusId": 15358190,
+    "PubMed": "26074938"
+  },
+  "url": "https://www.semanticscholar.org/paper/c4dc85d116ac2942cad7bd8c46609e71187bce69",
+  "title": "Function genomics of abiotic stress tolerance in plants: a CRISPR approach",
+  "venue": "Frontiers in Plant Science",
+  "year": 2015,
+  "citationCount": 71,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2015.00375/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4445320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2150986846",
+      "name": "Mukesh Jain"
+    }
+  ],
+  "abstract": "Various abiotic stresses, such as drought, salinity, heat, flooding, ion toxicity and radiation are the major constraints to agricultural production. The understanding of molecular basis of plant response to these environmental conditions has been a major focus of research in the past decades. Several genes/pathways and regulatory networks involved in stress responses have been worked out employing various approaches. Quite a few of these components have been used for engineering abiotic stress tolerance in model and crop plants via classical biotechnological and/or breeding approaches. Success to generate stress-tolerant plants has been achieved to some extent, which has resulted in increased crop yield (Mickelbart et al., 2015). However, novel strategies are desirable to overcome the limitations of classical methods, such as lack of precision and requirement of substantial time to increase the crop production in the current climate change and ever increasing population scenario. The recent availability of genome editing tools provides ample opportunity to introduce targeted modifications in the genome efficiently to study the functional aspects of various components of the genome in diverse plants and offers potential avenues for production of abiotic stress-tolerant crop plants. \n \nGenome editing tools provide a method for introducing targeted mutation, insertion/deletion (indel) and precise sequence modification using customized nucleases in a wide variety of organisms. Zinc finger nucleases (ZFNs), transcriptional activator-like effector nucleases (TALENs) and clustered regularly interspaced short palindromic repeat (CRISPR)-Cas9 (CRISPR-associated nuclease 9) are the most commonly used genome editing tools (Voytas, 2013; Mahfouz et al., 2014; Kumar and Jain, 2015). In general, these sequence-specific nucleases cause double-strand breaks (DSBs) at the target genomic locus/loci, which is/are repaired by the intracellular repair pathways; nonhomologous end joining (NHEJ) or homology-directed repair (HDR). NHEJ leads to the introduction of indels and HDR can be used to introduce specific point mutations or insertion of desired sequences (such as tags or new domains) via recombination. Owing to the simplicity of programming, CRISPR-Cas9 system has opened a plethora of options for genome editing in various biological contexts. Here, we highlight the emerging applications and future avenues of CRISPR-Cas9 system to understand the biology of abiotic stress tolerance in plants.",
+  "references": [
+    {
+      "paperId": "8ae6b47154e9596e5b7a11c4293271efbc2a2482"
+    },
+    {
+      "paperId": "4437e9310d9810c5e385eb7ed311d5aeb3e5d7e6"
+    },
+    {
+      "paperId": "12ce5404b30ad39f8d4df75fe2913f0d9da13648"
+    },
+    {
+      "paperId": "f2192be5852162aee7fd77dcd3b730edf914e71e"
+    },
+    {
+      "paperId": "2bfd2370ce09b661073c4272ac832e1334d1f14d"
+    },
+    {
+      "paperId": "6e315fe9f4b24640d93b67cd6b485843deacc1a6"
+    },
+    {
+      "paperId": "3324e7de1b38bda020ab910d91d17fea41d78b73"
+    },
+    {
+      "paperId": "29c333cc11a28c8f0f83460bd5d5b53908d67bdb"
+    },
+    {
+      "paperId": "f43b53a2182cdf829a7ad79c0c19ab26a3a6faac"
+    },
+    {
+      "paperId": "7a53f047fae337d15ce328acd53c7fbbd71c4df0"
+    },
+    {
+      "paperId": "b6d1230bb36abccd96b410a5f776f650d9362f77"
+    },
+    {
+      "paperId": "db50244db3297a343b9ea120db842f0329169b26"
+    },
+    {
+      "paperId": "538a28e96e7285fa8b474894b37fdfa3dd76665f"
+    },
+    {
+      "paperId": "a0972717ef9a6396042a70462434406bf648d4bc"
+    },
+    {
+      "paperId": "1df205bb906942d40313700e59179c2358b0afd5"
+    },
+    {
+      "paperId": "661d49dddb7470111192c80d7e4ba1a2594c3266"
+    },
+    {
+      "paperId": "9f9797e339c7cde8fbec533c2f068f415134e4e0"
+    },
+    {
+      "paperId": "57fa31aa22aad401372d416dd7573c279ca20f48"
+    },
+    {
+      "paperId": "b244a2bde2b986af2a259a4aa2354f1b1081993f"
+    },
+    {
+      "paperId": "12a0773829f1b48743c8e51b7cbe752eaae6d2f1"
+    },
+    {
+      "paperId": "b909e20d34540c77d51790e7d59f32723796ed19"
+    },
+    {
+      "paperId": "92d7f5432b123198b7f88f4f9b1bd83bce493f76"
+    },
+    {
+      "paperId": "bcc35a6299346a303732212644eaa9294821259b"
+    },
+    {
+      "paperId": "f167402ab3d5deaf6df1373f81967800c124bfc0"
+    },
+    {
+      "paperId": "9cbee48e1ecdf54c87c674bc779e8a53fe6da718"
+    },
+    {
+      "paperId": "50c3b169e729a8f56e8d952a06b73d047cc06233"
+    },
+    {
+      "paperId": "369525574750ff5d7a4de74342610ebe7ca879e8"
+    },
+    {
+      "paperId": "0190d9670dc34b6dc2b9689752643bebb8050944"
+    },
+    {
+      "paperId": "3c80e1c07ea3d94e38c1b5a35f91364f3142c5a8"
+    },
+    {
+      "paperId": "65367984769c4556a05f5d91fb84648290aa3748"
+    },
+    {
+      "paperId": "5bd9a0e7b729bedea35338d4dda58bba415b42d6"
+    },
+    {
+      "paperId": "c5fb3cb9b177bdcb3b44175e89b4e18c8cedf82d"
+    },
+    {
+      "paperId": "d640aa7c5c15fa109f86cca67f30a4af13bf8f3b"
+    },
+    {
+      "paperId": "2d5cb07d38d1aaae853b9187b1d325991e684ebf"
+    },
+    {
+      "paperId": "64321745e6e81bd7bc2e473d4861fa79cd7dd464"
+    },
+    {
+      "paperId": "25f55c23e7a8b30f06e3c4be159d1ff7bbe359b4"
+    },
+    {
+      "paperId": "e080286f9e19ba8736bf8ebb6a576e7ad8140b03"
+    },
+    {
+      "paperId": "9706693fbf62f0f09f6c9e81c603385fb1b30024"
+    },
+    {
+      "paperId": "54cc1f2e86d1913521b466cef19d72ed02b6c800"
+    },
+    {
+      "paperId": "bab70821f19fbaefe3ca13b83cddec65f44d2e82"
+    },
+    {
+      "paperId": "8a77085e07ce058b73a0f0a53fadb512dd6c4e7a"
+    },
+    {
+      "paperId": "b7ae58582ac753008e2483f78a76a444df612489"
+    },
+    {
+      "paperId": "bee5c5f87f3693344f502b05d6086a0d91967944"
+    },
+    {
+      "paperId": "36a0fb9d80118916c6d88ab49f06d7843b2ff904"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "75741d18ee57f3adbcb46df933b67e8b812699f4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

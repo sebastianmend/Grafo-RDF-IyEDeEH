@@ -1,0 +1,48 @@
+{
+  "paperId": "66c78189c5c3ea5496296d40ccf9b55534c2aad8",
+  "externalIds": {
+    "MAG": "2411053280",
+    "DOI": "10.1093/JAOAC/94.3.815",
+    "CorpusId": 33410991,
+    "PubMed": "21797009"
+  },
+  "url": "https://www.semanticscholar.org/paper/66c78189c5c3ea5496296d40ccf9b55534c2aad8",
+  "title": "Determination of fat-soluble vitamins and carotenoids in standard reference material 3280 multivitamin/multielement tablets by liquid chromatography with absorbance detection.",
+  "venue": "Journal of AOAC International",
+  "year": 2011,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jaoac/article-pdf/94/3/815/32442337/jaoac0815.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/JAOAC/94.3.815?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/JAOAC/94.3.815, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "96912425",
+      "name": "J. B. Thomas"
+    },
+    {
+      "authorId": "27819342",
+      "name": "K. Sharpless"
+    },
+    {
+      "authorId": "11767680",
+      "name": "J. Yen"
+    },
+    {
+      "authorId": "3613919",
+      "name": "C. Rimmer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

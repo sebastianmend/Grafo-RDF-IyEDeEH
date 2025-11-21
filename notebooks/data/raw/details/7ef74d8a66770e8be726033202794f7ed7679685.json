@@ -1,0 +1,47 @@
+{
+  "paperId": "7ef74d8a66770e8be726033202794f7ed7679685",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ShiDMW11",
+    "MAG": "1453904665",
+    "DOI": "10.1007/978-3-642-27275-2_29",
+    "CorpusId": 1080544
+  },
+  "url": "https://www.semanticscholar.org/paper/7ef74d8a66770e8be726033202794f7ed7679685",
+  "title": "The Research of Support Vector Machine in Agricultural Data Classification",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 46,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-27275-2_29.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27275-2_29?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27275-2_29, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2117204944",
+      "name": "Lei Shi"
+    },
+    {
+      "authorId": "2225548",
+      "name": "Qiguo Duan"
+    },
+    {
+      "authorId": "7832672",
+      "name": "Xinming Ma"
+    },
+    {
+      "authorId": "2051457",
+      "name": "Mei Weng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

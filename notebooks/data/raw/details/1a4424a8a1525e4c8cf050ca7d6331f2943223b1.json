@@ -1,0 +1,40 @@
+{
+  "paperId": "1a4424a8a1525e4c8cf050ca7d6331f2943223b1",
+  "externalIds": {
+    "MAG": "2079976659",
+    "DBLP": "journals/sensors/Pajares11",
+    "PubMedCentral": "3231513",
+    "DOI": "10.3390/s110908930",
+    "CorpusId": 34709836,
+    "PubMed": "22164113"
+  },
+  "url": "https://www.semanticscholar.org/paper/1a4424a8a1525e4c8cf050ca7d6331f2943223b1",
+  "title": "Advances in Sensors Applied to Agriculture and Forestry",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2011,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/11/9/8930/pdf?version=1403316144",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3231513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Editorial",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    }
+  ],
+  "abstract": "In agriculture and forestry, the need to increase production and the simultaneous efforts to minimize the environmental impact of agricultural production processes and save costs find in sensor systems the best allied tool. The use of sensors helps exploit all available resources appropriately and to apply hazardous products moderately. When nutrients in the soil, humidity, solar radiation, density of weeds and a broad set of factors and data affecting the production are known, this situation improves and the use of chemical products such as fertilizers, herbicides and other pollutants can be reduced considerably. Part of this knowledge allows also monitoring photosynthetic parameters of high relevance for photosynthesis. Most of the associated activities fall within the scope of what it is called Precision Agriculture, an emerging area receiving special attention in recent years. [...]",
+  "references": []
+}

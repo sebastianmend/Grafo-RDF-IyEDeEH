@@ -1,0 +1,43 @@
+{
+  "paperId": "ca75c55c426083bc6f6b0f044ee2e463cead1448",
+  "externalIds": {
+    "DBLP": "conf/igarss/YeomJK15",
+    "MAG": "2000283369",
+    "DOI": "10.1109/IGARSS.2015.7326548",
+    "CorpusId": 19993706
+  },
+  "url": "https://www.semanticscholar.org/paper/ca75c55c426083bc6f6b0f044ee2e463cead1448",
+  "title": "Line-based paddy boundary extraction using the RapidEye satellite image",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2015.7326548?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2015.7326548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1679003",
+      "name": "J. Yeom"
+    },
+    {
+      "authorId": "51002719",
+      "name": "Minyoung Jung"
+    },
+    {
+      "authorId": "2125247150",
+      "name": "Yongil Kim"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

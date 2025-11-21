@@ -1,0 +1,46 @@
+{
+  "paperId": "24b65fcd3a00e6da84571c009740badb15893ec9",
+  "externalIds": {
+    "MAG": "2056462578",
+    "DOI": "10.1109/ICTSD.2015.7095899",
+    "CorpusId": 41651649
+  },
+  "url": "https://www.semanticscholar.org/paper/24b65fcd3a00e6da84571c009740badb15893ec9",
+  "title": "Upliftment of socio-economical life style of farmers through farmer's data network",
+  "venue": "2015 International Conference on Technologies for Sustainable Development (ICTSD)",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICTSD.2015.7095899?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICTSD.2015.7095899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2140523026",
+      "name": "T. R. Patil"
+    },
+    {
+      "authorId": "2069241309",
+      "name": "Rajashekhar G. Patil"
+    },
+    {
+      "authorId": "30734585",
+      "name": "Diwakar Kulkarni"
+    },
+    {
+      "authorId": "9188992",
+      "name": "K. Shamshuddin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

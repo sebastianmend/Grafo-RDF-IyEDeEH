@@ -1,0 +1,50 @@
+{
+  "paperId": "a19ff6b69c9214e73fdce68de4563d96f15dca16",
+  "externalIds": {
+    "MAG": "2003341332",
+    "DOI": "10.1007/s11119-010-9172-7",
+    "CorpusId": 25156340
+  },
+  "url": "https://www.semanticscholar.org/paper/a19ff6b69c9214e73fdce68de4563d96f15dca16",
+  "title": "Mapping and identifying basal stem rot disease in oil palms in North Sumatra with QuickBird imagery",
+  "venue": "Precision Agriculture",
+  "year": 2011,
+  "citationCount": 105,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-010-9172-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-010-9172-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144735718",
+      "name": "Heri Santoso"
+    },
+    {
+      "authorId": "98798414",
+      "name": "T. Gunawan"
+    },
+    {
+      "authorId": "2095644417",
+      "name": "R. Jatmiko"
+    },
+    {
+      "authorId": "21684893",
+      "name": "W. Darmosarkoro"
+    },
+    {
+      "authorId": "2526638",
+      "name": "B. Minasny"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

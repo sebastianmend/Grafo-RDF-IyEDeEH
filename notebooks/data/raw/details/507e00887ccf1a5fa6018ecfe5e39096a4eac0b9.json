@@ -1,0 +1,59 @@
+{
+  "paperId": "507e00887ccf1a5fa6018ecfe5e39096a4eac0b9",
+  "externalIds": {
+    "DOI": "10.1007/s11119-013-9338-1",
+    "CorpusId": 254940845
+  },
+  "url": "https://www.semanticscholar.org/paper/507e00887ccf1a5fa6018ecfe5e39096a4eac0b9",
+  "title": "Timing of precision agriculture technology adoption in US cotton production",
+  "venue": "Precision Agriculture",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-013-9338-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-013-9338-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5985251",
+      "name": "Pattarawan Watcharaanantapong"
+    },
+    {
+      "authorId": "36533476",
+      "name": "R. Roberts"
+    },
+    {
+      "authorId": "20883446",
+      "name": "D. Lambert"
+    },
+    {
+      "authorId": "144573952",
+      "name": "J. Larson"
+    },
+    {
+      "authorId": "2487796",
+      "name": "Margarita Velandia"
+    },
+    {
+      "authorId": "4281393",
+      "name": "B. English"
+    },
+    {
+      "authorId": "2506061",
+      "name": "R. Rejesus"
+    },
+    {
+      "authorId": "6097245",
+      "name": "Chenggang Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

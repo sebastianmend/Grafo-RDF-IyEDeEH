@@ -1,0 +1,153 @@
+{
+  "paperId": "7cee3de7c28d6d95bea9b27322f01fb50952af37",
+  "externalIds": {
+    "PubMedCentral": "4479442",
+    "MAG": "1559528524",
+    "DOI": "10.1371/journal.pone.0130479",
+    "CorpusId": 12650955,
+    "PubMed": "26107174"
+  },
+  "url": "https://www.semanticscholar.org/paper/7cee3de7c28d6d95bea9b27322f01fb50952af37",
+  "title": "High-Throughput 3-D Monitoring of Agricultural-Tree Plantations with Unmanned Aerial Vehicle (UAV) Technology",
+  "venue": "PLoS ONE",
+  "year": 2015,
+  "citationCount": 212,
+  "influentialCitationCount": 16,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130479&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4479442, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1398642053",
+      "name": "J. Torres-Sánchez"
+    },
+    {
+      "authorId": "1396985901",
+      "name": "F. López-Granados"
+    },
+    {
+      "authorId": "122002154",
+      "name": "N. Serrano"
+    },
+    {
+      "authorId": "65881003",
+      "name": "O. Arquero"
+    },
+    {
+      "authorId": "153178981",
+      "name": "J. Peña"
+    }
+  ],
+  "abstract": "The geometric features of agricultural trees such as canopy area, tree height and crown volume provide useful information about plantation status and crop production. However, these variables are mostly estimated after a time-consuming and hard field work and applying equations that treat the trees as geometric solids, which produce inconsistent results. As an alternative, this work presents an innovative procedure for computing the 3-dimensional geometric features of individual trees and tree-rows by applying two consecutive phases: 1) generation of Digital Surface Models with Unmanned Aerial Vehicle (UAV) technology and 2) use of object-based image analysis techniques. Our UAV-based procedure produced successful results both in single-tree and in tree-row plantations, reporting up to 97% accuracy on area quantification and minimal deviations compared to in-field estimations of tree heights and crown volumes. The maps generated could be used to understand the linkages between tree grown and field-related factors or to optimize crop management operations in the context of precision agriculture with relevant agro-environmental implications.",
+  "references": [
+    {
+      "paperId": "102c9017e8b1446593c6230016ec873b1eb70f44"
+    },
+    {
+      "paperId": "669886f1cda6ffcf5cec723ec819d326c47ba3ea"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "f9ca4b7b203836922733480d7dd9de25f1f6eb2b"
+    },
+    {
+      "paperId": "41b0cd3e080d945319424b51eff97082b92aaa24"
+    },
+    {
+      "paperId": "62f73caf2789cbdc2b9d5a9a5c476e211f8b2172"
+    },
+    {
+      "paperId": "ac8d047ec1e33844ec82251c2ded517c990cad7a"
+    },
+    {
+      "paperId": "a14280872980bd4d0d9c05615677aa86a4129e64"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    },
+    {
+      "paperId": "1f1775238d7a8a5fcc52f5f4024313e9cab1bd45"
+    },
+    {
+      "paperId": "909e78e53b950cc3b8d3a1eee4e48432c1ec2cb7"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "652204e3f099356db0292a10142d5e8e6b78f4e4"
+    },
+    {
+      "paperId": "baeb633ce8bacd021c6d2b9d81f8b82a7331786d"
+    },
+    {
+      "paperId": "6cf99ffb530f85784345a7d9e46eb5981df8937c"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "de1c5ac3eb9792ed73ea27c03b0f3ba0b7857af4"
+    },
+    {
+      "paperId": "3a749c335d9ab86fcd900b1c670508ad811461f1"
+    },
+    {
+      "paperId": "25377478d56dff85beb1955da9de4f17422f9659"
+    },
+    {
+      "paperId": "1e093d077f882b6defa68f44f0ff74a4e903d0e8"
+    },
+    {
+      "paperId": "9b6027abf3e02bce5d5adc2764fac47fe1fcf334"
+    },
+    {
+      "paperId": "0a6e2b7f04d09d640573270da67c675272aeed58"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b186f7e630888c9b58b53b3d37865f54b0f24d54"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "014b6f27041a9d597c04483752cbe0125930d2ff"
+    },
+    {
+      "paperId": "b3b69af7880a1f7cf9cb3ec2d02c673b7ff1f173"
+    },
+    {
+      "paperId": "18648407e048086fad9bce8a6fb23c68229fe0d1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

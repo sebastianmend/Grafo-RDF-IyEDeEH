@@ -1,0 +1,121 @@
+{
+  "paperId": "478d00d4c4e721ac552e82e8da89065c88b668ae",
+  "externalIds": {
+    "MAG": "1966517032",
+    "PubMedCentral": "4378135",
+    "DOI": "10.4103/0973-1296.153090",
+    "CorpusId": 33090712,
+    "PubMed": "25829776"
+  },
+  "url": "https://www.semanticscholar.org/paper/478d00d4c4e721ac552e82e8da89065c88b668ae",
+  "title": "Simultaneous quantification of six alkaloid components from commercial stemonae radix by solid phase extraction-high-performance liquid chromatography coupled with evaporative light scattering detector",
+  "venue": "Pharmacognosy Magazine",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc4378135?pdf=render",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4378135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3392077",
+      "name": "Rong-Rong Zhang"
+    },
+    {
+      "authorId": "2093958429",
+      "name": "Dan Lu"
+    },
+    {
+      "authorId": "2149232557",
+      "name": "Zhenya Yang"
+    },
+    {
+      "authorId": "144727118",
+      "name": "Wen Zhao"
+    },
+    {
+      "authorId": "5128359",
+      "name": "P. But"
+    },
+    {
+      "authorId": "143971727",
+      "name": "P. Shaw"
+    },
+    {
+      "authorId": "145167109",
+      "name": "R. Jiang"
+    },
+    {
+      "authorId": "48464971",
+      "name": "Zhi-guo Ma"
+    }
+  ],
+  "abstract": "Background: Stemonae radix has been applied in traditional Chinese medicine for centuries. Alkaloids are the main active ingredient in stemonae radix, so their composition and concentration levels are directly linked to clinic effects. Objective: The objective was to develop an analytical method with multiple markers for quality survey of commercial stemonae radix. Materials and Methods: A method for simultaneous determination of six compounds in commercial stemonae radix was performed using solid-phase extraction and high-performance liquid chromatography coupled with evaporative light scattering detector. The separation was carried out on an Agilent TC-C18 column with 0.1% acetonitrile solution of triethylamine aqueous solution and acetonitrile as the mobile phase under gradient elution within 70 min. The hierarchical clustering analysis (HCA) was successfully used to classify the samples in accordance with their chemical constituents. Results: Linearity (R2 > 0.9990), intra- and inter-day precision (relative standard deviations <4%), limit of detection (0.011–0.086 μg/mL), limit of quantification (0.033–0.259 μg/mL) of the six alkaloids were determined, and the recoveries were between 96.6% and 103.7%. The method was successfully applied to analysis 36 batches of commercial stemonae radix. All the samples could be classified into five clusters by HCA. Conclusion: This article provides an accurate and simple analytical method for quality survey of commercial stemonae radix. Because of the significant chemical variations, careful selection of Stemona sources with obvious antitussive value but devoid of croomine followed by good agricultural practice and good manufacturing practice process is suggested.",
+  "references": [
+    {
+      "paperId": "093e40bdccf40374146fc801b936ad934cad2c97"
+    },
+    {
+      "paperId": "844c3a99ae1632d413d06d0804e4cb2d78738918"
+    },
+    {
+      "paperId": "3f34cb0b900721504640a0c6f96e1dbea1043523"
+    },
+    {
+      "paperId": "626065de7a4c382838edbcdf0beac2bc3c90651e"
+    },
+    {
+      "paperId": "0b0b7eff033e888fbf60fa9ba484b8cd753b1568"
+    },
+    {
+      "paperId": "917dd87f201d6cc725984d0c141522c55293e15b"
+    },
+    {
+      "paperId": "b84a2beedd24bbc8e54a9cd0e34a4ff1b16c8ad4"
+    },
+    {
+      "paperId": "03c97640075e10e5658579e6301a8909bee1cc66"
+    },
+    {
+      "paperId": "0267f7d205da62d74b9c058d0e9b32ed63f3c68c"
+    },
+    {
+      "paperId": "c9a5493ffd282b2e5bf3c87cf94eb73ecc25f2a0"
+    },
+    {
+      "paperId": "0dcc4f2759a3f1efe2a7ec1a54de92d6e377db70"
+    },
+    {
+      "paperId": "7e5b05d26bf2578af35fbb88401a3cf8648d9da5"
+    },
+    {
+      "paperId": "6620ed1e128b886103506f6edbe52ceb2390dad7"
+    },
+    {
+      "paperId": "808cdd81ae058f35e560b77600a5d7ac5d56d88e"
+    },
+    {
+      "paperId": "7e1b13448dc0bbeb73bbfc68fd5d1641184252fa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

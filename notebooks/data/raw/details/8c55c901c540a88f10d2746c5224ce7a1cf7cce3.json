@@ -1,0 +1,120 @@
+{
+  "paperId": "8c55c901c540a88f10d2746c5224ce7a1cf7cce3",
+  "externalIds": {
+    "MAG": "1510036639",
+    "DOI": "10.5772/60688",
+    "CorpusId": 60796822
+  },
+  "url": "https://www.semanticscholar.org/paper/8c55c901c540a88f10d2746c5224ce7a1cf7cce3",
+  "title": "Additional Yaw Moment Control of a 4WIS and 4WID Agricultural Data Acquisition Vehicle",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5772/60688",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/60688?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/60688, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2113405221",
+      "name": "Dawei Jiang"
+    },
+    {
+      "authorId": "66049481",
+      "name": "Li Danhua"
+    },
+    {
+      "authorId": "2108751897",
+      "name": "Sanzhou Wang"
+    },
+    {
+      "authorId": "145088386",
+      "name": "L. Tian"
+    },
+    {
+      "authorId": "2143921410",
+      "name": "Liangcheng Yang"
+    }
+  ],
+  "abstract": "A four-wheel independent steering (4WIS) and a four-wheel independent driving (4WID) agricultural data acquisition vehicle (ADAV) system was designed to monitor and manage the growing status of bio-energy crops. To avoid destroying crops, a changeable wheel gauge and high-clearance design was employed, which brought new problems to the ADAV system: reduced path-following precision and driving stability. Given the dynamic characteristics of the ADAV system, an additional yaw moment control (AYC) system was designed to achieve high path-following precision and stability of the ADAV system. Using the input steering wheel angle and driving speed, the desired yaw rate and sideslip angle were calculated. The difference between the desired and actual yaw rate and that between the desired and actual sideslip angle were employed as feedbacks to obtain an additional yaw moment executed on the ADAV system in real time. The effectiveness of the AYC system was verified in field tests. Experimental results show that the actual yaw rate, sideslip angle and path trajectory were close to the desired ones. Therefore, the stability and path-following accuracy of the ADAV system were improved.",
+  "references": [
+    {
+      "paperId": "70dbefa159314b1ed70b812501078dfcc1fa83e0"
+    },
+    {
+      "paperId": "af504919a136000f04d609952250d9a7b4c60320"
+    },
+    {
+      "paperId": "f4c4dfa275d58623e363b46e0dd7d582bb89696a"
+    },
+    {
+      "paperId": "3c4d2d1ff6356b3870084479e496047279b6756e"
+    },
+    {
+      "paperId": "977c02d19adad623828f4a2ede98c90668e6af88"
+    },
+    {
+      "paperId": "6087371f2d855afbaf689c8cc625eb49a776279c"
+    },
+    {
+      "paperId": "e3f1e8e2702371cd5af283601575cd581e9540f9"
+    },
+    {
+      "paperId": "afd0ddf5574a6740f0d49a6fc49296d875a851a4"
+    },
+    {
+      "paperId": "d46cde12f5510d0af16e7594f48a7dc8c39342fb"
+    },
+    {
+      "paperId": "b0d08512b10d10ba152efa4995ba08f7447577f6"
+    },
+    {
+      "paperId": "4adfa20a4330c55529a39f7ff2f1876d132521a8"
+    },
+    {
+      "paperId": "d07628afa38401659dd9fc71ec28fef89841fc07"
+    },
+    {
+      "paperId": "c13b0c1e2f31a15570515c296a09511f14e38122"
+    },
+    {
+      "paperId": "3b9fb8b1755e5e88a2ae1a2316e6fd1f7fee9fd8"
+    },
+    {
+      "paperId": "66a2fd5fa8d3d2623e106913e34df9adbbaeffc3"
+    },
+    {
+      "paperId": "24538d912da84a128f73cb4bca68a31ba8388781"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

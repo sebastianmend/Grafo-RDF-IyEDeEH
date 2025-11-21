@@ -1,0 +1,48 @@
+{
+  "paperId": "865bd8e2230abe300a8e34b15c4eb0f5a00a6421",
+  "externalIds": {
+    "DBLP": "journals/staeors/GevaertSTK15",
+    "MAG": "2039409148",
+    "DOI": "10.1109/JSTARS.2015.2406339",
+    "CorpusId": 21747372
+  },
+  "url": "https://www.semanticscholar.org/paper/865bd8e2230abe300a8e34b15c4eb0f5a00a6421",
+  "title": "Generation of Spectral–Temporal Response Surfaces by Combining Multispectral Satellite and Hyperspectral UAV Imagery for Precision Agriculture Applications",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2015,
+  "citationCount": 307,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://research.utwente.nl/files/347714446/Generation_of_SpectralTemporal_Response_Surfaces_by_Combining_Multispectral_Satellite_and_Hyperspectral_UAV_Imagery_for_Precision_Agriculture_Applications.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2015.2406339?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2015.2406339, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145914884",
+      "name": "C. Gevaert"
+    },
+    {
+      "authorId": "2012912",
+      "name": "J. Suomalainen"
+    },
+    {
+      "authorId": "144010969",
+      "name": "Jing Tang"
+    },
+    {
+      "authorId": "3289950",
+      "name": "L. Kooistra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

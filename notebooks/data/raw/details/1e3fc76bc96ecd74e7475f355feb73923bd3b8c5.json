@@ -1,0 +1,45 @@
+{
+  "paperId": "1e3fc76bc96ecd74e7475f355feb73923bd3b8c5",
+  "externalIds": {
+    "MAG": "2104666763",
+    "DOI": "10.1002/rcm.7152",
+    "CorpusId": 36985884,
+    "PubMed": "26406485"
+  },
+  "url": "https://www.semanticscholar.org/paper/1e3fc76bc96ecd74e7475f355feb73923bd3b8c5",
+  "title": "Determination of low concentrations of iron, arsenic, selenium, cadmium, and other trace elements in natural samples using an octopole collision/reaction cell equipped quadrupole-inductively coupled plasma mass spectrometer.",
+  "venue": "Rapid Communications in Mass Spectrometry",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rcm.7152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rcm.7152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "13514791",
+      "name": "A. Dial"
+    },
+    {
+      "authorId": "10234691",
+      "name": "S. Misra"
+    },
+    {
+      "authorId": "5322628",
+      "name": "W. Landing"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

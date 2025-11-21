@@ -1,0 +1,32 @@
+{
+  "paperId": "0b3fa1ed378d445d63eb4bfb25c2596476a8b476",
+  "externalIds": {
+    "MAG": "2154192631",
+    "CorpusId": 111302528
+  },
+  "url": "https://www.semanticscholar.org/paper/0b3fa1ed378d445d63eb4bfb25c2596476a8b476",
+  "title": "Survey of regulations concerning pesticides inSweden and the EU",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2085555690",
+      "name": "Ida Backström"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

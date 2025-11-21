@@ -1,0 +1,52 @@
+{
+  "paperId": "3288a8cb1485a389c1fc069056f7b1192c3ce874",
+  "externalIds": {
+    "MAG": "2025771669",
+    "DBLP": "conf/gcce/MurakamiUHUO13",
+    "DOI": "10.1109/GCCE.2013.6664809",
+    "CorpusId": 7509645
+  },
+  "url": "https://www.semanticscholar.org/paper/3288a8cb1485a389c1fc069056f7b1192c3ce874",
+  "title": "iFarm: Development of cloud-based system of cultivation management for precision agriculture",
+  "venue": "Global Conference on Consumer Electronics",
+  "year": 2013,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCCE.2013.6664809?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCCE.2013.6664809, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3169239",
+      "name": "Y. Murakami"
+    },
+    {
+      "authorId": "2041282764",
+      "name": "S. K. T. Utomo"
+    },
+    {
+      "authorId": "31320701",
+      "name": "K. Hosono"
+    },
+    {
+      "authorId": "2515160",
+      "name": "T. Umezawa"
+    },
+    {
+      "authorId": "2498072",
+      "name": "Noritaka Osawa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

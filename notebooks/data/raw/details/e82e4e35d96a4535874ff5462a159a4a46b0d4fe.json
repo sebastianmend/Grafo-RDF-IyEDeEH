@@ -1,0 +1,46 @@
+{
+  "paperId": "e82e4e35d96a4535874ff5462a159a4a46b0d4fe",
+  "externalIds": {
+    "MAG": "2065372941",
+    "DOI": "10.1255/jnirs.1013",
+    "CorpusId": 97775036
+  },
+  "url": "https://www.semanticscholar.org/paper/e82e4e35d96a4535874ff5462a159a4a46b0d4fe",
+  "title": "Evaluation of Agricultural Feedstock-Robust near Infrared Calibrations for the Estimation of Process Parameters in Anaerobic Digestion",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1255/jnirs.1013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1255/jnirs.1013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49862929",
+      "name": "L. C. Krapf"
+    },
+    {
+      "authorId": "3018010",
+      "name": "A. Gronauer"
+    },
+    {
+      "authorId": "2379449",
+      "name": "U. Schmidhalter"
+    },
+    {
+      "authorId": "4840241",
+      "name": "H. Heuwinkel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

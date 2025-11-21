@@ -1,0 +1,39 @@
+{
+  "paperId": "9631181da28866cce98d6c609a8fe9d7e957c9f1",
+  "externalIds": {
+    "MAG": "2548332169",
+    "DOI": "10.1109/ICETETS.2016.7603070",
+    "CorpusId": 44444582
+  },
+  "url": "https://www.semanticscholar.org/paper/9631181da28866cce98d6c609a8fe9d7e957c9f1",
+  "title": "Wireless sensor network in precision agriculture: A survey",
+  "venue": "2016 International Conference on Emerging Trends in Engineering, Technology and Science (ICETETS)",
+  "year": 2016,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICETETS.2016.7603070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICETETS.2016.7603070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2289056419",
+      "name": "Survey Deepika"
+    },
+    {
+      "authorId": "2289058762",
+      "name": "Rajapirian"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

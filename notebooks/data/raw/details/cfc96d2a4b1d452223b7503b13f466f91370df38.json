@@ -1,0 +1,38 @@
+{
+  "paperId": "cfc96d2a4b1d452223b7503b13f466f91370df38",
+  "externalIds": {
+    "MAG": "2293895826",
+    "DOI": "10.1002/9780470666388",
+    "CorpusId": 38835056
+  },
+  "url": "https://www.semanticscholar.org/paper/cfc96d2a4b1d452223b7503b13f466f91370df38",
+  "title": "Fundamentals of Wireless Sensor Networks: Theory and Practice",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 810,
+  "influentialCitationCount": 41,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/9780470666388?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/9780470666388, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3149184",
+      "name": "W. Dargie"
+    },
+    {
+      "authorId": "1765524",
+      "name": "C. Poellabauer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

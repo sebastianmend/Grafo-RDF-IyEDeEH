@@ -1,0 +1,54 @@
+{
+  "paperId": "c01fea4c56b668f0d864e6155ebabaef2eecfd45",
+  "externalIds": {
+    "MAG": "1965396697",
+    "DOI": "10.1109/ICECC.2011.6066533",
+    "CorpusId": 36857324
+  },
+  "url": "https://www.semanticscholar.org/paper/c01fea4c56b668f0d864e6155ebabaef2eecfd45",
+  "title": "On-site spectral calibration of hyperspectral imager using target spectral features",
+  "venue": "International Conference on Electronics, Communications and Control",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECC.2011.6066533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECC.2011.6066533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "120593100",
+      "name": "Zhi-yang Gou"
+    },
+    {
+      "authorId": "48028166",
+      "name": "Lei Yan"
+    },
+    {
+      "authorId": "73227118",
+      "name": "Wei Chen"
+    },
+    {
+      "authorId": "2069533932",
+      "name": "Zhong-yi Yin"
+    },
+    {
+      "authorId": "2902628",
+      "name": "Yini Duan"
+    },
+    {
+      "authorId": "2109143049",
+      "name": "Shuwei Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

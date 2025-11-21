@@ -1,0 +1,38 @@
+{
+  "paperId": "f04066291cb18337bd96cb6c21a156bb35ce3f27",
+  "externalIds": {
+    "MAG": "2006758156",
+    "DOI": "10.1109/ARGO-GEOINFORMATICS.2013.6621884",
+    "CorpusId": 46113441
+  },
+  "url": "https://www.semanticscholar.org/paper/f04066291cb18337bd96cb6c21a156bb35ce3f27",
+  "title": "A spatiotemporal synthetic NDVI generation model for agricultural fields",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2013,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ARGO-GEOINFORMATICS.2013.6621884?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ARGO-GEOINFORMATICS.2013.6621884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "34200350",
+      "name": "S. Bagis"
+    },
+    {
+      "authorId": "31106082",
+      "name": "B. Berk Ustundag"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

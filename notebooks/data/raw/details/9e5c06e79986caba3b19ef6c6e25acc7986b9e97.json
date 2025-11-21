@@ -1,0 +1,41 @@
+{
+  "paperId": "9e5c06e79986caba3b19ef6c6e25acc7986b9e97",
+  "externalIds": {
+    "MAG": "2093331245",
+    "DOI": "10.2134/jeq2009.0245",
+    "CorpusId": 25211555,
+    "PubMed": "21869498"
+  },
+  "url": "https://www.semanticscholar.org/paper/9e5c06e79986caba3b19ef6c6e25acc7986b9e97",
+  "title": "Review of airborne emissions from agricultural fumigants: design and uncertainty considerations for the use of the integrated horizontal flux method.",
+  "venue": "Journal of Environmental Quality",
+  "year": 2011,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2134/jeq2009.0245?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/jeq2009.0245, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "66542011",
+      "name": "D. Sullivan"
+    },
+    {
+      "authorId": "10028921",
+      "name": "H. Ajwa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

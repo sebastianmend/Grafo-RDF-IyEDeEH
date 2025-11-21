@@ -1,0 +1,38 @@
+{
+  "paperId": "8831371a6703520a577865cad377e1c2b048353b",
+  "externalIds": {
+    "MAG": "1986197198",
+    "DOI": "10.1109/TLA.2012.6142471",
+    "CorpusId": 60651933
+  },
+  "url": "https://www.semanticscholar.org/paper/8831371a6703520a577865cad377e1c2b048353b",
+  "title": "An Overview of the Use of Metadata in Agriculture",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TLA.2012.6142471?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TLA.2012.6142471, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2110078159",
+      "name": "Clovis Santos"
+    },
+    {
+      "authorId": "70082366",
+      "name": "Andre Riyuiti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

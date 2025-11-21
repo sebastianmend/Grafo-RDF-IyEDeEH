@@ -1,0 +1,82 @@
+{
+  "paperId": "047c65f8e90c70f983d962fa429b9879d402b5ac",
+  "externalIds": {
+    "MAG": "2066265238",
+    "DOI": "10.1007/s11119-013-9337-2",
+    "CorpusId": 18505555
+  },
+  "url": "https://www.semanticscholar.org/paper/047c65f8e90c70f983d962fa429b9879d402b5ac",
+  "title": "Innovation mechanisms in German precision farming",
+  "venue": "Precision Agriculture",
+  "year": 2014,
+  "citationCount": 83,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-013-9337-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-013-9337-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35028092",
+      "name": "M. Busse"
+    },
+    {
+      "authorId": "2227757324",
+      "name": "bullet A Doernberg"
+    },
+    {
+      "authorId": "2227757322",
+      "name": "bullet R Siebert"
+    },
+    {
+      "authorId": "2227758385",
+      "name": "bullet A Kuntosch"
+    },
+    {
+      "authorId": "2227757313",
+      "name": "bullet W Schwerdtner"
+    },
+    {
+      "authorId": "2227739874",
+      "name": "bullet B König"
+    },
+    {
+      "authorId": "2227757478",
+      "name": "bullet W Bokelmann"
+    },
+    {
+      "authorId": "4228348",
+      "name": "A. Doernberg"
+    },
+    {
+      "authorId": "123758600",
+      "name": "A. Siebert"
+    },
+    {
+      "authorId": "2248625",
+      "name": "A. Kuntosch"
+    },
+    {
+      "authorId": "2227764603",
+      "name": "Á. B. König"
+    },
+    {
+      "authorId": "16611163",
+      "name": "A. Bokelmann"
+    },
+    {
+      "authorId": "3518283",
+      "name": "W. Schwerdtner"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

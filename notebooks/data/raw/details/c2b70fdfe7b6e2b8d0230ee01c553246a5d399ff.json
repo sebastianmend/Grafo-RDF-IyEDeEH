@@ -1,0 +1,47 @@
+{
+  "paperId": "c2b70fdfe7b6e2b8d0230ee01c553246a5d399ff",
+  "externalIds": {
+    "MAG": "2151585725",
+    "DBLP": "journals/iet-wss/RaoBTP13",
+    "DOI": "10.1049/iet-wss.2012.0059",
+    "CorpusId": 37667183
+  },
+  "url": "https://www.semanticscholar.org/paper/c2b70fdfe7b6e2b8d0230ee01c553246a5d399ff",
+  "title": "Ultra-high frequency near-ground short-range propagation measurements in forest and plantation environments for wireless sensor networks",
+  "venue": "IET Wireless Sensor Systems",
+  "year": 2013,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1049/iet-wss.2012.0059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/iet-wss.2012.0059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145774438",
+      "name": "T. Rao"
+    },
+    {
+      "authorId": "2800200",
+      "name": "D. Balachander"
+    },
+    {
+      "authorId": "3321068",
+      "name": "N. Tiwari"
+    },
+    {
+      "authorId": "144404363",
+      "name": "M. Prasad"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

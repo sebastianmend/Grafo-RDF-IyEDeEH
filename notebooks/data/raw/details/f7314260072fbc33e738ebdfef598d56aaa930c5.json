@@ -1,0 +1,43 @@
+{
+  "paperId": "f7314260072fbc33e738ebdfef598d56aaa930c5",
+  "externalIds": {
+    "MAG": "1949393817",
+    "CorpusId": 13286516,
+    "PubMed": "24643451"
+  },
+  "url": "https://www.semanticscholar.org/paper/f7314260072fbc33e738ebdfef598d56aaa930c5",
+  "title": "Statistical and Economic Techniques for Site-specific Nematode Management.",
+  "venue": "Journal of nematology",
+  "year": 2014,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2145976991",
+      "name": "Zheng Liu"
+    },
+    {
+      "authorId": "2837560",
+      "name": "T. Griffin"
+    },
+    {
+      "authorId": "34407230",
+      "name": "T. Kirkpatrick"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

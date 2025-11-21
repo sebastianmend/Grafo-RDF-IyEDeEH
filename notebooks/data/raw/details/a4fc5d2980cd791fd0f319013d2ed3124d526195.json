@@ -1,0 +1,46 @@
+{
+  "paperId": "a4fc5d2980cd791fd0f319013d2ed3124d526195",
+  "externalIds": {
+    "MAG": "2067711152",
+    "DOI": "10.1109/SCAT.2014.7055141",
+    "CorpusId": 14408807
+  },
+  "url": "https://www.semanticscholar.org/paper/a4fc5d2980cd791fd0f319013d2ed3124d526195",
+  "title": "A solar-powered, Wi-Fi re-programmable precision irrigation controller",
+  "venue": "International Conference on Parallel Architectures and Compilation Techniques",
+  "year": 2014,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SCAT.2014.7055141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SCAT.2014.7055141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "32740355",
+      "name": "K. Fue"
+    },
+    {
+      "authorId": "40279385",
+      "name": "J. Schueller"
+    },
+    {
+      "authorId": "31618214",
+      "name": "A. Schumann"
+    },
+    {
+      "authorId": "3486427",
+      "name": "S. Tumbo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

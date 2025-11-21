@@ -1,0 +1,52 @@
+{
+  "paperId": "03dd692201a46d65b695dee98be6c9a7e82e5ec9",
+  "externalIds": {
+    "DBLP": "conf/fskd/LuanZZYL13",
+    "MAG": "1970058982",
+    "DOI": "10.1109/FSKD.2013.6816244",
+    "CorpusId": 10101361
+  },
+  "url": "https://www.semanticscholar.org/paper/03dd692201a46d65b695dee98be6c9a7e82e5ec9",
+  "title": "An improved vector space model to retrieval systems for content matching in agricultural information",
+  "venue": "International Conference on Fuzzy Systems and Knowledge Discovery",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/FSKD.2013.6816244?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/FSKD.2013.6816244, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2180123",
+      "name": "Ru-peng Luan"
+    },
+    {
+      "authorId": "1737486",
+      "name": "Qian Zhang"
+    },
+    {
+      "authorId": "47540420",
+      "name": "Junfeng Zhang"
+    },
+    {
+      "authorId": "2155385387",
+      "name": "Feng Yu"
+    },
+    {
+      "authorId": "2160333",
+      "name": "TianGang Lu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

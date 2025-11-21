@@ -1,0 +1,39 @@
+{
+  "paperId": "9aff1223371e8b58b8b863460ba770b8c8da72dc",
+  "externalIds": {
+    "DBLP": "conf/saicsit/EmmanuelM10",
+    "MAG": "2055006496",
+    "DOI": "10.1145/1899503.1899510",
+    "CorpusId": 16568146
+  },
+  "url": "https://www.semanticscholar.org/paper/9aff1223371e8b58b8b863460ba770b8c8da72dc",
+  "title": "A mobile commerce application for rural economy development: a case study for Dwesa",
+  "venue": "Research Conference of the South African Institute of Computer Scientists and Information Technologists",
+  "year": 2010,
+  "citationCount": 21,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/1899503.1899510?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/1899503.1899510, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2411277",
+      "name": "E. A. Emmanuel"
+    },
+    {
+      "authorId": "34350649",
+      "name": "H. Muyingi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

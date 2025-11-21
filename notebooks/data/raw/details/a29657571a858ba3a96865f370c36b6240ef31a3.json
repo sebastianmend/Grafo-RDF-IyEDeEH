@@ -1,0 +1,49 @@
+{
+  "paperId": "a29657571a858ba3a96865f370c36b6240ef31a3",
+  "externalIds": {
+    "DBLP": "conf/wisnet/TrincheroPCS15",
+    "MAG": "1560449609",
+    "DOI": "10.1109/WISNET.2015.7127412",
+    "CorpusId": 16843143
+  },
+  "url": "https://www.semanticscholar.org/paper/a29657571a858ba3a96865f370c36b6240ef31a3",
+  "title": "Wireless sensors for stratified soil microwave scanning applied to precision quality agriculture",
+  "venue": "Topical Conference on Wireless Sensors and Sensor Networks",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WISNET.2015.7127412?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WISNET.2015.7127412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3297067",
+      "name": "Daniele Trinchero"
+    },
+    {
+      "authorId": "9167861",
+      "name": "Elisa Pievanelli"
+    },
+    {
+      "authorId": "1850826",
+      "name": "Abel Rodriguez de la Concepcion"
+    },
+    {
+      "authorId": "3111743",
+      "name": "R. Stefanelli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

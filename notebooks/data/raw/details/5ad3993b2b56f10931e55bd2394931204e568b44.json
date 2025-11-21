@@ -1,0 +1,135 @@
+{
+  "paperId": "5ad3993b2b56f10931e55bd2394931204e568b44",
+  "externalIds": {
+    "MAG": "2121989204",
+    "DOI": "10.3733/CA.V064N03P149",
+    "CorpusId": 54908017
+  },
+  "url": "https://www.semanticscholar.org/paper/5ad3993b2b56f10931e55bd2394931204e568b44",
+  "title": "Survey examines the adoption of perceived best management practices for almond nutrition.",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://calag.ucanr.edu/archive/?type=pdf&article=ca.v064n03p149",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3733/CA.V064N03P149?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3733/CA.V064N03P149, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "12749459",
+      "name": "S. Lopus"
+    },
+    {
+      "authorId": "40050647",
+      "name": "M. Santibáñez"
+    },
+    {
+      "authorId": "49177352",
+      "name": "R. Beede"
+    },
+    {
+      "authorId": "46851053",
+      "name": "R. Duncan"
+    },
+    {
+      "authorId": "40139548",
+      "name": "J. Edstrom"
+    },
+    {
+      "authorId": "88941268",
+      "name": "F. Niederholzer"
+    },
+    {
+      "authorId": "87426604",
+      "name": "C. Trexler"
+    },
+    {
+      "authorId": "80504310",
+      "name": "P. Brown"
+    }
+  ],
+  "abstract": "Fertilizer use in California agriculture has been under recent scrutiny regarding its impacts on air, surface water and groundwater quality. In June 2007, we surveyed almond growers to assess their plant nutrition practices, identify opportunities for improvement, and target research and extension needs. The majority of respondents, particularly those with large almond acreages, used fertigation to apply nitrogen; applied nitrogen coincident with periods of maximal plant demand; and collected annual tissue samples for analysis. While the survey results suggested broad compliance with the best-available management practices and are likely to indicate good nutrient-use efficiency, they also suggested that growers are uncertain about current practices to monitor orchard nutrient status and would value additional information to enable greater precision in fertilization rates and timing.",
+  "references": [
+    {
+      "paperId": "3b01978c882706deb8f28d8d7104e41b446092eb"
+    },
+    {
+      "paperId": "908b9e0f9794649c614619b180a3acfab1332858"
+    },
+    {
+      "paperId": "c017ffe9cf16edab2a3ff22d98d474084f4ac934"
+    },
+    {
+      "paperId": "419e6dc40ab1320057c5d0e3330331a295466f51"
+    },
+    {
+      "paperId": "8f398be5ce0d851a43fc7dac9ed01ee22b423176"
+    },
+    {
+      "paperId": "7b0f24744c3093e5fe5ffd0b8bf089d8aa718690"
+    },
+    {
+      "paperId": "5eef0679ea02c85037d9ccdfab9530530b69cc60"
+    },
+    {
+      "paperId": "23ca4d3cf0d430f3db20c92f406e067eac067d7a"
+    },
+    {
+      "paperId": "40836a45b870194ef1ff78d7530fb59032d51eba"
+    },
+    {
+      "paperId": "e9f0b42d732a94c3d227e5c45225d37a01680d1d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c48243c64b85e6ea9d8a651dd2a8cb498e0e0d16"
+    },
+    {
+      "paperId": "e5206431740eb3a09e9a4a726a58511a758b413c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

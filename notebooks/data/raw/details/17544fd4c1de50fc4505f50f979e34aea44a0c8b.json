@@ -1,0 +1,73 @@
+{
+  "paperId": "17544fd4c1de50fc4505f50f979e34aea44a0c8b",
+  "externalIds": {
+    "MAG": "2151775654",
+    "DOI": "10.1088/1748-9326/8/1/011003",
+    "CorpusId": 154694099
+  },
+  "url": "https://www.semanticscholar.org/paper/17544fd4c1de50fc4505f50f979e34aea44a0c8b",
+  "title": "Overcoming the risk of inaction from emissions uncertainty in smallholder agriculture",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1748-9326/8/1/011003/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1748-9326/8/1/011003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1748-9326/8/1/011003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40322773",
+      "name": "N. Berry"
+    },
+    {
+      "authorId": "1989817",
+      "name": "C. Ryan"
+    }
+  ],
+  "abstract": "The potential for improving productivity and increasing the resilience of smallholder agriculture, while also contributing to climate change mitigation, has recently received considerable political attention (Beddington et al 2012). Financial support for improving smallholder agriculture could come from performance-based funding including sale of carbon credits or certified commodities, payments for ecosystem services, and nationally appropriate mitigation action (NAMA) budgets, as well as more traditional sources of development and environment finance. Monitoring the greenhouse gas fluxes associated with changes to agricultural practice is needed for performance-based mitigation funding, and efforts are underway to develop tools to quantify mitigation achieved and assess trade-offs and synergies between mitigation and other livelihood and environmental priorities (Olander 2012). High levels of small scale variability in carbon stocks and emissions in smallholder agricultural systems (Ziegler et al 2012) mean that data intensive approaches are needed for precise and unbiased mitigation monitoring. The cost of implementing such monitoring programmes is likely to be high, and this introduces the risk that projects will not be developed in areas where there is the greatest need for agricultural improvements, which are likely to correspond with areas where existing data or research infrastructure are lacking. When improvements to livelihoods and food security are expected as co-benefits of performance-based mitigation finance, the risk of inaction is borne by the rural poor as well as the global climate. In situ measurement of carbon accumulation in smallholders’ soils are not usually feasible because of the costs associated with sampling in a heterogeneous landscape, although technological advances could improve the situation (Milori et al 2012). Alternatives to in situ measurement are to estimate greenhouse gas fluxes by extrapolating information from existing research to other areas with similar land uses and environmental conditions, or to combine information on land use activities with process-based models that describe expected emissions and carbon accumulation under specified conditions. Unfortunately long-term studies that have measured biomass and soil organic carbon accumulation in smallholder agriculture are scarce, and default values developed for national level emissions assessments (IPCC 2006) fail to capture local variability and may not scale linearly, so cannot be applied at the project scale without introducing considerable uncertainty and the potential for bias. If there is reliable information on the agricultural activities and environmental conditions at a project site, process-based models can provide accurate estimations of agricultural greenhouse gas fluxes that capture temporal and spatial variability (Olander 2012) but collecting the necessary data to parameterize and drive the models can be costly and time consuming. Assessing and monitoring greenhouse gas fluxes in smallholder agriculture therefore involves a balance between the resources required to collect information from thousands of smallholders across large areas, and the accuracy and precision of model predictions. Accuracy, or the absence of bias, is clearly an important consideration in the quantification of mitigation benefits for performance-based finance since a bias towards over-estimation of mitigation achieved would risk misallocating limited finance to projects that have not achieved mitigation benefits. Such a bias would also lead to a net increase in emissions if credits were used to offset emissions elsewhere. The accuracy of model predictions is related to uncertainty in model input data, which affects the precision of predictions, and errors in the model structure (Olander 2012). To limit the risk that projects receive credit for mitigation benefits that are not real, a precise-or-conservative approach to carbon accounting has emerged that requires projects to report mitigation benefits to a prescribed level of precision—for example with a 90% confidence interval that is less than 20% of the estimated mitigation benefit; and if this level of precision is not reached then the lower confidence limit of the value is encouraged (VCS 2012). This helps to ensure projects that lack precision in their estimates are biased towards an underestimation of mitigation benefits, which helps limit the risk of increasing net greenhouse gas emissions. It can also mean that finance from the sale of emission reduction certificates is insufficient to support smallholder agricultural projects without donor assistance to cover the cost of project establishment (Seebauer et al 2012). Understanding the mitigation benefits of improving agricultural practice is important for many purposes other than developing carbon offsets however, and with appropriate accounting approaches risks to smallholders can be reduced and scarce resources channelled to improving land use practices. Less precision is tolerable when making payments for a broad range ecosystem services, or assessing the impacts of donor support, than it is for industrial carbon offsets. Approaches that have greater uncertainty in expected emission reductions or removals may therefore be more appropriate if there is an equal emphasis on the livelihood and environmental benefits of projects as there is on mitigation benefits. One way to balance the risk of inaction against the need for accuracy is to use process-based models in greenhouse gas accounting and decision support tools, which give users control over the precision and cost of their accounting. Such models can be parameterized and driven using readily available information or best estimates for input data, as well as site specific environmental and activity data. The potential for bias in model predictions can be limited by making use of appropriate models that are validated against regionally specific data. Although process-based models have been adopted for quantifying mitigation benefit in smallholder agriculture systems (for example Seebauer et al 2012), their use is currently limited to those with specialist knowledge or access to detailed site specific information. Web-based tools that link existing global, regional, and local environmental data with process-based models (such as RothC (Coleman and Jenkinson 1996), CENTURY (Parton et al 1987), DNDC (Li et al 1994) and DAYCENT (Del Grosso et al 2002)) that have been validated for specific areas allow users to generate initial estimates of the carbon sequestration potential of agricultural systems simply by specifying the location and intervention. This can support assessments of the feasibility of supporting these interventions through various funding sources. The same tools can also generate accurate, site specific assessments and monitoring to varying levels of detail, when required, given the inclusion of new data collected in situ . When accounting for greenhouse gases in smallholder agriculture systems users should be free to decide whether it is worthwhile to invest in collecting input data to estimate mitigation benefits with sufficient precision to meet the requirements for carbon offsets, or if greater uncertainty is tolerable. By using tools that do not require specialist support and accepting estimates of mitigation benefits that are less precise, and not necessarily conservative, those providing performance-based finance can help ensure that a greater proportion of limited budgets are spent on the activities that directly benefit smallholders and that are likely to benefit the global climate. The Small-Holder Agriculture Monitoring and Baseline Assessment methodology and prototype tool (SHAMBA 2012), which has been trialled with fifteen agroforestry and conservation agriculture projects in Malawi and is currently under review for validation under the Plan Vivo Standard (Plan Vivo 2012), provides a proof of this concept and a platform on which greater functionality and flexibility can be built. We hope that this, and other similar initiatives, will deliver approaches to greenhouse gas accounting that reduce risks and maximize benefits to smallholder farmers. References Beddington J R et al 2012 What next for agriculture after Durban? Science 335 289–90 Coleman K and Jenkinson D S 1996 RothC 26.3 a model for the turnover of carbon in soil Evaluation of Soil Organic Matter Models Using Existing, Long-Term Datasets ed D S Powlson, P Smith and J U Smith (Heidelberg: Springer) Del Grosso S J, Ojima D S, Parton W J, Mosier A R, Petereson G A and Schimel D S 2002 Simulated effects of dryland cropping intensification on soil organic matter and greenhouse gas exchanges using the DAYCENT ecosystem model Environ. Pollut. 116 S75–83 IPCC (Intergovenmental Panel on Climate Change) 2006 Guidelines for National Greenhouse Gas Inventories. Prepared by the National Greenhouse Gas Inventories Programme (Hayama: IGES) (www.ipcc-nggip.iges.or.jp/public/2006gl/index.html) Li C, Frolking S and Harris R 1994 Modeling carbon biogeochemistry in agricultural soils Glob. Biogeochem. Cycles 8 237–54 Milori D M B P, Segini A, Da Silva W T L, Posadas A, Mares V, Quiroz R and Ladislau M N 2012 Emerging techniques for soil carbon measurements Climate Change Mitigation and Agriculture ed E Wollenberg, A Nihart, M-L Tapio-Bistrom and M Greig-Gran (Abingdon: Earthscan) Olander L P 2012 Using biogeochemical process models to quantify greenhouse gas mitigation from agricultural management Climate Change Mitigation and Agriculture ed E Wollenberg, A Nihart, M-L Tapio-Bistrom and M Greig-Gran (Abingdon: Earthscan) Parton W J, Schimel D S, Cole C V and Ojima D S 1987 Analysis of factors controlling soil organic matter levels in Great Plains grasslands Soil Sci. Soc. Am. J. 51 1173–9 Plan Vivo 2012 The Plan Vivo Standard For Community Payments for Ecosystem Services Programmes Version 2012 (available ",
+  "references": [
+    {
+      "paperId": "a44eb22ae598ba8d00022d85587b81b096d47417"
+    },
+    {
+      "paperId": "10c32e9cf07ef6a4a9ef1c3fdb0c068e8f612524"
+    },
+    {
+      "paperId": "4c23d6ff99e6e11523622c851cd177db75cf2cd5"
+    },
+    {
+      "paperId": "2944708adc77c4f547e95c2e86f71132c8f53ae5"
+    },
+    {
+      "paperId": "4459a8a32b50ab0984a406208d228e19dc228201"
+    },
+    {
+      "paperId": "6bc2e2301f721ac3404da13011143065ef6046e3"
+    },
+    {
+      "paperId": "e9e92d2327c991c947c4b53ed7cfd3bf4ca0bd13"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

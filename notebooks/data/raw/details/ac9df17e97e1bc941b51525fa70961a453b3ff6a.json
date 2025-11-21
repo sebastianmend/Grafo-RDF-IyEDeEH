@@ -1,0 +1,35 @@
+{
+  "paperId": "ac9df17e97e1bc941b51525fa70961a453b3ff6a",
+  "externalIds": {
+    "MAG": "2397714024",
+    "DBLP": "conf/ifip12/Xie14",
+    "DOI": "10.1007/978-3-319-19620-6_65",
+    "CorpusId": 41778148
+  },
+  "url": "https://www.semanticscholar.org/paper/ac9df17e97e1bc941b51525fa70961a453b3ff6a",
+  "title": "Agricultural Library Information Retrieval Based on Improved Semantic Algorithm",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-19620-6_65.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-19620-6_65?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-19620-6_65, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2917263",
+      "name": "Meiling Xie"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

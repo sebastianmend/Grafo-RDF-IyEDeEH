@@ -1,0 +1,52 @@
+{
+  "paperId": "d2aba235c61dbe63278ccb7fb24df9a433940665",
+  "externalIds": {
+    "MAG": "2286080801",
+    "DBLP": "conf/ifip12/AnLZLZ12",
+    "DOI": "10.1007/978-3-642-36137-1_52",
+    "CorpusId": 18704068
+  },
+  "url": "https://www.semanticscholar.org/paper/d2aba235c61dbe63278ccb7fb24df9a433940665",
+  "title": "Real Time Detection of Soil Moisture in Winter Jujube Orchard Based on NIR Spectroscopy",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-36137-1_52.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-36137-1_52?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-36137-1_52, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "92330396",
+      "name": "Xiaofei An"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    },
+    {
+      "authorId": "2763970",
+      "name": "Lihua Zheng"
+    },
+    {
+      "authorId": "2108104051",
+      "name": "Yumeng Liu"
+    },
+    {
+      "authorId": "2108065695",
+      "name": "Yajing Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

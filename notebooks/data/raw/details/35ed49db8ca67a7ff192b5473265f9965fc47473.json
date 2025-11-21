@@ -1,0 +1,48 @@
+{
+  "paperId": "35ed49db8ca67a7ff192b5473265f9965fc47473",
+  "externalIds": {
+    "MAG": "1973286732",
+    "DBLP": "conf/igarss/FuenteSYP13",
+    "DOI": "10.1109/IGARSS.2013.6723412",
+    "CorpusId": 7086721
+  },
+  "url": "https://www.semanticscholar.org/paper/35ed49db8ca67a7ff192b5473265f9965fc47473",
+  "title": "Potentiality of World-View 2 data for precision agriculture",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2013,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2013.6723412?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2013.6723412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144959436",
+      "name": "D. Fuente"
+    },
+    {
+      "authorId": "153316470",
+      "name": "J. Suárez"
+    },
+    {
+      "authorId": "31929142",
+      "name": "J. Yague"
+    },
+    {
+      "authorId": "1759694",
+      "name": "D. Pedrazzani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

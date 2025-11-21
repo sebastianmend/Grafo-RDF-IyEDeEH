@@ -1,0 +1,124 @@
+{
+  "paperId": "15b67b909c51fce837925e44c4651ca1ed8c4824",
+  "externalIds": {
+    "MAG": "1955669783",
+    "DBLP": "journals/ijoe/LinKCZ15",
+    "DOI": "10.3991/ijoe.v11i6.4847",
+    "CorpusId": 3235525
+  },
+  "url": "https://www.semanticscholar.org/paper/15b67b909c51fce837925e44c4651ca1ed8c4824",
+  "title": "The Construction of a Precise Agricultural Information System Based on Internet of Things",
+  "venue": "International Journal of Online Engineering (iJOE)",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://online-journals.org/index.php/i-joe/article/download/4847/3667",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3991/ijoe.v11i6.4847?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3991/ijoe.v11i6.4847, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2353461",
+      "name": "Hanhui Lin"
+    },
+    {
+      "authorId": "2064807061",
+      "name": "Ken Cai"
+    },
+    {
+      "authorId": "2195818",
+      "name": "Huazhou Chen"
+    },
+    {
+      "authorId": "2523520",
+      "name": "Zhaofeng Zeng"
+    }
+  ],
+  "abstract": "The promotion of the Internet of Things (IOT) in agriculture is an important symbol in the modern agricultural industry. It can efficiently lower the labor consumption and exert a positive impact on farmlands through wireless sensor networks. It can precisely acquire data on crops and the environment to achieve the scientific cultivation and management of the production equipment by means of automation, intelligence, and remote control and to advance the transformation of agricultural development in modern times. An intelligent system of high precision, which is based on the IOT, is formulated in this study. Such system applies Advanced RISC Machines (ARM) as its built-in gateway, with such carriers as Bluetooth, 2.4 GHz, Zigbee, Global System for Mobile Communications (GSM), Wi-Fi, and others, to establish wireless sensor networks and manage the agricultural production through remote control and intelligent management. The experiment suggests that the system can efficiently supervise and control the multiple environmental parameters and farmland equipment to meet the requirement of agricultural production.",
+  "references": [
+    {
+      "paperId": "65b0916f9688d12233ca819ecb27ec9e5fd703e3"
+    },
+    {
+      "paperId": "d21e01053881af4cb99cf9a98cf379ee83dc037b"
+    },
+    {
+      "paperId": "ded335fe6dff7d915ed63cdbb46c1dfdad2fec3f"
+    },
+    {
+      "paperId": "9570ec110e1f929eaec9b95b6fc489804c39ee03"
+    },
+    {
+      "paperId": "b54a8f3e46142c2cca28397f27e93a93e848ba15"
+    },
+    {
+      "paperId": "5d574f12ea39489afb8acb817912f7fa23f30bef"
+    },
+    {
+      "paperId": "51a3d57a250f6937f143b7283cd41a05f81adb0d"
+    },
+    {
+      "paperId": "00029ed1204ac87c278f940f8d881e02b34f5d15"
+    },
+    {
+      "paperId": "fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c"
+    },
+    {
+      "paperId": "9bf0b30a37e9311f95c544b427d1d91e5fadeb8a"
+    },
+    {
+      "paperId": "4caa533efac3d0f95e4890c767d846eec82fc5f5"
+    },
+    {
+      "paperId": "278fe97aa0bb040aa7777624e77c36543e8b6929"
+    },
+    {
+      "paperId": "9c66483a4d8f53d6a635e05010a960a9f952f4e2"
+    },
+    {
+      "paperId": "b5a5568e8cd14e947a9238c2b2f6a09d4b703801"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2458955d6512fc333458257835629ec7dc13a190"
+    },
+    {
+      "paperId": "8c166a11769687edc9c262646fada0e8a8b4920d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "742d6bd65f9ccaadfac0f8dffcf945bc0d1664df"
+    },
+    {
+      "paperId": "8464c65472b753afa0b812a82c5edbca79466dc0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

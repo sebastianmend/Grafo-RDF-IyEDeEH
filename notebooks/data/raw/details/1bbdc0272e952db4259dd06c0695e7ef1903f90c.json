@@ -1,0 +1,51 @@
+{
+  "paperId": "1bbdc0272e952db4259dd06c0695e7ef1903f90c",
+  "externalIds": {
+    "MAG": "2062400481",
+    "DOI": "10.1117/12.2035010",
+    "CorpusId": 97171589
+  },
+  "url": "https://www.semanticscholar.org/paper/1bbdc0272e952db4259dd06c0695e7ef1903f90c",
+  "title": "Assessment and mapping of soil nitrogen using Visible-Near-Infrared (Vis-NIR) spectra",
+  "venue": "Other Conferences",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2035010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2035010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2144224955",
+      "name": "Xianghang Liu"
+    },
+    {
+      "authorId": "2155598536",
+      "name": "Yan Guo"
+    },
+    {
+      "authorId": "2356369981",
+      "name": "Qianlong Wang"
+    },
+    {
+      "authorId": "2151809955",
+      "name": "J. Zhang"
+    },
+    {
+      "authorId": "2328236774",
+      "name": "Zhou Shi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,34 @@
+{
+  "paperId": "469bb25bd6b3f1eee45950e5220366eb6f71e798",
+  "externalIds": {
+    "MAG": "136850005",
+    "DOI": "10.4000/lectures.7276",
+    "CorpusId": 160659164
+  },
+  "url": "https://www.semanticscholar.org/paper/469bb25bd6b3f1eee45950e5220366eb6f71e798",
+  "title": "« Varia », Revue d'études en agriculture et environnement/Review of Agricultural and Environmental Studies, vol. 92, N° 2, 2011",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4000/lectures.7276?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4000/lectures.7276, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "121099802",
+      "name": "Etienne Chomarat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

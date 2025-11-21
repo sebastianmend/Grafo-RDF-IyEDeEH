@@ -1,0 +1,91 @@
+{
+  "paperId": "61f354eac5774be3154ee9ea27052948f550a610",
+  "externalIds": {
+    "MAG": "2213302000",
+    "DOI": "10.3945/an.115.008466",
+    "CorpusId": 21876459,
+    "PubMed": "25979497"
+  },
+  "url": "https://www.semanticscholar.org/paper/61f354eac5774be3154ee9ea27052948f550a610",
+  "title": "Sustainable diet studies show co-benefits for greenhouse gas emissions and public health.",
+  "venue": "Advances in Nutrition",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/advances/article-pdf/6/3/282/23739138/an008466.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3945/an.115.008466?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3945/an.115.008466, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "LettersAndComments",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5813101",
+      "name": "L. Aleksandrowicz"
+    },
+    {
+      "authorId": "145407832",
+      "name": "A. Haines"
+    },
+    {
+      "authorId": "4867912",
+      "name": "Rosemary Green"
+    }
+  ],
+  "abstract": "Dear Editor: \n \nBecause agriculture contributes about one-fifth of global greenhouse gas (GHG) emissions, sustainable diets offer an opportunity for climate change mitigation. Many recent studies have assessed the environmental and health impacts of sustainable diets, finding that realistic shifts in intake can reduce GHG emissions and have public health cobenefits. However, the recent review of sustainable diets by Auestad and Fulgoni (1) implies that there is, as of yet, little clear benefit from changing diets. \n \nThe authors state that mitigation efforts should not focus on diets, because nonagricultural emissions account for the majority of global emissions. However, nonagricultural emissions are split across several sectors. Agriculture, forestry, and other land use change is the second-largest contributor (24%), behind energy (35%). Industry, transport, and buildings individually contribute 21%, 14%, and 6%, respectively (2). There is no single silver bullet for GHG mitigation, and deep cuts in emissions will be easier to achieve if each sector implements mitigation strategies. \n \nThe review also suggested that results across these studies are inconclusive. Although the authors are correct that methods of comparing diets and measuring environmental outcomes do differ, the emission trends across studies mostly differ in magnitude, not direction. Two out of 37 dietary scenarios across 12 studies calculated higher emissions for healthier diets (3). However, these compared scenarios in which meat intake did not meaningfully change between healthy and unhealthy diets (4), and in which meat was replaced by the caloric equivalent of fruit and vegetables (5). The latter study’s other scenarios, which substituted meat with dairy or mixed food groups, produced fewer emissions (5). These few exceptions highlight that convergence of healthy and lower-emission diets is possible, though with careful and realistic substitution of foods (6). The effects on emissions also depend on the type of meat replaced, because poultry and pork have considerably fewer emissions than ruminant meat. \n \nWe agree that additional research is required to add precision to the environmental effects of sustainable diets, but this is not an argument for inaction. Particularly, there is a need for emission estimates for a larger variety of foods and their regional variation, especially in low- and middle-income countries. Studies in these countries are also needed to estimate the scope of current and future dietary emissions. Here, mitigation opportunities from recent shifts to Western diets may be countered by rising emissions from undernourished populations who require higher dietary diversity and caloric intakes, and who may benefit from consumption of some animal-based products. \n \nThe current body of research, despite methodological differences, generally shows that reducing intake of animal-based products—particularly ruminant meat—proportionally decreases dietary GHG emissions (3). Additionally, increased consumption of fruit and vegetables (but not refined carbohydrates) can improve health in many populations. \n \nThe transition to sustainable diets may also not be as problematic as the authors describe. Indeed, the literature has shown that in most settings, even bridging current population-level gaps between current and recommended dietary intakes could alone bring GHG reductions and improve health (3). Adverse economic impacts could be addressed by appropriate policies (6).",
+  "references": [
+    {
+      "paperId": "7910e50868fa0759036ffc3f6df151f7f2a21ba7"
+    },
+    {
+      "paperId": "3d0bfe40cf10aeca1d790a417c41bce7124efd76"
+    },
+    {
+      "paperId": "bf3fae76b6a6c639d5b7a33666bece24f7f86960"
+    },
+    {
+      "paperId": "0cbbc82353dcde3999e4fab9068613dbdc7a694a"
+    },
+    {
+      "paperId": "873e009eb385a711ae2c4cbfff69df228caff476"
+    },
+    {
+      "paperId": "10690925c4ebee8b9cb4c9b9e671e74ba749b3b8"
+    },
+    {
+      "paperId": "b7cba1b0c068a93d1858583d296708e75262baf6"
+    },
+    {
+      "paperId": "371ea3e655990cab97259c763d20f9cd219361ae"
+    },
+    {
+      "paperId": "1e90da3782055b750f7521e7e12d533be1d026d5"
+    },
+    {
+      "paperId": "f7c8b56e8d1ace3344350a49e2c8258f86be8796"
+    },
+    {
+      "paperId": "667454b802e94d068f8c68f87b0141f681c80e5a"
+    },
+    {
+      "paperId": "7743cd7cf01fe74ecdafeff5f423ac98996b0a48"
+    },
+    {
+      "paperId": "acce8c513ddc747a75eda7d99baedafe02dbbbd7"
+    },
+    {
+      "paperId": "0b60cba84d40835dc2e60b5d5115833a269e3585"
+    },
+    {
+      "paperId": "d8a5fa78e88e8431c3e40308a0d9d09359c50135"
+    }
+  ]
+}

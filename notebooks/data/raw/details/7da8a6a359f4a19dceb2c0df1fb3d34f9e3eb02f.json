@@ -1,0 +1,46 @@
+{
+  "paperId": "7da8a6a359f4a19dceb2c0df1fb3d34f9e3eb02f",
+  "externalIds": {
+    "MAG": "2068701314",
+    "DOI": "10.1007/s11119-009-9150-0",
+    "CorpusId": 24115044
+  },
+  "url": "https://www.semanticscholar.org/paper/7da8a6a359f4a19dceb2c0df1fb3d34f9e3eb02f",
+  "title": "The role of communication and co-operation in the adoption of precision farming",
+  "venue": "Precision Agriculture",
+  "year": 2011,
+  "citationCount": 206,
+  "influentialCitationCount": 13,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-009-9150-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-009-9150-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "148213279",
+      "name": "T. Kutter"
+    },
+    {
+      "authorId": "2098274312",
+      "name": "S. Tiemann"
+    },
+    {
+      "authorId": "4912721",
+      "name": "R. Siebert"
+    },
+    {
+      "authorId": "15315211",
+      "name": "S. Fountas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

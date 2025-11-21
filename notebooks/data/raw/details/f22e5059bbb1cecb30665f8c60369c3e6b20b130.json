@@ -1,0 +1,228 @@
+{
+  "paperId": "f22e5059bbb1cecb30665f8c60369c3e6b20b130",
+  "externalIds": {
+    "PubMedCentral": "4750055",
+    "MAG": "2398330969",
+    "DOI": "10.1038/srep20410",
+    "CorpusId": 9187037,
+    "PubMed": "26864172"
+  },
+  "url": "https://www.semanticscholar.org/paper/f22e5059bbb1cecb30665f8c60369c3e6b20b130",
+  "title": "Localization and Classification of Paddy Field Pests using a Saliency Map and Deep Convolutional Neural Network",
+  "venue": "Scientific Reports",
+  "year": 2016,
+  "citationCount": 172,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/srep20410.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4750055, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2117941859",
+      "name": "Ziyi Liu"
+    },
+    {
+      "authorId": "5779800",
+      "name": "Junfeng Gao"
+    },
+    {
+      "authorId": "2109946045",
+      "name": "Guo-lai Yang"
+    },
+    {
+      "authorId": "2118412329",
+      "name": "Huan Zhang"
+    },
+    {
+      "authorId": "2145948732",
+      "name": "Yong He"
+    }
+  ],
+  "abstract": "We present a pipeline for the visual localization and classification of agricultural pest insects by computing a saliency map and applying deep convolutional neural network (DCNN) learning. First, we used a global contrast region-based approach to compute a saliency map for localizing pest insect objects. Bounding squares containing targets were then extracted, resized to a fixed size and used to construct a large standard database called Pest ID. This database was then utilized for self-learning of local image features which were, in turn, used for classification by DCNN. DCNN learning optimized the critical parameters, including size, number and convolutional stride of local receptive fields, dropout ratio and the final loss function. To demonstrate the practical utility of using DCNN, we explored different architectures by shrinking depth and width and found effective sizes that can act as alternatives for practical applications. On the test set of paddy field images, our architectures achieved a mean Accuracy Precision (mAP) of 0.951, a significant improvement over previous methods.",
+  "references": [
+    {
+      "paperId": "65342c4d83eb79ecd8cef24da482640d51ce2a38"
+    },
+    {
+      "paperId": "fb91db6aa4f710814f8aec28a7f3ecbc4e5ad4fd"
+    },
+    {
+      "paperId": "9454ae5ca524239c21195482c3ec093d70bc9ce8"
+    },
+    {
+      "paperId": "6d4c9c923e9f145d1c01a2de2afc38ec23c44253"
+    },
+    {
+      "paperId": "6bdb186ec4726e00a8051119636d4df3b94043b5"
+    },
+    {
+      "paperId": "6270baedeba28001cd1b563a199335720d6e0fe0"
+    },
+    {
+      "paperId": "37810582f1f381f87cb0ea943b66fe379bb76f0b"
+    },
+    {
+      "paperId": "5219d5fe2edb8c796340d7364d58b21b8ada016b"
+    },
+    {
+      "paperId": "a7fb300c5efb1b9a3a280623c8fa7b0e88cdbb6c"
+    },
+    {
+      "paperId": "1109b663453e78a59e4f66446d71720ac58cec25"
+    },
+    {
+      "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8"
+    },
+    {
+      "paperId": "33a15b4776c5f9e5d34bc0afbe42e547caebf843"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "1a38e1a63e8945a8e464004177f2eaf19b27038d"
+    },
+    {
+      "paperId": "c3dd46ee7ca9576fe970f75fb6b16919f68a65eb"
+    },
+    {
+      "paperId": "184ac0766262312ba76bbdece4e7ffad0aa8180b"
+    },
+    {
+      "paperId": "f9bb391f683e7e2a9773563719376fa358604b12"
+    },
+    {
+      "paperId": "03a25bc079eeeadfb3c88e6bb827ee878d33c6b7"
+    },
+    {
+      "paperId": "be9a17321537d9289875fe475b71f4821457b435"
+    },
+    {
+      "paperId": "7670e3c493126c8b2f211ddfc45f89de905f1d38"
+    },
+    {
+      "paperId": "13dc6997629560d1c04fdf20c479941c47bb396f"
+    },
+    {
+      "paperId": "df786d3e491d5942642930fbf490f1ae6bbf387f"
+    },
+    {
+      "paperId": "802dfa8766571959cdd148aac840681e4c2c8541"
+    },
+    {
+      "paperId": "e923d80266e4d32e5dfcde0c23193799c035252e"
+    },
+    {
+      "paperId": "6ba0db330ca5d8082d91083862ae87651d76db0d"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e"
+    },
+    {
+      "paperId": "05499fc38650ef56eb15e3390f929f3fa8d64da5"
+    },
+    {
+      "paperId": "f518ef15f6603ff5b2ccb08d06d47d6214f82b9f"
+    },
+    {
+      "paperId": "2463236b96c8e94729819c2409b03961fcebd6cf"
+    },
+    {
+      "paperId": "63f27307cb028f9341544fff32eceb2c3c652bf2"
+    },
+    {
+      "paperId": "80e07636a012509dfee7a5cf189f9f27f1843ab5"
+    },
+    {
+      "paperId": "9cffbc3c72397d2bc8d3cdf7ea0d41d488e074a0"
+    },
+    {
+      "paperId": "cc8ac5d35935f95e93594180c7e3a51910a4cef0"
+    },
+    {
+      "paperId": "e8b12467bdc20bde976750b8a28decdb33246d1d"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38"
+    },
+    {
+      "paperId": "aeeffe327e6c93e9010c7b1e401caa9113723851"
+    },
+    {
+      "paperId": "f26d35d2e32934150cd27b030d4d769942126184"
+    },
+    {
+      "paperId": "642e328cae81c5adb30069b680cf60ba6b475153"
+    },
+    {
+      "paperId": "f11a7136b6b7854bd0998ef463ffa8e907c411a2"
+    },
+    {
+      "paperId": "d87dd8ab6555041716fb6e424d24e76c8a28e7f2"
+    },
+    {
+      "paperId": "1323edcffa318087676b72c8123200c129258e17"
+    },
+    {
+      "paperId": "f1d4562397271fc6aecb29c5e004d0e81574dec7"
+    },
+    {
+      "paperId": "9cba2a49bd401385a1b02a5d04dbcca9561ea524"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0ae151b91793ad57a04b9962a0ea235d21e5e6b0"
+    },
+    {
+      "paperId": "90d7aa2a54923eabd42525cc6cbca1757a57da0f"
+    },
+    {
+      "paperId": "71f9c50ec4bdf66f5b6365fd158ce541ede4f2fd"
+    },
+    {
+      "paperId": "e78d33393c260d114f8ea7874c588a131337461f"
+    },
+    {
+      "paperId": "6b6d6fb759a8b0c38e6a564547a61fe2839fa0a7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d37b3a66d55d5361aeb5ef0793af66049535c24d"
+    },
+    {
+      "paperId": "25231d3f5ebefea86656e7711d6839720a15b6d4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

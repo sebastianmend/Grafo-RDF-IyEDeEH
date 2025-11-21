@@ -1,0 +1,47 @@
+{
+  "paperId": "a994d9c71e3536d1d9c576429c8792d6461df365",
+  "externalIds": {
+    "MAG": "2396294453",
+    "DBLP": "conf/ucami/Segui-MirallesR15",
+    "DOI": "10.1007/978-3-319-26401-1_38",
+    "CorpusId": 40334727
+  },
+  "url": "https://www.semanticscholar.org/paper/a994d9c71e3536d1d9c576429c8792d6461df365",
+  "title": "Monitoring and Control of Atmospheric and Substrate Parameters for Vegetable Crops",
+  "venue": "International Conference on Ubiquitous Computing and Ambient Intelligence",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-26401-1_38?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-26401-1_38, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1411917979",
+      "name": "Germán-Aurelio Seguí-Miralles"
+    },
+    {
+      "authorId": "1411930951",
+      "name": "Alejandro Rico-Beviá"
+    },
+    {
+      "authorId": "1777566",
+      "name": "J. Chamizo"
+    },
+    {
+      "authorId": "40627883",
+      "name": "F. F. Pastor"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

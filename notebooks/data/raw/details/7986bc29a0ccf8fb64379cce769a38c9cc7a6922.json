@@ -1,0 +1,46 @@
+{
+  "paperId": "7986bc29a0ccf8fb64379cce769a38c9cc7a6922",
+  "externalIds": {
+    "MAG": "2281575509",
+    "DOI": "10.3965/IJABE.V8I5.2224",
+    "CorpusId": 130884138
+  },
+  "url": "https://www.semanticscholar.org/paper/7986bc29a0ccf8fb64379cce769a38c9cc7a6922",
+  "title": "Overview of 2015 International Symposium on Animal Environment and Welfare held in Chongqing, China",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3965/IJABE.V8I5.2224?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3965/IJABE.V8I5.2224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48586165",
+      "name": "Chaoyuan Wang"
+    },
+    {
+      "authorId": "2117935479",
+      "name": "Wen Liu"
+    },
+    {
+      "authorId": "144757848",
+      "name": "Baoming Li"
+    },
+    {
+      "authorId": "2337393360",
+      "name": "H. Xin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

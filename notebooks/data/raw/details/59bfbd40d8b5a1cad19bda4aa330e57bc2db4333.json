@@ -1,0 +1,42 @@
+{
+  "paperId": "59bfbd40d8b5a1cad19bda4aa330e57bc2db4333",
+  "externalIds": {
+    "MAG": "2125413403",
+    "DOI": "10.1109/ICISE.2010.5691544",
+    "CorpusId": 18563774
+  },
+  "url": "https://www.semanticscholar.org/paper/59bfbd40d8b5a1cad19bda4aa330e57bc2db4333",
+  "title": "Monitoring phenological key stages of winter wheat basing on temporal series of EVI data in Anhui China",
+  "venue": "International Conference on Information Science and Engineering",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISE.2010.5691544?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISE.2010.5691544, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9452422",
+      "name": "He Bin-fang"
+    },
+    {
+      "authorId": "104886417",
+      "name": "Feng Yan"
+    },
+    {
+      "authorId": "80494147",
+      "name": "Li Huali"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

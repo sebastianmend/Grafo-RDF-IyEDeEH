@@ -1,0 +1,50 @@
+{
+  "paperId": "f4a9d1778ee4309ecc118f903b2a98ec9a3c8313",
+  "externalIds": {
+    "MAG": "2261412322",
+    "DOI": "10.3997/2214-4609.201413851",
+    "CorpusId": 130293545
+  },
+  "url": "https://www.semanticscholar.org/paper/f4a9d1778ee4309ecc118f903b2a98ec9a3c8313",
+  "title": "Applications of the Precision Viticulture Techniques in the Chianti District",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3997/2214-4609.201413851?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3997/2214-4609.201413851, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47168616",
+      "name": "D. Sarri"
+    },
+    {
+      "authorId": "20475723",
+      "name": "R. Lisci"
+    },
+    {
+      "authorId": "87469436",
+      "name": "M. Rimediotti"
+    },
+    {
+      "authorId": "3390933",
+      "name": "M. Vieri"
+    },
+    {
+      "authorId": "38377850",
+      "name": "P. Storchi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

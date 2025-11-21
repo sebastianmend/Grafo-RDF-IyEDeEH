@@ -1,0 +1,44 @@
+{
+  "paperId": "2fec5a0838e0443d6a1c872a081089008297be43",
+  "externalIds": {
+    "MAG": "2157759566",
+    "CorpusId": 130763317
+  },
+  "url": "https://www.semanticscholar.org/paper/2fec5a0838e0443d6a1c872a081089008297be43",
+  "title": "HOW TO INTEGRATE MULTI-SENSOR DATA FOR PRECISION AGRICULTURE",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "6137959",
+      "name": "A. Castrignanò"
+    },
+    {
+      "authorId": "145993001",
+      "name": "M. Wong"
+    },
+    {
+      "authorId": "50709933",
+      "name": "D. Benedetto"
+    },
+    {
+      "authorId": "21636486",
+      "name": "D. Sollitto"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

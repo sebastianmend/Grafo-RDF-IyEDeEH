@@ -1,0 +1,38 @@
+{
+  "paperId": "4cc8abac8a8c3e1e551321bfd5cd4f9af6c9151d",
+  "externalIds": {
+    "MAG": "2807857267",
+    "DOI": "10.15866/IREIT.V3I4.6324",
+    "CorpusId": 169353803
+  },
+  "url": "https://www.semanticscholar.org/paper/4cc8abac8a8c3e1e551321bfd5cd4f9af6c9151d",
+  "title": "Survey Report on Image Processing in Agriculture",
+  "venue": "International Review on Computers and Software (IRECOS)",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15866/IREIT.V3I4.6324?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15866/IREIT.V3I4.6324, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40810163",
+      "name": "S. Sridevy"
+    },
+    {
+      "authorId": "3125031",
+      "name": "A. Vijendran"
+    }
+  ],
+  "abstract": "India is an agricultural country; wherein about 70% of the population depends on agriculture. Agriculture has changed more in the past century than it has since farming began many millennia ago. Research in agriculture is aimed towards increase of productivity and food quality at reduced expenditure and with increased profit. Current crop production practices, often called precision agriculture (PA), benefited from all earlier revolutions in crop production. Many times expert advice may not be affordable, majority times the availability of expert and their services may consume time. Image processing along with availability of communication network can change the situation of getting the expert advice well within time and at affordable cost since image processing was the effective tool for analysis of parameters. Image processing techniques in agriculture are mainly used for image categorization based on shape, size, color and texture for decision-making. This leads to agricultural input rationalization and environmental damage reduction by adjusting the agricultural practices like fertilizer and pesticide application to the site that demands and profit maximization. This paper intends to focus on the survey of application of image processing in agriculture field such as imaging techniques, weed detection and fruit grading. This paper presents a survey on some of the existing image processing techniques in agriculture.",
+  "references": null
+}

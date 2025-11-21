@@ -1,0 +1,126 @@
+{
+  "paperId": "aeffe79b4d1b7f519c85fd7388b5d17d27f3e195",
+  "externalIds": {
+    "MAG": "1830108058",
+    "PubMedCentral": "4626574",
+    "DOI": "10.1093/jat/bkv100",
+    "CorpusId": 19038512,
+    "PubMed": "26324206"
+  },
+  "url": "https://www.semanticscholar.org/paper/aeffe79b4d1b7f519c85fd7388b5d17d27f3e195",
+  "title": "LC–MS-MS Analysis of Urinary Biomarkers of Imazalil Following Experimental Exposures",
+  "venue": "Journal of Analytical Toxicology",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jat/article-pdf/39/9/691/17711119/bkv100.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4626574, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5650268",
+      "name": "Moosa H Faniband"
+    },
+    {
+      "authorId": "5561804",
+      "name": "M. Littorin"
+    },
+    {
+      "authorId": "39114441",
+      "name": "E. Ekman"
+    },
+    {
+      "authorId": "48761326",
+      "name": "B. Jönsson"
+    },
+    {
+      "authorId": "1851019",
+      "name": "C. Lindh"
+    }
+  ],
+  "abstract": "Imazalil (IMZ) is a fungicide used in the cultivation of vegetables, such as cucumbers, in green houses or post-harvest on fruit to avoid spoilage due to fungal growth. Agricultural workers can be occupationally exposed to IMZ and the general public indirectly by the diet. The purpose of this study was to develop and validate an LC–MS-MS method for the analysis of IMZ in human urine. The method used electrospray ionization and selected reaction monitoring in the positive mode. Excellent linearity was observed in the range 0.5–100 ng/mL. The limit of detection of the method was 0.2 ng/mL, and the limit of quantitation 0.8 ng/mL. The method showed good within-run, between-run and between-batch precision, with a coefficient of variation <15%. The method was applied to analyze urine samples obtained from two human volunteers following experimental oral and dermal exposure. The excretion of IMZ seemed to follow a two-compartment model and first-order kinetics. In the oral exposure, the elimination half-life of IMZ in the rapid excretion phase was 2.6 and 1.9 h for the female and the male volunteer, respectively. In the slower excretion phase, it was 7.6 and 13 h, respectively. In the dermal exposure, the excretion seemed to follow a single-compartment model and first-order kinetics. The elimination half-life was 10 and 6.6 h for the female and the male volunteer, respectively. Although the study is limited to two volunteers, some information on basic toxicokinetics and metabolism of IMZ in humans is presented.",
+  "references": [
+    {
+      "paperId": "9ecd37aa08dc50d3ff0a38d2f72d87ab4295bfba"
+    },
+    {
+      "paperId": "7a6bc27d1150832ec084f4d74dcf386481c40395"
+    },
+    {
+      "paperId": "0b1b7d88fd7aa19a44435e2b2ecf167df2c05cba"
+    },
+    {
+      "paperId": "b16fac1750b36ad3322561752892ed54ba7fc7e0"
+    },
+    {
+      "paperId": "a775639a7891dd611b0dfb09d578ed450a119f3e"
+    },
+    {
+      "paperId": "a02b180e0813a496bf264056427e78e336b55281"
+    },
+    {
+      "paperId": "0e12f8b55236c7bf40d2bc5658955034fb4bd786"
+    },
+    {
+      "paperId": "9f6a9eef32a6e4ef7c74acb83263d51f2e8fe9b2"
+    },
+    {
+      "paperId": "46f250191a47c4d0786a1782900cd5c4db0ab96d"
+    },
+    {
+      "paperId": "06631ee4e57db278ed0e58e02f452e089df1c6ac"
+    },
+    {
+      "paperId": "27b52dc2013877036ccb5ea5fc4da606f1e02086"
+    },
+    {
+      "paperId": "f84ccbd5597e0e165266e6a0651c8b51dc9f7a60"
+    },
+    {
+      "paperId": "24875edb4b0693082c96ee24160ac5addfdb4ab5"
+    },
+    {
+      "paperId": "ac296a3c8028e3c3792aff2797c3ee76e8167bb3"
+    },
+    {
+      "paperId": "28a12deef9780cbe03a0fdb8b88dfabf703373f8"
+    },
+    {
+      "paperId": "ce35950ccc0f8ed713c7060a72f8e7c7a22caccd"
+    },
+    {
+      "paperId": "087b7c9c0253168d52f3f0cf315ef8e1e1a9c352"
+    },
+    {
+      "paperId": "453335c6fe105f08c198177ddf31b8158844f893"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

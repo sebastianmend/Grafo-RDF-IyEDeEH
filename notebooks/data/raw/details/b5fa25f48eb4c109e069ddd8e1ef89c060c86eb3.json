@@ -1,0 +1,37 @@
+{
+  "paperId": "b5fa25f48eb4c109e069ddd8e1ef89c060c86eb3",
+  "externalIds": {
+    "MAG": "2104867973",
+    "DOI": "10.1007/s10577-014-9452-6",
+    "CorpusId": 10654358,
+    "PubMed": "25596824"
+  },
+  "url": "https://www.semanticscholar.org/paper/b5fa25f48eb4c109e069ddd8e1ef89c060c86eb3",
+  "title": "Genome engineering in cattle: recent technological advancements",
+  "venue": "Chromosome Research",
+  "year": 2015,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10577-014-9452-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10577-014-9452-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47197506",
+      "name": "Zhongde Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

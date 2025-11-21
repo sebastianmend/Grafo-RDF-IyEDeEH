@@ -1,0 +1,54 @@
+{
+  "paperId": "0a15f0c04478befeb612e85c30301c8b70d169c3",
+  "externalIds": {
+    "MAG": "1835597119",
+    "DOI": "10.1108/JADEE-02-2015-0011",
+    "CorpusId": 153341984
+  },
+  "url": "https://www.semanticscholar.org/paper/0a15f0c04478befeb612e85c30301c8b70d169c3",
+  "title": "Challenges for agricultural education and training (AET) institutions in preparing growing student populations for productive careers in the agri-food system",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 21,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1108/JADEE-02-2015-0011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/JADEE-02-2015-0011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "96270526",
+      "name": "I. Minde"
+    },
+    {
+      "authorId": "145663414",
+      "name": "S. Terblanche"
+    },
+    {
+      "authorId": "7410395",
+      "name": "B. Bashaasha"
+    },
+    {
+      "authorId": "6734946",
+      "name": "I. Madakadze"
+    },
+    {
+      "authorId": "39578865",
+      "name": "Jason L. Snyder"
+    },
+    {
+      "authorId": "4349462",
+      "name": "A. Mugisha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

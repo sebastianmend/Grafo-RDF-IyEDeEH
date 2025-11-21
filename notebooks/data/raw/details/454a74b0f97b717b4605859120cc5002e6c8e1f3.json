@@ -1,0 +1,65 @@
+{
+  "paperId": "454a74b0f97b717b4605859120cc5002e6c8e1f3",
+  "externalIds": {
+    "MAG": "1963634033",
+    "DOI": "10.1007/s11427-014-4670-x",
+    "CorpusId": 13613562,
+    "PubMed": "24849511"
+  },
+  "url": "https://www.semanticscholar.org/paper/454a74b0f97b717b4605859120cc5002e6c8e1f3",
+  "title": "CRISPR/Cas technology: a revolutionary approach for genome engineering",
+  "venue": "Science China Life Sciences",
+  "year": 2014,
+  "citationCount": 32,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s11427-014-4670-x",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11427-014-4670-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11427-014-4670-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2154729297",
+      "name": "Linlin Zhang"
+    },
+    {
+      "authorId": "144179288",
+      "name": "Qi Zhou"
+    }
+  ],
+  "abstract": "Citation: Zhang LL, Zhou Q. CRISPR/Cas technology: a revolutionary approach for genome engineering. Precision genome editing tools are invaluable for biology, medicine and agriculture. With these tools we can determine the genetic basis underlying biological traits and processes , and then modify the genome of crops and livestock, model organisms, and even of patients, for phenotypic improvement , disease modeling and treatment. Site-specific nucleases provide a powerful and effective approach for precise genome editing in organisms [1]. Two types of site-specific nucleases, namely zinc finger nucleases (ZFNs) and transcription activator-like effector nucleases (TALENs), have already been widely used for genome engineering. Both of them are composed of two functional modules: the DNA binding domain that is programmable for specific DNA sequence binding, and the Fok1 nuclease domain that can induce double strand breaks. By non-homologous end joining repair, the double strand breaks at target sites can therefore produce sequence insertions and deletions (indels). Recently, a new type of site-specific nu-cleases, the CRISPR (clustered regularly interspaced short palindromic repeats)/Cas (CRISPR-associated) system, has emerged and raised a revolution in the genomics field. The CRISPR/Cas system is an acquired immune system of many bacteria and archaea, which can identify the alien plasmids or phages and cut them by the Cas protein. Thus by inserting a plasmid containing Cas genes and specifically designed CRISPRs, an organism's genome can be cut at any desired location. Following this idea, the CRISPR/Cas system was first used for genome editing via specific gene silencing in 2012. In 2013, this system was first adapted for genome editing in mammalian cells, which laid the basis for the widely application of this technology [2,3]. In contrast to ZFN and TALEN, gene targeting of the CRISPR/Cas system is mediated by a small RNA, which make it very easy to design and achieve multiplex genome editing. Till now, the CRISPR/Cas system-mediated gene targeting has been successfully applied in many kinds of species, including plants, flies, zebrafish and rodents [4]. Notably, multiple gene knockout mice and rats, which may need more than two years to construct by conventional embryonic stem cell-based method, could be simultaneously generated in nearly one month in one-step by zygote injection of Cas9 RNA and guide RNAs. By the zygote-injection approach, the CRISPR/Cas system has also produced biallelic knockout pigs, demonstrating the feasibility of this technique in large animals [5]. Recently, gene targeting in non-human primates has also been achieved …",
+  "references": [
+    {
+      "paperId": "1f2416e69ac03b8fcd6f1f2979a75d03ac3e6a88"
+    },
+    {
+      "paperId": "f4dca82d2fd7bac4901e3ac9977a9dae45c04e12"
+    },
+    {
+      "paperId": "b2f075f3cb9715bc42237fb5a730de88d45b9ec9"
+    },
+    {
+      "paperId": "41d172eb82d1aa78b14cfc32f139cd57a064b1df"
+    },
+    {
+      "paperId": "2d836314ed16c6eabe94fcca4c22919083545da6"
+    },
+    {
+      "paperId": "59349f554fcc856446afb7ba943bcfc1d8928f1b"
+    },
+    {
+      "paperId": "d640aa7c5c15fa109f86cca67f30a4af13bf8f3b"
+    },
+    {
+      "paperId": "51bcf2a1577b3dd876fcaa4cdf630f54d261c107"
+    }
+  ]
+}

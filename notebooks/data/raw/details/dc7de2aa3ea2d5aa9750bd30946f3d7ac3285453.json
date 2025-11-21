@@ -1,0 +1,51 @@
+{
+  "paperId": "dc7de2aa3ea2d5aa9750bd30946f3d7ac3285453",
+  "externalIds": {
+    "MAG": "1600985948",
+    "DOI": "10.1109/ICIIECS.2015.7193186",
+    "CorpusId": 16756715
+  },
+  "url": "https://www.semanticscholar.org/paper/dc7de2aa3ea2d5aa9750bd30946f3d7ac3285453",
+  "title": "Survey of zone tessellation techniques for defined parameters in precision agriculture",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193186?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193186, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9445741",
+      "name": "Aayush Shukla"
+    },
+    {
+      "authorId": "46781920",
+      "name": "Deepika Mehta"
+    },
+    {
+      "authorId": "9385406",
+      "name": "Abhijeet Rajiv Choksi"
+    },
+    {
+      "authorId": "9209267",
+      "name": "H. Shah"
+    },
+    {
+      "authorId": "2055615419",
+      "name": "V. Joshi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

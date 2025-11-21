@@ -1,0 +1,47 @@
+{
+  "paperId": "1f92b8bfef19b827afb08b5fa09e3076b867f388",
+  "externalIds": {
+    "MAG": "1983806060",
+    "DOI": "10.1117/12.974397",
+    "CorpusId": 129582590
+  },
+  "url": "https://www.semanticscholar.org/paper/1f92b8bfef19b827afb08b5fa09e3076b867f388",
+  "title": "Design and implementation of digital airborne multispectral camera system",
+  "venue": "Other Conferences",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.974397?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.974397, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3117595",
+      "name": "Zhaorong Lin"
+    },
+    {
+      "authorId": "2374353673",
+      "name": "Xuguo Zhang"
+    },
+    {
+      "authorId": "2152715587",
+      "name": "Li Wang"
+    },
+    {
+      "authorId": "144998780",
+      "name": "D. Pan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

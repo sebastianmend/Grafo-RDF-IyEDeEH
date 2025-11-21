@@ -1,0 +1,87 @@
+{
+  "paperId": "8f1dc399a1c833325958678029d735058eb010cb",
+  "externalIds": {
+    "MAG": "1990838207",
+    "DOI": "10.1038/jes.2012.31",
+    "CorpusId": 6559796,
+    "PubMed": "22569205"
+  },
+  "url": "https://www.semanticscholar.org/paper/8f1dc399a1c833325958678029d735058eb010cb",
+  "title": "Using multiple imputation to assign pesticide use for non-responders in the follow-up questionnaire in the Agricultural Health Study",
+  "venue": "Journal of Exposure Science and Environmental Epidemiology",
+  "year": 2012,
+  "citationCount": 35,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/jes201231.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/jes.2012.31?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/jes.2012.31, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2365213952",
+      "name": "Sonya L Heltshe"
+    },
+    {
+      "authorId": "5802530",
+      "name": "J. Lubin"
+    },
+    {
+      "authorId": "3662087",
+      "name": "Stella Koutros"
+    },
+    {
+      "authorId": "3763293",
+      "name": "J. Coble"
+    },
+    {
+      "authorId": "48199177",
+      "name": "B. Ji"
+    },
+    {
+      "authorId": "3841414",
+      "name": "M. Alavanja"
+    },
+    {
+      "authorId": "32648541",
+      "name": "A. Blair"
+    },
+    {
+      "authorId": "2470346",
+      "name": "D. Sandler"
+    },
+    {
+      "authorId": "1741716",
+      "name": "C. Hines"
+    },
+    {
+      "authorId": "34689165",
+      "name": "K. Thomas"
+    },
+    {
+      "authorId": "121826390",
+      "name": "Joseph Barker"
+    },
+    {
+      "authorId": "3003370",
+      "name": "G. Andreotti"
+    },
+    {
+      "authorId": "1837670",
+      "name": "J. Hoppin"
+    },
+    {
+      "authorId": "143972150",
+      "name": "L. Freeman"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

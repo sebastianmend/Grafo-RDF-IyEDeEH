@@ -1,0 +1,36 @@
+{
+  "paperId": "2dc04fa9bf4e0f929f8e9fc6ee5097606a93ee5b",
+  "externalIds": {
+    "MAG": "2107420163",
+    "CorpusId": 58912115
+  },
+  "url": "https://www.semanticscholar.org/paper/2dc04fa9bf4e0f929f8e9fc6ee5097606a93ee5b",
+  "title": "Solutions for fast development of precision agriculture in Iran",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50989376",
+      "name": "N. Bagheri"
+    },
+    {
+      "authorId": "145056134",
+      "name": "M. Bordbar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

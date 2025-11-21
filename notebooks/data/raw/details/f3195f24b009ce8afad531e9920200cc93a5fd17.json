@@ -1,0 +1,60 @@
+{
+  "paperId": "f3195f24b009ce8afad531e9920200cc93a5fd17",
+  "externalIds": {
+    "MAG": "1991045275",
+    "DBLP": "conf/igarss/StroppianaMCCMF15",
+    "DOI": "10.1109/IGARSS.2015.7326869",
+    "CorpusId": 28162203
+  },
+  "url": "https://www.semanticscholar.org/paper/f3195f24b009ce8afad531e9920200cc93a5fd17",
+  "title": "Rice yield estimation using multispectral data from UAV: A preliminary experiment in northern Italy",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2015,
+  "citationCount": 47,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2015.7326869?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2015.7326869, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2506848",
+      "name": "D. Stroppiana"
+    },
+    {
+      "authorId": "3016170",
+      "name": "M. Migliazzi"
+    },
+    {
+      "authorId": "2025653",
+      "name": "V. Chiarabini"
+    },
+    {
+      "authorId": "32630776",
+      "name": "A. Crema"
+    },
+    {
+      "authorId": "3016013",
+      "name": "M. Musanti"
+    },
+    {
+      "authorId": "35209572",
+      "name": "C. Franchino"
+    },
+    {
+      "authorId": "33055574",
+      "name": "P. Villa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "286b74be45dfe02d8a2ec8adf67d9a6d1dc56565",
+  "externalIds": {
+    "MAG": "1571337309",
+    "DOI": "10.1002/9780470057339.VNN032",
+    "CorpusId": 220699625
+  },
+  "url": "https://www.semanticscholar.org/paper/286b74be45dfe02d8a2ec8adf67d9a6d1dc56565",
+  "title": "Sampling Agricultural Resources",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/9780470057339.VNN032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/9780470057339.VNN032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "30065150",
+      "name": "S. Nusser"
+    },
+    {
+      "authorId": "6204442",
+      "name": "S. Zimmer"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

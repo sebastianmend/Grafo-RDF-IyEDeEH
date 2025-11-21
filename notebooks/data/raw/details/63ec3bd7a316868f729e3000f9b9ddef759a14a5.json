@@ -1,0 +1,168 @@
+{
+  "paperId": "63ec3bd7a316868f729e3000f9b9ddef759a14a5",
+  "externalIds": {
+    "MAG": "2141362823",
+    "DBLP": "journals/sensors/Aquino-SantosGB11",
+    "PubMedCentral": "3274096",
+    "DOI": "10.3390/s110101192",
+    "CorpusId": 11299551,
+    "PubMed": "22346622"
+  },
+  "url": "https://www.semanticscholar.org/paper/63ec3bd7a316868f729e3000f9b9ddef759a14a5",
+  "title": "Developing a New Wireless Sensor Network Platform and Its Application in Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2011,
+  "citationCount": 48,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/11/1/1192/pdf?version=1403314121",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3274096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1400157955",
+      "name": "R. Aquino-Santos"
+    },
+    {
+      "authorId": "1405696314",
+      "name": "A. González-Potes"
+    },
+    {
+      "authorId": "1733600",
+      "name": "A. E. Block"
+    },
+    {
+      "authorId": "1409065556",
+      "name": "Raúl Alejandro Virgen-Ortiz"
+    }
+  ],
+  "abstract": "Wireless sensor networks are gaining greater attention from the research community and industrial professionals because these small pieces of “smart dust” offer great advantages due to their small size, low power consumption, easy integration and support for “green” applications. Green applications are considered a hot topic in intelligent environments, ubiquitous and pervasive computing. This work evaluates a new wireless sensor network platform and its application in precision agriculture, including its embedded operating system and its routing algorithm. To validate the technological platform and the embedded operating system, two different routing strategies were compared: hierarchical and flat. Both of these routing algorithms were tested in a small-scale network applied to a watermelon field. However, we strongly believe that this technological platform can be also applied to precision agriculture because it incorporates a modified version of LORA-CBF, a wireless location-based routing algorithm that uses cluster-based flooding. Cluster-based flooding addresses the scalability concerns of wireless sensor networks, while the modified LORA-CBF routing algorithm includes a metric to monitor residual battery energy. Furthermore, results show that the modified version of LORA-CBF functions well with both the flat and hierarchical algorithms, although it functions better with the flat algorithm in a small-scale agricultural network.",
+  "references": [
+    {
+      "paperId": "e7fb8600a2f019da8c298b3bfcd29dfd9e8bf4e0"
+    },
+    {
+      "paperId": "8c13559390c61e94597cc56f87d888d22277dfbd"
+    },
+    {
+      "paperId": "cc24544f3d8ca4b5d5108106429f2f68beef5376"
+    },
+    {
+      "paperId": "0a15cf07d67c8b3b766655cecaf18201ef3f24a9"
+    },
+    {
+      "paperId": "fea50d4f6ead220927bdb70de709c195e81a1b98"
+    },
+    {
+      "paperId": "be8ac44dd2bb5f5d23cdb902dabd332969222c9a"
+    },
+    {
+      "paperId": "74c5d1392423d59e6d9a9425d5d2def6e273f301"
+    },
+    {
+      "paperId": "089d8cfc97d0e00c3d46dd4796e6261a0140f0c3"
+    },
+    {
+      "paperId": "565b27ddec8b88b46e8b65282f0f9e878d6177a7"
+    },
+    {
+      "paperId": "866338ba2bef96d32528aa9f76740a3a4fd4fc16"
+    },
+    {
+      "paperId": "e22301c5a8be4b6c1f9ee7b047de5d3ac36a39d3"
+    },
+    {
+      "paperId": "4ea0f6b23556af80b3c0a6593ef4799238beb341"
+    },
+    {
+      "paperId": "e7adf83012cc96472a9fe9e579cb45fd77a1b8a3"
+    },
+    {
+      "paperId": "f5f726d19b5c19980b59e0b2aa82938748bdd037"
+    },
+    {
+      "paperId": "418fd2c90796f316859459fc28ee96b7a7d02a76"
+    },
+    {
+      "paperId": "be319517b3fe899949df6eff960af6352b6d5be7"
+    },
+    {
+      "paperId": "d3bcce45dc83adc9f4bd38286695a2ab467e6c06"
+    },
+    {
+      "paperId": "9651d64322b1e63b97b9bb1f60e2223dbe959f04"
+    },
+    {
+      "paperId": "558ba92902e87345bdd31324c187df3e3dc6082a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2abd16511435c8762e1d86f6877baace55a2838e"
+    },
+    {
+      "paperId": "9ab0aaace22fa0c2987acbc3c3357808e858d89c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2527175384d637965db75dddcda3275a6b95e0c0"
+    },
+    {
+      "paperId": "b20e739beb17d6ddd90b78528e13a4aaf08146e1"
+    },
+    {
+      "paperId": "b8b78623c5b308905304be8192aadaf56f6128d6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5fb75b8750fc10a7d37a6f59cca0b48e0824ae62"
+    },
+    {
+      "paperId": "b3834aed2c564d2dbeacf8c1b733dbe5c9c07fbf"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

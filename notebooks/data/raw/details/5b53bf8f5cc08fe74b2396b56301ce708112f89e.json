@@ -1,0 +1,107 @@
+{
+  "paperId": "5b53bf8f5cc08fe74b2396b56301ce708112f89e",
+  "externalIds": {
+    "MAG": "2798932433",
+    "DBLP": "conf/iess/NunesBP15",
+    "DOI": "10.1007/978-3-319-90023-0_2",
+    "CorpusId": 4932542
+  },
+  "url": "https://www.semanticscholar.org/paper/5b53bf8f5cc08fe74b2396b56301ce708112f89e",
+  "title": "Multi-Agent Based Implementation of an Embedded Image Processing System in FPGA for Precision Agriculture Using UAVs",
+  "venue": "International Conference on Exploring Services Science",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01854156/file/467217_1_En_2_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-90023-0_2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-90023-0_2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2064212184",
+      "name": "É. Nunes"
+    },
+    {
+      "authorId": "3404929",
+      "name": "Lucas P. Behnck"
+    },
+    {
+      "authorId": "144495622",
+      "name": "C. Pereira"
+    }
+  ],
+  "abstract": "This work proposes a framework and design-space exploration on possible implementations for Multi-Agent based embedded systems for precision agriculture applications using image processing. For this application, we evaluate both purely software-based implementations on different embedded processors, as well as implementations which feature dedicated peripherals for image processing implemented in FPGA. All of the implementations feature agent capabilities provided through the JADE Framework. The proposed Reconfigurable hardware Agent framework features capabilities which allow it to offer high performance for applications such as high resolution image processing. We consider the impact of JADE agent migration to an FPGA platform and evaluate the impact of partially reconfiguring the FPGA in this application. The proposed framework is evaluated in an application of use of UAVs for precision agriculture. A faster execution for the image processing algorithms and detection of points of interest (POI) allows for processing images of higher resolution, which may help the accuracy of POI detection. It may also allow for processing an increased number of images in real-time or improve the autonomy of the UAVs.",
+  "references": [
+    {
+      "paperId": "652868a6292f0d0c9eb54a0aad531d825af28b44"
+    },
+    {
+      "paperId": "c137b6484fe31b63d164879fb627a67a5e0c50cd"
+    },
+    {
+      "paperId": "a808a6164e16cc02930a2db8bc7ce2a574e24a08"
+    },
+    {
+      "paperId": "46f2657515fe410ab310dcb674ed0491d76dbc80"
+    },
+    {
+      "paperId": "69ed0ee4d5f36dd132f1a62a5a92a54c1e36d008"
+    },
+    {
+      "paperId": "9b3108e95e60cc3ac22e310b61fdc79c5892ae88"
+    },
+    {
+      "paperId": "3153f8d3da8026816654451726f053aa5ea195bd"
+    },
+    {
+      "paperId": "b7f643b9ee556a73d7528378e8e8de165159463f"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "77cc7802c89859aef99c4ab76b2db9fa59aa4c10"
+    },
+    {
+      "paperId": "6a2b473e2b0e0faadb3aa8023771afb28bbd8da4"
+    },
+    {
+      "paperId": "2f6b518bb050e51ed274dfe6a03bef463f55b39a"
+    },
+    {
+      "paperId": "c8963bab8dc05e71c7890cc65d7e738cb04144b1"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2a31fe4d83beefb8ae35d01337377513d7976e5f"
+    },
+    {
+      "paperId": "cd947a039030c1cc400c6b59a36fa7ddee6151cb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1f7da0733886d56e2134f70e266b17730792b1e2"
+    },
+    {
+      "paperId": "f324f52782b870d5c19b832bc3e020b5a24b58b0"
+    },
+    {
+      "paperId": "19f54048201ce8e416b74f3325266c34ae203f74"
+    }
+  ]
+}

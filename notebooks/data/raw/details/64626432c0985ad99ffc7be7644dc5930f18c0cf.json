@@ -1,0 +1,188 @@
+{
+  "paperId": "64626432c0985ad99ffc7be7644dc5930f18c0cf",
+  "externalIds": {
+    "PubMedCentral": "3743059",
+    "MAG": "1966727511",
+    "DOI": "10.1038/srep02442",
+    "CorpusId": 17663420,
+    "PubMed": "23942574"
+  },
+  "url": "https://www.semanticscholar.org/paper/64626432c0985ad99ffc7be7644dc5930f18c0cf",
+  "title": "Precision phenotyping of biomass accumulation in triticale reveals temporal genetic patterns of regulation",
+  "venue": "Scientific Reports",
+  "year": 2013,
+  "citationCount": 110,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/srep02442.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3743059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3548006",
+      "name": "L. Busemeyer"
+    },
+    {
+      "authorId": "2530117",
+      "name": "A. Ruckelshausen"
+    },
+    {
+      "authorId": "46752206",
+      "name": "K. Möller"
+    },
+    {
+      "authorId": "2853372",
+      "name": "A. Melchinger"
+    },
+    {
+      "authorId": "6012410",
+      "name": "Katharina Alheit"
+    },
+    {
+      "authorId": "145161007",
+      "name": "H. Maurer"
+    },
+    {
+      "authorId": "34800554",
+      "name": "V. Hahn"
+    },
+    {
+      "authorId": "5561474",
+      "name": "E. A. Weissmann"
+    },
+    {
+      "authorId": "6678081",
+      "name": "J. Reif"
+    },
+    {
+      "authorId": "3203170",
+      "name": "T. Würschum"
+    }
+  ],
+  "abstract": "To extend agricultural productivity by knowledge-based breeding and tailor varieties adapted to specific environmental conditions, it is imperative to improve our ability to assess the dynamic changes of the phenome of crops under field conditions. To this end, we have developed a precision phenotyping platform that combines various sensors for a non-invasive, high-throughput and high-dimensional phenotyping of small grain cereals. This platform yielded high prediction accuracies and heritabilities for biomass of triticale. Genetic variation for biomass accumulation was dissected with 647 doubled haploid lines derived from four families. Employing a genome-wide association mapping approach, two major quantitative trait loci (QTL) for biomass were identified and the genetic architecture of biomass accumulation was found to be characterized by dynamic temporal patterns. Our findings highlight the potential of precision phenotyping to assess the dynamic genetics of complex traits, especially those not amenable to traditional phenotyping.",
+  "references": [
+    {
+      "paperId": "3677e40cda2f6f27f1ea3c5dd718dd38374b8cd7"
+    },
+    {
+      "paperId": "21e47a420946a507dd52410b212250f98d48d441"
+    },
+    {
+      "paperId": "c6a0209a4fc4ac7c976a7101c1c1f0e2392a65bf"
+    },
+    {
+      "paperId": "55b149a329fc404bed55d533102f0d8e821f8071"
+    },
+    {
+      "paperId": "0ba3dbac67f1936d87ff771d67b6ebe1370fd0e4"
+    },
+    {
+      "paperId": "1356ff3f147f5fc432c04cc824a4bb8010cf74a1"
+    },
+    {
+      "paperId": "0368918cf05ac1937b841cf7ba5b2a6c15dab506"
+    },
+    {
+      "paperId": "5c064f122e2ecf4d168d7f836a76a09cf90b654b"
+    },
+    {
+      "paperId": "f0ae769ea6be049cc4f022c4aeff0d29c9fc6103"
+    },
+    {
+      "paperId": "c39e4445c9909d153f52b3ead982708e627f6615"
+    },
+    {
+      "paperId": "0792322a16c4728e6f3cc1ae30f8c93dc3942409"
+    },
+    {
+      "paperId": "3dd8dadbeb742ad6953f9d9a9bd175722917f516"
+    },
+    {
+      "paperId": "c587502771d1b97f171494dd6f9d8b376d79bae3"
+    },
+    {
+      "paperId": "2c9575fa5d5a85a29b421e5e41eb9f9659847434"
+    },
+    {
+      "paperId": "5dabf0bce32e55a53120de9d8b5d728d4de29fa4"
+    },
+    {
+      "paperId": "82f157ab3579400717d01903f26dbce6993825a0"
+    },
+    {
+      "paperId": "3c181c06a2839fec6e67a9cd8f0825a5a5dc220b"
+    },
+    {
+      "paperId": "6428a4ef6b2376c1e47c7665c7d32aa9205dfff2"
+    },
+    {
+      "paperId": "aa6627bbc3f18d9add7a4a3389e34e19371673d2"
+    },
+    {
+      "paperId": "38193d0dd860184cece1bb1a1b0304bce7471bce"
+    },
+    {
+      "paperId": "53aebbd8fb66baa3f1b4276486e7f510583b31c4"
+    },
+    {
+      "paperId": "00f8e9b7394a1d6261cdc0b7f1796c3c3b68edc3"
+    },
+    {
+      "paperId": "2bd85c3e892468d2dce5b6345ad52ddcefb03e87"
+    },
+    {
+      "paperId": "5da127939332422b27120da61399bcb501b8b8e1"
+    },
+    {
+      "paperId": "1bcde5e01362af684973a79a623d557629115d2c"
+    },
+    {
+      "paperId": "c83b65f92e3c9f37625f6f7dc848a2a101a5a14b"
+    },
+    {
+      "paperId": "c850813fe8d6249806ead14f7fcad21e7932f21d"
+    },
+    {
+      "paperId": "c774293d4c49e99a7920d8bd46ffc250d9a23132"
+    },
+    {
+      "paperId": "357e429faa42472837e5871b10a1881ab5af2fc0"
+    },
+    {
+      "paperId": "42ba536dc4362e41a49bfc37af2950f343d98e49"
+    },
+    {
+      "paperId": "c8bcb53b8ca5f5f00113d96dae319d0cb7546173"
+    },
+    {
+      "paperId": "acde8ee01bf24e1d4c0c60615a6902b636a70cda"
+    },
+    {
+      "paperId": "aba9077fa336cbd43e62ab9d7767a777f93a1ac8"
+    },
+    {
+      "paperId": "d27b48b01472f26ff0973c1aa721defd08505acd"
+    },
+    {
+      "paperId": "55aab92009470b5a7a95b28a3f9d643cc330e22c"
+    },
+    {
+      "paperId": "bd1ef9825029655d534cff4000dd8f90ac902600"
+    },
+    {
+      "paperId": "b0ebbcf713b3ddf3f94325bc58dc39ff76fdc412"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

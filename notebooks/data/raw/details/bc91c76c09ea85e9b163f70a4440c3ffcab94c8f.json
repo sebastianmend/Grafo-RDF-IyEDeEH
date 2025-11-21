@@ -1,0 +1,48 @@
+{
+  "paperId": "bc91c76c09ea85e9b163f70a4440c3ffcab94c8f",
+  "externalIds": {
+    "DBLP": "conf/whispers/LiebischKDW14",
+    "MAG": "2591718654",
+    "DOI": "10.1109/WHISPERS.2014.8077612",
+    "CorpusId": 31168289
+  },
+  "url": "https://www.semanticscholar.org/paper/bc91c76c09ea85e9b163f70a4440c3ffcab94c8f",
+  "title": "Characterization of crop vitality and resource use efficiency by means of combining imaging spectroscopy based plant traits",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2014,
+  "citationCount": 15,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.research-collection.ethz.ch/bitstream/20.500.11850/277719/1/eth-49988-01.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2014.8077612?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2014.8077612, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2538810",
+      "name": "F. Liebisch"
+    },
+    {
+      "authorId": "49673782",
+      "name": "Gabriela Kung"
+    },
+    {
+      "authorId": "73973925",
+      "name": "A. Damm"
+    },
+    {
+      "authorId": "145043184",
+      "name": "A. Walter"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

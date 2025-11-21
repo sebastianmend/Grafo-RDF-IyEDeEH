@@ -1,0 +1,251 @@
+{
+  "paperId": "2b1cdea49f87236a97031fe6e3a79c59570ad0c4",
+  "externalIds": {
+    "PubMedCentral": "4476743",
+    "MAG": "2122543209",
+    "DOI": "10.1371/journal.pone.0131360",
+    "CorpusId": 13935380,
+    "PubMed": "26098946"
+  },
+  "url": "https://www.semanticscholar.org/paper/2b1cdea49f87236a97031fe6e3a79c59570ad0c4",
+  "title": "Investigation of Water Dynamics and the Effect of Evapotranspiration on Grain Yield of Rainfed Wheat and Barley under a Mediterranean Environment: A Modelling Approach",
+  "venue": "PLoS ONE",
+  "year": 2015,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131360&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4476743, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46459238",
+      "name": "Kefeng Zhang"
+    },
+    {
+      "authorId": "1405199144",
+      "name": "À. D. Bosch-Serra"
+    },
+    {
+      "authorId": "19273091",
+      "name": "J. Boixadera"
+    },
+    {
+      "authorId": "145018718",
+      "name": "A. Thompson"
+    }
+  ],
+  "abstract": "Agro-hydrological models have increasingly become useful and powerful tools in optimizing water and fertilizer application, and in studying the environmental consequences. Accurate prediction of water dynamics in such models is essential for models to produce reasonable results. In this study, detailed simulations were performed for water dynamics of rainfed winter wheat and barley grown under a Mediterranean climate over a 10-year period. The model employed (Yang et al., 2009. J. Hydrol., 370, 177-190) uses easily available agronomic data, and takes into consideration of all key soil and plant processes in controlling water dynamics in the soil-crop system, including the dynamics of root growth. The water requirement for crop growth was calculated according to the FAO56, and the soil hydraulic properties were estimated using peto-transfer functions (PTFs) based on soil physical properties and soil organic matter content. Results show that the simulated values of soil water content at the depths of 15, 45 and 75 cm agreed with the measurements well with the root of the mean squared errors of 0.027 cm3 cm-3 and the model agreement index of 0.875. The simulated seasonal evapotranspiration (ET) ranged from 208 to 388 mm, and grain yield was found to correlate with the simulated seasonal ET in a linear manner within the studied ET range. The simulated rates of grain yield increase were 17.3 and 23.7 kg ha-l for every mm of water evapotranspired for wheat and barley, respectively. The good agreement of soil water content between measurement and simulation and the simulated relationships between grain yield and seasonal ET supported by the data in the literature indicates that the model performed well in modelling water dynamics for the studied soil-crop system, and therefore has the potential to be applied reliably and widely in precision agriculture. Finally, a two-staged approach using inverse modelling techniques to further improve model performance was discussed.",
+  "references": [
+    {
+      "paperId": "68ccdaf7b145d23253cac1e2956521ed9a39fb30"
+    },
+    {
+      "paperId": "f9bb22ae01009c39ff653ee82a148de7767b6cfa"
+    },
+    {
+      "paperId": "95bd2accfc61153b7f615273e05c2359d58a7097"
+    },
+    {
+      "paperId": "5cdc53fdb2efb259fd152aaa7766ad9c2bd33e95"
+    },
+    {
+      "paperId": "5a5d2c214e2d03730c6deef9ce84e1f118c239c2"
+    },
+    {
+      "paperId": "ab387891d13a88649d186f75acbdb7a12279d067"
+    },
+    {
+      "paperId": "49f2546c1fd14df8f83188d72b8680572e93ab07"
+    },
+    {
+      "paperId": "06962b408a1b64a9245e76c57ed9bdb4274d632e"
+    },
+    {
+      "paperId": "e2c49ba1310e4119010e6967968d4ad17e7b1488"
+    },
+    {
+      "paperId": "437eb9367ea25449473a4216ccd60e70e845ce06"
+    },
+    {
+      "paperId": "9fe19c6ce6cb35bab0bbf6ff2d7d956d8854b5d9"
+    },
+    {
+      "paperId": "5a906d9e384d14ba88fa80f55282a77c2be7c7cf"
+    },
+    {
+      "paperId": "30e847b55997e86f15c1e2491770c6710a42bcbc"
+    },
+    {
+      "paperId": "d7bfb47df15a98b31ca9508ecf3c96fff42de9ea"
+    },
+    {
+      "paperId": "7dd52d18171456d71d3e786eb6ffc628a8595c90"
+    },
+    {
+      "paperId": "690381eec2b857dd355308e0bb9fd642f062e1b5"
+    },
+    {
+      "paperId": "a90613b3ddce99a6d1672be63e309e5543bd76f0"
+    },
+    {
+      "paperId": "bbfffaa88c74245a68021dd91bad407123d17cc3"
+    },
+    {
+      "paperId": "914ea4b5ac60d9d67063b5e4607ad667e01cee95"
+    },
+    {
+      "paperId": "62f2dfd9eae188869e8ce363eafa535d33e47bf5"
+    },
+    {
+      "paperId": "9601aadd2f5ef665a87248aa1563056c66da9f4d"
+    },
+    {
+      "paperId": "133111779085aaaacbfb23581f54b1618d962082"
+    },
+    {
+      "paperId": "c40fcf0d9334fc606cf9c76ec885250a01e4fb67"
+    },
+    {
+      "paperId": "2a0127cf56dcad6e9623db0880450bfc15fc9bb0"
+    },
+    {
+      "paperId": "ad4038f0b8a0f12287186720ea06654ec2563013"
+    },
+    {
+      "paperId": "7da8ab86846831caa79f226a8e89d56d12c554eb"
+    },
+    {
+      "paperId": "d3e0cd9e0dfafcab5da582a2773398f8aac4612a"
+    },
+    {
+      "paperId": "dace43780db573296e8811616829994724b69d86"
+    },
+    {
+      "paperId": "c1e336190c4cca36ed90f48894fabdd4f5d63a72"
+    },
+    {
+      "paperId": "c0ea125e00a9d1b2835767cc1a3a820d75d009b8"
+    },
+    {
+      "paperId": "a15516b5084c6c342e2915a3b2c42c309bd7623b"
+    },
+    {
+      "paperId": "3b7aaa23305d350a70f20ffd61ad2ca5767f2b52"
+    },
+    {
+      "paperId": "a7352bf3b88df27f0d0faa9d7ee7198a8b304c1d"
+    },
+    {
+      "paperId": "8af03d682fe4a09a25617215f972646d049954d5"
+    },
+    {
+      "paperId": "85c8294a56d2e7fba8bcf0c727602c6b81000f3b"
+    },
+    {
+      "paperId": "088d90204e1489a4d7e500a7dfaed6e2b4e307e7"
+    },
+    {
+      "paperId": "20839c5a7f2566b47f365972efedc46e37d4f24a"
+    },
+    {
+      "paperId": "25c4a0bbca58a1cd2bcb9a59dfe3e8224edf0c29"
+    },
+    {
+      "paperId": "50ed3e0cc54c377b055da09798e865d991caaee5"
+    },
+    {
+      "paperId": "e1acda7ffe7f76472e1124364de710a576fe540c"
+    },
+    {
+      "paperId": "2fb2248929e2dfba4fe75ced7fa39f8e0b6b48e3"
+    },
+    {
+      "paperId": "4dde8750c0e4b1ee6add51a59a69fe6568e673f1"
+    },
+    {
+      "paperId": "12c7d7db0d7a5943a413db2e6c38d387c8c28070"
+    },
+    {
+      "paperId": "5ecda3366999b66f84fdb4921696f995211cdb32"
+    },
+    {
+      "paperId": "a497087dcfc47608817b90808d356f3b43e37499"
+    },
+    {
+      "paperId": "ff126346998366b1c8072edd10f9a20f6756617c"
+    },
+    {
+      "paperId": "88386fd12c3452cf0ccdb1bd09088864b4e73d0a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b2738a88fd855d94da2d75694dfdb2dab2766152"
+    },
+    {
+      "paperId": "d3f20b20d4137e93a16bb265775d9c0575cd0931"
+    },
+    {
+      "paperId": "ced4538b5845dab9fde8cdd13876edac215911df"
+    },
+    {
+      "paperId": "31db4bcd8bd150933892a11160f35197c2c91e95"
+    },
+    {
+      "paperId": "351b78f3838cf659dcb5c5da9273f2d2161da05e"
+    },
+    {
+      "paperId": "e22d7ee1648ae8a7c7bc203f459fc5e1f971b98c"
+    },
+    {
+      "paperId": "fc798028b4809ebe430559a5450d5fb54bd69a62"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "11c8fbbbbf1d20c91fa79b55a4aa1c30ad4c94ef"
+    },
+    {
+      "paperId": "a9423c53289ec0a713f4a102f567e6f2933ab8ce"
+    },
+    {
+      "paperId": "a34c345442a1865942ccbb5e1e086ae4c30c39e3"
+    },
+    {
+      "paperId": "9b25d279a07ae17e00c0df3c5e66266bc4bb61c3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "72b58e9417e97278e500cc0a5d01f19fc150c7b4"
+    },
+    {
+      "paperId": "36ca707ad82bdabb4aad460c8ed6b080a45dfdda"
+    },
+    {
+      "paperId": "b8010d8b948f4ac97b2c372c41983109c044e45e"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "0bf304cb7b43fb07c51c34321c71cf3142162ce8",
+  "externalIds": {
+    "DBLP": "journals/jmm2/ZhangW14",
+    "MAG": "1969331153",
+    "DOI": "10.4304/jmm.9.4.534-541",
+    "CorpusId": 18268570
+  },
+  "url": "https://www.semanticscholar.org/paper/0bf304cb7b43fb07c51c34321c71cf3142162ce8",
+  "title": "Laser Vision-Based Plant Geometries Computation in Greenhouses",
+  "venue": "J. Multim.",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4304/jmm.9.4.534-541?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4304/jmm.9.4.534-541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2153635281",
+      "name": "Yu Zhang"
+    },
+    {
+      "authorId": "1519971304",
+      "name": "Xiaochan Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

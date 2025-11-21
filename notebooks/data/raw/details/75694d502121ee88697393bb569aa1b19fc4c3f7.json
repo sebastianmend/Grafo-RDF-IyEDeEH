@@ -1,0 +1,40 @@
+{
+  "paperId": "75694d502121ee88697393bb569aa1b19fc4c3f7",
+  "externalIds": {
+    "DBLP": "conf/iccps/SilvaV10",
+    "MAG": "1983399408",
+    "DOI": "10.1145/1795194.1795206",
+    "CorpusId": 15592689
+  },
+  "url": "https://www.semanticscholar.org/paper/75694d502121ee88697393bb569aa1b19fc4c3f7",
+  "title": "(CPS)^2: integration of center pivot systems with wireless underground sensor networks for autonomous precision agriculture",
+  "venue": "International Conference on Cyber-Physical Systems",
+  "year": 2010,
+  "citationCount": 61,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/1795194.1795206?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/1795194.1795206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1557395278",
+      "name": "Agnelo R. Silva"
+    },
+    {
+      "authorId": "29777554",
+      "name": "M. Vuran"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

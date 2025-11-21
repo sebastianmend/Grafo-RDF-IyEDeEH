@@ -1,0 +1,46 @@
+{
+  "paperId": "ed2fd164629994d42892a95eedb5e57ef6f5d805",
+  "externalIds": {
+    "MAG": "2000153427",
+    "DOI": "10.1109/ICCE-CHINA.2014.7029857",
+    "CorpusId": 9937694
+  },
+  "url": "https://www.semanticscholar.org/paper/ed2fd164629994d42892a95eedb5e57ef6f5d805",
+  "title": "Design of intelligent greenhouse environment monitoring system based on ZigBee and embedded technology",
+  "venue": "IEEE International Conference on Consumer Electronics",
+  "year": 2014,
+  "citationCount": 38,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCE-CHINA.2014.7029857?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCE-CHINA.2014.7029857, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "49358210",
+      "name": "Weimin Qiu"
+    },
+    {
+      "authorId": "2152289666",
+      "name": "Linxi Dong"
+    },
+    {
+      "authorId": "1682816",
+      "name": "Fei Wang"
+    },
+    {
+      "authorId": "46995166",
+      "name": "Haixia Yan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

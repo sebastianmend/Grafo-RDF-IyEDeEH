@@ -1,0 +1,55 @@
+{
+  "paperId": "c1c8e5bcc12db073219730b326bca9b8b1a114e8",
+  "externalIds": {
+    "MAG": "2052589879",
+    "DBLP": "conf/igarss/ReficeDPLCM15",
+    "DOI": "10.1109/IGARSS.2015.7326034",
+    "CorpusId": 25954784
+  },
+  "url": "https://www.semanticscholar.org/paper/c1c8e5bcc12db073219730b326bca9b8b1a114e8",
+  "title": "Towards high-precision flood mapping: Multi-temporal SAR/InSAR data, Bayesian inference, and hydrologic modeling",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2015.7326034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2015.7326034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1755439",
+      "name": "A. Refice"
+    },
+    {
+      "authorId": "1380860186",
+      "name": "A. D’Addabbo"
+    },
+    {
+      "authorId": "2054449",
+      "name": "G. Pasquariello"
+    },
+    {
+      "authorId": "40263966",
+      "name": "F. Lovergine"
+    },
+    {
+      "authorId": "3174016",
+      "name": "D. Capolongo"
+    },
+    {
+      "authorId": "2503277",
+      "name": "S. Manfreda"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

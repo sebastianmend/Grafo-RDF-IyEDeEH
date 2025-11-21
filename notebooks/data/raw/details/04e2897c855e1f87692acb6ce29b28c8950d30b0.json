@@ -1,0 +1,50 @@
+{
+  "paperId": "04e2897c855e1f87692acb6ce29b28c8950d30b0",
+  "externalIds": {
+    "MAG": "1974497773",
+    "DOI": "10.1109/ARGO-GEOINFORMATICS.2013.6621978",
+    "CorpusId": 40776960
+  },
+  "url": "https://www.semanticscholar.org/paper/04e2897c855e1f87692acb6ce29b28c8950d30b0",
+  "title": "Delineating regional and local Uniform Management Zones of agroecosystems using geospatial data",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ARGO-GEOINFORMATICS.2013.6621978?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ARGO-GEOINFORMATICS.2013.6621978, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2494626",
+      "name": "Huanjun Liu"
+    },
+    {
+      "authorId": "2108029562",
+      "name": "Xinle Zhang"
+    },
+    {
+      "authorId": "2117433996",
+      "name": "X. Ding"
+    },
+    {
+      "authorId": "2389005040",
+      "name": "Ted Huffman"
+    },
+    {
+      "authorId": "2119611715",
+      "name": "Jiangui Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

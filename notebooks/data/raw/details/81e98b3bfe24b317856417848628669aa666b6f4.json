@@ -1,0 +1,53 @@
+{
+  "paperId": "81e98b3bfe24b317856417848628669aa666b6f4",
+  "externalIds": {
+    "MAG": "2094402947",
+    "DBLP": "conf/icarcv/UrdalUVEG14",
+    "DOI": "10.1109/ICARCV.2014.7064570",
+    "CorpusId": 11128249
+  },
+  "url": "https://www.semanticscholar.org/paper/81e98b3bfe24b317856417848628669aa666b6f4",
+  "title": "Design and control of precision drop-on-demand herbicide application in agricultural robotics",
+  "venue": "International Conference on Control, Automation, Robotics and Vision",
+  "year": 2014,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICARCV.2014.7064570?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICARCV.2014.7064570, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2226640",
+      "name": "Frode Urdal"
+    },
+    {
+      "authorId": "2961349",
+      "name": "Trygve Utstumo"
+    },
+    {
+      "authorId": "101064763",
+      "name": "Janica Vatne"
+    },
+    {
+      "authorId": "103252838",
+      "name": "Simen Å. Ellingsen"
+    },
+    {
+      "authorId": "1739946",
+      "name": "J. Gravdahl"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

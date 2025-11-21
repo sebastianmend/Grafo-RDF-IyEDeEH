@@ -1,0 +1,52 @@
+{
+  "paperId": "51a2e90ca5f13e8fcd26031f0f2b28c71dbb886e",
+  "externalIds": {
+    "DBLP": "conf/whispers/HadouxGRRS13",
+    "MAG": "2766597740",
+    "DOI": "10.1109/WHISPERS.2013.8080709",
+    "CorpusId": 44768194
+  },
+  "url": "https://www.semanticscholar.org/paper/51a2e90ca5f13e8fcd26031f0f2b28c71dbb886e",
+  "title": "Spectral-spatial pre-processing using multi-resolution 3D wavelets for hyperspectral image classification",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2013.8080709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2013.8080709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3170596",
+      "name": "X. Hadoux"
+    },
+    {
+      "authorId": "3278397",
+      "name": "N. Gorretta"
+    },
+    {
+      "authorId": "2797209",
+      "name": "G. Rabatel"
+    },
+    {
+      "authorId": "145693443",
+      "name": "J. Roger"
+    },
+    {
+      "authorId": "35112411",
+      "name": "O. Strauss"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

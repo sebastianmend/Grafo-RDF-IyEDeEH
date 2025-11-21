@@ -1,0 +1,38 @@
+{
+  "paperId": "8edf116887dbc49d2d9a191c61393bdef21cf2d3",
+  "externalIds": {
+    "MAG": "2014909606",
+    "DOI": "10.1109/PLANS.2014.6851405",
+    "CorpusId": 25589964
+  },
+  "url": "https://www.semanticscholar.org/paper/8edf116887dbc49d2d9a191c61393bdef21cf2d3",
+  "title": "GPS mass-market receivers for precise farming",
+  "venue": "2014 IEEE/ION Position, Location and Navigation Symposium - PLANS 2014",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iris.polito.it/bitstream/11583/2561756/1/Articolo_sottomesso.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PLANS.2014.6851405?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PLANS.2014.6851405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3439803",
+      "name": "P. Dabove"
+    },
+    {
+      "authorId": "1484367107",
+      "name": "A. Manzino"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

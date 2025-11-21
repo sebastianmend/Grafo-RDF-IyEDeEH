@@ -1,0 +1,38 @@
+{
+  "paperId": "c79e2dfadfc572b9959fe89e7710927e707aa503",
+  "externalIds": {
+    "MAG": "1986089919",
+    "DOI": "10.1109/ICCPEIC.2013.6778501",
+    "CorpusId": 15714313
+  },
+  "url": "https://www.semanticscholar.org/paper/c79e2dfadfc572b9959fe89e7710927e707aa503",
+  "title": "Online farming based on embedded systems and wireless sensor networks",
+  "venue": "International Conference on Computation of Power, Energy, Information and Communication",
+  "year": 2013,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCPEIC.2013.6778501?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCPEIC.2013.6778501, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9177013",
+      "name": "K. Sathish kannan"
+    },
+    {
+      "authorId": "49401958",
+      "name": "G. Thilagavathi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

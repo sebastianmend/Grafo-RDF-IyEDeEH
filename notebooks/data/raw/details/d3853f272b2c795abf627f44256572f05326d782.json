@@ -1,0 +1,180 @@
+{
+  "paperId": "d3853f272b2c795abf627f44256572f05326d782",
+  "externalIds": {
+    "PubMedCentral": "4051594",
+    "MAG": "2027404506",
+    "DOI": "10.1371/journal.pbio.1001877",
+    "CorpusId": 17179709,
+    "PubMed": "24915127"
+  },
+  "url": "https://www.semanticscholar.org/paper/d3853f272b2c795abf627f44256572f05326d782",
+  "title": "Precision Genome Engineering and Agriculture: Opportunities and Regulatory Challenges",
+  "venue": "PLoS Biology",
+  "year": 2014,
+  "citationCount": 398,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001877&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4051594, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1991544",
+      "name": "D. Voytas"
+    },
+    {
+      "authorId": "2148757368",
+      "name": "Caixia Gao"
+    }
+  ],
+  "abstract": "As Caixia Gao and Dan Voytas explain, new techniques make it possible to precisely edit plant genomic DNA, providing opportunities to create crop varieties that will help meet the challenges facing agriculture, including an expanding world population and environmental change.",
+  "references": [
+    {
+      "paperId": "494449004a2d3c4f94c10ee1baabbb926879c501"
+    },
+    {
+      "paperId": "3c1f63e3b71f926ffde22715177ed60a66d9d52e"
+    },
+    {
+      "paperId": "08c02ac88bbf3e3330a946e85526fe03687d7c98"
+    },
+    {
+      "paperId": "b5e0ea0ba3b57a5153f5d71eed9ef3b6bbd7ac3b"
+    },
+    {
+      "paperId": "2aff31cd741bf2ef161eedf851ab510d91b7e3b5"
+    },
+    {
+      "paperId": "b244a2bde2b986af2a259a4aa2354f1b1081993f"
+    },
+    {
+      "paperId": "1e784a4b34998aa4e9c865238a85221b11860fd4"
+    },
+    {
+      "paperId": "ce12fb0ebb0f040c8a2eda847ebfc3b40e521602"
+    },
+    {
+      "paperId": "e8ad95c8f22c1db8d7a46bcd5def5e790d3873bb"
+    },
+    {
+      "paperId": "92d7f5432b123198b7f88f4f9b1bd83bce493f76"
+    },
+    {
+      "paperId": "ad72023937a2f63cbbab4634c4389088a53449f9"
+    },
+    {
+      "paperId": "50c3b169e729a8f56e8d952a06b73d047cc06233"
+    },
+    {
+      "paperId": "73dc2a2860a54e026c8955fda64c8c72167871f6"
+    },
+    {
+      "paperId": "00bb027fb29c880f4c7b86459c364278dd7b45f0"
+    },
+    {
+      "paperId": "5bd9a0e7b729bedea35338d4dda58bba415b42d6"
+    },
+    {
+      "paperId": "68d962effe5520777791bd6ec8ffa4b963ba4f38"
+    },
+    {
+      "paperId": "3e694397f245413b57cc5efdf8340ee9b566e7d7"
+    },
+    {
+      "paperId": "eaf6d2be00b828e7120a36a2786c4a0b3141fd58"
+    },
+    {
+      "paperId": "48a367b6735bacdb47c578cce32b938473f331c8"
+    },
+    {
+      "paperId": "a2aa961a0bda5ff16306d42e9e156d573dd356de"
+    },
+    {
+      "paperId": "0377917a46fe1fffbe93c9c6501d75196c7a728b"
+    },
+    {
+      "paperId": "e926f4510405ac6671524d548e0222f8510fc407"
+    },
+    {
+      "paperId": "a9a220b7bb119444a06ecda5acd1729662590a9c"
+    },
+    {
+      "paperId": "ed4c2b719e5fbb45fae4cf69ebbd994aa94d167a"
+    },
+    {
+      "paperId": "64321745e6e81bd7bc2e473d4861fa79cd7dd464"
+    },
+    {
+      "paperId": "57a01a7bfa92c0d4d1ed21a9caf8340bb5f2c3ef"
+    },
+    {
+      "paperId": "0067e855be25f9e314c73d384de0abc24ed759cc"
+    },
+    {
+      "paperId": "b2288b84366e7097126a99178bd9e1ba51105a71"
+    },
+    {
+      "paperId": "9670310bba439e48d5ffcb32812728957e91ff6e"
+    },
+    {
+      "paperId": "b4ed5ef06201143c20d41ed2e5c4c994c85df58a"
+    },
+    {
+      "paperId": "4d5de49603aacf7cd33d76cddad89fcf97359741"
+    },
+    {
+      "paperId": "f97149b2c2ae8574d991e5848aead88637166314"
+    },
+    {
+      "paperId": "681e03a2e4c3585cbaec818086a3b20237bcfc05"
+    },
+    {
+      "paperId": "045ff1346799e361b6e69dd918fc4142e0175522"
+    },
+    {
+      "paperId": "3b17eba28499b958a771d32bafe0751859e49d3c"
+    },
+    {
+      "paperId": "c6b8971038b7b148db456b808d0e0aeaf2ccbacf"
+    },
+    {
+      "paperId": "c6128e08476194cdf39f1ce3cd253b854cc13c2d"
+    },
+    {
+      "paperId": "11142c0473fb31175b5db5ab8061d5cb9590327e"
+    },
+    {
+      "paperId": "26f0da3cfcc2e0e16ac616c48dbcdc6089dbf840"
+    },
+    {
+      "paperId": "155365038414b23fec3f7537affdd8325c973dcf"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0211741f7cf8427a3faf603570e6ad47fd3b2065"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cf63127466c9cadb34bdb0e3eaec099049b90512"
+    },
+    {
+      "paperId": "5e1d081f3fdca7442a71bbc5dec4206ad4c3829b"
+    },
+    {
+      "paperId": "71d2caa09ad2ffe669ef99ddaef20e31beea9bfa"
+    }
+  ]
+}

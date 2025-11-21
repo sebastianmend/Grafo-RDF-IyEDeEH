@@ -1,0 +1,98 @@
+{
+  "paperId": "163a653c4129fc339209530e2da71d6f242df931",
+  "externalIds": {
+    "ArXiv": "1806.03237",
+    "DBLP": "journals/corr/abs-1806-03237",
+    "MAG": "3003271354",
+    "CorpusId": 47010236
+  },
+  "url": "https://www.semanticscholar.org/paper/163a653c4129fc339209530e2da71d6f242df931",
+  "title": "A Wireless Multimedia Sensor Network Platform for Environmental Event Detection Dedicated to Precision Agriculture",
+  "venue": "arXiv.org",
+  "year": 2013,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1806.03237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2078763",
+      "name": "Hongling Shi"
+    },
+    {
+      "authorId": "2397709",
+      "name": "K. Hou"
+    },
+    {
+      "authorId": "3261078",
+      "name": "Xunming Diao"
+    },
+    {
+      "authorId": "2146036428",
+      "name": "Xing Liu"
+    },
+    {
+      "authorId": "2213623",
+      "name": "Jianjin Li"
+    },
+    {
+      "authorId": "2485410",
+      "name": "C. D. Vaulx"
+    }
+  ],
+  "abstract": "Precision agriculture has been considered as a new technique to improve agricultural production and support sustainable development by preserving planet resource and minimizing pollution. By monitoring different parameters of interest in a cultivated field, wireless sensor network (WSN) enables real-time decision making with regard to issues such as management of water resources for irrigation, choosing the optimum point for harvesting, estimating fertilizer requirements and predicting crop yield more accurately. In spite the tremendous advanced of scalar WSN in recent year, scalar WSN cannot meet all the requirements of ubiquitous intelligent environmental event detections because scalar data such as temperature, soil humidity, air humidity and light intensity are not rich enough to detect all the environmental events such as plant diseases and present of insects. Thus to fulfill those requirements multimedia data is needed. In this paper we present a robust multi-support and modular Wireless Multimedia Sensor Network (WMSN) platform, which is a type of wireless sensor network equipped with a low cost CCD camera. This WMSN platform may be used for diverse environmental event detections such as the presence of plant diseases and insects in precision agriculture applications.",
+  "references": [
+    {
+      "paperId": "f1201ebeb649037d9dce391a49aba0959e1f45ab"
+    },
+    {
+      "paperId": "7f3d0243e8e21c3883a14627b2b78149fbd4bcd8"
+    },
+    {
+      "paperId": "4c5ebb465746ffd50175081e1185e65535ea2fd0"
+    },
+    {
+      "paperId": "83e2e4f7d928abfec1ef13c4ba0df4305800e763"
+    },
+    {
+      "paperId": "7b1762f1219a0ae1afa64fe045fefc4657c9c0fa"
+    },
+    {
+      "paperId": "ff8672ae5b76eeab92ff7a2319a6e2d6c09945ab"
+    },
+    {
+      "paperId": "4aebb3c1e7dae13473e0c0ede419f106cce721e3"
+    },
+    {
+      "paperId": "a0fbb1cc6c7c18d5559f42db6f51b03324f56ecb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f4293c399e46cdfadda822adbcb28e1f5f9ebd3a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

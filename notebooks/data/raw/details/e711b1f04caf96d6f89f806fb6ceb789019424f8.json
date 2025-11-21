@@ -1,0 +1,51 @@
+{
+  "paperId": "e711b1f04caf96d6f89f806fb6ceb789019424f8",
+  "externalIds": {
+    "MAG": "2387431771",
+    "CorpusId": 241948,
+    "PubMed": "24564152"
+  },
+  "url": "https://www.semanticscholar.org/paper/e711b1f04caf96d6f89f806fb6ceb789019424f8",
+  "title": "[Monitoring of soil salinization in Northern Tarim Basin, Xinjiang of China in dry and wet seasons based on remote sensing].",
+  "venue": "Ying yong sheng tai xue bao = The journal of applied ecology",
+  "year": 2013,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2049465468",
+      "name": "Yuan Yao"
+    },
+    {
+      "authorId": "2678573",
+      "name": "J. Ding"
+    },
+    {
+      "authorId": "2153305452",
+      "name": "Fang Zhang"
+    },
+    {
+      "authorId": "123865566",
+      "name": "Gang Wang"
+    },
+    {
+      "authorId": "13809236",
+      "name": "Hongnan Jiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

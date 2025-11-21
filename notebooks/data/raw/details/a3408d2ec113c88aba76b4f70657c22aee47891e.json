@@ -1,0 +1,130 @@
+{
+  "paperId": "a3408d2ec113c88aba76b4f70657c22aee47891e",
+  "externalIds": {
+    "MAG": "2111396870",
+    "DBLP": "journals/remotesensing/Acevo-HerreraAB10",
+    "DOI": "10.3390/rs2071662",
+    "CorpusId": 16081205
+  },
+  "url": "https://www.semanticscholar.org/paper/a3408d2ec113c88aba76b4f70657c22aee47891e",
+  "title": "Design and First Results of an UAV-Borne L-Band Radiometer for Multiple Monitoring Purposes",
+  "venue": "Remote Sensing",
+  "year": 2010,
+  "citationCount": 59,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/2/7/1662/pdf?version=1403129183",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs2071662?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs2071662, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1404992217",
+      "name": "R. Acevo-Herrera"
+    },
+    {
+      "authorId": "1734328",
+      "name": "A. Aguasca"
+    },
+    {
+      "authorId": "1398970957",
+      "name": "X. Bosch-Lluis"
+    },
+    {
+      "authorId": "73642840",
+      "name": "Adriano Camps"
+    },
+    {
+      "authorId": "147110054",
+      "name": "J. Martínez-Fernández"
+    },
+    {
+      "authorId": "1397897365",
+      "name": "Nilda Sanchez-Martin"
+    },
+    {
+      "authorId": "1402983851",
+      "name": "C. Perez-Gutierrez"
+    }
+  ],
+  "abstract": "UAV (unmanned Aerial Vehicle) platforms represent a challenging opportunity for the deployment of a number of remote sensors. These vehicles are a cost-effective option in front of manned aerial vehicles (planes and helicopters), are easy to deploy due to the short runways needed, and they allow users to meet the critical requirements of the spatial and temporal resolutions imposed by the instruments. L-band radiometers are an interesting option for obtaining soil moisture maps over local areas with relatively high spatial resolution for precision agriculture, coastal monitoring, estimation of the risk of fires, flood prevention, etc. This paper presents the design of a light-weight, airborne L-band radiometer for deployment in a small UAV, including the hardware and specific software developed for calibration, geo-referencing, and soil moisture retrieval. First results and soil moisture retrievals from different field experiments are presented.",
+  "references": [
+    {
+      "paperId": "d39e11dab69c7c0dd253992b3fcd6be94116bfaa"
+    },
+    {
+      "paperId": "c67781cafab769a723347592de89e04426f9da4e"
+    },
+    {
+      "paperId": "506cecf7a44d8d46da10a7264822a92f7c39ec9b"
+    },
+    {
+      "paperId": "65c0b81f3830724f42b4980115da9cd67c0ed798"
+    },
+    {
+      "paperId": "ec58cb203e87e5e9c56ec61ccbf2fafe48297bb6"
+    },
+    {
+      "paperId": "2f53b52efaa126d9f8684b5213529db82c585dac"
+    },
+    {
+      "paperId": "db47affe86484e8e34124299c3f63141395ceb7e"
+    },
+    {
+      "paperId": "2534050beba18ea3c76fea3dadf408d1910679a4"
+    },
+    {
+      "paperId": "2f01111ac50aa8bafffa01cb5b93c135013e9d00"
+    },
+    {
+      "paperId": "5280a48fd4c9c03ffb38f8d68e4c4a6867104d22"
+    },
+    {
+      "paperId": "7fdba08792cf2c846b87bf2a7e49bae3d31aa9af"
+    },
+    {
+      "paperId": "c1fb360e5d0bbd40a2a2562147a954eacaa33895"
+    },
+    {
+      "paperId": "cf96c91378903fe7f6580a9390f51979de449c14"
+    },
+    {
+      "paperId": "1e34435375dcfc6381200ac6d23c48037b3fa5a9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

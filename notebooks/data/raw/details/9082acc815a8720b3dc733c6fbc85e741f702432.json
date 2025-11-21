@@ -1,0 +1,43 @@
+{
+  "paperId": "9082acc815a8720b3dc733c6fbc85e741f702432",
+  "externalIds": {
+    "MAG": "1833811619",
+    "DBLP": "conf/evoW/SaloTN12",
+    "DOI": "10.1007/978-3-642-29178-4_36",
+    "CorpusId": 32186420
+  },
+  "url": "https://www.semanticscholar.org/paper/9082acc815a8720b3dc733c6fbc85e741f702432",
+  "title": "Evolutionary Regression Machines for Precision Agriculture",
+  "venue": "EvoApplications",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-29178-4_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-29178-4_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145673015",
+      "name": "H. Salo"
+    },
+    {
+      "authorId": "2576884",
+      "name": "V. Tirronen"
+    },
+    {
+      "authorId": "2614610",
+      "name": "Ferrante Neri"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,180 @@
+{
+  "paperId": "72c2a39bb3ecec58309d94e40644c6acaf9ec0da",
+  "externalIds": {
+    "PubMedCentral": "4143272",
+    "MAG": "2053171781",
+    "DOI": "10.1371/journal.pone.0105730",
+    "CorpusId": 2964756,
+    "PubMed": "25153481"
+  },
+  "url": "https://www.semanticscholar.org/paper/72c2a39bb3ecec58309d94e40644c6acaf9ec0da",
+  "title": "The Neolithic Demographic Transition in Europe: Correlation with Juvenility Index Supports Interpretation of the Summed Calibrated Radiocarbon Date Probability Distribution (SCDPD) as a Valid Demographic Proxy",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 85,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0105730&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4143272, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3348927",
+      "name": "Sean S. Downey"
+    },
+    {
+      "authorId": "7316804",
+      "name": "E. Bocaege"
+    },
+    {
+      "authorId": "5766617",
+      "name": "T. Kerig"
+    },
+    {
+      "authorId": "6928080",
+      "name": "Kevan Edinborough"
+    },
+    {
+      "authorId": "49338442",
+      "name": "S. Shennan"
+    }
+  ],
+  "abstract": "Analysis of the proportion of immature skeletons recovered from European prehistoric cemeteries has shown that the transition to agriculture after 9000 BP triggered a long-term increase in human fertility. Here we compare the largest analysis of European cemeteries to date with an independent line of evidence, the summed calibrated date probability distribution of radiocarbon dates (SCDPD) from archaeological sites. Our cemetery reanalysis confirms increased growth rates after the introduction of agriculture; the radiocarbon analysis also shows this pattern, and a significant correlation between both lines of evidence confirms the demographic validity of SCDPDs. We analyze the areal extent of Neolithic enclosures and demographic data from ethnographically known farming and foraging societies and we estimate differences in population levels at individual sites. We find little effect on the overall shape and precision of the SCDPD and we observe a small increase in the correlation with the cemetery trends. The SCDPD analysis supports the hypothesis that the transition to agriculture dramatically increased demographic growth, but it was followed within centuries by a general pattern of collapse even after accounting for higher settlement densities during the Neolithic. The study supports the unique contribution of SCDPDs as a valid demographic proxy for the demographic patterns associated with early agriculture.",
+  "references": [
+    {
+      "paperId": "d33558c717fb6e8274a999dc440c26c7ee443e5a"
+    },
+    {
+      "paperId": "9a0b2aa9893fed8dd9ad394f75627d2a45a60017"
+    },
+    {
+      "paperId": "4fa891eb8db5273971bbecbd89e6f4ace2f12bcd"
+    },
+    {
+      "paperId": "0ad9f1e5f8c9ca5e3d8d1a8d2ad7ae4ae26325c9"
+    },
+    {
+      "paperId": "13ed11ee70beaa181673ea7490dfdcace58a49da"
+    },
+    {
+      "paperId": "609f8d6d9f05022735bd3c8db4c232ded067cd22"
+    },
+    {
+      "paperId": "867c97050904f5743131a102abd1b66a4252757f"
+    },
+    {
+      "paperId": "f43aaf9f7f121086fb2f23996e8266ad33b0f7aa"
+    },
+    {
+      "paperId": "afad637b25d9064d13e0166ea670cd5f1fda9f25"
+    },
+    {
+      "paperId": "fab23a4d13ee09e25913ee21d0fce981f1fcc85f"
+    },
+    {
+      "paperId": "c80a725f17a8e75d6ac4bfb2d64b213cb789a740"
+    },
+    {
+      "paperId": "8b351f9e0651cdfaf84bfc635f7bdb6d94a4d5af"
+    },
+    {
+      "paperId": "48497e0ea8b0e95b5f24fce0f282b243314478fe"
+    },
+    {
+      "paperId": "fc0b027bd939e53ea8d166aac852e5088479231e"
+    },
+    {
+      "paperId": "e51a0f07209f4bb0786e0c5ba071b4222ce715df"
+    },
+    {
+      "paperId": "3a456056200dcba39ab22783b89ac33ed1ebf350"
+    },
+    {
+      "paperId": "3191fbcb7713d93b081146b6f006e1aacbb014d1"
+    },
+    {
+      "paperId": "0822ddbdf1af04f5824a75c1990f63fcb9bd5096"
+    },
+    {
+      "paperId": "d6af69ce548b24a7bc54497d280255e3fa744fb8"
+    },
+    {
+      "paperId": "23374beed64055e9b4c9f56fed3e02836aec4e14"
+    },
+    {
+      "paperId": "cbd166dc9b4173907c645e501586c5e03fba263c"
+    },
+    {
+      "paperId": "9d2ff2b4d7f2168edf2241de05054c95268d2b87"
+    },
+    {
+      "paperId": "3d3b2a4f1ae4e029a43c22171cb61f3c56516d72"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "abe559404229cb4dba89a533f6956396b1727cb6"
+    },
+    {
+      "paperId": "026db39b9cba967607c8b15e746c31a4f9276c06"
+    },
+    {
+      "paperId": "482bc339857aa6c852ed355df998c0e727a83dd3"
+    },
+    {
+      "paperId": "3e5c6e5d3c7e691d686e099e476050fc3e9433ef"
+    },
+    {
+      "paperId": "c4e4660a3cf8d448b3a31a72f0712245fe1fdf41"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a1f2bb68a9d13d061b06aba7ae4cd55e3cb48f5d"
+    },
+    {
+      "paperId": "6dd854ff008743f7010331752ab5b00d31d88c87"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "40a982c68cf0501d93c67ea839d81999d1d4480e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ff0424898c126e7b9e74948ceeb1fc914b1cd238"
+    },
+    {
+      "paperId": "4f4d03bb2750d5207ace28a3c1cfceb9a319f0b7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "089d4dcce84c5a95c55eb9a51fa73c847156162a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

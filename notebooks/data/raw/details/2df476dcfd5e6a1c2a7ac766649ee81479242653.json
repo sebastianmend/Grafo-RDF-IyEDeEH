@@ -1,0 +1,34 @@
+{
+  "paperId": "2df476dcfd5e6a1c2a7ac766649ee81479242653",
+  "externalIds": {
+    "MAG": "2030258888",
+    "DOI": "10.1109/GHTC-SAS.2013.6629944",
+    "CorpusId": 21109914
+  },
+  "url": "https://www.semanticscholar.org/paper/2df476dcfd5e6a1c2a7ac766649ee81479242653",
+  "title": "A software model for precision agriculture for small and marginal farmers",
+  "venue": "IEEE Global Humanitarian Technology Conference",
+  "year": 2013,
+  "citationCount": 43,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GHTC-SAS.2013.6629944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GHTC-SAS.2013.6629944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "37679738",
+      "name": "S. Babu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

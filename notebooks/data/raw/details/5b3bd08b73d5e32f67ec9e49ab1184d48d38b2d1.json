@@ -1,0 +1,50 @@
+{
+  "paperId": "5b3bd08b73d5e32f67ec9e49ab1184d48d38b2d1",
+  "externalIds": {
+    "MAG": "2412386260",
+    "CorpusId": 35413106,
+    "PubMed": "26601394"
+  },
+  "url": "https://www.semanticscholar.org/paper/5b3bd08b73d5e32f67ec9e49ab1184d48d38b2d1",
+  "title": "[Transferability of Hyperspectral Model for Estimating Soil Organic Matter Concerned with Soil Moisture].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109207652",
+      "name": "Yi-Yun Chen"
+    },
+    {
+      "authorId": "2065702840",
+      "name": "Kun Qi"
+    },
+    {
+      "authorId": "2108924523",
+      "name": "Yao Liu"
+    },
+    {
+      "authorId": "150147668",
+      "name": "Jian-hua He"
+    },
+    {
+      "authorId": "4770563",
+      "name": "Qinghu Jiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

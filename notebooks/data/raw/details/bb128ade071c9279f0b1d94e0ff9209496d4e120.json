@@ -1,0 +1,139 @@
+{
+  "paperId": "bb128ade071c9279f0b1d94e0ff9209496d4e120",
+  "externalIds": {
+    "DBLP": "journals/sensors/HuangYYPL16",
+    "PubMedCentral": "4732141",
+    "MAG": "2273888131",
+    "DOI": "10.3390/s16010108",
+    "CorpusId": 3716790,
+    "PubMed": "26797616"
+  },
+  "url": "https://www.semanticscholar.org/paper/bb128ade071c9279f0b1d94e0ff9209496d4e120",
+  "title": "Building SDN-Based Agricultural Vehicular Sensor Networks Based on Extended Open vSwitch",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2016,
+  "citationCount": 16,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/16/1/108/pdf?version=1453186557",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4732141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "102628601",
+      "name": "Tao Huang"
+    },
+    {
+      "authorId": "2111431704",
+      "name": "Siyu Yan"
+    },
+    {
+      "authorId": "145338224",
+      "name": "F. Yang"
+    },
+    {
+      "authorId": "144719662",
+      "name": "Tian Pan"
+    },
+    {
+      "authorId": "2119611603",
+      "name": "Jiang Liu"
+    }
+  ],
+  "abstract": "Software-defined vehicular sensor networks in agriculture, such as autonomous vehicle navigation based on wireless multi-sensor networks, can lead to more efficient precision agriculture. In SDN-based vehicle sensor networks, the data plane is simplified and becomes more efficient by introducing a centralized controller. However, in a wireless environment, the main controller node may leave the sensor network due to the dynamic topology change or the unstable wireless signal, leaving the rest of network devices without control, e.g., a sensor node as a switch may forward packets according to stale rules until the controller updates the flow table entries. To solve this problem, this paper proposes a novel SDN-based vehicular sensor networks architecture which can minimize the performance penalty of controller connection loss. We achieve this by designing a connection state detection and self-learning mechanism. We build prototypes based on extended Open vSwitch and Ryu. The experimental results show that the recovery time from controller connection loss is under 100 ms and it keeps rule updating in real time with a stable throughput. This architecture enhances the survivability and stability of SDN-based vehicular sensor networks in precision agriculture.",
+  "references": [
+    {
+      "paperId": "bef320a396f1fc7df022df91279e72aecd3c2a10"
+    },
+    {
+      "paperId": "3ddd2c8163828d2403f089e66b09295402f1365a"
+    },
+    {
+      "paperId": "ecb4b2455b08cbd4e98a6714e2da2fe061c3925d"
+    },
+    {
+      "paperId": "5aa4d00c3239de31109d62f709c9dcf891cdd4b0"
+    },
+    {
+      "paperId": "499507b646fbef1e279e0feaef3974582c38414d"
+    },
+    {
+      "paperId": "cf31217bd022be504ed44a8b1fbdfb921ce47828"
+    },
+    {
+      "paperId": "b9a92fdfa7aec7973fc9394fef7e06fcfd3bc546"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "2641999301e1b69c13af2358a32e9c618731806e"
+    },
+    {
+      "paperId": "5f2d335431fde166451c05f732092982995fc6d6"
+    },
+    {
+      "paperId": "84bd30405210b057856e3ed9911daedbd209860a"
+    },
+    {
+      "paperId": "7a53522f9b7b506dbad5dfb0194db104ebb8e0c4"
+    },
+    {
+      "paperId": "e6d1e2de722703e5b170b0f1e3d7841f7efa4adc"
+    },
+    {
+      "paperId": "0de1204aacb9382651aa569d141820d35a1290f3"
+    },
+    {
+      "paperId": "a5c2ca85d1aa6cfbbea2327ad36b7063767c34fe"
+    },
+    {
+      "paperId": "63ec3bd7a316868f729e3000f9b9ddef759a14a5"
+    },
+    {
+      "paperId": "b7b741d9677cd4176b6ec9af9a94b4fe9a25eea7"
+    },
+    {
+      "paperId": "1b15861b55906d8eabce1e3c9f156ade8d1b4783"
+    },
+    {
+      "paperId": "0320861862ae2200782036d267b71497a1872028"
+    },
+    {
+      "paperId": "85a6ec0c4101577eeb8710644a2f189022f39d30"
+    },
+    {
+      "paperId": "9b6430a7fd8be88032b17c411039df577ade7da2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "92aab4a0d77c53b06e1dc9a5ddf5b0a5d9998b77"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

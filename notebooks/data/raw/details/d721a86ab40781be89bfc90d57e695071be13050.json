@@ -1,0 +1,37 @@
+{
+  "paperId": "d721a86ab40781be89bfc90d57e695071be13050",
+  "externalIds": {
+    "MAG": "2048734592",
+    "DOI": "10.1109/ICICEE.2012.299",
+    "CorpusId": 20517738
+  },
+  "url": "https://www.semanticscholar.org/paper/d721a86ab40781be89bfc90d57e695071be13050",
+  "title": "An Agent-based Component for Web Geographic Information Systems",
+  "venue": "International Conference on E-Business and E-Government",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICEE.2012.299?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICEE.2012.299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "65763962",
+      "name": "Yong-Mao Ren"
+    },
+    {
+      "authorId": "2122808753",
+      "name": "Jingyu Peng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

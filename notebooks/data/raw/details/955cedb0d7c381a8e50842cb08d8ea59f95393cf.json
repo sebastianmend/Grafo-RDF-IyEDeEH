@@ -1,0 +1,39 @@
+{
+  "paperId": "955cedb0d7c381a8e50842cb08d8ea59f95393cf",
+  "externalIds": {
+    "MAG": "2261396163",
+    "DBLP": "conf/ifip12/WangG11",
+    "DOI": "10.1007/978-3-642-27281-3_20",
+    "CorpusId": 15230632
+  },
+  "url": "https://www.semanticscholar.org/paper/955cedb0d7c381a8e50842cb08d8ea59f95393cf",
+  "title": "Agriculture Wireless Temperature and Humidity Sensor Network Based on ZigBee Technology",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-27281-3_20.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27281-3_20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27281-3_20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108250656",
+      "name": "Xi Wang"
+    },
+    {
+      "authorId": "144076647",
+      "name": "Hui Gao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

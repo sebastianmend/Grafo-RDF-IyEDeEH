@@ -1,0 +1,52 @@
+{
+  "paperId": "3d54c3c00f2ffc61e73cf70fcfa81b04b96dfbb4",
+  "externalIds": {
+    "DBLP": "conf/wimob/LiuHSGZ11",
+    "MAG": "2025287329",
+    "DOI": "10.1109/WiMOB.2011.6085359",
+    "CorpusId": 212162
+  },
+  "url": "https://www.semanticscholar.org/paper/3d54c3c00f2ffc61e73cf70fcfa81b04b96dfbb4",
+  "title": "Efficient and portable reprogramming method for high resource-constraint wireless sensor nodes",
+  "venue": "IEEE International Conference on Wireless and Mobile Computing, Networking and Communications",
+  "year": 2011,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WiMOB.2011.6085359?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WiMOB.2011.6085359, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2146036428",
+      "name": "Xing Liu"
+    },
+    {
+      "authorId": "2397709",
+      "name": "K. Hou"
+    },
+    {
+      "authorId": "2078763",
+      "name": "Hongling Shi"
+    },
+    {
+      "authorId": "49444376",
+      "name": "Chengcheng Guo"
+    },
+    {
+      "authorId": "2175164",
+      "name": "Haiying Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

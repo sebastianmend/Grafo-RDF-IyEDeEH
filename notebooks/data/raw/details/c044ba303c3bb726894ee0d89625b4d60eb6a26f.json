@@ -1,0 +1,44 @@
+{
+  "paperId": "c044ba303c3bb726894ee0d89625b4d60eb6a26f",
+  "externalIds": {
+    "MAG": "1543540317",
+    "CorpusId": 46289773
+  },
+  "url": "https://www.semanticscholar.org/paper/c044ba303c3bb726894ee0d89625b4d60eb6a26f",
+  "title": "Design of intelligent spraying system based on ARM9",
+  "venue": "Proceedings of the 31st Chinese Control Conference",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30901528",
+      "name": "Su Hai-peng"
+    },
+    {
+      "authorId": "70029707",
+      "name": "Su Qiao-ping"
+    },
+    {
+      "authorId": "2097328954",
+      "name": "Song Liang-tu"
+    },
+    {
+      "authorId": "26972065",
+      "name": "Sun Wen-juan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

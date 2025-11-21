@@ -1,0 +1,44 @@
+{
+  "paperId": "4b07e78ea16d754da021d85603b67205bba7e066",
+  "externalIds": {
+    "DBLP": "journals/ijaeis/JuniorCG14",
+    "MAG": "2031493510",
+    "DOI": "10.4018/IJAEIS.2014040103",
+    "CorpusId": 16925570
+  },
+  "url": "https://www.semanticscholar.org/paper/4b07e78ea16d754da021d85603b67205bba7e066",
+  "title": "Discriminating Biomass and Nitrogen Status in Wheat Crop by Spectral Reflectance Using Artificial Neural Networks",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4018/IJAEIS.2014040103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/IJAEIS.2014040103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2068709414",
+      "name": "Claudio Kapp Junior"
+    },
+    {
+      "authorId": "3297944",
+      "name": "E. Caires"
+    },
+    {
+      "authorId": "34972493",
+      "name": "A. M. Guimarães"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

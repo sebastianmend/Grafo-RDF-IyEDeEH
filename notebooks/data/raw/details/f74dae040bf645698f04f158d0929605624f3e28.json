@@ -1,0 +1,41 @@
+{
+  "paperId": "f74dae040bf645698f04f158d0929605624f3e28",
+  "externalIds": {
+    "MAG": "2317543429",
+    "DOI": "10.1021/ac303195u",
+    "CorpusId": 21833611,
+    "PubMed": "23137217"
+  },
+  "url": "https://www.semanticscholar.org/paper/f74dae040bf645698f04f158d0929605624f3e28",
+  "title": "Multidimensional gas chromatography: fundamental advances and new applications.",
+  "venue": "Analytical Chemistry",
+  "year": 2013,
+  "citationCount": 211,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/ac303195u?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/ac303195u, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "15892373",
+      "name": "J. Seeley"
+    },
+    {
+      "authorId": "39435062",
+      "name": "S. Seeley"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "b6f0e6bedb694da371116ddc14faa5e447ac1196",
+  "externalIds": {
+    "DBLP": "conf/ifip5-5/BurlacuCSJP14",
+    "MAG": "2111691644",
+    "DOI": "10.1007/978-3-642-54734-8_6",
+    "CorpusId": 12639978
+  },
+  "url": "https://www.semanticscholar.org/paper/b6f0e6bedb694da371116ddc14faa5e447ac1196",
+  "title": "A Conceptual Model of Farm Management Information System for Decision Support",
+  "venue": "Doctoral Conference on Computing, Electrical and Industrial Systems",
+  "year": 2014,
+  "citationCount": 16,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-54734-8_6.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-54734-8_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-54734-8_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "38506066",
+      "name": "G. Burlacu"
+    },
+    {
+      "authorId": "50531199",
+      "name": "R. Costa"
+    },
+    {
+      "authorId": "144089503",
+      "name": "João Sarraipa"
+    },
+    {
+      "authorId": "1398998656",
+      "name": "R. Jardim-Gonçalves"
+    },
+    {
+      "authorId": "49252824",
+      "name": "Dan Popescu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

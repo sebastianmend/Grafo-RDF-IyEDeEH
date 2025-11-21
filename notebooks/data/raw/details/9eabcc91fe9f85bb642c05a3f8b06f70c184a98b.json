@@ -1,0 +1,128 @@
+{
+  "paperId": "9eabcc91fe9f85bb642c05a3f8b06f70c184a98b",
+  "externalIds": {
+    "MAG": "1879951729",
+    "DBLP": "journals/corr/PopovZP15",
+    "ArXiv": "1506.06876",
+    "CorpusId": 7516937
+  },
+  "url": "https://www.semanticscholar.org/paper/9eabcc91fe9f85bb642c05a3f8b06f70c184a98b",
+  "title": "Autonomous 3D Reconstruction Using a MAV",
+  "venue": "arXiv.org",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1506.06876, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2116780290",
+      "name": "A. Popov"
+    },
+    {
+      "authorId": "1842276",
+      "name": "Dimitris Zermas"
+    },
+    {
+      "authorId": "1696163",
+      "name": "N. Papanikolopoulos"
+    }
+  ],
+  "abstract": "An approach is proposed for high resolution 3D reconstruction of an object using a Micro Air Vehicle (MAV). A system is described which autonomously captures images and performs a dense 3D reconstruction via structure from motion with no prior knowledge of the environment. Only the MAVs own sensors, the front facing camera and the Inertial Measurement Unit (IMU) are utilized. Precision agriculture is considered as an example application for the system.",
+  "references": [
+    {
+      "paperId": "4dd0740b069b33ca988cb292988e406fa3c26086"
+    },
+    {
+      "paperId": "3b911e68c0d6a3a5d3d6ee31f9fafebd0937adda"
+    },
+    {
+      "paperId": "8be46befd6a1532d9ccbc95a0ee4d7cd456ec22b"
+    },
+    {
+      "paperId": "4e0da7fddfb5cdbe6acb139bfe247f1d2fba3adc"
+    },
+    {
+      "paperId": "7633c7470819061477433fdae15c64c8b49a758b"
+    },
+    {
+      "paperId": "e2975deb809f35bd47ac3de34e348675a0cfb3f6"
+    },
+    {
+      "paperId": "8a2fcc2e3915c115ccaac63297ff48a4fd52ed73"
+    },
+    {
+      "paperId": "e2d809846019b4ff5efd699d9600489a4f7ba5bf"
+    },
+    {
+      "paperId": "e577d7f4577e904d41d22bc1edc29d8264b23f66"
+    },
+    {
+      "paperId": "4b6140af0b418d1efc00baa4f14fa15c6a68f764"
+    },
+    {
+      "paperId": "9ee001cfe71341c509159f5c881b3f25a2fe5cfc"
+    },
+    {
+      "paperId": "41069b0a399e72d75f18cfc95ede31d4f010e95a"
+    },
+    {
+      "paperId": "5e70bb805cb99904504f12b3fa32ddaae066323c"
+    },
+    {
+      "paperId": "a5d3a937e5ee43ab1542657ea2baf0c5cb139d6e"
+    },
+    {
+      "paperId": "9cd1facd061e807068a22cf1153a53f5ef006c8d"
+    },
+    {
+      "paperId": "59a2793b12cc05533468dba546a28c5f7f98bbca"
+    },
+    {
+      "paperId": "c25f88d3dd1cfecce6edfd503d7b3c60c0982e89"
+    },
+    {
+      "paperId": "4f0a07416e400bb58df875cc69f0070e992a55fa"
+    },
+    {
+      "paperId": "72678af7458e4b46a3254d26158f1bd275c2afc6"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "8c9ea962d8a39f513915dcc2f751255f0a409222"
+    },
+    {
+      "paperId": "5c8fe9a0412a078e30eb7e5eeb0068655b673e86"
+    },
+    {
+      "paperId": "1457f7dbd7294cea1e7745820c5ed634420f87a8"
+    },
+    {
+      "paperId": "4de1b12785cc5231d611ef550a160cd425171c46"
+    },
+    {
+      "paperId": "b050a8fb93defa2c8f537a6c5eb272c827204656"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

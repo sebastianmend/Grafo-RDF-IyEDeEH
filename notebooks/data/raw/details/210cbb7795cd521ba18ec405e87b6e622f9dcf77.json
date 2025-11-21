@@ -1,0 +1,44 @@
+{
+  "paperId": "210cbb7795cd521ba18ec405e87b6e622f9dcf77",
+  "externalIds": {
+    "MAG": "2157113211",
+    "DBLP": "conf/ifip12/JuZW12",
+    "DOI": "10.1007/978-3-642-36124-1_11",
+    "CorpusId": 5271884
+  },
+  "url": "https://www.semanticscholar.org/paper/210cbb7795cd521ba18ec405e87b6e622f9dcf77",
+  "title": "Forecasting the Total Power of China's Agricultural Machinery Based on BP Neural Network Combined Forecast Method",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2012,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-36124-1_11.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-36124-1_11?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-36124-1_11, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "24552257",
+      "name": "Jinyan Ju"
+    },
+    {
+      "authorId": "46586837",
+      "name": "Lin Zhao"
+    },
+    {
+      "authorId": "2136592470",
+      "name": "Jinfeng Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

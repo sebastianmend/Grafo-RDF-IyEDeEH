@@ -1,0 +1,192 @@
+{
+  "paperId": "2e99d954ed649b7340f3bcc05d76a282ad212d2f",
+  "externalIds": {
+    "MAG": "2113047066",
+    "DBLP": "journals/robotics/JensenLNLOJ14",
+    "DOI": "10.3390/robotics3020207",
+    "CorpusId": 5080342
+  },
+  "url": "https://www.semanticscholar.org/paper/2e99d954ed649b7340f3bcc05d76a282ad212d2f",
+  "title": "Towards an Open Software Platform for Field Robots in Precision Agriculture",
+  "venue": "Robotics",
+  "year": 2014,
+  "citationCount": 57,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2218-6581/3/2/207/pdf?version=1402666594",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/robotics3020207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/robotics3020207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144351873",
+      "name": "Kjeld Jensen"
+    },
+    {
+      "authorId": "15396754",
+      "name": "M. Larsen"
+    },
+    {
+      "authorId": "50694167",
+      "name": "Søren H. Nielsen"
+    },
+    {
+      "authorId": "10805760",
+      "name": "L. B. Larsen"
+    },
+    {
+      "authorId": "2054218381",
+      "name": "Kent S. Olsen"
+    },
+    {
+      "authorId": "1403488792",
+      "name": "R. Jørgensen"
+    }
+  ],
+  "abstract": "Robotics in precision agriculture has the potential to improve competitiveness and increase sustainability compared to current crop production methods and has become an increasingly active area of research. Tractor guidance systems for supervised navigation and implement control have reached the market, and prototypes of field robots performing precision agriculture tasks without human intervention also exist. But research in advanced cognitive perception and behaviour that is required to enable a more efficient, reliable and safe autonomy becomes increasingly demanding due to the growing software complexity. A lack of collaboration between research groups contributes to the problem. Scientific publications describe methods and results from the work, but little field robot software is released and documented for others to use. We hypothesize that a common open software platform tailored to field robots in precision agriculture will significantly decrease development time and resources required to perform experiments due to efficient reuse of existing work across projects and robot platforms. In this work we present the FroboMind software platform and evaluate the performance when applied to precision agriculture tasks.",
+  "references": [
+    {
+      "paperId": "c4649ab18d0d60911620f1ce0d4d15fd85f4aef9"
+    },
+    {
+      "paperId": "c13e209be6e181138d081a5dc6751286cd67d2ad"
+    },
+    {
+      "paperId": "a59c5dccc9a1a2f0a38fb69bf03c141c0bce6000"
+    },
+    {
+      "paperId": "edba4980aa8ed5f5b8f0b6af8bafa92259b07e08"
+    },
+    {
+      "paperId": "3e8f30db4f5d6c3b9cb3492800ae0d82ee0a5a66"
+    },
+    {
+      "paperId": "0eaa27e8c35b8321ab4a707f7dc06655fdafc8ee"
+    },
+    {
+      "paperId": "0561a7534e5cb2f5bc33664db7cb77159b53d1f5"
+    },
+    {
+      "paperId": "ee981183c523df4654bffefdf9c176674970f7aa"
+    },
+    {
+      "paperId": "e687119ae5a09370b9ddce860cc1199d88f33eda"
+    },
+    {
+      "paperId": "13997b3da18cd1e950e570ae8b1efa0db829eb41"
+    },
+    {
+      "paperId": "d531f8172d238fc3db3e623b6b897c5e29591a8f"
+    },
+    {
+      "paperId": "e6728da939f1230beb55b475edeef382b7949a4e"
+    },
+    {
+      "paperId": "3b80ab3ecc363ee411936a006d716d0d224b121a"
+    },
+    {
+      "paperId": "ca04376cd99ba386fa62d0028813165af94ea90c"
+    },
+    {
+      "paperId": "9e938cf8a74c2e7415bfd10d66a9ea4b1c3e0e15"
+    },
+    {
+      "paperId": "82ea9899b80b479f4f0f749f39e7230250ff7987"
+    },
+    {
+      "paperId": "df706d522e23a32cbc76361538ebb910999be255"
+    },
+    {
+      "paperId": "80da875185e22a5d4e07912483628897d6512c3d"
+    },
+    {
+      "paperId": "a3f321f94b32063a8b452dd0c9113b6bd9f64753"
+    },
+    {
+      "paperId": "5ee8accc7f60d90122641d8f59d52cf5b78b30c4"
+    },
+    {
+      "paperId": "97421e92320d15c4e3f554d46784c028523861d9"
+    },
+    {
+      "paperId": "fb39b30187babe9bee4afb30b034b5f93b74859a"
+    },
+    {
+      "paperId": "712b9c987641c3c6e66381cce77abc5783494c09"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7504c5b9148cb589b0d6e5e412877e0ab6942f9a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e322efa8b25d56e3b19b95ee820575bd9ca60ef"
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": "15129b126e0da0e797141d52f51556bef72a6d98"
+    },
+    {
+      "paperId": "f3f325330e752bed4e33e3394ffb0c02177c56f6"
+    },
+    {
+      "paperId": "784fc48ea139a483fe14917e97c0ae1f6ee9697a"
+    },
+    {
+      "paperId": "4c17301b00b6878eeda617122454e61b4acb8b53"
+    },
+    {
+      "paperId": "9e2d22c788bdae1ff326a6f5d5f584ce1b900385"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e72169ecb0d76b2e3c195a1079af18f9a1f58164"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "20262a1449cb5d70d75947121dd144e6635432bc"
+    },
+    {
+      "paperId": "90d36402b62cce6dcccd96c7d094177487a59e18"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

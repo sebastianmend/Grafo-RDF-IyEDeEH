@@ -1,0 +1,79 @@
+{
+  "paperId": "213ad845a597c74dcfd32983942b623d6c47e8a4",
+  "externalIds": {
+    "MAG": "2131226164",
+    "DOI": "10.1186/2192-0567-2-22",
+    "CorpusId": 994350
+  },
+  "url": "https://www.semanticscholar.org/paper/213ad845a597c74dcfd32983942b623d6c47e8a4",
+  "title": "Energy savings by adopting precision agriculture in rural USA",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 55,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://energsustainsoc.biomedcentral.com/counter/pdf/10.1186/2192-0567-2-22",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/2192-0567-2-22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/2192-0567-2-22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "25148532",
+      "name": "G. Bora"
+    },
+    {
+      "authorId": "8990347",
+      "name": "J. Nowatzki"
+    },
+    {
+      "authorId": "48670130",
+      "name": "D. Roberts"
+    }
+  ],
+  "abstract": "BackgroundEnergy input in agriculture has increased tremendously and accounts for about 17% of total energy consumed in the USA. Precision agriculture involves knowledge-based technical management systems to optimize application of fertilizer, chemicals, seeds, and irrigation resources to reduce input costs and to enhance crop yield while simultaneously reducing harmful environmental impacts associated with inefficient use of agricultural inputs. It also uses GPS-based auto-guidance systems in agricultural vehicles to reduce overlapping of equipment and tractor passes, thus saving fuel, labor, time, and soil compaction with environmental benefit.MethodsThis study was undertaken to quantify the fuel and labor savings resulting from adoption of precision agricultural technology in the upper mid-west state of North Dakota in the USA. A survey was conducted with responses from farmers of various demographics about savings of time and fuel in their agricultural vehicle by the use of GPS guidance and autosteering systems.ResultsIt was found that 34% farms used GPS guidance systems, reducing machine time and fuel consumption by 6.04% and 6.32%, respectively. Twenty-seven percent of the farms used autosteering systems, which further reduced machine time by 5.75% and fuel consumption by 5.33%. GPS guidance and autosteering systems can save an average of 1,647 and 1,866 L of fuel per farm respectively. The monetized values of time saved for the average farm are US$733.85 and US$851.27 for GPS guidance and autosteering systems, respectively.ConclusionsThe farm energy savings in terms of fuel and time by using GPS guidance and/or autosteering systems in farm vehicles in the Upper-Midwest region of the USA was estimated from the survey results. Based on the perceptions of farmers adopting precision agriculture, the two technologies investigated in this research provided a positive return on investment and would be beneficial to North Dakota’s agricultural sector if adopted more widely.",
+  "references": [
+    {
+      "paperId": "70a33ca13059d899833a072ca672dabcf82c40c6"
+    },
+    {
+      "paperId": "375543ac4ddffcc6a3c8df778d286194a52adec7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "edada3b0e52217c37d3adc8f32b923cc0da2c250"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2309cb8c68a0aa0a75e41695f461195f2152c10f"
+    }
+  ]
+}

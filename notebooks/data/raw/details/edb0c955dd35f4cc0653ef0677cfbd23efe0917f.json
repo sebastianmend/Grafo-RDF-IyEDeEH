@@ -1,0 +1,34 @@
+{
+  "paperId": "edb0c955dd35f4cc0653ef0677cfbd23efe0917f",
+  "externalIds": {
+    "MAG": "2174444216",
+    "DOI": "10.22067/geo.v0i0.25110",
+    "CorpusId": 129946876
+  },
+  "url": "https://www.semanticscholar.org/paper/edb0c955dd35f4cc0653ef0677cfbd23efe0917f",
+  "title": "تحلیل مکانی پارامترهای کیفی منابع آب زیرزمینی دشت همدان-بهار",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22067/geo.v0i0.25110?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22067/geo.v0i0.25110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "97615280",
+      "name": "حمید زارع ابیانه"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

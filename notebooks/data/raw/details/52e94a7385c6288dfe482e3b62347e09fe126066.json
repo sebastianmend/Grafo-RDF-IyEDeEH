@@ -1,0 +1,44 @@
+{
+  "paperId": "52e94a7385c6288dfe482e3b62347e09fe126066",
+  "externalIds": {
+    "DBLP": "conf/igarss/ErtenRY15",
+    "MAG": "2055065770",
+    "DOI": "10.1109/IGARSS.2015.7326421",
+    "CorpusId": 6578963
+  },
+  "url": "https://www.semanticscholar.org/paper/52e94a7385c6288dfe482e3b62347e09fe126066",
+  "title": "Comparison of the TanDEM-X response between vertical and horizontal oriented vegetation",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://elib.dlr.de/97811/1/IGARSS15_erten.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2015.7326421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2015.7326421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "1703548",
+      "name": "C. Rossi"
+    },
+    {
+      "authorId": "2949461",
+      "name": "O. Yuzugullu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

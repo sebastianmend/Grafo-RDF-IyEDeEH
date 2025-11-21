@@ -1,0 +1,52 @@
+{
+  "paperId": "5bbf749a87786b368fbcce32a901745f42fe66c4",
+  "externalIds": {
+    "MAG": "2056126747",
+    "DOI": "10.1007/s10661-009-1033-3",
+    "CorpusId": 8191348,
+    "PubMed": "19551481"
+  },
+  "url": "https://www.semanticscholar.org/paper/5bbf749a87786b368fbcce32a901745f42fe66c4",
+  "title": "Bioassessment tools in novel habitats: an evaluation of indices and sampling methods in low-gradient streams in California",
+  "venue": "Environmental Monitoring & Assessment",
+  "year": 2010,
+  "citationCount": 13,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10661-009-1033-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10661-009-1033-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31579162",
+      "name": "R. Mazor"
+    },
+    {
+      "authorId": "5805947",
+      "name": "K. Schiff"
+    },
+    {
+      "authorId": "32515635",
+      "name": "Kerry J. Ritter"
+    },
+    {
+      "authorId": "40368724",
+      "name": "A. Rehn"
+    },
+    {
+      "authorId": "39060602",
+      "name": "P. Ode"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

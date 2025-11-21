@@ -1,0 +1,38 @@
+{
+  "paperId": "f617de7ab44aa130e7e6c1be0adbba7bca6ff3d2",
+  "externalIds": {
+    "MAG": "2501761836",
+    "DOI": "10.1201/B18759-2",
+    "CorpusId": 132154590
+  },
+  "url": "https://www.semanticscholar.org/paper/f617de7ab44aa130e7e6c1be0adbba7bca6ff3d2",
+  "title": "Historical Evolution and Recent Advances in Precision Farming",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 45,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1201/B18759-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1201/B18759-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2580238",
+      "name": "D. Mulla"
+    },
+    {
+      "authorId": "152584281",
+      "name": "R. Khosla"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

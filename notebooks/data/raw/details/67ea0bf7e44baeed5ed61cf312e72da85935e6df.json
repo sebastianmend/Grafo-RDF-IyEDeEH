@@ -1,0 +1,38 @@
+{
+  "paperId": "67ea0bf7e44baeed5ed61cf312e72da85935e6df",
+  "externalIds": {
+    "MAG": "1987809807",
+    "DOI": "10.1109/ICCASM.2010.5622406",
+    "CorpusId": 17704800
+  },
+  "url": "https://www.semanticscholar.org/paper/67ea0bf7e44baeed5ed61cf312e72da85935e6df",
+  "title": "High-precision temperature control system based on PID algorithm",
+  "venue": "International Conference on Computer Application and System Modeling",
+  "year": 2010,
+  "citationCount": 11,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCASM.2010.5622406?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCASM.2010.5622406, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109725935",
+      "name": "Jun-hong Yang"
+    },
+    {
+      "authorId": "80432134",
+      "name": "Xiaodan Bi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

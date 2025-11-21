@@ -1,0 +1,48 @@
+{
+  "paperId": "20e2c59f5f49ba624aaf43cbf96c11dc727ace7a",
+  "externalIds": {
+    "MAG": "2109421929",
+    "DOI": "10.1002/rcm.6916",
+    "CorpusId": 5449260,
+    "PubMed": "24861593"
+  },
+  "url": "https://www.semanticscholar.org/paper/20e2c59f5f49ba624aaf43cbf96c11dc727ace7a",
+  "title": "Continuous and unattended measurements of the site preference of nitrous oxide emitted from an agricultural soil using quantum cascade laser spectrometry with intercomparison with isotope ratio mass spectrometry.",
+  "venue": "Rapid Communications in Mass Spectrometry",
+  "year": 2014,
+  "citationCount": 13,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rcm.6916?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rcm.6916, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49281065",
+      "name": "Akinori Yamamoto"
+    },
+    {
+      "authorId": "2915851",
+      "name": "Y. Uchida"
+    },
+    {
+      "authorId": "7336619",
+      "name": "H. Akiyama"
+    },
+    {
+      "authorId": "49361496",
+      "name": "Y. Nakajima"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

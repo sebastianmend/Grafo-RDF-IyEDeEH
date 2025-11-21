@@ -1,0 +1,41 @@
+{
+  "paperId": "f957199de72b786a21611ed3f344a03f27480997",
+  "externalIds": {
+    "MAG": "2085199252",
+    "DBLP": "conf/siu/ErtenY14",
+    "DOI": "10.1109/SIU.2014.6830179",
+    "CorpusId": 33566761
+  },
+  "url": "https://www.semanticscholar.org/paper/f957199de72b786a21611ed3f344a03f27480997",
+  "title": "Observation of phenological changes by using dual polarization SAR data",
+  "venue": "Signal Processing and Communications Applications Conference",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SIU.2014.6830179?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SIU.2014.6830179, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "2949461",
+      "name": "O. Yuzugullu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

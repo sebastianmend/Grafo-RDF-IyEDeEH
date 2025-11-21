@@ -1,0 +1,38 @@
+{
+  "paperId": "fcc0a04358e59248c5ecdfa1b7df67bb30715358",
+  "externalIds": {
+    "MAG": "2187836495",
+    "DOI": "10.1109/APUAVD.2015.7346625",
+    "CorpusId": 1133454
+  },
+  "url": "https://www.semanticscholar.org/paper/fcc0a04358e59248c5ecdfa1b7df67bb30715358",
+  "title": "Unmanned Aerial Vehicles and new technological methods of monitoring and crop protection in precision agriculture",
+  "venue": "2015 IEEE International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD)",
+  "year": 2015,
+  "citationCount": 73,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/APUAVD.2015.7346625?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/APUAVD.2015.7346625, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31313712",
+      "name": "Y. A. Pederi"
+    },
+    {
+      "authorId": "31077145",
+      "name": "H. S. Cheporniuk"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

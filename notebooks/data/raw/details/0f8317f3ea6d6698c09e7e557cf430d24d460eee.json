@@ -1,0 +1,38 @@
+{
+  "paperId": "0f8317f3ea6d6698c09e7e557cf430d24d460eee",
+  "externalIds": {
+    "MAG": "2056299579",
+    "DOI": "10.1109/ICECENG.2011.6057578",
+    "CorpusId": 34997613
+  },
+  "url": "https://www.semanticscholar.org/paper/0f8317f3ea6d6698c09e7e557cf430d24d460eee",
+  "title": "The design of the real-time acquisition system of temperature and humidity based on ADμC812",
+  "venue": "International Conference on Electrical and Control Engineering",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECENG.2011.6057578?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECENG.2011.6057578, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2111045474",
+      "name": "Shu-mei Xu"
+    },
+    {
+      "authorId": "2108827804",
+      "name": "Yuanyuan Yang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

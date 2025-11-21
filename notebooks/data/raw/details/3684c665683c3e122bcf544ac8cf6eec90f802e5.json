@@ -1,0 +1,46 @@
+{
+  "paperId": "3684c665683c3e122bcf544ac8cf6eec90f802e5",
+  "externalIds": {
+    "MAG": "1973052287",
+    "DOI": "10.1109/NAVITEC.2012.6423060",
+    "CorpusId": 5925817
+  },
+  "url": "https://www.semanticscholar.org/paper/3684c665683c3e122bcf544ac8cf6eec90f802e5",
+  "title": "Global precise multi-GNSS positioning with trimble centerpoint RTX",
+  "venue": "ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing",
+  "year": 2012,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NAVITEC.2012.6423060?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NAVITEC.2012.6423060, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39505809",
+      "name": "Markus Glocker"
+    },
+    {
+      "authorId": "2261557368",
+      "name": "Herbert Landau"
+    },
+    {
+      "authorId": "2261559853",
+      "name": "Rodrigo Leandro"
+    },
+    {
+      "authorId": "102235505",
+      "name": "M. Nitschke"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

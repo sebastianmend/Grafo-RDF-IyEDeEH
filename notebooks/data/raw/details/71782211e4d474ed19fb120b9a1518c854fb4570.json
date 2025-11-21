@@ -1,0 +1,156 @@
+{
+  "paperId": "71782211e4d474ed19fb120b9a1518c854fb4570",
+  "externalIds": {
+    "MAG": "2245644097",
+    "ArXiv": "1407.7420",
+    "DOI": "10.1073/pnas.1419271112",
+    "CorpusId": 26475447,
+    "PubMed": "25548187"
+  },
+  "url": "https://www.semanticscholar.org/paper/71782211e4d474ed19fb120b9a1518c854fb4570",
+  "title": "Granular impact cratering by liquid drops: Understanding raindrop imprints through an analogy to asteroid strikes",
+  "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2014,
+  "citationCount": 80,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.pnas.org/content/pnas/112/2/342.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1407.7420, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Geology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "102639106",
+      "name": "Runchen Zhao"
+    },
+    {
+      "authorId": "46325059",
+      "name": "Qianyun Zhang"
+    },
+    {
+      "authorId": "12435978",
+      "name": "Hendro Tjugito"
+    },
+    {
+      "authorId": "145790736",
+      "name": "Xiang Cheng"
+    }
+  ],
+  "abstract": "Significance We provide a quantitative understanding of raindrop impacts on sandy surfaces—a ubiquitous phenomenon relevant to many important natural, agricultural, and industrial processes. Combining high-speed photography with high-precision laser profilometry, we investigate the dynamics of liquid-drop impacts on granular surfaces and monitor the morphology of resulting impact craters. Remarkably, we discover a quantitative similarity between liquid-drop impacts and asteroid strikes in terms of both the energy scaling and the aspect ratio of their impact craters. Such a similarity inspires us to apply the idea developed in planetary sciences to liquid-drop impact cratering, which leads to a model that quantitatively describes various features of liquid-drop imprints. When a granular material is impacted by a sphere, its surface deforms like a liquid yet it preserves a circular crater like a solid. Although the mechanism of granular impact cratering by solid spheres is well explored, our knowledge on granular impact cratering by liquid drops is still very limited. Here, by combining high-speed photography with high-precision laser profilometry, we investigate liquid-drop impact dynamics on granular surface and monitor the morphology of resulting impact craters. Surprisingly, we find that despite the enormous energy and length difference, granular impact cratering by liquid drops follows the same energy scaling and reproduces the same crater morphology as that of asteroid impact craters. Inspired by this similarity, we integrate the physical insight from planetary sciences, the liquid marble model from fluid mechanics, and the concept of jamming transition from granular physics into a simple theoretical framework that quantitatively describes all of the main features of liquid-drop imprints in granular media. Our study sheds light on the mechanisms governing raindrop impacts on granular surfaces and reveals a remarkable analogy between familiar phenomena of raining and catastrophic asteroid strikes.",
+  "references": [
+    {
+      "paperId": "5cae6a14ad94167aef6d8606fe6148c7b5033ebe"
+    },
+    {
+      "paperId": "8114cf4bffec0a2afa1902643681747c78c6ecd6"
+    },
+    {
+      "paperId": "55ec950c5b4f626b42be00e3e9ffb7dc07769873"
+    },
+    {
+      "paperId": "73f5d411897e217b769571934fd9041328c898cc"
+    },
+    {
+      "paperId": "112203d0ffc1ac35c0085e1a58c31c844b2ac4ca"
+    },
+    {
+      "paperId": "50e23e01cbccf0f1fcc2e094f542b102456fa261"
+    },
+    {
+      "paperId": "ca0b50e0d7b206f273fa8c4f7ca3179e79720f7f"
+    },
+    {
+      "paperId": "19c1f792003cd6e300ba93a26ddd32dd89233437"
+    },
+    {
+      "paperId": "c2dad18b8df64fd9c9a9303f03ea07198a5f21b2"
+    },
+    {
+      "paperId": "aba4865a5e2e366a4137f912214924b64fe5724d"
+    },
+    {
+      "paperId": "f77bd515e4eb7e91523b8ededdd87faa6986bcde"
+    },
+    {
+      "paperId": "3c4a68fe933db8a89646b7d4e5ff74fdd21dd019"
+    },
+    {
+      "paperId": "5e80915f1fc2660919425bb4f15ca2f09518016a"
+    },
+    {
+      "paperId": "560d98cbf8d1ad5add53058e04cbecaab39997c1"
+    },
+    {
+      "paperId": "a9a07c02b658a0d17dd2d050515761ed8a07653f"
+    },
+    {
+      "paperId": "df853f879a14e048763f664d203ffc55d5247544"
+    },
+    {
+      "paperId": "9c54005cea4d37f85a416fc98c873122eeaf2811"
+    },
+    {
+      "paperId": "8febe41caf08412c4c0d0c25b6c9701c23d39fa2"
+    },
+    {
+      "paperId": "ffec2df2a361454a28d832ae4dcd8b0e81625c81"
+    },
+    {
+      "paperId": "a48d1b51b0ce76e8b09d1e9ca3a837323d9fdb4c"
+    },
+    {
+      "paperId": "6b34c28fc507a71ac2c403a623e4527df7567fa5"
+    },
+    {
+      "paperId": "15d399c9516afe6d1f1d722b760161c32ae99536"
+    },
+    {
+      "paperId": "d7dc979564106a04072cad2fb10a6141169e2249"
+    },
+    {
+      "paperId": "1238bbc823870f8ceea30111abe61c02d11cba0f"
+    },
+    {
+      "paperId": "457ef6460c1bfc018f04da639b7110945fc3ed1c"
+    },
+    {
+      "paperId": "f16184936a3d0612232fb6841dad7c654ce24be9"
+    },
+    {
+      "paperId": "68ba3a475976b5c686784908b901d54df051f428"
+    },
+    {
+      "paperId": "7c1b7d05dc81667bead2afe387b68edfbbaadf87"
+    },
+    {
+      "paperId": "a6d3581b57af1cd21e887b9869bc7630924b2a29"
+    },
+    {
+      "paperId": "cd6b4da68b7bed9c15c530ce1c8d93ecb8df0a6e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "47df98c6fcad4d98da8f495b67e849783f1f6012"
+    },
+    {
+      "paperId": "a21f6d8ac2b043c103ec1e5ac010f6dfbb85e9f4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "812cdb8e5a662c3e3391b8a0b091b6d2b304a24e"
+    }
+  ]
+}

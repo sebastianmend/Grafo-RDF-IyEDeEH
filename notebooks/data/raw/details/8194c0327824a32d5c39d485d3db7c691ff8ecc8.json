@@ -1,0 +1,44 @@
+{
+  "paperId": "8194c0327824a32d5c39d485d3db7c691ff8ecc8",
+  "externalIds": {
+    "DBLP": "conf/ifip12/LiuXC11",
+    "MAG": "1454982137",
+    "DOI": "10.1007/978-3-642-27281-3_33",
+    "CorpusId": 17269683
+  },
+  "url": "https://www.semanticscholar.org/paper/8194c0327824a32d5c39d485d3db7c691ff8ecc8",
+  "title": "Design of Precision Fertilization Management Information System on GPS and GIS Technologies",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27281-3_33?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27281-3_33, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2109110969",
+      "name": "Zhimin Liu"
+    },
+    {
+      "authorId": "2055449310",
+      "name": "Weidong Xiong"
+    },
+    {
+      "authorId": "2118457751",
+      "name": "Xuewei Cao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

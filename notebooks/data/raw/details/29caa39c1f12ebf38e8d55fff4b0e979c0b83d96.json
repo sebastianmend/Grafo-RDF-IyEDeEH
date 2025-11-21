@@ -1,0 +1,45 @@
+{
+  "paperId": "29caa39c1f12ebf38e8d55fff4b0e979c0b83d96",
+  "externalIds": {
+    "DBLP": "conf/wcsp/LiuZL14",
+    "MAG": "2032934404",
+    "DOI": "10.1109/WCSP.2014.6992167",
+    "CorpusId": 6252153
+  },
+  "url": "https://www.semanticscholar.org/paper/29caa39c1f12ebf38e8d55fff4b0e979c0b83d96",
+  "title": "Channel modeling based on ultra-wide bandwidth(UWB) radar in soil environment with different pH values",
+  "venue": "International Conference on Wireless Communications and Signal Processing",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WCSP.2014.6992167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WCSP.2014.6992167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2144067392",
+      "name": "Miao Liu"
+    },
+    {
+      "authorId": "2653661",
+      "name": "Fangqi Zhu"
+    },
+    {
+      "authorId": "144057205",
+      "name": "Jing Liang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

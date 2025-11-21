@@ -1,0 +1,59 @@
+{
+  "paperId": "59bfb89419843357593d94f23832a318bd8c837d",
+  "externalIds": {
+    "DBLP": "conf/arcs/ElstsBJZSMS12",
+    "MAG": "1621735573",
+    "DOI": "10.1007/978-3-642-28293-5_19",
+    "CorpusId": 14978876
+  },
+  "url": "https://www.semanticscholar.org/paper/59bfb89419843357593d94f23832a318bd8c837d",
+  "title": "SADmote: A Robust and Cost-Effective Device for Environmental Monitoring",
+  "venue": "ARCS",
+  "year": 2012,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-28293-5_19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-28293-5_19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2880261",
+      "name": "Atis Elsts"
+    },
+    {
+      "authorId": "2684088",
+      "name": "Rihards Balass"
+    },
+    {
+      "authorId": "2977851",
+      "name": "J. Judvaitis"
+    },
+    {
+      "authorId": "2469894",
+      "name": "R. Zviedris"
+    },
+    {
+      "authorId": "2313038",
+      "name": "Girts Strazdins"
+    },
+    {
+      "authorId": "46428649",
+      "name": "A. Mednis"
+    },
+    {
+      "authorId": "2637264",
+      "name": "L. Selavo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

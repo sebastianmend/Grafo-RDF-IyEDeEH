@@ -1,0 +1,51 @@
+{
+  "paperId": "2201bf116d9bf70af243b4effd51c2067741ee29",
+  "externalIds": {
+    "MAG": "2294798388",
+    "DBLP": "conf/isess/DuttaLSDA15",
+    "DOI": "10.1007/978-3-319-15994-2_59",
+    "CorpusId": 2895743
+  },
+  "url": "https://www.semanticscholar.org/paper/2201bf116d9bf70af243b4effd51c2067741ee29",
+  "title": "Big Data Architecture for Environmental Analytics",
+  "venue": "International Symposium on Environmental Software Systems",
+  "year": 2015,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-15994-2_59.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-15994-2_59?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-15994-2_59, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3287762",
+      "name": "R. Dutta"
+    },
+    {
+      "authorId": "2233571",
+      "name": "Cecil Li"
+    },
+    {
+      "authorId": "2108916815",
+      "name": "Daniel V. Smith"
+    },
+    {
+      "authorId": "2099529",
+      "name": "Aruneema Das"
+    },
+    {
+      "authorId": "2414452",
+      "name": "J. Aryal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

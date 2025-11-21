@@ -1,0 +1,166 @@
+{
+  "paperId": "6b87670135a635c1d54df0c6f822d9935fc62f71",
+  "externalIds": {
+    "MAG": "1982282269",
+    "DOI": "10.5194/ISPRSANNALS-II-5-W2-295-2013",
+    "CorpusId": 53387833
+  },
+  "url": "https://www.semanticscholar.org/paper/6b87670135a635c1d54df0c6f822d9935fc62f71",
+  "title": "Precise plant height monitoring and biomass estimation with Terrestrial Laser Scanning in paddy rice",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://isprs-annals.copernicus.org/articles/II-5-W2/295/2013/isprsannals-II-5-W2-295-2013.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRSANNALS-II-5-W2-295-2013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRSANNALS-II-5-W2-295-2013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15108712",
+      "name": "N. Tilly"
+    },
+    {
+      "authorId": "144759107",
+      "name": "D. Hoffmeister"
+    },
+    {
+      "authorId": "2057766609",
+      "name": "Q. Cao"
+    },
+    {
+      "authorId": "1403823144",
+      "name": "V. Lenz-Wiedemann"
+    },
+    {
+      "authorId": "1953258",
+      "name": "Y. Miao"
+    },
+    {
+      "authorId": "2801990",
+      "name": "G. Bareth"
+    }
+  ],
+  "abstract": "Abstract. Optimizing crop management is a major topic in the field of precision agriculture as the growing world population puts pressure on the efficiency of field production. Accordingly, methods to measure plant parameters with the needed precision and within-field resolution are required. Studies show that Terrestrial Laser Scanning (TLS) is a suitable method to capture small objects like crop plants. In this contribution, the results of multi-temporal surveys on paddy rice fields with the TLS system Riegl LMS-Z420i are presented. Three campaigns were carried out during the key vegetative stage of rice plants in the growing period 2012 to monitor the plant height. The TLS-derived point clouds are interpolated to visualize plant height above ground as crop surface models (CSMs) with a high resolution of 0.01 m. Spatio-temporal differences within the data of one campaign and between consecutive campaigns can be detected. The results were validated against manually measured plant heights with a high correlation (R2 = 0.71). Furthermore, the dependence of actual biomass from plant height was evaluated. To the present, no method for the non-destructive determination of biomass is found yet. Thus, plant parameters, like the height, have to be used for biomass estimations. The good correlation (R2 = 0.66) leads to the assumption that biomass can be estimated from plant height measurements. The results show that TLS can be considered as a very promising tool for precision agriculture.",
+  "references": [
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "f3f3840051645c83bd80f31bd4f81b34a9c35862"
+    },
+    {
+      "paperId": "5fa9166cd40189bfc278d5cd40177b8c4bf71f92"
+    },
+    {
+      "paperId": "abfd55084778716b8e3d36ee611df2db4bf71f37"
+    },
+    {
+      "paperId": "0aac4062eb64f455c1888319b96bafdd53aa5230"
+    },
+    {
+      "paperId": "0e9f52291e45e75b61b328cb17d263e80f600ee7"
+    },
+    {
+      "paperId": "61ea215d214efeffe9a6adb9d9896daafddd06ec"
+    },
+    {
+      "paperId": "1b4dd9f6c7e96c3bf570e2936ae8633527fe9d63"
+    },
+    {
+      "paperId": "53cc1ace5dccec728de7ce4ae04b971226e386e6"
+    },
+    {
+      "paperId": "411a0a90b29473a396c3c9da8b7ab2dd7633d236"
+    },
+    {
+      "paperId": "8d9637e2252809a77e111ce12586a32a3adcded4"
+    },
+    {
+      "paperId": "b8883346f8f53ddeeb0f4e74fc8c4d4a314d6fcf"
+    },
+    {
+      "paperId": "d26739207c8da72d0f2befec78cce9cbe3056033"
+    },
+    {
+      "paperId": "2c819f3ee55102dfecf413d720916323c0d86ca7"
+    },
+    {
+      "paperId": "7221676c27803b322ef27f1c44c656cbefec1831"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "5791f0bb027d26b08850a16bb1c44ad50567b509"
+    },
+    {
+      "paperId": "87bd3ae8213dff9ca8ae129562195223a47238a8"
+    },
+    {
+      "paperId": "00f8e9b7394a1d6261cdc0b7f1796c3c3b68edc3"
+    },
+    {
+      "paperId": "9be2c9ef1d339aa3403d3cc206b845dcf6474a05"
+    },
+    {
+      "paperId": "f213f1f720ef5a99c1bde74cb282f797dd9cde5a"
+    },
+    {
+      "paperId": "fef0034469ee6be4dd5815cbd9bd1aec867a0cf8"
+    },
+    {
+      "paperId": "062533e765c0509b9a9ef4a4a7d12a97add9b973"
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "a0efc8c94de0c0e0c26fea0d5afdeaa6227d14fb"
+    },
+    {
+      "paperId": "ebc78b327447a46fee46d0248260d7271412efb5"
+    },
+    {
+      "paperId": "b96aaeefd38ee71c312209f203fdde3b362c6184"
+    },
+    {
+      "paperId": "75462d362d1d511ca580223af38c329630c7b040"
+    },
+    {
+      "paperId": "6c45b5f5481125a311ea46a05e7acfa1de0f2cfb"
+    },
+    {
+      "paperId": "18648407e048086fad9bce8a6fb23c68229fe0d1"
+    },
+    {
+      "paperId": "b65080a1f6be07133852b6c6294c481d112ea822"
+    },
+    {
+      "paperId": "dab703d3782ac89e80ac7cf74b8929c6719406c0"
+    },
+    {
+      "paperId": "6bc403e653639e6439501576a1b9d702ca8dfc29"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

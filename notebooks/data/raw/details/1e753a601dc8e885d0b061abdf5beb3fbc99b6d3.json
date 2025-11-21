@@ -1,0 +1,32 @@
+{
+  "paperId": "1e753a601dc8e885d0b061abdf5beb3fbc99b6d3",
+  "externalIds": {
+    "MAG": "2769784780",
+    "CorpusId": 58382475
+  },
+  "url": "https://www.semanticscholar.org/paper/1e753a601dc8e885d0b061abdf5beb3fbc99b6d3",
+  "title": "The global positioning system (GPS) in precision forestry",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "67346691",
+      "name": "J. Tenutti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "23459042fc97b325975db450be6989fea014b0be",
+  "externalIds": {
+    "MAG": "1533073574",
+    "DOI": "10.1080/01431161.2015.1041174",
+    "CorpusId": 129057599
+  },
+  "url": "https://www.semanticscholar.org/paper/23459042fc97b325975db450be6989fea014b0be",
+  "title": "Influence of acquisition time and resolution on wheat yield estimation at the field scale from canopy biophysical variables retrieved from SPOT satellite data",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 27,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/01431161.2015.1041174?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01431161.2015.1041174, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48715148",
+      "name": "F. Castaldi"
+    },
+    {
+      "authorId": "120122996",
+      "name": "R. Casa"
+    },
+    {
+      "authorId": "133972490",
+      "name": "F. Pelosi"
+    },
+    {
+      "authorId": "144955350",
+      "name": "Hang Yang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "b9fb6da3df4563647ba0bd0b198d1f3b380ef0f6",
+  "externalIds": {
+    "MAG": "2046389967",
+    "DOI": "10.1109/ICUAS.2014.6842387",
+    "CorpusId": 45895695
+  },
+  "url": "https://www.semanticscholar.org/paper/b9fb6da3df4563647ba0bd0b198d1f3b380ef0f6",
+  "title": "Survey of thermal infrared remote sensing for Unmanned Aerial Systems",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2014,
+  "citationCount": 39,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2014.6842387?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2014.6842387, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1873963",
+      "name": "B. Stark"
+    },
+    {
+      "authorId": "145179363",
+      "name": "Brendan Smith"
+    },
+    {
+      "authorId": "50580551",
+      "name": "YangQuan Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

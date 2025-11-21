@@ -1,0 +1,40 @@
+{
+  "paperId": "8bda114d9357e4b1039f122a21d0a8eca547b5d6",
+  "externalIds": {
+    "MAG": "150386293",
+    "DBLP": "conf/ifip12/ChenC12",
+    "DOI": "10.1007/978-3-642-36137-1_44",
+    "CorpusId": 26478993
+  },
+  "url": "https://www.semanticscholar.org/paper/8bda114d9357e4b1039f122a21d0a8eca547b5d6",
+  "title": "Visual Space Research and Application of the Data Mining in Soil Fertility Evaluation",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-36137-1_44.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-36137-1_44?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-36137-1_44, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118024256",
+      "name": "Hang Chen"
+    },
+    {
+      "authorId": "46878887",
+      "name": "Guifen Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

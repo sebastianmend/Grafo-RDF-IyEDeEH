@@ -1,0 +1,264 @@
+{
+  "paperId": "756b820ae3cd083f8f67e0b1cc59661a838cf8e3",
+  "externalIds": {
+    "PubMedCentral": "4130717",
+    "MAG": "2082888909",
+    "DOI": "10.2147/NSA.S39409",
+    "CorpusId": 260584966,
+    "PubMed": "25187699"
+  },
+  "url": "https://www.semanticscholar.org/paper/756b820ae3cd083f8f67e0b1cc59661a838cf8e3",
+  "title": "Nanotechnology in agriculture: prospects and constraints",
+  "venue": "Nanotechnology, Science and Applications",
+  "year": 2014,
+  "citationCount": 330,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.dovepress.com/getfile.php?fileID=21084",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4130717, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47798039",
+      "name": "S. Mukhopadhyay"
+    }
+  ],
+  "abstract": "Attempts to apply nanotechnology in agriculture began with the growing realization that conventional farming technologies would neither be able to increase productivity any further nor restore ecosystems damaged by existing technologies back to their pristine state; in particular because the long-term effects of farming with “miracle seeds”, in conjunction with irrigation, fertilizers, and pesticides, have been questioned both at the scientific and policy levels, and must be gradually phased out. Nanotechnology in agriculture has gained momentum in the last decade with an abundance of public funding, but the pace of development is modest, even though many disciplines come under the umbrella of agriculture. This could be attributed to: a unique nature of farm production, which functions as an open system whereby energy and matter are exchanged freely; the scale of demand of input materials always being gigantic in contrast with industrial nanoproducts; an absence of control over the input nanomaterials in contrast with industrial nanoproducts (eg, the cell phone) and because their fate has to be conceived on the geosphere (pedosphere)-biosphere-hydrosphere-atmosphere continuum; the time lag of emerging technologies reaching the farmers’ field, especially given that many emerging economies are unwilling to spend on innovation; and the lack of foresight resulting from agricultural education not having attracted a sufficient number of brilliant minds the world over, while personnel from kindred disciplines might lack an understanding of agricultural production systems. If these issues are taken care of, nanotechnologic intervention in farming has bright prospects for improving the efficiency of nutrient use through nanoformulations of fertilizers, breaking yield barriers through bionanotechnology, surveillance and control of pests and diseases, understanding mechanisms of host-parasite interactions at the molecular level, development of new-generation pesticides and their carriers, preservation and packaging of food and food additives, strengthening of natural fibers, removal of contaminants from soil and water, improving the shelf-life of vegetables and flowers, clay-based nanoresources for precision water management, reclamation of salt-affected soils, and stabilization of erosion-prone surfaces, to name a few.",
+  "references": [
+    {
+      "paperId": "b0ec5d5b4e87a4a72a5461840f762d0e7c6b3e91"
+    },
+    {
+      "paperId": "98b18d8e73e432e26795f9e668cfd3c6c17e1235"
+    },
+    {
+      "paperId": "43c359c3e0a3796d7e834585fcd6c51f922e2d67"
+    },
+    {
+      "paperId": "5d968e623b509c5449833774b8bd944a03a0c01f"
+    },
+    {
+      "paperId": "31c7338f5e4d97ae8822042edab5daaf4ebecef0"
+    },
+    {
+      "paperId": "5c0c5fccb9b06bbce9908326006fe7445c7bd3c9"
+    },
+    {
+      "paperId": "53130c7c5cf31a0f970910dfbe46fd36d27c4820"
+    },
+    {
+      "paperId": "ed5debe3bbbb88471e4344e82c8ccded0aaebae7"
+    },
+    {
+      "paperId": "615ce6ee296abac0c08034c2db8edb2fa2ea09de"
+    },
+    {
+      "paperId": "54a26c7f3bf0874a8e316b93c80fea1a73d96ffe"
+    },
+    {
+      "paperId": "7e422d22ae642e637ee3a403cfa99241f485038f"
+    },
+    {
+      "paperId": "86e0a3e57393835e40f494ce95a42dcea4aaa0ca"
+    },
+    {
+      "paperId": "90d6a023a0fcf94742d7385dc86b76f2fb37fa82"
+    },
+    {
+      "paperId": "7eba623ee85544f194cd455846945511dca6f256"
+    },
+    {
+      "paperId": "cd7fbaf69d2eb549c0b0884016e29fc61959291f"
+    },
+    {
+      "paperId": "6e9a328c374f3b6f351e76db6c7f6e59885aa045"
+    },
+    {
+      "paperId": "a472ab2b4511842f4d104bd6b173c711c4f622bf"
+    },
+    {
+      "paperId": "8bb4fb529dd33d455c56f4e9d10a5efb9e3047bd"
+    },
+    {
+      "paperId": "67415d2380046c70094b5cda4e759548c97966a9"
+    },
+    {
+      "paperId": "23cfba686b17127539112fa1d730308d67d86306"
+    },
+    {
+      "paperId": "5488562ca87ce14aabe1e28e08f1acca36257e60"
+    },
+    {
+      "paperId": "72afc3a9009a4fd57dde0c90b79d89036e57d103"
+    },
+    {
+      "paperId": "72df39a6bf7d76ff436a2502b873e86aaa940c59"
+    },
+    {
+      "paperId": "582a842509a9489942a92fa0a4114dcba6b14328"
+    },
+    {
+      "paperId": "9746b6d28b0c05e2297cab844b894d653c5c0aa9"
+    },
+    {
+      "paperId": "33c954a399603e106af629bb7dfe872e390befca"
+    },
+    {
+      "paperId": "d013d3caf287fbd3b2748e3c538013f027bb30ad"
+    },
+    {
+      "paperId": "278c9a533eabf6ba3bb68dfd9586cb5bd2676461"
+    },
+    {
+      "paperId": "b83a1ff3125124deb61fa11093f2843ec6ed8f95"
+    },
+    {
+      "paperId": "644e2e7084907999d3fc3c8f580509a82c93e7c0"
+    },
+    {
+      "paperId": "a84d01c6d6296fccbe72d2f2366d20040bce038f"
+    },
+    {
+      "paperId": "a254cdb30d21819f0aa67d58e9ef65fc253ce482"
+    },
+    {
+      "paperId": "819c94691ea9654f3539ecce6c717329664a8562"
+    },
+    {
+      "paperId": "6e946ac75e81afabbe3495e9db12d47c2b53f911"
+    },
+    {
+      "paperId": "2725cffda8838d846a39bd92d7fe87e47df1dce8"
+    },
+    {
+      "paperId": "365de340360891e53dc34b57206b5f5ab402a989"
+    },
+    {
+      "paperId": "0d3687cd3eb74cd09f0b1b249d8b40895fbb1826"
+    },
+    {
+      "paperId": "dba12e1d6346ed3ae8fef379762ba4cdafdbb2d4"
+    },
+    {
+      "paperId": "7acce308406dc49c60cd57313ca65fdcda1143cb"
+    },
+    {
+      "paperId": "43c5ebc14ddd9818efe5a9079f734faf10eee304"
+    },
+    {
+      "paperId": "463e53ca5b040ed703f66942da90a3c441decadb"
+    },
+    {
+      "paperId": "32ef34bc3d2dad2017bb1c24a49775a2d0a38b7a"
+    },
+    {
+      "paperId": "518ddc07d6b38e809e14decb4ce4b90882bf4b7a"
+    },
+    {
+      "paperId": "b93e4ee1d041c50113ab20d1e7a140f42b2f8d07"
+    },
+    {
+      "paperId": "814067c76bb8cb40e223a2ff089c691547a122ce"
+    },
+    {
+      "paperId": "fa862ebc7f27c923fb1159c5adacb943b3087bc0"
+    },
+    {
+      "paperId": "fe0b3c0ad3d9c044766e8a166e715500b49ed2e7"
+    },
+    {
+      "paperId": "9b63d6161cb17aebb1b9d4f65baacf1796673e2a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cd661fdaf4dde99357cc978520c0074a337d6d6d"
+    },
+    {
+      "paperId": "a4c27f9036e03545c9f4f922fb272f83a4196d85"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "884eed8adb83dcfa081b6362ebfb9d058e9e98bf"
+    },
+    {
+      "paperId": "f2f3b22aaf3a84979ad73c46a0e429d890491b9e"
+    },
+    {
+      "paperId": "b4083409472cd4d5adfb34976ab80fe63a0642a8"
+    },
+    {
+      "paperId": "c3fa34c568bd068b6127559b993bd3c721415bb3"
+    },
+    {
+      "paperId": "4bef1f897297532092d28a2cb2fdb9a537c722fb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f031d7580cd49ded095cc841de86ba13e07035e9"
+    },
+    {
+      "paperId": "f11b325e8b3b7782d7ed92ff5270f6883e6ec64e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a3ac93601de07d0055bc72f00efba9745d69f800"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3730eec670bcbea990862029d064f027813d8e78"
+    },
+    {
+      "paperId": "015943da907009bb7fb96b5dabbdc74e76f18a67"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bc778edce183c6c58be0085669075a8b3b9dcf2b"
+    },
+    {
+      "paperId": "6bc26090c996b6e5f3692587fd0b418ddb85df54"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9b8e2078259aa30a43d304c1690a67fd05da9bc4"
+    },
+    {
+      "paperId": "1e8bd298624ef56b8103b2e0de3b95829cdfbc52"
+    },
+    {
+      "paperId": "95b36c18867fd4388ab8d4d1075ed7f99a4f08ae"
+    },
+    {
+      "paperId": "3650135f5d32722fee78bd8526f5696914e9de9a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

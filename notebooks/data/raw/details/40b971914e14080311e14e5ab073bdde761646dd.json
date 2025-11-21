@@ -1,0 +1,40 @@
+{
+  "paperId": "40b971914e14080311e14e5ab073bdde761646dd",
+  "externalIds": {
+    "MAG": "2018103227",
+    "DOI": "10.3945/ajcn.113.071522",
+    "CorpusId": 4693742,
+    "PubMed": "24898222"
+  },
+  "url": "https://www.semanticscholar.org/paper/40b971914e14080311e14e5ab073bdde761646dd",
+  "title": "Sustainability of plant-based diets: back to the future.",
+  "venue": "American Journal of Clinical Nutrition",
+  "year": 2014,
+  "citationCount": 349,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/ajcn/article-pdf/100/suppl_1/476S/23836444/476s.pdf",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3945/ajcn.113.071522?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3945/ajcn.113.071522, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144466730",
+      "name": "J. Sabaté"
+    },
+    {
+      "authorId": "7662412",
+      "name": "S. Soret"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

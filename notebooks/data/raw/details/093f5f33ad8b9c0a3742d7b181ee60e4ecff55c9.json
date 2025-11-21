@@ -1,0 +1,262 @@
+{
+  "paperId": "093f5f33ad8b9c0a3742d7b181ee60e4ecff55c9",
+  "externalIds": {
+    "PubMedCentral": "5057361",
+    "MAG": "2100981316",
+    "DOI": "10.1111/pbi.12496",
+    "CorpusId": 14943570,
+    "PubMed": "26503400"
+  },
+  "url": "https://www.semanticscholar.org/paper/093f5f33ad8b9c0a3742d7b181ee60e4ecff55c9",
+  "title": "Oligonucleotide‐directed mutagenesis for precision gene editing",
+  "venue": "Plant Biotechnology Journal",
+  "year": 2015,
+  "citationCount": 131,
+  "influentialCitationCount": 12,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbi.12496",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5057361, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152624162",
+      "name": "Noel J. Sauer"
+    },
+    {
+      "authorId": "49455432",
+      "name": "Jerry J. Mozoruk"
+    },
+    {
+      "authorId": "2275186971",
+      "name": "Ryan B. Miller"
+    },
+    {
+      "authorId": "8538613",
+      "name": "Zachary J. Warburg"
+    },
+    {
+      "authorId": "48171151",
+      "name": "K. A. Walker"
+    },
+    {
+      "authorId": "6957054",
+      "name": "P. Beetham"
+    },
+    {
+      "authorId": "7404049",
+      "name": "C. Schöpke"
+    },
+    {
+      "authorId": "47073223",
+      "name": "G. Gocal"
+    }
+  ],
+  "abstract": "Summary Differences in gene sequences, many of which are single nucleotide polymorphisms, underlie some of the most important traits in plants. With humanity facing significant challenges to increase global agricultural productivity, there is an urgent need to accelerate the development of these traits in plants. oligonucleotide‐directed mutagenesis (ODM), one of the many tools of Cibus’ Rapid Trait Development System ( RTDS ™) technology, offers a rapid, precise and non‐transgenic breeding alternative for trait improvement in agriculture to address this urgent need. This review explores the application of ODM as a precision genome editing technology, with emphasis on using oligonucleotides to make targeted edits in plasmid, episomal and chromosomal DNA of bacterial, fungal, mammalian and plant systems. The process of employing ODM by way of RTDS technology has been improved in many ways by utilizing a fluorescence conversion system wherein a blue fluorescent protein (BFP) can be changed to a green fluorescent protein (GFP) by editing a single nucleotide of the BFP gene (CAC→TAC; H66 to Y66). For example, dependent on oligonucleotide length, applying oligonucleotide‐mediated technology to target the BFP transgene in Arabidopsis thaliana protoplasts resulted in up to 0.05% precisely edited GFP loci. Here, the development of traits in commercially relevant plant varieties to improve crop performance by genome editing technologies such as ODM, and by extension RTDS , is reviewed.",
+  "references": [
+    {
+      "paperId": "f990efc9f45e59d4642c60d452c0806c8decfdef"
+    },
+    {
+      "paperId": "98df9050d009ad4b939239b752b490bea61d74ba"
+    },
+    {
+      "paperId": "8ccb4de0b6587ab8f56a0933e15a67896632599c"
+    },
+    {
+      "paperId": "a7c8299a7888cc8ba79f1580d99143b0b5b94c12"
+    },
+    {
+      "paperId": "ab1c70b27c0198eaed12d506aed33ba36835f14a"
+    },
+    {
+      "paperId": "c7bbe782239671d0a5b8787090abb8787d3c6679"
+    },
+    {
+      "paperId": "062438dfceaa150fd8fae3df4f7854bd9c5f75eb"
+    },
+    {
+      "paperId": "b8a1f2f80b60f149987585aa3f35073993dbb535"
+    },
+    {
+      "paperId": "bcc35a6299346a303732212644eaa9294821259b"
+    },
+    {
+      "paperId": "4911b6a5083c0a673414a9e73cec39a268b41397"
+    },
+    {
+      "paperId": "5bd9a0e7b729bedea35338d4dda58bba415b42d6"
+    },
+    {
+      "paperId": "0f7a4316af3da8877d56889b6468cccaf4ccf4f6"
+    },
+    {
+      "paperId": "15bb438be205a01a76e427689cff4009c0ddb074"
+    },
+    {
+      "paperId": "250a605383e6742fadbe8c85353dea69e690ecca"
+    },
+    {
+      "paperId": "59386e74cc44518a0d302dbe51999f3614755559"
+    },
+    {
+      "paperId": "1bb4d4b4ac6d50b7e61bd02dd2194023a9fac88f"
+    },
+    {
+      "paperId": "f0f7c3645000b6937f70994fc7494284f4301a5b"
+    },
+    {
+      "paperId": "0929c6487abd38ba10f943be6f47f45f10211ea9"
+    },
+    {
+      "paperId": "53d628814d1da1fbddb68cbb0db6c43b31d3dc4a"
+    },
+    {
+      "paperId": "1aacd5a7d032218d01344c86141442c52af38ac8"
+    },
+    {
+      "paperId": "28a57fd33bac1de9a2a618b4253837aa44d83e27"
+    },
+    {
+      "paperId": "5bfa218cf08f39c4f956f8fe330f9d41fcc0b76d"
+    },
+    {
+      "paperId": "1b89991910779d0e5fd2cf08284c4ee64d98c454"
+    },
+    {
+      "paperId": "4045b6268acc0bdbdf8c62bbc0a2426a0831fe57"
+    },
+    {
+      "paperId": "8ba5937b5e5f6428fe2f4f302709fb914d209aa0"
+    },
+    {
+      "paperId": "2455df7343ac3cfbc2c893632053ef532afe328a"
+    },
+    {
+      "paperId": "feccf6fdd7fbf151f8c0fcbfdfbcdc633194bf91"
+    },
+    {
+      "paperId": "84241c7cb03ef044b2d88451e79b93ee076cffff"
+    },
+    {
+      "paperId": "b24783fcd933f41eb618abf94283e264a4d1c9fd"
+    },
+    {
+      "paperId": "0ef489fca67e4ae83b63ced1079912a6fa15e044"
+    },
+    {
+      "paperId": "7278de561cb3e1a452c586ca81b95fd1a3d99f23"
+    },
+    {
+      "paperId": "f5cc9c72e6a8e9b62ef5e9b0e251183f9b3175c4"
+    },
+    {
+      "paperId": "a13fd410f40e11916a76240dd31c17f8dc7615cf"
+    },
+    {
+      "paperId": "53eabdc6d2f1cbe82230ac959ebbaea1ff2fffc4"
+    },
+    {
+      "paperId": "953c2445d5a2a25c6cde4461b00b4b6a69ef95c3"
+    },
+    {
+      "paperId": "bf6045fc8e33dc4305f453afe05e1e8b863eec11"
+    },
+    {
+      "paperId": "3d2e40ec80968e1b2b2199df61e43312ef32151f"
+    },
+    {
+      "paperId": "d4411e82812a4dee033f90bda0cee8051382f8e8"
+    },
+    {
+      "paperId": "e655360fefc4feb5e6a4211ce2130649dd840530"
+    },
+    {
+      "paperId": "af67b304ff7c17037f62843640d25844e3616a5d"
+    },
+    {
+      "paperId": "15bc5589becdf81e06be30654ae1342f74227bd8"
+    },
+    {
+      "paperId": "a765416e1f04cfcdd566bd68345831decfb4f9cc"
+    },
+    {
+      "paperId": "853487d38392e4399208d586f91528ac7d706740"
+    },
+    {
+      "paperId": "345df7a8efadaec536d46e2528a4943326ea5f95"
+    },
+    {
+      "paperId": "c6543605202479833ad92407e96f06073a2fb276"
+    },
+    {
+      "paperId": "e87e124a656f902d53907b048d1bda1144585d57"
+    },
+    {
+      "paperId": "08688f1c13dfcf0df7ed3ae3b0331ce327de4301"
+    },
+    {
+      "paperId": "d69d3c90ffebe1618b7eafdde0a0d0555222de3c"
+    },
+    {
+      "paperId": "d8f87b4ad59df8768e9b3c5df8c3fdb1f32083cf"
+    },
+    {
+      "paperId": "e9b8d7ef768f39441dfd5a28cf9cc2b7f926441c"
+    },
+    {
+      "paperId": "11a19f43eeac4c181f4cb7a2a4c1946db9260b02"
+    },
+    {
+      "paperId": "5da9c3eedab9ac92926b7041c1e9ceb27149e055"
+    },
+    {
+      "paperId": "b9effdd8418964ce4d91663e60ad6d8ce404edcc"
+    },
+    {
+      "paperId": "49cca4454e0259229782df804a114be44ed94a1e"
+    },
+    {
+      "paperId": "6a924227f5016b61b9c7eb526a5251fe2b83830c"
+    },
+    {
+      "paperId": "2a3466423ea9ca1de16f5627e242b689f636df44"
+    },
+    {
+      "paperId": "fe301857038cf6dbad238417ab582cc5d180264a"
+    },
+    {
+      "paperId": "e9547e0bc09fc485505b17467108cdaf64f35219"
+    },
+    {
+      "paperId": "3fa806418924e796feb2be1025d3eb4f018953af"
+    },
+    {
+      "paperId": "495f752f7110b2c13315cf82ed32d924d3a00674"
+    },
+    {
+      "paperId": "fe9b09e32c6d87f2f263fb3eaab8ad204a77feff"
+    },
+    {
+      "paperId": "4b40d5d5d764e63ce6156656357222fe33f143ad"
+    },
+    {
+      "paperId": "7da7ab308897cea273d0db9e95d63615fb8582c0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

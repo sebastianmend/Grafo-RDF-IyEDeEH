@@ -1,0 +1,42 @@
+{
+  "paperId": "e37635ffc351418144db5ac3c61310d9cdae0c27",
+  "externalIds": {
+    "MAG": "2536426112",
+    "DOI": "10.1109/ICWISE.2014.7042666",
+    "CorpusId": 43483548
+  },
+  "url": "https://www.semanticscholar.org/paper/e37635ffc351418144db5ac3c61310d9cdae0c27",
+  "title": "RF and battery performance study for WSN in palm oil plantation applications",
+  "venue": "2014 IEEE Conference on Wireless Sensors (ICWiSE)",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICWISE.2014.7042666?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICWISE.2014.7042666, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40580526",
+      "name": "I. Yusoff"
+    },
+    {
+      "authorId": "37345377",
+      "name": "A. N. Harun"
+    },
+    {
+      "authorId": "30642065",
+      "name": "Siti Sarah Ramli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

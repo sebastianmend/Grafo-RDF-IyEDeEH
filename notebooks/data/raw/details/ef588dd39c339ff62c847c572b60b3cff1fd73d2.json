@@ -1,0 +1,38 @@
+{
+  "paperId": "ef588dd39c339ff62c847c572b60b3cff1fd73d2",
+  "externalIds": {
+    "MAG": "2540945730",
+    "DOI": "10.1109/ICCSNT.2013.6967061",
+    "CorpusId": 17507615
+  },
+  "url": "https://www.semanticscholar.org/paper/ef588dd39c339ff62c847c572b60b3cff1fd73d2",
+  "title": "The study of the agricultural product storage temperature and humidity control system",
+  "venue": "Proceedings of 2013 3rd International Conference on Computer Science and Network Technology",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSNT.2013.6967061?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSNT.2013.6967061, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "48630567",
+      "name": "Xingwang Wang"
+    },
+    {
+      "authorId": "2145578677",
+      "name": "Yue Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

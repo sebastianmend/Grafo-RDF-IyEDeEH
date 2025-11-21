@@ -1,0 +1,101 @@
+{
+  "paperId": "cf9568a056aeb86889654c800a05ebdf5e2648c1",
+  "externalIds": {
+    "MAG": "1945370545",
+    "DOI": "10.1126/science.aac8480",
+    "CorpusId": 206640798,
+    "PubMed": "26511287"
+  },
+  "url": "https://www.semanticscholar.org/paper/cf9568a056aeb86889654c800a05ebdf5e2648c1",
+  "title": "A unified initiative to harness Earth's microbiomes",
+  "venue": "Science",
+  "year": 2015,
+  "citationCount": 202,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://authors.library.caltech.edu/records/p73rn-8f443/files/aac8480_Alivisatos-SM.pdf?download=1",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.aac8480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.aac8480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Philosophy",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2070026057",
+      "name": "A. P. Alivisatos"
+    },
+    {
+      "authorId": "3173460",
+      "name": "M. Blaser"
+    },
+    {
+      "authorId": "1691615",
+      "name": "Eoin L. Brodie"
+    },
+    {
+      "authorId": "2065338458",
+      "name": "M. Chun"
+    },
+    {
+      "authorId": "2076958837",
+      "name": "J. Dangl"
+    },
+    {
+      "authorId": "2745389",
+      "name": "T. Donohue"
+    },
+    {
+      "authorId": "2975900",
+      "name": "P. Dorrestein"
+    },
+    {
+      "authorId": "144372823",
+      "name": "J. Gilbert"
+    },
+    {
+      "authorId": "32388300",
+      "name": "J. Green"
+    },
+    {
+      "authorId": "32751508",
+      "name": "J. Jansson"
+    },
+    {
+      "authorId": "2069311878",
+      "name": "R. Knight"
+    },
+    {
+      "authorId": "5075935",
+      "name": "M. Maxon"
+    },
+    {
+      "authorId": "1387450082",
+      "name": "M. McFall-Ngai"
+    },
+    {
+      "authorId": "2220128801",
+      "name": "J. Miller"
+    },
+    {
+      "authorId": "1694593",
+      "name": "K. Pollard"
+    },
+    {
+      "authorId": "5086120",
+      "name": "E. Ruby"
+    },
+    {
+      "authorId": "1382308374",
+      "name": "S. Taha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

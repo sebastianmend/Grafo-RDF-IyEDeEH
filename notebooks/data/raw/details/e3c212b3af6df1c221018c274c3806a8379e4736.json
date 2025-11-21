@@ -1,0 +1,37 @@
+{
+  "paperId": "e3c212b3af6df1c221018c274c3806a8379e4736",
+  "externalIds": {
+    "MAG": "2887246636",
+    "CorpusId": 264719554
+  },
+  "url": "https://www.semanticscholar.org/paper/e3c212b3af6df1c221018c274c3806a8379e4736",
+  "title": "What is the Precision of Land Survey Values",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2393105957",
+      "name": "Matthew Stinn"
+    },
+    {
+      "authorId": "2393103938",
+      "name": "Michael Duffy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

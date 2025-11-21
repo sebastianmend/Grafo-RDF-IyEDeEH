@@ -1,0 +1,42 @@
+{
+  "paperId": "f9ede7ff67003ef1de06ea1ccb8eac9c7d3041fb",
+  "externalIds": {
+    "MAG": "2148384215",
+    "DOI": "10.1109/ICNS.2010.26",
+    "CorpusId": 16714555
+  },
+  "url": "https://www.semanticscholar.org/paper/f9ede7ff67003ef1de06ea1ccb8eac9c7d3041fb",
+  "title": "WSN as a Tool for Supporting Agriculture in the Precision Irrigation",
+  "venue": "2010 Sixth International Conference on Networking and Services",
+  "year": 2010,
+  "citationCount": 62,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICNS.2010.26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICNS.2010.26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9172247",
+      "name": "Gracon H. E. L. de Lima"
+    },
+    {
+      "authorId": "9076188",
+      "name": "L. C. e Silva"
+    },
+    {
+      "authorId": "2144961743",
+      "name": "P. F. R. Neto"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "c3dbd612783cab90f7be89ec520e1b520b65ff98",
+  "externalIds": {
+    "MAG": "1443816712",
+    "DOI": "10.2134/AGRONMONOGR46.C27",
+    "CorpusId": 127745164
+  },
+  "url": "https://www.semanticscholar.org/paper/c3dbd612783cab90f7be89ec520e1b520b65ff98",
+  "title": "Role of Precision Agriculture in Phosphorus Management Practices",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2134/AGRONMONOGR46.C27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/AGRONMONOGR46.C27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "13022624",
+      "name": "A. Mallarino"
+    },
+    {
+      "authorId": "1913943",
+      "name": "J. Schepers"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

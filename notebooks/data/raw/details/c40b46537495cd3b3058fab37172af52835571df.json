@@ -1,0 +1,201 @@
+{
+  "paperId": "c40b46537495cd3b3058fab37172af52835571df",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/ThenkabailW12",
+    "MAG": "2058208710",
+    "DOI": "10.3390/rs4102890",
+    "CorpusId": 27908121
+  },
+  "url": "https://www.semanticscholar.org/paper/c40b46537495cd3b3058fab37172af52835571df",
+  "title": "An Automated Cropland Classification Algorithm (ACCA) for Tajikistan by Combining Landsat, MODIS, and Secondary Data",
+  "venue": "Remote Sensing",
+  "year": 2012,
+  "citationCount": 84,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/4/10/2890/pdf?version=1403131121",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs4102890?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs4102890, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2650989",
+      "name": "P. Thenkabail"
+    },
+    {
+      "authorId": "5422670",
+      "name": "Zhuoting Wu"
+    }
+  ],
+  "abstract": "The overarching goal of this research was to develop and demonstrate an automated Cropland Classification Algorithm (ACCA) that will rapidly, routinely, and accurately classify agricultural cropland extent, areas, and characteristics (e.g., irrigated vs. rainfed) over large areas such as a country or a region through combination of multi-sensor remote sensing and secondary data. In this research, a rule-based ACCA was conceptualized, developed, and demonstrated for the country of Tajikistan using mega file data cubes (MFDCs) involving data from Landsat Global Land Survey (GLS), Landsat Enhanced Thematic Mapper Plus (ETM+) 30 m, Moderate Resolution Imaging Spectroradiometer (MODIS) 250 m time-series, a suite of secondary data (e.g., elevation, slope, precipitation, temperature), and in situ data. First, the process involved producing an accurate reference (or truth) cropland layer (TCL), consisting of cropland extent, areas, and irrigated vs. rainfed cropland areas, for the entire country of Tajikistan based on MFDC of year 2005 (MFDC2005). The methods involved in producing TCL included using ISOCLASS clustering, Tasseled Cap bi-spectral plots, spectro-temporal characteristics from MODIS 250 m monthly normalized difference vegetation index (NDVI) maximum value composites (MVC) time-series, and textural characteristics of higher resolution imagery. The TCL statistics accurately matched with the national statistics of Tajikistan for irrigated and rainfed croplands, where about 70% of croplands were irrigated and the rest rainfed. Second, a rule-based ACCA was developed to replicate the TCL accurately (~80% producer’s and user’s accuracies or within 20% quantity disagreement involving about 10 million Landsat 30 m sized cropland pixels of Tajikistan). Development of ACCA was an iterative process involving series of rules that are coded, refined, tweaked, and re-coded till ACCA derived croplands (ACLs) match accurately with TCLs. Third, the ACCA derived cropland layers of Tajikistan were produced for year 2005 (ACL2005), same year as the year used for developing ACCA, using MFDC2005. Fourth, TCL for year 2010 (TCL2010), an independent year, was produced using MFDC2010 using the same methods and approaches as the one used to produce TCL2005. Fifth, the ACCA was applied on MFDC2010 to derive ACL2010. The ACLs were then compared with TCLs (ACL2005 vs. TCL2005 and ACL2010 vs. TCL2010). The resulting accuracies and errors from error matrices involving about 152 million Landsat (30 m) pixels of the country of Tajikistan (of which about 10 million Landsat size, 30 m, cropland pixels) showed an overall accuracy of 99.6% (khat = 0.97) for ACL2005 vs. TCL2005. For the 3 classes (irrigated, rainfed, and others) mapped in ACL2005, the producer’s accuracy was >86.4% and users accuracy was >93.6%. For ACL2010 vs. TCL2010, the error matrix showed an overall accuracy on 96.2% (khat = 0.96). For the 3 classes (irrigated, rainfed, and others) mapped in ACL2010, the producer’s and user’s accuracies for the irrigated areas were ≥82.9%. Any intermixing was overwhelmingly between irrigated and rainfed croplands, indicating that croplands (irrigated plus rainfed areas) as well as irrigated areas were mapped with high levels of accuracies (~90% or higher) even for the independent year. The ACL2005 and ACL2010, each, were produced using ACCA algorithm in ~30 min using a Dell Precision desktop T7400 computer for the entire country of Tajikistan once the MFDCs for the years were ready. The ACCA algorithm for Tajikistan is made available through US Geological Survey’s ScienceBase: http://www.sciencebase.gov/catalog/folder/4f79f1b7e4b0009bd827f548 or at: https://powellcenter.usgs.gov/globalcroplandwater/content/models-algorithms. The research contributes to the efforts of global food security through research on global croplands and their water use (e.g., https://powellcenter.usgs.gov/globalcroplandwater/). The above results clearly demonstrated the ability of a rule-based ACCA to rapidly and accurately produce cropland data layer year after year (hindcast, nowcast, forecast) for the country it was developed using MFDCs that consist of combining multiple sensor data and secondary data. It needs to be noted that the ACCA is applicable to the area (e.g., country, region) for which it is developed. In this case, ACCA is applicable for the Country of Tajikistan to hindcast, nowcast, and forecast agricultural cropland extent, areas, and irrigated vs. rainfed. The same fundamental concept of ACCA applies to other areas of the World where ACCA codes need to be modified to suite the area/region of interest. ACCA can also be expanded to compute other crop characteristics such as crop types, cropping intensities, and phenologies.",
+  "references": [
+    {
+      "paperId": "bb687202acec4d5b269b2d0b0200e919ac6e8564"
+    },
+    {
+      "paperId": "2d743ab0a7d199a4f4431cb2a5edcebe7669bd97"
+    },
+    {
+      "paperId": "48d8418745a8847a2a3584f88d9d1f18f06957ad"
+    },
+    {
+      "paperId": "c81fa97a742f805f0c3994fe9397c2d926478dfa"
+    },
+    {
+      "paperId": "93f5251543c7192d3906beaad6c465f774d2a9ba"
+    },
+    {
+      "paperId": "aeee3615114491a1e08bf4d69656d0e5a0c3fbcf"
+    },
+    {
+      "paperId": "f5ae932d3485f319115b379c29cb4a16c1b62fa8"
+    },
+    {
+      "paperId": "44f6fff4c21f1df2d8df6909d7a5ef9272b658e9"
+    },
+    {
+      "paperId": "6426978397165f655897d4afd6550c54de081b61"
+    },
+    {
+      "paperId": "f93f946c95f3acb2cd4a781f3274cf8c136331aa"
+    },
+    {
+      "paperId": "f680a7201ee063de966480afd3bc16ba6c29df6e"
+    },
+    {
+      "paperId": "25ad3cfed84755544682dab303109f8e6a3c288c"
+    },
+    {
+      "paperId": "6ac2299b6e5597ead422af4477e71ff84aa3d1c5"
+    },
+    {
+      "paperId": "33232e0f2b2dac0b25ae160c7c06ca3fc0f140cf"
+    },
+    {
+      "paperId": "f82149d1aac0f75c02c66c9b0cf5fea264a25889"
+    },
+    {
+      "paperId": "36e0479b54836fe0e2a22bfe6a1f2b80748f1299"
+    },
+    {
+      "paperId": "42d244bb8d4208b3508b572652857446ab19839e"
+    },
+    {
+      "paperId": "b4b4a54f3817f24e0131dead3a0befbdcd8f3cd6"
+    },
+    {
+      "paperId": "7f255be618bc9b7b5b3c80615e50526da22ab57b"
+    },
+    {
+      "paperId": "51ef3e63a996c5f7a32fe696e553251a355ad059"
+    },
+    {
+      "paperId": "db1bd3595aa14e566388db80b2cf47e7447d34de"
+    },
+    {
+      "paperId": "970b9a4e27f922dd8aac832623ab96298d4aed8a"
+    },
+    {
+      "paperId": "5f937d3a75985fec1143f110bfd5e0b4985b28ac"
+    },
+    {
+      "paperId": "6f207d8fde43996fea52f4c7ff7987feb7259154"
+    },
+    {
+      "paperId": "aa31a56e35a971b0f7e68e3f11983ce274247e48"
+    },
+    {
+      "paperId": "becd6cd0855c260ee39040c1ad6c0727e11afb4c"
+    },
+    {
+      "paperId": "f7ba2a15a2f215c82edd70d61d242685734ba225"
+    },
+    {
+      "paperId": "310aade433982db0757a6228d2a165abcbcbe311"
+    },
+    {
+      "paperId": "d86940e07edd3ebbd1d00a4ac661e8e41b992a5a"
+    },
+    {
+      "paperId": "9929bcc9a929382d1351fd8e2c500e7e96fe0863"
+    },
+    {
+      "paperId": "f2f379ebcf3a72d2100bcb0410ecb63130c1c2dd"
+    },
+    {
+      "paperId": "9a6165c67d2f01c9176d0961099087b0c437c1c0"
+    },
+    {
+      "paperId": "43f2923d380a02f98be9f7e3389918b7d1e331d6"
+    },
+    {
+      "paperId": "51ce60f072ce9de49bdbca4f888d5cbbe5f074d1"
+    },
+    {
+      "paperId": "20ddaeaf4fa9acdfb54f7831600a50ebbb770913"
+    },
+    {
+      "paperId": "93a85062adf1c261015abbd97711688ec5810fc6"
+    },
+    {
+      "paperId": "6b90a8daff13f8838c4a01ee5c5a04a3e751d817"
+    },
+    {
+      "paperId": "dc3e57dadea569feb567291be297fe7b69ab319d"
+    },
+    {
+      "paperId": "1076e17dcdf146fa5a6f31402d85493b628824ff"
+    },
+    {
+      "paperId": "d2272dd9ff850edc448f7fde86eef6bcd57af2cc"
+    },
+    {
+      "paperId": "b899a6e638d5a994c423b970a2911c2e0585822f"
+    },
+    {
+      "paperId": "b74c774d757fb528d5a2762f16315e07b32992c0"
+    },
+    {
+      "paperId": "b2ce135e904da487a2f884c566cd928ffe8e0a40"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "79a60b76b13eb498318dee729522673d97c0dcdb"
+    },
+    {
+      "paperId": "eebed0813eaf632939298116c5e5ee8bfd3cd7f0"
+    },
+    {
+      "paperId": "f327211387d880a40bdfd693a264d72a31c89249"
+    },
+    {
+      "paperId": "819f1f120d149033930dff764ba6d5a21559658a"
+    },
+    {
+      "paperId": "fc24610b04dfed601c1955a09833fe662bd90ea7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5208994aa3c96dec914855797eb344eb8ae62630"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

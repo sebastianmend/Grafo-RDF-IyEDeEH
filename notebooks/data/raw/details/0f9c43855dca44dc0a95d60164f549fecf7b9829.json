@@ -1,0 +1,44 @@
+{
+  "paperId": "0f9c43855dca44dc0a95d60164f549fecf7b9829",
+  "externalIds": {
+    "MAG": "2141842128",
+    "DBLP": "journals/staeors/SadeghiZD13",
+    "DOI": "10.1109/JSTARS.2013.2259221",
+    "CorpusId": 20684208
+  },
+  "url": "https://www.semanticscholar.org/paper/0f9c43855dca44dc0a95d60164f549fecf7b9829",
+  "title": "An Improved Persistent Scatterer Interferometry for Subsidence Monitoring in the Tehran Basin",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2013,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2013.2259221?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2013.2259221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2067325923",
+      "name": "Z. Sadeghi"
+    },
+    {
+      "authorId": "30923846",
+      "name": "M. J. V. Zoej"
+    },
+    {
+      "authorId": "48972969",
+      "name": "M. Dehghani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

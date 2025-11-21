@@ -1,0 +1,38 @@
+{
+  "paperId": "b1f3eae1daaaef1124a0835a26fdd80f38fb176a",
+  "externalIds": {
+    "MAG": "2149594198",
+    "DOI": "10.1109/ICIC.2010.289",
+    "CorpusId": 17292799
+  },
+  "url": "https://www.semanticscholar.org/paper/b1f3eae1daaaef1124a0835a26fdd80f38fb176a",
+  "title": "A Combined Forecasting Method of Grain Yield in China Based on GM(1,1) and BP Network",
+  "venue": "2010 Third International Conference on Information and Computing",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIC.2010.289?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIC.2010.289, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2113341619",
+      "name": "Jian Wen"
+    },
+    {
+      "authorId": "2066703303",
+      "name": "Lijuan Lei"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

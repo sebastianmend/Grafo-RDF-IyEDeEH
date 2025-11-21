@@ -1,0 +1,36 @@
+{
+  "paperId": "f07624ccf4a2eb18f0122a574c1e635b7f899231",
+  "externalIds": {
+    "MAG": "2201674929",
+    "CorpusId": 155129899
+  },
+  "url": "https://www.semanticscholar.org/paper/f07624ccf4a2eb18f0122a574c1e635b7f899231",
+  "title": "Evaluación del impacto de las innovaciones agrarias: una revisión",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1422926464",
+      "name": "Juan Carlos Barrientos-Fuentes"
+    },
+    {
+      "authorId": "101769996",
+      "name": "E. Berg"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

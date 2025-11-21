@@ -1,0 +1,146 @@
+{
+  "paperId": "5cc754acb9f4439cd7fad590b0021ae49178107b",
+  "externalIds": {
+    "MAG": "1996025396",
+    "PubMedCentral": "3230975",
+    "DBLP": "journals/sensors/TopakciUCCK10",
+    "DOI": "10.3390/s101009337",
+    "CorpusId": 1161178,
+    "PubMed": "22163410"
+  },
+  "url": "https://www.semanticscholar.org/paper/5cc754acb9f4439cd7fad590b0021ae49178107b",
+  "title": "Design of a Horizontal Penetrometer for Measuring On-the-Go Soil Resistance",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2010,
+  "citationCount": 34,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/10/10/9337/pdf?version=1403313145",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3230975, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8833440",
+      "name": "M. Topakcı"
+    },
+    {
+      "authorId": "13041999",
+      "name": "I. Ünal"
+    },
+    {
+      "authorId": "8825031",
+      "name": "M. Çanakcı"
+    },
+    {
+      "authorId": "49224205",
+      "name": "H. K. Celik"
+    },
+    {
+      "authorId": "8816573",
+      "name": "D. Karayel"
+    }
+  ],
+  "abstract": "Soil compaction is one of the main negative factors that limits plant growth and crop yield. Therefore, it is important to determine the soil resistance level and map it for the field to find solutions for the negative effects of the compaction. Nowadays, high powered communication technology and computers help us on this issue within the approach of precision agriculture applications. This study is focused on the design of a penetrometer, which can make instantaneous soil resistance measurements in the soil horizontally and data acquisition software based on the GPS (Global Positioning System). The penetrometer was designed using commercial 3D parametric solid modelling design software. The data acquisition software was developed in Microsoft Visual Basic.NET programming language. After the design of the system, manufacturing and assembly of the system was completed and then a field experiment was carried out. According to the data from GPS and penetration resistance values which are collected in Microsoft SQL Server database, a Kriging method by ArcGIS was used and soil resistance was mapped in the field for a soil depth of 40 cm. During operation, no faults, either in mechanical and software parts, were seen. As a result, soil resistance values of 0.2 MPa and 3 MPa were obtained as minimum and maximum values, respectively. In conclusion, the experimental results showed that the designed system works quite well in the field and the horizontal penetrometer is a practical tool for providing on-line soil resistance measurements. This study contributes to further research for the development of on-line soil resistance measurements and mapping within the precision agriculture applications.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "9734f6399f0440fe0fc111dbf80617943a885a07"
+    },
+    {
+      "paperId": "d079127a36777288dddc595e7a04e9a6e551faab"
+    },
+    {
+      "paperId": "09409e09cf8c1cffccac979528154571a083c190"
+    },
+    {
+      "paperId": "fe86d5927bed32329917e09ff0541a2f5ce2cc71"
+    },
+    {
+      "paperId": "585993752c8556848162f390f03e4a735340faf7"
+    },
+    {
+      "paperId": "34df7f9db8316ab10d3d8226128a3459e3117385"
+    },
+    {
+      "paperId": "778be166e456c5222f16f3835370df73a61fe31e"
+    },
+    {
+      "paperId": "ef20624d8aa84dfefa9135e8596f8067c2958f9e"
+    },
+    {
+      "paperId": "d73304b4c7af98054c6fd1298cce1e885d1f525a"
+    },
+    {
+      "paperId": "37ef8b23cbfd87a1372bf520946fa394cfb5a8a8"
+    },
+    {
+      "paperId": "a0f84e298e54fcc0469b6db172cf1b752eb5ca87"
+    },
+    {
+      "paperId": "9339a9a11cedbd0d17526a47e783b4f5b276fd55"
+    },
+    {
+      "paperId": "6b93818c63dc83b2a07f995f23aa17a6a1f442be"
+    },
+    {
+      "paperId": "32541194101dd77a2745a0410a563e46673e531b"
+    },
+    {
+      "paperId": "3ad6ee5349031759871939ab73d1c800a9e3cc0d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

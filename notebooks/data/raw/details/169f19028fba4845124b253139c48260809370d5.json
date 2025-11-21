@@ -1,0 +1,50 @@
+{
+  "paperId": "169f19028fba4845124b253139c48260809370d5",
+  "externalIds": {
+    "MAG": "2032658510",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2012.6311633",
+    "CorpusId": 27003055
+  },
+  "url": "https://www.semanticscholar.org/paper/169f19028fba4845124b253139c48260809370d5",
+  "title": "Evaluating different methods of using chlorophyll meter for diagnosing nitrogen status of summer maize",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2012,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2012.6311633?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2012.6311633, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "48729566",
+      "name": "Weifeng Yu"
+    },
+    {
+      "authorId": "1953258",
+      "name": "Y. Miao"
+    },
+    {
+      "authorId": "2069967587",
+      "name": "Guohui Feng"
+    },
+    {
+      "authorId": "7335201",
+      "name": "S. Yue"
+    },
+    {
+      "authorId": "49166933",
+      "name": "B. Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

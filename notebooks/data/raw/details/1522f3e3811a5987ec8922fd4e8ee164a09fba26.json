@@ -1,0 +1,55 @@
+{
+  "paperId": "1522f3e3811a5987ec8922fd4e8ee164a09fba26",
+  "externalIds": {
+    "MAG": "1486190755",
+    "DOI": "10.1109/ICIIECS.2015.7193120",
+    "CorpusId": 17242623
+  },
+  "url": "https://www.semanticscholar.org/paper/1522f3e3811a5987ec8922fd4e8ee164a09fba26",
+  "title": "Survey of classification algorithms for formulating yield prediction accuracy in precision agriculture",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 53,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7193120?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7193120, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9166997",
+      "name": "Anshal Savla"
+    },
+    {
+      "authorId": "9458142",
+      "name": "Nivedita Israni"
+    },
+    {
+      "authorId": "9145030",
+      "name": "Parul Dhawan"
+    },
+    {
+      "authorId": "9239717",
+      "name": "Alisha Mandholia"
+    },
+    {
+      "authorId": "9269989",
+      "name": "Himtanaya Bhadada"
+    },
+    {
+      "authorId": "9180058",
+      "name": "Sanya Bhardwaj"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

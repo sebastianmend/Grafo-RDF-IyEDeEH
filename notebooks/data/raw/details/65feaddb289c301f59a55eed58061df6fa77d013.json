@@ -1,0 +1,50 @@
+{
+  "paperId": "65feaddb289c301f59a55eed58061df6fa77d013",
+  "externalIds": {
+    "MAG": "2090572503",
+    "DOI": "10.1007/s12517-012-0786-0",
+    "CorpusId": 128626728
+  },
+  "url": "https://www.semanticscholar.org/paper/65feaddb289c301f59a55eed58061df6fa77d013",
+  "title": "The effects of hydrometer reading times on the spatial variability of soil textures in southeast Iran",
+  "venue": "Arabian Journal of Geosciences",
+  "year": 2014,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12517-012-0786-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12517-012-0786-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "146151798",
+      "name": "A. Owji"
+    },
+    {
+      "authorId": "146967820",
+      "name": "I. Esfandiarpour Boroujeni"
+    },
+    {
+      "authorId": "105076414",
+      "name": "A. Kamali"
+    },
+    {
+      "authorId": "4539633",
+      "name": "S. Hosseinifard"
+    },
+    {
+      "authorId": "147410394",
+      "name": "M. Bagheri Bodaghabadi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

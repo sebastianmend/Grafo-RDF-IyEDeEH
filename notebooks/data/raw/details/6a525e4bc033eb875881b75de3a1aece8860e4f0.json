@@ -1,0 +1,80 @@
+{
+  "paperId": "6a525e4bc033eb875881b75de3a1aece8860e4f0",
+  "externalIds": {
+    "MAG": "2734680601",
+    "CorpusId": 134201756
+  },
+  "url": "https://www.semanticscholar.org/paper/6a525e4bc033eb875881b75de3a1aece8860e4f0",
+  "title": "Workshop on ”Water, Nitrogen, and Agriculture in the State of São Paulo, Brazil” Proceedings",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11926875",
+      "name": "N. Tase"
+    },
+    {
+      "authorId": "47354108",
+      "name": "H. Hayashi"
+    },
+    {
+      "authorId": "144894550",
+      "name": "K. Tamura"
+    },
+    {
+      "authorId": "48968454",
+      "name": "T. Yamanaka"
+    },
+    {
+      "authorId": "37192208",
+      "name": "S. Onodera"
+    },
+    {
+      "authorId": "67140559",
+      "name": "Takaaki Nihei"
+    },
+    {
+      "authorId": "145027527",
+      "name": "Sachika Takizawa"
+    },
+    {
+      "authorId": "12144243",
+      "name": "T. Hosono"
+    },
+    {
+      "authorId": "2108641527",
+      "name": "Seongwon Lee"
+    },
+    {
+      "authorId": "71211745",
+      "name": "R. Hirata"
+    },
+    {
+      "authorId": "9848689",
+      "name": "R. Shirota"
+    },
+    {
+      "authorId": "104541705",
+      "name": "F. Saraiva"
+    },
+    {
+      "authorId": "2069646497",
+      "name": "Rafael Terada"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

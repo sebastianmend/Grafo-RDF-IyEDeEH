@@ -1,0 +1,380 @@
+{
+  "paperId": "bd4358391bd9393aeb45cb1c671658090849566e",
+  "externalIds": {
+    "PubMedCentral": "3921250",
+    "MAG": "2008958414",
+    "DOI": "10.1371/journal.pone.0088930",
+    "CorpusId": 4572655,
+    "PubMed": "24523946"
+  },
+  "url": "https://www.semanticscholar.org/paper/bd4358391bd9393aeb45cb1c671658090849566e",
+  "title": "The Effect of Differential Growth Rates across Plants on Spectral Predictions of Physiological Parameters",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 28,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0088930&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3921250, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3871337",
+      "name": "T. Rapaport"
+    },
+    {
+      "authorId": "6856268",
+      "name": "U. Hochberg"
+    },
+    {
+      "authorId": "3412264",
+      "name": "S. Rachmilevitch"
+    },
+    {
+      "authorId": "3018815",
+      "name": "A. Karnieli"
+    }
+  ],
+  "abstract": "Leaves of various ages and positions in a plant's canopy can present distinct physiological, morphological and anatomical characteristics, leading to complexities in selecting a single leaf for spectral representation of an entire plant. A fortiori, as growth rates between canopies differ, spectral-based comparisons across multiple plants – often based on leaves' position but not age – becomes an even more challenging mission. This study explores the effect of differential growth rates on the reflectance variability between leaves of different canopies, and its implication on physiological predictions made by widely-used spectral indices. Two distinct irrigation treatments were applied for one month, in order to trigger the formation of different growth rates between two groups of grapevines. Throughout the experiment, the plants were physiologically and morphologically monitored, while leaves from every part of their canopies were spectrally and histologically sampled. As the control vines were constantly developing new leaves, the water deficit plants were experiencing growth inhibition, resulting in leaves of different age at similar nodal position across the treatments. This modification of the age-position correlation was characterized by a near infrared reflectance difference between younger and older leaves, which was found to be exponentially correlated (R2 = 0.98) to the age-dependent area of intercellular air spaces within the spongy parenchyma. Overall, the foliage of the control plant became more spectrally variable, creating complications for intra- and inter-treatment leaf-based comparisons. Of the derived indices, the Structure-Insensitive Pigment Index (SIPI) was found indifferent to the age-position effect, allowing the treatments to be compared at any nodal position, while a Normalized Difference Vegetation Index (NDVI)-based stomatal conductance prediction was substantially affected by differential growth rates. As various biotic and abiotic factors may form distinctions in growth, future precision agriculture studies should consider its spectral effect on physiological predictions.",
+  "references": [
+    {
+      "paperId": "89c5af6c91a59b87f110fc3d0fcfed936a259c11"
+    },
+    {
+      "paperId": "bf83ef210b2773103316fae4124540745e7f885b"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "a369f52fb1830107a866436630e6afe94a89e3a7"
+    },
+    {
+      "paperId": "61b8c74344ffed7a82959b221281346478ccdb82"
+    },
+    {
+      "paperId": "c36eb53aa647c697d0c553fa637044de52411f4d"
+    },
+    {
+      "paperId": "4a06f0f0d643f023411ab79d6a34f756737a6b8a"
+    },
+    {
+      "paperId": "7e84601fa136136ec6705b12f8cf3ca4f1a73455"
+    },
+    {
+      "paperId": "6326c7cdad5c8c10d4407f5c6a21c71b5e2a8db6"
+    },
+    {
+      "paperId": "69d6fe585a911d61e9bf5d6ed416fad8cdf04e2f"
+    },
+    {
+      "paperId": "cef1e8376a58afc07b5aee1e25a95010033c8718"
+    },
+    {
+      "paperId": "1a274a59dd5c47b8914f14f12b058fdc02a8f69b"
+    },
+    {
+      "paperId": "2d7b492b44b0f0dd7ccbe196f3051cfd82de536a"
+    },
+    {
+      "paperId": "1feb5a0f0052b6fb4875d57e18e7c866f9344abe"
+    },
+    {
+      "paperId": "8d07236da063477dc19e539623714044483d31a4"
+    },
+    {
+      "paperId": "ec29ddf40565abccd20ecc5fa43ea7ac904325ea"
+    },
+    {
+      "paperId": "222b4ef90e0cccd42e473ea872e8d0901201318f"
+    },
+    {
+      "paperId": "93d45b6907b7b13d497d3416fc8146074e3d5b6e"
+    },
+    {
+      "paperId": "4e2facecfd0e8bc5340f518a388079db9d80482b"
+    },
+    {
+      "paperId": "2acdbd0808ff63e846986f3de7fa232b7d012c95"
+    },
+    {
+      "paperId": "77f1a5e0185899691d6715887395af30150a83fc"
+    },
+    {
+      "paperId": "cf9a6ec44bce94616a41b684cf808b2d276997a3"
+    },
+    {
+      "paperId": "b0f928ca7a89c60b4d29e9f79f3a48201a16cdf6"
+    },
+    {
+      "paperId": "27156b2473bc378cf9aceb7e457b01c29afdfeb3"
+    },
+    {
+      "paperId": "87404f908db94ea937fb210c2923c8f296463a2a"
+    },
+    {
+      "paperId": "6c535cb698e96085095f9c22df3f01e2efd5e4e6"
+    },
+    {
+      "paperId": "48e3d968d802dad1b1b04cd27ba034613c054e19"
+    },
+    {
+      "paperId": "b506638c650c1ab84277f5d664f45dea5e997b2f"
+    },
+    {
+      "paperId": "91d9c7824ef228e3998ed719bfb409c09fd61e0f"
+    },
+    {
+      "paperId": "7b5b1dd21807947783ca8cb94923662b43f2e1ab"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "b4a53018ecafb1830d36beb6277da8b7b45ff4ec"
+    },
+    {
+      "paperId": "e062cf5e0c177fd7106c1588b64cfba1bc51d833"
+    },
+    {
+      "paperId": "126bf5b6714313e06524b40cd2900d3e286202b2"
+    },
+    {
+      "paperId": "22f18ce769a12a082384037265f19f2ece1fd7a0"
+    },
+    {
+      "paperId": "0e47b69922abf2be8ddbba8ce029d10e49f8b72e"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "f3f9ab2ae3f9ae8ddcd00091679dddcd8685777d"
+    },
+    {
+      "paperId": "fd8ab22e4d06c11a004143ff12f02cff8c57c278"
+    },
+    {
+      "paperId": "aa08fe5ff13d7a26375d827f5ac871f816d9214c"
+    },
+    {
+      "paperId": "bb24299bfd1af6881bc6b0c98fd1e02ed4c47e26"
+    },
+    {
+      "paperId": "b3c2229afd9c3df8a94c5d281277434eaafb9317"
+    },
+    {
+      "paperId": "9cb1a12ebd901e2f320f37d06cab07bb1010b89b"
+    },
+    {
+      "paperId": "d9c00754b13fd5a366c438618057c870ae044dc9"
+    },
+    {
+      "paperId": "8b6ea4b938aed97dbbe65674b36f91a412415aa6"
+    },
+    {
+      "paperId": "4212ea33ec61c261430743549657e2833b626cf7"
+    },
+    {
+      "paperId": "d975c932fd0f9bfee7e7d651469965c497d90eaf"
+    },
+    {
+      "paperId": "1a192660d4fe0dd322c12ef0700a407fb4a02cde"
+    },
+    {
+      "paperId": "4c62efe084ee252e61291cc04e5d91d42b66a95a"
+    },
+    {
+      "paperId": "3f1f0fdb088049896ad7ef3f12a32a275f4db236"
+    },
+    {
+      "paperId": "ce701662a1a56692603773d7e8d2c40e8b74c05b"
+    },
+    {
+      "paperId": "4432050e2db1a0fe6155ed47754e0220d476cce5"
+    },
+    {
+      "paperId": "ea566c935689d0d1bf63252ac7a34d60a67e8dd4"
+    },
+    {
+      "paperId": "bde306ea23f74a32783d1537cd334386e9710e73"
+    },
+    {
+      "paperId": "e58e1b295b1de71f3054e982f8bf56073103d6ad"
+    },
+    {
+      "paperId": "6c2ef561b815d956785798df5756a9a6cb505817"
+    },
+    {
+      "paperId": "77b5fd6f5193104896f93c2248010918028c063c"
+    },
+    {
+      "paperId": "2023fc7bc858fcb2c9033a6cacc0becc49b0b0e2"
+    },
+    {
+      "paperId": "15d62fed0eae8777aa2ae66fd2509160b38fab70"
+    },
+    {
+      "paperId": "b5efbd28e4470e8b132f40c4b895680ec4985769"
+    },
+    {
+      "paperId": "9423d723291757c5497ec14e7470c711a72ba184"
+    },
+    {
+      "paperId": "60b1ac5e1432c6f76ecb3b884a1a558e78819efd"
+    },
+    {
+      "paperId": "09628d26170125cf765f1b661743762cf85ac3b0"
+    },
+    {
+      "paperId": "93512175dfa6b37b253edf8ccad7100882fa774c"
+    },
+    {
+      "paperId": "f908534046b2cf1b10b9cc4c91057793a7235f97"
+    },
+    {
+      "paperId": "86211e4ae6386b6ebeb84b9af60a1a985926311d"
+    },
+    {
+      "paperId": "e55eff05d24467403940f44296342545bb063dd0"
+    },
+    {
+      "paperId": "203f1984ab015c8ec8e6cb631233c86c42f30204"
+    },
+    {
+      "paperId": "916abf10e6694533807147c4def5084b3b90d6eb"
+    },
+    {
+      "paperId": "9d367e3703645de19b38e47d577ecd2f38dd6b76"
+    },
+    {
+      "paperId": "f59d1a6acafd446b6b52bb34c3d4156aac4cdf15"
+    },
+    {
+      "paperId": "fc718444ea216748ab4a480acd1e74122bc7913a"
+    },
+    {
+      "paperId": "57db128f61f2f872e044aa27b4ad8e341d1a95a8"
+    },
+    {
+      "paperId": "a7b097488cb29700a6c1860f4249d3646a21a5e2"
+    },
+    {
+      "paperId": "b19ad08d934b1237b50050e406f95b05cdeb5ab7"
+    },
+    {
+      "paperId": "4901352af0b4c6be3dbf036fbd1013fcf4b0513a"
+    },
+    {
+      "paperId": "e48b3874ae19f221521f0b854eaa24a82237acf2"
+    },
+    {
+      "paperId": "ab0967c4e23db3e6279b35965223e220731dd7aa"
+    },
+    {
+      "paperId": "4aa79f9299eac9b298cdcc16fd113c01c7ab6d2a"
+    },
+    {
+      "paperId": "d0c1dd6919b5e924786d26d7bff4a139e021511b"
+    },
+    {
+      "paperId": "2fd0874359e5731a8aecd4c32e9841da3c9bdb07"
+    },
+    {
+      "paperId": "a763103b7ffdb6296184b97b631919d2674f60ec"
+    },
+    {
+      "paperId": "732ef5eca875df5476f20d185cdf432630da6ef8"
+    },
+    {
+      "paperId": "77d0c281902a0549e23fe9b11559f89b1c5330ad"
+    },
+    {
+      "paperId": "816f315c583d5585266d62270a4512628e02aea9"
+    },
+    {
+      "paperId": "7ed477391ab3b022e3a8ced7cfa94d1f25127bac"
+    },
+    {
+      "paperId": "f5c1e00ac91cbf5ad60c937733a80d8805f9810a"
+    },
+    {
+      "paperId": "2e58fe98b0566049ca9fe110417d4bf906d7ea30"
+    },
+    {
+      "paperId": "d09de3340a89c006a4a4c7d9bf48dbfc1a92edde"
+    },
+    {
+      "paperId": "fc6f3abeb0ddda38550acccdebea804f524f5bf3"
+    },
+    {
+      "paperId": "7361e3f547cb11ae1ba3003d10d2abf6e8350f0f"
+    },
+    {
+      "paperId": "76605d0a226650989e2efa2ff39172a01b1ba0fb"
+    },
+    {
+      "paperId": "d15b6226fcbdbc8fdf122171874a7be66c528d62"
+    },
+    {
+      "paperId": "c3053c74504834ba703ff29e142bfe11c698022f"
+    },
+    {
+      "paperId": "7b027dd637df2619ae48c3daf2804b7701cc7cf4"
+    },
+    {
+      "paperId": "fc9c93181f6dcddc4cb17762292997c338a1dfa4"
+    },
+    {
+      "paperId": "618a902ea4c4d35f3c3f126f331f72d19c1dfa33"
+    },
+    {
+      "paperId": "63b75da3367f818eff0c456f9a9de4f86463f673"
+    },
+    {
+      "paperId": "77561abfc1f1a8594b60fcdc78c8907409d3f50b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "paperId": "53ce08d077275bf9a41d039a5b28b8e5012e2337",
+  "externalIds": {
+    "MAG": "2095352501",
+    "DOI": "10.1007/s11367-012-0386-y",
+    "CorpusId": 111184922
+  },
+  "url": "https://www.semanticscholar.org/paper/53ce08d077275bf9a41d039a5b28b8e5012e2337",
+  "title": "Regional carbon footprint analysis of dairy feeds for milk production in the USA",
+  "venue": "The International Journal of Life Cycle Assessment",
+  "year": 2012,
+  "citationCount": 79,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11367-012-0386-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11367-012-0386-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "13518650",
+      "name": "Felix K. Adom"
+    },
+    {
+      "authorId": "2072092242",
+      "name": "Ashley Maes"
+    },
+    {
+      "authorId": "2081541375",
+      "name": "Charles Workman"
+    },
+    {
+      "authorId": "1422218192",
+      "name": "Zara Clayton-Nierderman"
+    },
+    {
+      "authorId": "39758715",
+      "name": "G. Thoma"
+    },
+    {
+      "authorId": "2401944",
+      "name": "D. Shonnard"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

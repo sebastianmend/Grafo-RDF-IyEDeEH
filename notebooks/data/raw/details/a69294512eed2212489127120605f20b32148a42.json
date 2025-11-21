@@ -1,0 +1,149 @@
+{
+  "paperId": "a69294512eed2212489127120605f20b32148a42",
+  "externalIds": {
+    "PubMedCentral": "4380444",
+    "MAG": "2019851582",
+    "DOI": "10.1371/journal.pone.0122694",
+    "CorpusId": 9243719,
+    "PubMed": "25826210"
+  },
+  "url": "https://www.semanticscholar.org/paper/a69294512eed2212489127120605f20b32148a42",
+  "title": "Development of an Indicator to Monitor Mediterranean Wetlands",
+  "venue": "PLoS ONE",
+  "year": 2015,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122694&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4380444, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109844096",
+      "name": "Antonio Sánchez"
+    },
+    {
+      "authorId": "2441368",
+      "name": "D. Abdul Malak"
+    },
+    {
+      "authorId": "4744987",
+      "name": "A. Guelmami"
+    },
+    {
+      "authorId": "81352802",
+      "name": "C. Perennou"
+    }
+  ],
+  "abstract": "Wetlands are sensitive ecosystems that are increasingly subjected to threats from anthropogenic factors. In the last decades, coastal Mediterranean wetlands have been suffering considerable pressures from land use change, intensification of urban growth, increasing tourism infrastructure and intensification of agricultural practices. Remote sensing (RS) and Geographic Information Systems (GIS) techniques are efficient tools that can support monitoring Mediterranean coastal wetlands on large scales and over long periods of time. The study aims at developing a wetland indicator to support monitoring Mediterranean coastal wetlands using these techniques. The indicator makes use of multi-temporal Landsat images, land use reference layers, a 50m numerical model of the territory (NMT) and Corine Land Cover (CLC) for the identification and mapping of wetlands. The approach combines supervised image classification techniques making use of vegetation indices and decision tree analysis to identify the surface covered by wetlands at a given date. A validation process is put in place to compare outcomes with existing local wetland inventories to check the results reliability. The indicator´s results demonstrate an improvement in the level of precision of change detection methods achieved by traditional tools providing reliability up to 95% in main wetland areas. The results confirm that the use of RS techniques improves the precision of wetland detection compared to the use of CLC for wetland monitoring and stress the strong relation between the level of wetland detection and the nature of the wetland areas and the monitoring scale considered.",
+  "references": [
+    {
+      "paperId": "d992539709c040827fc1e28588a18c40f319631e"
+    },
+    {
+      "paperId": "424bb1d9fe67c79fcdcbf0a668de6951bb16b90a"
+    },
+    {
+      "paperId": "eef8831df9a48f157adf64c5dd8671ec7dd85ded"
+    },
+    {
+      "paperId": "127c5ee627e130e4cbebe374895029637143eca4"
+    },
+    {
+      "paperId": "553cfe9cc78632262f074b555b5b638a22d652b6"
+    },
+    {
+      "paperId": "5180b403c476b3c78a019e2486dc3c6404109cb0"
+    },
+    {
+      "paperId": "dbb2a9f81f86fd317d84f44e65eb443a335c387d"
+    },
+    {
+      "paperId": "835296ec22b642ce984881306f2ecf7f404e1870"
+    },
+    {
+      "paperId": "67db66e1296d9de20b8d845d591866983b2267a1"
+    },
+    {
+      "paperId": "73b3fdd4bee5177e3885f5b6b5a18417ad35d15c"
+    },
+    {
+      "paperId": "629a31236db7dabea47e79e30cff16a7a0e11f31"
+    },
+    {
+      "paperId": "fea0d8ff9fe2d12e5cf88dd7b9385039b9154b13"
+    },
+    {
+      "paperId": "bbc6b206315e88dee86be6bdc0dc58b779a10f10"
+    },
+    {
+      "paperId": "365d195c7492e9a7fe216425e4687bf3fb102d42"
+    },
+    {
+      "paperId": "3ff0d2c7621c40e6245c7ca0964b4b856255e0c2"
+    },
+    {
+      "paperId": "c2328c1ba23fbc41102712240c5ba75f94074560"
+    },
+    {
+      "paperId": "14f862ff2daac46dee6066585e8e119f4554286b"
+    },
+    {
+      "paperId": "9f8e0691cc911b05a9e284258ab5cdbbd30bd34c"
+    },
+    {
+      "paperId": "622c9c72923b1a8d1d53ea72243809300a93658f"
+    },
+    {
+      "paperId": "841a87b0aed0ca257a3f426c5d5f7c55d57a948d"
+    },
+    {
+      "paperId": "1e97daf8693c92fd61e3692da9897eef5a6bc547"
+    },
+    {
+      "paperId": "4ee10b292125771fb81f474ab38fe65a30c63c89"
+    },
+    {
+      "paperId": "1fb7098f67ca872c7a543567475db9417e475e86"
+    },
+    {
+      "paperId": "e434f631fb896976ec72fa26881e3c81b72dd2bb"
+    },
+    {
+      "paperId": "74f25a0103c2902a42dd22bff7028cab0353fbcf"
+    },
+    {
+      "paperId": "d2c1c0c88b3c5dc54f7af9917b2bd62301e1b1c2"
+    },
+    {
+      "paperId": "bc1f84d58c2f2dc63495d6a0202152ba81f9ea03"
+    },
+    {
+      "paperId": "e89f23245f22398663c03714677ff77396a47d4a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4631618252e4a624afd7bba6dbd7d5e55545089b"
+    },
+    {
+      "paperId": "dc58d23bb8afc3f9c947ddc7f644827dd4193f29"
+    },
+    {
+      "paperId": "7fdd8c2ea8ecd753fdff5707f709111023cef1e1"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

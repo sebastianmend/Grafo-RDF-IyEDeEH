@@ -1,0 +1,46 @@
+{
+  "paperId": "d603ca89efa7651b41065f6bdea2870d6f66f93c",
+  "externalIds": {
+    "MAG": "2244774985",
+    "DOI": "10.3997/2214-4609.201413833",
+    "CorpusId": 131474751
+  },
+  "url": "https://www.semanticscholar.org/paper/d603ca89efa7651b41065f6bdea2870d6f66f93c",
+  "title": "Mapping Soil Heterogeneity Using Spatially Constrained Inversion of Electromagnetic Induction Data",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3997/2214-4609.201413833?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3997/2214-4609.201413833, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144063159",
+      "name": "J. Pedersen"
+    },
+    {
+      "authorId": "3801700",
+      "name": "E. Auken"
+    },
+    {
+      "authorId": "33260830",
+      "name": "A. Christiansen"
+    },
+    {
+      "authorId": "6451937",
+      "name": "S. Kristiansen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

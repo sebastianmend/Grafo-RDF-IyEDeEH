@@ -1,0 +1,44 @@
+{
+  "paperId": "05ab057fc9bc70a9d1d8a027e8f30c14d1842247",
+  "externalIds": {
+    "MAG": "2113603812",
+    "DBLP": "conf/iwcmc/SahotaKK11",
+    "DOI": "10.1109/IWCMC.2011.5982820",
+    "CorpusId": 9041992
+  },
+  "url": "https://www.semanticscholar.org/paper/05ab057fc9bc70a9d1d8a027e8f30c14d1842247",
+  "title": "Performance modeling and simulation studies of MAC protocols in sensor network performance",
+  "venue": "International Wireless Communications & Mobile Computing Conference",
+  "year": 2011,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://www.ece.iastate.edu/~kamal/Docs/skk11.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IWCMC.2011.5982820?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IWCMC.2011.5982820, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47366436",
+      "name": "Herman Sahota"
+    },
+    {
+      "authorId": "1909719357",
+      "name": "Ratnesh Kumar"
+    },
+    {
+      "authorId": "49869907",
+      "name": "A. Kamal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

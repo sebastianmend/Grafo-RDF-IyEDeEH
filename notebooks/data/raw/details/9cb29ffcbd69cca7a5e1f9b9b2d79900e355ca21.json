@@ -1,0 +1,60 @@
+{
+  "paperId": "9cb29ffcbd69cca7a5e1f9b9b2d79900e355ca21",
+  "externalIds": {
+    "MAG": "2086656634",
+    "DBLP": "conf/eScience/DriemeierLPSFMF14",
+    "DOI": "10.1109/eScience.2014.10",
+    "CorpusId": 9901751
+  },
+  "url": "https://www.semanticscholar.org/paper/9cb29ffcbd69cca7a5e1f9b9b2d79900e355ca21",
+  "title": "Data Analysis Workflow for Experiments in Sugarcane Precision Agriculture",
+  "venue": "IEEE International Conference on e-Science",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/eScience.2014.10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/eScience.2014.10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2187820",
+      "name": "C. Driemeier"
+    },
+    {
+      "authorId": "1994709",
+      "name": "L. Ling"
+    },
+    {
+      "authorId": "2852488",
+      "name": "Angelica O. Pontes"
+    },
+    {
+      "authorId": "2168584",
+      "name": "G. Sanches"
+    },
+    {
+      "authorId": "31547267",
+      "name": "H. Franco"
+    },
+    {
+      "authorId": "39108989",
+      "name": "P. G. Magalhães"
+    },
+    {
+      "authorId": "144695011",
+      "name": "J. E. Ferreira"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

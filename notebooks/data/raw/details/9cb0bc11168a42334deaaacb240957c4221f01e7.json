@@ -1,0 +1,65 @@
+{
+  "paperId": "9cb0bc11168a42334deaaacb240957c4221f01e7",
+  "externalIds": {
+    "MAG": "2065400951",
+    "DOI": "10.1039/c4em00531g",
+    "CorpusId": 205911036,
+    "PubMed": "25574663"
+  },
+  "url": "https://www.semanticscholar.org/paper/9cb0bc11168a42334deaaacb240957c4221f01e7",
+  "title": "A statistical comparison of active and passive ammonia measurements collected at Clean Air Status and Trends Network (CASTNET) sites.",
+  "venue": "Environmental Science: Processes & Impacts",
+  "year": 2015,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1039/c4em00531g?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/c4em00531g, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "12830623",
+      "name": "M. Puchalski"
+    },
+    {
+      "authorId": "2082481300",
+      "name": "C. Rogers"
+    },
+    {
+      "authorId": "4437228",
+      "name": "R. Baumgardner"
+    },
+    {
+      "authorId": "12369965",
+      "name": "K. Mishoe"
+    },
+    {
+      "authorId": "2058961120",
+      "name": "Garry Price"
+    },
+    {
+      "authorId": "2116646734",
+      "name": "Michael J. S. Smith"
+    },
+    {
+      "authorId": "34177499",
+      "name": "Nealson Watkins"
+    },
+    {
+      "authorId": "7753388",
+      "name": "Christopher Lehmann"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

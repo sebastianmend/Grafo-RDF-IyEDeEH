@@ -1,0 +1,60 @@
+{
+  "paperId": "e31c3093576e4a80eef47631a55cb79ec1251ebb",
+  "externalIds": {
+    "MAG": "3010693576",
+    "CorpusId": 237165610
+  },
+  "url": "https://www.semanticscholar.org/paper/e31c3093576e4a80eef47631a55cb79ec1251ebb",
+  "title": "Airborne hyperspectral and LiDAR data integration for weed detection",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39078829",
+      "name": "J. Tamás"
+    },
+    {
+      "authorId": "88245066",
+      "name": "É. Lehoczky"
+    },
+    {
+      "authorId": "50234866",
+      "name": "J. Fehér"
+    },
+    {
+      "authorId": "91463483",
+      "name": "T. Fórián"
+    },
+    {
+      "authorId": "143697879",
+      "name": "A. Nagy"
+    },
+    {
+      "authorId": "104669230",
+      "name": "É. Bozsik"
+    },
+    {
+      "authorId": "88508334",
+      "name": "B. Gálya"
+    },
+    {
+      "authorId": "87969797",
+      "name": "Péter Riczu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

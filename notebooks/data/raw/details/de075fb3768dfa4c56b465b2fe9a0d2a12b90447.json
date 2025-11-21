@@ -1,0 +1,52 @@
+{
+  "paperId": "de075fb3768dfa4c56b465b2fe9a0d2a12b90447",
+  "externalIds": {
+    "DBLP": "conf/icpads/LiewAGOR15",
+    "MAG": "2248871991",
+    "DOI": "10.1109/ICPADS.2015.105",
+    "CorpusId": 17773354
+  },
+  "url": "https://www.semanticscholar.org/paper/de075fb3768dfa4c56b465b2fe9a0d2a12b90447",
+  "title": "A Store-and-Delivery Based MAC Protocol for Air-Ground Collaborative Wireless Networks for Precision Agriculture",
+  "venue": "International Conference on Parallel and Distributed Systems",
+  "year": 2015,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://umpir.ump.edu.my/id/eprint/18249/7/fskkp-2015-azad-A%20Store-and-Delivery1.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICPADS.2015.105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICPADS.2015.105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2247444",
+      "name": "S. Liew"
+    },
+    {
+      "authorId": "144796813",
+      "name": "S. Azad"
+    },
+    {
+      "authorId": "2949858",
+      "name": "H. Goh"
+    },
+    {
+      "authorId": "3065032",
+      "name": "B. Ooi"
+    },
+    {
+      "authorId": "28172447",
+      "name": "Arafatur Rahman"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

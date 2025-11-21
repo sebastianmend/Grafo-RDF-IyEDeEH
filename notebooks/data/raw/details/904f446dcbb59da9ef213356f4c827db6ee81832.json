@@ -1,0 +1,45 @@
+{
+  "paperId": "904f446dcbb59da9ef213356f4c827db6ee81832",
+  "externalIds": {
+    "MAG": "2148435084",
+    "DOI": "10.1093/jxb/err064",
+    "CorpusId": 9376313,
+    "PubMed": "21669880"
+  },
+  "url": "https://www.semanticscholar.org/paper/904f446dcbb59da9ef213356f4c827db6ee81832",
+  "title": "How agro-ecological research helps to address food security issues under new IPM and pesticide reduction policies for global crop production systems.",
+  "venue": "Journal of Experimental Botany",
+  "year": 2011,
+  "citationCount": 221,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jxb/article-pdf/62/10/3251/1308392/err064.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jxb/err064?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jxb/err064, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "10023503",
+      "name": "A. N. E Birch"
+    },
+    {
+      "authorId": "49234538",
+      "name": "G. Begg"
+    },
+    {
+      "authorId": "2276711",
+      "name": "G. Squire"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

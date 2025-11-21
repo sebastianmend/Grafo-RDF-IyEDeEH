@@ -1,0 +1,66 @@
+{
+  "paperId": "78fb4989b61ce8ff9bcd504416c89336acbf8d84",
+  "externalIds": {
+    "MAG": "2353740494",
+    "CorpusId": 32138672,
+    "PubMed": "26964238"
+  },
+  "url": "https://www.semanticscholar.org/paper/78fb4989b61ce8ff9bcd504416c89336acbf8d84",
+  "title": "[Determination of Cu in Shell of Preserved Egg by LIBS Coupled with PLS].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "11274924",
+      "name": "Hui-qin Hu"
+    },
+    {
+      "authorId": "15636038",
+      "name": "Xue-hong Xu"
+    },
+    {
+      "authorId": "1745118",
+      "name": "Muhua Liu"
+    },
+    {
+      "authorId": "14711576",
+      "name": "Jian-ping Tu"
+    },
+    {
+      "authorId": "2219000658",
+      "name": "Le Huang"
+    },
+    {
+      "authorId": "2111398686",
+      "name": "Lin Huang"
+    },
+    {
+      "authorId": "2523543",
+      "name": "M. Yao"
+    },
+    {
+      "authorId": "13297655",
+      "name": "Tianbing Chen"
+    },
+    {
+      "authorId": "2327836368",
+      "name": "Ping Yang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

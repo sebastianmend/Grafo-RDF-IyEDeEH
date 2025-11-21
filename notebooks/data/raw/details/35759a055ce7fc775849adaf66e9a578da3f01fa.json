@@ -1,0 +1,56 @@
+{
+  "paperId": "35759a055ce7fc775849adaf66e9a578da3f01fa",
+  "externalIds": {
+    "DBLP": "conf/multitemp/ForsterSGKGM15",
+    "MAG": "1576799951",
+    "DOI": "10.1109/Multi-Temp.2015.7245811",
+    "CorpusId": 3279253
+  },
+  "url": "https://www.semanticscholar.org/paper/35759a055ce7fc775849adaf66e9a578da3f01fa",
+  "title": "Evaluating the temporal stability of synthetically generated time-series for crop types in Central Germany",
+  "venue": "International Workshop on the Analysis of Multitemporal Remote Sensing Images",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Multi-Temp.2015.7245811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Multi-Temp.2015.7245811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144821282",
+      "name": "M. Förster"
+    },
+    {
+      "authorId": "119585220",
+      "name": "Tobias Schmidt"
+    },
+    {
+      "authorId": "8304274",
+      "name": "P. Gärtner"
+    },
+    {
+      "authorId": "3019328",
+      "name": "B. Kleinschmit"
+    },
+    {
+      "authorId": "143750993",
+      "name": "F. Gao"
+    },
+    {
+      "authorId": "34345350",
+      "name": "M. Möller"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

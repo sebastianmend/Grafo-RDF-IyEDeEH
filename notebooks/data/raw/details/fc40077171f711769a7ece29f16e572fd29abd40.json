@@ -1,0 +1,138 @@
+{
+  "paperId": "fc40077171f711769a7ece29f16e572fd29abd40",
+  "externalIds": {
+    "MAG": "2106965654",
+    "DBLP": "journals/sensors/MahmoodHH13",
+    "PubMedCentral": "3892813",
+    "DOI": "10.3390/s131216263",
+    "CorpusId": 18368487,
+    "PubMed": "24287541"
+  },
+  "url": "https://www.semanticscholar.org/paper/fc40077171f711769a7ece29f16e572fd29abd40",
+  "title": "Proximal Gamma-Ray Spectroscopy to Predict Soil Properties Using Windows and Full-Spectrum Analysis Methods",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2013,
+  "citationCount": 47,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/13/12/16263/pdf?version=1403339562",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3892813, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3746844",
+      "name": "H. S. Mahmood"
+    },
+    {
+      "authorId": "5623445",
+      "name": "W. Hoogmoed"
+    },
+    {
+      "authorId": "2335795",
+      "name": "E. Henten"
+    }
+  ],
+  "abstract": "Fine-scale spatial information on soil properties is needed to successfully implement precision agriculture. Proximal gamma-ray spectroscopy has recently emerged as a promising tool to collect fine-scale soil information. The objective of this study was to evaluate a proximal gamma-ray spectrometer to predict several soil properties using energy-windows and full-spectrum analysis methods in two differently managed sandy loam fields: conventional and organic. In the conventional field, both methods predicted clay, pH and total nitrogen with a good accuracy (R2 ≥ 0.56) in the top 0–15 cm soil depth, whereas in the organic field, only clay content was predicted with such accuracy. The highest prediction accuracy was found for total nitrogen (R2 = 0.75) in the conventional field in the energy-windows method. Predictions were better in the top 0–15 cm soil depths than in the 15–30 cm soil depths for individual and combined fields. This implies that gamma-ray spectroscopy can generally benefit soil characterisation for annual crops where the condition of the seedbed is important. Small differences in soil structure (conventional vs. organic) cannot be determined. As for the methodology, we conclude that the energy-windows method can establish relations between radionuclide data and soil properties as accurate as the full-spectrum analysis method.",
+  "references": [
+    {
+      "paperId": "56bca9c1e74231b7fb5376fe766f8f1906907a32"
+    },
+    {
+      "paperId": "41d06f4ad460c8cd160ea2824360c6a15a16f98a"
+    },
+    {
+      "paperId": "05243d3568cdbcabce9860534de3c4bef5c2a2b9"
+    },
+    {
+      "paperId": "a1172463e954b82000c0727964c49a2b9cd7d923"
+    },
+    {
+      "paperId": "3e65b40559e985eba017fa3fe042d3a4ca0fd7dc"
+    },
+    {
+      "paperId": "77b8aae5b95a4acab72f6823326ddbad72378a61"
+    },
+    {
+      "paperId": "05c73aaa2e3c8f3e12389ac278f1c6a4156cadba"
+    },
+    {
+      "paperId": "40783a88af0b6d13657a1701cda547cb583458ad"
+    },
+    {
+      "paperId": "369e84cdd15806bc99e50aec9d8c75ad6ee2d188"
+    },
+    {
+      "paperId": "993426ff52a306714cce0e00f9905b8e5bc4c386"
+    },
+    {
+      "paperId": "5867b10baa406021cb14d0da8d11e68b12aaddd3"
+    },
+    {
+      "paperId": "c77db2f4b7b36b68b2e2fd2bc81a66db4c80ba32"
+    },
+    {
+      "paperId": "e1f3ff893a0aa11c64d5e600d6e01554dd2d3a6d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "98c54925ce99ae3d00a2fd47690e0254e1783261"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "346203556666ff32ac2d216383dd20254cf71ec3"
+    },
+    {
+      "paperId": "bc77936f1b4dd0349f0d284a24ce0f9e2fb1ede2"
+    },
+    {
+      "paperId": "068af1885c9b2db6031d01d153599abef13251a2"
+    },
+    {
+      "paperId": "6a88c5e458ef53cc63d8595adc16f123b8ac6c86"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "50595dc5a2573031914af4f472ee3b3ff7f04321"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2702342ddb016ec020748389a7d86d4428e4eac0"
+    },
+    {
+      "paperId": "bf2323fb845714f9563a4525e78d2ff9680fff64"
+    },
+    {
+      "paperId": "f70e900fe0565642beaa92392896e321e780092a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4429ec500b927a12a306054c4548224b3b91a9bc"
+    },
+    {
+      "paperId": "884e70ab7e401ca2f5a04eadb9a266ac5d45bddb"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

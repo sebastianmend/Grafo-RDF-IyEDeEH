@@ -1,0 +1,46 @@
+{
+  "paperId": "12823d3d5bffc565cc25f0d88c5f9c2b927a7e16",
+  "externalIds": {
+    "MAG": "2498085456",
+    "DOI": "10.1007/978-90-481-9277-9",
+    "CorpusId": 131851783
+  },
+  "url": "https://www.semanticscholar.org/paper/12823d3d5bffc565cc25f0d88c5f9c2b927a7e16",
+  "title": "Precision Crop Protection - the Challenge and Use of Heterogeneity",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 179,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-90-481-9277-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-90-481-9277-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3240340",
+      "name": "E. Oerke"
+    },
+    {
+      "authorId": "144434484",
+      "name": "R. Gerhards"
+    },
+    {
+      "authorId": "35037905",
+      "name": "G. Menz"
+    },
+    {
+      "authorId": "145478614",
+      "name": "R. Sikora"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

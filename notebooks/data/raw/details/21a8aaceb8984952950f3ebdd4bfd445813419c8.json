@@ -1,0 +1,183 @@
+{
+  "paperId": "21a8aaceb8984952950f3ebdd4bfd445813419c8",
+  "externalIds": {
+    "MAG": "2112674101",
+    "DBLP": "journals/remotesensing/PandaAP10",
+    "DOI": "10.3390/rs2030673",
+    "CorpusId": 7594444
+  },
+  "url": "https://www.semanticscholar.org/paper/21a8aaceb8984952950f3ebdd4bfd445813419c8",
+  "title": "Application of Vegetation Indices for Agricultural Crop Yield Prediction Using Neural Network Techniques",
+  "venue": "Remote Sensing",
+  "year": 2010,
+  "citationCount": 365,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/2/3/673/pdf?version=1403129165",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs2030673?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs2030673, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2100774",
+      "name": "S. Panda"
+    },
+    {
+      "authorId": "10953892",
+      "name": "D. Ames"
+    },
+    {
+      "authorId": "5310144",
+      "name": "S. Panigrahi"
+    }
+  ],
+  "abstract": "Spatial variability in a crop field creates a need for precision agriculture. Economical and rapid means of identifying spatial variability is obtained through the use of geotechnology (remotely sensed images of the crop field, image processing, GIS modeling approach, and GPS usage) and data mining techniques for model development. Higher-end image processing techniques are followed to establish more precision. The goal of this paper was to investigate the strength of key spectral vegetation indices for agricultural crop yield prediction using neural network techniques. Four widely used spectral indices were investigated in a study of irrigated corn crop yields in the Oakes Irrigation Test Area research site of North Dakota, USA. These indices were: (a) red and near-infrared (NIR) based normalized difference vegetation index (NDVI), (b) green and NIR based green vegetation index (GVI), (c) red and NIR based soil adjusted vegetation index (SAVI), and (d) red and NIR based perpendicular vegetation index (PVI). These four indices were investigated for corn yield during 3 years (1998, 1999, and 2001) and for the pooled data of these 3 years. Initially, Back-propagation Neural Network (BPNN) models were developed, including 16 models (4 indices * 4 years including the data from the pooled years) to test for the efficiency determination of those four vegetation indices in corn crop yield prediction. The corn yield was best predicted using BPNN models that used the means and standard deviations of PVI grid images. In all three years, it provided higher prediction accuracies, coefficient of determination (r2), and lower standard error of prediction than the models involving GVI, NDVI, and SAVI image information. The GVI, NDVI, and SAVI models for all three years provided average testing prediction accuracies of 24.26% to 94.85%, 19.36% to 95.04%, and 19.24% to 95.04%, respectively while the PVI models for all three years provided average testing prediction accuracies of 83.50% to 96.04%. The PVI pool model provided better average testing prediction accuracy of 94% with respect to other vegetation models, for which it ranged from 89–93%. Similarly, the PVI pool model provided coefficient of determination (r2) value of 0.45 as compared to 0.31–0.37 for other index models. Log10 data transformation technique was used to enhance the prediction ability of the PVI models of years 1998, 1999, and 2001 as it was chosen as the preferred index. Another model (Transformed PVI (Pool)) was developed using the log10 transformed PVI image information to show its global application. The transformed PVI models provided average corn yield prediction accuracies of 90%, 97%, and 98% for years 1998, 1999, and 2001, respectively. The pool PVI transformed model provided as average testing accuracy of 93% along with r2 value of 0.72 and standard error of prediction of 0.05 t/ha.",
+  "references": [
+    {
+      "paperId": "f72644355b92aa766bb1482ce32235dcfe35f7b7"
+    },
+    {
+      "paperId": "13cece1c7bbbb55b41904e88e96202c2d8f7e45a"
+    },
+    {
+      "paperId": "f4ee248bbdc18ff78447a91ef298b32165e30b81"
+    },
+    {
+      "paperId": "6fb48d4956606e3c73235dca2eca333fe6374cb3"
+    },
+    {
+      "paperId": "7fb26856879ab7ffd27c74f6232da784be7f4516"
+    },
+    {
+      "paperId": "291e74171c37ea582ad9081a8df0a8556c790919"
+    },
+    {
+      "paperId": "7d9eba1047bb18e16f2c40edecd69fc051a3ee6c"
+    },
+    {
+      "paperId": "744cef615529044e7c60660a8f55b071b01b383c"
+    },
+    {
+      "paperId": "7a117d95830b6df328a286920ba08b09505ed437"
+    },
+    {
+      "paperId": "f4a3994b292292cd887295bcb5c42e70e9ed9708"
+    },
+    {
+      "paperId": "86277cad6c577bc540c7ce45c6c85ec73211c073"
+    },
+    {
+      "paperId": "b659559bc914765f7fcfe9a90f44275752fc3109"
+    },
+    {
+      "paperId": "6ddc5ed55f64406deef4055aa88c9dc3fa57ddcf"
+    },
+    {
+      "paperId": "c9e8480c15e59ce896ada08b40bc3935b5b113b9"
+    },
+    {
+      "paperId": "4ecc2d0d08a6a1eb0a8bdf6e2239b6bc8ec0a932"
+    },
+    {
+      "paperId": "8a9a1713e58a8d2646109a272cdf60ba86cc8765"
+    },
+    {
+      "paperId": "0173b97cb7f03ba246eb6e9f479e97373ca6984c"
+    },
+    {
+      "paperId": "b0fc67d61ffb9720baf82b346d26a5d4eb5cabe2"
+    },
+    {
+      "paperId": "d67a686aa7faaefd81b688879e64a85c3120e161"
+    },
+    {
+      "paperId": "6db31beb7dc7bc871cee838e0c2e56b04dbc03c9"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "eb0814ddc284c3fa17485a001d8dab5e57c7e432"
+    },
+    {
+      "paperId": "307b200ac1e0a59daf564cb578449bf396ab6072"
+    },
+    {
+      "paperId": "3e049bc0bf9d06c14648f5a36036b8af7628a4ce"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac2844881ce41f569b2f0354699fa769c8ea69a6"
+    },
+    {
+      "paperId": "982b955c900b04e9da64e3b39422690c13d6b94f"
+    },
+    {
+      "paperId": "43134aac4041403aa659f4fc64961a4d6aef3fbb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "73c05e5eea3dd3d18ba6d4780a0d01fc5597e544"
+    },
+    {
+      "paperId": "10cebf9bd1b737c48869c7e90abda904d43cc7e7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "69230be609fa67df2aa8c4a5fdbf80d2f564a22e"
+    },
+    {
+      "paperId": "dab703d3782ac89e80ac7cf74b8929c6719406c0"
+    },
+    {
+      "paperId": "5f624e72402412061a8af44c52c12d203e6772a7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b695e966b7d8fb2b7d4cc2cd1e6954b7f85cc724"
+    },
+    {
+      "paperId": "912e6bed0c262ca12591301220c784ed829f0e40"
+    },
+    {
+      "paperId": "2a5bec76ca1c53ac9463b203b4e5e994959b6f82"
+    },
+    {
+      "paperId": "045310b06e8a3983a363a118cc9dcc3f292970b4"
+    },
+    {
+      "paperId": "8929829a353062ca55dbc6bc64ae5411456a83b7"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "aa0f092bba168a62cc913d027a4a892cac3e8e94"
+    },
+    {
+      "paperId": "7ad0512c0c89c14b1dc2eaac90f4f8cdcaddcd0c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

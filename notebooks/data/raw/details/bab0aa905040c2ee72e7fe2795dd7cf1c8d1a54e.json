@@ -1,0 +1,42 @@
+{
+  "paperId": "bab0aa905040c2ee72e7fe2795dd7cf1c8d1a54e",
+  "externalIds": {
+    "MAG": "2079173846",
+    "DOI": "10.1525/cond.2011.090152",
+    "CorpusId": 85265992
+  },
+  "url": "https://www.semanticscholar.org/paper/bab0aa905040c2ee72e7fe2795dd7cf1c8d1a54e",
+  "title": "Estimating Western Scrub-Jay Density in California by Multiple-Covariate Distance Sampling",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/condor/article-pdf/113/4/843/26966765/condor0843.pdf",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1525/cond.2011.090152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1525/cond.2011.090152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87912771",
+      "name": "Scott P. Crosbie"
+    },
+    {
+      "authorId": "2065954063",
+      "name": "Levi E. Souza"
+    },
+    {
+      "authorId": "4322572",
+      "name": "H. Ernest"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

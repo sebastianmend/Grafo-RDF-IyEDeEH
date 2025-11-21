@@ -1,0 +1,54 @@
+{
+  "paperId": "b7504d39bf88a782fa9e8a9244b5fa4217ad2edd",
+  "externalIds": {
+    "MAG": "2106039285",
+    "DOI": "10.3997/2214-4609.201413830",
+    "CorpusId": 140684917
+  },
+  "url": "https://www.semanticscholar.org/paper/b7504d39bf88a782fa9e8a9244b5fa4217ad2edd",
+  "title": "On the Use of Repeated EMI Measurements for Mapping Soil Moisture and Implications for Soil Mapping",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3997/2214-4609.201413830?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3997/2214-4609.201413830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1394213853",
+      "name": "E. Martini"
+    },
+    {
+      "authorId": "15708054",
+      "name": "U. Werban"
+    },
+    {
+      "authorId": "46575424",
+      "name": "U. Wollschläger"
+    },
+    {
+      "authorId": "104792368",
+      "name": "M. Pohle"
+    },
+    {
+      "authorId": "35487727",
+      "name": "P. Dietrich"
+    },
+    {
+      "authorId": "88628004",
+      "name": "S. Zacharias"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,120 @@
+{
+  "paperId": "7c2fd573ab6a254193dc9365d5b204bac645e19f",
+  "externalIds": {
+    "MAG": "2547371882",
+    "DOI": "10.3923/JAS.2015.947.952",
+    "CorpusId": 53000779
+  },
+  "url": "https://www.semanticscholar.org/paper/7c2fd573ab6a254193dc9365d5b204bac645e19f",
+  "title": "Intelligent Green House Application Based Remote Monitoring for Precision Agricultural Strategies: A Survey",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://scialert.net/qredirect.php?doi=jas.2015.947.952&linkid=pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3923/JAS.2015.947.952?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3923/JAS.2015.947.952, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9335659",
+      "name": "A. Ibrahim"
+    },
+    {
+      "authorId": "1565946030",
+      "name": "R. Muhammad"
+    },
+    {
+      "authorId": "94690894",
+      "name": "M. Alshitawi"
+    },
+    {
+      "authorId": "48997536",
+      "name": "A. Alharbi"
+    },
+    {
+      "authorId": "1927883",
+      "name": "A. Almarshoud"
+    }
+  ],
+  "abstract": "Intelligent Green House (GH) Application has been deployed to improve the management of agriculture grow and hence monitoring the precision agriculture at various environments. This study attempts to introduce a brief survey on current and previous research area in an easy and compact manner. The objectives of this study are to characterize an overview of current and previous research, identify the clear research gaps. A number of agriculture monitoring systems have been deployed, particularly the growth of remote monitoring and control system of precision agriculture in GH application and services including environment, water distribution, climate condition, gas mitigation, temperature and humidity monitoring. Because of the limited solutions from the previous research, in addition that GH monitoring is not yet capable to manage the agriculture growth on fully control systems. This study explored how an agriculture growing based monitoring in GH has been applied for various environments. It also reviewed the GH characteristics considered in each system to define the research gap. The study gives a predictability of adopting agriculture in GH and possible shortcomings on transition techniques and its associated benefits. Furthermore, the remote monitoring strategies for each evolution technique were over viewed. The result shows an increasing interest in GH application in KSA based remote monitoring, mainly in common trend towards emerging designated GH and utilizing them in precision agricultural strategies.",
+  "references": [
+    {
+      "paperId": "fe566fbf9ce2e1847f4cebec6644aa0b6290daca"
+    },
+    {
+      "paperId": "c0542882f9b9a62a3c571f6081fb261022ee2240"
+    },
+    {
+      "paperId": "5edc94cfca7cb28715272986431c2da81fb3efd2"
+    },
+    {
+      "paperId": "02c31def677de8f72bde18b759c0e2aabb76910a"
+    },
+    {
+      "paperId": "134d04effe532cbb129d78ac5c789f1527cb9190"
+    },
+    {
+      "paperId": "8075c73fd8b13fa9663230a383f5712bf210ebcf"
+    },
+    {
+      "paperId": "57616bf4611408be1b3fc57a3eff245c43d67f50"
+    },
+    {
+      "paperId": "e2559cc53dd8bd50b67e239fd8523cb8e02919fd"
+    },
+    {
+      "paperId": "f6b8f9b64b7a95567d3951621a59c600afc8f2ef"
+    },
+    {
+      "paperId": "3201ebc9ae45c5fbf4b8fbdb76a383d11af1d1cb"
+    },
+    {
+      "paperId": "40f0a933d0677137ae19675aa1f8d8102f70a01b"
+    },
+    {
+      "paperId": "855994ebc59d0c900dc8c2798fd7dc5b7b712022"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e91633299602f1cb51c9ef273cb9a4fcd78131e"
+    }
+  ]
+}

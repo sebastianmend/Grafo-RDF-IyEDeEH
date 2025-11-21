@@ -1,0 +1,52 @@
+{
+  "paperId": "a43a9a983f0cb07dd3bce587c2c0af10f76ac511",
+  "externalIds": {
+    "DBLP": "journals/staeors/LeeHYTB14",
+    "MAG": "2070576129",
+    "DOI": "10.1109/JSTARS.2014.2330521",
+    "CorpusId": 26064661
+  },
+  "url": "https://www.semanticscholar.org/paper/a43a9a983f0cb07dd3bce587c2c0af10f76ac511",
+  "title": "Determining the Effects of Storage on Cotton and Soybean Leaf Samples for Hyperspectral Analysis",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2014,
+  "citationCount": 39,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2014.2330521?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2014.2330521, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1414111418",
+      "name": "Matthew A. Lee"
+    },
+    {
+      "authorId": "1793884",
+      "name": "Yanbo Huang"
+    },
+    {
+      "authorId": "33570367",
+      "name": "H. Yao"
+    },
+    {
+      "authorId": "35130222",
+      "name": "S. Thomson"
+    },
+    {
+      "authorId": "2186022",
+      "name": "L. Bruce"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

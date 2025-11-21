@@ -1,0 +1,38 @@
+{
+  "paperId": "845b8f8bfacfdc9b908690618a097e1f334e39ba",
+  "externalIds": {
+    "MAG": "2544480585",
+    "DOI": "10.1109/ICIICII.2015.96",
+    "CorpusId": 16674585
+  },
+  "url": "https://www.semanticscholar.org/paper/845b8f8bfacfdc9b908690618a097e1f334e39ba",
+  "title": "Method of CCD Camera Calibration Based on OpenCV",
+  "venue": "International Conference on Industrial Informatics",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIICII.2015.96?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIICII.2015.96, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109376208",
+      "name": "Shao-jie Sun"
+    },
+    {
+      "authorId": "2117889277",
+      "name": "Xiao-dong Yang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

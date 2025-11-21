@@ -1,0 +1,42 @@
+{
+  "paperId": "62251f364d8bb7d1a01fa8a2dca4e29024326b51",
+  "externalIds": {
+    "MAG": "2286521576",
+    "DOI": "10.2791/470542",
+    "CorpusId": 155210805
+  },
+  "url": "https://www.semanticscholar.org/paper/62251f364d8bb7d1a01fa8a2dca4e29024326b51",
+  "title": "The determinants of wheat yields: the role of sustainable innovation, policies and risks in France and Hungary",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2791/470542?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2791/470542, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47872269",
+      "name": "Vigani Mauro"
+    },
+    {
+      "authorId": "95118616",
+      "name": "R. Emilio"
+    },
+    {
+      "authorId": "98554990",
+      "name": "Gómez Barbero Manuel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

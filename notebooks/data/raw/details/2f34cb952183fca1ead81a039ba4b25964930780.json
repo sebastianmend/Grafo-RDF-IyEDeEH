@@ -1,0 +1,52 @@
+{
+  "paperId": "2f34cb952183fca1ead81a039ba4b25964930780",
+  "externalIds": {
+    "MAG": "2140713227",
+    "DOI": "10.1021/es302720k",
+    "CorpusId": 24047988,
+    "PubMed": "23272937"
+  },
+  "url": "https://www.semanticscholar.org/paper/2f34cb952183fca1ead81a039ba4b25964930780",
+  "title": "Life cycle assessment to evaluate the environmental impact of biochar implementation in conservation agriculture in Zambia.",
+  "venue": "Environmental Science and Technology",
+  "year": 2013,
+  "citationCount": 91,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/es302720k?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/es302720k, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5392197",
+      "name": "M. Sparrevik"
+    },
+    {
+      "authorId": "31560451",
+      "name": "John L. Field"
+    },
+    {
+      "authorId": "5800164",
+      "name": "V. Martinsen"
+    },
+    {
+      "authorId": "5534639",
+      "name": "G. Breedveld"
+    },
+    {
+      "authorId": "4323610",
+      "name": "G. Cornelissen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "f960c6c38093537f896dd2475da88b059f9d24fc",
+  "externalIds": {
+    "DBLP": "journals/lgrs/YuzugulluEH15",
+    "MAG": "2078832275",
+    "DOI": "10.1109/LGRS.2015.2388953",
+    "CorpusId": 38554573
+  },
+  "url": "https://www.semanticscholar.org/paper/f960c6c38093537f896dd2475da88b059f9d24fc",
+  "title": "Rice Growth Monitoring by Means of X-Band Co-polar SAR: Feature Clustering and BBCH Scale",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "year": 2015,
+  "citationCount": 60,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2015.2388953?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2015.2388953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2949461",
+      "name": "O. Yuzugullu"
+    },
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "3320229",
+      "name": "I. Hajnsek"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

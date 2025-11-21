@@ -1,0 +1,51 @@
+{
+  "paperId": "b4462cfb78a2a1bc558de3617a9ced205b2e83b7",
+  "externalIds": {
+    "DBLP": "journals/ijris/IglesiasGPBR10",
+    "MAG": "1979816636",
+    "DOI": "10.1504/IJRIS.2010.034905",
+    "CorpusId": 30227524
+  },
+  "url": "https://www.semanticscholar.org/paper/b4462cfb78a2a1bc558de3617a9ced205b2e83b7",
+  "title": "On combining vision-based hybrid classifiers for weeds detection in precision agriculture",
+  "venue": "Int. J. Reason. based Intell. Syst.",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1504/IJRIS.2010.034905?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1504/IJRIS.2010.034905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2038909",
+      "name": "A. Tellaeche"
+    },
+    {
+      "authorId": "35050981",
+      "name": "M. Guijarro"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    },
+    {
+      "authorId": "1403267733",
+      "name": "X. Burgos-Artizzu"
+    },
+    {
+      "authorId": "144880216",
+      "name": "A. Ribeiro"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,77 @@
+{
+  "paperId": "21503df232daeb5ae72f396b382f9b403468064a",
+  "externalIds": {
+    "MAG": "1988728078",
+    "DBLP": "journals/corr/SartinS14",
+    "ArXiv": "1403.3057",
+    "DOI": "10.5121/ijcsit.2014.6104",
+    "CorpusId": 17101622
+  },
+  "url": "https://www.semanticscholar.org/paper/21503df232daeb5ae72f396b382f9b403468064a",
+  "title": "Evaluation of Image Segmentation and Filtering With ANN in the Papaya Leaf",
+  "venue": "arXiv.org",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5121/ijcsit.2014.6104",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1403.3057, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2038651",
+      "name": "M. Sartin"
+    },
+    {
+      "authorId": "2116015782",
+      "name": "A. Silva"
+    }
+  ],
+  "abstract": "Precision agriculture is area with lack of cheap technology. The refinement of the production system brings large advantages to the producer and the use of images makes the monitoring a more cheap methodology. Macronutrients monitoring can to determine the health and vulnerability of the plant in specific stages. In this paper is analyzed the method based on computational intelligence to work with image segmentation in the identification of symptoms of plant nutrient deficiency. Artificial neural networks are evaluated for image segmentation and filtering, several variations of parameters and insertion impulsive noise were evaluated too. Satisfactory results are achieved with artificial neural for segmentation same with high noise levels. Nowadays, a large sum of financial resources is destined for application of agricultural inputs by producers. The costs with agricultural inputs is a main factor in the permanent expenses of the production system. The soil degradation and crop can be caused by excess in the application of agricultural inputs. The technology adoption in the precision agriculture can avoid losses caused by wrong handling agricultural. In this way, the use efficient of fertilizers brings improve for both, producers and environment. A monitoring system suitable of the crop is necessary to achieve a correct decision-making and determine specific amounts of agricultural inputs. The macronutrient detection can provide recognition of a pattern that belong verify the plant status, independent of crop. Depending of the macronutrient, its excess or lack can be causes damage to the human and plant (1). Several works assess the correlation of the images in the domain spatial and spectral with greenness index or plant chlorophyll, and its relation with macronutrients deficiencies. The leaves observation by spectrometry with reflectance index identify of satisfactory form the alteration of macronutrients values as the N(Nitrogen), P (Phosphorus), K(Potassium), Ca (Calcium) and Mg (Magnesium) (2). The macronutrient (N) recognition by images are made in (3-5). The analysis of the colors models, RGB (Red, Green, Blue) and HSI (Hue, Saturation, Intensity), are evaluated and related with nitrogen amount applied in the soybean crop (5). In (3)(4) verify the histogram analysis with nitrogen amount and grayscale image. The authors discuss features color images of the leaf and methods for the digital image processing (DPI). The images acquisition are realized of semi-autonomous form in computer.",
+  "references": [
+    {
+      "paperId": "f8463d16062dd7b79a6be4c62b2c0804996d8667"
+    },
+    {
+      "paperId": "f9e10dfdc050e36ea59281bd83a6416052de19dd"
+    },
+    {
+      "paperId": "f03859de849ff73ad286343d728b1eaa2857140e"
+    },
+    {
+      "paperId": "44119ee207d59a9389e6d0b0ca4fabf1041544cc"
+    },
+    {
+      "paperId": "f286d683c42f0962400c98c16a4a54f0cdff8a35"
+    },
+    {
+      "paperId": "0bef526d2966333cc5f58b69f438a106c190563b"
+    },
+    {
+      "paperId": "37eb031696b93b9028a41465185ee7b70ad4c186"
+    },
+    {
+      "paperId": "ed69206f219000fb608fa863f854fd44108eb4ab"
+    },
+    {
+      "paperId": "c671faf7135449e073e1f57374dee0cea03a3f35"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "045310b06e8a3983a363a118cc9dcc3f292970b4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

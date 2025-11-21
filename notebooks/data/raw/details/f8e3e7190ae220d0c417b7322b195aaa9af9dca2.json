@@ -1,0 +1,38 @@
+{
+  "paperId": "f8e3e7190ae220d0c417b7322b195aaa9af9dca2",
+  "externalIds": {
+    "MAG": "1965616162",
+    "DOI": "10.1109/ICACCCT.2014.7019289",
+    "CorpusId": 18418718
+  },
+  "url": "https://www.semanticscholar.org/paper/f8e3e7190ae220d0c417b7322b195aaa9af9dca2",
+  "title": "Energy efficient fault tolerant topology scheme for precision agriculture using wireless sensor network",
+  "venue": "IEEE International Conference on Advanced Communications, Control and Computing Technologies",
+  "year": 2014,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACCCT.2014.7019289?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACCCT.2014.7019289, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2385188524",
+      "name": "M. Usha Rani"
+    },
+    {
+      "authorId": "2347376720",
+      "name": "S. Kamalesh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

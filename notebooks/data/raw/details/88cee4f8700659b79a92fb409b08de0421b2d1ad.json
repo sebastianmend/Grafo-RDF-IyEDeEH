@@ -1,0 +1,41 @@
+{
+  "paperId": "88cee4f8700659b79a92fb409b08de0421b2d1ad",
+  "externalIds": {
+    "MAG": "1509377422",
+    "CorpusId": 42741030
+  },
+  "url": "https://www.semanticscholar.org/paper/88cee4f8700659b79a92fb409b08de0421b2d1ad",
+  "title": "Web-enabled decision support systems for precision viticulture",
+  "venue": "Iberian Conference on Information Systems and Technologies",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39818062",
+      "name": "Miguel A. Martin Tardio"
+    },
+    {
+      "authorId": "2065623911",
+      "name": "Luis Arévalo Rosado"
+    },
+    {
+      "authorId": "2227766687",
+      "name": "Guadalupe Oriz Bellot"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

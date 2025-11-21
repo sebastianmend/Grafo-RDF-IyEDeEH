@@ -1,0 +1,38 @@
+{
+  "paperId": "fcdae95d2d3b3e9b4f42656e3e30950c3ce860b4",
+  "externalIds": {
+    "MAG": "2898282816",
+    "DOI": "10.22004/AG.ECON.230776",
+    "CorpusId": 56199695
+  },
+  "url": "https://www.semanticscholar.org/paper/fcdae95d2d3b3e9b4f42656e3e30950c3ce860b4",
+  "title": "Sequential Adoption and Cost Savings from Precision Agriculture",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 120,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://ageconsearch.umn.edu/record/230776/files/JARE_January2016__6_Schimmelpfennig_pp97-115.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22004/AG.ECON.230776?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22004/AG.ECON.230776, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8025412",
+      "name": "D. Schimmelpfennig"
+    },
+    {
+      "authorId": "97689957",
+      "name": "R. Ebel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

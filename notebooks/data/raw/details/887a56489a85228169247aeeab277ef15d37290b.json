@@ -1,0 +1,53 @@
+{
+  "paperId": "887a56489a85228169247aeeab277ef15d37290b",
+  "externalIds": {
+    "MAG": "2179809907",
+    "DOI": "10.56093/ijas.v85i6.49269",
+    "CorpusId": 85763669
+  },
+  "url": "https://www.semanticscholar.org/paper/887a56489a85228169247aeeab277ef15d37290b",
+  "title": "Yield prediction in banana (Musa × paradisiaca) (cv Grand Naine) by ANN models",
+  "venue": "Indian Journal of Agricultural Sciences",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://epubs.icar.org.in/index.php/IJAgS/article/download/49269/21124",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56093/ijas.v85i6.49269?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56093/ijas.v85i6.49269, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47583708",
+      "name": "R. Venugopalan"
+    }
+  ],
+  "abstract": "in understanding perennial crop growth cycle in view of recent climate changes and thereby to identify potential traits based on which advance selection could be attempted for a desirable trait at early crop growth stage. Also, identified significant biometrical traits across crop growth stages may be an effective component of any effective precision farming management package for increasing crop productivity. Role of biometrical factors in crop modeling is gaining importance in horticultural studies (Venugopalan 2010). To achieve this, development of statistical models based on recorded biometrical traits across crop growth stages is highly essential. Multiple linear regression (MLR) modeling is a very powerful statistical technique and is widely used to estimate linear relationship between response variable and predictors. Its main limitation is that it is useful only when the underlying relation between response and predictor variables is assumed to be “linear”. However, in a realistic situation, this assumption is rarely satisfied. Also, if there are several predictors, it is wellnigh impossible to have an idea of underlying non-linear functional relationship between response and predictor variables. To this end, in the present study, models based on the theory of “Artificial neural networks” (ANN), which can handle non-linear pattern among the independent factors (Singh and Prajneshu 2008) based on prior knowledge of the system (Hochachka et al. 2007), are developed and stage-wise significant yield influencing characters in banana (Musa × paradisiaca L.) (cv Grand Naine) are identified. Primary data on yield and yield attributing traits [Plant height (cm), girth (cm), leaf length (cm), leaf breadth (cm), number of functional leaves, number of suckers] across seven important growth stages of banana (Cv Grand Naine) were collected from farmer’s field (n=120) during the period 2010-12, at Dodballapur, Bengaluru. ANN models were Short Communication Indian Journal of Agricultural Sciences 85 (6): 859–60, June 2015/Short communication https://doi.org/10.56093/ijas.v85i6.49269",
+  "references": [
+    {
+      "paperId": "143441b865998f2503e8cf50fc8708385f6c599e"
+    },
+    {
+      "paperId": "5c3fcaba1fb4eb928a77e288997c613cc38b713e"
+    },
+    {
+      "paperId": "7771364e089eb8d9d9976515728a8a8161adc5c0"
+    },
+    {
+      "paperId": "87e101b7b9ef8b85ab3377fc3fc3e2e6baf5ad58"
+    },
+    {
+      "paperId": "d525d92ba1023274ca992e0237020a593ef2f470"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

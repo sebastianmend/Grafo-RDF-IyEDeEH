@@ -1,0 +1,56 @@
+{
+  "paperId": "96efe2332e30a9c5f0cd008a387bb8273cdf253c",
+  "externalIds": {
+    "DBLP": "conf/idaacs/RomanovAGKSF11",
+    "MAG": "2030226482",
+    "DOI": "10.1109/IDAACS.2011.6072704",
+    "CorpusId": 7910798
+  },
+  "url": "https://www.semanticscholar.org/paper/96efe2332e30a9c5f0cd008a387bb8273cdf253c",
+  "title": "Computer devices for precision agriculture",
+  "venue": "Proceedings of the 6th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IDAACS.2011.6072704?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IDAACS.2011.6072704, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145795861",
+      "name": "V. Romanov"
+    },
+    {
+      "authorId": "1753341046",
+      "name": "D. Artemenko"
+    },
+    {
+      "authorId": "9219761",
+      "name": "I. Galelyuka"
+    },
+    {
+      "authorId": "2356528",
+      "name": "O. Kovyrova"
+    },
+    {
+      "authorId": "2981103",
+      "name": "Y. Sarakhan"
+    },
+    {
+      "authorId": "1582238696",
+      "name": "V. Fedak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

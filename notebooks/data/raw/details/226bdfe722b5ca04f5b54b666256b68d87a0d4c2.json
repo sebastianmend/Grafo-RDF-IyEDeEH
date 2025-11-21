@@ -1,0 +1,125 @@
+{
+  "paperId": "226bdfe722b5ca04f5b54b666256b68d87a0d4c2",
+  "externalIds": {
+    "MAG": "1869212596",
+    "PubMedCentral": "4673541",
+    "DOI": "10.1080/19440049.2015.1072644",
+    "CorpusId": 14383052,
+    "PubMed": "26212568"
+  },
+  "url": "https://www.semanticscholar.org/paper/226bdfe722b5ca04f5b54b666256b68d87a0d4c2",
+  "title": "Simultaneous analysis of Alternaria toxins and citrinin in tomato: an optimised method using liquid chromatography-tandem mass spectrometry",
+  "venue": "Food Additives and Contaminants Part A-chemistry Analysis Control Exposure & Risk Assessment",
+  "year": 2015,
+  "citationCount": 56,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/19440049.2015.1072644?needAccess=true",
+    "status": "BRONZE",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4673541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6142428",
+      "name": "Ádám Tölgyesi"
+    },
+    {
+      "authorId": "34679824",
+      "name": "J. Stroka"
+    },
+    {
+      "authorId": "36000094",
+      "name": "V. Tamošiūnas"
+    },
+    {
+      "authorId": "2214868",
+      "name": "T. Zwickel"
+    }
+  ],
+  "abstract": "Alternaria toxins and citrinin are mycotoxins produced by fungi growing on different raw materials and agricultural commodities. Maximum levels of these toxins in foods are currently under consideration by the European Commission as a risk management measure. In this study, a new quantitative method is described for the determination of five Alternaria toxins and citrinin in tomato and tomato juice samples based on LC-MS/MS detection. Samples were extracted with pure methanol, followed by a derivatisation step with 2,4-dinitrophenylhydrazine to improve the determination of tenuazonic acid and to decrease the wide polarity difference between the compounds of interest. Samples were purified on hydrophilic-modified styrene polymer solid-phase extraction cartridges. High-performance liquid chromatographic columns packed with different core–shell materials were tested for the separation of toxins and a C-18 phase was in the final method applied to achieve sufficient separation of all relevant analytes. A key element of this approach was to prove successful transferability of the method to three different triple quadrupole mass spectrometers. A full single laboratory method validation was performed on two LC-MS/MS systems and performance characteristics met the predefined requirements. Moreover, the method was used in an international proficiency test and the satisfactory z-scores obtained (−0.1 to 0.8 in tomato juice samples) demonstrated the reliability of the approach described. The method will be validated in an inter-laboratory collaborative study and if the criteria for method precision are met, the method will be proposed as a new Work Item to the European Committee for Standardisation.",
+  "references": [
+    {
+      "paperId": "8c8ec954930e87e937d701ca24dd35b06236ab71"
+    },
+    {
+      "paperId": "63f0960e788f11c8d17ada5785eb0cd6bd3ec23f"
+    },
+    {
+      "paperId": "c6ba9220f435cdd236031b7d0a78b1bb6453c368"
+    },
+    {
+      "paperId": "0af0f43a1455705ca750cea257bb67d2cad310eb"
+    },
+    {
+      "paperId": "18099818a9497eb13a02cd63ab33021e2b1e1136"
+    },
+    {
+      "paperId": "a631cc83c3cc23ca09ee520be321f32b914216ae"
+    },
+    {
+      "paperId": "23799c0ab377bcd379a075e8f4722818b95a351a"
+    },
+    {
+      "paperId": "77377b80d4b0fd86db02c1294e87eafb2049c80f"
+    },
+    {
+      "paperId": "392481b52399970b6f9bca1324eddcf42b666a62"
+    },
+    {
+      "paperId": "0e9ff5a9d2988aac5358546760fea24c783a1c78"
+    },
+    {
+      "paperId": "d510473fba66513fda266bd31489d3bc36bdac89"
+    },
+    {
+      "paperId": "43e3c3dedf5ff017db8477aeb87a2e415152086b"
+    },
+    {
+      "paperId": "0a93797f0310ad1ccb70cc8a07d21680c56de6db"
+    },
+    {
+      "paperId": "bbe85a45e231fcc96a2c0ff0a3344704aa6a1e90"
+    },
+    {
+      "paperId": "07ed8af83f88706773887ad1b480debae3952151"
+    },
+    {
+      "paperId": "2fa30d0b718e65e24b530dd859911179c81713c4"
+    },
+    {
+      "paperId": "457addeb62f1708057bcbb7494f1c743c067873d"
+    },
+    {
+      "paperId": "00fbd11067bd5802a5ef67e262d3c367e405ef4b"
+    },
+    {
+      "paperId": "1c67854a12414e9ec37de789e2da536cf591b4ef"
+    },
+    {
+      "paperId": "b441c8a8e06df823133f243078ba2d07f2472b31"
+    },
+    {
+      "paperId": "23d7456968dfd2df678e6fdd34eb60e45f9fb50a"
+    },
+    {
+      "paperId": "1f61141757bf133a3fb27f6853348e02478b36d6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

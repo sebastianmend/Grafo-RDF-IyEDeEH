@@ -1,0 +1,32 @@
+{
+  "paperId": "d908d2010120499ee69dd778e50c237d590af046",
+  "externalIds": {
+    "MAG": "1044637288",
+    "CorpusId": 60480592
+  },
+  "url": "https://www.semanticscholar.org/paper/d908d2010120499ee69dd778e50c237d590af046",
+  "title": "On Some Aspects of Small Area Estimation with Bayesian Approach Utilizing SAS and R Software",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "69906061",
+      "name": "Nageena Nazir"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

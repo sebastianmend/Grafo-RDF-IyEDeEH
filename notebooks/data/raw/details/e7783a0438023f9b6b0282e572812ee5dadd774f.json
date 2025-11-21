@@ -1,0 +1,48 @@
+{
+  "paperId": "e7783a0438023f9b6b0282e572812ee5dadd774f",
+  "externalIds": {
+    "DBLP": "conf/sbesc/ShubeitaAMV12",
+    "MAG": "1993515608",
+    "DOI": "10.1109/SBESC.2012.53",
+    "CorpusId": 32763467
+  },
+  "url": "https://www.semanticscholar.org/paper/e7783a0438023f9b6b0282e572812ee5dadd774f",
+  "title": "WSN Experiment and a Grid-Based Network Architecture Proposal",
+  "venue": "Brazilian Symposium on Computing System Engineering",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://repositorio.pucrs.br/dspace/bitstream/10923/23393/2/WSN_Experiment_and_a_GridBased_Network_Architecture_Proposal.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SBESC.2012.53?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SBESC.2012.53, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2884548",
+      "name": "F. Shubeita"
+    },
+    {
+      "authorId": "143692654",
+      "name": "Leonardo A. Amaral"
+    },
+    {
+      "authorId": "1836098",
+      "name": "César A. M. Marcon"
+    },
+    {
+      "authorId": "2081747",
+      "name": "A. Vit"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

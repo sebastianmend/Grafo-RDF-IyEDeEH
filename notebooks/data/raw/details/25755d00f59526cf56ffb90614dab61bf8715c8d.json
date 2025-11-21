@@ -1,0 +1,46 @@
+{
+  "paperId": "25755d00f59526cf56ffb90614dab61bf8715c8d",
+  "externalIds": {
+    "MAG": "2082783923",
+    "DOI": "10.1109/ICSSA.2015.7322513",
+    "CorpusId": 31791197
+  },
+  "url": "https://www.semanticscholar.org/paper/25755d00f59526cf56ffb90614dab61bf8715c8d",
+  "title": "Precision irrigation using Wireless Sensor Network",
+  "venue": "International Conference on Software Security and Assurance",
+  "year": 2015,
+  "citationCount": 60,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSSA.2015.7322513?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSSA.2015.7322513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "37345377",
+      "name": "A. N. Harun"
+    },
+    {
+      "authorId": "9427886",
+      "name": "Mohamed Rawidean Mohd Kassim"
+    },
+    {
+      "authorId": "40170162",
+      "name": "I. Mat"
+    },
+    {
+      "authorId": "30642065",
+      "name": "Siti Sarah Ramli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

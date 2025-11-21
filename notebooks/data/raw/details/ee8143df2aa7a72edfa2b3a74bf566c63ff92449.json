@@ -1,0 +1,47 @@
+{
+  "paperId": "ee8143df2aa7a72edfa2b3a74bf566c63ff92449",
+  "externalIds": {
+    "MAG": "1470957357",
+    "DBLP": "conf/ifip12/LiuMWX12",
+    "DOI": "10.1007/978-3-642-36137-1_7",
+    "CorpusId": 11782492
+  },
+  "url": "https://www.semanticscholar.org/paper/ee8143df2aa7a72edfa2b3a74bf566c63ff92449",
+  "title": "Systematic Random Deployment for Wireless Sensor Network in Agricultural Sampling-Interpolation Applications",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2012,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-36137-1_7.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-36137-1_7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-36137-1_7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2146673061",
+      "name": "Hui Liu"
+    },
+    {
+      "authorId": "1706713",
+      "name": "Zhijun Meng"
+    },
+    {
+      "authorId": "2197901489",
+      "name": "Hua Wang"
+    },
+    {
+      "authorId": "2153556002",
+      "name": "Min Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

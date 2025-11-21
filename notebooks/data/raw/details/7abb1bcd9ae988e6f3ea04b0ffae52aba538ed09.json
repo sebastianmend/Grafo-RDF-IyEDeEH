@@ -1,0 +1,47 @@
+{
+  "paperId": "7abb1bcd9ae988e6f3ea04b0ffae52aba538ed09",
+  "externalIds": {
+    "MAG": "1972373926",
+    "DBLP": "journals/isrob/BerensteinBSE10",
+    "DOI": "10.1007/s11370-010-0078-z",
+    "CorpusId": 17153814
+  },
+  "url": "https://www.semanticscholar.org/paper/7abb1bcd9ae988e6f3ea04b0ffae52aba538ed09",
+  "title": "Grape clusters and foliage detection algorithms for autonomous selective vineyard sprayer",
+  "venue": "Intell. Serv. Robotics",
+  "year": 2010,
+  "citationCount": 147,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11370-010-0078-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11370-010-0078-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3050917",
+      "name": "R. Berenstein"
+    },
+    {
+      "authorId": "1402462666",
+      "name": "Ohad Ben-Shahar"
+    },
+    {
+      "authorId": "2249417",
+      "name": "Amir Shapiro"
+    },
+    {
+      "authorId": "1726598",
+      "name": "Y. Edan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

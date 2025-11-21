@@ -1,0 +1,38 @@
+{
+  "paperId": "1a00752912e2971c99daaec25ef49d88f8489d83",
+  "externalIds": {
+    "MAG": "1567872825",
+    "DOI": "10.1109/ICIIECS.2015.7192904",
+    "CorpusId": 17485121
+  },
+  "url": "https://www.semanticscholar.org/paper/1a00752912e2971c99daaec25ef49d88f8489d83",
+  "title": "Development of WSN system for precision agriculture",
+  "venue": "International Conference on Innovations in Information, Embedded and Communication Systems",
+  "year": 2015,
+  "citationCount": 36,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIECS.2015.7192904?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIECS.2015.7192904, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3121047",
+      "name": "Santoshkumar"
+    },
+    {
+      "authorId": "2070930",
+      "name": "R. Udaykumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

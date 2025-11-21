@@ -1,0 +1,36 @@
+{
+  "paperId": "ab50d36d55dfa88f26c7733125198f5c6212a0fd",
+  "externalIds": {
+    "MAG": "2340087284",
+    "CorpusId": 18010535
+  },
+  "url": "https://www.semanticscholar.org/paper/ab50d36d55dfa88f26c7733125198f5c6212a0fd",
+  "title": "APPLICATION OF GIS AND GPS IN PRECISION AGRICULTURE (A REVIEW)",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 41,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "73653858",
+      "name": "Y. Reza"
+    },
+    {
+      "authorId": "116207628",
+      "name": "Razdari Ayat Mohammad"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

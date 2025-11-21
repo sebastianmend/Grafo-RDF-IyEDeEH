@@ -1,0 +1,43 @@
+{
+  "paperId": "c829d9302f3cfc5ff2860ce585b7554c3cb400df",
+  "externalIds": {
+    "DBLP": "conf/adhoc-now/BasecaDL14",
+    "MAG": "185191001",
+    "DOI": "10.1007/978-3-662-46338-3_14",
+    "CorpusId": 41509868
+  },
+  "url": "https://www.semanticscholar.org/paper/c829d9302f3cfc5ff2860ce585b7554c3cb400df",
+  "title": "Deployment and Performance Study of an Ad Hoc Network Protocol for Intelligent Video Sensing in Precision Agriculture",
+  "venue": "ADHOC-NOW Workshops",
+  "year": 2014,
+  "citationCount": 37,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-662-46338-3_14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-662-46338-3_14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2819896",
+      "name": "Carlos Cambra Baseca"
+    },
+    {
+      "authorId": "145630308",
+      "name": "Juan R. Diaz"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

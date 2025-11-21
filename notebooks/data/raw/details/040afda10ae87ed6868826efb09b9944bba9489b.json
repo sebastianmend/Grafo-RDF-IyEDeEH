@@ -1,0 +1,58 @@
+{
+  "paperId": "040afda10ae87ed6868826efb09b9944bba9489b",
+  "externalIds": {
+    "MAG": "2545116705",
+    "DOI": "10.1109/ICIAFS.2012.6419918",
+    "CorpusId": 18776599
+  },
+  "url": "https://www.semanticscholar.org/paper/040afda10ae87ed6868826efb09b9944bba9489b",
+  "title": "Adaptive wireless sensor networks powered by hybrid energy harvesting for environmental monitoring",
+  "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+  "year": 2012,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIAFS.2012.6419918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIAFS.2012.6419918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2850968",
+      "name": "F. Philipp"
+    },
+    {
+      "authorId": "2114871647",
+      "name": "Ping Zhao"
+    },
+    {
+      "authorId": "2417238",
+      "name": "Faizal Arya Samman"
+    },
+    {
+      "authorId": "1695280",
+      "name": "M. Glesner"
+    },
+    {
+      "authorId": "2807065",
+      "name": "K. Dassanayake"
+    },
+    {
+      "authorId": "1772258",
+      "name": "S. Maheswararajah"
+    },
+    {
+      "authorId": "143832013",
+      "name": "S. Halgamuge"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

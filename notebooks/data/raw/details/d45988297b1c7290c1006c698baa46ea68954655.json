@@ -1,0 +1,164 @@
+{
+  "paperId": "d45988297b1c7290c1006c698baa46ea68954655",
+  "externalIds": {
+    "DBLP": "journals/sensors/GhaffariCLNVLGM15",
+    "MAG": "1544808012",
+    "PubMedCentral": "4541955",
+    "DOI": "10.3390/s150717715",
+    "CorpusId": 1058182,
+    "PubMed": "26197322"
+  },
+  "url": "https://www.semanticscholar.org/paper/d45988297b1c7290c1006c698baa46ea68954655",
+  "title": "Electrochemical Impedance Sensors for Monitoring Trace Amounts of NO3 in Selected Growing Media",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/7/17715/pdf?version=1437463895",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4541955, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8626529",
+      "name": "S. A. Ghaffari"
+    },
+    {
+      "authorId": "50271683",
+      "name": "William-Olivier Caron"
+    },
+    {
+      "authorId": "8666491",
+      "name": "M. Loubier"
+    },
+    {
+      "authorId": "152928524",
+      "name": "Charles-O. Normandeau"
+    },
+    {
+      "authorId": "2095078",
+      "name": "J. Viens"
+    },
+    {
+      "authorId": "5240936",
+      "name": "M. Lamhamedi"
+    },
+    {
+      "authorId": "40627936",
+      "name": "B. Gosselin"
+    },
+    {
+      "authorId": "2094951",
+      "name": "Y. Messaddeq"
+    }
+  ],
+  "abstract": "With the advent of smart cities and big data, precision agriculture allows the feeding of sensor data into online databases for continuous crop monitoring, production optimization, and data storage. This paper describes a low-cost, compact, and scalable nitrate sensor based on electrochemical impedance spectroscopy for monitoring trace amounts of NO3− in selected growing media. The nitrate sensor can be integrated to conventional microelectronics to perform online nitrate sensing continuously over a wide concentration range from 0.1 ppm to 100 ppm, with a response time of about 1 min, and feed data into a database for storage and analysis. The paper describes the structural design, the Nyquist impedance response, the measurement sensitivity and accuracy, and the field testing of the nitrate sensor performed within tree nursery settings under ISO/IEC 17025 certifications.",
+  "references": [
+    {
+      "paperId": "4eff0ae2ff2d84197e81a89a1364a2dac345bf42"
+    },
+    {
+      "paperId": "db2543929f0383b83d72d312fcb6b933cc3e38d6"
+    },
+    {
+      "paperId": "8e3842d66b5f7129139a6ae68b1d2527c2a8fcd0"
+    },
+    {
+      "paperId": "8e1d4a7666a8f3f02766e381ca3fdd62188223aa"
+    },
+    {
+      "paperId": "87414da4a431a6120b4f0e5f39f990585a81a25c"
+    },
+    {
+      "paperId": "fc1399c70bea8927820dbbe3b59e54b675173cd3"
+    },
+    {
+      "paperId": "3c149c29a8e2dc704846b8d981a58837110fcbc5"
+    },
+    {
+      "paperId": "90b2a9cef6e44295ae864a4438c7ef30ed508b34"
+    },
+    {
+      "paperId": "e22a930083dbefa7ad19613e95bf71a45a085d37"
+    },
+    {
+      "paperId": "9b4d3484a452710de0644ba2973d131880fe07df"
+    },
+    {
+      "paperId": "c394b410daf326e178b28502a9ce2e94782ba33c"
+    },
+    {
+      "paperId": "152f2398500bc185fc20f0ad8c911d79125a03a2"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "b4a49c25a47d54bad71523b2e87dd40200249084"
+    },
+    {
+      "paperId": "8f24558a6e40db7e8c591c7c5c9257ce88769411"
+    },
+    {
+      "paperId": "8eaa09592814f872856c3b14b4944796a602c2c1"
+    },
+    {
+      "paperId": "43c9fece1afb71d256bd103923cfaa73b12924da"
+    },
+    {
+      "paperId": "273606d2772291387ceddce1b06d357d50a3b6fd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c9cb388d014a22adaa14e947ef0676554dd9328e"
+    },
+    {
+      "paperId": "0f00050582bd05b3adae3dc90520487ae63601b5"
+    },
+    {
+      "paperId": "b7e333d495a001e0328f23f3949f05e2e87bd32c"
+    },
+    {
+      "paperId": "7a166d5542f5b2826235f1358a38c80752c99d6c"
+    },
+    {
+      "paperId": "12a19e2a002a3859d3e0debcf6e5a620de7b1b10"
+    },
+    {
+      "paperId": "9a95c7af017ca191eb8b22a322d4f5f03e23d46b"
+    },
+    {
+      "paperId": "68f310884f8d5f69b7f7e8c61eebeddea59814b5"
+    },
+    {
+      "paperId": "35bbae54ababa20c46cc423660fe7f1188409c01"
+    },
+    {
+      "paperId": "8e736c49bf8c73fc4a86153939ff4e9203ba83ff"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

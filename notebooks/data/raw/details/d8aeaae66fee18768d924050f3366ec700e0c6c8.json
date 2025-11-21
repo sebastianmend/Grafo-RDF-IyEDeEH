@@ -1,0 +1,43 @@
+{
+  "paperId": "d8aeaae66fee18768d924050f3366ec700e0c6c8",
+  "externalIds": {
+    "MAG": "2035083825",
+    "DOI": "10.1117/12.2015777",
+    "CorpusId": 121984638
+  },
+  "url": "https://www.semanticscholar.org/paper/d8aeaae66fee18768d924050f3366ec700e0c6c8",
+  "title": "Gimbal system configurations and line-of-sight control techniques for small UAV applications",
+  "venue": "Defense, Security, and Sensing",
+  "year": 2013,
+  "citationCount": 26,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2015777?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2015777, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2110527463",
+      "name": "Rick Miller"
+    },
+    {
+      "authorId": "102303552",
+      "name": "Greg Mooty"
+    },
+    {
+      "authorId": "98344593",
+      "name": "J. M. Hilkert"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

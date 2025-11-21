@@ -1,0 +1,64 @@
+{
+  "paperId": "a773da9fbdcd6be8274d7264585aa31d282572b4",
+  "externalIds": {
+    "DOI": "10.9734/jeai/2024/v46i92822",
+    "CorpusId": 272322298
+  },
+  "publicationVenue": {
+    "id": "b0712030-eaca-4968-92e3-5e133a684084",
+    "name": "Journal of Experimental Agriculture International",
+    "type": "journal",
+    "alternate_names": [
+      "J Exp Agric Int"
+    ],
+    "issn": "2457-0591",
+    "url": "http://www.sciencedomain.org/journal/51"
+  },
+  "url": "https://www.semanticscholar.org/paper/a773da9fbdcd6be8274d7264585aa31d282572b4",
+  "title": "Technology for a Food-secure Future: A Review of Technology Advances in Sustainable Agriculture",
+  "year": 2024,
+  "citationCount": 1,
+  "openAccessPdf": {
+    "url": "https://journaljeai.com/index.php/JEAI/article/download/2822/5753",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jeai/2024/v46i92822?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jeai/2024/v46i92822, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "authors": [
+    {
+      "authorId": "2319052634",
+      "name": "K. S. Somashekar"
+    },
+    {
+      "authorId": "2319056182",
+      "name": "H. M. A. Rehaman"
+    },
+    {
+      "authorId": "2318976392",
+      "name": "G. V. S. Kumar"
+    },
+    {
+      "authorId": "2319049331",
+      "name": "Kamala Bai"
+    },
+    {
+      "authorId": "2292536063",
+      "name": "Ningaraj Belagalla"
+    },
+    {
+      "authorId": "2296635795",
+      "name": "G. Abhishek"
+    },
+    {
+      "authorId": "2319052185",
+      "name": "Jagadeesh M S"
+    },
+    {
+      "authorId": "2314023765",
+      "name": "Manish Kapoor"
+    }
+  ],
+  "abstract": "There is no doubt that advanced technologies play a very important and crucial role in driving the agricultural sustainable practices in order to satisfy the increasing demand for food production as well as to minimize environmental impacts. This review article aims to provide comprehensive points of view regarding a current state as well as the future advances in smart farming techniques for developing an agricultural sustainability. The digital sensors are considered as key techniques for agricultural transformation which provide an accurate managing and monitoring the various agricultural activities such as crop production, soil moisture, micro climate data, and others. Valuable detailed data are acquired by these sensors to be delivered to the farmers in order to make suitable decisions, ensuring the sustainable and efficient utilization of the agricultural resources. Moreover, managing irrigation using the advanced technologies is benefited wireless monitoring remotely and controlling systems. These technologies and advanced tools help the farmers to reduce water consumption and increase their benefits as well as promotes sustainable management practices of the water resources. Additionally, the drones such as unmanned aerial vehicles (UAVs) can be attached with several kinds of sensors or cameras for capturing detailed information of crop health, soil status, required fertilizers, irrigation, and pesticides. Besides these benefits of drones, they provide a function of an early detection of agricultural problems which allow the decision makers for taking suitable actions. Furthermore, the biotechnology advances such as CRISPR gene editing, and transgenic animals’ developing are very beneficial for enhancing the crop yield, disease resistance, and nutrients availability, and agricultural sustainability. The precision agriculture (PA) integration with geographic information system (GIS) and remote sensing (RS) provides site-specific management and its decisions in order to optimize the inputs utilization, waste reduce, and sustainable practices promotion. Also, advanced technologies’ application (i.e. artificial intelligence ‘AI’, machine learning ‘ML’, and the Internet of Things ‘IoT’) has been found to be a promising for achieving an agricultural sustainability. Therefore, by using these powerful technologies, the farmers can enhance an agricultural production, decrease an environmental effect and achieve the food security.",
+  "references": null
+}

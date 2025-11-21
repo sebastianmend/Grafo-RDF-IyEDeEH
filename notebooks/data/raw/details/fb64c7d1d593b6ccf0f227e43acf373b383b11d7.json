@@ -1,0 +1,48 @@
+{
+  "paperId": "fb64c7d1d593b6ccf0f227e43acf373b383b11d7",
+  "externalIds": {
+    "MAG": "1571768436",
+    "CorpusId": 129724083
+  },
+  "url": "https://www.semanticscholar.org/paper/fb64c7d1d593b6ccf0f227e43acf373b383b11d7",
+  "title": "Review of precision irrigation technologies and their application",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 63,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2108905717",
+      "name": "Rod J. Smith"
+    },
+    {
+      "authorId": "2068711478",
+      "name": "J. Baillie"
+    },
+    {
+      "authorId": "143678451",
+      "name": "A. McCarthy"
+    },
+    {
+      "authorId": "3024011",
+      "name": "S. Raine"
+    },
+    {
+      "authorId": "49261835",
+      "name": "C. Baillie"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

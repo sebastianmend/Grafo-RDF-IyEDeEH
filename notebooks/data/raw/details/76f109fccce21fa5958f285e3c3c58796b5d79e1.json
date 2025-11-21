@@ -1,0 +1,41 @@
+{
+  "paperId": "76f109fccce21fa5958f285e3c3c58796b5d79e1",
+  "externalIds": {
+    "MAG": "2269176980",
+    "DBLP": "conf/flairs/NderuJA15",
+    "CorpusId": 17756552
+  },
+  "url": "https://www.semanticscholar.org/paper/76f109fccce21fa5958f285e3c3c58796b5d79e1",
+  "title": "Fuzzy Contrast Improvement for Low Altitude Aerial Images",
+  "venue": "The Florida AI Research Society",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2373636024",
+      "name": "Lawrence Nderu"
+    },
+    {
+      "authorId": "2882109",
+      "name": "Nicolas Jouandeau"
+    },
+    {
+      "authorId": "1821140",
+      "name": "H. Akdag"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

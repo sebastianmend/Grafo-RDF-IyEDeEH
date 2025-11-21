@@ -1,0 +1,34 @@
+{
+  "paperId": "d8ad2a0064ffdcb6b500b41c80d4610385d83532",
+  "externalIds": {
+    "MAG": "2024265031",
+    "DOI": "10.2134/AGRONJ2012.0156",
+    "CorpusId": 84763935
+  },
+  "url": "https://www.semanticscholar.org/paper/d8ad2a0064ffdcb6b500b41c80d4610385d83532",
+  "title": "Toward the Ultimate Soil Survey: Sensing Multiple Soil and Landscape Properties in One Pass",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2134/AGRONJ2012.0156?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/AGRONJ2012.0156, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87455689",
+      "name": "G. Kweon"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

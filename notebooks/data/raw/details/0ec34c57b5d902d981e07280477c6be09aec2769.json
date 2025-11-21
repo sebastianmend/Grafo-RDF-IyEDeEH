@@ -1,0 +1,42 @@
+{
+  "paperId": "0ec34c57b5d902d981e07280477c6be09aec2769",
+  "externalIds": {
+    "MAG": "2356541214",
+    "CorpusId": 19285633,
+    "PubMed": "24159867"
+  },
+  "url": "https://www.semanticscholar.org/paper/0ec34c57b5d902d981e07280477c6be09aec2769",
+  "title": "[Study of spatial interpolation of soil Cd contents in sewage irrigated area based on soil spectral information assistance].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49640224",
+      "name": "Tao Chen"
+    },
+    {
+      "authorId": "3255498",
+      "name": "Q. Chang"
+    },
+    {
+      "authorId": "2153466560",
+      "name": "Jing Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

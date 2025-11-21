@@ -1,0 +1,36 @@
+{
+  "paperId": "ea7ce5473335409dc68c195c2b3255bc1da2cd29",
+  "externalIds": {
+    "MAG": "2247388612",
+    "CorpusId": 112092623
+  },
+  "url": "https://www.semanticscholar.org/paper/ea7ce5473335409dc68c195c2b3255bc1da2cd29",
+  "title": "On the Doorstep of the Information Age: Recent Adoption of Precision Agriculture",
+  "venue": "",
+  "year": 2011,
+  "citationCount": 103,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8025412",
+      "name": "D. Schimmelpfennig"
+    },
+    {
+      "authorId": "97689957",
+      "name": "R. Ebel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

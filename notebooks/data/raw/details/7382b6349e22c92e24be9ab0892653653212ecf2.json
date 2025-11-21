@@ -1,0 +1,44 @@
+{
+  "paperId": "7382b6349e22c92e24be9ab0892653653212ecf2",
+  "externalIds": {
+    "MAG": "2066224451",
+    "DOI": "10.1007/S13253-011-0070-X",
+    "CorpusId": 13830938,
+    "PubMed": "41179653"
+  },
+  "url": "https://www.semanticscholar.org/paper/7382b6349e22c92e24be9ab0892653653212ecf2",
+  "title": "Improving Crop Model Inference Through Bayesian Melding With Spatially Varying Parameters",
+  "venue": "Journal of Agricultural Biological and Environmental Statistics",
+  "year": 2011,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S13253-011-0070-X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S13253-011-0070-X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2004225",
+      "name": "A. Finley"
+    },
+    {
+      "authorId": "153564613",
+      "name": "S. Banerjee"
+    },
+    {
+      "authorId": "145607092",
+      "name": "B. Basso"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

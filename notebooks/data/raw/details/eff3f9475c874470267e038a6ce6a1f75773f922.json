@@ -1,0 +1,54 @@
+{
+  "paperId": "eff3f9475c874470267e038a6ce6a1f75773f922",
+  "externalIds": {
+    "MAG": "2123868489",
+    "DOI": "10.1017/S095927091400029X",
+    "CorpusId": 86080010
+  },
+  "url": "https://www.semanticscholar.org/paper/eff3f9475c874470267e038a6ce6a1f75773f922",
+  "title": "Vulture populations in Uganda: using road survey data to measure both densities and encounter rates within protected and unprotected areas",
+  "venue": "Bird conservation international",
+  "year": 2014,
+  "citationCount": 28,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1C2D03B676BB1A678542C98C17AA2852/S095927091400029Xa.pdf/div-class-title-vulture-populations-in-uganda-using-road-survey-data-to-measure-both-densities-and-encounter-rates-within-protected-and-unprotected-areas-div.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S095927091400029X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S095927091400029X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46454173",
+      "name": "D. Pomeroy"
+    },
+    {
+      "authorId": "48621100",
+      "name": "Phil Shaw"
+    },
+    {
+      "authorId": "88681337",
+      "name": "Michael Opige"
+    },
+    {
+      "authorId": "90594100",
+      "name": "George Kaphu"
+    },
+    {
+      "authorId": "8665841",
+      "name": "D. Ogada"
+    },
+    {
+      "authorId": "3849140",
+      "name": "M. Virani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "1cf29718316c5cbe784fd29eaa11cd988d35659b",
+  "externalIds": {
+    "DBLP": "conf/ictai/FaicalPFCFU14",
+    "MAG": "1985201608",
+    "DOI": "10.1109/ICTAI.2014.85",
+    "CorpusId": 3109917
+  },
+  "url": "https://www.semanticscholar.org/paper/1cf29718316c5cbe784fd29eaa11cd988d35659b",
+  "title": "Fine-Tuning of UAV Control Rules for Spraying Pesticides on Crop Fields",
+  "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+  "year": 2014,
+  "citationCount": 50,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICTAI.2014.85?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICTAI.2014.85, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2273944",
+      "name": "Bruno S. Faiçal"
+    },
+    {
+      "authorId": "2584178",
+      "name": "G. Pessin"
+    },
+    {
+      "authorId": "145085809",
+      "name": "G. P. R. Filho"
+    },
+    {
+      "authorId": "143618972",
+      "name": "A. Carvalho"
+    },
+    {
+      "authorId": "145849881",
+      "name": "Gustavo Furquim"
+    },
+    {
+      "authorId": "2190289",
+      "name": "J. Ueyama"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

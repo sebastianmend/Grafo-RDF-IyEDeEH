@@ -1,0 +1,90 @@
+{
+  "paperId": "c3fa3f71b83ccc2d1fa3edc6dd9fb9cb37f6fae0",
+  "externalIds": {
+    "MAG": "2069142886",
+    "DOI": "10.1088/1755-1315/18/1/012142",
+    "CorpusId": 111316119
+  },
+  "url": "https://www.semanticscholar.org/paper/c3fa3f71b83ccc2d1fa3edc6dd9fb9cb37f6fae0",
+  "title": "Toward malaysian sustainable agriculture in 21st century",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/18/1/012142",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/18/1/012142?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/18/1/012142, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "98888475",
+      "name": "K. Khorramnia"
+    },
+    {
+      "authorId": "50446949",
+      "name": "A. Shariff"
+    },
+    {
+      "authorId": "46363841",
+      "name": "A. A. Rahim"
+    },
+    {
+      "authorId": "1442205782",
+      "name": "S. Mansor"
+    }
+  ],
+  "abstract": "Sustainable agriculture should be able to meet various social goals and objectives so that it can be maintained for an indefinite period without significant negative impacts on environment and natural resources. A wide variety of agricultural activities are running in Malaysia. Maintaining high quality of agricultural products with lower environmental impacts through a sustainable economic viability and life satisfaction of farmers and community are important factors helping to meet sustainable agriculture. Human resources are playing key role in directing the community toward sustainable development. The trend of improving the human development index in Malaysia is highest in the East Asia and the Pacific, high human development countries and the world, since 2000. Precision agriculture is providing strong tools to achieve sustainable agriculture. Different types of sensors, positioning and navigation systems, GIS, software and variable rate technology are well known components of precision agriculture. Drones and robots are promising tools that enabling farmers and managers to collect information or perform particular actions in remote areas or tough conditions. According to a survey, forestry and timber, rubber production and oil palm estates are three main agricultural divisions that precision agriculture may improve the productivity in respect to area of cropland/worker. Main factors affecting the adoption of precision agriculture in Malaysia are: a) Political and legal supports, b) Decision support systems and user interfaces c) Experienced research team works d) National educational policy e) Success in commercialization of precision agriculture system.",
+  "references": [
+    {
+      "paperId": "fda481290ba691a48c8670abd0c46ca9648d0b32"
+    },
+    {
+      "paperId": "d921a3608c5115c0f9d257a779b96a531a3cd939"
+    },
+    {
+      "paperId": "3e96194d60ce1599b509a57e43ef43af5afe8cbf"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "62dd5c2285d7d1b1e9a97551d8e41aece677d542"
+    },
+    {
+      "paperId": "6b3462c126cc48420c2e1d2a0c3d942a99aab36b"
+    },
+    {
+      "paperId": "5c13f1dccef410503409bef02478d9e8654b31f5"
+    },
+    {
+      "paperId": "ae3992d7d1d56f3270fbfc6b1d15a0242c9549ca"
+    },
+    {
+      "paperId": "1631c1ecb169040782e72336bc3fd1ef3830ca63"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

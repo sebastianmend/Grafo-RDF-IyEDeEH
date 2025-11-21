@@ -1,0 +1,42 @@
+{
+  "paperId": "4fe5bf0b2b7ee1cf0058be7070d574a61f118803",
+  "externalIds": {
+    "MAG": "1522834307",
+    "DOI": "10.1007/978-1-84996-468-5",
+    "CorpusId": 109430002
+  },
+  "url": "https://www.semanticscholar.org/paper/4fe5bf0b2b7ee1cf0058be7070d574a61f118803",
+  "title": "Mechatronics and Intelligent Systems for Off-road Vehicles",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 44,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-1-84996-468-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-1-84996-468-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "97697080",
+      "name": "Francisco Rovira Ms"
+    },
+    {
+      "authorId": "46324711",
+      "name": "Qin Zhang"
+    },
+    {
+      "authorId": "145816159",
+      "name": "A. Hansen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,55 @@
+{
+  "paperId": "97939086f41797cad0f942ab859e2b5541e53367",
+  "externalIds": {
+    "DBLP": "conf/larc/DiazPGMMB15",
+    "MAG": "2548849433",
+    "DOI": "10.1109/LARS-SBR.2015.28",
+    "CorpusId": 16583097
+  },
+  "url": "https://www.semanticscholar.org/paper/97939086f41797cad0f942ab859e2b5541e53367",
+  "title": "Mirã Rover Characterization",
+  "venue": "2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR)",
+  "year": 2015,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LARS-SBR.2015.28?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LARS-SBR.2015.28, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2243862168",
+      "name": "John Faber Archila Diaz"
+    },
+    {
+      "authorId": "2263236144",
+      "name": "Ingrid Lorena Argote Pedraza"
+    },
+    {
+      "authorId": "2242895932",
+      "name": "Jose Luis Saavedra Guerra"
+    },
+    {
+      "authorId": "89328208",
+      "name": "D. Milori"
+    },
+    {
+      "authorId": "9207229",
+      "name": "D. V. Magalhães"
+    },
+    {
+      "authorId": "143926646",
+      "name": "M. Becker"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

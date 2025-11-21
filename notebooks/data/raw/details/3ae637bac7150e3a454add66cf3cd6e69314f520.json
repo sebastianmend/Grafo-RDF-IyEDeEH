@@ -1,0 +1,43 @@
+{
+  "paperId": "3ae637bac7150e3a454add66cf3cd6e69314f520",
+  "externalIds": {
+    "MAG": "2536785484",
+    "DOI": "10.1109/TISC.2011.6169090",
+    "CorpusId": 18819550
+  },
+  "url": "https://www.semanticscholar.org/paper/3ae637bac7150e3a454add66cf3cd6e69314f520",
+  "title": "A survey on Zigbee based wireless sensor networks in agriculture",
+  "venue": "3rd International Conference on Trendz in Information Sciences & Computing (TISC2011)",
+  "year": 2011,
+  "citationCount": 106,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TISC.2011.6169090?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TISC.2011.6169090, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49516171",
+      "name": "T. Kalaivani"
+    },
+    {
+      "authorId": "2565081",
+      "name": "A. Allirani"
+    },
+    {
+      "authorId": "39188217",
+      "name": "P. Priya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

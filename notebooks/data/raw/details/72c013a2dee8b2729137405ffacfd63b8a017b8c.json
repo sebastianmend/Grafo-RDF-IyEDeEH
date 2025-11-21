@@ -1,0 +1,38 @@
+{
+  "paperId": "72c013a2dee8b2729137405ffacfd63b8a017b8c",
+  "externalIds": {
+    "MAG": "2041071491",
+    "DOI": "10.15764/EPI.2015.01003",
+    "CorpusId": 110410064
+  },
+  "url": "https://www.semanticscholar.org/paper/72c013a2dee8b2729137405ffacfd63b8a017b8c",
+  "title": "Probing Agricultural Engineering Education in Pakistan a Changing World",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15764/EPI.2015.01003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15764/EPI.2015.01003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145862579",
+      "name": "A. Tahir"
+    },
+    {
+      "authorId": "97755669",
+      "name": "A. Mohamed"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

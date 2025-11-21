@@ -1,0 +1,37 @@
+{
+  "paperId": "5cd22d9f14fd1ee87e08293eb15909296ec40c5a",
+  "externalIds": {
+    "MAG": "2044892789",
+    "DBLP": "conf/amcc/Roy14",
+    "DOI": "10.1109/ACC.2014.6858834",
+    "CorpusId": 9410438
+  },
+  "url": "https://www.semanticscholar.org/paper/5cd22d9f14fd1ee87e08293eb15909296ec40c5a",
+  "title": "Feedback control of soil moisture in precision-agriculture systems: Incorporating stochastic weather forecasts",
+  "venue": "American Control Conference",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACC.2014.6858834?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACC.2014.6858834, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1712633",
+      "name": "Sandip Roy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

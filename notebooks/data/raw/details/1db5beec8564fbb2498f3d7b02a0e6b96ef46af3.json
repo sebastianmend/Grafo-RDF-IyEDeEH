@@ -1,0 +1,42 @@
+{
+  "paperId": "1db5beec8564fbb2498f3d7b02a0e6b96ef46af3",
+  "externalIds": {
+    "MAG": "2078688050",
+    "DOI": "10.1109/ICCCENG.2010.5560415",
+    "CorpusId": 2227182
+  },
+  "url": "https://www.semanticscholar.org/paper/1db5beec8564fbb2498f3d7b02a0e6b96ef46af3",
+  "title": "Paper Title: Advance emission control & precision agriculture; CO2 sequestration using Algae Integrated Management System",
+  "venue": "International Conference on Electrical Engineering, Computing Science and Automatic Control",
+  "year": 2010,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCCENG.2010.5560415?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCCENG.2010.5560415, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31263082",
+      "name": "S. Alwi"
+    },
+    {
+      "authorId": "2055812393",
+      "name": "R. A. Rahman"
+    },
+    {
+      "authorId": "114570339",
+      "name": "M. Yahya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

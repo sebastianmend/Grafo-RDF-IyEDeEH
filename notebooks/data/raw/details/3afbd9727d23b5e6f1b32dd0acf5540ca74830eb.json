@@ -1,0 +1,43 @@
+{
+  "paperId": "3afbd9727d23b5e6f1b32dd0acf5540ca74830eb",
+  "externalIds": {
+    "DBLP": "conf/whispers/BackhausBS11",
+    "MAG": "2010806324",
+    "DOI": "10.1109/WHISPERS.2011.6080898",
+    "CorpusId": 17489976
+  },
+  "url": "https://www.semanticscholar.org/paper/3afbd9727d23b5e6f1b32dd0acf5540ca74830eb",
+  "title": "Robust classification of the nutrition state in crop plants by hyperspectral imaging and artificial neural networks",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2011,
+  "citationCount": 38,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2011.6080898?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2011.6080898, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1772782",
+      "name": "Andreas Backhaus"
+    },
+    {
+      "authorId": "2503549",
+      "name": "Felix Bollenbeck"
+    },
+    {
+      "authorId": "1766728",
+      "name": "U. Seiffert"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,76 @@
+{
+  "paperId": "9fdcb8ce80d891e2c0c978bd215d9cb7987e4624",
+  "externalIds": {
+    "DBLP": "conf/iccd/ViguierLSVBPBAB15",
+    "MAG": "2210012979",
+    "DOI": "10.1109/ICCD.2015.7357187",
+    "CorpusId": 10864632
+  },
+  "url": "https://www.semanticscholar.org/paper/9fdcb8ce80d891e2c0c978bd215d9cb7987e4624",
+  "title": "Resilient mobile cognition: Algorithms, innovations, and architectures",
+  "venue": "ICCD",
+  "year": 2015,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCD.2015.7357187?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCD.2015.7357187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3391414",
+      "name": "R. Viguier"
+    },
+    {
+      "authorId": "1955556",
+      "name": "Chung-Ching Lin"
+    },
+    {
+      "authorId": "144403074",
+      "name": "Karthik Swaminathan"
+    },
+    {
+      "authorId": "34336654",
+      "name": "Augusto J. Vega"
+    },
+    {
+      "authorId": "2997406",
+      "name": "A. Buyuktosunoglu"
+    },
+    {
+      "authorId": "1767897",
+      "name": "Sharath Pankanti"
+    },
+    {
+      "authorId": "144435718",
+      "name": "P. Bose"
+    },
+    {
+      "authorId": "2390762",
+      "name": "H. Akbarpour"
+    },
+    {
+      "authorId": "2459290",
+      "name": "F. Bunyak"
+    },
+    {
+      "authorId": "1921638",
+      "name": "K. Palaniappan"
+    },
+    {
+      "authorId": "7691720",
+      "name": "G. Seetharaman"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

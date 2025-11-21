@@ -1,0 +1,48 @@
+{
+  "paperId": "877fa743d9cbf41946c90e90f31326a58bcce957",
+  "externalIds": {
+    "MAG": "1980829193",
+    "DBLP": "conf/icdip/TomczakRKM12",
+    "DOI": "10.1117/12.946047",
+    "CorpusId": 39500752
+  },
+  "url": "https://www.semanticscholar.org/paper/877fa743d9cbf41946c90e90f31326a58bcce957",
+  "title": "Autonomous flying system for grasslands and fields monitoring",
+  "venue": "CiiT international journal of digital image processing",
+  "year": 2012,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.946047?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.946047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48060876",
+      "name": "R. Tomczak"
+    },
+    {
+      "authorId": "2097464121",
+      "name": "J. Rudowicz-Nawrocka"
+    },
+    {
+      "authorId": "32316747",
+      "name": "S. Kujawa"
+    },
+    {
+      "authorId": "38370748",
+      "name": "W. Mueller"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

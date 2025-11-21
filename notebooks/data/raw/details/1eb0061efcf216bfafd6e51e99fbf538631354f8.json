@@ -1,0 +1,48 @@
+{
+  "paperId": "1eb0061efcf216bfafd6e51e99fbf538631354f8",
+  "externalIds": {
+    "MAG": "2151881447",
+    "DBLP": "journals/staeors/RichterAVD11",
+    "DOI": "10.1109/JSTARS.2010.2091492",
+    "CorpusId": 20851059
+  },
+  "url": "https://www.semanticscholar.org/paper/1eb0061efcf216bfafd6e51e99fbf538631354f8",
+  "title": "Evaluation of Sentinel-2 Spectral Sampling for Radiative Transfer Model Based LAI Estimation of Wheat, Sugar Beet, and Maize",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2011,
+  "citationCount": 100,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2010.2091492?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2010.2091492, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145283967",
+      "name": "K. Richter"
+    },
+    {
+      "authorId": "1823077",
+      "name": "C. Atzberger"
+    },
+    {
+      "authorId": "32096877",
+      "name": "F. Vuolo"
+    },
+    {
+      "authorId": "1410783897",
+      "name": "G. D’Urso"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

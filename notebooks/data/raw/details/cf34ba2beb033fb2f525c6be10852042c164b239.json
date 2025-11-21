@@ -1,0 +1,36 @@
+{
+  "paperId": "cf34ba2beb033fb2f525c6be10852042c164b239",
+  "externalIds": {
+    "MAG": "2246281692",
+    "DOI": "10.52151/jae2010471.1401",
+    "CorpusId": 113044056
+  },
+  "url": "https://www.semanticscholar.org/paper/cf34ba2beb033fb2f525c6be10852042c164b239",
+  "title": "Effect of Subsurface Drip System in Nitrate Leaching",
+  "venue": "Journal of Agricultural Engineering",
+  "year": 2010,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.52151/jae2010471.1401?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52151/jae2010471.1401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49475704",
+      "name": "N. Patel"
+    },
+    {
+      "authorId": "4378589",
+      "name": "T. Rajput"
+    }
+  ],
+  "abstract": "Fertigation enables the application of soluble fertilizers and other chemicals along with irrigation water, uniformly and more efficiently. Improved water efficiency under drip irrigation, by reducing percolation and evaporation losses, provides for environmentally safer fertilizer application through the irrigation water. The overall problem is to identify economically viable practices that offer a significant reduction of NO3-N losses through leaching, which also fit in the farming systems practiced under a particular soil type and set of climate conditions. An experiment was conducted at Precision Farming Development Centre, Water Technology Centre, Indian Agricultural Research Institute, New Delhi to study the leaching of nitrate from the root zone of potato under surface and subsurface drip irrigation system. The study consisted of 2 types of drip system (surface and surface drip) as main treatments and 3 levels of irrigation including 100% crop evapotranspiration, 80% of crop evapotranspiration and 60 % of crop evapotranspiration as sub-treatments. Direct correlation was found between the amount of irrigation water and nitrate leaching. Reduction of amount of irrigation water to the tune of 40% decreased the nitrate leaching from 30% to 10 per cent. It was observed that by changing the position of water source from surface to subsurface, the nitrate leaching decreased by 12-20%, and thus subsurface drip (10 cm depth of drip tape) was recommended in potato crop to get higher yield with minimum leaching of soil nitrate-nitrogen.",
+  "references": null
+}

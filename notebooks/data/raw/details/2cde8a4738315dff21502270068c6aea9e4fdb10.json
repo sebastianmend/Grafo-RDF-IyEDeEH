@@ -1,0 +1,347 @@
+{
+  "paperId": "2cde8a4738315dff21502270068c6aea9e4fdb10",
+  "externalIds": {
+    "MAG": "2283484641",
+    "DOI": "10.11606/D.11.2015.TDE-15102015-152045",
+    "CorpusId": 170242950
+  },
+  "url": "https://www.semanticscholar.org/paper/2cde8a4738315dff21502270068c6aea9e4fdb10",
+  "title": "Primeira aproximação da biblioteca espectral de solos do Brasil: caracterização de espectros de solos e quantificação de atributos",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.11606/d.11.2015.tde-15102015-152045",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11606/D.11.2015.TDE-15102015-152045?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11606/D.11.2015.TDE-15102015-152045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2111955833",
+      "name": "Marcus Vinicius Sato"
+    }
+  ],
+  "abstract": "First approach of Brazilian soil spectral library: soil spectral characterization and quantification of attributes Brazil is a significant country in food production and to improve efficiency of agriculture is necessary to be planned. Soil is the basis for agriculture, which is relevant for food safety and environmental issues. Mapping and soil management are strategies for planned agriculture and can be assisted by remote sensing. Spectroscopy techniques are faster, less honorable and less polluting when compared to traditional methods. Soils Spectral Library (SSL) composes a diverse and varied database with soil spectra information. Through SSL soil types can be characterize and soil attributes estimated. SSL besides contribute to the soil survey, mapping and soil management it can support precision agriculture, soil attribute modeling, soil contaminated monitoring, communication between the soil scientists and soil conservation. There are SSL worldwide with soil samples from continents, such as Australia, Europe, Asia, Africa and the Americas, but there are few Brazilian samples representative. Thus, the objectives of this study were first to create a Brazilian Soil Spectral Library (BSSB), second to characterize soil spectra of BESB soil classes and finally to quantify soil properties (clay and sand). The BSSL bank received samples from 17 collaborators and institutions from various Brazilian states, including Rio Grande do Sul, Santa Catarina, São Paulo, Minas Gerais, Rio de Janeiro, Mato Grosso do Sul, Mato Grosso, Goiás, Maranhão, Pernambuco, Rio Grande do Norte, Ceará, Paraíba, Pará, Roraima, Amazonas and Distrito Federal. The Spectral Library has 19,537 soil samples from auger and profiles. Spectra of several Brazilian soil classes were characterized. Soil profiles and their horizons had their representative spectra characterized with multi-depth analysis. Quantification model of soil attributes was based on partial least squares regression (PLSR). Prediction models were obtained to quantify clay (calibration R2 = 0,82; RMSE = 46,75 g/kg, validaçãp R2 = 0,83 ; RMSE = 46,75 g/kg; RPD = 4,57) and sand (calibration R2 = 0,81; RMSE = 60,9 g/kg, validação R2 = 0,79, RMSE = 60,85 g/kg; RPD = 4,16). In addition, we distinguish different soil classes by Principal Component Analysis (PCA). Organossolos, Latossolos, Argissolos and Nitossolos were well separated. BESB assembly assisted to establish spectral patterns of land and it could improve advancing attributes techniques measurement.",
+  "references": [
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "12a42e0465e31aa8365cd5177ea63d945b1dbd2c"
+    },
+    {
+      "paperId": "9096d84487546b7457170db3b3e3c55b0cff0465"
+    },
+    {
+      "paperId": "00f6da4ceddc84e80fb2dff193151521da0ce84c"
+    },
+    {
+      "paperId": "601ea8eeb293e9c5d9075d57690b2ee1cb5805f7"
+    },
+    {
+      "paperId": "7b60f56c76605e459530b30f0ccfa369163b3f5d"
+    },
+    {
+      "paperId": "3e89df9a5969113f8c923d0c2454deb2e162aa0b"
+    },
+    {
+      "paperId": "41367d4591aca76193c5190613d5dd93dc3c2469"
+    },
+    {
+      "paperId": "4064bfdf119737385c7da03cde80b92e2068d3cd"
+    },
+    {
+      "paperId": "38bb9ffbb4f89fb4b01ca01a2e2969911f5daad1"
+    },
+    {
+      "paperId": "501c39de61734ea9ec4c40564f7dd368a7118de6"
+    },
+    {
+      "paperId": "2a9ef98194cc60f234f53bedf63ded22a1dfd2cf"
+    },
+    {
+      "paperId": "a452c3edbd58807160c7eafcf71066525cb683e9"
+    },
+    {
+      "paperId": "3f58df7318d8d9d2013274ed8613af32dda90aa0"
+    },
+    {
+      "paperId": "8c6f9f93586efdb34fbeeb3ca08a84774927d908"
+    },
+    {
+      "paperId": "8fd1a9664fa3ee2be30105bf1596854f3bc214c4"
+    },
+    {
+      "paperId": "339df3ec5db67ac945f9a0a8c55a0d56877f45a6"
+    },
+    {
+      "paperId": "3d13e0ec6dd023e355621a3f4ba0a2482e4c1096"
+    },
+    {
+      "paperId": "39e143b90241897e4c57c778ad295acefb83a294"
+    },
+    {
+      "paperId": "8408fda1257c6c74135342ad3610c62ab1958b7f"
+    },
+    {
+      "paperId": "c17c7ab09c7a6bb9cdbbede7f2479030c0ab3d01"
+    },
+    {
+      "paperId": "601c7f93ec7e0229bc4de405e9ad65a96f8e2ed9"
+    },
+    {
+      "paperId": "2140caf084d1641660a5d78ca8c94db3277f6367"
+    },
+    {
+      "paperId": "6997a6995dfd5df7c3aad46f10a6e9e9f8ef73f1"
+    },
+    {
+      "paperId": "a835efde88de164b0ba5d0f88488daa2c7ad61ae"
+    },
+    {
+      "paperId": "53e4b13cb789a6d2699e90c2b9e684962a8e7275"
+    },
+    {
+      "paperId": "489915ce3e1772a7bd9c703756d7298b6e43b1de"
+    },
+    {
+      "paperId": "3064cd6f88d0f1f1f2ff83fb40cda2455edce857"
+    },
+    {
+      "paperId": "f290d2a92ae4558575fee35073af50d1779a4655"
+    },
+    {
+      "paperId": "5f1d43e93713fa161d4af6f3273843c74a23cef9"
+    },
+    {
+      "paperId": "896cb73bf5b0eb850d8742454c300a235d39e9dc"
+    },
+    {
+      "paperId": "77c20ce87a14717cf6c0151f1abd35b67d7035e8"
+    },
+    {
+      "paperId": "af456324689d5ddd671ee66aef4e5f92db15cbbd"
+    },
+    {
+      "paperId": "05731dbfcad9c743a9d02cad0598e69c9f734691"
+    },
+    {
+      "paperId": "2c35d0e7a550b39f6611f6fde957574f50dd3ad3"
+    },
+    {
+      "paperId": "0445b7bcafe19e94324e6b14eda677cdba77110f"
+    },
+    {
+      "paperId": "03c3d7f3654f58fb7b783d1d94b54e7519677e4e"
+    },
+    {
+      "paperId": "75c111167e7379f9e24b17a29703a69780885b9b"
+    },
+    {
+      "paperId": "0d50e89b138d9ccdd8b28846aba3a7270478687b"
+    },
+    {
+      "paperId": "785f1baeed9b4ef29f4cadc41eb9d0d739735c0f"
+    },
+    {
+      "paperId": "13f3dfd6867e72f5f9723d2a95fa1afef560bc5d"
+    },
+    {
+      "paperId": "5680d3a6cf280e54289214e7e38de6097bcb699f"
+    },
+    {
+      "paperId": "27065700a9c53c7570d4af7f3c950d6239d17337"
+    },
+    {
+      "paperId": "d0cb932afc23eea099e8ad2ba65cae46a8b983b9"
+    },
+    {
+      "paperId": "fef1f4bcdfaee61914e9168257c700d0cecc7c1d"
+    },
+    {
+      "paperId": "8a20eeb30de0cef48cf90370058a2287fc3729c8"
+    },
+    {
+      "paperId": "f7bc07e3bd0af179458a5ab535087055f226b2d4"
+    },
+    {
+      "paperId": "9b21f6979ec3c868aa7bcf19a15367db2649c7cf"
+    },
+    {
+      "paperId": "b102fe0b80ca1b9b065d9b68f8e38b94e43a5690"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "bee8a0ecca51ece1952444280087f1b9f3a1949f"
+    },
+    {
+      "paperId": "2c1f66949b8a26dd92cf46f7556fc7592e645fc8"
+    },
+    {
+      "paperId": "68ddced5034e269e42d927fd38bbd1278e584f89"
+    },
+    {
+      "paperId": "e48e0d7b096c70b8354fdd7110dd8755122728f7"
+    },
+    {
+      "paperId": "5f3cf66ff826b039e50c66b348f12952de8b199d"
+    },
+    {
+      "paperId": "bf609874379326b796af252e605959190c93150a"
+    },
+    {
+      "paperId": "0c256bf7bbaf92b05ed62aad754ee93b78c8c471"
+    },
+    {
+      "paperId": "7cba0f173c7138f86ebd8cb6008499fdb19e020f"
+    },
+    {
+      "paperId": "874c156be05a87e9b7160c48527711d3b3f252b8"
+    },
+    {
+      "paperId": "319f3354b37bd1c5c51e67b3c53b1291517f486c"
+    },
+    {
+      "paperId": "47eb3dfda969a023d82ba3e3ff90c9b95ad9c6b8"
+    },
+    {
+      "paperId": "75a563d374eef1efcea31da0bf561f21d9876579"
+    },
+    {
+      "paperId": "2012a4646b1947209bf92b7ba45490c43482c0de"
+    },
+    {
+      "paperId": "0ca4a84c598647710a311af783b8ebc313af301a"
+    },
+    {
+      "paperId": "3c519db0023de6cedca31133bdc36cba6bda0be0"
+    },
+    {
+      "paperId": "4393d9853273e3f5771ce7105402d5f2a958ca03"
+    },
+    {
+      "paperId": "01f24c9b673c23d542d18f7749b19f7123cf9493"
+    },
+    {
+      "paperId": "23f58182c34d6c2b5b7f5b2989780468ca006682"
+    },
+    {
+      "paperId": "f3a80bb13640ec26826d3a9e03362467bb835d2c"
+    },
+    {
+      "paperId": "b2364d1ba5eb90c562a2b98102c423c230abf801"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ec02a612e98f198838cf51eef46467386c0ca5c3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "44d77e46acfdf2ef248f2b2e438e62a673d2d0ef"
+    },
+    {
+      "paperId": "b47d4fe6b10f91967d3881c33cb405e3f5a82cfe"
+    },
+    {
+      "paperId": "ebd989de20f93e956857df4ebcb8b6f406d8ee7e"
+    },
+    {
+      "paperId": "7473c3c924cab80d3baf6e83e24ccda2f72675a5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dc3bfbd1a876f843f3c39b5f0a0a693121bd98f2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7040120d68b15c2714bce4a447489d12e87754f0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a2aace6bcedb318317642c9a9fd71b2b6400f77d"
+    },
+    {
+      "paperId": "e18e854ba3e1919ee20d42326f9ed178942df791"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2fb3f925fce142dbe6cd72ba693c67e6f9640cc0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e87b25e4cc937a0433ee4155fdd1c69e6d0e4243"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

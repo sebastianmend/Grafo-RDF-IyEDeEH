@@ -1,0 +1,139 @@
+{
+  "paperId": "ba72fd6fdfc4ed546f014ad26aabe62628281099",
+  "externalIds": {
+    "PubMedCentral": "4541901",
+    "MAG": "1559397465",
+    "DBLP": "journals/sensors/HernandezMCK15",
+    "DOI": "10.3390/s150716688",
+    "CorpusId": 17440213,
+    "PubMed": "26184205"
+  },
+  "url": "https://www.semanticscholar.org/paper/ba72fd6fdfc4ed546f014ad26aabe62628281099",
+  "title": "Towards the Development of a Smart Flying Sensor: Illustration in the Field of Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 35,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/7/16688/pdf?version=1436518042",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4541901, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144874374",
+      "name": "Andres Hernandez"
+    },
+    {
+      "authorId": "8671971",
+      "name": "Harold Murcia"
+    },
+    {
+      "authorId": "2346613",
+      "name": "C. Copot"
+    },
+    {
+      "authorId": "1733864",
+      "name": "R. Keyser"
+    }
+  ],
+  "abstract": "Sensing is an important element to quantify productivity, product quality and to make decisions. Applications, such as mapping, surveillance, exploration and precision agriculture, require a reliable platform for remote sensing. This paper presents the first steps towards the development of a smart flying sensor based on an unmanned aerial vehicle (UAV). The concept of smart remote sensing is illustrated and its performance tested for the task of mapping the volume of grain inside a trailer during forage harvesting. Novelty lies in: (1) the development of a position-estimation method with time delay compensation based on inertial measurement unit (IMU) sensors and image processing; (2) a method to build a 3D map using information obtained from a regular camera; and (3) the design and implementation of a path-following control algorithm using model predictive control (MPC). Experimental results on a lab-scale system validate the effectiveness of the proposed methodology.",
+  "references": [
+    {
+      "paperId": "0a49881a582fd7979b6df6e54e41d418fe73dc0c"
+    },
+    {
+      "paperId": "6b3f2a4b469501f807068fa9294763a87d0187b6"
+    },
+    {
+      "paperId": "4c4f615d4538d5e39d237a1279f2c6ab4d348743"
+    },
+    {
+      "paperId": "029c5841b3fc010f55b604d7d1c541adb0e4a782"
+    },
+    {
+      "paperId": "6e4f6889b1ee90d9ce7d6b197073f5f7e09b632e"
+    },
+    {
+      "paperId": "9a964b15134be1a2fc30e205d5b96f2592090407"
+    },
+    {
+      "paperId": "3ef4b40bb0affa5c6d3a82904966fe8baf71f734"
+    },
+    {
+      "paperId": "13974c88a0c4d055f78897bdbbf9cc54f89ea046"
+    },
+    {
+      "paperId": "945bb224dc2325ac546e005b625593683e67da53"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "4022fb646dc463c535cf86e15558ccf0dfa48284"
+    },
+    {
+      "paperId": "d094c5fada80ae116443d1be03870cbd107ff277"
+    },
+    {
+      "paperId": "cdf30c94995275dfd415c7e921150fb7df2868ff"
+    },
+    {
+      "paperId": "d90a33079a401fcc01d31c7f88ffaa7c51fc5c92"
+    },
+    {
+      "paperId": "0b7eedb14fde5223817bf23f7a523a970994e5b1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1625b32fcf0a3d0c5387415c818af69a4c8538b8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e729a5eb0d313187bce9899be96c0d415efdb421"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0005ccb0de91e95763906456b6dc3329a96b3e06"
+    },
+    {
+      "paperId": "58fe2fa01db848f3a89dcb697a1b69ec8fa31ab0"
+    },
+    {
+      "paperId": "37b56f2db56c5f344c11479aff14d5bcdbaa652b"
+    },
+    {
+      "paperId": "2b94d72a5088af674743caefe9fe04078db133ca"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "82294d24f74dbd43cc97a5821f822ba36152d872"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

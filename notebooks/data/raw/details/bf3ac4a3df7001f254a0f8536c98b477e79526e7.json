@@ -1,0 +1,34 @@
+{
+  "paperId": "bf3ac4a3df7001f254a0f8536c98b477e79526e7",
+  "externalIds": {
+    "MAG": "2054394797",
+    "DOI": "10.1088/1755-1315/20/1/011001",
+    "CorpusId": 129709912
+  },
+  "url": "https://www.semanticscholar.org/paper/bf3ac4a3df7001f254a0f8536c98b477e79526e7",
+  "title": "7th IGRSM International Remote Sensing & GIS Conference and Exhibition",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/20/1/011001",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/20/1/011001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/20/1/011001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "73116108",
+      "name": "A. Shariff"
+    }
+  ],
+  "abstract": "This proceedings consists of the peer-reviewed papers from the 7th IGRSM International Conference and Exhibition on Remote Sensing & GIS (IGRSM 2014), which was held on 21–22 April 2014 at Berjaya Times Square Hotel, Kuala Lumpur, Malaysia. The conference, with the theme Geospatial Innovation for Nation Building was aimed at disseminating knowledge, and sharing expertise and experiences in geospatial sciences in all aspects of applications. It also aimed to build linkages between local and international professionals in this field with industries. Highlights of the conference included: Officiation by Y B Datuk Dr Abu Bakar bin Mohamad Diah, Deputy Minister of Minister of Science, Technology & Innovation Keynote presentations by: Associate Professor Dr Francis Harvey, Chair of the Geographic Information Science Commission at the International Geographical Union (IGU) and Director of U-Spatial, University of Minnesota, US: The Next Age of Discovery and a Future in a Post-GIS World. Professor Dr Naoshi Kondo, Bio-Sensing Engineering, University of Kyoto, Japan: Mobile Fruit Grading Machine for Precision Agriculture. Datuk Ir Hj Ahmad Jamalluddin bin Shaaban, Director-General, National Hydraulic Research Institute of Malaysia (NAHRIM), Malaysia: Remote Sensing & GIS in Climate Change Analyses. Oral and poster presentations from 69 speakers, from both Malaysia (35) and abroad (34), covering areas of water resources management, urban sprawl & social mobility, agriculture, land use/cover mapping, infrastructure planning, disaster management, technology trends, environmental monitoring, atmospheric/temperature monitoring, and space applications for the environment. Post-conference workshops on: Space Applications for Environment (SAFE), which was be organised by the Japan Aerospace Exploration Agency (JAXA) Global Positioning System (GPS) Receiver Evaluation Using GPS Simulation, which was be organised by the Science & Technology Research Institute for Defence (STRIDE), and sponsored by RFI Technologies Sdn. Bhd. and Aeroflex Inc. Two awards were presented by Dr Noordin Ahmad, Director-General of the National Space Agency during the conference's closing ceremony: Best Paper Award: Dr Rizatus Shofiyati, Indonesian Center for Agricultural Land Resources Research and Development (ICALRD), Indonesia: Indonesian Drought Monitoring from Space. A Report of SAFE Activity: Assessment of Drought Impact on Rice Production in Indonesia by Satellite Remote Sensing and Dissemination with Web-GIS Best Student Paper Award: Rosnani Rahman, Space Science Centre (ANGKASA), Institute of Climate Change, Universiti Kebangsaan Malaysia (UKM), Malaysia: Monitoring the Variability of Precipitable Water Vapor Over the Klang Valley, Malaysia During Flash Flood The success of the IGRSM 2014 was due to commitments of many: authors, keynote speakers, session chairpersons, the organising and technical programme committees, student volunteers from Universiti Putra Malaysia (UPM), and many others of various roles. We acknowledge the sponsors of IGRSM 2014, namely Antaragrafik Systems Sdn. Bhd. and Geospatial Media and Communications Sdn. Bhd. We also thank all exhibitors and contributors: E J Motiwalla, Fajar Saintifik Sdn. Bhd., Bandwork GPS Solutions Sdn. Bhd., Tenaga Nasional Bhd., TSKAY Technology Sdn. Bhd., Geo Spatial Solutions Sdn. Bhd. and Accutac Sdn. Bhd. Associate Professor Sr Dr Abdul Rashid Mohamed Shariff Chairman 7th IGRSM International Remote Sensing & GIS Conference and Exhibition (IGRSM2014) President Institution of Geospatial and Remote Sensing Malaysia (IGRSM), 2012–2014",
+  "references": []
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "43a6a0a086c3806ef46186cf218ece00818e1f3e",
+  "externalIds": {
+    "DBLP": "conf/ifip12/ZhuangW10",
+    "MAG": "1486983513",
+    "DOI": "10.1007/978-3-642-18336-2_42",
+    "CorpusId": 39719028
+  },
+  "url": "https://www.semanticscholar.org/paper/43a6a0a086c3806ef46186cf218ece00818e1f3e",
+  "title": "Research on Farmland Information Collecting and Processing Technology Based on DGPS",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-18336-2_42.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18336-2_42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18336-2_42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2284635",
+      "name": "W. Zhuang"
+    },
+    {
+      "authorId": "47074042",
+      "name": "C. Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

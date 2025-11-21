@@ -1,0 +1,57 @@
+{
+  "paperId": "3fd223978d2b4dc7e0e35421630d40993ce3d70d",
+  "externalIds": {
+    "MAG": "1986095798",
+    "DBLP": "conf/icsai/JiaoSKZQY14",
+    "DOI": "10.1109/ICSAI.2014.7009299",
+    "CorpusId": 16882913
+  },
+  "url": "https://www.semanticscholar.org/paper/3fd223978d2b4dc7e0e35421630d40993ce3d70d",
+  "title": "A sliding parameter estimation method based on UKF for agricultural tracked robot",
+  "venue": "International Conference on Systems and Informatics",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSAI.2014.7009299?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSAI.2014.7009299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1490933767",
+      "name": "Jun Jiao"
+    },
+    {
+      "authorId": "144622643",
+      "name": "Li Sun"
+    },
+    {
+      "authorId": "144364241",
+      "name": "W. Kong"
+    },
+    {
+      "authorId": "2108399077",
+      "name": "Youhua Zhang"
+    },
+    {
+      "authorId": "2056923580",
+      "name": "Yan Qiao"
+    },
+    {
+      "authorId": "2117730630",
+      "name": "Chenchen Yuan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

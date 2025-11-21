@@ -1,0 +1,71 @@
+{
+  "paperId": "a58ed64d2403b3fb655eb56cb342ab6e2e58b250",
+  "externalIds": {
+    "MAG": "91717352",
+    "DBLP": "conf/acivs/ReisMPCBSVBFB11",
+    "DOI": "10.1007/978-3-642-23687-7_9",
+    "CorpusId": 22130415
+  },
+  "url": "https://www.semanticscholar.org/paper/a58ed64d2403b3fb655eb56cb342ab6e2e58b250",
+  "title": "A Low-Cost System to Detect Bunches of Grapes in Natural Environment from Color Images",
+  "venue": "Advanced Concepts for Intelligent Vision Systems Conference",
+  "year": 2011,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-23687-7_9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-23687-7_9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145620048",
+      "name": "M. Reis"
+    },
+    {
+      "authorId": "145104644",
+      "name": "R. Morais"
+    },
+    {
+      "authorId": "153805808",
+      "name": "Carlos S. Pereira"
+    },
+    {
+      "authorId": "1915155",
+      "name": "Olga Contente"
+    },
+    {
+      "authorId": "2271321",
+      "name": "M. Bacelar"
+    },
+    {
+      "authorId": "2680842",
+      "name": "S. Soares"
+    },
+    {
+      "authorId": "93474037",
+      "name": "A. Valente"
+    },
+    {
+      "authorId": "152375893",
+      "name": "José Baptista"
+    },
+    {
+      "authorId": "2054689833",
+      "name": "P. J. Ferreira"
+    },
+    {
+      "authorId": "1398477959",
+      "name": "J. Bulas-Cruz"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

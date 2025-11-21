@@ -1,0 +1,229 @@
+{
+  "paperId": "a4bbf5b543c93580512ef8b29b09de8a113dcf16",
+  "externalIds": {
+    "MAG": "2232352523",
+    "DBLP": "journals/corr/TurenneP15",
+    "ArXiv": "1504.06078",
+    "CorpusId": 12057965
+  },
+  "url": "https://www.semanticscholar.org/paper/a4bbf5b543c93580512ef8b29b09de8a113dcf16",
+  "title": "x.ent: R Package for Entities and Relations Extraction based on Unsupervised Learning and Document Structure",
+  "venue": "arXiv.org",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1504.06078, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2139021",
+      "name": "Nicolas Turenne"
+    },
+    {
+      "authorId": "2201333",
+      "name": "T. T. Phan"
+    }
+  ],
+  "abstract": "Relation extraction with accurate precision is still a challenge when processing full text databases. We propose an approach based on cooccurrence analysis in each document for which we used document organization to improve accuracy of relation extraction. This approach is implemented in a R package called \\emph{x.ent}. Another facet of extraction relies on use of extracted relation into a querying system for expert end-users. Two datasets had been used. One of them gets interest from specialists of epidemiology in plant health. For this dataset usage is dedicated to plant-disease exploration through agricultural information news. An open-data platform exploits exports from \\emph{x.ent} and is publicly available.",
+  "references": [
+    {
+      "paperId": "ba19d814f1b02664b4621d90a7e8e27c0eb22515"
+    },
+    {
+      "paperId": "f64732a012ae6cc1c28044736aa7a574f3527bc3"
+    },
+    {
+      "paperId": "645de831a6c7aef0dd5f13c85292a2514b7938eb"
+    },
+    {
+      "paperId": "8680ab01780ace38aec6c2c274360de6905bbf57"
+    },
+    {
+      "paperId": "d84b57362e2010f6f65357267df7e0157af30684"
+    },
+    {
+      "paperId": "8a599292762edd1e3dea8444b6af9aebb6b6ccea"
+    },
+    {
+      "paperId": "6554c67ac3dd2cc9955c0fc5a74b0da90b51ea1a"
+    },
+    {
+      "paperId": "78d0078bfc398008175faa2066ba833bca6883d7"
+    },
+    {
+      "paperId": "acecf78f5a6d5c1e4928e0531209a31bbda13860"
+    },
+    {
+      "paperId": "aebebb7b903786faf56ec4ae8795f7c0f5cfd8cf"
+    },
+    {
+      "paperId": "c33845bb059a355e2721102e711e6e61af6d8b31"
+    },
+    {
+      "paperId": "df264fb9055252487df7de0015a55e00b9bcacfc"
+    },
+    {
+      "paperId": "4f1db9a1d579bf5906a356801526613eebe464e1"
+    },
+    {
+      "paperId": "0f9c48eb93c08f16ccad3f5ddd7f2274b404bdf8"
+    },
+    {
+      "paperId": "f4ba954b0412773d047dc41231c733de0c1f4926"
+    },
+    {
+      "paperId": "608d05ed82782a37dde41e97d7da6a9fa4bb53f2"
+    },
+    {
+      "paperId": "bece46ed303f8eaef2affae2cba4e0aef51fe636"
+    },
+    {
+      "paperId": "cee045e890270abae65455667b292db355d53728"
+    },
+    {
+      "paperId": "9c7f4412b8f0310a91334aed79b8553b2ad70908"
+    },
+    {
+      "paperId": "dff2fdf9357fd1d42bd1da91f442522022c38753"
+    },
+    {
+      "paperId": "16bd1fbe3694173eda4ad4338a85f8288d19bf02"
+    },
+    {
+      "paperId": "22fb3b3b2bdf768dd435eedfc5ef5155d3e56b1a"
+    },
+    {
+      "paperId": "86c950f67216bf8ff3c8c98927b9035bd7d408f6"
+    },
+    {
+      "paperId": "92575a3c554353a27b2c0263ad7f8487d9102301"
+    },
+    {
+      "paperId": "e9292ba3230f01b9f6990362fdf06783b9347bf6"
+    },
+    {
+      "paperId": "97a3d56d74575aae5d563ab2a0438a25ffbb69ae"
+    },
+    {
+      "paperId": "fb486e03369a64de2d5b0df86ec0a7b55d3907db"
+    },
+    {
+      "paperId": "6fd398dcb4c0a20de0d10c7a30b36fa8e1b24ead"
+    },
+    {
+      "paperId": "bdc08721414c972ab451f8ef3ef39d63c741b324"
+    },
+    {
+      "paperId": "dbfd191afbbc8317577cbc44afe7156df546e143"
+    },
+    {
+      "paperId": "a6021735e8de4f32010c6313396432d99bbe2440"
+    },
+    {
+      "paperId": "844b266e71263913873dededf77b275f1cbfce1e"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "1ff387020e3672f74e40cfaaab46c2d12905ca35"
+    },
+    {
+      "paperId": "8bac25f38fdcba5bf4902e7bd6cb41f19fa4818e"
+    },
+    {
+      "paperId": "cc1a999d228236cf184c13e47b308dc391d21536"
+    },
+    {
+      "paperId": "149f5137d1c7e34764e1f4d4d7b97b8e6bdeda2a"
+    },
+    {
+      "paperId": "8ca9ff38bdde6882e7b0e7569e89cc506facacc0"
+    },
+    {
+      "paperId": "75288ecdeb29f093190c1a0130be2d24619238ed"
+    },
+    {
+      "paperId": "41a88a490d7ba9e383ecb16c4290083413a08258"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

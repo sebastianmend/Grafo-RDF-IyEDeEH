@@ -1,0 +1,40 @@
+{
+  "paperId": "81acffee430b6d52bb6f8c3cea136ccfb9ed3d14",
+  "externalIds": {
+    "DBLP": "conf/ifip12/YaoW11",
+    "MAG": "82921485",
+    "DOI": "10.1007/978-3-642-27278-3_23",
+    "CorpusId": 30170751
+  },
+  "url": "https://www.semanticscholar.org/paper/81acffee430b6d52bb6f8c3cea136ccfb9ed3d14",
+  "title": "A Research about the Application of Information Technology in the Precision Agriculture: Taking the Operating System of Shanghai Agriculture Economy as an Example",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-27278-3_23.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27278-3_23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27278-3_23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112202706",
+      "name": "Hong Yao"
+    },
+    {
+      "authorId": "2145820336",
+      "name": "Yong-xing Wu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

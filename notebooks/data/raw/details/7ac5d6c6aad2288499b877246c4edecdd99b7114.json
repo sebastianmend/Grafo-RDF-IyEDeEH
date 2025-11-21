@@ -1,0 +1,45 @@
+{
+  "paperId": "7ac5d6c6aad2288499b877246c4edecdd99b7114",
+  "externalIds": {
+    "MAG": "2050328750",
+    "DOI": "10.2134/jeq2013.01.0014",
+    "CorpusId": 22781397,
+    "PubMed": "24216353"
+  },
+  "url": "https://www.semanticscholar.org/paper/7ac5d6c6aad2288499b877246c4edecdd99b7114",
+  "title": "Review of the application of near-infrared spectroscopy technology to determine the chemical composition of animal manure.",
+  "venue": "Journal of Environmental Quality",
+  "year": 2013,
+  "citationCount": 35,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2134/jeq2013.01.0014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/jeq2013.01.0014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "11042634",
+      "name": "Long-jian Chen"
+    },
+    {
+      "authorId": "50052152",
+      "name": "L. Xing"
+    },
+    {
+      "authorId": "2892237",
+      "name": "Lujia Han"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

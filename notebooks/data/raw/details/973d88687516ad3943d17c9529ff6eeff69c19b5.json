@@ -1,0 +1,107 @@
+{
+  "paperId": "973d88687516ad3943d17c9529ff6eeff69c19b5",
+  "externalIds": {
+    "MAG": "2164206066",
+    "DOI": "10.5194/ISPRSARCHIVES-XL-7-W1-189-2013",
+    "CorpusId": 55450256
+  },
+  "url": "https://www.semanticscholar.org/paper/973d88687516ad3943d17c9529ff6eeff69c19b5",
+  "title": "DATA FUSION TECHNOLOGY OF MULTI-PLATFORM EARTH OBSERVATION ON AGRICULTURE",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://isprs-archives.copernicus.org/articles/XL-7-W1/189/2013/isprsarchives-XL-7-W1-189-2013.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRSARCHIVES-XL-7-W1-189-2013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRSARCHIVES-XL-7-W1-189-2013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2113721985",
+      "name": "W. Xie"
+    },
+    {
+      "authorId": "2149669533",
+      "name": "Y. Xue"
+    },
+    {
+      "authorId": "1783894",
+      "name": "L. Zhai"
+    },
+    {
+      "authorId": "2142682232",
+      "name": "H. Sang"
+    }
+  ],
+  "abstract": "Abstract. Earth observation is the gathering of information via remote sensing technologies supplemented by earth surveying techniques, encompassing the collection, analysis and presentation of data. Remote sensing technology is playing a key role on precision agriculture. From the point of view of remote sensing and photogrammetry field, this article first took an overview of its applications on agriculture throughout past 3 decades, analyzed the advantages and disadvantages of different kinds of remote sensing when applied on agriculture respectively, and then discussed the solution on different platform based remote sensing image and data fusion. Finally, the paper summarizes potential trends tending to broaden the precision agriculture application of remote sensing data fusion.",
+  "references": [
+    {
+      "paperId": "92593979bd152eadb3d316d68e74327a0adbc087"
+    },
+    {
+      "paperId": "744465f2e735d044cd36bd2013b965cc67a14c8e"
+    },
+    {
+      "paperId": "305ea890288888390d196125329c4b19545b9718"
+    },
+    {
+      "paperId": "f0ca7931f589efb788d47d10722e1a6e8105db91"
+    },
+    {
+      "paperId": "2a67bfe152130bc5419c95253cc2069eccfda362"
+    },
+    {
+      "paperId": "be9232cec0d3ed27c584f4f3c78d09e418413592"
+    },
+    {
+      "paperId": "3876501e480d235f1109c64f410353524bd23d98"
+    },
+    {
+      "paperId": "5952f0d711fe4bea8bc10e36532fe192678f9ad3"
+    },
+    {
+      "paperId": "f8a2c8b15b5337f2ddfba9651ea65ffbafb44427"
+    },
+    {
+      "paperId": "f65b1873ab399e5a62ab3031bc28faf0a5577545"
+    },
+    {
+      "paperId": "034136df671bca2f06e27d9f84888419fb7306c7"
+    },
+    {
+      "paperId": "bde306ea23f74a32783d1537cd334386e9710e73"
+    },
+    {
+      "paperId": "8f37305f9540241594317748bfe58ed2722a5f54"
+    },
+    {
+      "paperId": "c45ed395992b043d5130dc66a2a3975fdebc00fe"
+    },
+    {
+      "paperId": "01126afd0692b013a597cb8451549d7df08ec639"
+    },
+    {
+      "paperId": "410da8e51d4963fef3f76604877179e6838ad29c"
+    },
+    {
+      "paperId": "ac67f38f951205ffd62e48c99c373cc95a6fc92e"
+    },
+    {
+      "paperId": "0abf98bba18d3cc209c9f9113b747ddebdde45b6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

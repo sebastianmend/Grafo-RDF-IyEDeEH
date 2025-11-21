@@ -1,0 +1,44 @@
+{
+  "paperId": "bd5ebc8cda54666096b0e361eb282c7cb4d730f3",
+  "externalIds": {
+    "MAG": "2279539215",
+    "DOI": "10.1080/03601234.2015.1028861",
+    "CorpusId": 13055229,
+    "PubMed": "26065523"
+  },
+  "url": "https://www.semanticscholar.org/paper/bd5ebc8cda54666096b0e361eb282c7cb4d730f3",
+  "title": "Estimate of the uncertainty in measurement for the determination of mercury in seafood by TDA AAS",
+  "venue": "Journal of Environmental Science and Health. Part B - Pesticides, Food Contaminants, and Agricultural Wastes",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/03601234.2015.1028861?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/03601234.2015.1028861, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "13589434",
+      "name": "D. P. Torres"
+    },
+    {
+      "authorId": "37937910",
+      "name": "I. Olivares"
+    },
+    {
+      "authorId": "37306376",
+      "name": "H. M. Queiroz"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

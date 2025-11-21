@@ -1,0 +1,36 @@
+{
+  "paperId": "06ed0fa29bd9ca9cde84e4a32b117d5d21866a3a",
+  "externalIds": {
+    "DBLP": "conf/ifip12/Li10",
+    "MAG": "1582605567",
+    "DOI": "10.1007/978-3-642-18354-6_27",
+    "CorpusId": 6166603
+  },
+  "url": "https://www.semanticscholar.org/paper/06ed0fa29bd9ca9cde84e4a32b117d5d21866a3a",
+  "title": "Three-Dimensional Visualization of Soil Electrical Conductivity Variation by VRML",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-18354-6_27.pdf",
+    "status": "HYBRID",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18354-6_27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18354-6_27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2155109886",
+      "name": "Hongyi Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

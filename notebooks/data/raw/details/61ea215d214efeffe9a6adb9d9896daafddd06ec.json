@@ -1,0 +1,143 @@
+{
+  "paperId": "61ea215d214efeffe9a6adb9d9896daafddd06ec",
+  "externalIds": {
+    "MAG": "2094636757",
+    "DBLP": "journals/sensors/KukkoKHC12",
+    "PubMedCentral": "3478806",
+    "DOI": "10.3390/s120911712",
+    "CorpusId": 1199583
+  },
+  "url": "https://www.semanticscholar.org/paper/61ea215d214efeffe9a6adb9d9896daafddd06ec",
+  "title": "Multiplatform Mobile Laser Scanning: Usability and Performance",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2012,
+  "citationCount": 216,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/12/9/11712/pdf?version=1403318107",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3478806, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3172835",
+      "name": "A. Kukko"
+    },
+    {
+      "authorId": "2762133",
+      "name": "H. Kaartinen"
+    },
+    {
+      "authorId": "1399214117",
+      "name": "J. Hyyppä"
+    },
+    {
+      "authorId": "47559322",
+      "name": "Yuwei Chen"
+    }
+  ],
+  "abstract": "Mobile laser scanning is an emerging technology capable of capturing three-dimensional data from surrounding objects. With state-of-the-art sensors, the achieved point clouds capture object details with good accuracy and precision. Many of the applications involve civil engineering in urban areas, as well as traffic and other urban planning, all of which serve to make 3D city modeling probably the fastest growing market segment in this field. This article outlines multiplatform mobile laser scanning solutions such as vehicle- and trolley-operated urban area data acquisition, and boat-mounted equipment for fluvial environments. Moreover, we introduce a novel backpack version of mobile laser scanning equipment for surveying applications in the field of natural sciences where the requirements include precision and mobility in variable terrain conditions. In addition to presenting a technical description of the systems, we discuss the performance of the solutions in the light of various applications in the fields of urban mapping and modeling, fluvial geomorphology, snow-cover characterization, precision agriculture, and in monitoring the effects of climate change on permafrost landforms. The data performance of the mobile laser scanning approach is described by the results of an evaluation of the ROAMER on a permanent MLS test field. Furthermore, an in situ accuracy assessment using a field of spherical 3D targets for the newly-introduced Akhka backpack system is conducted and reported on.",
+  "references": [
+    {
+      "paperId": "92e313909fdb2e5c6a8e3a47d6b6028509a98cd2"
+    },
+    {
+      "paperId": "8c68ab3dc2b83be0ddb2a8a68d8188ea2bda99b6"
+    },
+    {
+      "paperId": "c71258878150074eaa3be8f0a3b6b038c3bc5aa4"
+    },
+    {
+      "paperId": "9e187b9975859a4c449706bacdd16d9a4eaa73d0"
+    },
+    {
+      "paperId": "1fa42a27efe4d13f3eaa10737dff5f14ed0349c0"
+    },
+    {
+      "paperId": "9036311eba985f43d87cb52bb32ec8fdbc9f7740"
+    },
+    {
+      "paperId": "59b5a897ee8cf7a1588a5be4945b207bd9de842c"
+    },
+    {
+      "paperId": "44ec29981557f95aba0689f61c2b634ebe440a33"
+    },
+    {
+      "paperId": "9fdb4314610ffccaa081f37db72e072944b8c985"
+    },
+    {
+      "paperId": "a229bcb6d70a555b44d0c1941e109194ace51edb"
+    },
+    {
+      "paperId": "6a66536c55ab79711e0ae1530b3bce1570667e47"
+    },
+    {
+      "paperId": "76e77e26dbc33a6e90b14126c5d6bb2d57256fe0"
+    },
+    {
+      "paperId": "a8d4d6701590079f516e676d61969b5eb14f64be"
+    },
+    {
+      "paperId": "5151d8285e98f345f4a1c411f62d0567412e06a7"
+    },
+    {
+      "paperId": "d17254b5dae29694a313320e8048e032d93336b3"
+    },
+    {
+      "paperId": "d72876e1a551e1d2d572e93b5c9c5659be938832"
+    },
+    {
+      "paperId": "87356786a6bb9a87b9fc4d4543ba106bf50cddc5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4c48dfa4956a4309ac94cf3ee3e245e5ca89d3be"
+    },
+    {
+      "paperId": "9d59e0e4da8ff60de9dfcde25ea96ef081c5dda6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6b35b1605256d8864bed19092529488972d3d630"
+    },
+    {
+      "paperId": "cd0d273758197c20db8beff0ca779c71a8aa1a93"
+    },
+    {
+      "paperId": "c2f104f2e521585a423599a792b90adf596e6231"
+    },
+    {
+      "paperId": "d8cf7e4efd602b84f5be8db4b5fc85f81f36dd10"
+    },
+    {
+      "paperId": "9c4264840c4038e5e17a27140b54aa98af19aa43"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "51d611b9f8b96da94a43c44a9ac201aff0d42c9f"
+    }
+  ]
+}

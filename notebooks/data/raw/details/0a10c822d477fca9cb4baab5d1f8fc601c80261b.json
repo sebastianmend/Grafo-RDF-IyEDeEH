@@ -1,0 +1,45 @@
+{
+  "paperId": "0a10c822d477fca9cb4baab5d1f8fc601c80261b",
+  "externalIds": {
+    "MAG": "2172656640",
+    "DBLP": "journals/jfr/AlvarezRC15",
+    "DOI": "10.1002/rob.21642",
+    "CorpusId": 46085518
+  },
+  "url": "https://www.semanticscholar.org/paper/0a10c822d477fca9cb4baab5d1f8fc601c80261b",
+  "title": "Editorial: Special Issue on Field and Service Robotics",
+  "venue": "J. Field Robotics",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rob.21642?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rob.21642, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "38332961",
+      "name": "Luis Mejías Alvarez"
+    },
+    {
+      "authorId": "30185299",
+      "name": "Jonathan M. Roberts"
+    },
+    {
+      "authorId": "1714296",
+      "name": "Peter Corke"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

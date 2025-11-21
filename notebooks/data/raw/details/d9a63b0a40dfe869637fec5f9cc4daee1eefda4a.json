@@ -1,0 +1,54 @@
+{
+  "paperId": "d9a63b0a40dfe869637fec5f9cc4daee1eefda4a",
+  "externalIds": {
+    "MAG": "1536678456",
+    "DOI": "10.1109/IHTC.2015.7238049",
+    "CorpusId": 25968493
+  },
+  "url": "https://www.semanticscholar.org/paper/d9a63b0a40dfe869637fec5f9cc4daee1eefda4a",
+  "title": "SMS-based Smarter Agriculture decision support system for yellow corn farmers in Isabela",
+  "venue": "Canada International Humanitarian Technology Conference",
+  "year": 2015,
+  "citationCount": 24,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IHTC.2015.7238049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IHTC.2015.7238049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3311296",
+      "name": "Rhia Trogo"
+    },
+    {
+      "authorId": "30905120",
+      "name": "J. B. Ebardaloza"
+    },
+    {
+      "authorId": "2370485",
+      "name": "D. Sabido"
+    },
+    {
+      "authorId": "3170222",
+      "name": "G. Bagtasa"
+    },
+    {
+      "authorId": "145566182",
+      "name": "Edgardo Tongson"
+    },
+    {
+      "authorId": "11241742",
+      "name": "O. Balderama"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

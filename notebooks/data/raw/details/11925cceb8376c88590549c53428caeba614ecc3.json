@@ -1,0 +1,53 @@
+{
+  "paperId": "11925cceb8376c88590549c53428caeba614ecc3",
+  "externalIds": {
+    "MAG": "1994011881",
+    "DOI": "10.1080/03601234.2011.535381",
+    "CorpusId": 6842725,
+    "PubMed": "21328123"
+  },
+  "url": "https://www.semanticscholar.org/paper/11925cceb8376c88590549c53428caeba614ecc3",
+  "title": "Validation and application of an analytical method for determining pesticides in the gas phase of ambient air",
+  "venue": "Journal of Environmental Science and Health. Part B - Pesticides, Food Contaminants, and Agricultural Wastes",
+  "year": 2011,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/03601234.2011.535381?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/03601234.2011.535381, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50204575",
+      "name": "L. Dos Santos"
+    },
+    {
+      "authorId": "6663143",
+      "name": "Carolina Lourencetti"
+    },
+    {
+      "authorId": "14562006",
+      "name": "Alício A. Pinto"
+    },
+    {
+      "authorId": "2094586437",
+      "name": "W. Pignati"
+    },
+    {
+      "authorId": "121836649",
+      "name": "E. Dores"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

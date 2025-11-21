@@ -1,0 +1,37 @@
+{
+  "paperId": "f099d315352830573e1a6ac0930cd6d0562f1a59",
+  "externalIds": {
+    "MAG": "2912657561",
+    "DBLP": "conf/sensys/Hamann15",
+    "DOI": "10.1145/2809695.2823463",
+    "CorpusId": 23140661
+  },
+  "url": "https://www.semanticscholar.org/paper/f099d315352830573e1a6ac0930cd6d0562f1a59",
+  "title": "From Smart Sensors to Smarter Solutions with Physical Analytics",
+  "venue": "ACM International Conference on Embedded Networked Sensor Systems",
+  "year": 2015,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://dl.acm.org/ft_gateway.cfm?id=2823463&type=pdf",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2809695.2823463?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2809695.2823463, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30968235",
+      "name": "H. Hamann"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,171 @@
+{
+  "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91",
+  "externalIds": {
+    "MAG": "2069209512",
+    "DBLP": "journals/remotesensing/CandiagoRGDG15",
+    "DOI": "10.3390/rs70404026",
+    "CorpusId": 32521007
+  },
+  "url": "https://www.semanticscholar.org/paper/7b2e28bec2b8a2708103865524a4a19b957e3b91",
+  "title": "Evaluating Multispectral Images and Vegetation Indices for Precision Farming Applications from UAV Images",
+  "venue": "Remote Sensing",
+  "year": 2015,
+  "citationCount": 665,
+  "influentialCitationCount": 32,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/7/4/4026/pdf?version=1427979584",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs70404026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs70404026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2297090771",
+      "name": "Sebastian Candiago"
+    },
+    {
+      "authorId": "2515916",
+      "name": "Fabio Remondino"
+    },
+    {
+      "authorId": "5879596",
+      "name": "M. Giglio"
+    },
+    {
+      "authorId": "32549544",
+      "name": "M. Dubbini"
+    },
+    {
+      "authorId": "9688464",
+      "name": "Mario Gattelli"
+    }
+  ],
+  "abstract": "Unmanned Aerial Vehicles (UAV)-based remote sensing offers great possibilities to acquire in a fast and easy way field data for precision agriculture applications. This field of study is rapidly increasing due to the benefits and advantages for farm resources management, particularly for studying crop health. This paper reports some experiences related to the analysis of cultivations (vineyards and tomatoes) with Tetracam multispectral data. The Tetracam camera was mounted on a multi-rotor hexacopter. The multispectral data were processed with a photogrammetric pipeline to create triband orthoimages of the surveyed sites. Those orthoimages were employed to extract some Vegetation Indices (VI) such as the Normalized Difference Vegetation Index (NDVI), the Green Normalized Difference Vegetation Index (GNDVI), and the Soil Adjusted Vegetation Index (SAVI), examining the vegetation vigor for each crop. The paper demonstrates the great potential of high-resolution UAV data and photogrammetric techniques applied in the agriculture framework to collect multispectral images and evaluate different VI, suggesting that these instruments represent a fast, reliable, and cost-effective resource in crop assessment for precision farming applications.",
+  "references": [
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "e4c36e99103e29e1de512eb8353289494eab2c16"
+    },
+    {
+      "paperId": "2bceb1c2c7d80928dfb46b16d846347b42017fd8"
+    },
+    {
+      "paperId": "aac799300a3545f7a63ec35cc50a31ed8571f4c0"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    },
+    {
+      "paperId": "632df768c4e45680d7469c08151d29d9e12cc2da"
+    },
+    {
+      "paperId": "ae8f38fc91c32532f2096adc1dda881c7ab91ac1"
+    },
+    {
+      "paperId": "319b9dd5a750bb568e88bdd71a89890808e81600"
+    },
+    {
+      "paperId": "31d88691a1a4f42879c26189829cc4c3899f8dfa"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "9eca0ea5717419385fa20cf69d09da25da3fcaba"
+    },
+    {
+      "paperId": "38764ec2e0ad03959c10aedf6f39a888ccc70c3f"
+    },
+    {
+      "paperId": "9526bb74ea4e7fa213c92d76965b96b1beb6fd59"
+    },
+    {
+      "paperId": "71cb6053b6ecf9c39ff2d0bd1adcb162720478a3"
+    },
+    {
+      "paperId": "674e0d589b67d9cf1d30fda0b061c58e0ac93a42"
+    },
+    {
+      "paperId": "5a058e59343870d24750fcc5305c8bf5d31f31a5"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "22efc5291c07bf4ca7cb5f3dc2e8b8394c5acec6"
+    },
+    {
+      "paperId": "c5d59e12cfdd62ce72fe3835d129d1d1e6f1a9cb"
+    },
+    {
+      "paperId": "83f8c290de8ed12ce847ef9f3436794a5e0dba80"
+    },
+    {
+      "paperId": "3bd11aa0565365acc56d26a40a61e291e930a403"
+    },
+    {
+      "paperId": "9ea494770ed507b7d4a68ab71de663db65101ff4"
+    },
+    {
+      "paperId": "5939eaad9db10dc06c8a1d358136b876a1908f35"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "4755554ed224bdba6d4275a14bd338326fb44cda"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "30b5a240dfa965d600733b7480c73282abc3ab07"
+    },
+    {
+      "paperId": "dcbc4ecb79d697cf4c86347c204b22ecf3a16d81"
+    },
+    {
+      "paperId": "3e2c9f6f570099e5a250d7045c6a131eab920c2a"
+    },
+    {
+      "paperId": "50e57e9c8dd7e8269d82949ca993bfcc2c822286"
+    },
+    {
+      "paperId": "4de1b12785cc5231d611ef550a160cd425171c46"
+    },
+    {
+      "paperId": "e6584ab83b86f8cd2ce654b448ce6a15c83962db"
+    },
+    {
+      "paperId": "69c66844282f7c962aa9db78d209175e175c6a19"
+    },
+    {
+      "paperId": "2c634650f0b2923538f04d4b00e3873c6a3a53a8"
+    },
+    {
+      "paperId": "b42b036cc72c7fd66b5c91e87c16f543f36f8be5"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "paperId": "1b3cb2c0e672006c663660a472ef9389d41a7dbc",
+  "externalIds": {
+    "DBLP": "journals/sensors/EspinozaVTLM15",
+    "MAG": "2157936715",
+    "PubMedCentral": "4570394",
+    "DOI": "10.3390/s150819723",
+    "CorpusId": 8983446,
+    "PubMed": "26274962"
+  },
+  "url": "https://www.semanticscholar.org/paper/1b3cb2c0e672006c663660a472ef9389d41a7dbc",
+  "title": "An Auto-Tuning PI Control System for an Open-Circuit Low-Speed Wind Tunnel Designed for Greenhouse Technology",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/8/19723/pdf?version=1439447544",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4570394, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3485473",
+      "name": "Karlos Espinoza"
+    },
+    {
+      "authorId": "3468456",
+      "name": "Diego L. Valera"
+    },
+    {
+      "authorId": "1805386",
+      "name": "J. A. Torres"
+    },
+    {
+      "authorId": "144366960",
+      "name": "Alejandro López"
+    },
+    {
+      "authorId": "1405003647",
+      "name": "F. Molina-Aiz"
+    }
+  ],
+  "abstract": "Wind tunnels are a key experimental tool for the analysis of airflow parameters in many fields of application. Despite their great potential impact on agricultural research, few contributions have dealt with the development of automatic control systems for wind tunnels in the field of greenhouse technology. The objective of this paper is to present an automatic control system that provides precision and speed of measurement, as well as efficient data processing in low-speed wind tunnel experiments for greenhouse engineering applications. The system is based on an algorithm that identifies the system model and calculates the optimum PI controller. The validation of the system was performed on a cellulose evaporative cooling pad and on insect-proof screens to assess its response to perturbations. The control system provided an accuracy of <0.06 m·s−1 for airflow speed and <0.50 Pa for pressure drop, thus permitting the reproducibility and standardization of the tests. The proposed control system also incorporates a fully-integrated software unit that manages the tests in terms of airflow speed and pressure drop set points.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "77c8751f3d25a3579b3cb9b836f1a5fc153f34a2"
+    },
+    {
+      "paperId": "66e7122da186f2774369997a205128bdd2e00377"
+    },
+    {
+      "paperId": "a976d8ef337b7635753e7db66fe994b37f1223eb"
+    },
+    {
+      "paperId": "19767e0ca352e56720aa4d5ed1e2b44864ac9bef"
+    },
+    {
+      "paperId": "fe136355058fc01e186ef376a4e86b52c8821328"
+    },
+    {
+      "paperId": "d8269532221c7fdc4627a8d6b63a473538b00d1f"
+    },
+    {
+      "paperId": "c9aed091b91302a89d2876f01ba7a8061597234e"
+    },
+    {
+      "paperId": "cceefcc8351ac37b8b6b90b3e9ff3cc81a1886ea"
+    },
+    {
+      "paperId": "b45f0ab784aef5c72faaaf87260780e3ca250f71"
+    },
+    {
+      "paperId": "72200bf3e58ce3354cfe542bda6c7c019b776aa0"
+    },
+    {
+      "paperId": "73fd18186c78259b1d9ae34e14bc3d8d61dcefac"
+    },
+    {
+      "paperId": "bb844e08e075621596f0289d16bb64bf9e075be6"
+    },
+    {
+      "paperId": "4023aff157a3994f94d76eb3b916b4f97f58650a"
+    },
+    {
+      "paperId": "1db00dbc5eefcf9415f2620fdf1cd34c29f95b21"
+    },
+    {
+      "paperId": "442bcdbe0709501ae72cdfa95164203f08f22bbc"
+    },
+    {
+      "paperId": "bf1163481702daa6722d809417bf3a6eed64ca4f"
+    },
+    {
+      "paperId": "990f9e2bcda2c8f092e84866ccefdf07493df2e5"
+    },
+    {
+      "paperId": "51cc377c3549754eb583e78e5986b7d8f6215861"
+    },
+    {
+      "paperId": "2bbb8807f9e7ac9d621df30457aeab00231bd481"
+    },
+    {
+      "paperId": "a680417bbdab34582791e28bf40b5a68ed739f1b"
+    },
+    {
+      "paperId": "eb9af9d90dabd812f8aff79eb48ad02cc275868b"
+    },
+    {
+      "paperId": "140ddce366d898e3a546552f7e0c831b0a35cb49"
+    },
+    {
+      "paperId": "4533d928e62c8bb580edc0e4d3e954339cceef9f"
+    },
+    {
+      "paperId": "2affeaed8f9522f369d812b9b5a58af650a8bf1e"
+    },
+    {
+      "paperId": "059e0980f42198dfb10250ee5585355b7bc2136b"
+    },
+    {
+      "paperId": "9b2fadf6ef8cbbf4f24a19c4e0dd06673e3ad810"
+    },
+    {
+      "paperId": "3adae4e35b4c1f1a24b09efcb2adcf5814ef8994"
+    },
+    {
+      "paperId": "ec4a06c56e295d585d1dc8b8a14f86f34599d938"
+    },
+    {
+      "paperId": "2053a567c968a65901ccb6110f0b590d8bc15382"
+    },
+    {
+      "paperId": "130c11f17619a55f0cbb55cad82876de8217ea82"
+    },
+    {
+      "paperId": "53039af66855b8ffd10452e88b1d6f5fdc365b7b"
+    },
+    {
+      "paperId": "e7f40c4a52bc676966ce46269dce528a2036715a"
+    },
+    {
+      "paperId": "a37314a679039d2af126cf5056fa709b5806f5e3"
+    },
+    {
+      "paperId": "fb7aad210b1a51021cc567c7983c4a6e9d55f399"
+    },
+    {
+      "paperId": "aab51b5cdcc530bcd3593100bbe3bc37ad31868f"
+    },
+    {
+      "paperId": "8c8413e6a8da5de23a157c84c625331326aca1d0"
+    },
+    {
+      "paperId": "b85aa1e9e27d4907c8bce056221c66ca3f20e3f8"
+    },
+    {
+      "paperId": "fbad038188fdfd6c59aa733474e51e8fa8286914"
+    },
+    {
+      "paperId": "7af22e87b0fd539132f41e5b1e132167702a955e"
+    },
+    {
+      "paperId": "1fb66e0491c7a6bb325b2ba1ee6b023fe19d1465"
+    },
+    {
+      "paperId": "4d84071558a09b75f0dcd516db6bc3ffc3c86299"
+    },
+    {
+      "paperId": "95db69a95fc69e174406ae5b293433cc7ea55e34"
+    },
+    {
+      "paperId": "9c74b714fa523127746b34c5f26d15f01004bedf"
+    },
+    {
+      "paperId": "de201100c1c33dc0b1568d4f9a94f5ffb42f8ad6"
+    },
+    {
+      "paperId": "36d39aa156067dfaaa5a4f8f6f66b1e5cb252ae7"
+    },
+    {
+      "paperId": "420cc89960055bc19f5faa2873f3571f6229d1ad"
+    },
+    {
+      "paperId": "9e35a359f70a54231d7c638b2bfa2d8113693bc3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "paperId": "e17cbc3762e27a3b8fbfd4809af82616d3c00bc4",
+  "externalIds": {
+    "MAG": "2021018228",
+    "DOI": "10.1021/jf2010723",
+    "CorpusId": 9108342,
+    "PubMed": "21671617"
+  },
+  "url": "https://www.semanticscholar.org/paper/e17cbc3762e27a3b8fbfd4809af82616d3c00bc4",
+  "title": "Multiresidue pesticide analysis of agricultural commodities using acetonitrile salt-out extraction, dispersive solid-phase sample clean-up, and high-performance liquid chromatography-tandem mass spectrometry.",
+  "venue": "Journal of Agricultural and Food Chemistry",
+  "year": 2011,
+  "citationCount": 98,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/jf2010723?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/jf2010723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "36641777",
+      "name": "Kai Zhang"
+    },
+    {
+      "authorId": "4717050",
+      "name": "J. Wong"
+    },
+    {
+      "authorId": "120833387",
+      "name": "Paul Yang"
+    },
+    {
+      "authorId": "8216711",
+      "name": "K. Tech"
+    },
+    {
+      "authorId": "13126041",
+      "name": "A. Dibenedetto"
+    },
+    {
+      "authorId": "50705890",
+      "name": "Nathaniel S Lee"
+    },
+    {
+      "authorId": "4023526",
+      "name": "D. Hayward"
+    },
+    {
+      "authorId": "11697891",
+      "name": "C. Makovi"
+    },
+    {
+      "authorId": "11615753",
+      "name": "A. Krynitsky"
+    },
+    {
+      "authorId": "144242701",
+      "name": "K. Banerjee"
+    },
+    {
+      "authorId": "40312881",
+      "name": "L. Jao"
+    },
+    {
+      "authorId": "8571698",
+      "name": "Soma Dasgupta"
+    },
+    {
+      "authorId": "39788087",
+      "name": "Michael Smoker"
+    },
+    {
+      "authorId": "39500557",
+      "name": "R. Simonds"
+    },
+    {
+      "authorId": "47614143",
+      "name": "A. Schreiber"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

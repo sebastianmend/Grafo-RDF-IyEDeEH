@@ -1,0 +1,38 @@
+{
+  "paperId": "2f2bf29ecf0f57879e46ffcbe31d2db4a63ec666",
+  "externalIds": {
+    "MAG": "2116024792",
+    "DOI": "10.1109/GEOINFORMATICS.2011.5980847",
+    "CorpusId": 6580190
+  },
+  "url": "https://www.semanticscholar.org/paper/2f2bf29ecf0f57879e46ffcbe31d2db4a63ec666",
+  "title": "Design and realization of precision agriculture information system based on 5S",
+  "venue": "GEOINFORMATICS",
+  "year": 2011,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GEOINFORMATICS.2011.5980847?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GEOINFORMATICS.2011.5980847, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2107975109",
+      "name": "Xiaoshan Wang"
+    },
+    {
+      "authorId": "143632338",
+      "name": "Q. Qi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

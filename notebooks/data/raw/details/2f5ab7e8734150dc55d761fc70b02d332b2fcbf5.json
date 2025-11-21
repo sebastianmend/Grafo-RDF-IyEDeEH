@@ -1,0 +1,36 @@
+{
+  "paperId": "2f5ab7e8734150dc55d761fc70b02d332b2fcbf5",
+  "externalIds": {
+    "MAG": "2044552689",
+    "DOI": "10.1179/0002698013Z.00000000044",
+    "CorpusId": 24788497,
+    "PubMed": "25241504"
+  },
+  "url": "https://www.semanticscholar.org/paper/2f5ab7e8734150dc55d761fc70b02d332b2fcbf5",
+  "title": "The Emerging Role of Titrimetry in Late Nineteenth-Century Industrial Problem Solving: The Example of Trace Analysis for Perchlorate in Chile Saltpetre",
+  "venue": "Ambix",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1179/0002698013Z.00000000044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1179/0002698013Z.00000000044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "7639639",
+      "name": "A. Travis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

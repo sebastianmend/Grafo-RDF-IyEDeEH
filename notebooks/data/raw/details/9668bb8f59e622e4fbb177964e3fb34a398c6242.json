@@ -1,0 +1,42 @@
+{
+  "paperId": "9668bb8f59e622e4fbb177964e3fb34a398c6242",
+  "externalIds": {
+    "MAG": "1980266417",
+    "DOI": "10.1109/ICCPCT.2013.6528846",
+    "CorpusId": 15275569
+  },
+  "url": "https://www.semanticscholar.org/paper/9668bb8f59e622e4fbb177964e3fb34a398c6242",
+  "title": "RF Propagation Measurements in Agricultural Fields for Wireless Sensor Communications",
+  "venue": "International Conference on Circuit, Power and Computing Technologies",
+  "year": 2013,
+  "citationCount": 9,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCPCT.2013.6528846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCPCT.2013.6528846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "48478292",
+      "name": "G. Mahesh"
+    },
+    {
+      "authorId": "2800200",
+      "name": "D. Balachander"
+    },
+    {
+      "authorId": "145774438",
+      "name": "T. Rao"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

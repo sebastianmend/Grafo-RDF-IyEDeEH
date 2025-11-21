@@ -1,0 +1,64 @@
+{
+  "paperId": "d5ffb5910535898179dbbbb75e76e6886cf64b0a",
+  "externalIds": {
+    "DBLP": "conf/ifip12/LiuHMLXDSZ11",
+    "MAG": "2214925041",
+    "DOI": "10.1007/978-3-642-27278-3_28",
+    "CorpusId": 18176647
+  },
+  "url": "https://www.semanticscholar.org/paper/d5ffb5910535898179dbbbb75e76e6886cf64b0a",
+  "title": "Estimating Foliar Pigment Concentration of Rice Crop Using Integrated Hyperspectral Index",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2011,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-27278-3_28.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-27278-3_28?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-27278-3_28, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "14630979",
+      "name": "Zhanyu Liu"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "15729287",
+      "name": "Guofu Mao"
+    },
+    {
+      "authorId": "1707992",
+      "name": "Cunjun Li"
+    },
+    {
+      "authorId": "50180828",
+      "name": "Xingang Xu"
+    },
+    {
+      "authorId": "1791112",
+      "name": "Xiaodong Ding"
+    },
+    {
+      "authorId": "48376851",
+      "name": "Jingjing Shi"
+    },
+    {
+      "authorId": "145291670",
+      "name": "Bin Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

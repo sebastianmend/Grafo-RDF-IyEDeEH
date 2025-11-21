@@ -1,0 +1,36 @@
+{
+  "paperId": "69a439512c970144d48aff517e1061a6302324c3",
+  "externalIds": {
+    "MAG": "163791710",
+    "CorpusId": 107972304
+  },
+  "url": "https://www.semanticscholar.org/paper/69a439512c970144d48aff517e1061a6302324c3",
+  "title": "Precision agriculture technologies for the Australian nut industries",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "143678451",
+      "name": "A. McCarthy"
+    },
+    {
+      "authorId": "144568278",
+      "name": "T. Jensen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,36 @@
+{
+  "paperId": "1b299a72dc126b46879bffd17ac1e8a65a0fabd2",
+  "externalIds": {
+    "MAG": "2070260357",
+    "DOI": "10.1007/s13744-014-0232-y",
+    "CorpusId": 9500595,
+    "PubMed": "27193951"
+  },
+  "url": "https://www.semanticscholar.org/paper/1b299a72dc126b46879bffd17ac1e8a65a0fabd2",
+  "title": "Spatial Distribution and Minimum Sample Size for Overwintering Larvae of the Rice Stem Borer Chilo suppressalis (Walker) in Paddy Fields",
+  "venue": "Neotropical Entomology",
+  "year": 2014,
+  "citationCount": 25,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13744-014-0232-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13744-014-0232-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2253285868",
+      "name": "Abbas Arbab"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,240 @@
+{
+  "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb",
+  "externalIds": {
+    "MAG": "1991739869",
+    "DBLP": "journals/remotesensing/BendigBBBEB14",
+    "DOI": "10.3390/rs61110395",
+    "CorpusId": 33942200
+  },
+  "url": "https://www.semanticscholar.org/paper/b22697902076b38ce9440e01d05753e30d2a9cbb",
+  "title": "Estimating Biomass of Barley Using Crop Surface Models (CSMs) Derived from UAV-Based RGB Imaging",
+  "venue": "Remote Sensing",
+  "year": 2014,
+  "citationCount": 600,
+  "influentialCitationCount": 35,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/6/11/10395/pdf?version=1414488667",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs61110395?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs61110395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48129880",
+      "name": "J. Bendig"
+    },
+    {
+      "authorId": "32054757",
+      "name": "A. Bolten"
+    },
+    {
+      "authorId": "1811955",
+      "name": "Simon Bennertz"
+    },
+    {
+      "authorId": "35292229",
+      "name": "Janis Broscheit"
+    },
+    {
+      "authorId": "9677797",
+      "name": "S. Eichfuss"
+    },
+    {
+      "authorId": "2801990",
+      "name": "G. Bareth"
+    }
+  ],
+  "abstract": "Crop monitoring is important in precision agriculture. Estimating above-ground biomass helps to monitor crop vitality and to predict yield. In this study, we estimated fresh and dry biomass on a summer barley test site with 18 cultivars and two nitrogen (N)-treatments using the plant height (PH) from crop surface models (CSMs). The super-high resolution, multi-temporal (1 cm/pixel) CSMs were derived from red, green, blue (RGB) images captured from a small unmanned aerial vehicle (UAV). Comparison with PH reference measurements yielded an R2 of 0.92. The test site with different cultivars and treatments was monitored during “Biologische Bundesanstalt, Bundessortenamt und CHemische Industrie” (BBCH) Stages 24–89. A high correlation was found between PH from CSMs and fresh biomass (R2 = 0.81) and dry biomass (R2 = 0.82). Five models for above-ground fresh and dry biomass estimation were tested by cross-validation. Modelling biomass between different N-treatments for fresh biomass produced the best results (R2 = 0.71). The main limitation was the influence of lodging cultivars in the later growth stages, producing irregular plant heights. The method has potential for future application by non-professionals, i.e., farmers.",
+  "references": [
+    {
+      "paperId": "02f498a7242fce3a3185f1f50332fbdaa8e152c9"
+    },
+    {
+      "paperId": "319dc3fb9e67597ecf3f76e0520803762f5aea82"
+    },
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "aac799300a3545f7a63ec35cc50a31ed8571f4c0"
+    },
+    {
+      "paperId": "4adeeb79b828aef5199a576106ce47a6b4d67563"
+    },
+    {
+      "paperId": "a0e9d40d8e91565140d0b3ddd757c1d7c05bb5f5"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "5d8fc7a4e88a39efee411bae94f39c064a9c1444"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "cad896e87a1abc1e821df7ba2ef4869048a90b89"
+    },
+    {
+      "paperId": "b3ffc8b7e6ee384e72f44b74532c838fb6f121ae"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "15967cbb91aebe58488cb1c922f1e79895a8000e"
+    },
+    {
+      "paperId": "3677e40cda2f6f27f1ea3c5dd718dd38374b8cd7"
+    },
+    {
+      "paperId": "38764ec2e0ad03959c10aedf6f39a888ccc70c3f"
+    },
+    {
+      "paperId": "4a06f0f0d643f023411ab79d6a34f756737a6b8a"
+    },
+    {
+      "paperId": "1b4dd9f6c7e96c3bf570e2936ae8633527fe9d63"
+    },
+    {
+      "paperId": "2ac84e843039519ce163d2454fc9f4dc13ba29e6"
+    },
+    {
+      "paperId": "9552f6dfc927264ca6780169e1caa564dacb2a57"
+    },
+    {
+      "paperId": "e8e56ba0aa0d877da34b19625d14df099635f148"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "a04c89bfceea08ebafb43a22879ea4a8bca11529"
+    },
+    {
+      "paperId": "831bf0b8bb351b2f6a07ddfdc0524a98067b3a9e"
+    },
+    {
+      "paperId": "8ab7dde7234b99a1ddcef3f03894307ff39b55d0"
+    },
+    {
+      "paperId": "a42efa8a125cc262ac4b5bc6e815d3013d95a354"
+    },
+    {
+      "paperId": "9fee2ed272eeebb19785c3b68a91b3a554cb02aa"
+    },
+    {
+      "paperId": "fd589aff759cfdb92d60f91dbb5844d3d6000a8f"
+    },
+    {
+      "paperId": "7221676c27803b322ef27f1c44c656cbefec1831"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "bb0952a4c7ee9c8f2a69280f52e6882b93868cb8"
+    },
+    {
+      "paperId": "b92e116320dad8766047f169e63818bbbde36d04"
+    },
+    {
+      "paperId": "00f8e9b7394a1d6261cdc0b7f1796c3c3b68edc3"
+    },
+    {
+      "paperId": "f55787772b225485a9e81ecbbe4eb5877d9b16b3"
+    },
+    {
+      "paperId": "1eb238af275c0ebe25e19bc5cc7e2e414f9b92d8"
+    },
+    {
+      "paperId": "bd039d9ef12fc59167b359d9c43aad40ad2f8c4c"
+    },
+    {
+      "paperId": "01880b2e0bd73720f8ebf8620f1eb011b9703f51"
+    },
+    {
+      "paperId": "c8426d9aabd7633b5fdb97ce49a932e8e7e5fcdb"
+    },
+    {
+      "paperId": "a73e1909e58568a2974415571fdd9ab27c54a11c"
+    },
+    {
+      "paperId": "4f88f70daf9050b8a7c405857da9ebb43b7a882c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "1aeb8384419d05607efa8af3f0899710c58bd5b1"
+    },
+    {
+      "paperId": "94f66952b3c00ddd9ce21f64c5c0bb9c5ea21ae2"
+    },
+    {
+      "paperId": "93e7e7f1a99fe0173af1cef0dd376eec829cd2d2"
+    },
+    {
+      "paperId": "1252b101f3761b94570370fcb2ee8a2779d051db"
+    },
+    {
+      "paperId": "b96aaeefd38ee71c312209f203fdde3b362c6184"
+    },
+    {
+      "paperId": "4173300ecbdd688610b6ce28226ebc803e19111b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1119df2099bc9a859d272e82ea810b51a63d2962"
+    },
+    {
+      "paperId": "141a5ee5a1a44df37574913acb24aaa0eac1cd97"
+    },
+    {
+      "paperId": "41e484a1da2dd13357273888429d8eb338ee3724"
+    },
+    {
+      "paperId": "6c45b5f5481125a311ea46a05e7acfa1de0f2cfb"
+    },
+    {
+      "paperId": "deec103921c506b5cf019920d8644cb2fa030d77"
+    },
+    {
+      "paperId": "c20a205f323a5ec0ea12510b4cb4d7699a38205c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1cb717ea5f5f98f31a1e992546e61c88e6f00b07"
+    },
+    {
+      "paperId": "52edc11f28bab1d75a8e648d5ff260189b168fea"
+    },
+    {
+      "paperId": "f4cc34a92d4b9138a60aefe4da7e6b9cb23198f4"
+    },
+    {
+      "paperId": "1f766679fb043048639395d4180881bea41802be"
+    },
+    {
+      "paperId": "da02aa97d0c179e001bdb2c3e4472492daaabe6b"
+    }
+  ]
+}

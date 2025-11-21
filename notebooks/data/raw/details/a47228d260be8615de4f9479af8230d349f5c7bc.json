@@ -1,0 +1,42 @@
+{
+  "paperId": "a47228d260be8615de4f9479af8230d349f5c7bc",
+  "externalIds": {
+    "MAG": "1981016705",
+    "DOI": "10.1109/CDCIEM.2011.391",
+    "CorpusId": 34038218
+  },
+  "url": "https://www.semanticscholar.org/paper/a47228d260be8615de4f9479af8230d349f5c7bc",
+  "title": "On-Tracking Control of Agricultural Mobile Robot Based on Inner Information",
+  "venue": "International Conference on Computer Distributed Control and Intelligent Environmental Monitoring",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CDCIEM.2011.391?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CDCIEM.2011.391, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2053577568",
+      "name": "Chen Jun"
+    },
+    {
+      "authorId": "1397731986",
+      "name": "Zheng Tian-peng"
+    },
+    {
+      "authorId": "104904917",
+      "name": "Lian Shi-jiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

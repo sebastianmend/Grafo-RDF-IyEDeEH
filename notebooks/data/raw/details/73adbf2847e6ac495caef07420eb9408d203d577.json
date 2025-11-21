@@ -1,0 +1,84 @@
+{
+  "paperId": "73adbf2847e6ac495caef07420eb9408d203d577",
+  "externalIds": {
+    "MAG": "2060057085",
+    "DOI": "10.3329/IJARIT.V4I2.22655",
+    "CorpusId": 85388568
+  },
+  "url": "https://www.semanticscholar.org/paper/73adbf2847e6ac495caef07420eb9408d203d577",
+  "title": "Performance evaluation of laser guided leveler",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.banglajol.info/index.php/IJARIT/article/download/22655/15584",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3329/IJARIT.V4I2.22655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3329/IJARIT.V4I2.22655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145819709",
+      "name": "M. Hoque"
+    },
+    {
+      "authorId": "2247502974",
+      "name": "Hannan Ma"
+    }
+  ],
+  "abstract": "The study was conducted at Bangladesh Agricultural Research Institute (BARI) farm on clay loam soil during Rabi season of 2010-2011. The treatments consisted of laser land leveling (T 1 ) and control (non-leveled) (T 2 ). A preliminary field survey was done using staff gage. Initially a base station was established to dispense laser ray uniformly. The laser ray erected from base station guided the sensor of the stuff gage and the leveler. Elevation data was collected from the different points of the field and made an average. The maximum gage reading were 247.0 cm and the minimum gage reading was 219.2 cm. Average gage readings of the laser leveled plot was 235.66 cm that was settled for auto adjustment. Therefore, huge amount of soils (16.46 cm high) was cut from the highest point and subsequently had to fill to the low points. Finally, an equal gage reading of 235.66 cm was observed after leveling the plot. The laser leveler (Leica MLS700) was used hitching with a TAFE tractor. The field was leveled with manual control initially and finally it was operated with auto adjustment. Two operators, 25 litter diesels and total 6 hours time were required during this leveling. Wheat was cultivated in leveled land (T 1 ) and non-leveled land (T 2 ). Laser leveling was insured for improvement in nutrient use efficiencies, option for precision farming, reduces weed problems, and improves uniformity of crop maturity. There was better distribution of water in leveled plot, which helped to reduce irrigation application time 1 hour. Due to uniformity of moisture content improved germination and crop establishment was found which reflected in higher plant population (239 m -2 ). Maximum yield (3.41 t ha -1 ) was obtained in T 1 due to longer panicle (10.89 cm), more grain per plant (27.47) and 1000 grain weight (47.38 g) compared to yield of T 2 (2.62 t ha -1 ). DOI: http://dx.doi.org/10.3329/ijarit.v4i2.22655 Int. J. Agril. Res. Innov. & Tech. 4 (2): 82-86, December, 2014",
+  "references": [
+    {
+      "paperId": "9eb31114ce92cd9db233df040a8b2cd1b24d2751"
+    },
+    {
+      "paperId": "cfa8353e5e5d2eeba5bbb2d7c8c9d09b43c81f83"
+    },
+    {
+      "paperId": "bbc1e5dc60ae05fd7e767524a94f433229750686"
+    },
+    {
+      "paperId": "e5a5da9833625cdc33afc1966c0ed4f1ea65f052"
+    },
+    {
+      "paperId": "eee6a04a0fa26c4bbbd5a432ef4ddcc918d0b3c7"
+    },
+    {
+      "paperId": "7634dc053f560f8a1a1be2b70b011b2664688c97"
+    },
+    {
+      "paperId": "4ddda61803dcb3bfb750b93af22f5e23d4302450"
+    },
+    {
+      "paperId": "6995b10eb647677b621f29ba4c3560ff574ec55f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b75bdd9013c49fe5746a8b93af6c5ab3c42295f1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

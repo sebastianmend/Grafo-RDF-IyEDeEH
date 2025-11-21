@@ -1,0 +1,396 @@
+{
+  "paperId": "c34a0d08e33a5b99c451193d6e30a39587ffc09e",
+  "externalIds": {
+    "PubMedCentral": "4796337",
+    "MAG": "2262872369",
+    "DOI": "10.1007/s00439-016-1640-3",
+    "CorpusId": 15665728,
+    "PubMed": "26875094"
+  },
+  "url": "https://www.semanticscholar.org/paper/c34a0d08e33a5b99c451193d6e30a39587ffc09e",
+  "title": "Quantifying the legacy of the Chinese Neolithic on the maternal genetic heritage of Taiwan and Island Southeast Asia",
+  "venue": "Human Genetics",
+  "year": 2016,
+  "citationCount": 38,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00439-016-1640-3.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4796337, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "38386317",
+      "name": "Andreia Brandão"
+    },
+    {
+      "authorId": "46428032",
+      "name": "Ken Khong Eng"
+    },
+    {
+      "authorId": "50714803",
+      "name": "T. Rito"
+    },
+    {
+      "authorId": "1973510",
+      "name": "B. Cavadas"
+    },
+    {
+      "authorId": "107621409",
+      "name": "D. Bulbeck"
+    },
+    {
+      "authorId": "40069038",
+      "name": "Francesca Gandini"
+    },
+    {
+      "authorId": "40005479",
+      "name": "M. Pala"
+    },
+    {
+      "authorId": "3548593",
+      "name": "Maru Mormina"
+    },
+    {
+      "authorId": "2113879696",
+      "name": "Bob Hudson"
+    },
+    {
+      "authorId": "103840995",
+      "name": "Joyce C. White"
+    },
+    {
+      "authorId": "3715556",
+      "name": "T. Ko"
+    },
+    {
+      "authorId": "3785448",
+      "name": "M. Saidin"
+    },
+    {
+      "authorId": "6390645",
+      "name": "Z. Zafarina"
+    },
+    {
+      "authorId": "48588643",
+      "name": "S. Oppenheimer"
+    },
+    {
+      "authorId": "3236830",
+      "name": "M. Richards"
+    },
+    {
+      "authorId": "145325088",
+      "name": "Luísa Pereira"
+    },
+    {
+      "authorId": "145025198",
+      "name": "Pedro Soares"
+    }
+  ],
+  "abstract": "There has been a long-standing debate concerning the extent to which the spread of Neolithic ceramics and Malay-Polynesian languages in Island Southeast Asia (ISEA) were coupled to an agriculturally driven demic dispersal out of Taiwan 4000 years ago (4 ka). We previously addressed this question using founder analysis of mitochondrial DNA (mtDNA) control-region sequences to identify major lineage clusters most likely to have dispersed from Taiwan into ISEA, proposing that the dispersal had a relatively minor impact on the extant genetic structure of ISEA, and that the role of agriculture in the expansion of the Austronesian languages was therefore likely to have been correspondingly minor. Here we test these conclusions by sequencing whole mtDNAs from across Taiwan and ISEA, using their higher chronological precision to resolve the overall proportion that participated in the “out-of-Taiwan” mid-Holocene dispersal as opposed to earlier, postglacial expansions in the Early Holocene. We show that, in total, about 20 % of mtDNA lineages in the modern ISEA pool result from the “out-of-Taiwan” dispersal, with most of the remainder signifying earlier processes, mainly due to sea-level rises after the Last Glacial Maximum. Notably, we show that every one of these founder clusters previously entered Taiwan from China, 6–7 ka, where rice-farming originated, and remained distinct from the indigenous Taiwanese population until after the subsequent dispersal into ISEA.",
+  "references": [
+    {
+      "paperId": "1f4cda62289104fe6240c3bd60fbae0cdce512b7"
+    },
+    {
+      "paperId": "d782be82514e5584387c6b3c462f3426b8774081"
+    },
+    {
+      "paperId": "c08db688335f603ab66d348ea6dea193ddf8fd99"
+    },
+    {
+      "paperId": "280258c276f4c508bdaf394012fb4ae3f482da3c"
+    },
+    {
+      "paperId": "d44248718f2431d8162af5dbc32aa2046b6c6247"
+    },
+    {
+      "paperId": "48018974c3422ea8acc3557096d1f41231f497d7"
+    },
+    {
+      "paperId": "c6bec420aed1c55fd1ee70681710c328a788d258"
+    },
+    {
+      "paperId": "8ad026d1e62d8b3080df5195d5d86f4fb16ca75c"
+    },
+    {
+      "paperId": "3e57ddc62ab4b610aa7b169bd47af7eda1999e81"
+    },
+    {
+      "paperId": "977c80caec8417292550de651b199e2cb0fd5cc7"
+    },
+    {
+      "paperId": "c9ced3534fd92cc3f4b3d021e76c16c28a49de8e"
+    },
+    {
+      "paperId": "a45362e4b5bdeac413d9924adc75dc26037a6a4b"
+    },
+    {
+      "paperId": "3df5a8ed5b497cc8c1448431fa82b5245a1a9cf0"
+    },
+    {
+      "paperId": "c6235ec93b8d7ba397d31a7979d249bdc5bade36"
+    },
+    {
+      "paperId": "810f6d12bc958526bc36c8db8080baaba36d4c51"
+    },
+    {
+      "paperId": "cfd3ead19f53fabc3b59b8f73e8ecdea0aec2f7c"
+    },
+    {
+      "paperId": "5705d8ab2a5012763c20d6cfb8c81b4be1ba4a9f"
+    },
+    {
+      "paperId": "9d1fc4e31f59310e48532932f6ddea424b3ec986"
+    },
+    {
+      "paperId": "1400272fc8a8f2a0faa2424ffe47c5cd625c0e3e"
+    },
+    {
+      "paperId": "1782ced7fd0b3da5562359d12230f6af7efec6f3"
+    },
+    {
+      "paperId": "625e854d85358f3b5b4d2e5a22aac9444924ba61"
+    },
+    {
+      "paperId": "008287fb67b79bff99e17b3d1c516a421e0fadbd"
+    },
+    {
+      "paperId": "27fa83552093be877eeb1b81c4a948942056254a"
+    },
+    {
+      "paperId": "f8f2089aa653effc3376f35ba934d8aaaf3c2b2d"
+    },
+    {
+      "paperId": "5a676010b5e0fa7239663228ea6a38faf6ca5418"
+    },
+    {
+      "paperId": "15cdd958299a759474283a02f53c08183cc5f080"
+    },
+    {
+      "paperId": "3e8775584d3d272310bbabf5a18413e28676da27"
+    },
+    {
+      "paperId": "cab8f716bb79b5f123d3f704a55d9270a8715d4f"
+    },
+    {
+      "paperId": "1c7d6dd2b4166bf682da397bc33750641f200337"
+    },
+    {
+      "paperId": "e94cad8c693c7c6a87b422187418c861fdb5fd38"
+    },
+    {
+      "paperId": "f2b16cb594920f68c501ccfec0f18b7a3d9d9520"
+    },
+    {
+      "paperId": "a915e459fa887c42b7161a91d38d10eb88f0310a"
+    },
+    {
+      "paperId": "a0fcf540e09b83a5ae05f75aa66d5b70171d22d5"
+    },
+    {
+      "paperId": "b58e6c78b1abff293c6d4f3e7623651bcc4b7273"
+    },
+    {
+      "paperId": "6d88d3b2b536dd13e070254fa6ce0d8da82276ee"
+    },
+    {
+      "paperId": "7f366e63413699a8d059a5b484b5614446cce02d"
+    },
+    {
+      "paperId": "fa5118f6a9a15eaee0e3a4e594803163be9de341"
+    },
+    {
+      "paperId": "06fefc75e5f19f109b915138f47ac1b2a023f5e7"
+    },
+    {
+      "paperId": "49b9239dde336cdb77b4877db6ebe699a2c51069"
+    },
+    {
+      "paperId": "e0e2ce07098626e5e42f187cef890f741faf253f"
+    },
+    {
+      "paperId": "7c6a5b5aa11221f0450175fd98e5c8af834a8058"
+    },
+    {
+      "paperId": "05bf312c98921c416105062b2b6a4b70f8319fed"
+    },
+    {
+      "paperId": "60a61b8075898492176ba307b87e81481112f981"
+    },
+    {
+      "paperId": "7bd98c81687e5f466888afeac22ba0207cec8956"
+    },
+    {
+      "paperId": "73fd1dc863efdd7441182eb2c3417c5576320ee2"
+    },
+    {
+      "paperId": "b88e478f8a13bab365c6cd3265a957cdc30d7928"
+    },
+    {
+      "paperId": "d6b315a41e6c263ffeffc3a4f31509cc23ab3dc1"
+    },
+    {
+      "paperId": "7224e93740da5c9f29f7d5bdd44fd0b63ba7aa99"
+    },
+    {
+      "paperId": "548261f8b21c2d84826a757394db6430c960d5b5"
+    },
+    {
+      "paperId": "608dddca81d2c0965f10b8beeffff8e53030ae83"
+    },
+    {
+      "paperId": "8a0d161a11919350463c084955a5d58f02bf5b0c"
+    },
+    {
+      "paperId": "32811a4a9a7ae2c34e68c2012e5918299ce85a88"
+    },
+    {
+      "paperId": "7e461a6fae8296c809059977166db3c0b096cf64"
+    },
+    {
+      "paperId": "e239d50605c4aa5e0ca1ea7a1dd5651900fa1d1c"
+    },
+    {
+      "paperId": "646e65c68352fb70ba00f49f7f7f699d81ea21e8"
+    },
+    {
+      "paperId": "7247f3e26647d4bcf5b06c4baade1f522b526f65"
+    },
+    {
+      "paperId": "a5b21c5298ca2cd693563da18fb4a7fc39f18861"
+    },
+    {
+      "paperId": "2492313ebf8d5f8d5f25d2112f864b457989351a"
+    },
+    {
+      "paperId": "2d9b75e06e6e7669dfdcdb324e3d15348839a2a3"
+    },
+    {
+      "paperId": "de1b894371617ba9d27ee99849a273f0aabc5260"
+    },
+    {
+      "paperId": "c4fe1ac6bff383dbae62e1a9e7a3f323916dfb34"
+    },
+    {
+      "paperId": "ef9381c9d5c0a1769a25f807dbec3939a1c085dd"
+    },
+    {
+      "paperId": "9d578a04ae0bef862ec378971bceb91829645168"
+    },
+    {
+      "paperId": "e34f87313f3ca156ab38928c082294dc6d085710"
+    },
+    {
+      "paperId": "916ffba24d36bf86b5daa502b82397a9b18c0097"
+    },
+    {
+      "paperId": "50c17f14a091f54f315e65c36c9e78d8aa940866"
+    },
+    {
+      "paperId": "c996f5585ce9c4d80bf3ac03e8328d07cff53005"
+    },
+    {
+      "paperId": "4e98dde420b63f896fc7e1ca79a5c5e3b15351b8"
+    },
+    {
+      "paperId": "514dfc543eb0266485358e90ff6b88c4f2221475"
+    },
+    {
+      "paperId": "b24accf54f16f6b0d2636296c607f330f229eb11"
+    },
+    {
+      "paperId": "dcf7e0f977265d36f88f3e646b6c790baceb6241"
+    },
+    {
+      "paperId": "22e13408cdd186f79a8d7b9ef139c85ec1f0f303"
+    },
+    {
+      "paperId": "db05d354f3527c9afa6f2181e928ec575310966a"
+    },
+    {
+      "paperId": "dff4d8fdc98f62ab663e00d67a40b49ca2ea252d"
+    },
+    {
+      "paperId": "59797602c57e49ba23e0444f7bd4f750771f07aa"
+    },
+    {
+      "paperId": "894788cbf27e5307503806591532493b3a1cf93d"
+    },
+    {
+      "paperId": "ff1df306ded612acb6d1d543c20127f1877ec4a4"
+    },
+    {
+      "paperId": "bd13fe232be271f40ec494e2a39f0207b155c1a8"
+    },
+    {
+      "paperId": "5d72ca715497b4b52471e6d1af26c72cd19c40c7"
+    },
+    {
+      "paperId": "37815c1e6cce8b572a44892b360e619b10bfd28f"
+    },
+    {
+      "paperId": "164eb555d41950f7221d749cfc4cbecfff6665bc"
+    },
+    {
+      "paperId": "817d164ccef653e533bb77ae8b18cdf64d4c0a2f"
+    },
+    {
+      "paperId": "f6ca7dbe2a9aaf9dcade01d9861da3ff07faa2cc"
+    },
+    {
+      "paperId": "b80622a34721ef57fc0524638496e1e0c44acf8f"
+    },
+    {
+      "paperId": "bf9ef119bbf2529f790ca85c78faa1fcdfd5ab2f"
+    },
+    {
+      "paperId": "6e90c62e88c32f8b9a353b00d2b5ff9955005b68"
+    },
+    {
+      "paperId": "1236b4a058f9d2cf997887e5a48b4819e4c58110"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "61d98031a57d5aa2c25abaa4c140ca1e63334d8b"
+    },
+    {
+      "paperId": "a40ffbea9601cea8b7c973a8cedbea297a6de20a"
+    },
+    {
+      "paperId": "0ae262d9cf78536754bc064e07113ab5e978f208"
+    },
+    {
+      "paperId": "6e66427d1f46eeff8f87e7ef8b572f3fc3fb7363"
+    },
+    {
+      "paperId": "2d7dc122b7106b04359ee80c1800e825cf0b4ee8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4dfaece03e9a6098be0c3a80bb98a919a37ac17b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6d35212b6f9a77238c4816a9e7d0ff8cb4b2e8ea"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

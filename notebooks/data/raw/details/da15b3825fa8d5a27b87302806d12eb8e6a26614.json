@@ -1,0 +1,41 @@
+{
+  "paperId": "da15b3825fa8d5a27b87302806d12eb8e6a26614",
+  "externalIds": {
+    "MAG": "3004742940",
+    "CorpusId": 112912591
+  },
+  "url": "https://www.semanticscholar.org/paper/da15b3825fa8d5a27b87302806d12eb8e6a26614",
+  "title": "Precision in grain yield monitoring technologies: A review (Review)",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1934113076",
+      "name": "Singh"
+    },
+    {
+      "authorId": "2089576322",
+      "name": "Verma"
+    },
+    {
+      "authorId": "2061623863",
+      "name": "Sharma"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

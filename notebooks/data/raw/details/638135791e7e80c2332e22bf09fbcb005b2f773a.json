@@ -1,0 +1,67 @@
+{
+  "paperId": "638135791e7e80c2332e22bf09fbcb005b2f773a",
+  "externalIds": {
+    "MAG": "2379512924",
+    "CorpusId": 35985972,
+    "PubMed": "21510383"
+  },
+  "url": "https://www.semanticscholar.org/paper/638135791e7e80c2332e22bf09fbcb005b2f773a",
+  "title": "[Comparison of methods for estimating soybean chlorophyll content based on visual/near infrared reflection spectra].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2011,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "8574200",
+      "name": "Xuguang Tang"
+    },
+    {
+      "authorId": "1875161",
+      "name": "K. Song"
+    },
+    {
+      "authorId": "1813773",
+      "name": "Dianwei Liu"
+    },
+    {
+      "authorId": "2108183324",
+      "name": "Zongming Wang"
+    },
+    {
+      "authorId": "145124315",
+      "name": "Bai Zhang"
+    },
+    {
+      "authorId": "145248113",
+      "name": "Jia Du"
+    },
+    {
+      "authorId": "3312392",
+      "name": "Lihong Zeng"
+    },
+    {
+      "authorId": "2084534612",
+      "name": "Guang-Jia Jiang"
+    },
+    {
+      "authorId": "144260556",
+      "name": "Yuandong Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,458 @@
+{
+  "paperId": "bf6f3bf8611caf227ac9cfac3694fb468184171c",
+  "externalIds": {
+    "PubMedCentral": "4721704",
+    "MAG": "2181682338",
+    "DBLP": "journals/sensors/LukaANADWMAAH15",
+    "DOI": "10.3390/s151229783",
+    "CorpusId": 18317844,
+    "PubMed": "26633409"
+  },
+  "url": "https://www.semanticscholar.org/paper/bf6f3bf8611caf227ac9cfac3694fb468184171c",
+  "title": "Microfluidics Integrated Biosensors: A Leading Technology towards Lab-on-a-Chip and Sensing Applications",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 436,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/12/29783/pdf?version=1448965463",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4721704, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40026374",
+      "name": "George Luka"
+    },
+    {
+      "authorId": "145404836",
+      "name": "A. Ahmadi"
+    },
+    {
+      "authorId": "1763566",
+      "name": "H. Najjaran"
+    },
+    {
+      "authorId": "1972882",
+      "name": "E. Alocilja"
+    },
+    {
+      "authorId": "2413136",
+      "name": "M. DeRosa"
+    },
+    {
+      "authorId": "5917031",
+      "name": "K. Wolthers"
+    },
+    {
+      "authorId": "11374053",
+      "name": "A. Malki"
+    },
+    {
+      "authorId": "2057420653",
+      "name": "H. Aziz"
+    },
+    {
+      "authorId": "144223871",
+      "name": "A. Althani"
+    },
+    {
+      "authorId": "144262701",
+      "name": "M. Hoorfar"
+    }
+  ],
+  "abstract": "A biosensor can be defined as a compact analytical device or unit incorporating a biological or biologically derived sensitive recognition element immobilized on a physicochemical transducer to measure one or more analytes. Microfluidic systems, on the other hand, provide throughput processing, enhance transport for controlling the flow conditions, increase the mixing rate of different reagents, reduce sample and reagents volume (down to nanoliter), increase sensitivity of detection, and utilize the same platform for both sample preparation and detection. In view of these advantages, the integration of microfluidic and biosensor technologies provides the ability to merge chemical and biological components into a single platform and offers new opportunities for future biosensing applications including portability, disposability, real-time detection, unprecedented accuracies, and simultaneous analysis of different analytes in a single device. This review aims at representing advances and achievements in the field of microfluidic-based biosensing. The review also presents examples extracted from the literature to demonstrate the advantages of merging microfluidic and biosensing technologies and illustrate the versatility that such integration promises in the future biosensing for emerging areas of biological engineering, biomedical studies, point-of-care diagnostics, environmental monitoring, and precision agriculture.",
+  "references": [
+    {
+      "paperId": "05d4c8c2d7ce3137366cc369136bfe16fa136870"
+    },
+    {
+      "paperId": "bf045455ee11889dba8fd6eb230ea7aa5643a7bf"
+    },
+    {
+      "paperId": "79c52cfb77270648f8717f86613ba8f8e053386b"
+    },
+    {
+      "paperId": "eb5d849187e78318581fa0fa03cd248ce4475078"
+    },
+    {
+      "paperId": "92ad782e9dfc0cd0f106d7d6f182f32ace648b43"
+    },
+    {
+      "paperId": "2904e675b853f16925ee44656489d3dd823638d7"
+    },
+    {
+      "paperId": "5d059e28244fb6b4672f94afcada770519e50ef0"
+    },
+    {
+      "paperId": "6a7f4d82c9e533715c2bdd00443521f6c34da575"
+    },
+    {
+      "paperId": "1108dd693d85c7a0326811c324f42aaaa5b27ef9"
+    },
+    {
+      "paperId": "776499b903304e5ab98ece5fa4eb37a5d54939fa"
+    },
+    {
+      "paperId": "5d090dd3a3593c360bfcbf928339f0682fbdf5e0"
+    },
+    {
+      "paperId": "195f5e75fff0086debbd034205a69cde0ad87ba7"
+    },
+    {
+      "paperId": "1356a20f64f2a2832fe4ba0726dd45761bc0fc73"
+    },
+    {
+      "paperId": "d64ee61a8bd8a64a0541954e01f4cc0b57da5b3a"
+    },
+    {
+      "paperId": "1daad884ff0bf4512486e3d27f7d8024a0110c61"
+    },
+    {
+      "paperId": "ff8534c23dafcbbd56ae24ae59e8f36d674be714"
+    },
+    {
+      "paperId": "bae8bf2d5078d24294f1475f81cd998b3ac27d91"
+    },
+    {
+      "paperId": "2f14dd04f09f41c5acb47c7d6ff86751631fc132"
+    },
+    {
+      "paperId": "0bd27caf1559e8f47cb31f379c90c8cc03dd274d"
+    },
+    {
+      "paperId": "e619f5ef86359d58e1e316c3eb6d2dcde468133a"
+    },
+    {
+      "paperId": "2a726a30349d1defcb03abb4286b61af4ea8e3af"
+    },
+    {
+      "paperId": "4a367045b87049f6517f70bdb59f85b31e7378d5"
+    },
+    {
+      "paperId": "98156b14a331baf0ed2abd3e9dca3c92bc8b50ee"
+    },
+    {
+      "paperId": "9d59bd88bb404f558a09d80300d2563f8cf1f7a9"
+    },
+    {
+      "paperId": "8ceba51372ea51bedb61511eb57884a273def03c"
+    },
+    {
+      "paperId": "126e5a77c92bed8bcbe0e81de46fa4010fbbad0e"
+    },
+    {
+      "paperId": "805f8f3acdee2aa05e54d52321c89a99f34a5e01"
+    },
+    {
+      "paperId": "19e1f988f5ab564b6d806f9103139e9882b32cf8"
+    },
+    {
+      "paperId": "b84856bf299e8efdc587c9a5f95548449997bb89"
+    },
+    {
+      "paperId": "783d648e690d3adff79689350557ffb221d6163d"
+    },
+    {
+      "paperId": "a309d573e2c908744358f3bfe931508fb3475a96"
+    },
+    {
+      "paperId": "9e031246652e094dd03988fb2b7dc6fe20024b24"
+    },
+    {
+      "paperId": "3b2f38a16ad9dedef0aa3eebd10347338179b2ab"
+    },
+    {
+      "paperId": "5c557e17c000dfba3fb954790e62c256549c3160"
+    },
+    {
+      "paperId": "36ca04e5247768b473f216b53d1a682111deecfb"
+    },
+    {
+      "paperId": "7bfe49ca29718f3c51bcd1911a8742f99f72f285"
+    },
+    {
+      "paperId": "6dce1f6ea88a2be7957ee82a944c7bc961c3efcf"
+    },
+    {
+      "paperId": "1b67e9f512158573c1acdda58f28773d55b4f0d9"
+    },
+    {
+      "paperId": "21b2d82a6353ed14e1e7d769468eb4dfbe617b29"
+    },
+    {
+      "paperId": "907b36591fdd2c53d95adbb3572140e2754f60cd"
+    },
+    {
+      "paperId": "42028ba9b46ac91f1f13e5d8fd89b4cfe264b5a2"
+    },
+    {
+      "paperId": "fd95d8b44e59adb248e60b3572891ea0dcb14e00"
+    },
+    {
+      "paperId": "55e6a0ad60af8eead847b24f3fb63264039eba2e"
+    },
+    {
+      "paperId": "0d7d331f73fb4b579e54fe383e5115894fff5f8d"
+    },
+    {
+      "paperId": "b778e353e5ee0c9fc93d8bba9940144a1c7f14eb"
+    },
+    {
+      "paperId": "03aff549c65a2aacfb92459d2543f856fbabd5b4"
+    },
+    {
+      "paperId": "f212ed4628d94e3e921ffd69e049db473c3990c5"
+    },
+    {
+      "paperId": "33531e2453ae5e34b3caffc81c25d341ed285de5"
+    },
+    {
+      "paperId": "70354d7986084022302286122c6e46cde6920912"
+    },
+    {
+      "paperId": "4cc19fb545e429b1e239f8d6638b3643da1fae36"
+    },
+    {
+      "paperId": "27f8fd9003d2a083a5be5a86264a3e39138ce11a"
+    },
+    {
+      "paperId": "0473e662524cc190b32bcbfefeb4a08c6f1ba623"
+    },
+    {
+      "paperId": "83c061181210543794d57611e585161675588745"
+    },
+    {
+      "paperId": "99f8427d68de51e9be61bd73bae1278b47c06f7d"
+    },
+    {
+      "paperId": "6a326d459f5c8681cd65c07af3c8a4a417c6d3f5"
+    },
+    {
+      "paperId": "127d9257f80c259d10edc8f73b17b74ce28918f8"
+    },
+    {
+      "paperId": "ad8974a77aeae2f3ccc329d229ea1fbe861ff770"
+    },
+    {
+      "paperId": "0ae821bf6493da48cc8321d57254a80a365e176e"
+    },
+    {
+      "paperId": "0c0488518c305d036c83a9d546f38654503ec979"
+    },
+    {
+      "paperId": "a0db24f3d45522a49b7052cf1616d37f88064cf1"
+    },
+    {
+      "paperId": "1dd8806e37438ccfb0f9532f444706fdd111375d"
+    },
+    {
+      "paperId": "6386ffa165ee46dd320ffd1c9ecb27b1c01e49e1"
+    },
+    {
+      "paperId": "b7498311769cc0d3c32b7b40d5da04ca44ded851"
+    },
+    {
+      "paperId": "3e9a004350abab6c2243e0e25b17d3355ff45b79"
+    },
+    {
+      "paperId": "e581f9f69ca636ec9adb30f009d7275c7ed66b1e"
+    },
+    {
+      "paperId": "8c58531b0f0958e9fa48359ee8d623b7042710b5"
+    },
+    {
+      "paperId": "a249d2a939669aa5f1a0ddb0fccff127007c979f"
+    },
+    {
+      "paperId": "eb8333275ac179f2a9aad1f9b1c26898a0e63b7c"
+    },
+    {
+      "paperId": "d90ea9841f425475f3e9e267fe5075509dd14d55"
+    },
+    {
+      "paperId": "dc370e07f7481f276a155bcac18d3f7939d3c8eb"
+    },
+    {
+      "paperId": "019a7374ce0cc357d4ca3f5d1e3173b577c1f7e7"
+    },
+    {
+      "paperId": "f0de4ee0be10aac34463b78ea880b68f4d449199"
+    },
+    {
+      "paperId": "5798308ea9fa9d3aac9f048f8234a3b6d71fb95d"
+    },
+    {
+      "paperId": "9b9a3ca7e8d244747dee04765f4357e91ed88468"
+    },
+    {
+      "paperId": "c42d0a6e84c1927bca714280ded5074e4728071a"
+    },
+    {
+      "paperId": "45902a97303768cfee19c37eec932b5ca035e295"
+    },
+    {
+      "paperId": "d21510c7b0ff25df3eab1a9932aa4ed0e4de6cf7"
+    },
+    {
+      "paperId": "4d496c1f32ebb8a34f25ea4589cb83f1e9b4e239"
+    },
+    {
+      "paperId": "5125a00c03484ecf918a966b16c1e86317adb2a7"
+    },
+    {
+      "paperId": "f500b63cc656911ff8b5af9eca0677d953aa6d36"
+    },
+    {
+      "paperId": "37491ed087839d86c9ba7783cb12ccc6c9918bf6"
+    },
+    {
+      "paperId": "7afe0480de5c990be2ce75fd3705651384e5d533"
+    },
+    {
+      "paperId": "8017b44d83bd03ae50378f01bbd86c0d75f4c246"
+    },
+    {
+      "paperId": "3bcfae082ff4de03be081cde37b412acb8437e29"
+    },
+    {
+      "paperId": "166dc411328d725fd8ce51c496185049a1fa2c04"
+    },
+    {
+      "paperId": "552a1bd0dd0c6852961419ce8d4cf62ff2e6dd23"
+    },
+    {
+      "paperId": "1b88bf6c921caa5024f04eeff5dc7b78783a6b00"
+    },
+    {
+      "paperId": "3abbf0784436e602e631c7865df0bd7a3e141c08"
+    },
+    {
+      "paperId": "cd59bde51806355b82aa5025d76b9b4edfc5a7a3"
+    },
+    {
+      "paperId": "2da2607043d5c3d383e47f7e5f3cf6dc43a049ab"
+    },
+    {
+      "paperId": "3a930e139599f6d6d1656de048e10b887ea83aa3"
+    },
+    {
+      "paperId": "a663da13cedb83bc0c49b5052c45e7abc9c92eda"
+    },
+    {
+      "paperId": "2efce4d9b8c6e9a12d39f8f6d8390d60429a8b6b"
+    },
+    {
+      "paperId": "a64fdb279c9527442f97be7e7b65e32d5f124bb7"
+    },
+    {
+      "paperId": "06c144192d0332169bc7fd8bf02369212df7462b"
+    },
+    {
+      "paperId": "80eb0c6ba5d5eb477fc7ea7d5e1009de89b083c4"
+    },
+    {
+      "paperId": "4aaf3ba1c35774e3990b1de09ee1d347135adc75"
+    },
+    {
+      "paperId": "8c150191c90b0bffa03723c2af7b46c42716625e"
+    },
+    {
+      "paperId": "2435a77e3726e88e71984aa5d11701502bc0230d"
+    },
+    {
+      "paperId": "a50241384ae8a8a1cbe2be79468dce2fafaac980"
+    },
+    {
+      "paperId": "6068ab19299520d972a3b1b3fbad29e8d77005c3"
+    },
+    {
+      "paperId": "fbe29bf8cf1765dd36bdc568493f03eeaec3e6b3"
+    },
+    {
+      "paperId": "faa661e4f0c45f7594dc7c26a2e5c3633d33f029"
+    },
+    {
+      "paperId": "c7e7dc017f07b8a3ae81c748a2ca55f72274bc3d"
+    },
+    {
+      "paperId": "c3586bfd10931b290bcf0f930a107e6aa0f75631"
+    },
+    {
+      "paperId": "f994cdd9abbfeab5f8ea5c5e837fcff29e29925e"
+    },
+    {
+      "paperId": "171672c6aa7a4955f03fde88201753b9f23e2c97"
+    },
+    {
+      "paperId": "88fa50f2f10c60f12160b538d5c26284a00ccb8f"
+    },
+    {
+      "paperId": "6703e8caa87d054b90d69e61cf13e4710d632d83"
+    },
+    {
+      "paperId": "365cf8a2f3a3142d40aa1e200d72bd147e75c613"
+    },
+    {
+      "paperId": "57951a01efd15160ae7af961b6ef0fd15a68f181"
+    },
+    {
+      "paperId": "2ea737c4dde28b3dd17b9438d69cfe0fae9622e2"
+    },
+    {
+      "paperId": "44aa908403571daac1abf08414ed961fd512defa"
+    },
+    {
+      "paperId": "1c9e963a07395c4d21b48d7983bbb83cde7197a5"
+    },
+    {
+      "paperId": "376df44fec9723256a7c6611cc2d56ca1d3da510"
+    },
+    {
+      "paperId": "1f38283fff0c76d630f5dac380dea1e7c0eeafd3"
+    },
+    {
+      "paperId": "8ac3b74cb173f60217437e954e7b0a31b03bf595"
+    },
+    {
+      "paperId": "ab2dfe614b0efb591d2e5a15d447b57ca679f595"
+    },
+    {
+      "paperId": "957365b82e7805e2450e091bc8b51a80f76ba3a3"
+    },
+    {
+      "paperId": "45531dd5b486fba00f3c80e651382adafe830692"
+    },
+    {
+      "paperId": "4d368799b141c3ab552d48615eee572888e7bd68"
+    },
+    {
+      "paperId": "1ab4faf320d91dd9aea8f3e39f3e1bae5658e1b0"
+    },
+    {
+      "paperId": "1e76291dc6245e003517df72b8fa87daee07aa31"
+    },
+    {
+      "paperId": "228710fb37c77545fa27dc5732451b842dc95e69"
+    },
+    {
+      "paperId": "a1c1019cd3400ffeb2c92abc42a94f77e31979f7"
+    },
+    {
+      "paperId": "98ff23d3d50119213aacece568b32ede61e91975"
+    },
+    {
+      "paperId": "3a2e8ffc157f3a11593fb07985c70e5f65eb5e9e"
+    }
+  ]
+}

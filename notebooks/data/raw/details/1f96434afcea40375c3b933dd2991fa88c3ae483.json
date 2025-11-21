@@ -1,0 +1,58 @@
+{
+  "paperId": "1f96434afcea40375c3b933dd2991fa88c3ae483",
+  "externalIds": {
+    "MAG": "2157430763",
+    "DOI": "10.1109/ICSENST.2012.6461735",
+    "CorpusId": 44011553
+  },
+  "url": "https://www.semanticscholar.org/paper/1f96434afcea40375c3b933dd2991fa88c3ae483",
+  "title": "Wireless sensing and control for precision Green house management",
+  "venue": "International Conference on Information Control Systems & Technologies",
+  "year": 2012,
+  "citationCount": 40,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSENST.2012.6461735?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSENST.2012.6461735, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2269056268",
+      "name": "C. Akshay"
+    },
+    {
+      "authorId": "30988864",
+      "name": "N. Karnwal"
+    },
+    {
+      "authorId": "31085729",
+      "name": "K. A. Abhfeeth"
+    },
+    {
+      "authorId": "47556260",
+      "name": "R. Khandelwal"
+    },
+    {
+      "authorId": "30693308",
+      "name": "T. Govindraju"
+    },
+    {
+      "authorId": "1804517",
+      "name": "D. Ezhilarasi"
+    },
+    {
+      "authorId": "9416206",
+      "name": "Y. Sujan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

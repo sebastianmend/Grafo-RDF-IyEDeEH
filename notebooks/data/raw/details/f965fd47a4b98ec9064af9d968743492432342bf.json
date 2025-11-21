@@ -1,0 +1,126 @@
+{
+  "paperId": "f965fd47a4b98ec9064af9d968743492432342bf",
+  "externalIds": {
+    "MAG": "1960179487",
+    "DBLP": "journals/jimaging/DworakHS15",
+    "DOI": "10.3390/jimaging1010115",
+    "CorpusId": 17207670
+  },
+  "url": "https://www.semanticscholar.org/paper/f965fd47a4b98ec9064af9d968743492432342bf",
+  "title": "Precise Navigation of Small Agricultural Robots in Sensitive Areas with a Smart Plant Camera",
+  "venue": "Journal of Imaging",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2313-433X/1/1/115/pdf?version=1444745229",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/jimaging1010115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/jimaging1010115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "102533694",
+      "name": "V. Dworak"
+    },
+    {
+      "authorId": "2059650776",
+      "name": "Michael Hübner"
+    },
+    {
+      "authorId": "2828486",
+      "name": "J. Selbeck"
+    }
+  ],
+  "abstract": "Most of the relevant technology related to precision agriculture is currently controlled by Global Positioning Systems (GPS) and uploaded map data; however, in sensitive areas with young or expensive plants, small robots are becoming more widely used in exclusive work. These robots must follow the plant lines with centimeter precision to protect plant growth. For cases in which GPS fails, a camera-based solution is often used for navigation because of the system cost and simplicity. The low-cost plant camera presented here generates images in which plants are contrasted against the soil, thus enabling the use of simple cross-correlation functions to establish high-resolution navigation control in the centimeter range. Based on the foresight provided by images from in front of the vehicle, robust vehicle control can be established without any dead time; as a result, off-loading the main robot control and overshooting can be avoided.",
+  "references": [
+    {
+      "paperId": "5c1e1ecf47d274ca5f8e8531e9cc1dcf03c05ee8"
+    },
+    {
+      "paperId": "9c31eddeb336f70425d78b3aaf07ec3dd5d71dd4"
+    },
+    {
+      "paperId": "40b0677c47ad76c2b1b51bd1402b4a679262eaa3"
+    },
+    {
+      "paperId": "738221d1102a6d5bf0578dd3d796fa1b73f23724"
+    },
+    {
+      "paperId": "696a7d221d07cf56c7fa42deffdb0ebd0b2bd0cc"
+    },
+    {
+      "paperId": "2521644e4045bb422ca85a246a312ac3758012f1"
+    },
+    {
+      "paperId": "f6faec369b7aadf83a2aeffc4c03620f1259dc3a"
+    },
+    {
+      "paperId": "3655beaf9d2d4caa8913af949492f5e895088b18"
+    },
+    {
+      "paperId": "5a4449949b2d349ef08474f98ca722e441ae1ea4"
+    },
+    {
+      "paperId": "fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c"
+    },
+    {
+      "paperId": "b80115696bb7566c517db7057146577d86d4f0e5"
+    },
+    {
+      "paperId": "9bdbde9afedef05c6a1301e03f216ef81b6d4d17"
+    },
+    {
+      "paperId": "fcdf0908cad3da17fd2780daaef1eb6a8e2f1c30"
+    },
+    {
+      "paperId": "c29f332acd365a132645b5733aae05b738388ba3"
+    },
+    {
+      "paperId": "020c389397b9eb0043116d9388156d8f9193d5dd"
+    },
+    {
+      "paperId": "332579f151bdb825cdd2528d1edf67002134b64b"
+    },
+    {
+      "paperId": "707f8ed20866e4573ecc53168ab549f2874b1470"
+    },
+    {
+      "paperId": "caa9a9541e7e88372d66c4628cf9ec8052f51196"
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "e8be4f03768e3190ff7c6b6f4ba487f0746b22e2"
+    },
+    {
+      "paperId": "7bfc53c84410fb6b8cb7f2331ba9744f9a020e5a"
+    },
+    {
+      "paperId": "0f6ac0a591200f61eb0224035ebce24fb8ccb2f2"
+    },
+    {
+      "paperId": "2d54a33d62255c4abb2a87116c4dca9e73e53800"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

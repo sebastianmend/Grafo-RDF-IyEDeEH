@@ -1,0 +1,48 @@
+{
+  "paperId": "cb834f139b26946e3c416a59ee431c6a128919d9",
+  "externalIds": {
+    "DBLP": "journals/spe/MooreTPC14",
+    "MAG": "1601909234",
+    "DOI": "10.1002/spe.2209",
+    "CorpusId": 11764638
+  },
+  "url": "https://www.semanticscholar.org/paper/cb834f139b26946e3c416a59ee431c6a128919d9",
+  "title": "Programmatically defining the software footprint of sensor networks using the Android platform",
+  "venue": "Software, Practice & Experience",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/spe.2209?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/spe.2209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2067767804",
+      "name": "T. Moore"
+    },
+    {
+      "authorId": "144857278",
+      "name": "S. Tilak"
+    },
+    {
+      "authorId": "3144339",
+      "name": "Phillip Papadouplous"
+    },
+    {
+      "authorId": "1890431",
+      "name": "Luca Clementi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

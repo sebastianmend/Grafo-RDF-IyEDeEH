@@ -1,0 +1,49 @@
+{
+  "paperId": "5b5d2bd18007095cc529dec8d01148e614881f67",
+  "externalIds": {
+    "MAG": "2065375061",
+    "DBLP": "conf/iros/TokekarHMI13",
+    "DOI": "10.1109/IROS.2013.6697126",
+    "CorpusId": 6132163
+  },
+  "url": "https://www.semanticscholar.org/paper/5b5d2bd18007095cc529dec8d01148e614881f67",
+  "title": "Sensor planning for a symbiotic UAV and UGV system for precision agriculture",
+  "venue": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+  "year": 2013,
+  "citationCount": 458,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://conservancy.umn.edu/bitstreams/3c000e0d-8416-4449-a080-4dbf15ed6167/download",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IROS.2013.6697126?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IROS.2013.6697126, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2390456",
+      "name": "Pratap Tokekar"
+    },
+    {
+      "authorId": "3102452",
+      "name": "J. V. Hook"
+    },
+    {
+      "authorId": "2580238",
+      "name": "D. Mulla"
+    },
+    {
+      "authorId": "1698835",
+      "name": "Volkan Isler"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

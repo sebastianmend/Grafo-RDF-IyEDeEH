@@ -1,0 +1,35 @@
+{
+  "paperId": "886e78bd385c47159f940653c69d61d81a437610",
+  "externalIds": {
+    "MAG": "2098183092",
+    "DOI": "10.2139/ssrn.1709892",
+    "CorpusId": 54186246
+  },
+  "url": "https://www.semanticscholar.org/paper/886e78bd385c47159f940653c69d61d81a437610",
+  "title": "Is Agricultural Biotechnology Part of Sustainable Agriculture? Different Views in Switzerland and New Zealand",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://mospace.umsystem.edu/xmlui/bitstream/10355/8017/1/IsAgriculturalBiotech.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.1709892?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.1709892, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48481232",
+      "name": "P. Aerni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

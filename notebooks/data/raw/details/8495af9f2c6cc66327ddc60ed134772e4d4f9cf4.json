@@ -1,0 +1,65 @@
+{
+  "paperId": "8495af9f2c6cc66327ddc60ed134772e4d4f9cf4",
+  "externalIds": {
+    "DBLP": "conf/icit2/CheeinHGCTREA15",
+    "MAG": "1479889705",
+    "DOI": "10.1109/ICIT.2015.7125113",
+    "CorpusId": 35753228
+  },
+  "url": "https://www.semanticscholar.org/paper/8495af9f2c6cc66327ddc60ed134772e4d4f9cf4",
+  "title": "Human-robot interaction in precision agriculture: Sharing the workspace with service units",
+  "venue": "International Conference on Industrial Technology",
+  "year": 2015,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIT.2015.7125113?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIT.2015.7125113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9196998",
+      "name": "F. A. Cheeín"
+    },
+    {
+      "authorId": "121634277",
+      "name": "D. Herrera"
+    },
+    {
+      "authorId": "47338222",
+      "name": "Javier Gimenez"
+    },
+    {
+      "authorId": "1783160",
+      "name": "R. Carelli"
+    },
+    {
+      "authorId": "1403157055",
+      "name": "M. Torres-Torriti"
+    },
+    {
+      "authorId": "1382531391",
+      "name": "J. R. Rosell-Polo"
+    },
+    {
+      "authorId": "3238367",
+      "name": "A. Escolà"
+    },
+    {
+      "authorId": "34843989",
+      "name": "J. Arnó"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

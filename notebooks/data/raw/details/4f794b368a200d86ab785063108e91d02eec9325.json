@@ -1,0 +1,53 @@
+{
+  "paperId": "4f794b368a200d86ab785063108e91d02eec9325",
+  "externalIds": {
+    "MAG": "2071009431",
+    "DBLP": "conf/icca/TangerinoGTIP11",
+    "DOI": "10.1109/ICCA.2011.6138055",
+    "CorpusId": 17184108
+  },
+  "url": "https://www.semanticscholar.org/paper/4f794b368a200d86ab785063108e91d02eec9325",
+  "title": "Hydraulic networked control of four wheel steering agricultural robot",
+  "venue": "2011 9th IEEE International Conference on Control and Automation (ICCA)",
+  "year": 2011,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCA.2011.6138055?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCA.2011.6138055, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2084736316",
+      "name": "Giovana T. Tangerino"
+    },
+    {
+      "authorId": "39367954",
+      "name": "E. P. Godoy"
+    },
+    {
+      "authorId": "8492982",
+      "name": "R. A. Tabile"
+    },
+    {
+      "authorId": "2091705980",
+      "name": "R. Inamasu"
+    },
+    {
+      "authorId": "2607583",
+      "name": "A. Porto"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

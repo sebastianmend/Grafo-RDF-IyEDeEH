@@ -1,0 +1,42 @@
+{
+  "paperId": "f43798bb8445247054a77029f3be5657a2c29daf",
+  "externalIds": {
+    "MAG": "2392664124",
+    "CorpusId": 28046409,
+    "PubMed": "22827091"
+  },
+  "url": "https://www.semanticscholar.org/paper/f43798bb8445247054a77029f3be5657a2c29daf",
+  "title": "[Hyperspectral estimation models of chlorophyll content in apple leaves].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2012,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2114787649",
+      "name": "Shuang Liang"
+    },
+    {
+      "authorId": "2917210",
+      "name": "Gengxing Zhao"
+    },
+    {
+      "authorId": "15318342",
+      "name": "Xicun Zhu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,57 @@
+{
+  "paperId": "3398927ec01c5a4e7a960828dffd655a817b1406",
+  "externalIds": {
+    "MAG": "2007671346",
+    "DOI": "10.1007/s00216-010-4601-z",
+    "CorpusId": 11521331,
+    "PubMed": "21229238"
+  },
+  "url": "https://www.semanticscholar.org/paper/3398927ec01c5a4e7a960828dffd655a817b1406",
+  "title": "Liquid chromatography–tandem mass spectrometry (LC/APCI-MS/MS) methods for the quantification of captan and folpet phthalimide metabolites in human plasma and urine",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2011,
+  "citationCount": 26,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://serval.unil.ch/resource/serval:BIB_018075A5937E.P001/REF.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-010-4601-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-010-4601-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "34590395",
+      "name": "A. Berthet"
+    },
+    {
+      "authorId": "145435541",
+      "name": "M. Bouchard"
+    },
+    {
+      "authorId": "12493576",
+      "name": "P. Schüpfer"
+    },
+    {
+      "authorId": "4690332",
+      "name": "D. Vernez"
+    },
+    {
+      "authorId": "2868603",
+      "name": "B. Danuser"
+    },
+    {
+      "authorId": "144796755",
+      "name": "C. Huynh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,47 @@
+{
+  "paperId": "ab28ab3a1b1a1df059c43b1864b91b4e00d19762",
+  "externalIds": {
+    "DBLP": "conf/larc/MontanariTFR15",
+    "MAG": "2290677027",
+    "DOI": "10.1109/LARS-SBR.2015.64",
+    "CorpusId": 18051095
+  },
+  "url": "https://www.semanticscholar.org/paper/ab28ab3a1b1a1df059c43b1864b91b4e00d19762",
+  "title": "Ground Vehicle Detection and Classification by an Unmanned Aerial Vehicle",
+  "venue": "2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR)",
+  "year": 2015,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LARS-SBR.2015.64?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LARS-SBR.2015.64, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2057754374",
+      "name": "R. Montanari"
+    },
+    {
+      "authorId": "144049222",
+      "name": "D. Tozadore"
+    },
+    {
+      "authorId": "2082810822",
+      "name": "Eduardo S. Fraccaroli"
+    },
+    {
+      "authorId": "2142579926",
+      "name": "Roseli A. F. Romero"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

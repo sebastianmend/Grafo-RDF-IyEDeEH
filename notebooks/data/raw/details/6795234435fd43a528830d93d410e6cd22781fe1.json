@@ -1,0 +1,47 @@
+{
+  "paperId": "6795234435fd43a528830d93d410e6cd22781fe1",
+  "externalIds": {
+    "MAG": "2326996716",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910602",
+    "CorpusId": 42646469
+  },
+  "url": "https://www.semanticscholar.org/paper/6795234435fd43a528830d93d410e6cd22781fe1",
+  "title": "Remote sensing assisted multi-level crop acreage estimation — An application of small area estimation in Heilongjiang province",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910602?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910602, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145465225",
+      "name": "W. Zhou"
+    },
+    {
+      "authorId": "2108141140",
+      "name": "Jinshui Zhang"
+    },
+    {
+      "authorId": "41214505",
+      "name": "Yaozhong Pan"
+    },
+    {
+      "authorId": "2070271415",
+      "name": "R. Zhu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

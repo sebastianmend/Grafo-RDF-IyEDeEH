@@ -1,0 +1,175 @@
+{
+  "paperId": "d97da99092451837ceddbdd4a8905d7dc7a1b2f7",
+  "externalIds": {
+    "PubMedCentral": "4279486",
+    "DBLP": "journals/sensors/HuangYPY14",
+    "MAG": "2074607920",
+    "DOI": "10.3390/s141120347",
+    "CorpusId": 2563028,
+    "PubMed": "25353983"
+  },
+  "url": "https://www.semanticscholar.org/paper/d97da99092451837ceddbdd4a8905d7dc7a1b2f7",
+  "title": "Estimation of Nitrogen Vertical Distribution by Bi-Directional Canopy Reflectance in Winter Wheat",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2014,
+  "citationCount": 40,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/14/11/20347/pdf?version=1414496503",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4279486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "2560306",
+      "name": "Qinying Yang"
+    },
+    {
+      "authorId": "1937560",
+      "name": "R. Pu"
+    },
+    {
+      "authorId": "50591494",
+      "name": "Shaoyuan Yang"
+    }
+  ],
+  "abstract": "Timely measurement of vertical foliage nitrogen distribution is critical for increasing crop yield and reducing environmental impact. In this study, a novel method with partial least square regression (PLSR) and vegetation indices was developed to determine optimal models for extracting vertical foliage nitrogen distribution of winter wheat by using bi-directional reflectance distribution function (BRDF) data. The BRDF data were collected from ground-based hyperspectral reflectance measurements recorded at the Xiaotangshan Precision Agriculture Experimental Base in 2003, 2004 and 2007. The view zenith angles (1) at nadir, 40° and 50°; (2) at nadir, 30° and 40°; and (3) at nadir, 20° and 30° were selected as optical view angles to estimate foliage nitrogen density (FND) at an upper, middle and bottom layer, respectively. For each layer, three optimal PLSR analysis models with FND as a dependent variable and two vegetation indices (nitrogen reflectance index (NRI), normalized pigment chlorophyll index (NPCI) or a combination of NRI and NPCI) at corresponding angles as explanatory variables were established. The experimental results from an independent model verification demonstrated that the PLSR analysis models with the combination of NRI and NPCI as the explanatory variables were the most accurate in estimating FND for each layer. The coefficients of determination (R2) of this model between upper layer-, middle layer- and bottom layer-derived and laboratory-measured foliage nitrogen density were 0.7335, 0.7336, 0.6746, respectively.",
+  "references": [
+    {
+      "paperId": "ccf95f45a23c797d9231f4c3af9ebbe15d657602"
+    },
+    {
+      "paperId": "de8c70ae28509606b4ece6eb28a14639b3f540f7"
+    },
+    {
+      "paperId": "5f7d01eac6b5d891b3b03c2bca501dd83259f5ea"
+    },
+    {
+      "paperId": "0d8241775f2e1786f536d5f65c22cce01e45674b"
+    },
+    {
+      "paperId": "6a256c0ed480b77d5b0e07ea61c5d61da06af5e7"
+    },
+    {
+      "paperId": "2d7b492b44b0f0dd7ccbe196f3051cfd82de536a"
+    },
+    {
+      "paperId": "17d5103fb22093cd282689f029f9856f5666cf3a"
+    },
+    {
+      "paperId": "9fee2ed272eeebb19785c3b68a91b3a554cb02aa"
+    },
+    {
+      "paperId": "c4777a90ede9e6b21dfd7d02b8b73eb527e0da1c"
+    },
+    {
+      "paperId": "2a1953991bb389228369ac9f0979c2b9c30065bb"
+    },
+    {
+      "paperId": "02f0a8e93c86cac8c670ac88019b5b1570648369"
+    },
+    {
+      "paperId": "9e0fc85b1fed68987d5ff0a7a7fa6241b9111395"
+    },
+    {
+      "paperId": "1a4c86bb1f58cd7699617d155141979418c86b77"
+    },
+    {
+      "paperId": "164ca2be9f3b52b15d0a44aef48a1727cf6d2ae7"
+    },
+    {
+      "paperId": "84f10074d07d9f8eae8b6be9298cf1d3d8d69e29"
+    },
+    {
+      "paperId": "68eb4465f032027c6325304a5a905eb5c9709b46"
+    },
+    {
+      "paperId": "937facefe72a85300d1a69ecfbc82e71b5d836f4"
+    },
+    {
+      "paperId": "c1b567f590a1878b76f2a2f88c1337aa3c3be0dc"
+    },
+    {
+      "paperId": "f9e3120e4982a0ce42ee7a3be1c00e20e2e970d5"
+    },
+    {
+      "paperId": "1419b770809f099f974237f69a0dd77a58132566"
+    },
+    {
+      "paperId": "c10ede7bcb6fa96433fb2918ed147ecbe32cc843"
+    },
+    {
+      "paperId": "dba4780add5014b9c894709acc6255cdb098ec7f"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "e2df71a688bb58fffb3f10aa33e184082c963913"
+    },
+    {
+      "paperId": "7a9077260be18ede18dce8613e6e0b85204fc543"
+    },
+    {
+      "paperId": "83fbaed7b8a6a88a8e7b1dc0942e5f337bc2c86e"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "8223526d3516b3a5ceb0692ef49b4880e3a973af"
+    },
+    {
+      "paperId": "3c9d4730929f7960c67e37991e866cd479c59455"
+    },
+    {
+      "paperId": "b0da7884dfc3e87f1539191213f7fca7c657a73f"
+    },
+    {
+      "paperId": "9b039509172147fc0e9381686c4c27068048f281"
+    },
+    {
+      "paperId": "2f25864854810587ac5c974942844f99bc1a727f"
+    },
+    {
+      "paperId": "15a6ee38b60e7a0508f7ea654dec2026c89a41ce"
+    },
+    {
+      "paperId": "0887a4013e47cc290a4112eb8abf73968c459a80"
+    },
+    {
+      "paperId": "dd388126a6a3f1da362539d3547c22c8c35af974"
+    },
+    {
+      "paperId": "89f99413262270075f5cdf8f01165d625d216281"
+    },
+    {
+      "paperId": "c3a30c40d304a7a312942c0c243f5033b8c3fd3f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "321030a4e96b23d226f0c4d283e0b5fc344d4ed7"
+    },
+    {
+      "paperId": "9bca3037705e682755329697121a135d5f58eabc"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

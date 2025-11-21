@@ -1,0 +1,62 @@
+{
+  "paperId": "dcb7430a19b9128900f91dd21bc879d4a49eaeb3",
+  "externalIds": {
+    "MAG": "1581355799",
+    "DOI": "10.1002/arp.1512",
+    "CorpusId": 140719633
+  },
+  "url": "https://www.semanticscholar.org/paper/dcb7430a19b9128900f91dd21bc879d4a49eaeb3",
+  "title": "Use of Soil Apparent Electrical Resistivity Contact Sensors for the Extensive Study of Archaeological Sites",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://digital.csic.es/bitstream/10261/137918/1/accesoRestringido.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/arp.1512?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/arp.1512, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49012321",
+      "name": "J. M. Terrón"
+    },
+    {
+      "authorId": "114093979",
+      "name": "V. Mayoral"
+    },
+    {
+      "authorId": "113638004",
+      "name": "J. Salgado"
+    },
+    {
+      "authorId": "2160206886",
+      "name": "Francisco Antonio Galea"
+    },
+    {
+      "authorId": "2160208540",
+      "name": "Víctor Hurtado Pérez"
+    },
+    {
+      "authorId": "51980825",
+      "name": "C. Odriozola"
+    },
+    {
+      "authorId": "2076475453",
+      "name": "P. Mateos"
+    },
+    {
+      "authorId": null,
+      "name": "Antonio Pizzo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

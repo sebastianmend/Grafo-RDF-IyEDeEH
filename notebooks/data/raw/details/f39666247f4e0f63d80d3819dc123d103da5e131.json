@@ -1,0 +1,47 @@
+{
+  "paperId": "f39666247f4e0f63d80d3819dc123d103da5e131",
+  "externalIds": {
+    "MAG": "271886028",
+    "DOI": "10.24154/jhs.v7i1.401",
+    "CorpusId": 127720219
+  },
+  "url": "https://www.semanticscholar.org/paper/f39666247f4e0f63d80d3819dc123d103da5e131",
+  "title": "Effect of Various Irrigation Methods on Growth, Flowering and Yield of Tuberose (Polyanthes tuberosa Linn.)",
+  "venue": "Journal of Horticultural Science",
+  "year": 2012,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://jhs.iihr.res.in/index.php/jhs/article/download/401/264",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24154/jhs.v7i1.401?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24154/jhs.v7i1.401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40502831",
+      "name": "M. Deshmukh"
+    }
+  ],
+  "abstract": "Tuberose flower has very good fragrance and is suitable for loose and cut flowers. Although crop improvement has been researched upon in various institutes and state agricultural universities, irrigation management in this crop has not been given much emphasis. This factor is important and crucial in crop production. A field trial was conducted at Precision Farming Development Centre, Rahuri, with the objective of studying performance of tuberose cv. Suvasini Double under three irrigation systems, viz., drip, micro-sprinkler and surface irrigation (conventional method). Irrigation through drip and micro-sprinkler was applied at 0.85 PE; and in the conventional method of irrigation, the interval was set at 60 mm CPE with 6 cm depth of irrigation. Micro-sprinkler system proved to be the best and gave a flower yield of 6.77 lakh spikes/ ha with better flower quality, than drip or surface method of irrigation. B:C ratio was also higher under micro-sprinkler (2.68 ).",
+  "references": [
+    {
+      "paperId": "9354a05bda03a11e62e5b72e414c50108a806252"
+    },
+    {
+      "paperId": "f5b538e3d5648b27eca252ac2a3d07ed3f93140f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

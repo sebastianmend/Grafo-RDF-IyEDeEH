@@ -1,0 +1,79 @@
+{
+  "paperId": "48df9fd64d3bab84b0a334f90e3ee676184e873f",
+  "externalIds": {
+    "MAG": "2067414456",
+    "DOI": "10.4236/IJG.2014.58069",
+    "CorpusId": 129869276
+  },
+  "url": "https://www.semanticscholar.org/paper/48df9fd64d3bab84b0a334f90e3ee676184e873f",
+  "title": "Soil Resources Information System for Improving Productivity Using Geo-Informatics Technology",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=48103",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4236/IJG.2014.58069?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4236/IJG.2014.58069, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104841529",
+      "name": "Kartik M. Thakor"
+    },
+    {
+      "authorId": "13605131",
+      "name": "N. Dharaiya"
+    },
+    {
+      "authorId": "2225939597",
+      "name": "V. Singh"
+    },
+    {
+      "authorId": "47974029",
+      "name": "Ajay N. Patel"
+    },
+    {
+      "authorId": "2336526",
+      "name": "K. Mehmood"
+    },
+    {
+      "authorId": "31191186",
+      "name": "M. Kalubarme"
+    }
+  ],
+  "abstract": "Soil \nsurveying and mapping is an important operation, since it plays a key role in \nthe knowledge about soil nutrients, properties and how it can be used for \nagriculture. This study was carried out in order to map soil chemical \nproperties and macronutrients status in North, Center and South districts zones \nof Gujarat state. Geographic Information System (GIS) was used in this study to \npresent the secondary data of the soil which were obtained from Anand \nAgriculture University (AAU), Gujarat. The major objective of this study was to \nanalyze & visualize the secondary data of soil through IDW, spatial \ninterpolation techniques for suitable mapping in a selected North, Central and \nSouth districts of Gujarat state. Various maps showing spatial distribution of \nmicronutrients and chemical properties for North, Center and South districts \nzones of Gujarat state were prepared. These digital maps can be used in \nprecision farming studies with the application of fertilizers and \nmicro-nutrients as per the requirement and the recommendations. This approach \nis proposed as a method for the evaluation of sustainable soil management \npractices such as variable rate of fertilization. This study demonstrates the \nusefulness of geo-informatics technology in soil survey as well as applications \nof various micronutrients to specific areas based on recommendations.",
+  "references": [
+    {
+      "paperId": "5cd7a7e49d90c71e61c0884005ae93064f40eee3"
+    },
+    {
+      "paperId": "b8326dc95a7d208abaf3f8f3ec898a0336c2e603"
+    },
+    {
+      "paperId": "3a0af3dbf711a78be61da9bc52db38e252d125cf"
+    },
+    {
+      "paperId": "5a1e3523c0e041939b56e0f6bde88ea852b7204e"
+    },
+    {
+      "paperId": "2f754c6120f16bd9c3d77fbe46e6650122106278"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

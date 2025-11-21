@@ -1,0 +1,167 @@
+{
+  "paperId": "05195e65aa10616ec9120a9510941e29449e7ac2",
+  "externalIds": {
+    "MAG": "2014227736",
+    "PubMedCentral": "3181245",
+    "DOI": "10.1371/journal.pone.0024206",
+    "CorpusId": 11369898,
+    "PubMed": "21980343"
+  },
+  "url": "https://www.semanticscholar.org/paper/05195e65aa10616ec9120a9510941e29449e7ac2",
+  "title": "Detectability Counts when Assessing Populations for Biodiversity Targets",
+  "venue": "PLoS ONE",
+  "year": 2011,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0024206&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3181245, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5435570",
+      "name": "S. Petrovan"
+    },
+    {
+      "authorId": "7002144",
+      "name": "A. Ward"
+    },
+    {
+      "authorId": "3274288",
+      "name": "P. Wheeler"
+    }
+  ],
+  "abstract": "Efficient, practical and accurate estimates of population parameters are a necessary basis for effective conservation action to meet biodiversity targets. The brown hare is representative of many European farmland species: historically widespread and abundant but having undergone rapid declines as a result of agricultural intensification. As a priority species in the UK Biodiversity Action Plan, it has national targets for population increase that are part of wider national environmental indicators. Previous research has indicated that brown hare declines have been greatest in pastural landscapes and that gains might be made by focussing conservation effort there. We therefore used hares in pastural landscapes to examine how basic changes in survey methodology can affect the precision of population density estimates and related these to national targets for biodiversity conservation in the UK. Line transects for hares carried out at night resulted in higher numbers of detections, had better-fitting detection functions and provided more robust density estimates with lower effort than those during the day, due primarily to the increased probability of detection of hares at night and the nature of hare responses to the observer. Hare spring densities varied widely within a single region, with a pooled mean of 20.6 hares km−2, significantly higher than the reported national average of hares in pastures of 3.3 hares km−2. The high number of encounters allowed us to resolve hare densities at site, season and year scales. We demonstrate how survey conduct can impact on data quantity and quality with implications for setting and monitoring biodiversity targets. Our case study of the brown hare provides evidence that for wildlife species with low detectability, large scale volunteer-based monitoring programmes, either species specific or generalist, might be more successfully and efficiently carried out by a small number of trained personnel able to employ methods that maximise detectability.",
+  "references": [
+    {
+      "paperId": "d156cfb4f44e44cf9c0904e1cb0280ce3f392dc0"
+    },
+    {
+      "paperId": "1798a12b38a3c65fbd39f3649e9a3ba8aec54032"
+    },
+    {
+      "paperId": "d519e4996b5a76ed3a9c31801e9e22f0157d00ae"
+    },
+    {
+      "paperId": "b3b0b6692db44a51da21ed2c62fbc83e86be384b"
+    },
+    {
+      "paperId": "af7e52d175c561f9ef97440edd6d876ad75f22f0"
+    },
+    {
+      "paperId": "ee1ecd6001efdfc75789e33eaf8b496eca9e40ff"
+    },
+    {
+      "paperId": "3a8915d433117ab224ac5317cbd7eed007948673"
+    },
+    {
+      "paperId": "6ff6edd641cb6e58efe8f5067c663f972971304d"
+    },
+    {
+      "paperId": "70878d07be20b363674b8c078de8d2a5b89faebf"
+    },
+    {
+      "paperId": "0a3ebac40416ada48f1eea94e0e1c18ac4a569ce"
+    },
+    {
+      "paperId": "9d0bf4627203990c9dd551df1e9119c93c77e572"
+    },
+    {
+      "paperId": "26c1cb627feaa52d23d1b118cf51ec6288fb7e19"
+    },
+    {
+      "paperId": "46fd81a7b0a3d043908b5119eda525e6685f47ec"
+    },
+    {
+      "paperId": "bdddf4474bfc7df7473766f9021ba2a128b61680"
+    },
+    {
+      "paperId": "5e6a36ee4184b8d72bc753c7ee1e54c664570a13"
+    },
+    {
+      "paperId": "ed660a26cbde4b71359a50bd17404ff6bcca69ac"
+    },
+    {
+      "paperId": "d99b510c2fcad23aa6d48306ef3eff36d8357913"
+    },
+    {
+      "paperId": "6e376727d8b3bdc622e44c61dfb7c630aed4737c"
+    },
+    {
+      "paperId": "5abceda31ecc350a3b2b0788caf7ef84b513025d"
+    },
+    {
+      "paperId": "b9d3f8372144773fc61478eee8b2ef61f7d21b34"
+    },
+    {
+      "paperId": "e204af5752fad5995cb947fc307193b1755d9d49"
+    },
+    {
+      "paperId": "10923e393c07ca717c3b22be4cd17cd2b8bf0264"
+    },
+    {
+      "paperId": "5a32a2c0bcd6df71a0dc5f50e25f020dc7f9332d"
+    },
+    {
+      "paperId": "a3181ac1beec1ccfc94fab63bee47e604c594570"
+    },
+    {
+      "paperId": "87a12bf4c8be401099fdacfa6c3929bbbfbdb385"
+    },
+    {
+      "paperId": "968b898881a4ecc794dde75f7ebeb6b14bb88ffe"
+    },
+    {
+      "paperId": "857d786b06a037a8984ddddcc12b6516fd678ea1"
+    },
+    {
+      "paperId": "78f8e9038324da34eec0902cda3486666716ffe8"
+    },
+    {
+      "paperId": "12010c40895ecc8f12df0257327d37242afd8935"
+    },
+    {
+      "paperId": "80b610ded738deda81bf5d790a9f778c1e5f0ff1"
+    },
+    {
+      "paperId": "28a25bb132065a3d6d6686b7334457a9dc1a1e7f"
+    },
+    {
+      "paperId": "62ac7613ff675ceb05fcf3173d5d9794b2fa852a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

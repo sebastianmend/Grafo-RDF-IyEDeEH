@@ -1,0 +1,180 @@
+{
+  "paperId": "87605d0ff3b58844e1964a41f5fa282de9c69ad7",
+  "externalIds": {
+    "MAG": "2239596094",
+    "PubMedCentral": "4732122",
+    "DBLP": "journals/sensors/QuRWZLM16",
+    "DOI": "10.3390/s16010089",
+    "CorpusId": 13980819,
+    "PubMed": "26761015"
+  },
+  "url": "https://www.semanticscholar.org/paper/87605d0ff3b58844e1964a41f5fa282de9c69ad7",
+  "title": "An Ensemble Successive Project Algorithm for Liquor Detection Using Near Infrared Sensor",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2016,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/16/1/89/pdf?version=1452510356",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4732122, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5201849",
+      "name": "Fangfang Qu"
+    },
+    {
+      "authorId": "2068940086",
+      "name": "Dong Ren"
+    },
+    {
+      "authorId": "2109655595",
+      "name": "Jihua Wang"
+    },
+    {
+      "authorId": "2118748461",
+      "name": "Zhong Zhang"
+    },
+    {
+      "authorId": "97085831",
+      "name": "N. Lu"
+    },
+    {
+      "authorId": "46643379",
+      "name": "L. Meng"
+    }
+  ],
+  "abstract": "Spectral analysis technique based on near infrared (NIR) sensor is a powerful tool for complex information processing and high precision recognition, and it has been widely applied to quality analysis and online inspection of agricultural products. This paper proposes a new method to address the instability of small sample sizes in the successive projections algorithm (SPA) as well as the lack of association between selected variables and the analyte. The proposed method is an evaluated bootstrap ensemble SPA method (EBSPA) based on a variable evaluation index (EI) for variable selection, and is applied to the quantitative prediction of alcohol concentrations in liquor using NIR sensor. In the experiment, the proposed EBSPA with three kinds of modeling methods are established to test their performance. In addition, the proposed EBSPA combined with partial least square is compared with other state-of-the-art variable selection methods. The results show that the proposed method can solve the defects of SPA and it has the best generalization performance and stability. Furthermore, the physical meaning of the selected variables from the near infrared sensor data is clear, which can effectively reduce the variables and improve their prediction accuracy.",
+  "references": [
+    {
+      "paperId": "113fb04356ef73787e670c6a8b135cb120c5ebd4"
+    },
+    {
+      "paperId": "d6022c8a345c7c64e1d21b339ba75f03fb577f7a"
+    },
+    {
+      "paperId": "6527e1f48a35b20e27aca99916d1962fcfed0806"
+    },
+    {
+      "paperId": "481df7cdde04fa43a00bf68978876b3b4838ccd4"
+    },
+    {
+      "paperId": "bfcf71e0ea379a078b9cdc6f0eefbc572095de40"
+    },
+    {
+      "paperId": "a87151d6ff79545f892bc45ef1c2ae999c57bfd0"
+    },
+    {
+      "paperId": "0c1a740ddd11201d5d82d9d1c2bd94904a0e1c53"
+    },
+    {
+      "paperId": "2a179f82a354225f1f6a7fc3a4fdf8ea94a7e17c"
+    },
+    {
+      "paperId": "bcdd071f66844516550f3b2e897618f91170e929"
+    },
+    {
+      "paperId": "0d23a1dbaa26b13de7ab2292a873653d493828be"
+    },
+    {
+      "paperId": "035c4b2f77fec0826980e8b1a3037a190cda7226"
+    },
+    {
+      "paperId": "870a9b11039bcc2ee79e354b26d6a25063955c38"
+    },
+    {
+      "paperId": "290d9b44443d90460a264a955341417c0f3f0969"
+    },
+    {
+      "paperId": "502c23dc7b6fa02cee43da7cae8459739d0c73d5"
+    },
+    {
+      "paperId": "f52e93944d0f597b81ac5b2710e5750b7ff86290"
+    },
+    {
+      "paperId": "f7a11d2a1c1ce77d8c3c4f0eecdc59256deb3a7d"
+    },
+    {
+      "paperId": "f1247f3cc98d2077643caf59fc9e41582c3140e4"
+    },
+    {
+      "paperId": "8937f8dfa2a2b6e8cbb38405a6fdc673534a58b8"
+    },
+    {
+      "paperId": "07ee17dc5d2bff0919dd7d8c1a940054e08bc4a8"
+    },
+    {
+      "paperId": "609a228cb0587cc42548a931e53f08e2394b2f73"
+    },
+    {
+      "paperId": "6fab5cf7bc37ba53230f6343f7a46e5121f8786b"
+    },
+    {
+      "paperId": "f7eb0c9af77e12e33817b8a27cb6f69d22f80052"
+    },
+    {
+      "paperId": "1be51ac2775b1b43a3503e09280a198588f38752"
+    },
+    {
+      "paperId": "36395aeb0f054d4627fa981c3efd04c995f5ff6d"
+    },
+    {
+      "paperId": "1d4a18afd66978dd9b1b8d12e013b16a79799511"
+    },
+    {
+      "paperId": "c09343348cbb0afe61c8c4671d8931227280ae65"
+    },
+    {
+      "paperId": "2f65e56bef019659222271ef7396a9336f3dc3fc"
+    },
+    {
+      "paperId": "cab1d74264a1295b3974c4a02eebccf17a27fad8"
+    },
+    {
+      "paperId": "f5c8e938c18a4afab3259462e7ed80ad94dfeb2e"
+    },
+    {
+      "paperId": "6003997c8b8aa370b71238578c789a25c42c3e76"
+    },
+    {
+      "paperId": "2278766fcda24d904098533944c77e120cff6e39"
+    },
+    {
+      "paperId": "69e81e9f1ec84d20a26dc39e1f35c4d5f99d4f6f"
+    },
+    {
+      "paperId": "62af35038b5d3080cf84f4e28e8fd6f3ee05a133"
+    },
+    {
+      "paperId": "0b60c18d58ddc7a9ed83a19408fe34c6551edb94"
+    },
+    {
+      "paperId": "0ef3648a00f18d7c66780dc2849d55d4fc0fc44b"
+    },
+    {
+      "paperId": "e9582582ec594e9f728c83d6124e55d7ea401876"
+    },
+    {
+      "paperId": "1548324c3c87a2de5249930dbecc6e90e55d4006"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

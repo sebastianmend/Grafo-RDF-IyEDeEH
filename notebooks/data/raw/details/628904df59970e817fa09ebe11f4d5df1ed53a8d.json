@@ -1,0 +1,42 @@
+{
+  "paperId": "628904df59970e817fa09ebe11f4d5df1ed53a8d",
+  "externalIds": {
+    "MAG": "2282435076",
+    "DOI": "10.5958/0976-0741.2015.00026.4",
+    "CorpusId": 54925232
+  },
+  "url": "https://www.semanticscholar.org/paper/628904df59970e817fa09ebe11f4d5df1ed53a8d",
+  "title": "Dry land techniques for vegetable production in India-A review",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 2,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5958/0976-0741.2015.00026.4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5958/0976-0741.2015.00026.4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5010234",
+      "name": "K. Mallikarjunarao"
+    },
+    {
+      "authorId": "90011295",
+      "name": "Rojalin Pradhan"
+    },
+    {
+      "authorId": "2052288678",
+      "name": "R. Das"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

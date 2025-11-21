@@ -1,0 +1,184 @@
+{
+  "paperId": "7653474c6388c372e40e7f17da56e318ce7f7f1d",
+  "externalIds": {
+    "PubMedCentral": "4003928",
+    "MAG": "2005817823",
+    "DBLP": "journals/sensors/EmmiGPS14",
+    "DOI": "10.3390/s140304014",
+    "CorpusId": 10861107,
+    "PubMed": "24577525"
+  },
+  "url": "https://www.semanticscholar.org/paper/7653474c6388c372e40e7f17da56e318ce7f7f1d",
+  "title": "Integrating Sensory/Actuation Systems in Agricultural Vehicles",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2014,
+  "citationCount": 46,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/14/3/4014/pdf?version=1403348529",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4003928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34956292",
+      "name": "L. Emmi"
+    },
+    {
+      "authorId": "1405885791",
+      "name": "Mariano Gonzalez-de-Soto"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    },
+    {
+      "authorId": "9370715",
+      "name": "P. Santos"
+    }
+  ],
+  "abstract": "In recent years, there have been major advances in the development of new and more powerful perception systems for agriculture, such as computer-vision and global positioning systems. Due to these advances, the automation of agricultural tasks has received an important stimulus, especially in the area of selective weed control where high precision is essential for the proper use of resources and the implementation of more efficient treatments. Such autonomous agricultural systems incorporate and integrate perception systems for acquiring information from the environment, decision-making systems for interpreting and analyzing such information, and actuation systems that are responsible for performing the agricultural operations. These systems consist of different sensors, actuators, and computers that work synchronously in a specific architecture for the intended purpose. The main contribution of this paper is the selection, arrangement, integration, and synchronization of these systems to form a whole autonomous vehicle for agricultural applications. This type of vehicle has attracted growing interest, not only for researchers but also for manufacturers and farmers. The experimental results demonstrate the success and performance of the integrated system in guidance and weed control tasks in a maize field, indicating its utility and efficiency. The whole system is sufficiently flexible for use in other agricultural tasks with little effort and is another important contribution in the field of autonomous agricultural vehicles.",
+  "references": [
+    {
+      "paperId": "058234c01346833f06d442438eab54677252041d"
+    },
+    {
+      "paperId": "f4b2a1acd7b2e4c829f140d6ee13fce9ab116a7a"
+    },
+    {
+      "paperId": "00029ed1204ac87c278f940f8d881e02b34f5d15"
+    },
+    {
+      "paperId": "eac8318715a6610d2f3f976a530ecbb0b010e7b8"
+    },
+    {
+      "paperId": "9bb0fc924cfdaf30e08ec7474eda94d8fa529f76"
+    },
+    {
+      "paperId": "5d1757fb38a8847d501706579371add4cb8f0087"
+    },
+    {
+      "paperId": "235e1aa6fe650aed0edc6f30952962542d30b8b2"
+    },
+    {
+      "paperId": "59d9d6fdf93f91f14dfe68c8723396ed6487ee4e"
+    },
+    {
+      "paperId": "d94033e5f5c661c5de9a7129ee06b699d4753508"
+    },
+    {
+      "paperId": "93d180083865ee85633be699bf3c10ca35d880a0"
+    },
+    {
+      "paperId": "a5bf1d4e79e69663a66fdf4ca16a78178b6c428a"
+    },
+    {
+      "paperId": "2145ee21793db812efc510c8d3c6b7b63885eba8"
+    },
+    {
+      "paperId": "fcdf0908cad3da17fd2780daaef1eb6a8e2f1c30"
+    },
+    {
+      "paperId": "295dfee88b6418cb0f301c5e250e50addf6eedf0"
+    },
+    {
+      "paperId": "29f04f506efa40b0f056853b717fecb81d7076a6"
+    },
+    {
+      "paperId": "7396b4abd8bb01a2020a4eca3dce2cec45ec19f2"
+    },
+    {
+      "paperId": "927bcfdd7a327d094c62829d6a7ffe2a9643c9c2"
+    },
+    {
+      "paperId": "092353d0eb01be3bcb51178fad4d19033dec945b"
+    },
+    {
+      "paperId": "b0d08512b10d10ba152efa4995ba08f7447577f6"
+    },
+    {
+      "paperId": "dbff11d931870ae1e0f1cd6856fc710f12ae0ef5"
+    },
+    {
+      "paperId": "020c389397b9eb0043116d9388156d8f9193d5dd"
+    },
+    {
+      "paperId": "c0f57f651a39df325ae0ce980a7e7592ad734105"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8b483aebea583bc007b510bcea2d2b21411692c4"
+    },
+    {
+      "paperId": "134baf19f72028a73bee58cf3dd55974c62d246c"
+    },
+    {
+      "paperId": "a37148ffb3bf6afa54342af022cc6be072218322"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b43c740c99d6ac7184201252fe2b9b358b8d1f5b"
+    },
+    {
+      "paperId": "784fc48ea139a483fe14917e97c0ae1f6ee9697a"
+    },
+    {
+      "paperId": "658aa17f120e75a6eeb453c84a7563b039079396"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "18d1d1c18fa3e58efc85c6d81496030bf54d749d"
+    },
+    {
+      "paperId": "c62060134aec4db64468969b6f564f008ffacc5f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

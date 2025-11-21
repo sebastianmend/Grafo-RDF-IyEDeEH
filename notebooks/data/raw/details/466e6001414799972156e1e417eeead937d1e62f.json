@@ -1,0 +1,51 @@
+{
+  "paperId": "466e6001414799972156e1e417eeead937d1e62f",
+  "externalIds": {
+    "MAG": "2166036450",
+    "DBLP": "conf/ifip12/WangWCLX13",
+    "DOI": "10.1007/978-3-642-54344-9_6",
+    "CorpusId": 29851591
+  },
+  "url": "https://www.semanticscholar.org/paper/466e6001414799972156e1e417eeead937d1e62f",
+  "title": "Research on Automatic Irrigation Algorithm of Strawberry Greenhouse Based on PLC",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2013,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-54344-9_6.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-54344-9_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-54344-9_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2110274774",
+      "name": "Jianlun Wang"
+    },
+    {
+      "authorId": "2109464503",
+      "name": "Shuting Wang"
+    },
+    {
+      "authorId": "1720246",
+      "name": "Jianshu Chen"
+    },
+    {
+      "authorId": "2143857192",
+      "name": "Hao Liu"
+    },
+    {
+      "authorId": "2219046836",
+      "name": "Dongbo Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

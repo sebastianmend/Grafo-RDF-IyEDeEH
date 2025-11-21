@@ -1,0 +1,156 @@
+{
+  "paperId": "9faa39010bd3fd7076cf638aad03a7e6704e0d57",
+  "externalIds": {
+    "DBLP": "journals/sensors/Millan-AlmarazR10",
+    "PubMedCentral": "3231202",
+    "MAG": "2028209009",
+    "DOI": "10.3390/s100908316",
+    "CorpusId": 9838937,
+    "PubMed": "22163656"
+  },
+  "url": "https://www.semanticscholar.org/paper/9faa39010bd3fd7076cf638aad03a7e6704e0d57",
+  "title": "FPGA-based Fused Smart Sensor for Real-Time Plant-Transpiration Dynamic Estimation",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2010,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/10/9/8316/pdf?version=1403312977",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3231202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1388383685",
+      "name": "J. R. Millán-Almaraz"
+    },
+    {
+      "authorId": "1381977344",
+      "name": "R. Romero-Troncoso"
+    },
+    {
+      "authorId": "1382474827",
+      "name": "R. Guevara-González"
+    },
+    {
+      "authorId": "1405198264",
+      "name": "L. M. Contreras-Medina"
+    },
+    {
+      "authorId": "1401690268",
+      "name": "R. Carrillo-Serrano"
+    },
+    {
+      "authorId": "79688968",
+      "name": "R. Osornio-Ríos"
+    },
+    {
+      "authorId": "1405198255",
+      "name": "C. Duarte-Galvan"
+    },
+    {
+      "authorId": "1405423921",
+      "name": "M. A. Rios-Alcaraz"
+    },
+    {
+      "authorId": "1398375764",
+      "name": "I. Torres-Pacheco"
+    }
+  ],
+  "abstract": "Plant transpiration is considered one of the most important physiological functions because it constitutes the plants evolving adaptation to exchange moisture with a dry atmosphere which can dehydrate or eventually kill the plant. Due to the importance of transpiration, accurate measurement methods are required; therefore, a smart sensor that fuses five primary sensors is proposed which can measure air temperature, leaf temperature, air relative humidity, plant out relative humidity and ambient light. A field programmable gate array based unit is used to perform signal processing algorithms as average decimation and infinite impulse response filters to the primary sensor readings in order to reduce the signal noise and improve its quality. Once the primary sensor readings are filtered, transpiration dynamics such as: transpiration, stomatal conductance, leaf-air-temperature-difference and vapor pressure deficit are calculated in real time by the smart sensor. This permits the user to observe different primary and calculated measurements at the same time and the relationship between these which is very useful in precision agriculture in the detection of abnormal conditions. Finally, transpiration related stress conditions can be detected in real time because of the use of online processing and embedded communications capabilities.",
+  "references": [
+    {
+      "paperId": "726c93d8bfcbe4cf298c8febcc598585ffc3a657"
+    },
+    {
+      "paperId": "46e7b70a6418ebd8a5f83fe2b400a96503ac31d3"
+    },
+    {
+      "paperId": "71e170ce728c803c5cdc39cfdee7b5bc023040a2"
+    },
+    {
+      "paperId": "0d276af82d3c6cbffbeb3318deebf15c67d26d77"
+    },
+    {
+      "paperId": "dd8c79f7f06fbb84384ddf0a9d8b78c4998bd9d7"
+    },
+    {
+      "paperId": "68fa2c61376d4f53138db7761143e46d47751c32"
+    },
+    {
+      "paperId": "8009acb1616aacf35b0295d7d77b38f04d84fefc"
+    },
+    {
+      "paperId": "59543c711822cca96c16ef68e515dbddb4ee2ac5"
+    },
+    {
+      "paperId": "2640a81d24aa20e91292e6c6b2f8d880eda003ad"
+    },
+    {
+      "paperId": "bc17382dd6d2d63984bb521d029e0e0b5ef90a7f"
+    },
+    {
+      "paperId": "10b99cc29d04f3674d92c31261274daf0d49ac75"
+    },
+    {
+      "paperId": "fbee22326da97bc1243c18400b137bb61201e30d"
+    },
+    {
+      "paperId": "a194bb9c7ea9b48fc9ed1cc2602e7152829f0f7f"
+    },
+    {
+      "paperId": "13de1b638780b262f303f4b8e4413c5ccaca449b"
+    },
+    {
+      "paperId": "b4b7c00334a4a7181ec655ff7713562448542367"
+    },
+    {
+      "paperId": "2bf07e530c797691dc2ffbaffcf5ceaa04513bb3"
+    },
+    {
+      "paperId": "375cf3a7073f98ccc92ea1e3ebe20ccebafb29b1"
+    },
+    {
+      "paperId": "a064c25c7338bc664a9a57abe2f028c4151952e9"
+    },
+    {
+      "paperId": "19e040703c9c5e999c7a886f6f07021ed733a81b"
+    },
+    {
+      "paperId": "b885104d1699956d1a889b47d1a48e4ec7043869"
+    },
+    {
+      "paperId": "241315bf77dacb20cbe7f6332261a68d4d375c5a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

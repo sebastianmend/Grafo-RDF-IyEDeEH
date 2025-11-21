@@ -1,0 +1,43 @@
+{
+  "paperId": "d621bc46bab6e4da6ce648a4854dbc3953178e66",
+  "externalIds": {
+    "MAG": "2552158397",
+    "DBLP": "conf/ifip12/ZhengWW15",
+    "DOI": "10.1007/978-3-319-48354-2_60",
+    "CorpusId": 38497273
+  },
+  "url": "https://www.semanticscholar.org/paper/d621bc46bab6e4da6ce648a4854dbc3953178e66",
+  "title": "Research and Design of Wireless Sensor Middleware Based on STM32",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48354-2_60.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48354-2_60?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48354-2_60, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2359343",
+      "name": "Jiye Zheng"
+    },
+    {
+      "authorId": "2004495332",
+      "name": "Fengyun Wang"
+    },
+    {
+      "authorId": "46659935",
+      "name": "Lei Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

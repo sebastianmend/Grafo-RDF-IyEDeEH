@@ -1,0 +1,36 @@
+{
+  "paperId": "d35f70414a3433542b99ecb5f920f6631f5fe90f",
+  "externalIds": {
+    "DBLP": "conf/cisis/Murakami14",
+    "MAG": "2054484160",
+    "DOI": "10.1109/CISIS.2014.89",
+    "CorpusId": 14495561
+  },
+  "url": "https://www.semanticscholar.org/paper/d35f70414a3433542b99ecb5f920f6631f5fe90f",
+  "title": "iFarm: Development of Web-Based System of Cultivation and Cost Management for Agriculture",
+  "venue": "2014 Eighth International Conference on Complex, Intelligent and Software Intensive Systems",
+  "year": 2014,
+  "citationCount": 19,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CISIS.2014.89?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CISIS.2014.89, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3169239",
+      "name": "Y. Murakami"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

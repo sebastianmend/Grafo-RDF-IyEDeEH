@@ -1,0 +1,273 @@
+{
+  "paperId": "68749770401f32804d5dae208a306396e2811a50",
+  "externalIds": {
+    "MAG": "2135509833",
+    "DOI": "10.1071/AN12292",
+    "CorpusId": 55618798
+  },
+  "url": "https://www.semanticscholar.org/paper/68749770401f32804d5dae208a306396e2811a50",
+  "title": "Reflections on the concept, conduct and findings of the producer-led Cicerone Project",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.publish.csiro.au/an/pdf/AN12292",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1071/AN12292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1071/AN12292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "16235973",
+      "name": "T. Coventry"
+    },
+    {
+      "authorId": "145400879",
+      "name": "H. Sutherland"
+    },
+    {
+      "authorId": "47743644",
+      "name": "M. Waters"
+    },
+    {
+      "authorId": "152888360",
+      "name": "P. Dutton"
+    },
+    {
+      "authorId": "1394341731",
+      "name": "B. Gream"
+    },
+    {
+      "authorId": "2942585",
+      "name": "R. Croft"
+    },
+    {
+      "authorId": "121719876",
+      "name": "E. Hall"
+    },
+    {
+      "authorId": "2064200385",
+      "name": "D. Paull"
+    },
+    {
+      "authorId": "143887521",
+      "name": "C. Edwards"
+    },
+    {
+      "authorId": "2059088454",
+      "name": "R. Marchant"
+    },
+    {
+      "authorId": "2157296217",
+      "name": "P. Smith"
+    },
+    {
+      "authorId": "2107424647",
+      "name": "J. M. Scott"
+    },
+    {
+      "authorId": "67282738",
+      "name": "C. Gaden"
+    },
+    {
+      "authorId": "118019715",
+      "name": "J. Hoad"
+    }
+  ],
+  "abstract": "The Cicerone Project began as a producer-led partnership that sought, over a period of 8 years, to enhance the profitability and sustainability of livestock enterprises by improving the connection between those producers, research and extension. Following a detailed survey, the research and extension needs of livestock producers were identified and several applied investigations were conducted to meet those needs and delivered through a range of extension activities. This final paper of the Cicerone Special Issue reflects on the entire Project from a wide array of perspectives, including livestock producers, researchers, extension specialists and staff employed by the Project, all of whom are authors of this paper. A notable early successful outcome of the Project was the improved precision of footrot diagnosis, which has been of value to the entire sheep industry, and that flowed from a field investigation of benign and virulent footrot combined with detailed genetic investigations, which led to an improved testing regime. This paper also reflects on the findings of an unreplicated agricultural ecosystem research trial, which measured the impact of pasture renovation, increased soil fertility and grazing management on the profitability and sustainability of three different 53-ha farmlets. Valuable findings from this whole-farmlet trial included the need for a high quality feed supply for increasing stocking rate and animal liveweights; the ability and utility of satellite imagery to detect changes in pasture growth, composition and recent grazing pressure; the value of short grazing and long rest periods for controlling Barber’s pole worms of sheep; the impact of increased stocking rates on whole-farm profitability and risk; methods of optimising decisions relating to pasture renovation, fertiliser applications and grazing management; and an integrated analysis of all key measured components of the farmlet management systems. Collectively, these findings were powerful as they were demonstrated at a scale credible to livestock producers using the ‘compare – measure – learn – adopt’ approach, which was the key philosophy adopted by the Cicerone Project. By comparing and measuring different whole-farm systems, and by ensuring that producers had ownership of the trial process, the Project successfully delivered objective findings that producers trusted and which increased our understanding of important drivers of complex grazing enterprises under variable climatic conditions. Some of these drivers included: the influence of soil phosphorus on botanical composition and subsequent livestock production, the role of pasture renovation and soil fertility on herbage supply, herbage quality and stocking rate, and the improved gastrointestinal nematode control delivered by intensive rotational grazing. The beneficiaries of the Project included the 180 farmer members who participated in some 61 field days and workshops; the research and extension collaborators including four postgraduates who completed their research investigations in conjunction with the Project; and some 500 undergraduate and 300 technical students who benefited from coming to understand the applied field comparisons of the three whole-farmlet systems. Having livestock producers play a significant leadership role led to valuable outcomes achieved with research collaborators; this should encourage the development of other learning partnerships which aim to explore complex farming system issues.",
+  "references": [
+    {
+      "paperId": "fc489e15e1fd4bb15d011ad53b8e7759400f1c54"
+    },
+    {
+      "paperId": "11afd61bd8b87589409b34984273f2dd87955427"
+    },
+    {
+      "paperId": "cfe62a26c4b8ac15f5fa6e7dcaefcc240cf819bd"
+    },
+    {
+      "paperId": "6a0a7f31d554b91089eee203e7933858a6aede81"
+    },
+    {
+      "paperId": "9d385f9a73067c1ac3287bf1e51d8ef894e173cf"
+    },
+    {
+      "paperId": "f427931d299f928d0bf01bd94b8e977f21c67827"
+    },
+    {
+      "paperId": "9ba0666e5f5b609e064f1ed28d961de0ff989e04"
+    },
+    {
+      "paperId": "4697292add0856859a017e11e2fd000a1464880c"
+    },
+    {
+      "paperId": "f5a8cea904b9e7021b1e951559d5e7660667e39a"
+    },
+    {
+      "paperId": "b6ba50c6b70b7066fb556e17f63f6f8f33957139"
+    },
+    {
+      "paperId": "9da5756074ef00aad45dfc1b80ef207bc5417826"
+    },
+    {
+      "paperId": "7559900b56d707f0eb26b1fe9b057aeb220f6aee"
+    },
+    {
+      "paperId": "1aee44797c3d633b6bf6956317f2876a2723bf35"
+    },
+    {
+      "paperId": "a2d30cbae07c1bfb37667badcec7e4cfc6593ebc"
+    },
+    {
+      "paperId": "3a327b08c79233d31f1ec40a95d62d249a8d2c3f"
+    },
+    {
+      "paperId": "26fa6d15b0e35e8cbeaee74f7c17ea812d772916"
+    },
+    {
+      "paperId": "619047e489843121c613d383d15da178f0194b29"
+    },
+    {
+      "paperId": "73e154a31f9bdf068d38d1fd7511e3b37b0ba8ae"
+    },
+    {
+      "paperId": "7c3d7c04a2f2dc217e497b9df65b9f2625d42beb"
+    },
+    {
+      "paperId": "41736ed66d21ca8cd3f4c63b376079cd6eafc238"
+    },
+    {
+      "paperId": "490cfd6884e2382d0110bc327c235a8d8288e52b"
+    },
+    {
+      "paperId": "c78bc00a8f331470e02f2f7f3067e1202b87f442"
+    },
+    {
+      "paperId": "6f5aef7db392fdd10aa2855aa560728ea4633671"
+    },
+    {
+      "paperId": "503ff2ef2a88d46edf0b9af5ee5778d23d49e130"
+    },
+    {
+      "paperId": "f7dcba9a984b1ccfd20e50f79535e7851669c6aa"
+    },
+    {
+      "paperId": "bb517d6bdaedc2010077d187dd17247de3108708"
+    },
+    {
+      "paperId": "b4906548c306aa1c5808259a4bc6048c49802a2a"
+    },
+    {
+      "paperId": "4fdda226f3109c8065e907a22c69f45b4a8e9f10"
+    },
+    {
+      "paperId": "eab1c1c3f952964c2c95288fd98dde8a313265b1"
+    },
+    {
+      "paperId": "e39fb3d63f96e5583674c82e1c45da3d71bd7e21"
+    },
+    {
+      "paperId": "0d02f51c7595c38bdbd2e518b940dd1ed8488dec"
+    },
+    {
+      "paperId": "b867d16e0756ba8a5ddfb59b89977e4d6eb0e599"
+    },
+    {
+      "paperId": "80f9061771d80e8dee080bb53779a7ab658d7243"
+    },
+    {
+      "paperId": "641757ddd68f19d68eb1c15e8f400fed07918759"
+    },
+    {
+      "paperId": "61f50610398fad39dde057c2e3f8128c2626b648"
+    },
+    {
+      "paperId": "6e1b773361d75e2f742ada4dfc504db39e92a74a"
+    },
+    {
+      "paperId": "d48918e11982cb88904963f96a8c130abfbb8c49"
+    },
+    {
+      "paperId": "e4cde8430cfb0e4db6a5d2ece50b75f408a0a3f0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "190d5277e8f398be51985df83c4472c436dffeb9"
+    },
+    {
+      "paperId": "d47c415b6f71cac08cbfee1b82dd3dcaafc7a4ee"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e9bc1573a77120a62f1c0d8c10bcd8899b9f921b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e284e5d08706b892fcd72e4ef02d007ec03a307d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "53441b7d708bb99ca2ca6ac7d5ac91355cfea200"
+    },
+    {
+      "paperId": "0b11eb408268ef56e614d44562deb3c37eef01a4"
+    },
+    {
+      "paperId": "564e3868caedeb9bfabcadef39d39185bad8e708"
+    },
+    {
+      "paperId": "a3636ecdbb9c7b727595f2266a459514f412ddfb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6c1d42194e743c29a478512ac39b6fa75aa16b4a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f671d61d1b19ef7ad6c6fdc829c4a4193c5a8c8f"
+    },
+    {
+      "paperId": "681888b33f463d2f3ec3950c9decbacea91d78ac"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "01302cbb11bbaf1d8c4fa34ef1823e0c3078ef2c"
+    },
+    {
+      "paperId": "ff226814726a33f1ae7a7dc6a7c7d1706d3d5c98"
+    },
+    {
+      "paperId": "f0b135c76b8a06340787afbd8ec3c6a6cddf64e4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

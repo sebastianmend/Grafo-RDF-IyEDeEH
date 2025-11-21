@@ -1,0 +1,172 @@
+{
+  "paperId": "48cbb02e8371a7ed1f48137b2ddfa32469eacd12",
+  "externalIds": {
+    "PubMedCentral": "3435991",
+    "MAG": "1966026583",
+    "DBLP": "journals/sensors/SteenVTG12",
+    "DOI": "10.3390/s120607587",
+    "CorpusId": 5649908,
+    "PubMed": "22969362"
+  },
+  "url": "https://www.semanticscholar.org/paper/48cbb02e8371a7ed1f48137b2ddfa32469eacd12",
+  "title": "Automatic Detection of Animals in Mowing Operations Using Thermal Cameras",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2012,
+  "citationCount": 54,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/12/6/7587/pdf?version=1403317672",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3435991, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "32688812",
+      "name": "Kim Arild Steen"
+    },
+    {
+      "authorId": "1410971571",
+      "name": "Andrés Villa-Henriksen"
+    },
+    {
+      "authorId": "1884573",
+      "name": "O. R. Therkildsen"
+    },
+    {
+      "authorId": "4950890",
+      "name": "Ole Green"
+    }
+  ],
+  "abstract": "During the last decades, high-efficiency farming equipment has been developed in the agricultural sector. This has also included efficiency improvement of moving techniques, which include increased working speeds and widths. Therefore, the risk of wild animals being accidentally injured or killed during routine farming operations has increased dramatically over the years. In particular, the nests of ground nesting bird species like grey partridge (Perdix perdix) or pheasant (Phasianus colchicus) are vulnerable to farming operations in their breeding habitat, whereas in mammals, the natural instinct of e.g., leverets of brown hare (Lepus europaeus) and fawns of roe deer (Capreolus capreolus) to lay low and still in the vegetation to avoid predators increase their risk of being killed or injured in farming operations. Various methods and approaches have been used to reduce wildlife mortality resulting from farming operations. However, since wildlife-friendly farming often results in lower efficiency, attempts have been made to develop automatic systems capable of detecting wild animals in the crop. Here we assessed the suitability of thermal imaging in combination with digital image processing to automatically detect a chicken (Gallus domesticus) and a rabbit (Oryctolagus cuniculus) in a grassland habitat. Throughout the different test scenarios, our study animals were detected with a high precision, although the most dense grass cover reduced the detection rate. We conclude that thermal imaging and digital imaging processing may be an important tool for the improvement of wildlife-friendly farming practices in the future.",
+  "references": [
+    {
+      "paperId": "b8d9b10cf54629364523ec065e6307ab87f7d4f0"
+    },
+    {
+      "paperId": "e222f83d389c793eee42a7b95e10b3439321d6ab"
+    },
+    {
+      "paperId": "666cc4ac4e8a12ab7428486995b043c3878a05fb"
+    },
+    {
+      "paperId": "0ab1ffdbe3182f88702825d1d9aba75afcb3f33e"
+    },
+    {
+      "paperId": "fefd794a28af62a96cce3e563bba24406aef459a"
+    },
+    {
+      "paperId": "f7c6c2a6b6c68e051f9cc59a847b2ce1d37e2830"
+    },
+    {
+      "paperId": "32b29e703ca5fe0e57eeb293931a5adbf0bbef93"
+    },
+    {
+      "paperId": "43a06ed8f9d695aba671e99f13f5145106f19f84"
+    },
+    {
+      "paperId": "a8523ee62a0cd6e34c6b1823f2b89fdd14a0e03d"
+    },
+    {
+      "paperId": "01e3919d82a921a8de830aa90a6f2fa443f80b33"
+    },
+    {
+      "paperId": "61de93d15f8fff1b368945f83c5e9cefaaad9f9e"
+    },
+    {
+      "paperId": "0f719167df49f6504bbd08f4041709051fecb25a"
+    },
+    {
+      "paperId": "7169d72f78013a57a96390ec95182587423139ef"
+    },
+    {
+      "paperId": "77e7975355136abce557c80b719828cff8c7b28b"
+    },
+    {
+      "paperId": "c367d90071f39dc8a06561e0e39460864ee27f65"
+    },
+    {
+      "paperId": "005cc4a78772fe57aaf09be40449109b48fd78d8"
+    },
+    {
+      "paperId": "cb7f0d71fdd10cc1c6b2cc6b9a928780c9a1776d"
+    },
+    {
+      "paperId": "c636437d53514d8f59ed9e7cab165d33b2b86aa2"
+    },
+    {
+      "paperId": "0de4aaf4e5bd01e5fdd484ff6a7c705e266f2bc8"
+    },
+    {
+      "paperId": "d51b4c05fc8ee318ccae01f610ea6cab9c028576"
+    },
+    {
+      "paperId": "37dae72ff2bf3823dd15695972bbc694297a7dbb"
+    },
+    {
+      "paperId": "c1ab095c2a48c77ff4b574342308909890bacb82"
+    },
+    {
+      "paperId": "6c179b799733a1544ad14940b6d442fcccb17926"
+    },
+    {
+      "paperId": "0f3ab264657353c52ca83c02b0a4a16ad360a7c5"
+    },
+    {
+      "paperId": "eea9fbb76d6ac1b14cf7b0d600b02d024b23ecd2"
+    },
+    {
+      "paperId": "8ea7fd43a886006d4135976662d03bd6c8368326"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

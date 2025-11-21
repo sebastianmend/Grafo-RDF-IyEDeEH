@@ -1,0 +1,42 @@
+{
+  "paperId": "8ca7b2606da3d3d72c8321b399a84a9c13dfdbc4",
+  "externalIds": {
+    "MAG": "2011596156",
+    "DOI": "10.1109/MIC.2012.6273247",
+    "CorpusId": 37857380
+  },
+  "url": "https://www.semanticscholar.org/paper/8ca7b2606da3d3d72c8321b399a84a9c13dfdbc4",
+  "title": "Based on the near-infrared soil organic matter content measurement system research",
+  "venue": "Proceedings of 2012 International Conference on Measurement, Information and Control",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MIC.2012.6273247?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MIC.2012.6273247, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "143734086",
+      "name": "Xiaoyu Yu"
+    },
+    {
+      "authorId": "39488037",
+      "name": "Yunbo Shi"
+    },
+    {
+      "authorId": "1703517",
+      "name": "D. Xiu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "267850ea8e4b3cf68ace1a6c4c3ef2c9f8ce39e8",
+  "externalIds": {
+    "MAG": "2095917628",
+    "DOI": "10.1109/ICIINFS.2011.6038058",
+    "CorpusId": 7948822
+  },
+  "url": "https://www.semanticscholar.org/paper/267850ea8e4b3cf68ace1a6c4c3ef2c9f8ce39e8",
+  "title": "A social networking platform for augmenting precision agriculture",
+  "venue": "International Conference on Industrial and Information Systems",
+  "year": 2011,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIINFS.2011.6038058?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIINFS.2011.6038058, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9199204",
+      "name": "Nishantha Giguruwa"
+    },
+    {
+      "authorId": "2092994925",
+      "name": "Koo Jeng Tong"
+    },
+    {
+      "authorId": "144406702",
+      "name": "M. Cassim"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

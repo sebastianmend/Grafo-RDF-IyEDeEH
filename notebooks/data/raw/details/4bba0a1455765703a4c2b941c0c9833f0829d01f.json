@@ -1,0 +1,42 @@
+{
+  "paperId": "4bba0a1455765703a4c2b941c0c9833f0829d01f",
+  "externalIds": {
+    "MAG": "2112142530",
+    "DOI": "10.1109/ICACC.2011.6016443",
+    "CorpusId": 18566578
+  },
+  "url": "https://www.semanticscholar.org/paper/4bba0a1455765703a4c2b941c0c9833f0829d01f",
+  "title": "In-situ optimal control of nutrient solution for soilless cultivation",
+  "venue": "American Control Conference",
+  "year": 2011,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACC.2011.6016443?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACC.2011.6016443, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2157323452",
+      "name": "Feng Chen"
+    },
+    {
+      "authorId": "2110437030",
+      "name": "Haidong He"
+    },
+    {
+      "authorId": "2003983",
+      "name": "Yongning Tang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

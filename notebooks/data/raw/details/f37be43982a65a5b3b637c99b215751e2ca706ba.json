@@ -1,0 +1,47 @@
+{
+  "paperId": "f37be43982a65a5b3b637c99b215751e2ca706ba",
+  "externalIds": {
+    "MAG": "2080906695",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2014.6910599",
+    "CorpusId": 44019734
+  },
+  "url": "https://www.semanticscholar.org/paper/f37be43982a65a5b3b637c99b215751e2ca706ba",
+  "title": "A review of data assimilation of crop growth simulation based on remote sensing information",
+  "venue": "2014 The Third International Conference on Agro-Geoinformatics",
+  "year": 2014,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2014.6910599?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2014.6910599, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47653901",
+      "name": "Zhiwei Jiang"
+    },
+    {
+      "authorId": "2119413152",
+      "name": "Liu Jia"
+    },
+    {
+      "authorId": "46842442",
+      "name": "Zhongxin Chen"
+    },
+    {
+      "authorId": "104174080",
+      "name": "S. Liang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

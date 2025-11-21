@@ -1,0 +1,60 @@
+{
+  "paperId": "f809afa4053bc6782347a539c799bc4eb9e3174f",
+  "externalIds": {
+    "MAG": "2056028019",
+    "DOI": "10.1039/C0AY00587H",
+    "CorpusId": 97830717,
+    "PubMed": "32938080"
+  },
+  "url": "https://www.semanticscholar.org/paper/f809afa4053bc6782347a539c799bc4eb9e3174f",
+  "title": "Development and validation (according to the 2002/657/EC regulation) of a method to quantify sulfonamides in porcine liver by fast partition at very low temperature and LC-MS/MS.",
+  "venue": "Analytical Methods",
+  "year": 2011,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1039/C0AY00587H?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/C0AY00587H, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50128117",
+      "name": "R. Lopes"
+    },
+    {
+      "authorId": "40095877",
+      "name": "D. V. Augusti"
+    },
+    {
+      "authorId": "1947568976",
+      "name": "Leonardo Francisco de Souza"
+    },
+    {
+      "authorId": "145829527",
+      "name": "F. A. Santos"
+    },
+    {
+      "authorId": "2113232376",
+      "name": "J. A. Lima"
+    },
+    {
+      "authorId": "1947826640",
+      "name": "E. Vargas"
+    },
+    {
+      "authorId": "6093261",
+      "name": "R. Augusti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

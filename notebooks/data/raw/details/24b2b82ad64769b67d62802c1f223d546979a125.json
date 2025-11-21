@@ -1,0 +1,209 @@
+{
+  "paperId": "24b2b82ad64769b67d62802c1f223d546979a125",
+  "externalIds": {
+    "MAG": "1973410798",
+    "DBLP": "journals/sensors/HammerleH14",
+    "PubMedCentral": "4299107",
+    "DOI": "10.3390/s141224212",
+    "CorpusId": 17833087,
+    "PubMed": "25521383"
+  },
+  "url": "https://www.semanticscholar.org/paper/24b2b82ad64769b67d62802c1f223d546979a125",
+  "title": "Effects of Reduced Terrestrial LiDAR Point Density on High-Resolution Grain Crop Surface Models in Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2014,
+  "citationCount": 51,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/14/12/24212/pdf?version=1418725659",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4299107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49760175",
+      "name": "M. Hämmerle"
+    },
+    {
+      "authorId": "145794330",
+      "name": "B. Höfle"
+    }
+  ],
+  "abstract": "3D geodata play an increasingly important role in precision agriculture, e.g., for modeling in-field variations of grain crop features such as height or biomass. A common data capturing method is LiDAR, which often requires expensive equipment and produces large datasets. This study contributes to the improvement of 3D geodata capturing efficiency by assessing the effect of reduced scanning resolution on crop surface models (CSMs). The analysis is based on high-end LiDAR point clouds of grain crop fields of different varieties (rye and wheat) and nitrogen fertilization stages (100%, 50%, 10%). Lower scanning resolutions are simulated by keeping every n-th laser beam with increasing step widths n. For each iteration step, high-resolution CSMs (0.01 m2 cells) are derived and assessed regarding their coverage relative to a seamless CSM derived from the original point cloud, standard deviation of elevation and mean elevation. Reducing the resolution to, e.g., 25% still leads to a coverage of >90% and a mean CSM elevation of >96% of measured crop height. CSM types (maximum elevation or 90th-percentile elevation) react differently to reduced scanning resolutions in different crops (variety, density). The results can help to assess the trade-off between CSM quality and minimum requirements regarding equipment and capturing set-up.",
+  "references": [
+    {
+      "paperId": "0bd45cfbfc687c2845765af4fa5939587854b1e5"
+    },
+    {
+      "paperId": "f1978c5aeda0725507779efb2bd04fe25f01ed70"
+    },
+    {
+      "paperId": "0df89aa1e410bd5565019fe31cafc92febe33696"
+    },
+    {
+      "paperId": "d3bf850741555adc0ba3a97a90d874825668d497"
+    },
+    {
+      "paperId": "3bd1a05adc7cbd5ac2421dfa6f327d4029e4133c"
+    },
+    {
+      "paperId": "8e7c749bf05fc31ae67949877b72731865d279ce"
+    },
+    {
+      "paperId": "f62acf27f134d5b0d3e89e0bc559b45661cc59d3"
+    },
+    {
+      "paperId": "7db542858fb51a92f357837c6b48f0f7b306a762"
+    },
+    {
+      "paperId": "a17c54d8de0f91586b9c92443fcb5c2e2c5eec23"
+    },
+    {
+      "paperId": "c08663fc8515200e4c58c4b97b9b0a0e757ff392"
+    },
+    {
+      "paperId": "37b6f4c193ff02045536c1a60d2c396b0e0bf460"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "2f3927ab649bc9c71d0909c37962af1732e29534"
+    },
+    {
+      "paperId": "21c9708d14a9f8f417cf2ebbd8ef2a21ebb58070"
+    },
+    {
+      "paperId": "39803c50ad485b469181545e918f259fbabde0d7"
+    },
+    {
+      "paperId": "924c2d59123ca554a57573f0738036ef7afcd277"
+    },
+    {
+      "paperId": "5d66c50c79d1b6dbd54fd9141b763b8a3c1658c0"
+    },
+    {
+      "paperId": "aeb4ce26cc3e942b72c4d2dec944ff21430f477c"
+    },
+    {
+      "paperId": "53cc1ace5dccec728de7ce4ae04b971226e386e6"
+    },
+    {
+      "paperId": "4dc55ce73f5ab8497698f333a9c602bc4099c111"
+    },
+    {
+      "paperId": "d45873fa8ad6ee3a804c7ca2a476bc98c51c3843"
+    },
+    {
+      "paperId": "b2ff90e97fe8b303790d6490c928ca63809313f4"
+    },
+    {
+      "paperId": "ce8290200892ddff8ae6fc9195ba85a66ce883c2"
+    },
+    {
+      "paperId": "de1c5ac3eb9792ed73ea27c03b0f3ba0b7857af4"
+    },
+    {
+      "paperId": "d7da3120832b865cda8b7aef61bfbf2b84f981fd"
+    },
+    {
+      "paperId": "f93858dae98308e777e04b23b71407844e08acfd"
+    },
+    {
+      "paperId": "5dabf0bce32e55a53120de9d8b5d728d4de29fa4"
+    },
+    {
+      "paperId": "335b4621ba1e988d6a59e9c3d8ed42eea9d4f167"
+    },
+    {
+      "paperId": "c947ce13a0efa4f147801b4e421d7d3802785bd0"
+    },
+    {
+      "paperId": "7221676c27803b322ef27f1c44c656cbefec1831"
+    },
+    {
+      "paperId": "b668f9668fb1293620131617f58c53982dcadc6d"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "00f8e9b7394a1d6261cdc0b7f1796c3c3b68edc3"
+    },
+    {
+      "paperId": "7e22e6962e805c8e0f38d824b37abab2e131022a"
+    },
+    {
+      "paperId": "0295f9e6ca02401f4edd06a4e0804743e6c4e2d9"
+    },
+    {
+      "paperId": "f07bd250b96042425d9fa240147c4c45a6d846f2"
+    },
+    {
+      "paperId": "f24531f369143b4b188f53d00f3771a69d87d76a"
+    },
+    {
+      "paperId": "5afa05bccea24f8f9cfdf26053381b1ee6c92d8c"
+    },
+    {
+      "paperId": "66cc8d3cf96eeea667a6eac3f420d0c873214653"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "065b7e09cc81e44d5f7912e6aaf7d551f3770532"
+    },
+    {
+      "paperId": "910d35b3545e73e127787f14a45f927745265aa9"
+    },
+    {
+      "paperId": "5a0679cf3a2dc5223782534493d685ae1f37a40a"
+    },
+    {
+      "paperId": "4cf73fd2552863d0da2e4a668374b50d086800c0"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c7969e95163e04cc2805533ae790b0418a2f96a9"
+    },
+    {
+      "paperId": "75462d362d1d511ca580223af38c329630c7b040"
+    },
+    {
+      "paperId": "6c45b5f5481125a311ea46a05e7acfa1de0f2cfb"
+    },
+    {
+      "paperId": "9066a613725320fcda1cfbc991b87a5a6ab50383"
+    },
+    {
+      "paperId": "f60dcc30b9faac232a472a9e774a398b099ba9f0"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

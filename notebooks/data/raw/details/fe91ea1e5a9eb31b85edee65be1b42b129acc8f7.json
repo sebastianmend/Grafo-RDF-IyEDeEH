@@ -1,0 +1,50 @@
+{
+  "paperId": "fe91ea1e5a9eb31b85edee65be1b42b129acc8f7",
+  "externalIds": {
+    "MAG": "2154714638",
+    "DOI": "10.1109/RSETE.2011.5964378",
+    "CorpusId": 7950131
+  },
+  "url": "https://www.semanticscholar.org/paper/fe91ea1e5a9eb31b85edee65be1b42b129acc8f7",
+  "title": "Simulation study on spectral calibration of hyperspectral imagery based on target absorption features",
+  "venue": "International Conference on Remote Sensing, Environment and Transportation Engineering",
+  "year": 2011,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RSETE.2011.5964378?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RSETE.2011.5964378, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "120593100",
+      "name": "Zhi-yang Gou"
+    },
+    {
+      "authorId": "48028166",
+      "name": "Lei Yan"
+    },
+    {
+      "authorId": "2902628",
+      "name": "Yini Duan"
+    },
+    {
+      "authorId": "2069533932",
+      "name": "Zhong-yi Yin"
+    },
+    {
+      "authorId": "1705429282",
+      "name": "Yun Xiang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

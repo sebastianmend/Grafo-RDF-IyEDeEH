@@ -1,0 +1,56 @@
+{
+  "paperId": "61b643a68343c15e1fe285a86559e0edc94724fe",
+  "externalIds": {
+    "DBLP": "conf/socpar/RiomorosGPHBR10",
+    "MAG": "2068422494",
+    "DOI": "10.1109/SOCPAR.2010.5685936",
+    "CorpusId": 18445874
+  },
+  "url": "https://www.semanticscholar.org/paper/61b643a68343c15e1fe285a86559e0edc94724fe",
+  "title": "Automatic image segmentation of greenness in crop fields",
+  "venue": "International Conference of Soft Computing and Pattern Recognition",
+  "year": 2010,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SOCPAR.2010.5685936?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SOCPAR.2010.5685936, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1406405662",
+      "name": "María Isabel Riomoros"
+    },
+    {
+      "authorId": "35050981",
+      "name": "M. Guijarro"
+    },
+    {
+      "authorId": "1679742",
+      "name": "G. Pajares"
+    },
+    {
+      "authorId": "2057759246",
+      "name": "P. Herrera"
+    },
+    {
+      "authorId": "1403267733",
+      "name": "X. Burgos-Artizzu"
+    },
+    {
+      "authorId": "144880216",
+      "name": "A. Ribeiro"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

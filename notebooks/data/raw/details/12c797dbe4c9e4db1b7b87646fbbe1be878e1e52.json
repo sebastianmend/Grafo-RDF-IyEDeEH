@@ -1,0 +1,81 @@
+{
+  "paperId": "12c797dbe4c9e4db1b7b87646fbbe1be878e1e52",
+  "externalIds": {
+    "MAG": "1564070450",
+    "DBLP": "conf/ifip12/DengLWZ10",
+    "DOI": "10.1007/978-3-642-18333-1_36",
+    "CorpusId": 15971417
+  },
+  "url": "https://www.semanticscholar.org/paper/12c797dbe4c9e4db1b7b87646fbbe1be878e1e52",
+  "title": "Automated Extracting Tree Crown from Quickbird Stand Image",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2010,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-01559554/file/978-3-642-18333-1_36_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-18333-1_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-18333-1_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2056296183",
+      "name": "G. Deng"
+    },
+    {
+      "authorId": "2081967",
+      "name": "Zeng-yuan Li"
+    },
+    {
+      "authorId": "1956248",
+      "name": "Honggan Wu"
+    },
+    {
+      "authorId": "2115464389",
+      "name": "Xu Zhang"
+    }
+  ],
+  "abstract": "Artificial intelligence technologies with spatial information technologies play more and more roles in precision agriculture and precision forestry. This paper puts up a new artificial intelligence algorithm which based on seeded based region growth method to extract tree crown on Quickbird forest stand image. It is a kind of object based canopy and gap information extracting method specially suited for high-resolution imagery to get meaningful tree crown object .The main processes to carry out the experiment and validation on the Quickbird satellite images in Populus×xiaohei plantation even stand at Xue JiaZhuang wood farm in Shanxi Province of China is described in detail in the paper. The average tree numbers identification error is 18.9%. The result shows that this algorithm is an effective way to get segmented crown in real stand image. This algorithm can be powerful tools for precision forestry. We suggest users to choose suitable features and parameter values try by try in forehand applying.",
+  "references": [
+    {
+      "paperId": "c00a273c4b0c487e0068f28ccece47eacffbb210"
+    },
+    {
+      "paperId": "6dc57e183f10c69a5144d3c45a3366065205bce7"
+    },
+    {
+      "paperId": "8f536a0e4f02a9b8b641090147b0eaeb348092a3"
+    },
+    {
+      "paperId": "7ffd68162021e8288a0983e692780e6cb0dd46b4"
+    },
+    {
+      "paperId": "87ed50e7f4fa1ef7049c005c225fb3daaa9a6105"
+    },
+    {
+      "paperId": "b3580d6c415516a375a2121ffdeb5133c7e80b8f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9a95d24fbb87bad5a292e8d2a799c359daced3a1"
+    },
+    {
+      "paperId": "364cc1ff514a2e11d21a101dc072575e5487d17e"
+    },
+    {
+      "paperId": "ed95fa6d5329c917560b9c0fc6ada53f6ec8cf2a"
+    },
+    {
+      "paperId": "b348320cd3f2f26b57374a6fb190e781c9a47c42"
+    }
+  ]
+}

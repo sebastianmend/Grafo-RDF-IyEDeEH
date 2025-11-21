@@ -1,0 +1,44 @@
+{
+  "paperId": "2e8b6fa971c121a90bbea3a4f09fe3669f3acede",
+  "externalIds": {
+    "DBLP": "conf/icufn/MatKH14",
+    "MAG": "2046389753",
+    "DOI": "10.1109/ICUFN.2014.6876771",
+    "CorpusId": 16381498
+  },
+  "url": "https://www.semanticscholar.org/paper/2e8b6fa971c121a90bbea3a4f09fe3669f3acede",
+  "title": "Precision irrigation performance measurement using wireless sensor network",
+  "venue": "International Conference on Ubiquitous and Future Networks",
+  "year": 2014,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUFN.2014.6876771?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUFN.2014.6876771, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40170162",
+      "name": "I. Mat"
+    },
+    {
+      "authorId": "9427886",
+      "name": "Mohamed Rawidean Mohd Kassim"
+    },
+    {
+      "authorId": "37345377",
+      "name": "A. N. Harun"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

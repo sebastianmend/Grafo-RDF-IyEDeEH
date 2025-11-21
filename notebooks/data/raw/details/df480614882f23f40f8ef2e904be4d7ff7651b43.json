@@ -1,0 +1,52 @@
+{
+  "paperId": "df480614882f23f40f8ef2e904be4d7ff7651b43",
+  "externalIds": {
+    "MAG": "2064891357",
+    "DBLP": "conf/igarss/LongGLWX14",
+    "DOI": "10.1109/IGARSS.2014.6947178",
+    "CorpusId": 36989847
+  },
+  "url": "https://www.semanticscholar.org/paper/df480614882f23f40f8ef2e904be4d7ff7651b43",
+  "title": "Integration MRA and MVA for cropland soil property estimation using hyperspectral reflectance",
+  "venue": "2014 IEEE Geoscience and Remote Sensing Symposium",
+  "year": 2014,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2014.6947178?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2014.6947178, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2821550",
+      "name": "Huiling Long"
+    },
+    {
+      "authorId": "7788004",
+      "name": "X. Gu"
+    },
+    {
+      "authorId": "2108668314",
+      "name": "Weiguo Li"
+    },
+    {
+      "authorId": "1948199",
+      "name": "Yancang Wang"
+    },
+    {
+      "authorId": "2118219420",
+      "name": "Qingyun Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,36 @@
+{
+  "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e",
+  "externalIds": {
+    "MAG": "2103959917",
+    "DOI": "10.1094/PDIS-03-15-0340-FE",
+    "CorpusId": 59338422,
+    "PubMed": "30694129"
+  },
+  "url": "https://www.semanticscholar.org/paper/551fefb7f2ebc6836cd2d5797704bbc6c422069e",
+  "title": "Plant Disease Detection by Imaging Sensors - Parallels and Specific Demands for Precision Agriculture and Plant Phenotyping.",
+  "venue": "Plant Disease",
+  "year": 2016,
+  "citationCount": 860,
+  "influentialCitationCount": 29,
+  "openAccessPdf": {
+    "url": "https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-15-0340-FE",
+    "status": "HYBRID",
+    "license": "unspecified-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1094/PDIS-03-15-0340-FE?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1094/PDIS-03-15-0340-FE, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2470933",
+      "name": "Anne-Katrin Mahlein"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,72 @@
+{
+  "paperId": "2655c768c1e6b11104dce3902ae27e70ab2a6846",
+  "externalIds": {
+    "MAG": "2597957405",
+    "CorpusId": 132035253
+  },
+  "url": "https://www.semanticscholar.org/paper/2655c768c1e6b11104dce3902ae27e70ab2a6846",
+  "title": "Geochemical and isotopic map of stream water as a basis of environmental traceability an example of northeastern Japan",
+  "venue": "",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2253185763",
+      "name": "T. Nakano"
+    },
+    {
+      "authorId": "73677117",
+      "name": "K. Shin"
+    },
+    {
+      "authorId": "6651976",
+      "name": "I. Tayasu"
+    },
+    {
+      "authorId": "5698626",
+      "name": "C. Yoshimizu"
+    },
+    {
+      "authorId": "46271897",
+      "name": "N. Okuda"
+    },
+    {
+      "authorId": "3116189",
+      "name": "Y. Kato"
+    },
+    {
+      "authorId": "6789830",
+      "name": "Yukihiro Kohmatsu"
+    },
+    {
+      "authorId": "32876627",
+      "name": "Y. Kurita"
+    },
+    {
+      "authorId": "3912345",
+      "name": "Y. Amano"
+    },
+    {
+      "authorId": "5298925",
+      "name": "H. Togashi"
+    },
+    {
+      "authorId": "40865819",
+      "name": "D. Ishiyama"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

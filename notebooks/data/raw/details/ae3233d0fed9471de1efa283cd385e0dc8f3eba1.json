@@ -1,0 +1,51 @@
+{
+  "paperId": "ae3233d0fed9471de1efa283cd385e0dc8f3eba1",
+  "externalIds": {
+    "MAG": "2166645898",
+    "DOI": "10.1109/ICIEA.2015.7334360",
+    "CorpusId": 15181146
+  },
+  "url": "https://www.semanticscholar.org/paper/ae3233d0fed9471de1efa283cd385e0dc8f3eba1",
+  "title": "Review on research and application of variable rate spray in agriculture",
+  "venue": "2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA)",
+  "year": 2015,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIEA.2015.7334360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIEA.2015.7334360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "9377235",
+      "name": "Yangang Guan"
+    },
+    {
+      "authorId": "98674955",
+      "name": "Dexin Chen"
+    },
+    {
+      "authorId": "39569330",
+      "name": "Ketai He"
+    },
+    {
+      "authorId": "46399251",
+      "name": "Y. Liu"
+    },
+    {
+      "authorId": "2156055522",
+      "name": "Li Li"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

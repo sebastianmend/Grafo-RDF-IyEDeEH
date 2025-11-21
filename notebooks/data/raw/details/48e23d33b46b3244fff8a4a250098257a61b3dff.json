@@ -1,0 +1,45 @@
+{
+  "paperId": "48e23d33b46b3244fff8a4a250098257a61b3dff",
+  "externalIds": {
+    "MAG": "2124612499",
+    "DOI": "10.1890/14-1127.1",
+    "CorpusId": 1579186,
+    "PubMed": "26378320"
+  },
+  "url": "https://www.semanticscholar.org/paper/48e23d33b46b3244fff8a4a250098257a61b3dff",
+  "title": "Microbial functional diversity enhances predictive models linking environmental parameters to ecosystem properties.",
+  "venue": "Ecology",
+  "year": 2015,
+  "citationCount": 72,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1890/14-1127.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1890/14-1127.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "34904443",
+      "name": "J. Powell"
+    },
+    {
+      "authorId": "11144604",
+      "name": "Allana Welsh"
+    },
+    {
+      "authorId": "6189778",
+      "name": "S. Hallin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

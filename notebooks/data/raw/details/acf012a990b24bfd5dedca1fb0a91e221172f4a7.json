@@ -1,0 +1,42 @@
+{
+  "paperId": "acf012a990b24bfd5dedca1fb0a91e221172f4a7",
+  "externalIds": {
+    "MAG": "2548788022",
+    "DOI": "10.1109/ICOAC.2014.7229712",
+    "CorpusId": 6863244
+  },
+  "url": "https://www.semanticscholar.org/paper/acf012a990b24bfd5dedca1fb0a91e221172f4a7",
+  "title": "Monitoring of soil parameters for effective irrigation using Wireless Sensor Networks",
+  "venue": "International Conference on Advanced Computing",
+  "year": 2014,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOAC.2014.7229712?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOAC.2014.7229712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9209203",
+      "name": "B. Balaji Bhanu"
+    },
+    {
+      "authorId": "2589195",
+      "name": "M. Hussain"
+    },
+    {
+      "authorId": "9132122",
+      "name": "P. Ande"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

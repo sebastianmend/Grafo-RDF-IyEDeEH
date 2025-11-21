@@ -1,0 +1,48 @@
+{
+  "paperId": "b390d5ceed9af9dfceff73313f2a2b678ade4452",
+  "externalIds": {
+    "DBLP": "conf/icisa/Ul-QayyumASR13",
+    "MAG": "2077591638",
+    "DOI": "10.1109/ICISA.2013.6579389",
+    "CorpusId": 16979835
+  },
+  "url": "https://www.semanticscholar.org/paper/b390d5ceed9af9dfceff73313f2a2b678ade4452",
+  "title": "Optimal Feature Extraction Technique for Crop Classification Using Aerial Imagery",
+  "venue": "International Conference on Information Science and Applications",
+  "year": 2013,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISA.2013.6579389?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISA.2013.6579389, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1399036896",
+      "name": "Zia Ul-Qayyum"
+    },
+    {
+      "authorId": "2063971761",
+      "name": "Asma Akhtar"
+    },
+    {
+      "authorId": "3196274",
+      "name": "Sohail Sarwar"
+    },
+    {
+      "authorId": "145697543",
+      "name": "M. Ramzan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

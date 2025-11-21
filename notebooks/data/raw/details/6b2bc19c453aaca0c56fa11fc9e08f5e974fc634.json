@@ -1,0 +1,47 @@
+{
+  "paperId": "6b2bc19c453aaca0c56fa11fc9e08f5e974fc634",
+  "externalIds": {
+    "DBLP": "journals/wicomm/KarimMNK14",
+    "MAG": "2118411746",
+    "DOI": "10.1002/wcm.2260",
+    "CorpusId": 31635485
+  },
+  "url": "https://www.semanticscholar.org/paper/6b2bc19c453aaca0c56fa11fc9e08f5e974fc634",
+  "title": "An integrated framework for wireless sensor network management",
+  "venue": "Wireless Communications and Mobile Computing",
+  "year": 2014,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://atrium.lib.uoguelph.ca/bitstreams/6db49fee-fa52-47c2-acb1-566a051b4184/download",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wcm.2260?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wcm.2260, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2836722",
+      "name": "Lutful Karim"
+    },
+    {
+      "authorId": "1718287",
+      "name": "Q. Mahmoud"
+    },
+    {
+      "authorId": "143999752",
+      "name": "N. Nasser"
+    },
+    {
+      "authorId": "1515061910",
+      "name": "Nargis Khan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

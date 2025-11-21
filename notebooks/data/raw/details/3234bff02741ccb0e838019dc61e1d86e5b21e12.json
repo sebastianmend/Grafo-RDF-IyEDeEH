@@ -1,0 +1,42 @@
+{
+  "paperId": "3234bff02741ccb0e838019dc61e1d86e5b21e12",
+  "externalIds": {
+    "MAG": "2219980153",
+    "DOI": "10.1109/ICROM.2015.7367851",
+    "CorpusId": 15161954
+  },
+  "url": "https://www.semanticscholar.org/paper/3234bff02741ccb0e838019dc61e1d86e5b21e12",
+  "title": "Dynamics modelling and control of a strawberry harvesting robot",
+  "venue": "International Conference on Robotics and Mechatronics",
+  "year": 2015,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICROM.2015.7367851?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICROM.2015.7367851, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "32697066",
+      "name": "K. A. Vakilian"
+    },
+    {
+      "authorId": "2119084799",
+      "name": "M. Jafari"
+    },
+    {
+      "authorId": "2072558",
+      "name": "P. Zarafshan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

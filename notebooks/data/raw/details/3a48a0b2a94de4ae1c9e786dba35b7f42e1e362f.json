@@ -1,0 +1,40 @@
+{
+  "paperId": "3a48a0b2a94de4ae1c9e786dba35b7f42e1e362f",
+  "externalIds": {
+    "MAG": "2171386408",
+    "DOI": "10.1021/jf305531j",
+    "CorpusId": 25450060,
+    "PubMed": "23551250"
+  },
+  "url": "https://www.semanticscholar.org/paper/3a48a0b2a94de4ae1c9e786dba35b7f42e1e362f",
+  "title": "Traditional and modern plant breeding methods with examples in rice (Oryza sativa L.).",
+  "venue": "Journal of Agricultural and Food Chemistry",
+  "year": 2013,
+  "citationCount": 244,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1021/jf305531j",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/jf305531j?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/jf305531j, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152484984",
+      "name": "F. Breseghello"
+    },
+    {
+      "authorId": "1778987",
+      "name": "A. Coelho"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

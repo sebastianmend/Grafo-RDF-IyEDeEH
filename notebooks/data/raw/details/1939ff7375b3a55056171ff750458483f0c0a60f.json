@@ -1,0 +1,88 @@
+{
+  "paperId": "1939ff7375b3a55056171ff750458483f0c0a60f",
+  "externalIds": {
+    "MAG": "2078398745",
+    "DOI": "10.1007/s00726-013-1463-7",
+    "CorpusId": 18395996,
+    "PubMed": "23361945"
+  },
+  "url": "https://www.semanticscholar.org/paper/1939ff7375b3a55056171ff750458483f0c0a60f",
+  "title": "Hydrophilic interaction ultra-performance liquid chromatography coupled with triple-quadrupole tandem mass spectrometry for highly rapid and sensitive analysis of underivatized amino acids in functional foods",
+  "venue": "Amino Acids",
+  "year": 2013,
+  "citationCount": 49,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00726-013-1463-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00726-013-1463-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47260853",
+      "name": "Guisheng Zhou"
+    },
+    {
+      "authorId": "36233890",
+      "name": "Han-qing Pang"
+    },
+    {
+      "authorId": "49578358",
+      "name": "Yuping Tang"
+    },
+    {
+      "authorId": "2115585303",
+      "name": "Xin Yao"
+    },
+    {
+      "authorId": "2062795428",
+      "name": "Xuan Mo"
+    },
+    {
+      "authorId": "2429355",
+      "name": "Shao-qing Zhu"
+    },
+    {
+      "authorId": "143921503",
+      "name": "Sheng Guo"
+    },
+    {
+      "authorId": "1713707",
+      "name": "D. Qian"
+    },
+    {
+      "authorId": "27494496",
+      "name": "Ye-fei Qian"
+    },
+    {
+      "authorId": "2249238238",
+      "name": "S. Su"
+    },
+    {
+      "authorId": "2152827289",
+      "name": "Li Zhang"
+    },
+    {
+      "authorId": "50078105",
+      "name": "Chun Jin"
+    },
+    {
+      "authorId": "2112436853",
+      "name": "Yong Qin"
+    },
+    {
+      "authorId": "2252411602",
+      "name": "J. Duan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "32ff8a2c898af66313a5a307a57a893aa6ffb65f",
+  "externalIds": {
+    "MAG": "1971547344",
+    "DBLP": "journals/asc/PapageorgiouMG11",
+    "DOI": "10.1016/j.asoc.2011.01.036",
+    "CorpusId": 12520931
+  },
+  "url": "https://www.semanticscholar.org/paper/32ff8a2c898af66313a5a307a57a893aa6ffb65f",
+  "title": "Fuzzy cognitive map based approach for predicting yield in cotton crop production as a basis for decision support system in precision agriculture application",
+  "venue": "Applied Soft Computing",
+  "year": 2011,
+  "citationCount": 142,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.asoc.2011.01.036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.asoc.2011.01.036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1678854",
+      "name": "E. Papageorgiou"
+    },
+    {
+      "authorId": "3339160",
+      "name": "A. Markinos"
+    },
+    {
+      "authorId": "3040491",
+      "name": "T. Gemtos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

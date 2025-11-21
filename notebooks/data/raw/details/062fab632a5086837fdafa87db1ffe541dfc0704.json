@@ -1,0 +1,50 @@
+{
+  "paperId": "062fab632a5086837fdafa87db1ffe541dfc0704",
+  "externalIds": {
+    "MAG": "1979543626",
+    "DOI": "10.1109/SENSORDEVICES.2010.40",
+    "CorpusId": 6890149
+  },
+  "url": "https://www.semanticscholar.org/paper/062fab632a5086837fdafa87db1ffe541dfc0704",
+  "title": "Button Heat-Pulse Sensor for Soil Water Content Measurements",
+  "venue": "2010 First International Conference on Sensor Device Technologies and Applications",
+  "year": 2010,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SENSORDEVICES.2010.40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SENSORDEVICES.2010.40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "93474037",
+      "name": "A. Valente"
+    },
+    {
+      "authorId": "2680842",
+      "name": "S. Soares"
+    },
+    {
+      "authorId": "145104645",
+      "name": "R. Morais"
+    },
+    {
+      "authorId": "152375893",
+      "name": "José Baptista"
+    },
+    {
+      "authorId": "2061128645",
+      "name": "M. Cabral"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

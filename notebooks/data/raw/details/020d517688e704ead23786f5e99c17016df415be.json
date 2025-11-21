@@ -1,0 +1,237 @@
+{
+  "paperId": "020d517688e704ead23786f5e99c17016df415be",
+  "externalIds": {
+    "MAG": "2329904962",
+    "DOI": "10.5304/JAFSCD.2012.024.010",
+    "CorpusId": 155372954
+  },
+  "url": "https://www.semanticscholar.org/paper/020d517688e704ead23786f5e99c17016df415be",
+  "title": "More Than Counting Beans: Adapting USDA Data Collection Practices To Track Marketing Channel Diversification",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5304/jafscd.2012.024.010",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5304/JAFSCD.2012.024.010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5304/JAFSCD.2012.024.010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120472343",
+      "name": "A. Hunt"
+    },
+    {
+      "authorId": "49733372",
+      "name": "G. Matteson"
+    }
+  ],
+  "abstract": "In order to differentiate their products, agricultural producers are expanding and diversifying their use of marketing channels. Increasingly, these channels convey farm-level information to the final purchaser. However, the Census of Agriculture, the longest-running U.S. farm survey, tracks only three forms of market differentiation: direct-to-consumer sales, organic sales, and the number of community supported agriculture farms. Current Congressional proposals to increase data collection on market channel diversification rely on \"follow-on\" surveys and the Agricultural Resource Management Survey (ARMS) conducted by the U.S. Department of Agriculture. Both of these surveys are more limited than the Census of Agriculture in observing farm-level trends; the follow-on survey is particularly limited in providing results that are comparable to all farms and even farms within the same sector. This paper will show that administrative reporting changes in the 2012 census and the introduction of new questions for the 2017 census can improve both farm-level and sector-level observations on marketing channel usage — with greater precision than tracking local and regional food systems. Such data is needed to assist policy-makers, technical assistance providers, and farm lenders in providing resources to the relatively high portion of young, beginning, and full-time producers involved in market channel differentiation.",
+  "references": [
+    {
+      "paperId": "9e7470dfaf1b1e1e88da88502610addd2dbe9e51"
+    },
+    {
+      "paperId": "4e6730c4fe64860a4627b37b9f1a05d7242fefd8"
+    },
+    {
+      "paperId": "2f5523a4a3d1531bde716de0c33fe4998747ba79"
+    },
+    {
+      "paperId": "7faa3c57696fb1fd711840cb58186e2a10cb7132"
+    },
+    {
+      "paperId": "b8a7ef1d0b506cacae9632b5c5c59d420bb86b04"
+    },
+    {
+      "paperId": "939bba5d2c7c0c9fc714e66e6f9d25c749fe65bf"
+    },
+    {
+      "paperId": "e35bc16906ccec7535e4bf4e34c1ba47cc06c045"
+    },
+    {
+      "paperId": "63c0fd4a2cf65f1d6da82ec02917264c08cc5f38"
+    },
+    {
+      "paperId": "bb2e3db5c387872e5b1b230cda8c62c51d51dee6"
+    },
+    {
+      "paperId": "5ac8144664c2ea73527cb3021ae4f49dc50d6379"
+    },
+    {
+      "paperId": "977171e06bba93c3c7dfa127a2ff1041875b6dc0"
+    },
+    {
+      "paperId": "d67e9adde21821b8c3b46b6b60a6cde79bb0d862"
+    },
+    {
+      "paperId": "ceff4caeca4d421f300e5f46e2e8acd740ecfa52"
+    },
+    {
+      "paperId": "c0c6ddeab5e54940fada48549949ae116fa6529d"
+    },
+    {
+      "paperId": "88bb623407830fc6a56658810bb43d223946a551"
+    },
+    {
+      "paperId": "66b38a5a774f22ded09d1d8a770afc6f1975890c"
+    },
+    {
+      "paperId": "8e5acd41b218ff87d03c267010636ff7125b54e6"
+    },
+    {
+      "paperId": "a38e2abba2e362f6ed614becd73731b7e9f8e50f"
+    },
+    {
+      "paperId": "d8ba92c281e0cca58eff2e8df6849dadecfeb595"
+    },
+    {
+      "paperId": "47c592c4b14e21efdf50c4294b5025aaea0117b5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d6a3482142411af0a9d846c5b1a99bda90f3f625"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6be6f5ca44560bed4ae0ac57e801e26e1b525148"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "15d630d2c3523c4c948f1a666ce569c941d737ba"
+    },
+    {
+      "paperId": "c6d23e59bf92c25f982ae0b33700c8d01c50f0d7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e3a439bc326d8e364a3ad3e8f79aa66758733fcb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1298ce96097cdd722ac7be15b0186e2d6177ff63"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4e6e59f3ecf048048c71c180136eb96a244c734e"
+    },
+    {
+      "paperId": "b4555918346dfba1280e58e9ac941e83ff87d806"
+    },
+    {
+      "paperId": "839c5258b560275725536d9f411ecea779a78c58"
+    },
+    {
+      "paperId": "629cfff44dd586179163b657047ba13f375cd056"
+    },
+    {
+      "paperId": "86c2513bef339653f04859f342b57840e87b20dd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "66aedb047f7d80893f2314c9ae6a80824fa4207e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e6410d9f6e257bf28837857be3c8a9f3ac14b22"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

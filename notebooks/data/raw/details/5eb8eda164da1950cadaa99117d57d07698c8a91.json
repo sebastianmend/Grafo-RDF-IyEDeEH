@@ -1,0 +1,50 @@
+{
+  "paperId": "5eb8eda164da1950cadaa99117d57d07698c8a91",
+  "externalIds": {
+    "MAG": "2371883173",
+    "CorpusId": 20161458,
+    "PubMed": "22715787"
+  },
+  "url": "https://www.semanticscholar.org/paper/5eb8eda164da1950cadaa99117d57d07698c8a91",
+  "title": "[On using tunable diode laser absorption spectroscopy to determine gas fluxes over cropland].",
+  "venue": "Guang pu xue yu guang pu fen xi = Guang pu",
+  "year": 2012,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2125144100",
+      "name": "Yong Tian"
+    },
+    {
+      "authorId": "2157244858",
+      "name": "Jian-guo Liu"
+    },
+    {
+      "authorId": "2108257970",
+      "name": "Yu-jun Zhang"
+    },
+    {
+      "authorId": "12016692",
+      "name": "Yihuai Lu"
+    },
+    {
+      "authorId": "46968319",
+      "name": "Ying He"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

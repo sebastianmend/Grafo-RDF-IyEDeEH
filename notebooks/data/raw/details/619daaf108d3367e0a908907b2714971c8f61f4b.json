@@ -1,0 +1,48 @@
+{
+  "paperId": "619daaf108d3367e0a908907b2714971c8f61f4b",
+  "externalIds": {
+    "DBLP": "journals/staeors/HuntDMH14",
+    "MAG": "1969816925",
+    "DOI": "10.1109/JSTARS.2014.2317876",
+    "CorpusId": 23860233
+  },
+  "url": "https://www.semanticscholar.org/paper/619daaf108d3367e0a908907b2714971c8f61f4b",
+  "title": "Remote Sensing With Simulated Unmanned Aircraft Imagery for Precision Agriculture Applications",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2014,
+  "citationCount": 66,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2014.2317876?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2014.2317876, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2208384869",
+      "name": "E. R. Hunt"
+    },
+    {
+      "authorId": "2529128",
+      "name": "C. Daughtry"
+    },
+    {
+      "authorId": "2272686118",
+      "name": "S. Mirsky"
+    },
+    {
+      "authorId": "145359507",
+      "name": "W. Hively"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,64 @@
+{
+  "paperId": "196632ba37679b7634a11080ea84091b5bd1d211",
+  "externalIds": {
+    "MAG": "2555353280",
+    "DBLP": "conf/ifip12/FuCZZGLFC15",
+    "DOI": "10.1007/978-3-319-48357-3_61",
+    "CorpusId": 20282126
+  },
+  "url": "https://www.semanticscholar.org/paper/196632ba37679b7634a11080ea84091b5bd1d211",
+  "title": "Analysis of Changes in Agronomic Parameters and Disease Index of Rapeseed Leaf Leukoplakia Based on Spectra",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2015,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-48357-3_61.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-48357-3_61?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-48357-3_61, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3241895",
+      "name": "K. Fu"
+    },
+    {
+      "authorId": "2061422",
+      "name": "H. Cao"
+    },
+    {
+      "authorId": "49039538",
+      "name": "Wenyu Zhang"
+    },
+    {
+      "authorId": "1900535852",
+      "name": "Weixin Zhang"
+    },
+    {
+      "authorId": "39809787",
+      "name": "D. Ge"
+    },
+    {
+      "authorId": "2157170995",
+      "name": "Yan Liu"
+    },
+    {
+      "authorId": "2306751",
+      "name": "C. Feng"
+    },
+    {
+      "authorId": "2108921022",
+      "name": "Weitao Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "cfd8f6e5343b3422870ac8b2ce83aeaf5bac2ee5",
+  "externalIds": {
+    "MAG": "1928504735",
+    "DOI": "10.1109/APSAR.2015.7306231",
+    "CorpusId": 28875891
+  },
+  "url": "https://www.semanticscholar.org/paper/cfd8f6e5343b3422870ac8b2ce83aeaf5bac2ee5",
+  "title": "Paddy field extraction using beta and polarization orientation angles",
+  "venue": "IEEE Asia-Pacific Conference on Synthetic Aperture Radar",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/APSAR.2015.7306231?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/APSAR.2015.7306231, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2108122332",
+      "name": "Yonghyun Kim"
+    },
+    {
+      "authorId": "2206036",
+      "name": "Jaehong Oh"
+    },
+    {
+      "authorId": "98345341",
+      "name": "Duk‐jin Kim"
+    },
+    {
+      "authorId": "2107906877",
+      "name": "Yong-Il Kim"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

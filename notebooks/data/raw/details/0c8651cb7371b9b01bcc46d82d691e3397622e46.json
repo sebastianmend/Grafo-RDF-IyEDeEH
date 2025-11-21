@@ -1,0 +1,38 @@
+{
+  "paperId": "0c8651cb7371b9b01bcc46d82d691e3397622e46",
+  "externalIds": {
+    "MAG": "2178519660",
+    "DOI": "10.18148/SRM/2012.V6I3.5127",
+    "CorpusId": 56066992
+  },
+  "url": "https://www.semanticscholar.org/paper/0c8651cb7371b9b01bcc46d82d691e3397622e46",
+  "title": "Multivariate Boundaries of a Self Representing Stratum of Large Units in Agricultural Survey Design",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.18148/SRM/2012.V6I3.5127?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18148/SRM/2012.V6I3.5127, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47375194",
+      "name": "R. Benedetti"
+    },
+    {
+      "authorId": "40553856",
+      "name": "F. Piersimoni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,34 @@
+{
+  "paperId": "4fe870ebf208907f0e04adba27070a1831a50158",
+  "externalIds": {
+    "MAG": "586126754",
+    "DOI": "10.1002/9780470665480",
+    "CorpusId": 60257245
+  },
+  "url": "https://www.semanticscholar.org/paper/4fe870ebf208907f0e04adba27070a1831a50158",
+  "title": "Agricultural survey methods",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 49,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/9780470665480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/9780470665480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47375194",
+      "name": "R. Benedetti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

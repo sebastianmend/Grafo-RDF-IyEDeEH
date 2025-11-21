@@ -1,0 +1,133 @@
+{
+  "paperId": "9eace7f585bec77f0713b7619abd6f7b040f0c20",
+  "externalIds": {
+    "MAG": "2464445494",
+    "PubMedCentral": "4092064",
+    "DOI": "10.1371/journal.pone.0101853",
+    "CorpusId": 16758733,
+    "PubMed": "25010796"
+  },
+  "url": "https://www.semanticscholar.org/paper/9eace7f585bec77f0713b7619abd6f7b040f0c20",
+  "title": "Genome-Wide DNA Methylation Patterns and Transcription Analysis in Sheep Muscle",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 36,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101853&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4092064, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2807077",
+      "name": "C. Couldrey"
+    },
+    {
+      "authorId": "6058771",
+      "name": "R. Brauning"
+    },
+    {
+      "authorId": "4627250",
+      "name": "Jeremy Bracegirdle"
+    },
+    {
+      "authorId": "144821991",
+      "name": "P. Maclean"
+    },
+    {
+      "authorId": "65820985",
+      "name": "H. Henderson"
+    },
+    {
+      "authorId": "4076972",
+      "name": "J. McEwan"
+    }
+  ],
+  "abstract": "DNA methylation plays a central role in regulating many aspects of growth and development in mammals through regulating gene expression. The development of next generation sequencing technologies have paved the way for genome-wide, high resolution analysis of DNA methylation landscapes using methodology known as reduced representation bisulfite sequencing (RRBS). While RRBS has proven to be effective in understanding DNA methylation landscapes in humans, mice, and rats, to date, few studies have utilised this powerful method for investigating DNA methylation in agricultural animals. Here we describe the utilisation of RRBS to investigate DNA methylation in sheep Longissimus dorsi muscles. RRBS analysis of ∼1% of the genome from Longissimus dorsi muscles provided data of suitably high precision and accuracy for DNA methylation analysis, at all levels of resolution from genome-wide to individual nucleotides. Combining RRBS data with mRNAseq data allowed the sheep Longissimus dorsi muscle methylome to be compared with methylomes from other species. While some species differences were identified, many similarities were observed between DNA methylation patterns in sheep and other more commonly studied species. The RRBS data presented here highlights the complexity of epigenetic regulation of genes. However, the similarities observed across species are promising, in that knowledge gained from epigenetic studies in human and mice may be applied, with caution, to agricultural species. The ability to accurately measure DNA methylation in agricultural animals will contribute an additional layer of information to the genetic analyses currently being used to maximise production gains in these species.",
+  "references": [
+    {
+      "paperId": "9a1e160b8d9e45eaa2204e53ef532d19aa1997a2"
+    },
+    {
+      "paperId": "a6194f95e3f6d4b2375fa7c1827eb68302044de6"
+    },
+    {
+      "paperId": "12343f42b3df5ed0913287e495665b9f26b30989"
+    },
+    {
+      "paperId": "9bd17c83ab4488aa4e70fc86a6135d1cfe162662"
+    },
+    {
+      "paperId": "ac808ce8f4be180aedb2751d957f29d449558f8c"
+    },
+    {
+      "paperId": "89f5bca7fa48881844e2bc62e02b0d9bceabbb1a"
+    },
+    {
+      "paperId": "61f8fdbefd360d5300ebf4857dcec338bcdaa38f"
+    },
+    {
+      "paperId": "362071e549703465a5917eed0ae473256a1890e1"
+    },
+    {
+      "paperId": "0090b00ae88310732da867efca859e23da066b1a"
+    },
+    {
+      "paperId": "549783a062f3561542aae9f3c3da0591036805d2"
+    },
+    {
+      "paperId": "067097b814fba7fe46585e7888bade78d8754367"
+    },
+    {
+      "paperId": "fdf01e7cab94030c85707869c511576e57ba49ad"
+    },
+    {
+      "paperId": "11797b3e3bd13c62acd17abe091c4801314b22c2"
+    },
+    {
+      "paperId": "921fae19a9ae1d5a7e172cc5cfa2404c4852d79e"
+    },
+    {
+      "paperId": "89f4a8ed61c1af384c895984ece7f07148747fdf"
+    },
+    {
+      "paperId": "f0b5cff410c0f4bdb9f4657941ccddafc5b87978"
+    },
+    {
+      "paperId": "b391a64e293d889c0a09cfb8b19f9b98a5e2e1e4"
+    },
+    {
+      "paperId": "a784f8e5febeb682bff39e5c6e69c96001f8aa3e"
+    },
+    {
+      "paperId": "449f7b63f133bb26a93cbf2deaf632331f608adb"
+    },
+    {
+      "paperId": "5bc98ea941c9f0a5fcda3fbb60539a807b831351"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cf6312de39796f94b8607da718aa516942024925"
+    },
+    {
+      "paperId": "b7ccfb7c42c2456fed2de216ebb13cd3b55af48e"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

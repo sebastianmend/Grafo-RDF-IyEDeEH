@@ -1,0 +1,60 @@
+{
+  "paperId": "92a6585c64888552a38082a87a16a8b5b5b7e5c3",
+  "externalIds": {
+    "MAG": "2601985080",
+    "CorpusId": 195936924
+  },
+  "url": "https://www.semanticscholar.org/paper/92a6585c64888552a38082a87a16a8b5b5b7e5c3",
+  "title": "Introducing Ambiguity Resolution in Web-hosted Global Multi-GNSS Precise Point Positioning with Trimble RTX-PP",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104040674",
+      "name": "K. Doucet"
+    },
+    {
+      "authorId": "147488537",
+      "name": "Michael Herwig"
+    },
+    {
+      "authorId": "70467501",
+      "name": "A. Kipka"
+    },
+    {
+      "authorId": "150261423",
+      "name": "Philip Kreikenbohm"
+    },
+    {
+      "authorId": "32096201",
+      "name": "H. Landau"
+    },
+    {
+      "authorId": "32702457",
+      "name": "R. Leandro"
+    },
+    {
+      "authorId": "102971715",
+      "name": "M. Moessmer"
+    },
+    {
+      "authorId": "69010603",
+      "name": "Christian Pagels"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

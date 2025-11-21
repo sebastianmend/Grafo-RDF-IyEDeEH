@@ -1,0 +1,42 @@
+{
+  "paperId": "d8050b68f44c65bb1bc2d4fee3f3ba2bad0d83e4",
+  "externalIds": {
+    "MAG": "2156580342",
+    "DOI": "10.1109/PLANS.2010.5507201",
+    "CorpusId": 22390058
+  },
+  "url": "https://www.semanticscholar.org/paper/d8050b68f44c65bb1bc2d4fee3f3ba2bad0d83e4",
+  "title": "Multipath adaptive filtering in GNSS/RTK-based machine automation applications",
+  "venue": "IEEE - ION Position Location and Navigation Symposium",
+  "year": 2010,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PLANS.2010.5507201?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PLANS.2010.5507201, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144843473",
+      "name": "L. Serrano"
+    },
+    {
+      "authorId": "102920974",
+      "name": "Don Kim"
+    },
+    {
+      "authorId": "47649381",
+      "name": "R. Langley"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

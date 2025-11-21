@@ -1,0 +1,97 @@
+{
+  "paperId": "5de2885c554d39010430ea32b2f678f680a55644",
+  "externalIds": {
+    "DBLP": "journals/sensors/Bradley15",
+    "MAG": "2173253300",
+    "PubMedCentral": "4701336",
+    "DOI": "10.3390/s151129346",
+    "CorpusId": 12855558,
+    "PubMed": "26610500"
+  },
+  "url": "https://www.semanticscholar.org/paper/5de2885c554d39010430ea32b2f678f680a55644",
+  "title": "An Analytic Model for the Success Rate of a Robotic Actuator System in Hitting Random Targets",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2015,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/15/11/29346/pdf?version=1448013848",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4701336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145202616",
+      "name": "S. Bradley"
+    }
+  ],
+  "abstract": "Autonomous robotic systems are increasingly being used in a wide range of applications such as precision agriculture, medicine, and the military. These systems have common features which often includes an action by an “actuator” interacting with a target. While simulations and measurements exist for the success rate of hitting targets by some systems, there is a dearth of analytic models which can give insight into, and guidance on optimization, of new robotic systems. The present paper develops a simple model for estimation of the success rate for hitting random targets from a moving platform. The model has two main dimensionless parameters: the ratio of actuator spacing to target diameter; and the ratio of platform distance moved (between actuator “firings”) to the target diameter. It is found that regions of parameter space having specified high success are described by simple equations, providing guidance on design. The role of a “cost function” is introduced which, when minimized, provides optimization of design, operating, and risk mitigation costs.",
+  "references": [
+    {
+      "paperId": "bab348927c667a0f97b7975f99fad38238f75ef7"
+    },
+    {
+      "paperId": "08f609db494347366f69ddb8719cbce99f3c539b"
+    },
+    {
+      "paperId": "a75af247a1ac5886eab68634bfe57707c4fe36c2"
+    },
+    {
+      "paperId": "09170358510aa7f25650868ff3feb5b52577ca98"
+    },
+    {
+      "paperId": "a5b1c11e56c9f4e782c206bde396d0b2946afc75"
+    },
+    {
+      "paperId": "7dde8bee7a68461c47c6aa8ed4b50fb25a800b1e"
+    },
+    {
+      "paperId": "f5e6f9f7ac02000361cd74425d5e125a00348267"
+    },
+    {
+      "paperId": "d21d2e603aff3dcd1a55d98fcaee8e55fdd81924"
+    },
+    {
+      "paperId": "7653474c6388c372e40e7f17da56e318ce7f7f1d"
+    },
+    {
+      "paperId": "2521644e4045bb422ca85a246a312ac3758012f1"
+    },
+    {
+      "paperId": "f4b2a1acd7b2e4c829f140d6ee13fce9ab116a7a"
+    },
+    {
+      "paperId": "e1bc4e6e35a9d602d60ed20eb4e1ef0c220263b8"
+    },
+    {
+      "paperId": "c3d407f655cb1a18e921307447c128d4c316795a"
+    },
+    {
+      "paperId": "4efd5dbdaf217dcef8ed3647d42e15939fcd4e88"
+    },
+    {
+      "paperId": "a396e5e8b3ef93075a1e937d1d6ce3f3ba3bbeb3"
+    },
+    {
+      "paperId": "d566f3bc67a1d7c31a207f1217395efd47900925"
+    },
+    {
+      "paperId": "386fef3e4ddbd9595640e6ebc595adfdb2f1035e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "8c400ea1c999ea854c4217ad70d13b078b5e4e34",
+  "externalIds": {
+    "MAG": "2482960773",
+    "DOI": "10.1201/B15159",
+    "CorpusId": 126601140
+  },
+  "url": "https://www.semanticscholar.org/paper/8c400ea1c999ea854c4217ad70d13b078b5e4e34",
+  "title": "Automated individual tree-crown delineation and treetop detection with very-high-resolution aerial imagery",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1201/B15159?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1201/B15159, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48737847",
+      "name": "Guangxing Wang"
+    },
+    {
+      "authorId": "2511308",
+      "name": "Qihao Weng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

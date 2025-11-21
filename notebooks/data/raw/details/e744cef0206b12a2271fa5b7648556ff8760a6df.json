@@ -1,0 +1,48 @@
+{
+  "paperId": "e744cef0206b12a2271fa5b7648556ff8760a6df",
+  "externalIds": {
+    "MAG": "3090933823",
+    "CorpusId": 129495591
+  },
+  "url": "https://www.semanticscholar.org/paper/e744cef0206b12a2271fa5b7648556ff8760a6df",
+  "title": "Which measurement stratégies to improve spatial erosion and deposition patterns modelling",
+  "venue": "",
+  "year": 2014,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "91263308",
+      "name": "Nathalie Pineux"
+    },
+    {
+      "authorId": "35449634",
+      "name": "Alexandre Maugnard"
+    },
+    {
+      "authorId": "104568561",
+      "name": "Gilles Swerts"
+    },
+    {
+      "authorId": "2837653",
+      "name": "C. Bielders"
+    },
+    {
+      "authorId": "91818741",
+      "name": "A. Dégre"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

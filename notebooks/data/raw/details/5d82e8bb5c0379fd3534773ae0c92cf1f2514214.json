@@ -1,0 +1,39 @@
+{
+  "paperId": "5d82e8bb5c0379fd3534773ae0c92cf1f2514214",
+  "externalIds": {
+    "MAG": "2540032579",
+    "DOI": "10.1109/ICONRAEECE.2011.6129739",
+    "CorpusId": 25866080
+  },
+  "url": "https://www.semanticscholar.org/paper/5d82e8bb5c0379fd3534773ae0c92cf1f2514214",
+  "title": "Real-time monitoring of GPS-tracking multifunctional vehicle path control and data acquisition based on ZigBee multi-hop mesh network",
+  "venue": "2011 INTERNATIONAL CONFERENCE ON RECENT ADVANCEMENTS IN ELECTRICAL, ELECTRONICS AND CONTROL ENGINEERING",
+  "year": 2011,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICONRAEECE.2011.6129739?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICONRAEECE.2011.6129739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "81001434",
+      "name": "G. Angel"
+    },
+    {
+      "authorId": "30671932",
+      "name": "A. Brindha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

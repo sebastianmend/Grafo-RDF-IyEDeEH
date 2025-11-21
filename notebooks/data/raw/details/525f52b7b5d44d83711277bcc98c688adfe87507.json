@@ -1,0 +1,44 @@
+{
+  "paperId": "525f52b7b5d44d83711277bcc98c688adfe87507",
+  "externalIds": {
+    "MAG": "2074550148",
+    "DBLP": "journals/tgrs/TitsSC12",
+    "DOI": "10.1109/TGRS.2011.2173696",
+    "CorpusId": 35601386
+  },
+  "url": "https://www.semanticscholar.org/paper/525f52b7b5d44d83711277bcc98c688adfe87507",
+  "title": "The Potential and Limitations of a Clustering Approach for the Improved Efficiency of Multiple Endmember Spectral Mixture Analysis in Plant Production System Monitoring",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2012,
+  "citationCount": 42,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGRS.2011.2173696?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGRS.2011.2173696, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2854444",
+      "name": "L. Tits"
+    },
+    {
+      "authorId": "2327303",
+      "name": "B. Somers"
+    },
+    {
+      "authorId": "1782342",
+      "name": "P. Coppin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

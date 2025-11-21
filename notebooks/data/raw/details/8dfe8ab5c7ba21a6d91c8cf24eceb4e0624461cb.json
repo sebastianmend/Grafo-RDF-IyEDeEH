@@ -1,0 +1,42 @@
+{
+  "paperId": "8dfe8ab5c7ba21a6d91c8cf24eceb4e0624461cb",
+  "externalIds": {
+    "MAG": "1911946723",
+    "DOI": "10.1614/WS-D-15-00064.1",
+    "CorpusId": 73719203
+  },
+  "url": "https://www.semanticscholar.org/paper/8dfe8ab5c7ba21a6d91c8cf24eceb4e0624461cb",
+  "title": "Nonconventional Weed Management Strategies for Modern Agriculture",
+  "venue": "Weed science",
+  "year": 2015,
+  "citationCount": 172,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/015DDE6D4A9404AA95D67F1AB467851F/S0043174500014776a.pdf/div-class-title-nonconventional-weed-management-strategies-for-modern-agriculture-div.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1614/WS-D-15-00064.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1614/WS-D-15-00064.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35382303",
+      "name": "A. Bajwa"
+    },
+    {
+      "authorId": "32764007",
+      "name": "G. Mahajan"
+    },
+    {
+      "authorId": "2700569",
+      "name": "B. Chauhan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

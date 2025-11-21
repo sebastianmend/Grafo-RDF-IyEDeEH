@@ -1,0 +1,46 @@
+{
+  "paperId": "b7675d930e31da1fb78e2bf20ae1cbeec83491fa",
+  "externalIds": {
+    "MAG": "2219640434",
+    "DOI": "10.1017/S0373463315000624",
+    "CorpusId": 52244353
+  },
+  "url": "https://www.semanticscholar.org/paper/b7675d930e31da1fb78e2bf20ae1cbeec83491fa",
+  "title": "Measurement Signal Quality Assessment on All Available and New Signals of Multi-GNSS (GPS, GLONASS, Galileo, BDS, and QZSS) with Real Data",
+  "venue": "Journal of navigation",
+  "year": 2015,
+  "citationCount": 44,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ED714A4910CF40A0EFB66217972EC4DD/S0373463315000624a.pdf/div-class-title-measurement-signal-quality-assessment-on-all-available-and-new-signals-of-multi-gnss-gps-glonass-galileo-bds-and-qzss-with-real-data-div.pdf",
+    "status": "HYBRID",
+    "license": "unspecified-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0373463315000624?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0373463315000624, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "29344845",
+      "name": "Yiming Quan"
+    },
+    {
+      "authorId": "145725354",
+      "name": "L. Lau"
+    },
+    {
+      "authorId": "143975554",
+      "name": "G. Roberts"
+    },
+    {
+      "authorId": "2862492",
+      "name": "Xiaolin Meng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

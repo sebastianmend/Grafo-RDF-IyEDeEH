@@ -1,0 +1,49 @@
+{
+  "paperId": "677b80e91168d446a8f1261820aedb74fe2f6832",
+  "externalIds": {
+    "DBLP": "journals/ijista/EatonKSH10",
+    "MAG": "2104291969",
+    "DOI": "10.1504/IJISTA.2010.030223",
+    "CorpusId": 207413821
+  },
+  "url": "https://www.semanticscholar.org/paper/677b80e91168d446a8f1261820aedb74fe2f6832",
+  "title": "Autonomous Farming: Modeling and Control of Agricultural Machinery in a Unified Framework",
+  "venue": "International Conference on Mechatronics and Machine Vision in Practice",
+  "year": 2010,
+  "citationCount": 63,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1504/IJISTA.2010.030223?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1504/IJISTA.2010.030223, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145407751",
+      "name": "R. Eaton"
+    },
+    {
+      "authorId": "1778440",
+      "name": "J. Katupitiya"
+    },
+    {
+      "authorId": "30558534",
+      "name": "K. W. Siew"
+    },
+    {
+      "authorId": "40660049",
+      "name": "B. Howarth"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

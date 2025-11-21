@@ -1,0 +1,36 @@
+{
+  "paperId": "49204a9dc198a10fe87b4ce3ba2267b8d6884e27",
+  "externalIds": {
+    "MAG": "1533556793",
+    "CorpusId": 109013156
+  },
+  "url": "https://www.semanticscholar.org/paper/49204a9dc198a10fe87b4ce3ba2267b8d6884e27",
+  "title": "Export Potential at the State-Level; A Case Study of Karnataka",
+  "venue": "",
+  "year": 2010,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120351791",
+      "name": "Bibekananda Raychaudhuri"
+    },
+    {
+      "authorId": "98196151",
+      "name": "D. Chakraborty"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

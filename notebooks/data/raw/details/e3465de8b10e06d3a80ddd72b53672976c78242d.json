@@ -1,0 +1,42 @@
+{
+  "paperId": "e3465de8b10e06d3a80ddd72b53672976c78242d",
+  "externalIds": {
+    "MAG": "2005122363",
+    "DOI": "10.1109/ICCAE.2010.5451282",
+    "CorpusId": 16882407
+  },
+  "url": "https://www.semanticscholar.org/paper/e3465de8b10e06d3a80ddd72b53672976c78242d",
+  "title": "Localization algorithms in wireless sensor networks using nonmetric multidimensional scaling with RSSI for precision agriculture",
+  "venue": "International Conference on Computer and Automation Engineering",
+  "year": 2010,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCAE.2010.5451282?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCAE.2010.5451282, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3071201",
+      "name": "Xihai Zhang"
+    },
+    {
+      "authorId": "2109240340",
+      "name": "Yachun Wu"
+    },
+    {
+      "authorId": "2115491726",
+      "name": "Xiaoli Wei"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "818def56e38a2a7704989f31d1fb29239c6499bc",
+  "externalIds": {
+    "MAG": "1993284916",
+    "DBLP": "conf/fskd/QiZYLX10",
+    "DOI": "10.1109/FSKD.2010.5569415",
+    "CorpusId": 25425936
+  },
+  "url": "https://www.semanticscholar.org/paper/818def56e38a2a7704989f31d1fb29239c6499bc",
+  "title": "Experimental analysis of ground speed measuring systems for the intelligent agricultural machinery",
+  "venue": "2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery",
+  "year": 2010,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/FSKD.2010.5569415?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/FSKD.2010.5569415, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47825970",
+      "name": "Jiangtao Qi"
+    },
+    {
+      "authorId": "2107943723",
+      "name": "Shuhui Zhang"
+    },
+    {
+      "authorId": "2119041929",
+      "name": "Yingjie Yu"
+    },
+    {
+      "authorId": "50025906",
+      "name": "Ye Li"
+    },
+    {
+      "authorId": "2154895084",
+      "name": "Yan Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

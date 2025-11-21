@@ -1,0 +1,83 @@
+{
+  "paperId": "39df7aa52136bec3612e9c5329f8b725f64700b0",
+  "externalIds": {
+    "MAG": "1523369022",
+    "DOI": "10.56454/oovc6073",
+    "CorpusId": 11021595
+  },
+  "url": "https://www.semanticscholar.org/paper/39df7aa52136bec3612e9c5329f8b725f64700b0",
+  "title": "Development and Application of Process-based Simulation Models for Cotton Production: A Review of Past, Present, and Future Directions",
+  "venue": "Journal of Cotton Science",
+  "year": 2014,
+  "citationCount": 76,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.56454/oovc6073?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56454/oovc6073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2227301",
+      "name": "K. Thorp"
+    },
+    {
+      "authorId": "145787822",
+      "name": "S. Ale"
+    },
+    {
+      "authorId": "2755879",
+      "name": "M. Bange"
+    },
+    {
+      "authorId": "143729908",
+      "name": "E. Barnes"
+    },
+    {
+      "authorId": "144497932",
+      "name": "G. Hoogenboom"
+    },
+    {
+      "authorId": "39568169",
+      "name": "R. Lascano"
+    },
+    {
+      "authorId": "143678451",
+      "name": "A. McCarthy"
+    },
+    {
+      "authorId": "145892848",
+      "name": "S. Nair"
+    },
+    {
+      "authorId": "39453874",
+      "name": "J. Paz"
+    },
+    {
+      "authorId": "100918937",
+      "name": "N. Rajan"
+    },
+    {
+      "authorId": "145813028",
+      "name": "K. Reddy"
+    },
+    {
+      "authorId": "144098564",
+      "name": "G. Wall"
+    },
+    {
+      "authorId": "2395321",
+      "name": "J. White"
+    }
+  ],
+  "abstract": "The development and application of cropping system simulation models for cotton production has a long and rich history, beginning in the southeastern U. S. in the 1960s and now expanded to major cotton production regions globally. This paper briefly reviews the history of cotton simulation models, examines applications of the models since the turn of the century, and identifies opportunities for improving models and their use in cotton research and decision support. Cotton models reviewed include those specific to cotton (GOSSYM, Cotton2K, COTCO2, OZCOT, and CROPGRO-Cotton) and generic crop models that have been applied to cotton production (EPIC, WOFOST, SUCROS, GRAMI, CropSyst, and AquaCrop). Model application areas included crop water use and irrigation water management, nitrogen dynamics and fertilizer management, genetics and crop improvement, climatology, global climate change, precision agriculture, model integration with sensor data, economics, and classroom instruction. Generally, the literature demonstrated increased emphasis on cotton model development in the previous century and on cotton model application in the current century. Although efforts to develop cotton models have a 40-year history, no comparisons among cotton models were reported. Such efforts would be advisable as an initial step to evaluate current cotton simulation strategies. Increasingly, cotton simulation models are being applied by nontraditional crop modelers, who are not trained agronomists but wish to use the models for broad economic or life-cycle analyses. Although this trend demonstrates the growing interest in the models and their potential utility for a variety of applications, it necessitates the development of models with appropriate complexity and ease-of-use for a given application, and improved documentation and teaching materials are needed to educate potential model users. Spatial scaling issues are also increasingly prominent, as models originally developed for use at the field scale are being implemented for regional simulations over large geographic areas. Research steadily progresses toward the advanced goal of model integration with variable-rate control systems, which use real-time crop status and environmental information to spatially and temporally optimize applications of crop inputs, while also considering potential environmental impacts, resource limitations, and climate forecasts. Overall, the review demonstrates a languished effort in cotton simulation model development, but the application of existing models in a variety of research areas remains strong and continues to grow.",
+  "references": null
+}

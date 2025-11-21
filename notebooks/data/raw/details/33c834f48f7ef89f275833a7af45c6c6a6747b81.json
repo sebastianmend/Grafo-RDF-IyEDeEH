@@ -1,0 +1,117 @@
+{
+  "paperId": "33c834f48f7ef89f275833a7af45c6c6a6747b81",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/OlsenD0HKH10",
+    "MAG": "2145939624",
+    "DOI": "10.3390/RS2020464",
+    "CorpusId": 15801462
+  },
+  "url": "https://www.semanticscholar.org/paper/33c834f48f7ef89f275833a7af45c6c6a6747b81",
+  "title": "Radiometric Calibration for AgCam",
+  "venue": "Remote Sensing",
+  "year": 2010,
+  "citationCount": 45,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/2/2/464/pdf?version=1403129163",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS2020464?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS2020464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2262732694",
+      "name": "Doug Olsen"
+    },
+    {
+      "authorId": "2262841769",
+      "name": "Changyong Dou"
+    },
+    {
+      "authorId": "2263231136",
+      "name": "Xiaodong Zhang"
+    },
+    {
+      "authorId": "2263233028",
+      "name": "Lianbo Hu"
+    },
+    {
+      "authorId": "2144351533",
+      "name": "Hojin Kim"
+    },
+    {
+      "authorId": "2262830733",
+      "name": "Edward Hildum"
+    }
+  ],
+  "abstract": "The student-built Agricultural Camera (AgCam) now onboard the International Space Station observes the Earth surface through two linescan cameras with Charge-Coupled Device (CCD) arrays sensitive to visible and near-infrared wavelengths, respectively. The electro-optical components of the AgCam were characterized using precision calibration equipment; a method for modeling and applying these measurements was derived. Correction coefficients to minimize effects of optical vignetting, CCD non-uniform quantum efficiency, and CCD dark current are separately determined using a least squares fit approach. Application of correction coefficients yields significant variability reduction in flat-field images; comparable results are obtained when applied to ground test images.",
+  "references": [
+    {
+      "paperId": "5d7a77ebca713a6fccb6fb6fc9a78ae8469ee01c"
+    },
+    {
+      "paperId": "4b37870694e9d4d32639ab16979dfd6ec10f9c25"
+    },
+    {
+      "paperId": "f63e8b58def0d03325207edf1484d05764b1216f"
+    },
+    {
+      "paperId": "b2cafb66d7af5d0fd7894267b5bf89896681cbf0"
+    },
+    {
+      "paperId": "2ffdda682ead5703a21687e50a32988786fc916c"
+    },
+    {
+      "paperId": "8f547caac0d2079ba86d1f6ef267c593b01febad"
+    },
+    {
+      "paperId": "71a49a994af22a6996460cc1e886569ee858ffd3"
+    },
+    {
+      "paperId": "4286060ab57c7ead2f7d8118879232798aa61df6"
+    },
+    {
+      "paperId": "d7d3dd25b5c082aedfe4d9f88ab291f43b58b191"
+    },
+    {
+      "paperId": "ae6002d3d5b9d73ae5411fad45373285f862bf76"
+    },
+    {
+      "paperId": "7a664617aec0d31a3be96300c0d02ef28434f312"
+    },
+    {
+      "paperId": "dcd874fbaff31618a9433d3dc021832a76026c5b"
+    },
+    {
+      "paperId": "04079da40a7403d67cafaddbe5d472504ade62d1"
+    },
+    {
+      "paperId": "3e4ba21b8f674dbcd1b27d5d423484704662e73e"
+    },
+    {
+      "paperId": "3d50ab7ce1a62df5240a5a99a2b4027e5995e1b7"
+    },
+    {
+      "paperId": "64e515a468557ae1e9ae6056d6f39933dd8fde3b"
+    },
+    {
+      "paperId": "d10d51d6c929d297f65475067557e90cd80a3101"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ebbc31c75724c009c2f840ca157cf884ec8c8aaa"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

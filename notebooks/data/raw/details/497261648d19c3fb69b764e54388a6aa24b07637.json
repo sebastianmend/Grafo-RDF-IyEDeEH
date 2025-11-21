@@ -1,0 +1,38 @@
+{
+  "paperId": "497261648d19c3fb69b764e54388a6aa24b07637",
+  "externalIds": {
+    "MAG": "2077491229",
+    "DOI": "10.1007/s13593-011-0045-x",
+    "CorpusId": 16353422
+  },
+  "url": "https://www.semanticscholar.org/paper/497261648d19c3fb69b764e54388a6aa24b07637",
+  "title": "Innovations in parasitic weeds management in legume crops. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2011,
+  "citationCount": 155,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://digital.csic.es/bitstream/10261/88831/4/ASD_innovations_pp_control%202012.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-011-0045-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-011-0045-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5371987",
+      "name": "D. Rubiales"
+    },
+    {
+      "authorId": "1401931502",
+      "name": "M. Fernández-Aparicio"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

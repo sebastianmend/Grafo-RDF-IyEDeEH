@@ -1,0 +1,52 @@
+{
+  "paperId": "eae6c854104f32523f4d29dba97c8c9172429107",
+  "externalIds": {
+    "DBLP": "journals/digearth/SantoroTFGD13",
+    "MAG": "2016241235",
+    "DOI": "10.1080/17538947.2011.642902",
+    "CorpusId": 5532461
+  },
+  "url": "https://www.semanticscholar.org/paper/eae6c854104f32523f4d29dba97c8c9172429107",
+  "title": "A tree counting algorithm for precision agriculture tasks",
+  "venue": "International Journal of Digital Earth",
+  "year": 2013,
+  "citationCount": 47,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17538947.2011.642902?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17538947.2011.642902, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2005924389",
+      "name": "F. Santoro"
+    },
+    {
+      "authorId": "39998840",
+      "name": "E. Tarantino"
+    },
+    {
+      "authorId": "1953602",
+      "name": "B. Figorito"
+    },
+    {
+      "authorId": "1966764",
+      "name": "S. Gualano"
+    },
+    {
+      "authorId": "1400391983",
+      "name": "A. D’ONGHIA"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

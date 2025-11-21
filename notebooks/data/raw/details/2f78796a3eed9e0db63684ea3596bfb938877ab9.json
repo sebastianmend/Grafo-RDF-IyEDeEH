@@ -1,0 +1,56 @@
+{
+  "paperId": "2f78796a3eed9e0db63684ea3596bfb938877ab9",
+  "externalIds": {
+    "MAG": "1987101397",
+    "DBLP": "conf/sbesc/SilvaGNMSA12",
+    "DOI": "10.1109/SBESC.2012.52",
+    "CorpusId": 32760774
+  },
+  "url": "https://www.semanticscholar.org/paper/2f78796a3eed9e0db63684ea3596bfb938877ab9",
+  "title": "Building a Node for Wireless Sensor Network Based on Open Source Platform Arduino",
+  "venue": "Brazilian Symposium on Computing System Engineering",
+  "year": 2012,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SBESC.2012.52?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SBESC.2012.52, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48039168",
+      "name": "J. F. C. Silva"
+    },
+    {
+      "authorId": "2055492472",
+      "name": "R. Gomes"
+    },
+    {
+      "authorId": "2053639883",
+      "name": "A. Nascimento"
+    },
+    {
+      "authorId": "2052936864",
+      "name": "J. W. M. Menezes"
+    },
+    {
+      "authorId": "2107110996",
+      "name": "F. D. Silva"
+    },
+    {
+      "authorId": "41215253",
+      "name": "L. Alves"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

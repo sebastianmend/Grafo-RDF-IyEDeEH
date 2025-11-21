@@ -1,0 +1,42 @@
+{
+  "paperId": "4220868688ecf6d252d17f6d784923d0c5f66366",
+  "externalIds": {
+    "MAG": "2085900541",
+    "DOI": "10.1109/PERVASIVE.2015.7086997",
+    "CorpusId": 2890623
+  },
+  "url": "https://www.semanticscholar.org/paper/4220868688ecf6d252d17f6d784923d0c5f66366",
+  "title": "An automatic irrigation system using ZigBee in wireless sensor network",
+  "venue": "2015 International Conference on Pervasive Computing (ICPC)",
+  "year": 2015,
+  "citationCount": 101,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PERVASIVE.2015.7086997?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PERVASIVE.2015.7086997, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9282763",
+      "name": "Pravina B. Chikankar"
+    },
+    {
+      "authorId": "9326577",
+      "name": "D. Mehetre"
+    },
+    {
+      "authorId": "2109605312",
+      "name": "Soumitra Das"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

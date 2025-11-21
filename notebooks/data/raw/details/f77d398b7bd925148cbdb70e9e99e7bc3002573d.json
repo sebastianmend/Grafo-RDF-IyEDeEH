@@ -1,0 +1,56 @@
+{
+  "paperId": "f77d398b7bd925148cbdb70e9e99e7bc3002573d",
+  "externalIds": {
+    "MAG": "1572381216",
+    "DBLP": "journals/ijrft/MainettiMPSSV13",
+    "DOI": "10.3233/RFT-130050",
+    "CorpusId": 26464155
+  },
+  "url": "https://www.semanticscholar.org/paper/f77d398b7bd925148cbdb70e9e99e7bc3002573d",
+  "title": "The impact of RF technologies and EPC standard on the fresh vegetables supply chain",
+  "venue": "International Journal of RF Technologies",
+  "year": 2013,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/RFT-130050?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/RFT-130050, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2969145",
+      "name": "L. Mainetti"
+    },
+    {
+      "authorId": "29822105",
+      "name": "Francesca Mele"
+    },
+    {
+      "authorId": "2313037",
+      "name": "L. Patrono"
+    },
+    {
+      "authorId": "31407880",
+      "name": "F. Simone"
+    },
+    {
+      "authorId": "1894551",
+      "name": "M. Stefanizzi"
+    },
+    {
+      "authorId": "1883772",
+      "name": "R. Vergallo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

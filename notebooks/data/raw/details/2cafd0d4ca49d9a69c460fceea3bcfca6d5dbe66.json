@@ -1,0 +1,50 @@
+{
+  "paperId": "2cafd0d4ca49d9a69c460fceea3bcfca6d5dbe66",
+  "externalIds": {
+    "MAG": "1972084826",
+    "DOI": "10.1109/IMOC.2013.6646472",
+    "CorpusId": 9491250
+  },
+  "url": "https://www.semanticscholar.org/paper/2cafd0d4ca49d9a69c460fceea3bcfca6d5dbe66",
+  "title": "Propagation analysis in Precision Agriculture environment using XBee devices",
+  "venue": "SBMO/MTT-S International Microwave and Optoelectronics Conference",
+  "year": 2013,
+  "citationCount": 22,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IMOC.2013.6646472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IMOC.2013.6646472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "36104764",
+      "name": "F. Correia"
+    },
+    {
+      "authorId": "30080521",
+      "name": "M. Alencar"
+    },
+    {
+      "authorId": "2064966983",
+      "name": "Fabrício B. S. Carvalho"
+    },
+    {
+      "authorId": "30808026",
+      "name": "Braulio G. Leal"
+    },
+    {
+      "authorId": "3000259",
+      "name": "W. Lopes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

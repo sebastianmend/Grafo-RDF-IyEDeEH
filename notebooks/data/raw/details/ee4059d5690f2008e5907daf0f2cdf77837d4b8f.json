@@ -1,0 +1,50 @@
+{
+  "paperId": "ee4059d5690f2008e5907daf0f2cdf77837d4b8f",
+  "externalIds": {
+    "MAG": "2056431816",
+    "DOI": "10.1255/jnirs.1030",
+    "CorpusId": 98752594
+  },
+  "url": "https://www.semanticscholar.org/paper/ee4059d5690f2008e5907daf0f2cdf77837d4b8f",
+  "title": "On-Line near Infrared Monitoring of Ammonium and Dry Matter in Bioslurry for Robust Biogas Production: A Full-Scale Feasibility Study",
+  "venue": "",
+  "year": 2012,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1255/jnirs.1030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1255/jnirs.1030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145050251",
+      "name": "M. Madsen"
+    },
+    {
+      "authorId": "92808924",
+      "name": "F. N. Ihunegbo"
+    },
+    {
+      "authorId": "1402064664",
+      "name": "J. Holm‐Nielsen"
+    },
+    {
+      "authorId": "2222067",
+      "name": "M. Halstensen"
+    },
+    {
+      "authorId": "48684809",
+      "name": "K. Esbensen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

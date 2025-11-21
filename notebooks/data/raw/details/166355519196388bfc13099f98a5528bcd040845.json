@@ -1,0 +1,95 @@
+{
+  "paperId": "166355519196388bfc13099f98a5528bcd040845",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/ZhangSS10",
+    "MAG": "2103734658",
+    "DOI": "10.3390/rs2030861",
+    "CorpusId": 12521313
+  },
+  "url": "https://www.semanticscholar.org/paper/166355519196388bfc13099f98a5528bcd040845",
+  "title": "Digital Northern Great Plains: A Web-Based System Delivering Near Real Time Remote Sensing Data for Precision Agriculture",
+  "venue": "Remote Sensing",
+  "year": 2010,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/2/3/861/pdf?version=1403129166",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs2030861?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs2030861, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108451959",
+      "name": "Xiaodong Zhang"
+    },
+    {
+      "authorId": "145207988",
+      "name": "S. Seelan"
+    },
+    {
+      "authorId": "50020985",
+      "name": "G. Seielstad"
+    }
+  ],
+  "abstract": "The US Northern Great Plains is one of the world’s most agriculturally productive areas. Growers in the region are eager to adopt modern technology to improve productivity and income. Use of information derived from remote sensing satellites to better manage farms and rangelands while reducing environmental impacts has gained popularity in recent years. However, prohibitive costs and non-availability of near real time remote sensing imagery has slowed the adoption of this technology for in-field decision making. Digital Northern Great Plains (DNGP), a web based remote sensing data dissemination system, was developed to address these drawbacks. It provides end users easy and free access to a variety of imagery and products in near real time. With delivery of archived and current data, DNGP has helped farmers and ranchers reduce operational costs and increase productivity through a variety of innovative applications. Moreover, negative environmental impacts were lessened.",
+  "references": [
+    {
+      "paperId": "a6ae2cc9aeae8432923654456ec9a0dc99cbd25b"
+    },
+    {
+      "paperId": "402ee555759a5395b02f9c440cb7f2c70923a5a3"
+    },
+    {
+      "paperId": "63505ad19dbfc86122532a7880b5c0c642f376a5"
+    },
+    {
+      "paperId": "0cb3652c666b7543f9d377cf3f79ed420efa5947"
+    },
+    {
+      "paperId": "fe583eae7d388db0466b455cee579744c9686d9d"
+    },
+    {
+      "paperId": "4d74f7afa5f76399f3444b687e79a2549d34569b"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "79b84432a6f7f91926f3695a64f91225f343d697"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "cfbc10868b9a9c0b98521c68920b1657426af90c"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "518ddc07d6b38e809e14decb4ce4b90882bf4b7a"
+    },
+    {
+      "paperId": "d6b96b1622216f97c01a90c56c722706c6258962"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

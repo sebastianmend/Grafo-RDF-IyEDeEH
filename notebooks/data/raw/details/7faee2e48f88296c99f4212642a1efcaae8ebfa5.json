@@ -1,0 +1,45 @@
+{
+  "paperId": "7faee2e48f88296c99f4212642a1efcaae8ebfa5",
+  "externalIds": {
+    "DBLP": "conf/wisnet/ConcepcionST15",
+    "MAG": "1539811691",
+    "DOI": "10.1109/WISNET.2015.7127408",
+    "CorpusId": 18740460
+  },
+  "url": "https://www.semanticscholar.org/paper/7faee2e48f88296c99f4212642a1efcaae8ebfa5",
+  "title": "Ad-hoc multilevel wireless sensor networks for distributed microclimatic diffused monitoring in precision agriculture",
+  "venue": "Topical Conference on Wireless Sensors and Sensor Networks",
+  "year": 2015,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WISNET.2015.7127408?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WISNET.2015.7127408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1850826",
+      "name": "Abel Rodriguez de la Concepcion"
+    },
+    {
+      "authorId": "3111743",
+      "name": "R. Stefanelli"
+    },
+    {
+      "authorId": "3297067",
+      "name": "Daniele Trinchero"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

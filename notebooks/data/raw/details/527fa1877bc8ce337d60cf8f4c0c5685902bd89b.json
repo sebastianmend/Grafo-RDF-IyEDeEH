@@ -1,0 +1,40 @@
+{
+  "paperId": "527fa1877bc8ce337d60cf8f4c0c5685902bd89b",
+  "externalIds": {
+    "MAG": "2537739607",
+    "DBLP": "conf/ises/LenkaM15",
+    "DOI": "10.1109/INIS.2015.56",
+    "CorpusId": 16524871
+  },
+  "url": "https://www.semanticscholar.org/paper/527fa1877bc8ce337d60cf8f4c0c5685902bd89b",
+  "title": "Gradient Descent with Momentum based Neural Network Pattern Classification for the Prediction of Soil Moisture Content in Precision Agriculture",
+  "venue": "2015 IEEE International Symposium on Nanoelectronic and Information Systems",
+  "year": 2015,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INIS.2015.56?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INIS.2015.56, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118490",
+      "name": "S. Lenka"
+    },
+    {
+      "authorId": "32141216",
+      "name": "A. G. Mohapatra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}
