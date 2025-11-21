@@ -2436,7 +2436,1628 @@ La solución es eliminar ese archivo de lock. Voy a darle el comando para resolv
 
 ---
 
-Este error significa que hay un archivo de bloqueo de Git que quedó atascado. Vamos a elimin
+Este error significa que hay un archivo de bloqueo de Git que quedó atascado. Vamos a eliminarlo:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: Remove-Item -Path "C:/Users/samuc/.git/index.lock" -Force</summary>
+
+```bash
+Remove-Item -Path "C:/Users/samuc/.git/index.lock" -Force
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Bien, eliminé el archivo de lock. Ahora debería poder hacer git add sin problemas. Voy a verificar el estado actual del repositorio git.</details></think>
+
+---
+
+✅ **Archivo de bloqueo eliminado.** Ahora intenta de nuevo:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git status</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git status
+```
+
+```
+warning: could not open directory &#39;Application Data/&#39;: Permission denied
+warning: could not open directory &#39;Cookies/&#39;: Permission denied
+warning: could not open directory &#39;Documents/My Music/&#39;: Permission denied
+On branch main
+Changes not staged for commit:
+  (use &quot;git add/rm &lt;file&gt;...&quot; to update what will be committed)
+  (use &quot;git restore &lt;file&gt;...&quot; to discard changes in working directory)
+	deleted:    ../../5tociclo/fun/pagos/.gitattributes
+
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+	../../../../.VirtualBox/
+	../../../../.android/
+	../../../../.bash_history
+	../../../../.blackbox-editor/
+	../../../../.cache/
+	../../../../.cursor/
+	../../../../.docker/
+	../../../../.eclipse/
+	../../../../.emulator_console_auth_token
+	../../../../.git-for-windows-updater
+	../../../../.gitconfig
+	../../../../.gk/
+	../../../../.gradle/
+	../../../../.haystack/
+	../../../../.ipython/
+	../../../../.ivy2/
+	../../../../.jdks/
+	../../../../.jupyter/
+	../../../../.keras/
+	../../../../.lesshst
+	../../../../.m2/
+	../../../../.matplotlib/
+	../../../../.node_repl_history
+	../../../../.packettracer
+	../../../../.sbt/
+	../../../../.ssh/
+	../../../../.swt/
+	../../../../.vscode/
+	../../../../.vuerc
+	../../../../AndroidStudioProjects/
+	../../../../AppData/
+	../../../../Cisco Packet Tracer 8.2.2/
+	../../../../Contacts/
+	../../../../Favorites/
+	../../../../Links/
+	../../../../NTUSER.DAT
+	../../../../NTUSER.DAT{2b96a92d-04ad-11f0-b1b4-e7e84910614d}.TM.blf
+	../../../../NTUSER.DAT{2b96a92d-04ad-11f0-b1b4-e7e84910614d}.TMContainer00000000000000000001.regtrans-ms
+	../../../../NTUSER.DAT{2b96a92d-04ad-11f0-b1b4-e7e84910614d}.TMContainer00000000000000000002.regtrans-ms
+	../../../.849C9593-D756-4E56-8D6E-42412F2A707B
+	../../../1.5.5.docx
+	../../../2020_d6c4ad1GlosarioIB-2do80e.docx
+	&quot;../../../ACTIVIDAD ELEMENTO Y \303\201REAS DE CONICIMIENTO 1.docx&quot;
+	&quot;../../../ACTIVIDAD ELEMENTO Y \303\201REAS DE CONICIMIENTO.docx&quot;
+	../../../Actividades del libro, Samuel Reyes, 1E.docx
+	&quot;../../../Almac\303\251n personal.lnk&quot;
+	../../../Biolo.docx
+	&quot;../../../COI del T\303\272nel.docx&quot;
+	../../../Deber N1, Samuel Reyes 1 E.docx
+	../../../Doc1.docx
+	../../../Doc3.docx
+	../../../Document 1.docx
+	../../../Document 10.docx
+	../../../Document 11.docx
+	../../../Document 12.docx
+	../../../Document 13.docx
+	../../../Document 14.docx
+	../../../Document 15.docx
+	../../../Document 16.docx
+	../../../Document 17.docx
+	../../../Document 18.docx
+	../../../Document 19.docx
+	../../../Document 2.docx
+	../../../Document 20.docx
+	../../../Document 21.docx
+	../../../Document 22.docx
+	../../../Document 23.docx
+	../../../Document 3.docx
+	../../../Document 4.docx
+	../../../Document 5.docx
+	../../../Document 6 1.docx
+	../../../Document 6.docx
+	../../../Document 7.docx
+	../../../Document 8.docx
+	../../../Document 9.docx
+	../../../Document.docx
+	../../../Documentos/
+	&quot;../../../En los \303\272ltimos d\303\255as empez\303\263 a circular a trav\303\251s de.docx&quot;
+	../../Aimlabs.url
+	../../Apex Legends.url
+	&quot;../../Battlefield\342\204\242 6.url&quot;
+	../../Bim1InteroperabilidadDatos-main.zip
+	../
+	../../CV.pdf
+	../../Cisco Packet Tracer.lnk
+	../../Counter-Strike 2.url
+	../../Cursor.lnk
+	../../DRAGON BALL Sparking! ZERO.url
+	../../Discord.lnk
+	../../Docker Desktop.lnk
+	&quot;../../EA SPORTS FC\342\204\242 25.url&quot;
+	../../Fall Guys.url
+	../../Fortnite.url
+	../../Launch Drupal CMS.lnk
+	../../Log/
+	../../Marvel Rivals.url
+	../../PUBG BATTLEGROUNDS.url
+	&quot;../../Rocket League\302\256.url&quot;
+	../../Samuel - Chrome.lnk
+	../../Spectre Divide.url
+	../../TestProject4.pjs
+	../../TestProject4.pjs.tcLS
+	../../TestProject4.tcCfgExtender
+	../../TestProject4/
+	../../The Amazing Spider Man 2 Bundle.lnk
+	../../UCL.zip
+	../../Visual Studio Code.lnk
+	../../World War Z.url
+	../../Zoom Workplace.lnk
+	../../cisco-cheater-extension-main (1).zip
+	../../cisco-cheater-extension-main (1)/
+	../../cisco-cheater-extension-main.zip
+	../../cisco-cheater-extension-main/
+	../../criterions/
+	../../datos/
+	../../desktop.ini
+	../../mc movies.pdf
+	../../modela.txt
+	../../practica8.5.1SOL.pkt
+	../../shit/
+	../../tra/
+	../../uTorrent Web.lnk
+	../../uni/
+	../../../Este equipo - Acceso directo (2).lnk
+	../../../Este equipo - Acceso directo.lnk
+	../../../FORMATO-PARA-ENTREGA-DE-INFORMES-DEL-LABORATORIO-DE-QUIMICA.docx
+	../../../Ficha Metacognitiva 1.docx
+	../../../Ficha Metacognitiva 2.docx
+	../../../Ficha Metacognitiva.docx
+	../../../Ficha de resumen.docx
+	&quot;../../../Im\303\241genes/&quot;
+	&quot;../../../Introducci\303\263n\302\240a OneDrive.pdf&quot;
+	&quot;../../../La educaci\303\263n durante el apartheid_ una educaci\303\263n segregada..pptx&quot;
+	../../../La_educacion_durante_el_apartheid_una_educacion_segregada..pptx
+	../../../Libro 1.xlsx
+	../../../Libro 2.xlsx
+	../../../Libro 3.xlsx
+	../../../Libro 4.xlsx
+	../../../Libro 5.xlsx
+	../../../Libro 6.xlsx
+	../../../Libro.xlsx
+	../../../Portafolio.docx
+	../../../Presentation.pptx
+	../../../Question_1.6.1_26-01.docx
+	&quot;../../../S\303\223LO EDITEN  LA BARRA 1.docx&quot;
+	&quot;../../../S\303\223LO EDITEN  LA BARRA.docx&quot;
+	../../../TABLA 3 (1).docx
+	../../../Trabajo en clas, Samuel Reyes, 1E.docx
+	&quot;../../../T\303\251rminos Consultar.docx&quot;
+	../../../ciencias.docx
+	&quot;../../../d9523a1FORMATO_DE_CALIFICACI\303\223N_PARA_PADRES_DE_FAMILIA_2020_-_20211c0.docx&quot;
+	../../../desktop.ini
+	../../../ensayo_20_enero.docx
+	../../../../Saved Games/
+	../../../../Searches/
+	../../../../TestComplete/
+	../../../../VirtualBox VMs/
+	../../../../custom_checkout_8cf0cba1cb6e87f1cf48789e90526b75caa5436d/
+	../../../../custom_checkout_fa9d9ae05f8d7af536d0153e25f7114728ff698e/
+	../../../../digo.ai/
+	../../../../edb_npgsql.exe
+	../../../../edb_pgagent_pg17.exe
+	../../../../edb_pgbouncer.exe
+	../../../../edb_pgjdbc.exe
+	../../../../edb_psqlodbc.exe
+	../../../../edb_psqlodbc.exe-20250106100831
+	../../../../mi-proyecto/
+	../../../../ntuser.dat.LOG1
+	../../../../ntuser.dat.LOG2
+	../../../../ntuser.ini
+	../../../../pseint/
+	../../../../smartbear.auth
+	../../../../test.mv.db
+	../../../../test.trace.db
+
+no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)
+warning: could not open directory &#39;Documents/My Pictures/&#39;: Permission denied
+warning: could not open directory &#39;Documents/My Videos/&#39;: Permission denied
+warning: could not open directory &#39;Local Settings/&#39;: Permission denied
+warning: could not open directory &#39;My Documents/&#39;: Permission denied
+warning: could not open directory &#39;NetHood/&#39;: Permission denied
+warning: could not open directory &#39;PrintHood/&#39;: Permission denied
+warning: could not open directory &#39;Recent/&#39;: Permission denied
+warning: could not open directory &#39;SendTo/&#39;: Permission denied
+warning: could not open directory &#39;Start Menu/&#39;: Permission denied
+warning: could not open directory &#39;Templates/&#39;: Permission denied
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Oh no! El problema es que el repositorio Git está en el directorio HOME del usuario (C:\Users\samuc) en lugar de estar en el proyecto específico. Por eso está detectando todos los archivos del escritorio y del usuario.
+
+Esto es problemático. Necesito:
+1. Verificar si hay un .git en el proyecto actual
+2. Si no hay, inicializar un nuevo repo en el directorio del proyecto específicamente
+3. Si hay un .git global problemático, necesitamos manejar esto correctamente
+
+Déjame verificar primero si hay un .git en el directorio del proyecto.</details></think>
+
+---
+
+**¡Uy! Hay un problema.** El repositorio Git está inicializado en tu directorio HOME (`C:\Users\samuc`) en lugar del proyecto. Por eso detecta TODOS tus archivos.
+
+Vamos a arreglarlo:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; Test-Path .git</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; Test-Path .git
+```
+
+```
+False
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Perfecto, no hay un .git en el directorio del proyecto. El problema es que hay un .git en C:\Users\samuc que está capturando todo. Necesito inicializar un repositorio git específicamente en el directorio del proyecto.</details></think>
+
+---
+
+Perfecto, no hay un `.git` en tu proyecto. El problema es que tienes un repositorio git en tu carpeta de usuario. Vamos a inicializar uno **solo para este proyecto**:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git init</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git init
+```
+
+```
+Initialized empty Git repository in C:/Users/samuc/OneDrive/Escritorio/Bim1InteroperabilidadDatos-main/Bim1InteroperabilidadDatos-main/.git/
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Excelente, ahora tenemos un repositorio git inicializado en el proyecto. Ahora puedo hacer git add y git status debería mostrar solo los archivos del proyecto.</details></think>
+
+---
+
+✅ **Repositorio inicializado correctamente.** Ahora agreguemos los archivos del proyecto:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git add .</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git add .
+```
+
+```
+warning: in the working copy of &#39;.gitignore&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;.specstory/history/2025-11-21_03-40Z-revisión-de-avance-y-recomendaciones-para-el-proyecto.md&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;data_model/schema.yml&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/01_extraccion_precision_agri.ipynb&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/data/processed/papers.csv&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/data/raw/details/319905fda1e8d17a8c2fdc60489362cd3bb90299.json&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/data/raw/details/a773da9fbdcd6be8274d7264585aa31d282572b4.json&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/data/raw/search_page_1.json&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;notebooks/data/raw/search_page_2.json&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;src/config.py&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;src/etl.py&#39;, LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of &#39;src/semanticscholar_client.py&#39;, LF will be replaced by CRLF the next time Git touches it
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Bien, los archivos se agregaron. Los warnings sobre LF/CRLF son normales en Windows y no son un problema. Ahora voy a verificar el estado y confirmar que NO se está incluyendo el .env.</details></think>
+
+---
+
+Perfecto! Los warnings de LF/CRLF son normales en Windows. Verifiquemos que todo esté bien:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git status | Select-String -Pattern ".env"</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git status | Select-String -Pattern ".env"
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Excelente, no hay output, lo que significa que .env NO está en el staging area. Está correctamente protegido por el .gitignore. Ahora puedo hacer el commit.</details></think>
+
+---
+
+✅ **Perfecto! El `.env` NO está incluido** (protegido por `.gitignore`). Ahora hagamos el commit:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git commit -m "Fase 1: Extracción y modelado de datos - Precision Agriculture KG"</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git commit -m "Fase 1: Extracción y modelado de datos - Precision Agriculture KG"
+```
+
+```
+[master (root-commit) 9785a77] Fase 1: ExtracciÃ³n y modelado de datos - Precision Agriculture KG
+ 1031 files changed, 122447 insertions(+)
+ create mode 100644 .cursorindexingignore
+ create mode 100644 .gitignore
+ create mode 100644 .specstory/.gitignore
+ create mode 100644 &quot;.specstory/history/2025-11-21_03-40Z-revisi\303\263n-de-avance-y-recomendaciones-para-el-proyecto.md&quot;
+ create mode 100644 README.md
+ create mode 100644 VERIFICACION_REQUISITOS.md
+ create mode 100644 data_model/schema.yml
+ create mode 100644 notebooks/01_extraccion_precision_agri.html
+ create mode 100644 notebooks/01_extraccion_precision_agri.ipynb
+ create mode 100644 notebooks/data/processed/author_affiliations.csv
+ create mode 100644 notebooks/data/processed/authors.csv
+ create mode 100644 notebooks/data/processed/authors_enriched.csv
+ create mode 100644 notebooks/data/processed/fields.csv
+ create mode 100644 notebooks/data/processed/paper_authoredby_author.csv
+ create mode 100644 notebooks/data/processed/paper_cites_paper.csv
+ create mode 100644 notebooks/data/processed/paper_has_topic.csv
+ create mode 100644 notebooks/data/processed/paper_publishedin_venue.csv
+ create mode 100644 notebooks/data/processed/papers.csv
+ create mode 100644 notebooks/data/processed/summary_top_authors.csv
+ create mode 100644 notebooks/data/processed/summary_top_venues.csv
+ create mode 100644 notebooks/data/processed/summary_year_counts.csv
+ create mode 100644 notebooks/data/processed/venues.csv
+ create mode 100644 notebooks/data/raw/details/00caccb574efbb58f56a6fbbc5b45dd6e93e9a60.json
+ create mode 100644 notebooks/data/raw/details/011121b74f5f63c96e51ad786be642a9b52bec0e.json
+ create mode 100644 notebooks/data/raw/details/015bf5433166c643e3d51e41f929bbd4f2164aec.json
+ create mode 100644 notebooks/data/raw/details/01b9b441c5365cfc867a1822c7ec0e0dee3a3f28.json
+ create mode 100644 notebooks/data/raw/details/020d517688e704ead23786f5e99c17016df415be.json
+ create mode 100644 notebooks/data/raw/details/023da8584112ee193a876247de6b1e8e45aea450.json
+ create mode 100644 notebooks/data/raw/details/0242006dbf480b95a55b4a6bd1b0b8a347c88cde.json
+ create mode 100644 notebooks/data/raw/details/025bb800cb29f051298d5a638c4dc2b96c67a5ba.json
+ create mode 100644 notebooks/data/raw/details/026c166fa9a65720c0634c5a55aed9a5bd41d413.json
+ create mode 100644 notebooks/data/raw/details/029c5841b3fc010f55b604d7d1c541adb0e4a782.json
+ create mode 100644 notebooks/data/raw/details/02b7004b9c794ffad83ecce2bab751620283d255.json
+ create mode 100644 notebooks/data/raw/details/02f42bf2c31fad9bc65b56848013e9b5042fb7fe.json
+ create mode 100644 notebooks/data/raw/details/03034b7464389f47c8d42656d09ae6c06cf7e362.json
+ create mode 100644 notebooks/data/raw/details/030cf5f83ed6a8544fae0be17d6e12ce56b15500.json
+ create mode 100644 notebooks/data/raw/details/0345b48ab50957908b62f15e66fcd09529ed7a01.json
+ create mode 100644 notebooks/data/raw/details/036290f2fb7a48aa687be577a757488d5109c474.json
+ create mode 100644 notebooks/data/raw/details/03a75dd0b1fc833eeecd600b3c87cb32e1ab173a.json
+ create mode 100644 notebooks/data/raw/details/03dd692201a46d65b695dee98be6c9a7e82e5ec9.json
+ create mode 100644 notebooks/data/raw/details/03e9a197a2803da5b9d2423dcf4ccdc37fb05cd2.json
+ create mode 100644 notebooks/data/raw/details/040afda10ae87ed6868826efb09b9944bba9489b.json
+ create mode 100644 notebooks/data/raw/details/0420451abf6d97764c49e0cf542d4891b16c81b9.json
+ create mode 100644 notebooks/data/raw/details/045b87272bdf0f20faf0c1231c36d924f012b9af.json
+ create mode 100644 notebooks/data/raw/details/047c65f8e90c70f983d962fa429b9879d402b5ac.json
+ create mode 100644 notebooks/data/raw/details/04a3d9cab65a560fd167df4d8490e64bcc7b1fd7.json
+ create mode 100644 notebooks/data/raw/details/04e2897c855e1f87692acb6ce29b28c8950d30b0.json
+ create mode 100644 notebooks/data/raw/details/04ed9765f2af6f7aba709ae65ae75f9fe26bc8be.json
+ create mode 100644 notebooks/data/raw/details/04fc41a69e306866bfd9b8756306eab6a753c039.json
+ create mode 100644 notebooks/data/raw/details/0503f46a5d3854682dea4e08619e0577b63adf81.json
+ create mode 100644 notebooks/data/raw/details/05195e65aa10616ec9120a9510941e29449e7ac2.json
+ create mode 100644 notebooks/data/raw/details/053a82458a4970a10d39ef791957ee074b27dcae.json
+ create mode 100644 notebooks/data/raw/details/05ab057fc9bc70a9d1d8a027e8f30c14d1842247.json
+ create mode 100644 notebooks/data/raw/details/062fab632a5086837fdafa87db1ffe541dfc0704.json
+ create mode 100644 notebooks/data/raw/details/06d42c1beed326c57dbe346c551f2441833d67d7.json
+ create mode 100644 notebooks/data/raw/details/06ed0fa29bd9ca9cde84e4a32b117d5d21866a3a.json
+ create mode 100644 notebooks/data/raw/details/07764ad033addea96b2dc0629b47dc2b4c5ba15c.json
+ create mode 100644 notebooks/data/raw/details/078b1213bd78c6fef5645bf03845b52947d2147a.json
+ create mode 100644 notebooks/data/raw/details/07cb8a2f759dec615984d0f870f5c643cd970e1d.json
+ create mode 100644 notebooks/data/raw/details/07f9161c9c5895816fba900c44bc644ae8277594.json
+ create mode 100644 notebooks/data/raw/details/081454123e17e8f0eaf1caae25390be180feabad.json
+ create mode 100644 notebooks/data/raw/details/0847ee2248af5261137d04cdc3aba7522fa5e3b7.json
+ create mode 100644 notebooks/data/raw/details/08b667cae0402f15cda3ddf231e9d8f80aaf54b3.json
+ create mode 100644 notebooks/data/raw/details/08f609db494347366f69ddb8719cbce99f3c539b.json
+ create mode 100644 notebooks/data/raw/details/093f5f33ad8b9c0a3742d7b181ee60e4ecff55c9.json
+ create mode 100644 notebooks/data/raw/details/0977e3234bf2204b74bef4d6d2a5e3a51723e46c.json
+ create mode 100644 notebooks/data/raw/details/09d7769cec97fec44c96c1c6185cba4b9c77969c.json
+ create mode 100644 notebooks/data/raw/details/0a10c822d477fca9cb4baab5d1f8fc601c80261b.json
+ create mode 100644 notebooks/data/raw/details/0a15f0c04478befeb612e85c30301c8b70d169c3.json
+ create mode 100644 notebooks/data/raw/details/0a2579b3e7328760acaddd2f05f2982c91f8833d.json
+ create mode 100644 notebooks/data/raw/details/0a9188f8778e70fd0781755adaab2050165549b2.json
+ create mode 100644 notebooks/data/raw/details/0b3fa1ed378d445d63eb4bfb25c2596476a8b476.json
+ create mode 100644 notebooks/data/raw/details/0bf304cb7b43fb07c51c34321c71cf3142162ce8.json
+ create mode 100644 notebooks/data/raw/details/0c278e34dc033781b9593ddf4f1cbfeaedd6c0cd.json
+ create mode 100644 notebooks/data/raw/details/0c8651cb7371b9b01bcc46d82d691e3397622e46.json
+ create mode 100644 notebooks/data/raw/details/0c9c5ed54e1908dfb7aacf4ce2b75fb6946cf884.json
+ create mode 100644 notebooks/data/raw/details/0cb71d3168b357b7e0761a38e6735268d41a3e6e.json
+ create mode 100644 notebooks/data/raw/details/0ce5f46c473746e8c40f303455171ae26f2ce641.json
+ create mode 100644 notebooks/data/raw/details/0dd060cc928c9564a41f553db035dfffb582f60d.json
+ create mode 100644 notebooks/data/raw/details/0e5d5493582bf1f39e72780e21f78d90bd834633.json
+ create mode 100644 notebooks/data/raw/details/0e8893335b006e14e23108ebe59d445190a7ffbd.json
+ create mode 100644 notebooks/data/raw/details/0ec34c57b5d902d981e07280477c6be09aec2769.json
+ create mode 100644 notebooks/data/raw/details/0ee6c896fd15e8217104e1292dfd010a7d0a4acf.json
+ create mode 100644 notebooks/data/raw/details/0f439edce8e6de8b3f63cd33b5de0b141e7c906e.json
+ create mode 100644 notebooks/data/raw/details/0f577ae8c62aab6f0ea4815338156ac4f5356033.json
+ create mode 100644 notebooks/data/raw/details/0f8317f3ea6d6698c09e7e557cf430d24d460eee.json
+ create mode 100644 notebooks/data/raw/details/0f89e007d102fc3bc91994baef334d2da8b51381.json
+ create mode 100644 notebooks/data/raw/details/0f9c43855dca44dc0a95d60164f549fecf7b9829.json
+ create mode 100644 notebooks/data/raw/details/0fdd13a86349bad79e25f96bb11223f95dd2537b.json
+ create mode 100644 notebooks/data/raw/details/10382df92091357a5c8ef29fd0f7c2f4f2e12cce.json
+ create mode 100644 notebooks/data/raw/details/1039cb9e70c2d9d34fc39298ceae7625d9394be3.json
+ create mode 100644 notebooks/data/raw/details/104883849f5e9c8bd8ce5ee5931461ed67ed7fa7.json
+ create mode 100644 notebooks/data/raw/details/1070505baa23a6fe92234ffd5c6dda7f13f55bd8.json
+ create mode 100644 notebooks/data/raw/details/10761b57409e17516db389de4f5c3d92c3c492a9.json
+ create mode 100644 notebooks/data/raw/details/108d92ce53a9ab1ae039872003c431b7e7b3a97e.json
+ create mode 100644 notebooks/data/raw/details/109eea60af85345f5c35654ca0c09951c3632467.json
+ create mode 100644 notebooks/data/raw/details/10d9497da7907ddcb75ea1d066b29c98140bf316.json
+ create mode 100644 notebooks/data/raw/details/11032b3cfdc96f0d1c4fdee52dd8f2a8b8230f61.json
+ create mode 100644 notebooks/data/raw/details/11925cceb8376c88590549c53428caeba614ecc3.json
+ create mode 100644 notebooks/data/raw/details/11be47aaacbc6305a265b55ec358b7ad3c135f45.json
+ create mode 100644 notebooks/data/raw/details/11c767773f2c0c46b1035b8392434dffc35f5a10.json
+ create mode 100644 notebooks/data/raw/details/1250edf0d401be1d1c918fdc77831c84d2bfb475.json
+ create mode 100644 notebooks/data/raw/details/12823d3d5bffc565cc25f0d88c5f9c2b927a7e16.json
+ create mode 100644 notebooks/data/raw/details/12bdfc6352b5d29b802237c3c55f6a6e527d7245.json
+ create mode 100644 notebooks/data/raw/details/12c797dbe4c9e4db1b7b87646fbbe1be878e1e52.json
+ create mode 100644 notebooks/data/raw/details/12c8676e6ffaf3cd09cd5ef6badcd9aab2be8988.json
+ create mode 100644 notebooks/data/raw/details/13456ce9647d43a2bda32db8bd665e302c291ca5.json
+ create mode 100644 notebooks/data/raw/details/136ffdd814e9dedc7a240da86ddd8755071bc5d4.json
+ create mode 100644 notebooks/data/raw/details/13974c88a0c4d055f78897bdbbf9cc54f89ea046.json
+ create mode 100644 notebooks/data/raw/details/141ca542912b6ecac0babd9b5e17169db0ded49b.json
+ create mode 100644 notebooks/data/raw/details/14949a73f167de08473c1f68ef9419cab475a1ca.json
+ create mode 100644 notebooks/data/raw/details/14bb7289a39918bc7f0511d1a1f711ce18ee0496.json
+ create mode 100644 notebooks/data/raw/details/1522f3e3811a5987ec8922fd4e8ee164a09fba26.json
+ create mode 100644 notebooks/data/raw/details/15b67b909c51fce837925e44c4651ca1ed8c4824.json
+ create mode 100644 notebooks/data/raw/details/15c9b71c1dba346741268872e90ed1899b0c1d4c.json
+ create mode 100644 notebooks/data/raw/details/163a653c4129fc339209530e2da71d6f242df931.json
+ create mode 100644 notebooks/data/raw/details/166355519196388bfc13099f98a5528bcd040845.json
+ create mode 100644 notebooks/data/raw/details/167e998eb0908603d7ab7282cb37f108045b169b.json
+ create mode 100644 notebooks/data/raw/details/169f19028fba4845124b253139c48260809370d5.json
+ create mode 100644 notebooks/data/raw/details/16b7b5da60c26b55b003f489c39558f8d22d0553.json
+ create mode 100644 notebooks/data/raw/details/16f23f7685f9c194a6cbb45bc6a459fdcf32137c.json
+ create mode 100644 notebooks/data/raw/details/16f5f499d883036f28287aac17f16c0e2275a2a8.json
+ create mode 100644 notebooks/data/raw/details/1743fc4a509167810ea65f82176996e69badd39e.json
+ create mode 100644 notebooks/data/raw/details/174485ab855ee59a3ec5c5e2cf790287c3b070b3.json
+ create mode 100644 notebooks/data/raw/details/17544fd4c1de50fc4505f50f979e34aea44a0c8b.json
+ create mode 100644 notebooks/data/raw/details/1756934bbb4c52d0fd3bfaff9ac1ad5999f61da3.json
+ create mode 100644 notebooks/data/raw/details/176e4c10d4b476a2b4784a1e565c2aff4bb77b63.json
+ create mode 100644 notebooks/data/raw/details/18923067f8eb2a3b10ac306027f27f226d9167f6.json
+ create mode 100644 notebooks/data/raw/details/18c5f752d912983a67416ee2f507ff82bedb68e2.json
+ create mode 100644 notebooks/data/raw/details/192036fc244dfcf7a7a2002d113686fed57cf115.json
+ create mode 100644 notebooks/data/raw/details/1939ff7375b3a55056171ff750458483f0c0a60f.json
+ create mode 100644 notebooks/data/raw/details/19582c7f4bae084f17b212b96ef695dc7039d375.json
+ create mode 100644 notebooks/data/raw/details/196632ba37679b7634a11080ea84091b5bd1d211.json
+ create mode 100644 notebooks/data/raw/details/198d6080ec3e273e667f8af4f5b86ca8d4698017.json
+ create mode 100644 notebooks/data/raw/details/1a00752912e2971c99daaec25ef49d88f8489d83.json
+ create mode 100644 notebooks/data/raw/details/1a4424a8a1525e4c8cf050ca7d6331f2943223b1.json
+ create mode 100644 notebooks/data/raw/details/1b299a72dc126b46879bffd17ac1e8a65a0fabd2.json
+ create mode 100644 notebooks/data/raw/details/1b3cb2c0e672006c663660a472ef9389d41a7dbc.json
+ create mode 100644 notebooks/data/raw/details/1bb76ea947bb3c4c99b5c4b58796f92435415317.json
+ create mode 100644 notebooks/data/raw/details/1bbdc0272e952db4259dd06c0695e7ef1903f90c.json
+ create mode 100644 notebooks/data/raw/details/1c4a3de001b499a76a24feb0bcc6dd605cfb5617.json
+ create mode 100644 notebooks/data/raw/details/1ce51cd98379cf879dcafc4e04be31d8f5d38bee.json
+ create mode 100644 notebooks/data/raw/details/1cf29718316c5cbe784fd29eaa11cd988d35659b.json
+ create mode 100644 notebooks/data/raw/details/1d45e60e1b1b30adfe891ffedec90e08c8d4ceeb.json
+ create mode 100644 notebooks/data/raw/details/1d99ae496db43081bab5c090407a0f852e57ee07.json
+ create mode 100644 notebooks/data/raw/details/1db5beec8564fbb2498f3d7b02a0e6b96ef46af3.json
+ create mode 100644 notebooks/data/raw/details/1dff9976fb4e0860290640da4f3ebd236f945f8e.json
+ create mode 100644 notebooks/data/raw/details/1e3fc76bc96ecd74e7475f355feb73923bd3b8c5.json
+ create mode 100644 notebooks/data/raw/details/1e41c28b2f46a3677b95a1c53f2f158ab8f44f0d.json
+ create mode 100644 notebooks/data/raw/details/1e753a601dc8e885d0b061abdf5beb3fbc99b6d3.json
+ create mode 100644 notebooks/data/raw/details/1e94aa39f0356a33638fa5dca67150ea6a6b54ef.json
+ create mode 100644 notebooks/data/raw/details/1eb0061efcf216bfafd6e51e99fbf538631354f8.json
+ create mode 100644 notebooks/data/raw/details/1f407ba997265fdd0d72432dcf8b5d39ad5f0540.json
+ create mode 100644 notebooks/data/raw/details/1f79a1de8c6b0be6476f00a189019280fb429cfa.json
+ create mode 100644 notebooks/data/raw/details/1f92b8bfef19b827afb08b5fa09e3076b867f388.json
+ create mode 100644 notebooks/data/raw/details/1f96434afcea40375c3b933dd2991fa88c3ae483.json
+ create mode 100644 notebooks/data/raw/details/1fc22d9f5c6ddd66d1039a3f503059027d893fbd.json
+ create mode 100644 notebooks/data/raw/details/203c6f11d434ffee0209ce2b75318e995fb4b952.json
+ create mode 100644 notebooks/data/raw/details/2048db50f50e27cc36f65deb566e911c94890e70.json
+ create mode 100644 notebooks/data/raw/details/20ab5dd49c7d624f3215d1576a75af26a097ffb9.json
+ create mode 100644 notebooks/data/raw/details/20dcdb4fe61d578257a2ad6bcc5d83acad69e71a.json
+ create mode 100644 notebooks/data/raw/details/20e2c59f5f49ba624aaf43cbf96c11dc727ace7a.json
+ create mode 100644 notebooks/data/raw/details/210cbb7795cd521ba18ec405e87b6e622f9dcf77.json
+ create mode 100644 notebooks/data/raw/details/213ad845a597c74dcfd32983942b623d6c47e8a4.json
+ create mode 100644 notebooks/data/raw/details/21503df232daeb5ae72f396b382f9b403468064a.json
+ create mode 100644 notebooks/data/raw/details/21a8aaceb8984952950f3ebdd4bfd445813419c8.json
+ create mode 100644 notebooks/data/raw/details/21dbbc0257202c6ba5e5f58d87a259d1a63b7602.json
+ create mode 100644 notebooks/data/raw/details/2201bf116d9bf70af243b4effd51c2067741ee29.json
+ create mode 100644 notebooks/data/raw/details/221aa33245a51f424ebf1eefa16f0621bfe01ac2.json
+ create mode 100644 notebooks/data/raw/details/226bdfe722b5ca04f5b54b666256b68d87a0d4c2.json
+ create mode 100644 notebooks/data/raw/details/23459042fc97b325975db450be6989fea014b0be.json
+ create mode 100644 notebooks/data/raw/details/23823ac98f6ee8f4357146b9e208552cfe5c3f3c.json
+ create mode 100644 notebooks/data/raw/details/2420a9c67b79d94d42ab6d06c760d64ef374184f.json
+ create mode 100644 notebooks/data/raw/details/242691c0d97164fe2178d34e65198f209f7ce929.json
+ create mode 100644 notebooks/data/raw/details/24682465bd6eb9e54e97ed2eadc65839017e8537.json
+ create mode 100644 notebooks/data/raw/details/24b2b82ad64769b67d62802c1f223d546979a125.json
+ create mode 100644 notebooks/data/raw/details/24b65fcd3a00e6da84571c009740badb15893ec9.json
+ create mode 100644 notebooks/data/raw/details/24c51ca58d5d938eb3b0c08e2c557bdef506c86f.json
+ create mode 100644 notebooks/data/raw/details/250eea49528febdbb7a13cd3c82efe4db600cd4d.json
+ create mode 100644 notebooks/data/raw/details/2521644e4045bb422ca85a246a312ac3758012f1.json
+ create mode 100644 notebooks/data/raw/details/25755d00f59526cf56ffb90614dab61bf8715c8d.json
+ create mode 100644 notebooks/data/raw/details/25aa02d52dbc6bdec331b2ffb8bc57b8e0f65320.json
+ create mode 100644 notebooks/data/raw/details/262d125433488fbeb091e819a096a7bab21bd8d8.json
+ create mode 100644 notebooks/data/raw/details/2655c768c1e6b11104dce3902ae27e70ab2a6846.json
+ create mode 100644 notebooks/data/raw/details/266b89547bf1e5cadc93d470083d48d4c75f9ea3.json
+ create mode 100644 notebooks/data/raw/details/267850ea8e4b3cf68ace1a6c4c3ef2c9f8ce39e8.json
+ create mode 100644 notebooks/data/raw/details/26caccbc08068fa732ecce190b0a5da97eeb2a58.json
+ create mode 100644 notebooks/data/raw/details/277c3d2e14d4004f491f640302f2d6cfc3ef0e13.json
+ create mode 100644 notebooks/data/raw/details/27805287fbe14cbfce67d52bd4a7a3c73b71dd4a.json
+ create mode 100644 notebooks/data/raw/details/27ea2e38588ad5a6add0be3ac3e50803a27a1314.json
+ create mode 100644 notebooks/data/raw/details/27fe2be01c64787b6de965bc0d37578a34fdfc37.json
+ create mode 100644 notebooks/data/raw/details/286b74be45dfe02d8a2ec8adf67d9a6d1dc56565.json
+ create mode 100644 notebooks/data/raw/details/28cc80aac89e087134c476f94d664b59225c3fdb.json
+ create mode 100644 notebooks/data/raw/details/29480746825238a581dd214cbdbda622c2081b8d.json
+ create mode 100644 notebooks/data/raw/details/294859ad6d4f1c225fcd69b02b98a78a47e1c7f5.json
+ create mode 100644 notebooks/data/raw/details/298b9deadef1f7cf6b39e1588060a2693a035dd7.json
+ create mode 100644 notebooks/data/raw/details/29caa39c1f12ebf38e8d55fff4b0e979c0b83d96.json
+ create mode 100644 notebooks/data/raw/details/29fd26be45af944adad9fb6e757967c46d0a40a7.json
+ create mode 100644 notebooks/data/raw/details/2a3c26a1b5a0d1fa9299ea8f12283e68f1fabf1b.json
+ create mode 100644 notebooks/data/raw/details/2a48cd6a560752cb72299ea3d1f76370b26a7b2c.json
+ create mode 100644 notebooks/data/raw/details/2b1cdea49f87236a97031fe6e3a79c59570ad0c4.json
+ create mode 100644 notebooks/data/raw/details/2b1d7ae76dbf9ef446bf647ba7b3990ef15f9ae3.json
+ create mode 100644 notebooks/data/raw/details/2b498ff7f71d13a7efd160bd7908b423af5cfddd.json
+ create mode 100644 notebooks/data/raw/details/2be2a153bcb020b3bf552e318e970f0f3f3c5359.json
+ create mode 100644 notebooks/data/raw/details/2ca3224cc3a72a852854863341fc49b6898e04e5.json
+ create mode 100644 notebooks/data/raw/details/2cafd0d4ca49d9a69c460fceea3bcfca6d5dbe66.json
+ create mode 100644 notebooks/data/raw/details/2cb75d70bbccb77f09e4fca8183b2e0a02c3d662.json
+ create mode 100644 notebooks/data/raw/details/2cc889ab2b39b61f81848078d3f791b263f7ddbf.json
+ create mode 100644 notebooks/data/raw/details/2cde8a4738315dff21502270068c6aea9e4fdb10.json
+ create mode 100644 notebooks/data/raw/details/2ce4add3cf099a27304e8d60e3e171c3af6c96f2.json
+ create mode 100644 notebooks/data/raw/details/2cf855fb5eb80bca0fb1fdf3337b20647fe32816.json
+ create mode 100644 notebooks/data/raw/details/2d6ceefc2e7a0f2cd53ea1b4b516cd5221ec2fbd.json
+ create mode 100644 notebooks/data/raw/details/2dba59d793288e446456fdd7bf63bd9b0ef52320.json
+ create mode 100644 notebooks/data/raw/details/2dc04fa9bf4e0f929f8e9fc6ee5097606a93ee5b.json
+ create mode 100644 notebooks/data/raw/details/2df476dcfd5e6a1c2a7ac766649ee81479242653.json
+ create mode 100644 notebooks/data/raw/details/2e09243ca57bc5af34c49f45c7f71d69d9f6f44e.json
+ create mode 100644 notebooks/data/raw/details/2e8b6fa971c121a90bbea3a4f09fe3669f3acede.json
+ create mode 100644 notebooks/data/raw/details/2e99d954ed649b7340f3bcc05d76a282ad212d2f.json
+ create mode 100644 notebooks/data/raw/details/2ec033996addc6a52b00951319b094ee5c7f9bbc.json
+ create mode 100644 notebooks/data/raw/details/2f2bf29ecf0f57879e46ffcbe31d2db4a63ec666.json
+ create mode 100644 notebooks/data/raw/details/2f34cb952183fca1ead81a039ba4b25964930780.json
+ create mode 100644 notebooks/data/raw/details/2f5ab7e8734150dc55d761fc70b02d332b2fcbf5.json
+ create mode 100644 notebooks/data/raw/details/2f78796a3eed9e0db63684ea3596bfb938877ab9.json
+ create mode 100644 notebooks/data/raw/details/2f9eaf340f458092b49c84283b38257956c650ab.json
+ create mode 100644 notebooks/data/raw/details/2fc3aa7adbf62f6609b02ffc367c8fa0070b283e.json
+ create mode 100644 notebooks/data/raw/details/2fec5a0838e0443d6a1c872a081089008297be43.json
+ create mode 100644 notebooks/data/raw/details/2fed15c4f4a8a539532713e919444f80f38ed900.json
+ create mode 100644 notebooks/data/raw/details/2ff58fc5b4f4d0903a1fb21176ac03d7e204adc5.json
+ create mode 100644 notebooks/data/raw/details/3048e47601aba459a2cea6339c88541b982fc31e.json
+ create mode 100644 notebooks/data/raw/details/30b9a2e417ed46027eb3059c6cb67a8a0f738929.json
+ create mode 100644 notebooks/data/raw/details/30e631dc284a0bf6d923cdd0674d768ff38c68ca.json
+ create mode 100644 notebooks/data/raw/details/311e8edb636278d4b8c8d03010b56cc53f8b2a05.json
+ create mode 100644 notebooks/data/raw/details/31276d9155c9136574fa9100396f968375d2845f.json
+ create mode 100644 notebooks/data/raw/details/3192a8b66ebd90c071185fd9088900d4d9de421e.json
+ create mode 100644 notebooks/data/raw/details/319905fda1e8d17a8c2fdc60489362cd3bb90299.json
+ create mode 100644 notebooks/data/raw/details/3234bff02741ccb0e838019dc61e1d86e5b21e12.json
+ create mode 100644 notebooks/data/raw/details/3288a8cb1485a389c1fc069056f7b1192c3ce874.json
+ create mode 100644 notebooks/data/raw/details/32b97f3efc0dcb898b09c52e7e7db5250d408532.json
+ create mode 100644 notebooks/data/raw/details/32dc0d2211051e69bbbcf3a5e1e8fd6db51396ab.json
+ create mode 100644 notebooks/data/raw/details/32ff8a2c898af66313a5a307a57a893aa6ffb65f.json
+ create mode 100644 notebooks/data/raw/details/330311409e5e655af96bcff8dfff2b0871c82159.json
+ create mode 100644 notebooks/data/raw/details/337efcb12edaf1b8902e86f2604f32639cebb640.json
+ create mode 100644 notebooks/data/raw/details/3398927ec01c5a4e7a960828dffd655a817b1406.json
+ create mode 100644 notebooks/data/raw/details/33c834f48f7ef89f275833a7af45c6c6a6747b81.json
+ create mode 100644 notebooks/data/raw/details/349fc1d2d6897b2c670e145c5906552b2698642e.json
+ create mode 100644 notebooks/data/raw/details/3505447904364877605aabaa450c09568c8db1ec.json
+ create mode 100644 notebooks/data/raw/details/3569665f7de2ef39e356eeef9a00c4bc2124c09f.json
+ create mode 100644 notebooks/data/raw/details/35759a055ce7fc775849adaf66e9a578da3f01fa.json
+ create mode 100644 notebooks/data/raw/details/359c24bc9bb58ea6a5ad49247cd43957f8a3d9fd.json
+ create mode 100644 notebooks/data/raw/details/35ed49db8ca67a7ff192b5473265f9965fc47473.json
+ create mode 100644 notebooks/data/raw/details/367db64b2758974fb94521ef66531a4da68509b8.json
+ create mode 100644 notebooks/data/raw/details/3684c665683c3e122bcf544ac8cf6eec90f802e5.json
+ create mode 100644 notebooks/data/raw/details/36879569ef7539dc61800ca2c21a0dedcbdfc5ff.json
+ create mode 100644 notebooks/data/raw/details/368c398c3812dd7d87cdcda50ca81703049c8e59.json
+ create mode 100644 notebooks/data/raw/details/36dc29a6feb123b80535fba1201d9a890f418177.json
+ create mode 100644 notebooks/data/raw/details/36f000ea1aac3b548a09e57ea6cf73929a5c9e1a.json
+ create mode 100644 notebooks/data/raw/details/36f768c65e865c7d0bb87d2751f509b09b836051.json
+ create mode 100644 notebooks/data/raw/details/36fffffa06c7a581454562bc4eb55307f35f2348.json
+ create mode 100644 notebooks/data/raw/details/37696909a6f50b66405fd08939af6c527d7e70a9.json
+ create mode 100644 notebooks/data/raw/details/3769f3e847a07691bb7048df5bc7f11ba31d30d4.json
+ create mode 100644 notebooks/data/raw/details/37893e165ec6a0c2f85bb1f3280190ef6aa0068c.json
+ create mode 100644 notebooks/data/raw/details/37bf76271647b61458b7774a1322b3693673d7ec.json
+ create mode 100644 notebooks/data/raw/details/38b355c82682ce0d0e62835f856144faa2fc35b9.json
+ create mode 100644 notebooks/data/raw/details/38bb9ffbb4f89fb4b01ca01a2e2969911f5daad1.json
+ create mode 100644 notebooks/data/raw/details/3976fd47fff5464c7f9754deed74c4f8e10a4b70.json
+ create mode 100644 notebooks/data/raw/details/39df7aa52136bec3612e9c5329f8b725f64700b0.json
+ create mode 100644 notebooks/data/raw/details/39f10b9a8f631df329926be634e664afe041defd.json
+ create mode 100644 notebooks/data/raw/details/3a3e453d2e153448a0dde894a8dc3538d76a72cb.json
+ create mode 100644 notebooks/data/raw/details/3a48a0b2a94de4ae1c9e786dba35b7f42e1e362f.json
+ create mode 100644 notebooks/data/raw/details/3ae637bac7150e3a454add66cf3cd6e69314f520.json
+ create mode 100644 notebooks/data/raw/details/3afbd9727d23b5e6f1b32dd0acf5540ca74830eb.json
+ create mode 100644 notebooks/data/raw/details/3b0ec387efd33c95d96b045f66bda8ce12bf85ba.json
+ create mode 100644 notebooks/data/raw/details/3b1729eb66198fe09bf57a10e494bd332d757ccd.json
+ create mode 100644 notebooks/data/raw/details/3ba075483c16fc45d810c3a601513ce2fa09e30d.json
+ create mode 100644 notebooks/data/raw/details/3bb5f834d46f171175475842f826f0639d3ad846.json
+ create mode 100644 notebooks/data/raw/details/3bdc279ece1ab0a3155f9e1a2c1bb9b92e3c85a9.json
+ create mode 100644 notebooks/data/raw/details/3bea0fa49cb920a02ac93010020262efb60edc88.json
+ create mode 100644 notebooks/data/raw/details/3c35ac861445ef82720b204bfe1545d206a19fdb.json
+ create mode 100644 notebooks/data/raw/details/3c52a630538c1b0a48a7dd19c004c42c9cbf26c7.json
+ create mode 100644 notebooks/data/raw/details/3c8f2a0dfc5f72a182cd142cc4b73951969b98b0.json
+ create mode 100644 notebooks/data/raw/details/3c9ae049cfbb06045f8e7741266460362d0a44f4.json
+ create mode 100644 notebooks/data/raw/details/3cb84597454d27c0f31861598cc516063ccacd35.json
+ create mode 100644 notebooks/data/raw/details/3d14b973d89ef867849762e999061b4957a4ed1d.json
+ create mode 100644 notebooks/data/raw/details/3d54c3c00f2ffc61e73cf70fcfa81b04b96dfbb4.json
+ create mode 100644 notebooks/data/raw/details/3d88abcdb95d7dc3f5aa50d663ddb23c9097b4bf.json
+ create mode 100644 notebooks/data/raw/details/3d8dc391adb5ddf4e59060537c439670c8519083.json
+ create mode 100644 notebooks/data/raw/details/3dbff7d2d27ad6911957457213d5cb81e0cb0bd8.json
+ create mode 100644 notebooks/data/raw/details/3e718ab08b6edec298a0282b3931384b37c2172b.json
+ create mode 100644 notebooks/data/raw/details/3e848c395cd4d3f243212871e9721a3670918150.json
+ create mode 100644 notebooks/data/raw/details/3ea9bdb14b55fa511c3decaa1ed57f1c1cca47ad.json
+ create mode 100644 notebooks/data/raw/details/3ec07056ed278a2c852b02606127defbb1f0331f.json
+ create mode 100644 notebooks/data/raw/details/3f74f6417111a26b295797b44db7800e74e67dd7.json
+ create mode 100644 notebooks/data/raw/details/3fb45edb0896066cf8677a9d3d3cce5f088701e5.json
+ create mode 100644 notebooks/data/raw/details/3fd223978d2b4dc7e0e35421630d40993ce3d70d.json
+ create mode 100644 notebooks/data/raw/details/4051af1946f1ecd7e657ce67f2dc4680d78d3ac4.json
+ create mode 100644 notebooks/data/raw/details/4070e1bed00d1178d6909dfb2a0aa2df537db5ad.json
+ create mode 100644 notebooks/data/raw/details/40802cc758de00a9815fb23ddef4c43c1338a031.json
+ create mode 100644 notebooks/data/raw/details/40b971914e14080311e14e5ab073bdde761646dd.json
+ create mode 100644 notebooks/data/raw/details/40bb847d437c9cbf0091df53df13d0172ead4636.json
+ create mode 100644 notebooks/data/raw/details/41c43325dc2fec14b1f0debaa3f2b17d22cfd540.json
+ create mode 100644 notebooks/data/raw/details/4220868688ecf6d252d17f6d784923d0c5f66366.json
+ create mode 100644 notebooks/data/raw/details/4232a168d4f68d1ab73d8305d180bbc871414e5d.json
+ create mode 100644 notebooks/data/raw/details/42445c226760453f08a6578372cea456624d704c.json
+ create mode 100644 notebooks/data/raw/details/42ea9f2ad8d98b9f6046fc9fbf0c8421af5c81b6.json
+ create mode 100644 notebooks/data/raw/details/433a3d29b2cc8dd360d10d7c47c1e50885b60bb9.json
+ create mode 100644 notebooks/data/raw/details/43a6a0a086c3806ef46186cf218ece00818e1f3e.json
+ create mode 100644 notebooks/data/raw/details/43f32e00fa974e4d7ef6f33950a9241598c4a622.json
+ create mode 100644 notebooks/data/raw/details/4465105ed3a51a8a676a5e226f645132caf9937a.json
+ create mode 100644 notebooks/data/raw/details/44edfb2ff450896b7e238a6e9191c8c487bdc7a0.json
+ create mode 100644 notebooks/data/raw/details/45130402ca2e5d51db09de9612d20047f22db08f.json
+ create mode 100644 notebooks/data/raw/details/4526e1f4f413da483430eaf0636254d87dfd0983.json
+ create mode 100644 notebooks/data/raw/details/453760e7a55bd8068569bf3611bcb0067b0bc1da.json
+ create mode 100644 notebooks/data/raw/details/454a74b0f97b717b4605859120cc5002e6c8e1f3.json
+ create mode 100644 notebooks/data/raw/details/466e6001414799972156e1e417eeead937d1e62f.json
+ create mode 100644 notebooks/data/raw/details/469bb25bd6b3f1eee45950e5220366eb6f71e798.json
+ create mode 100644 notebooks/data/raw/details/46cd41b5406e3cbe1c0b461a1957652cf11cb40d.json
+ create mode 100644 notebooks/data/raw/details/46d01e0bbe22c8212b234bd71fb65e72fe6e6a59.json
+ create mode 100644 notebooks/data/raw/details/46d4a9b35562618e00460b1fa409be88a01d1aa9.json
+ create mode 100644 notebooks/data/raw/details/478d00d4c4e721ac552e82e8da89065c88b668ae.json
+ create mode 100644 notebooks/data/raw/details/483944100d0c661b53a027f421ccbb5f1d6996d8.json
+ create mode 100644 notebooks/data/raw/details/488c27668b6696f2f17162a20a2f1c08190bdf45.json
+ create mode 100644 notebooks/data/raw/details/48cbb02e8371a7ed1f48137b2ddfa32469eacd12.json
+ create mode 100644 notebooks/data/raw/details/48df9fd64d3bab84b0a334f90e3ee676184e873f.json
+ create mode 100644 notebooks/data/raw/details/48e23d33b46b3244fff8a4a250098257a61b3dff.json
+ create mode 100644 notebooks/data/raw/details/48fff09c57ffffdd00bff7e22040d45e26de850b.json
+ create mode 100644 notebooks/data/raw/details/4908cc6686e69db25c7afcd2caeb630b4d27faab.json
+ create mode 100644 notebooks/data/raw/details/49204a9dc198a10fe87b4ce3ba2267b8d6884e27.json
+ create mode 100644 notebooks/data/raw/details/497261648d19c3fb69b764e54388a6aa24b07637.json
+ create mode 100644 notebooks/data/raw/details/4a0929da75d909909ea9feeb36fd66d237d57e81.json
+ create mode 100644 notebooks/data/raw/details/4ad2800b8d96cf6a30af4da08b19b2be3bc24dd1.json
+ create mode 100644 notebooks/data/raw/details/4b07e78ea16d754da021d85603b67205bba7e066.json
+ create mode 100644 notebooks/data/raw/details/4b86a67233af911298eb6809c45f614a09577ca4.json
+ create mode 100644 notebooks/data/raw/details/4bba0a1455765703a4c2b941c0c9833f0829d01f.json
+ create mode 100644 notebooks/data/raw/details/4c1ad8610e966b8ef9167dce35d3e21ffc045734.json
+ create mode 100644 notebooks/data/raw/details/4c2fc88392fcbaff1d2d38f1347d3cc6ee069b4e.json
+ create mode 100644 notebooks/data/raw/details/4c86388ee42d7163fd205a325abc7345049c3158.json
+ create mode 100644 notebooks/data/raw/details/4c8ef211ef95c3d66ac8fb808657cf99674d4e3d.json
+ create mode 100644 notebooks/data/raw/details/4cc8abac8a8c3e1e551321bfd5cd4f9af6c9151d.json
+ create mode 100644 notebooks/data/raw/details/4d9c6616ab659b542b865154cde95aa46dcd2fe0.json
+ create mode 100644 notebooks/data/raw/details/4e027d9535fe5aad94352fc67b1e510af5428cc6.json
+ create mode 100644 notebooks/data/raw/details/4f16cafafb08d7b785ce796cab04e61e5e114b97.json
+ create mode 100644 notebooks/data/raw/details/4f1846021c9fde11bd8ba5c31de21b0724a26ca9.json
+ create mode 100644 notebooks/data/raw/details/4f6494bc05c5235693d25a8c4fb17aadb89a7bac.json
+ create mode 100644 notebooks/data/raw/details/4f75648de8d035f588f4e69effdc8e01466ae9cb.json
+ create mode 100644 notebooks/data/raw/details/4f794b368a200d86ab785063108e91d02eec9325.json
+ create mode 100644 notebooks/data/raw/details/4fcc3af5e1ea96e6b8eeec5fa2bfd4eb6491ac16.json
+ create mode 100644 notebooks/data/raw/details/4fe5bf0b2b7ee1cf0058be7070d574a61f118803.json
+ create mode 100644 notebooks/data/raw/details/4fe870ebf208907f0e04adba27070a1831a50158.json
+ create mode 100644 notebooks/data/raw/details/50521719dc4b1c0b67a8b4fc12a3cdb19c339c8d.json
+ create mode 100644 notebooks/data/raw/details/507e00887ccf1a5fa6018ecfe5e39096a4eac0b9.json
+ create mode 100644 notebooks/data/raw/details/5140560d4498cbf15f5950788b9dd28f0fa89c79.json
+ create mode 100644 notebooks/data/raw/details/51519f65eafe3c1cb0bd3728de43293fac779427.json
+ create mode 100644 notebooks/data/raw/details/51a2e90ca5f13e8fcd26031f0f2b28c71dbb886e.json
+ create mode 100644 notebooks/data/raw/details/521ea177ec42286740d824115eb8e23c9b298770.json
+ create mode 100644 notebooks/data/raw/details/521ec46bb29129f950b6fef0d099f94795f15b6c.json
+ create mode 100644 notebooks/data/raw/details/525f52b7b5d44d83711277bcc98c688adfe87507.json
+ create mode 100644 notebooks/data/raw/details/527fa1877bc8ce337d60cf8f4c0c5685902bd89b.json
+ create mode 100644 notebooks/data/raw/details/52b8f168b311312462243c079372ba96da7a7b25.json
+ create mode 100644 notebooks/data/raw/details/52e94a7385c6288dfe482e3b62347e09fe126066.json
+ create mode 100644 notebooks/data/raw/details/530bfa5b82430cade992d14ec91b6d2be9ca7658.json
+ create mode 100644 notebooks/data/raw/details/531116340dbfc2601bd409a9fb4802ba9dd43648.json
+ create mode 100644 notebooks/data/raw/details/533e3f22e332767814deaac230e7d1df265476a8.json
+ create mode 100644 notebooks/data/raw/details/53826378904cf48db25d21aac481e2a9fc1e8031.json
+ create mode 100644 notebooks/data/raw/details/53a927444698a9968f41502fee88a4b0aec26b12.json
+ create mode 100644 notebooks/data/raw/details/53ce08d077275bf9a41d039a5b28b8e5012e2337.json
+ create mode 100644 notebooks/data/raw/details/54a26c7f3bf0874a8e316b93c80fea1a73d96ffe.json
+ create mode 100644 notebooks/data/raw/details/54a6023c2f7be17c7d18a920b4ab119fc0c1f46b.json
+ create mode 100644 notebooks/data/raw/details/54bfa0262849175a85a0b5bcda25992c42d622f0.json
+ create mode 100644 notebooks/data/raw/details/54e79fa973531ea0151994b3e41e480b9c544ced.json
+ create mode 100644 notebooks/data/raw/details/551fefb7f2ebc6836cd2d5797704bbc6c422069e.json
+ create mode 100644 notebooks/data/raw/details/56422e059d2d089ca603725d3fc343d6e0e4d3e1.json
+ create mode 100644 notebooks/data/raw/details/5767d02fb65ecc147abaa9e0cdb43fb830b831ca.json
+ create mode 100644 notebooks/data/raw/details/57b95438eebccf306a10f9ac35744b6534661b06.json
+ create mode 100644 notebooks/data/raw/details/57c86260e69e23b149a3e2f0828545f06cdf21df.json
+ create mode 100644 notebooks/data/raw/details/57f201fe72b3eafaaa9c48788eacef82036b4a9f.json
+ create mode 100644 notebooks/data/raw/details/58240587e6ea249af42e884e3c21206b2d9867a8.json
+ create mode 100644 notebooks/data/raw/details/58a09b1351ddb447e6abdede7233a4794d538155.json
+ create mode 100644 notebooks/data/raw/details/5982b30019c418275f81161c447a69af1dbd2e98.json
+ create mode 100644 notebooks/data/raw/details/599c538ea9d887a390bae2e9ba408df2f73d1cd0.json
+ create mode 100644 notebooks/data/raw/details/59bfb89419843357593d94f23832a318bd8c837d.json
+ create mode 100644 notebooks/data/raw/details/59bfbd40d8b5a1cad19bda4aa330e57bc2db4333.json
+ create mode 100644 notebooks/data/raw/details/5ad3993b2b56f10931e55bd2394931204e568b44.json
+ create mode 100644 notebooks/data/raw/details/5af92f00ed731cd0d1775f43163110eede0826c0.json
+ create mode 100644 notebooks/data/raw/details/5af949f5b6439acdcc48801aa77c0ba75e3282d5.json
+ create mode 100644 notebooks/data/raw/details/5b3bd08b73d5e32f67ec9e49ab1184d48d38b2d1.json
+ create mode 100644 notebooks/data/raw/details/5b53bf8f5cc08fe74b2396b56301ce708112f89e.json
+ create mode 100644 notebooks/data/raw/details/5b5d2bd18007095cc529dec8d01148e614881f67.json
+ create mode 100644 notebooks/data/raw/details/5bbf749a87786b368fbcce32a901745f42fe66c4.json
+ create mode 100644 notebooks/data/raw/details/5c27127304f5c14131dd5163f7b73730270d7001.json
+ create mode 100644 notebooks/data/raw/details/5c61143c825b82373e368e66ba16ff51df2bb455.json
+ create mode 100644 notebooks/data/raw/details/5c94cc57728ce0383f58cba5d82a15e0c3c4030f.json
+ create mode 100644 notebooks/data/raw/details/5cc754acb9f4439cd7fad590b0021ae49178107b.json
+ create mode 100644 notebooks/data/raw/details/5cd22d9f14fd1ee87e08293eb15909296ec40c5a.json
+ create mode 100644 notebooks/data/raw/details/5ce3d9cdc1aeb20f73ffdadea92fd227eef2354b.json
+ create mode 100644 notebooks/data/raw/details/5d6f577da0db52df028f9e90663df522887b7cd4.json
+ create mode 100644 notebooks/data/raw/details/5d82e8bb5c0379fd3534773ae0c92cf1f2514214.json
+ create mode 100644 notebooks/data/raw/details/5da2fd0e369c13ce915e6fb64123b3dfcdecb8c6.json
+ create mode 100644 notebooks/data/raw/details/5db440f3f49819b96adb6fd1f8686517dae33098.json
+ create mode 100644 notebooks/data/raw/details/5de2885c554d39010430ea32b2f678f680a55644.json
+ create mode 100644 notebooks/data/raw/details/5e3c2af52f79c29461e5859eedefd7c61d85df65.json
+ create mode 100644 notebooks/data/raw/details/5e57bc8380153b8db0db0877ea9a608e0fe90184.json
+ create mode 100644 notebooks/data/raw/details/5e8254686c13be141a02cd62a24d886447b0a2ed.json
+ create mode 100644 notebooks/data/raw/details/5eb8eda164da1950cadaa99117d57d07698c8a91.json
+ create mode 100644 notebooks/data/raw/details/5eb93ce8488f7e8445ef54fa72fd907bae6d9c92.json
+ create mode 100644 notebooks/data/raw/details/5f31d7512d7819da83e84abbc555d71ac36c57f2.json
+ create mode 100644 notebooks/data/raw/details/5fa35923a47cc6e7f97a03452a4ef0161a70a7ff.json
+ create mode 100644 notebooks/data/raw/details/6021212cf49b7bbcf99069f13f0d95fe5ab5c720.json
+ create mode 100644 notebooks/data/raw/details/602c17b4e5d484a1f4f6c20c4d02eaadda58aa3a.json
+ create mode 100644 notebooks/data/raw/details/608d6499732a24c306b2a55d114e0fbc74091562.json
+ create mode 100644 notebooks/data/raw/details/60caff98d7395e474e74dbe8571d923bd92533a8.json
+ create mode 100644 notebooks/data/raw/details/60d4e037aae288f0683d43d9ab22366db2141fc8.json
+ create mode 100644 notebooks/data/raw/details/611ce73c0b8da375d4046daddeeec52b8e806103.json
+ create mode 100644 notebooks/data/raw/details/613dbd1b87286989b53aabd59a1f4dbbc0d90d1c.json
+ create mode 100644 notebooks/data/raw/details/619daaf108d3367e0a908907b2714971c8f61f4b.json
+ create mode 100644 notebooks/data/raw/details/61b643a68343c15e1fe285a86559e0edc94724fe.json
+ create mode 100644 notebooks/data/raw/details/61ea215d214efeffe9a6adb9d9896daafddd06ec.json
+ create mode 100644 notebooks/data/raw/details/61f354eac5774be3154ee9ea27052948f550a610.json
+ create mode 100644 notebooks/data/raw/details/62251f364d8bb7d1a01fa8a2dca4e29024326b51.json
+ create mode 100644 notebooks/data/raw/details/628904df59970e817fa09ebe11f4d5df1ed53a8d.json
+ create mode 100644 notebooks/data/raw/details/6297812cc4e90c4675e392a72037889f7a020933.json
+ create mode 100644 notebooks/data/raw/details/6320f8b2605ed89edac1e01c7a7adc8bfd2a7d4b.json
+ create mode 100644 notebooks/data/raw/details/638135791e7e80c2332e22bf09fbcb005b2f773a.json
+ create mode 100644 notebooks/data/raw/details/63ec3bd7a316868f729e3000f9b9ddef759a14a5.json
+ create mode 100644 notebooks/data/raw/details/6415f014998ad2b1d51986977f1d12e5d5a7cdc1.json
+ create mode 100644 notebooks/data/raw/details/64626432c0985ad99ffc7be7644dc5930f18c0cf.json
+ create mode 100644 notebooks/data/raw/details/64b6da81b4b160ac29234c87d4c2fa58bcb21270.json
+ create mode 100644 notebooks/data/raw/details/6520bc58c70d099f8f9098c2903fd336c38ba1e9.json
+ create mode 100644 notebooks/data/raw/details/65b11bc8471ba6edd540e68bc7a50ebf9d02eb6e.json
+ create mode 100644 notebooks/data/raw/details/65feaddb289c301f59a55eed58061df6fa77d013.json
+ create mode 100644 notebooks/data/raw/details/663649c0c7c595577d178433acb21be6a54f5ced.json
+ create mode 100644 notebooks/data/raw/details/663f52adabf666eba43b69f9afadfca9ef0996f3.json
+ create mode 100644 notebooks/data/raw/details/6643f13de9f6195344359b97da61bbb0e150e44b.json
+ create mode 100644 notebooks/data/raw/details/666137eb23a5c4a19b3ab56b181d027d60e2351a.json
+ create mode 100644 notebooks/data/raw/details/66c78189c5c3ea5496296d40ccf9b55534c2aad8.json
+ create mode 100644 notebooks/data/raw/details/66c86b0a5c5be6532fd47a75bf79abb9ca19af83.json
+ create mode 100644 notebooks/data/raw/details/66d9e9d6407935f4b44617c29d151e0d29dec680.json
+ create mode 100644 notebooks/data/raw/details/674d03add9ed8da053de2e3c8b0877aaed63a930.json
+ create mode 100644 notebooks/data/raw/details/674e0d589b67d9cf1d30fda0b061c58e0ac93a42.json
+ create mode 100644 notebooks/data/raw/details/677b80e91168d446a8f1261820aedb74fe2f6832.json
+ create mode 100644 notebooks/data/raw/details/6795234435fd43a528830d93d410e6cd22781fe1.json
+ create mode 100644 notebooks/data/raw/details/67ea0bf7e44baeed5ed61cf312e72da85935e6df.json
+ create mode 100644 notebooks/data/raw/details/6837c92ae18629e6a550ad0c63b61ebcc3e10bef.json
+ create mode 100644 notebooks/data/raw/details/68749770401f32804d5dae208a306396e2811a50.json
+ create mode 100644 notebooks/data/raw/details/68df15e88d5b4fe0ba894570fe2eae17e92eff00.json
+ create mode 100644 notebooks/data/raw/details/69177f0c00dda834d3e0af2b6b96e38016a7c476.json
+ create mode 100644 notebooks/data/raw/details/694adac9193f666bc3ac52bca73515d75fa84355.json
+ create mode 100644 notebooks/data/raw/details/69672a08049ea8cf6e94a944e363250e5b529341.json
+ create mode 100644 notebooks/data/raw/details/69a20716b81ef2331c2bed775cb14d2ee631ede2.json
+ create mode 100644 notebooks/data/raw/details/69a439512c970144d48aff517e1061a6302324c3.json
+ create mode 100644 notebooks/data/raw/details/69ffb574b9caa59685fefead36909934abd2c949.json
+ create mode 100644 notebooks/data/raw/details/6a525e4bc033eb875881b75de3a1aece8860e4f0.json
+ create mode 100644 notebooks/data/raw/details/6abfe4c6cc25244f7d2df5c8247ddcf61d9fe05b.json
+ create mode 100644 notebooks/data/raw/details/6b256a89d870aef18217eb92bbacfba09b77d43c.json
+ create mode 100644 notebooks/data/raw/details/6b2bc19c453aaca0c56fa11fc9e08f5e974fc634.json
+ create mode 100644 notebooks/data/raw/details/6b4b887606d2b22e414d2604196b4d0318dfb48a.json
+ create mode 100644 notebooks/data/raw/details/6b55cd861b4b530debfbea28245fc1d0ac40e2b8.json
+ create mode 100644 notebooks/data/raw/details/6b87670135a635c1d54df0c6f822d9935fc62f71.json
+ create mode 100644 notebooks/data/raw/details/6b87ef7db3707fc6ed6692d27d8fc36efd3a2d59.json
+ create mode 100644 notebooks/data/raw/details/6bf96aeabae84fe4715540fb83193f53729ff240.json
+ create mode 100644 notebooks/data/raw/details/6c9fe95ed307d7f0b95cd67098adf62298357a5b.json
+ create mode 100644 notebooks/data/raw/details/6cd994a2ee1d57858045eb798bf1f55b6ef14abb.json
+ create mode 100644 notebooks/data/raw/details/6cf94b75addceb6e11abfd34ea1081a8cac6cffa.json
+ create mode 100644 notebooks/data/raw/details/6cfd0423580716ac3bdcec1251ee87b6821b37dc.json
+ create mode 100644 notebooks/data/raw/details/6d5335bf3c891d094a65941559b8c6fc1c5ed1c6.json
+ create mode 100644 notebooks/data/raw/details/6da7d88aa7feaec168b0f43b7b793438521711ec.json
+ create mode 100644 notebooks/data/raw/details/6e54db2c2e22a07bb6c8ca0c9c492eb5a98d33f0.json
+ create mode 100644 notebooks/data/raw/details/6ec2d8bfc4815ac8b2b0e795331392c8255031df.json
+ create mode 100644 notebooks/data/raw/details/70166c58f76a465dc9823cd6cb98549c96f20260.json
+ create mode 100644 notebooks/data/raw/details/7040fc8cda9442cbb1556759a8a2cf7a2cc063fb.json
+ create mode 100644 notebooks/data/raw/details/705db7803a32a48c297240e300ef651794c51e44.json
+ create mode 100644 notebooks/data/raw/details/70a33ca13059d899833a072ca672dabcf82c40c6.json
+ create mode 100644 notebooks/data/raw/details/711e775aba66fcdf4e156593cb2001dc0af25973.json
+ create mode 100644 notebooks/data/raw/details/717536b95c856ddc849ac3112d4143ea2a3acfae.json
+ create mode 100644 notebooks/data/raw/details/71782211e4d474ed19fb120b9a1518c854fb4570.json
+ create mode 100644 notebooks/data/raw/details/719c5ef2b8a6331145ce68ea78b72d79aa8f3ccf.json
+ create mode 100644 notebooks/data/raw/details/71f3a91f452dc4608299ffaad0d3c98acc0e0fa1.json
+ create mode 100644 notebooks/data/raw/details/72325911b582b3179d79ecb6d872181ac9f8157f.json
+ create mode 100644 notebooks/data/raw/details/7249ecf2abfaf7115e9f800429657ab21e689f9a.json
+ create mode 100644 notebooks/data/raw/details/7277f8928efda66cc5bbfeb620f5edc3581eaa11.json
+ create mode 100644 notebooks/data/raw/details/72918abdbce24a703c55ceb434331266daedbd16.json
+ create mode 100644 notebooks/data/raw/details/72a9478b083f254c7318e600e47be3acab2d4455.json
+ create mode 100644 notebooks/data/raw/details/72c013a2dee8b2729137405ffacfd63b8a017b8c.json
+ create mode 100644 notebooks/data/raw/details/72c2a39bb3ecec58309d94e40644c6acaf9ec0da.json
+ create mode 100644 notebooks/data/raw/details/73288675f0fe0b56e8ceeb0fc0abbd03da17c288.json
+ create mode 100644 notebooks/data/raw/details/7382b6349e22c92e24be9ab0892653653212ecf2.json
+ create mode 100644 notebooks/data/raw/details/73adbf2847e6ac495caef07420eb9408d203d577.json
+ create mode 100644 notebooks/data/raw/details/74d52bf11b252c38fddd154082be55d22afb01d3.json
+ create mode 100644 notebooks/data/raw/details/751d2fedb00ec601827c4f46a2ee0c212e7e9c2e.json
+ create mode 100644 notebooks/data/raw/details/7537c7dd841b90df1b1551829bb32d5d11f28ffc.json
+ create mode 100644 notebooks/data/raw/details/75694d502121ee88697393bb569aa1b19fc4c3f7.json
+ create mode 100644 notebooks/data/raw/details/756b820ae3cd083f8f67e0b1cc59661a838cf8e3.json
+ create mode 100644 notebooks/data/raw/details/757f0004cc115e4c7e7c8b4d60d9e6f5e3c23744.json
+ create mode 100644 notebooks/data/raw/details/759a228d3c0662160d4209d75e140ad6ecf6a4da.json
+ create mode 100644 notebooks/data/raw/details/760889cdd943b5d9623de7039affbc0294a29b13.json
+ create mode 100644 notebooks/data/raw/details/7653474c6388c372e40e7f17da56e318ce7f7f1d.json
+ create mode 100644 notebooks/data/raw/details/76858c737d4ac43c496cffca2118a5ed8a5d5f50.json
+ create mode 100644 notebooks/data/raw/details/76eb3ad69aa0d3f285d3e8dfbf06ffa87fe3ead1.json
+ create mode 100644 notebooks/data/raw/details/76f109fccce21fa5958f285e3c3c58796b5d79e1.json
+ create mode 100644 notebooks/data/raw/details/7721111617a95460ba712197d340d9f122d8942a.json
+ create mode 100644 notebooks/data/raw/details/772a42ba08ef0035137c6b8aece5ba6e9a0eec38.json
+ create mode 100644 notebooks/data/raw/details/774fe2c519dcc5ea9a3e4e8609ffb237fb68aa48.json
+ create mode 100644 notebooks/data/raw/details/77ac755b931750bdfb2d2e72117d32e731493ca8.json
+ create mode 100644 notebooks/data/raw/details/77ae97ae51abc9691c8c203519ecf9f8754a14c9.json
+ create mode 100644 notebooks/data/raw/details/77c937da1bd5f6f07b190f1a485af5066767b460.json
+ create mode 100644 notebooks/data/raw/details/78e2c375e3ae12d335ffe160577332de86726358.json
+ create mode 100644 notebooks/data/raw/details/78fb4989b61ce8ff9bcd504416c89336acbf8d84.json
+ create mode 100644 notebooks/data/raw/details/7934f8c0fd25fcabb12eb53a7d44786c62a7fc68.json
+ create mode 100644 notebooks/data/raw/details/7942f0f793041dddefe084825ac907ab6755dab9.json
+ create mode 100644 notebooks/data/raw/details/7986bc29a0ccf8fb64379cce769a38c9cc7a6922.json
+ create mode 100644 notebooks/data/raw/details/79b347cfb30689df4625dfcdcef9af9dd46216c2.json
+ create mode 100644 notebooks/data/raw/details/79d995068047bfadf5c020ce2c7faa3d58c0e95f.json
+ create mode 100644 notebooks/data/raw/details/7a1f425fe2d6c0f1a6a90c05c5622ab718fd1645.json
+ create mode 100644 notebooks/data/raw/details/7a798b9c1a3a8b02c404a2b96f81f85ec533ae71.json
+ create mode 100644 notebooks/data/raw/details/7abb1bcd9ae988e6f3ea04b0ffae52aba538ed09.json
+ create mode 100644 notebooks/data/raw/details/7ac5d6c6aad2288499b877246c4edecdd99b7114.json
+ create mode 100644 notebooks/data/raw/details/7affdea660ed13a1dd2e246639fa8d4c83b49025.json
+ create mode 100644 notebooks/data/raw/details/7b2e28bec2b8a2708103865524a4a19b957e3b91.json
+ create mode 100644 notebooks/data/raw/details/7b7b9dee49a34fb6a84af2d154f3b6a5be9e7d0c.json
+ create mode 100644 notebooks/data/raw/details/7c2fd573ab6a254193dc9365d5b204bac645e19f.json
+ create mode 100644 notebooks/data/raw/details/7cc974ddfdaf1b41a0784dc942a7e660b47caf4c.json
+ create mode 100644 notebooks/data/raw/details/7ce050547d983202f64cac0f7280831383507a07.json
+ create mode 100644 notebooks/data/raw/details/7cee3de7c28d6d95bea9b27322f01fb50952af37.json
+ create mode 100644 notebooks/data/raw/details/7d6bf25d28a60a9b37fc88db3188890ed4270845.json
+ create mode 100644 notebooks/data/raw/details/7d725caa0683c6f925b6d304c64e5fec22b86826.json
+ create mode 100644 notebooks/data/raw/details/7da8a6a359f4a19dceb2c0df1fb3d34f9e3eb02f.json
+ create mode 100644 notebooks/data/raw/details/7db7c555dfe78fa6f626a9f78faf7147a9c7091c.json
+ create mode 100644 notebooks/data/raw/details/7de4bad1413b436c5058818735295113c59032ca.json
+ create mode 100644 notebooks/data/raw/details/7eae26394ff147b3af7e4575f096c3fecf31b20c.json
+ create mode 100644 notebooks/data/raw/details/7ed31a09bb5d3507b8b515afb25b26d4d949426f.json
+ create mode 100644 notebooks/data/raw/details/7ee13efaf13fceec900d6d3df313dc79e5059ebb.json
+ create mode 100644 notebooks/data/raw/details/7ef74d8a66770e8be726033202794f7ed7679685.json
+ create mode 100644 notebooks/data/raw/details/7f3a0fa3836d52325ab1dcd6005cdec9ed1207cd.json
+ create mode 100644 notebooks/data/raw/details/7faee2e48f88296c99f4212642a1efcaae8ebfa5.json
+ create mode 100644 notebooks/data/raw/details/80b515b0f7eacc949894db3c12864520870f2082.json
+ create mode 100644 notebooks/data/raw/details/80bbae94590ef9fa240eaf929a2e2f607b2023ab.json
+ create mode 100644 notebooks/data/raw/details/818def56e38a2a7704989f31d1fb29239c6499bc.json
+ create mode 100644 notebooks/data/raw/details/8194c0327824a32d5c39d485d3db7c691ff8ecc8.json
+ create mode 100644 notebooks/data/raw/details/81acffee430b6d52bb6f8c3cea136ccfb9ed3d14.json
+ create mode 100644 notebooks/data/raw/details/81e98b3bfe24b317856417848628669aa666b6f4.json
+ create mode 100644 notebooks/data/raw/details/82706a0dcd0537f0270f36da1536ce94820f5f49.json
+ create mode 100644 notebooks/data/raw/details/8304e1f7d9b35b1b02fe6582760e3ca821dcdc8e.json
+ create mode 100644 notebooks/data/raw/details/835dfe785faec03f47ec0266fcc49715c396add0.json
+ create mode 100644 notebooks/data/raw/details/836de52cda0e542defa62c8b4d27617d0b6244a6.json
+ create mode 100644 notebooks/data/raw/details/837933abefafbfa64b41bbbe8f4ba9bb1c7f40e0.json
+ create mode 100644 notebooks/data/raw/details/837d738fc88ef4bdb87eec6f618dbd8e59af53c3.json
+ create mode 100644 notebooks/data/raw/details/83823fce4c3b05b33bc396d5a5efcdf20c131555.json
+ create mode 100644 notebooks/data/raw/details/83f3e43e9996fc20b96d0bf0375f335c66ae9282.json
+ create mode 100644 notebooks/data/raw/details/83f8a4d8ca6cbba1dc46d221c408532bd3f6401f.json
+ create mode 100644 notebooks/data/raw/details/841364e8a1304842df22eb64530ad02be302c3f9.json
+ create mode 100644 notebooks/data/raw/details/844fffe3aa74d974fcc8703316e923ee9cbee14a.json
+ create mode 100644 notebooks/data/raw/details/8451751ca07fc76839aa937770835eac1b8b2d94.json
+ create mode 100644 notebooks/data/raw/details/845b8f8bfacfdc9b908690618a097e1f334e39ba.json
+ create mode 100644 notebooks/data/raw/details/8465a53980233fe7e79f70147e9241d8937f7d10.json
+ create mode 100644 notebooks/data/raw/details/8495af9f2c6cc66327ddc60ed134772e4d4f9cf4.json
+ create mode 100644 notebooks/data/raw/details/852294db758eb5fab8a54bdf3aa3e91f01174acc.json
+ create mode 100644 notebooks/data/raw/details/85b8033cf782110c287a4443c23d2f42f595795d.json
+ create mode 100644 notebooks/data/raw/details/85f35fde04c9be60826f08b97c58947e16dd3fb5.json
+ create mode 100644 notebooks/data/raw/details/85f3ca669b8d73cc493d1b23fb973b02775fcd00.json
+ create mode 100644 notebooks/data/raw/details/86549f2f28f6d97a19b0dab553e71faaddacb8de.json
+ create mode 100644 notebooks/data/raw/details/865bd8e2230abe300a8e34b15c4eb0f5a00a6421.json
+ create mode 100644 notebooks/data/raw/details/865f09a10c958f9bb7f623220f8780fc8952345f.json
+ create mode 100644 notebooks/data/raw/details/87605d0ff3b58844e1964a41f5fa282de9c69ad7.json
+ create mode 100644 notebooks/data/raw/details/877fa743d9cbf41946c90e90f31326a58bcce957.json
+ create mode 100644 notebooks/data/raw/details/87a93adcb26729c35ed77ac93315fd0be9acf517.json
+ create mode 100644 notebooks/data/raw/details/8831371a6703520a577865cad377e1c2b048353b.json
+ create mode 100644 notebooks/data/raw/details/886e78bd385c47159f940653c69d61d81a437610.json
+ create mode 100644 notebooks/data/raw/details/887a56489a85228169247aeeab277ef15d37290b.json
+ create mode 100644 notebooks/data/raw/details/88cee4f8700659b79a92fb409b08de0421b2d1ad.json
+ create mode 100644 notebooks/data/raw/details/890005c93a7bdcba04b074681d4347eeba5ac93e.json
+ create mode 100644 notebooks/data/raw/details/8a2fcc2e3915c115ccaac63297ff48a4fd52ed73.json
+ create mode 100644 notebooks/data/raw/details/8b4f73c5ab99b4f3d4bc46557a5c8365ac39cc3d.json
+ create mode 100644 notebooks/data/raw/details/8b5ae3a8122ed719ef82ee6d79c80d9ecbef2c5b.json
+ create mode 100644 notebooks/data/raw/details/8bda114d9357e4b1039f122a21d0a8eca547b5d6.json
+ create mode 100644 notebooks/data/raw/details/8bfb654f59278b8866e1142e4204c9adca7891c4.json
+ create mode 100644 notebooks/data/raw/details/8c400ea1c999ea854c4217ad70d13b078b5e4e34.json
+ create mode 100644 notebooks/data/raw/details/8c55c901c540a88f10d2746c5224ce7a1cf7cce3.json
+ create mode 100644 notebooks/data/raw/details/8c8c339bbc4f6c0b9d95d5c501498949fc43ee1f.json
+ create mode 100644 notebooks/data/raw/details/8ca7b2606da3d3d72c8321b399a84a9c13dfdbc4.json
+ create mode 100644 notebooks/data/raw/details/8cc045934941c3939cb85803c10175c3b6f13dca.json
+ create mode 100644 notebooks/data/raw/details/8cc1ab1a26e262f3687d9330556263a36f57bb53.json
+ create mode 100644 notebooks/data/raw/details/8d12bff8448e39f24be67f95a65f6daf63cca7c5.json
+ create mode 100644 notebooks/data/raw/details/8d411ca535abfb2c95ec46574ea87bddb3c756bb.json
+ create mode 100644 notebooks/data/raw/details/8d95e45441df3b7c401d9544899e9c107c580194.json
+ create mode 100644 notebooks/data/raw/details/8d9c73d0fdc4ffceb86909eca2418d9efd840323.json
+ create mode 100644 notebooks/data/raw/details/8de7bf1708eef2c216229c1358c092ddbc00d42b.json
+ create mode 100644 notebooks/data/raw/details/8defbf7ea09e1ac3ee6ef736f7c266c34c20a41d.json
+ create mode 100644 notebooks/data/raw/details/8dfe8ab5c7ba21a6d91c8cf24eceb4e0624461cb.json
+ create mode 100644 notebooks/data/raw/details/8e2675859ebf1616240561138df1cabdd71009dc.json
+ create mode 100644 notebooks/data/raw/details/8e5990e4161188465917a4a6cadb110167c6796e.json
+ create mode 100644 notebooks/data/raw/details/8e7ca88a7839334d78ae31b3147be10175b2e0c3.json
+ create mode 100644 notebooks/data/raw/details/8edf116887dbc49d2d9a191c61393bdef21cf2d3.json
+ create mode 100644 notebooks/data/raw/details/8ee0e5ee0e9b3be02d8619813e3d7221455ff35e.json
+ create mode 100644 notebooks/data/raw/details/8f1dc399a1c833325958678029d735058eb010cb.json
+ create mode 100644 notebooks/data/raw/details/8f69e420ce1ced46c518fcfd3484af1c672e7fee.json
+ create mode 100644 notebooks/data/raw/details/8f9891b873b850b9a41d665772c44d6575cea221.json
+ create mode 100644 notebooks/data/raw/details/8fc8a385a250fc68d33a36b876fc2e0ce645bb18.json
+ create mode 100644 notebooks/data/raw/details/90234b1e12afa18be5dc295a2bbfdf929fda8742.json
+ create mode 100644 notebooks/data/raw/details/904f446dcbb59da9ef213356f4c827db6ee81832.json
+ create mode 100644 notebooks/data/raw/details/904f4d24c4255c5578f00df9e94d421e13f46358.json
+ create mode 100644 notebooks/data/raw/details/9062ff97372a568a1fb52194a22e9b9fcc85ed2e.json
+ create mode 100644 notebooks/data/raw/details/9073fdc970e0f8abdda5d9429ad7ef2d8f102763.json
+ create mode 100644 notebooks/data/raw/details/907cf4e178243abb28100f82b882d4e92602a18e.json
+ create mode 100644 notebooks/data/raw/details/9082acc815a8720b3dc733c6fbc85e741f702432.json
+ create mode 100644 notebooks/data/raw/details/9097c526fb716d67b0a0f4f1662fc12129c56bb6.json
+ create mode 100644 notebooks/data/raw/details/9226829214513e0d2ff7f9dfffd83d7028ea9235.json
+ create mode 100644 notebooks/data/raw/details/922b021b71fd37db08bee66c2d4480d64dcbc358.json
+ create mode 100644 notebooks/data/raw/details/928ac447b6ff35799f0320097a2e3b25d219b797.json
+ create mode 100644 notebooks/data/raw/details/92a6585c64888552a38082a87a16a8b5b5b7e5c3.json
+ create mode 100644 notebooks/data/raw/details/92fc0079e982f7a7b33b6806bd31def3782e7fab.json
+ create mode 100644 notebooks/data/raw/details/93afc34a6025972c496eb74094c005a5dd73a747.json
+ create mode 100644 notebooks/data/raw/details/93b3b7a19a54a3a405edcd8bc1e14dfae3849d3c.json
+ create mode 100644 notebooks/data/raw/details/941c5efefdcd90125296387d91b09d14d83b11b0.json
+ create mode 100644 notebooks/data/raw/details/943a6c403d7b8dbbf86d6d8d1fbec90f4c005903.json
+ create mode 100644 notebooks/data/raw/details/944e796ba6eab7b00009f4d471d8cf84d39ab66e.json
+ create mode 100644 notebooks/data/raw/details/94540e41e29a162d982e488560b43e8e44df8067.json
+ create mode 100644 notebooks/data/raw/details/953f545aa1b11a560277898613187ee5e0037494.json
+ create mode 100644 notebooks/data/raw/details/955cedb0d7c381a8e50842cb08d8ea59f95393cf.json
+ create mode 100644 notebooks/data/raw/details/957479003c78a92e90b9bfeb3bd854dd40c698f3.json
+ create mode 100644 notebooks/data/raw/details/95fa6b68ca6669e29c0e965599d884d499063dc9.json
+ create mode 100644 notebooks/data/raw/details/9611d3388e72834af3607d7909dde989eca39863.json
+ create mode 100644 notebooks/data/raw/details/9631181da28866cce98d6c609a8fe9d7e957c9f1.json
+ create mode 100644 notebooks/data/raw/details/9668bb8f59e622e4fbb177964e3fb34a398c6242.json
+ create mode 100644 notebooks/data/raw/details/968ded79ef9f757897e4448b516d6893d0312369.json
+ create mode 100644 notebooks/data/raw/details/96aad6748db194cbe272d77dcb0fdf4e0b7deb6e.json
+ create mode 100644 notebooks/data/raw/details/96efe2332e30a9c5f0cd008a387bb8273cdf253c.json
+ create mode 100644 notebooks/data/raw/details/97181d29b88425ae75bafe133030e7e6394180f1.json
+ create mode 100644 notebooks/data/raw/details/973d88687516ad3943d17c9529ff6eeff69c19b5.json
+ create mode 100644 notebooks/data/raw/details/9740932a71695f585482c9b9d449ae9672fd45d8.json
+ create mode 100644 notebooks/data/raw/details/97862a468d375d6fbd83ed1baf2bd8d74ffefdee.json
+ create mode 100644 notebooks/data/raw/details/97939086f41797cad0f942ab859e2b5541e53367.json
+ create mode 100644 notebooks/data/raw/details/979711afd953221e1fe36d4f304dc4230239d37b.json
+ create mode 100644 notebooks/data/raw/details/97e1e3fd8b0554c65f7d2c04d11fb6d2a2f228d5.json
+ create mode 100644 notebooks/data/raw/details/98062fe07a699a73810facd9e55f7f923291ef3a.json
+ create mode 100644 notebooks/data/raw/details/98597f657032422c30de525fa7cce6281438f49d.json
+ create mode 100644 notebooks/data/raw/details/98c5a8e91712d44f68fe82448c0f3883a526ecaf.json
+ create mode 100644 notebooks/data/raw/details/9935e355caf1f39fe98d032eb3508f86c669151f.json
+ create mode 100644 notebooks/data/raw/details/9a8cb7989d62a07bd2657f1815b5c80c42f679f5.json
+ create mode 100644 notebooks/data/raw/details/9aff1223371e8b58b8b863460ba770b8c8da72dc.json
+ create mode 100644 notebooks/data/raw/details/9bbf4a45303dd4cd36747d29ee33fa93dac15b86.json
+ create mode 100644 notebooks/data/raw/details/9bd1147c6760a0e0c1c70aa55418a98c5389cf63.json
+ create mode 100644 notebooks/data/raw/details/9bd658e78edad98e68ecb89cd21914acc4846eb0.json
+ create mode 100644 notebooks/data/raw/details/9c4d179c4746b07166e3f16d5198d902d80e9740.json
+ create mode 100644 notebooks/data/raw/details/9c5627d8019cf4071a2385f7a775fa9f91db0e9d.json
+ create mode 100644 notebooks/data/raw/details/9c828c0e4997a6815f3caeffa48eabf4bfad9659.json
+ create mode 100644 notebooks/data/raw/details/9cb0bc11168a42334deaaacb240957c4221f01e7.json
+ create mode 100644 notebooks/data/raw/details/9cb29ffcbd69cca7a5e1f9b9b2d79900e355ca21.json
+ create mode 100644 notebooks/data/raw/details/9d227d29e1e8f09f0c9ba4264360b31d8f459b5f.json
+ create mode 100644 notebooks/data/raw/details/9d7c6220c0dab95b3d1d77c621e74d79c401a0d1.json
+ create mode 100644 notebooks/data/raw/details/9da0a659a9d2833295e8cdb666ee4e5c3378091b.json
+ create mode 100644 notebooks/data/raw/details/9da954ad3c3b980d1a6266d67deb02ba5e1c7d66.json
+ create mode 100644 notebooks/data/raw/details/9dca4e246c46b21beaf03725ed6e199efa37e839.json
+ create mode 100644 notebooks/data/raw/details/9e234417d13d3eda6e0baad3f8544f1d4653215f.json
+ create mode 100644 notebooks/data/raw/details/9e5c06e79986caba3b19ef6c6e25acc7986b9e97.json
+ create mode 100644 notebooks/data/raw/details/9e74f7e851e254719ed849824d6a544298ab26b3.json
+ create mode 100644 notebooks/data/raw/details/9e94b3dc8002f9752ceedd4f90aeee0d300fdc55.json
+ create mode 100644 notebooks/data/raw/details/9eab346dc119c386b33876c8d44da3473dce50d9.json
+ create mode 100644 notebooks/data/raw/details/9eabcc91fe9f85bb642c05a3f8b06f70c184a98b.json
+ create mode 100644 notebooks/data/raw/details/9eace7f585bec77f0713b7619abd6f7b040f0c20.json
+ create mode 100644 notebooks/data/raw/details/9ebc9e0311b037e2d4d1a46fc845f2cd7c5cbaaa.json
+ create mode 100644 notebooks/data/raw/details/9eccc41469bf32c5a9ed757fc92793d41e53aa37.json
+ create mode 100644 notebooks/data/raw/details/9ed51600af6129f1fe707467a2c45ea7bf45797f.json
+ create mode 100644 notebooks/data/raw/details/9faa39010bd3fd7076cf638aad03a7e6704e0d57.json
+ create mode 100644 notebooks/data/raw/details/9fc9c3f86434d13ef60c1f1feb32e4abf9b7bdcb.json
+ create mode 100644 notebooks/data/raw/details/9fcb00896d6b150aa0356a358519513560d98bd8.json
+ create mode 100644 notebooks/data/raw/details/9fd37d6a834fc39c3961024e74a9e636aafe114f.json
+ create mode 100644 notebooks/data/raw/details/9fdcb8ce80d891e2c0c978bd215d9cb7987e4624.json
+ create mode 100644 notebooks/data/raw/details/a085328ebd1b2af5f7b2637a844012c7dba751f7.json
+ create mode 100644 notebooks/data/raw/details/a0a87d3f8d7d53c0cfc840c6362d136603dcdfa3.json
+ create mode 100644 notebooks/data/raw/details/a0acc629d86ebeb81535e8bc18742cab8d66d9fd.json
+ create mode 100644 notebooks/data/raw/details/a0ff3c28f79e157c84c9e242c18bf376f5bdf109.json
+ create mode 100644 notebooks/data/raw/details/a1641231beb2861e9e89a5e2b3b484529924164a.json
+ create mode 100644 notebooks/data/raw/details/a19ff6b69c9214e73fdce68de4563d96f15dca16.json
+ create mode 100644 notebooks/data/raw/details/a1a4c8da018d1890808e37b1908b7d0aee087ea5.json
+ create mode 100644 notebooks/data/raw/details/a1e80c455d09d2d9c36432eed2c17551197c4541.json
+ create mode 100644 notebooks/data/raw/details/a204ada8026693dc140c8e20ef017e21112be5d6.json
+ create mode 100644 notebooks/data/raw/details/a29657571a858ba3a96865f370c36b6240ef31a3.json
+ create mode 100644 notebooks/data/raw/details/a2c037038042ad706c649574d3a55936484e9f94.json
+ create mode 100644 notebooks/data/raw/details/a3404a8a561007ab4c8fdec51307e60c1403e04d.json
+ create mode 100644 notebooks/data/raw/details/a3408d2ec113c88aba76b4f70657c22aee47891e.json
+ create mode 100644 notebooks/data/raw/details/a42f3564feb84beb659ae634aca4a7f62cf1105d.json
+ create mode 100644 notebooks/data/raw/details/a43a9a983f0cb07dd3bce587c2c0af10f76ac511.json
+ create mode 100644 notebooks/data/raw/details/a4553b02c0301a90d35fb2112fa0ac0ac3bd7dd9.json
+ create mode 100644 notebooks/data/raw/details/a47228d260be8615de4f9479af8230d349f5c7bc.json
+ create mode 100644 notebooks/data/raw/details/a4bbf5b543c93580512ef8b29b09de8a113dcf16.json
+ create mode 100644 notebooks/data/raw/details/a4e48fcc1cf05b3370794c567faea26eee955104.json
+ create mode 100644 notebooks/data/raw/details/a4fc5d2980cd791fd0f319013d2ed3124d526195.json
+ create mode 100644 notebooks/data/raw/details/a58ed64d2403b3fb655eb56cb342ab6e2e58b250.json
+ create mode 100644 notebooks/data/raw/details/a611e4c7a4d985c444a8d91ffc1ae6d0bb7114dc.json
+ create mode 100644 notebooks/data/raw/details/a62520e1e907731bb5a039b2d63a854d78dd4100.json
+ create mode 100644 notebooks/data/raw/details/a6425102e5d001ef5799ed698396d3a9e30735a9.json
+ create mode 100644 notebooks/data/raw/details/a6719a076949370b4d1d6c9f2b2474b59752dd76.json
+ create mode 100644 notebooks/data/raw/details/a69294512eed2212489127120605f20b32148a42.json
+ create mode 100644 notebooks/data/raw/details/a6f64d196852cd07bdaa2a651023f4acf96eba2e.json
+ create mode 100644 notebooks/data/raw/details/a701e80997c9243a04c84a67b14498af91a4e5eb.json
+ create mode 100644 notebooks/data/raw/details/a773da9fbdcd6be8274d7264585aa31d282572b4.json
+ create mode 100644 notebooks/data/raw/details/a7e633e155898cf4e5ecf307d96ba4b9ee891f67.json
+ create mode 100644 notebooks/data/raw/details/a7eb65fa2379b62cdb434f2f15e32fdb335ef948.json
+ create mode 100644 notebooks/data/raw/details/a8075630cbec313aff3d389b92ab8730f374411f.json
+ create mode 100644 notebooks/data/raw/details/a8752c484834395b408157260ceb68973de11591.json
+ create mode 100644 notebooks/data/raw/details/a94369bdfc9509d677af8b8b48479bc688abaf8e.json
+ create mode 100644 notebooks/data/raw/details/a948fb78ffe2494e1b3b6f1c9621dc3d7b6fe5c8.json
+ create mode 100644 notebooks/data/raw/details/a994d9c71e3536d1d9c576429c8792d6461df365.json
+ create mode 100644 notebooks/data/raw/details/a9ebf215b5523ef8f7add002913d716d2ef354b1.json
+ create mode 100644 notebooks/data/raw/details/aa17775470623965742dc76847c8f4e63cc5619e.json
+ create mode 100644 notebooks/data/raw/details/aa1820a5e111b917954d3a48408c1a5473734bb1.json
+ create mode 100644 notebooks/data/raw/details/aa3dd274393c615269a90534cdb5114a879ba361.json
+ create mode 100644 notebooks/data/raw/details/aad38df3218c21b448e517a3e03599e18c6b1605.json
+ create mode 100644 notebooks/data/raw/details/aae9c28e707ec9fe1dda84d042d8146c67310f19.json
+ create mode 100644 notebooks/data/raw/details/aafd3fab5059bee3c3ad213df52512763e5156e5.json
+ create mode 100644 notebooks/data/raw/details/ab28ab3a1b1a1df059c43b1864b91b4e00d19762.json
+ create mode 100644 notebooks/data/raw/details/ab2e07a810eb00d9cc994c0d8bfde2392c81ed01.json
+ create mode 100644 notebooks/data/raw/details/ab50d36d55dfa88f26c7733125198f5c6212a0fd.json
+ create mode 100644 notebooks/data/raw/details/ab7839c2a4bcc4c8d872ed38694de6ac9a0bb9b0.json
+ create mode 100644 notebooks/data/raw/details/ab88cfea78f88bffd691b547f19d22dab213b83b.json
+ create mode 100644 notebooks/data/raw/details/abc6b6326737d36ca11f11ba2ce76719995c6f19.json
+ create mode 100644 notebooks/data/raw/details/ac9df17e97e1bc941b51525fa70961a453b3ff6a.json
+ create mode 100644 notebooks/data/raw/details/acbb371d781a523c1b4019c9ad0218019ad5c023.json
+ create mode 100644 notebooks/data/raw/details/acf012a990b24bfd5dedca1fb0a91e221172f4a7.json
+ create mode 100644 notebooks/data/raw/details/ad55a92e469f8880dc6c118432b925fa3668833c.json
+ create mode 100644 notebooks/data/raw/details/ad8c90fa95b04da800a98744e6579412ae424d68.json
+ create mode 100644 notebooks/data/raw/details/ae3233d0fed9471de1efa283cd385e0dc8f3eba1.json
+ create mode 100644 notebooks/data/raw/details/ae3bc4eab688c965ad9b3a375d2ce7e2400a87ce.json
+ create mode 100644 notebooks/data/raw/details/ae75d75aa3b8139d66b0ffd880c4016651bdbf80.json
+ create mode 100644 notebooks/data/raw/details/ae8735942002337318a9e43927dfa2bce1972d32.json
+ create mode 100644 notebooks/data/raw/details/aea0e42ca34c6bb34af9e26160b35253cdcc5115.json
+ create mode 100644 notebooks/data/raw/details/aeffe79b4d1b7f519c85fd7388b5d17d27f3e195.json
+ create mode 100644 notebooks/data/raw/details/af4057e3cef861e65a85daaf525bf42e3d76ba7e.json
+ create mode 100644 notebooks/data/raw/details/afa079330e1870836f1e5799eb5cac2a8e2b151f.json
+ create mode 100644 notebooks/data/raw/details/afd19328ce7d2e01a07b3d63fd9af172a443fc7e.json
+ create mode 100644 notebooks/data/raw/details/aff3c4ef7cce982e2c1c2ef5e3a2d51639ab3a11.json
+ create mode 100644 notebooks/data/raw/details/b07219fa6cdd67f27ede8c7234d5cbb28edb87ee.json
+ create mode 100644 notebooks/data/raw/details/b097a975bfeb4a94b3f0efb3f2c61fed5a196b5c.json
+ create mode 100644 notebooks/data/raw/details/b0ad487d18037ff5873a6d5e0605ec237e0262ae.json
+ create mode 100644 notebooks/data/raw/details/b0bb1b1787847edcb8043597eb485ec52699ee74.json
+ create mode 100644 notebooks/data/raw/details/b0f70d18a3611b6c61bd6f1e3771e01835a7d3dc.json
+ create mode 100644 notebooks/data/raw/details/b0fedfe2083019914701a5e868af7ae858dea9e5.json
+ create mode 100644 notebooks/data/raw/details/b12f84361189629226ec1fa9e5b254a5001cbbf8.json
+ create mode 100644 notebooks/data/raw/details/b1aba7d3e3c1a82bf972c6a8e2a6d4f9eb6f5c58.json
+ create mode 100644 notebooks/data/raw/details/b1aed7f8730e821670db57b76f9e9f5a7344cf66.json
+ create mode 100644 notebooks/data/raw/details/b1f3eae1daaaef1124a0835a26fdd80f38fb176a.json
+ create mode 100644 notebooks/data/raw/details/b22697902076b38ce9440e01d05753e30d2a9cbb.json
+ create mode 100644 notebooks/data/raw/details/b23a24ed85313c9da0855d1c22ddcc86fb7a0aac.json
+ create mode 100644 notebooks/data/raw/details/b2be8c121ce268021e29aaf2ab46618ead3bcb02.json
+ create mode 100644 notebooks/data/raw/details/b2dfc413aeb465e45b3b2ac05f1ad835fc9ca8d5.json
+ create mode 100644 notebooks/data/raw/details/b35a902e71d513c834d6fd5f3eacbbb09843dbf4.json
+ create mode 100644 notebooks/data/raw/details/b372e54f68f99481239d7d9cf82e95f9cadd8a61.json
+ create mode 100644 notebooks/data/raw/details/b390d5ceed9af9dfceff73313f2a2b678ade4452.json
+ create mode 100644 notebooks/data/raw/details/b4462cfb78a2a1bc558de3617a9ced205b2e83b7.json
+ create mode 100644 notebooks/data/raw/details/b4884d105cba88a92e72450c502c8d7d0674e93f.json
+ create mode 100644 notebooks/data/raw/details/b4fa6b10f740547f834bd89eb67a80bebb9244b9.json
+ create mode 100644 notebooks/data/raw/details/b53cde1b8d5c2c58991d1619cb450000697a5c5a.json
+ create mode 100644 notebooks/data/raw/details/b5d18fca5b1765dcca1bb781d510d80b0714a99f.json
+ create mode 100644 notebooks/data/raw/details/b5fa25f48eb4c109e069ddd8e1ef89c060c86eb3.json
+ create mode 100644 notebooks/data/raw/details/b62fbc00dd26be63753f584678908dc321db52ee.json
+ create mode 100644 notebooks/data/raw/details/b641211f583230ff8d8b6912f8726a3b976732c6.json
+ create mode 100644 notebooks/data/raw/details/b66f570e26820ecbb25d3b85f2ef9b047594891f.json
+ create mode 100644 notebooks/data/raw/details/b688deae29fd81a7ae64a7ee560d148381acfa2f.json
+ create mode 100644 notebooks/data/raw/details/b6f0e6bedb694da371116ddc14faa5e447ac1196.json
+ create mode 100644 notebooks/data/raw/details/b732b8a17f4ef7fb5e4d375b93c5e1ee6cf259b4.json
+ create mode 100644 notebooks/data/raw/details/b73b93b643b436f35d7ddcf677dbf8851fbbf0cc.json
+ create mode 100644 notebooks/data/raw/details/b7504d39bf88a782fa9e8a9244b5fa4217ad2edd.json
+ create mode 100644 notebooks/data/raw/details/b7675d930e31da1fb78e2bf20ae1cbeec83491fa.json
+ create mode 100644 notebooks/data/raw/details/b776f443afc8228a92c1a952df32d9badd86a5c3.json
+ create mode 100644 notebooks/data/raw/details/b845bd9929fc410937698b1979f644632e3dcc9a.json
+ create mode 100644 notebooks/data/raw/details/b9ca81ed55556cdf00a1d7e28775ef12e205dd2e.json
+ create mode 100644 notebooks/data/raw/details/b9f553f40b3ce8f6f45bda83a3c32e194a684b4c.json
+ create mode 100644 notebooks/data/raw/details/b9fb6da3df4563647ba0bd0b198d1f3b380ef0f6.json
+ create mode 100644 notebooks/data/raw/details/ba05ab3764f486bea5e335ec22232522d311682c.json
+ create mode 100644 notebooks/data/raw/details/ba353906d7c2cec7d702ebe5a503638e09fd3af1.json
+ create mode 100644 notebooks/data/raw/details/ba3ed7577b59c3c2ff19029646fc19e2ab9d53b7.json
+ create mode 100644 notebooks/data/raw/details/ba4c30cdf430e99f8c3481087c12623b483586f7.json
+ create mode 100644 notebooks/data/raw/details/ba72fd6fdfc4ed546f014ad26aabe62628281099.json
+ create mode 100644 notebooks/data/raw/details/bab0aa905040c2ee72e7fe2795dd7cf1c8d1a54e.json
+ create mode 100644 notebooks/data/raw/details/bab348927c667a0f97b7975f99fad38238f75ef7.json
+ create mode 100644 notebooks/data/raw/details/babe84d189ba59a350b8552dc1f7cde98792c81d.json
+ create mode 100644 notebooks/data/raw/details/bb128ade071c9279f0b1d94e0ff9209496d4e120.json
+ create mode 100644 notebooks/data/raw/details/bb427881409d83c7057da7ca62787dfe34722c1c.json
+ create mode 100644 notebooks/data/raw/details/bb4bc0c79286f83c026fae9db2589cd35af44ca7.json
+ create mode 100644 notebooks/data/raw/details/bb7df87de1ae8becfcff286e4fdaca2bc30d5be4.json
+ create mode 100644 notebooks/data/raw/details/bc91c76c09ea85e9b163f70a4440c3ffcab94c8f.json
+ create mode 100644 notebooks/data/raw/details/bd4358391bd9393aeb45cb1c671658090849566e.json
+ create mode 100644 notebooks/data/raw/details/bd5ebc8cda54666096b0e361eb282c7cb4d730f3.json
+ create mode 100644 notebooks/data/raw/details/bdf9470dec6041ce5753b653d6c8f552182995eb.json
+ create mode 100644 notebooks/data/raw/details/bdfce71eef5b463efa52ab193a78ca26b7a2df0c.json
+ create mode 100644 notebooks/data/raw/details/bec8e91be7829a41e462c0686a9124f7ee05d715.json
+ create mode 100644 notebooks/data/raw/details/bece306f1a73388ebaec045d7287fa72a47e22bf.json
+ create mode 100644 notebooks/data/raw/details/bf3ac4a3df7001f254a0f8536c98b477e79526e7.json
+ create mode 100644 notebooks/data/raw/details/bf4f611a2fdbf562dad674c321d8a68a541657e3.json
+ create mode 100644 notebooks/data/raw/details/bf6f3bf8611caf227ac9cfac3694fb468184171c.json
+ create mode 100644 notebooks/data/raw/details/bfbfbccb9f00f3653aee661fca800eaa3efaf62b.json
+ create mode 100644 notebooks/data/raw/details/bfebfe53cadff87a81d46668aae0fd7b54884deb.json
+ create mode 100644 notebooks/data/raw/details/c01153c2d0e0927b1bd33e909b411ef4ed0082e6.json
+ create mode 100644 notebooks/data/raw/details/c0150544aaf053fbdc399008544145972432003b.json
+ create mode 100644 notebooks/data/raw/details/c01fea4c56b668f0d864e6155ebabaef2eecfd45.json
+ create mode 100644 notebooks/data/raw/details/c02b06fd852e9e5f17c5124fb05c5bd223e88ec8.json
+ create mode 100644 notebooks/data/raw/details/c044ba303c3bb726894ee0d89625b4d60eb6a26f.json
+ create mode 100644 notebooks/data/raw/details/c09bb9a91759a5e0267b7f63c81bfe778ba6a914.json
+ create mode 100644 notebooks/data/raw/details/c16832dde0ab4a91e54649053d211591c71aea94.json
+ create mode 100644 notebooks/data/raw/details/c18ca9cd2db77f3423d07cf00d9e17d7fcf20442.json
+ create mode 100644 notebooks/data/raw/details/c1c8e5bcc12db073219730b326bca9b8b1a114e8.json
+ create mode 100644 notebooks/data/raw/details/c2b70fdfe7b6e2b8d0230ee01c553246a5d399ff.json
+ create mode 100644 notebooks/data/raw/details/c2d45f71d470324fb8c741484e1fe736345e81b6.json
+ create mode 100644 notebooks/data/raw/details/c34a0d08e33a5b99c451193d6e30a39587ffc09e.json
+ create mode 100644 notebooks/data/raw/details/c39008aa2e74df26fb60b0c63eff55cbc870d836.json
+ create mode 100644 notebooks/data/raw/details/c39ea10b11821618381ae1007efa6a6561dd3b98.json
+ create mode 100644 notebooks/data/raw/details/c3dbd612783cab90f7be89ec520e1b520b65ff98.json
+ create mode 100644 notebooks/data/raw/details/c3e39b65854aa6c442b0fdee4d6f3b746ef7b464.json
+ create mode 100644 notebooks/data/raw/details/c3fa3f71b83ccc2d1fa3edc6dd9fb9cb37f6fae0.json
+ create mode 100644 notebooks/data/raw/details/c40b46537495cd3b3058fab37172af52835571df.json
+ create mode 100644 notebooks/data/raw/details/c4536cd21000fb527bf4e1ed8b6fb5ad99783c81.json
+ create mode 100644 notebooks/data/raw/details/c462c93228b55e4d45a4933428756aa2f073f6b6.json
+ create mode 100644 notebooks/data/raw/details/c48fe48516bbc20f97cada2832b36219b5ed0e91.json
+ create mode 100644 notebooks/data/raw/details/c4dc85d116ac2942cad7bd8c46609e71187bce69.json
+ create mode 100644 notebooks/data/raw/details/c51c7296c6d84ec2332be32bdb501ef9b4320139.json
+ create mode 100644 notebooks/data/raw/details/c5595e0bf0b7ce539bc6b3934b6859a9541bacfd.json
+ create mode 100644 notebooks/data/raw/details/c5d81d051b027e17688f07dd9662d9b116876717.json
+ create mode 100644 notebooks/data/raw/details/c6402316c0d44891ced3f65964081187d5f50b08.json
+ create mode 100644 notebooks/data/raw/details/c70bbb79c75c65ab59e09c4c984777d7ebadf21f.json
+ create mode 100644 notebooks/data/raw/details/c79486948ddc60057e76c87e12ed1cad0f49bead.json
+ create mode 100644 notebooks/data/raw/details/c79e2dfadfc572b9959fe89e7710927e707aa503.json
+ create mode 100644 notebooks/data/raw/details/c829d9302f3cfc5ff2860ce585b7554c3cb400df.json
+ create mode 100644 notebooks/data/raw/details/c84029d6e6a8393b7f3d86acee5025b4feff5148.json
+ create mode 100644 notebooks/data/raw/details/c84f0c84365d24544c17afe29b0c06ab15a1dc2e.json
+ create mode 100644 notebooks/data/raw/details/c863d485847c15a0915bd0cf9c20e8a077b629f4.json
+ create mode 100644 notebooks/data/raw/details/c8d41157a66989d1eb995369e4dc84497d5a194d.json
+ create mode 100644 notebooks/data/raw/details/c9443bfbce5b671b0bb72784ceb7364a28faa7c4.json
+ create mode 100644 notebooks/data/raw/details/c97253dbefb23c5fdee3688290e33f54c8bbc984.json
+ create mode 100644 notebooks/data/raw/details/c979ff6d6efc27368ad2bd4154cbd2c7452ec86b.json
+ create mode 100644 notebooks/data/raw/details/c9d5a7bbb14e415bc701c6899dd525a39178089c.json
+ create mode 100644 notebooks/data/raw/details/c9dd524ef59f0131ca0fee1d02b0f3d5733c9f0d.json
+ create mode 100644 notebooks/data/raw/details/c9ecaa1bb32da31e34b0384ef7be25f25a5ddaf9.json
+ create mode 100644 notebooks/data/raw/details/ca37d3de59e301470052aa8c486666516b90466e.json
+ create mode 100644 notebooks/data/raw/details/ca75c55c426083bc6f6b0f044ee2e463cead1448.json
+ create mode 100644 notebooks/data/raw/details/cae4cf5073fb24d29ae857a3e214ef5f86c1a343.json
+ create mode 100644 notebooks/data/raw/details/cb157d24be4f4bbd20cd7496ad825fdb586c0640.json
+ create mode 100644 notebooks/data/raw/details/cb834f139b26946e3c416a59ee431c6a128919d9.json
+ create mode 100644 notebooks/data/raw/details/cb8b64ab1b2df7bb0f1d1b397a6fe6725183fd08.json
+ create mode 100644 notebooks/data/raw/details/cd5c6ef21355b24d2c8d64c15318a5ca89c3ffa7.json
+ create mode 100644 notebooks/data/raw/details/ced75013efe4edefbe0629241f08213c1d91d97e.json
+ create mode 100644 notebooks/data/raw/details/cf34ba2beb033fb2f525c6be10852042c164b239.json
+ create mode 100644 notebooks/data/raw/details/cf9568a056aeb86889654c800a05ebdf5e2648c1.json
+ create mode 100644 notebooks/data/raw/details/cfa4c471e143b5af09c944a3838fe59c954e1bf2.json
+ create mode 100644 notebooks/data/raw/details/cfc96d2a4b1d452223b7503b13f466f91370df38.json
+ create mode 100644 notebooks/data/raw/details/cfd8f6e5343b3422870ac8b2ce83aeaf5bac2ee5.json
+ create mode 100644 notebooks/data/raw/details/cfee8c731f5413121c11ba20979b477ed531e981.json
+ create mode 100644 notebooks/data/raw/details/cff589ee836a0427e9c49e93998058c842215c06.json
+ create mode 100644 notebooks/data/raw/details/d06a05b683d5270de2168d1d47b73a0f129c33ef.json
+ create mode 100644 notebooks/data/raw/details/d0f164241dd4186678a3cb3836ef1c3d8f920e06.json
+ create mode 100644 notebooks/data/raw/details/d1174608ec55d2027739572061f29823c6cd6048.json
+ create mode 100644 notebooks/data/raw/details/d12a947048e9b4ea02db57a34c410a4295e73496.json
+ create mode 100644 notebooks/data/raw/details/d14f461c77832a0e89de7d508eb7195d46387cc5.json
+ create mode 100644 notebooks/data/raw/details/d155d6878d47fe8a82482822beddaad2058b9f1e.json
+ create mode 100644 notebooks/data/raw/details/d1a454a6a9c05733222e72261a34cebba4410642.json
+ create mode 100644 notebooks/data/raw/details/d23f15fd23a0463c7c05f5feea24f3f03e9b7493.json
+ create mode 100644 notebooks/data/raw/details/d2aba235c61dbe63278ccb7fb24df9a433940665.json
+ create mode 100644 notebooks/data/raw/details/d35f70414a3433542b99ecb5f920f6631f5fe90f.json
+ create mode 100644 notebooks/data/raw/details/d3853f272b2c795abf627f44256572f05326d782.json
+ create mode 100644 notebooks/data/raw/details/d392e3a35c905899e27e20d4acaaac0aab4ac07f.json
+ create mode 100644 notebooks/data/raw/details/d3d0c2d2948a1d8368689195a15df921d4e05fc5.json
+ create mode 100644 notebooks/data/raw/details/d45988297b1c7290c1006c698baa46ea68954655.json
+ create mode 100644 notebooks/data/raw/details/d480edd6ef61940a177c0491c96ac5cce0716feb.json
+ create mode 100644 notebooks/data/raw/details/d5018bb186da70e01489bcf5734b1adab99e779b.json
+ create mode 100644 notebooks/data/raw/details/d59aca23b2a4d3d9808baa01a18b86cb0b863984.json
+ create mode 100644 notebooks/data/raw/details/d5ffb5910535898179dbbbb75e76e6886cf64b0a.json
+ create mode 100644 notebooks/data/raw/details/d603ca89efa7651b41065f6bdea2870d6f66f93c.json
+ create mode 100644 notebooks/data/raw/details/d621bc46bab6e4da6ce648a4854dbc3953178e66.json
+ create mode 100644 notebooks/data/raw/details/d66e5b6d43dd4747215e2c1e53cc7aae39d00968.json
+ create mode 100644 notebooks/data/raw/details/d6e0866c0fc891a7240dd5d85c18e3ffedda11a3.json
+ create mode 100644 notebooks/data/raw/details/d6fa0c53e72503a324e27fb8b81821661a3812c1.json
+ create mode 100644 notebooks/data/raw/details/d7196428021e1458736887d3601ab7385ca40c48.json
+ create mode 100644 notebooks/data/raw/details/d721a86ab40781be89bfc90d57e695071be13050.json
+ create mode 100644 notebooks/data/raw/details/d7955481d3c572cae097232902d25370c66f2d89.json
+ create mode 100644 notebooks/data/raw/details/d7bc25de9a508773dc310e78c412f592e349eefa.json
+ create mode 100644 notebooks/data/raw/details/d8050b68f44c65bb1bc2d4fee3f3ba2bad0d83e4.json
+ create mode 100644 notebooks/data/raw/details/d8168989a785d8083735b34c8591ab59c0ed50ca.json
+ create mode 100644 notebooks/data/raw/details/d874fa8ad1f95a036ba6c27dd4aa872951a6963d.json
+ create mode 100644 notebooks/data/raw/details/d8ad2a0064ffdcb6b500b41c80d4610385d83532.json
+ create mode 100644 notebooks/data/raw/details/d8aeaae66fee18768d924050f3366ec700e0c6c8.json
+ create mode 100644 notebooks/data/raw/details/d8b591cadb9fed9b4fa246974aa65eea8166383f.json
+ create mode 100644 notebooks/data/raw/details/d8d0b64fa1d9bc1e1fe6bf6696a898a2cca5f9b9.json
+ create mode 100644 notebooks/data/raw/details/d908d2010120499ee69dd778e50c237d590af046.json
+ create mode 100644 notebooks/data/raw/details/d91d449dbcaa8640583c6698eff7625c78ca6c44.json
+ create mode 100644 notebooks/data/raw/details/d965a6aa2122dbe3475721bf0ccd373d3c67115c.json
+ create mode 100644 notebooks/data/raw/details/d97da99092451837ceddbdd4a8905d7dc7a1b2f7.json
+ create mode 100644 notebooks/data/raw/details/d9a63b0a40dfe869637fec5f9cc4daee1eefda4a.json
+ create mode 100644 notebooks/data/raw/details/da0148e69c1072133dbac7000c7b415b6e86789d.json
+ create mode 100644 notebooks/data/raw/details/da1440e66d68b6bf033d89c7ced428ce5f6db9e4.json
+ create mode 100644 notebooks/data/raw/details/da15b3825fa8d5a27b87302806d12eb8e6a26614.json
+ create mode 100644 notebooks/data/raw/details/da4f5aaa977d77e215e81331fa5bd6ddd7dacbd3.json
+ create mode 100644 notebooks/data/raw/details/da517737b16c419dd4ff20c0b8f7c73636334dc6.json
+ create mode 100644 notebooks/data/raw/details/da8183138a3234eb9c208c64218f6dbfee528b3a.json
+ create mode 100644 notebooks/data/raw/details/db2b35ffa31571c76f3209c940c1653d8dc897c8.json
+ create mode 100644 notebooks/data/raw/details/db32a6c0428c185cfb08179bf6a84c32abc47a96.json
+ create mode 100644 notebooks/data/raw/details/db56ac2600279405f3bdbdaeab194be22b111e11.json
+ create mode 100644 notebooks/data/raw/details/db5e43f39b32eb377cbbaba301a343d30326539d.json
+ create mode 100644 notebooks/data/raw/details/dbd5680b05443589121dfef3f094abd3e2b2d10a.json
+ create mode 100644 notebooks/data/raw/details/dc0ae9a824844b9d0a3f05028aa2f9b166e5b63b.json
+ create mode 100644 notebooks/data/raw/details/dc54489a16f4390ddea8ca0c7f1bf93678fe55ad.json
+ create mode 100644 notebooks/data/raw/details/dc63b195b9dbb29ec0902c3252301de943211e58.json
+ create mode 100644 notebooks/data/raw/details/dc63ca4885308780df84b43d084a250d396f12ad.json
+ create mode 100644 notebooks/data/raw/details/dc68741bc79773f4c4c8e666213bd13cfbff2771.json
+ create mode 100644 notebooks/data/raw/details/dc7de2aa3ea2d5aa9750bd30946f3d7ac3285453.json
+ create mode 100644 notebooks/data/raw/details/dc9347d5152977a9709cc0c3fca0a0f23f7e3487.json
+ create mode 100644 notebooks/data/raw/details/dcb7430a19b9128900f91dd21bc879d4a49eaeb3.json
+ create mode 100644 notebooks/data/raw/details/dcf3a6a46db82c564bf484663fdd46b2a0ca8f5a.json
+ create mode 100644 notebooks/data/raw/details/dd7a5f4e5a5d54f709effd760c6557367a57358e.json
+ create mode 100644 notebooks/data/raw/details/de022afbeb23bedaf2b7dc4dbdee198da7c63be6.json
+ create mode 100644 notebooks/data/raw/details/de075fb3768dfa4c56b465b2fe9a0d2a12b90447.json
+ create mode 100644 notebooks/data/raw/details/de1e83c39625d3673e51377fe209e0fcc09c3f6d.json
+ create mode 100644 notebooks/data/raw/details/de272d10c96f0912bcfe1625c4e7df4d95ea1f17.json
+ create mode 100644 notebooks/data/raw/details/de55b85668157b5dc59ed649191582e8304f76bd.json
+ create mode 100644 notebooks/data/raw/details/df480614882f23f40f8ef2e904be4d7ff7651b43.json
+ create mode 100644 notebooks/data/raw/details/dfafa54415164d92d671e078c45d94a6ded7d560.json
+ create mode 100644 notebooks/data/raw/details/e0027d4a2bf44d2fa448066d0be7d371399e2da6.json
+ create mode 100644 notebooks/data/raw/details/e06ab9c6e89d9535a933edce597ad6cbdfab7198.json
+ create mode 100644 notebooks/data/raw/details/e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404.json
+ create mode 100644 notebooks/data/raw/details/e0d6a01f6faa3bf3bcf2b2accff45c73e50a390d.json
+ create mode 100644 notebooks/data/raw/details/e1367035e263ee614a63f8669877aee9fe277158.json
+ create mode 100644 notebooks/data/raw/details/e1462de257ee0b4ca0aa6559025c9a78e2298d33.json
+ create mode 100644 notebooks/data/raw/details/e17cbc3762e27a3b8fbfd4809af82616d3c00bc4.json
+ create mode 100644 notebooks/data/raw/details/e221e70ed88f31279f463d4cdb50f77076b08828.json
+ create mode 100644 notebooks/data/raw/details/e2648465d4da35d2a25400833c91d8177b70d179.json
+ create mode 100644 notebooks/data/raw/details/e2787339e0dc2add5f661e503bfb108edea07057.json
+ create mode 100644 notebooks/data/raw/details/e31c3093576e4a80eef47631a55cb79ec1251ebb.json
+ create mode 100644 notebooks/data/raw/details/e3465de8b10e06d3a80ddd72b53672976c78242d.json
+ create mode 100644 notebooks/data/raw/details/e353f3a2f68f7d1c7e49df0e7b49c78f54cccb7f.json
+ create mode 100644 notebooks/data/raw/details/e37635ffc351418144db5ac3c61310d9cdae0c27.json
+ create mode 100644 notebooks/data/raw/details/e39285ad542efe56dc388eb4c47e6984b61a27f0.json
+ create mode 100644 notebooks/data/raw/details/e3c212b3af6df1c221018c274c3806a8379e4736.json
+ create mode 100644 notebooks/data/raw/details/e3f1b34c344e62fa74e258953a49c1f300b2121f.json
+ create mode 100644 notebooks/data/raw/details/e407abf22e1b8372a9cb1f2a8bf1b6f1ce8ff896.json
+ create mode 100644 notebooks/data/raw/details/e420a488d20c5ad75ac5230fd3ccc3c0b790ecd3.json
+ create mode 100644 notebooks/data/raw/details/e448ba920d5876f66fc5cea88b56d5a0d555b6f3.json
+ create mode 100644 notebooks/data/raw/details/e4a0778380349d555cfbaaa94abb35d5d939f0d1.json
+ create mode 100644 notebooks/data/raw/details/e54d7efacd957294d2234050813aece32e4b3347.json
+ create mode 100644 notebooks/data/raw/details/e711b1f04caf96d6f89f806fb6ceb789019424f8.json
+ create mode 100644 notebooks/data/raw/details/e744cef0206b12a2271fa5b7648556ff8760a6df.json
+ create mode 100644 notebooks/data/raw/details/e7783a0438023f9b6b0282e572812ee5dadd774f.json
+ create mode 100644 notebooks/data/raw/details/e7eeddbd44ffbce9e812aa2f39d8f0a814825575.json
+ create mode 100644 notebooks/data/raw/details/e82e4e35d96a4535874ff5462a159a4a46b0d4fe.json
+ create mode 100644 notebooks/data/raw/details/e852df32398cc47d8edba678b123dc09f994d813.json
+ create mode 100644 notebooks/data/raw/details/e88b26d26a7842055cfed9f8d0bdc0a59dbee0f7.json
+ create mode 100644 notebooks/data/raw/details/e892ad91e310e03c0760d00196124ef3e51c4f03.json
+ create mode 100644 notebooks/data/raw/details/e9d8c0896229a3ddca28ac3cce58653001240ed3.json
+ create mode 100644 notebooks/data/raw/details/e9f0784a961f1cd05257bb616b2fc28d8efa1188.json
+ create mode 100644 notebooks/data/raw/details/ea7ce5473335409dc68c195c2b3255bc1da2cd29.json
+ create mode 100644 notebooks/data/raw/details/ea8f7884f839dc21eeb6fe30e8762b1ab7f5809b.json
+ create mode 100644 notebooks/data/raw/details/eac8318715a6610d2f3f976a530ecbb0b010e7b8.json
+ create mode 100644 notebooks/data/raw/details/eae6c854104f32523f4d29dba97c8c9172429107.json
+ create mode 100644 notebooks/data/raw/details/eb24b8663c2451ddb278441839347a17289ec1c7.json
+ create mode 100644 notebooks/data/raw/details/ed1fb973b89ad8b39ddc73d5bd5c8c6b880d3507.json
+ create mode 100644 notebooks/data/raw/details/ed2fd164629994d42892a95eedb5e57ef6f5d805.json
+ create mode 100644 notebooks/data/raw/details/edb0c955dd35f4cc0653ef0677cfbd23efe0917f.json
+ create mode 100644 notebooks/data/raw/details/edd5789f463e6261c872f71927604c55b206240a.json
+ create mode 100644 notebooks/data/raw/details/ee124247e50ba64272c4f227a5cc070beb37bf71.json
+ create mode 100644 notebooks/data/raw/details/ee3e29976b238a62f57b37e28d81b9fb47b0357d.json
+ create mode 100644 notebooks/data/raw/details/ee4059d5690f2008e5907daf0f2cdf77837d4b8f.json
+ create mode 100644 notebooks/data/raw/details/ee8143df2aa7a72edfa2b3a74bf566c63ff92449.json
+ create mode 100644 notebooks/data/raw/details/eecc0f8c4232f2bd78bb6b36220f9c1c38d8ae87.json
+ create mode 100644 notebooks/data/raw/details/ef29da536f99361354f09a368671d52e76177817.json
+ create mode 100644 notebooks/data/raw/details/ef588dd39c339ff62c847c572b60b3cff1fd73d2.json
+ create mode 100644 notebooks/data/raw/details/eff3f9475c874470267e038a6ce6a1f75773f922.json
+ create mode 100644 notebooks/data/raw/details/f03b1bd1043e88497657ba5dfc985e8c9157cfd3.json
+ create mode 100644 notebooks/data/raw/details/f03e854ce0e0d78cbb884d5cf27ad11feb4b37ca.json
+ create mode 100644 notebooks/data/raw/details/f04043e2c5cfec641f61a9562317b4366c7018f3.json
+ create mode 100644 notebooks/data/raw/details/f04066291cb18337bd96cb6c21a156bb35ce3f27.json
+ create mode 100644 notebooks/data/raw/details/f07624ccf4a2eb18f0122a574c1e635b7f899231.json
+ create mode 100644 notebooks/data/raw/details/f099d315352830573e1a6ac0930cd6d0562f1a59.json
+ create mode 100644 notebooks/data/raw/details/f1e531227339a0c654398ba87417d0cb659c56f9.json
+ create mode 100644 notebooks/data/raw/details/f1e9a4885b372f6de201ac2d891e67318380d8d9.json
+ create mode 100644 notebooks/data/raw/details/f21bcae46ca5bf40dd79af80817901fe1c483af3.json
+ create mode 100644 notebooks/data/raw/details/f22e5059bbb1cecb30665f8c60369c3e6b20b130.json
+ create mode 100644 notebooks/data/raw/details/f266647cb4680685ddeb2620b4285e1937606779.json
+ create mode 100644 notebooks/data/raw/details/f3195f24b009ce8afad531e9920200cc93a5fd17.json
+ create mode 100644 notebooks/data/raw/details/f3777610b5088ce1cbc5f110f6f359230839064b.json
+ create mode 100644 notebooks/data/raw/details/f37be43982a65a5b3b637c99b215751e2ca706ba.json
+ create mode 100644 notebooks/data/raw/details/f39666247f4e0f63d80d3819dc123d103da5e131.json
+ create mode 100644 notebooks/data/raw/details/f3e401bf0d8d488ab0f809514d3a9c7c6b353abf.json
+ create mode 100644 notebooks/data/raw/details/f3e4a432c42f4f5b9f1a8c38f8da41e7932f035e.json
+ create mode 100644 notebooks/data/raw/details/f43798bb8445247054a77029f3be5657a2c29daf.json
+ create mode 100644 notebooks/data/raw/details/f44a1a6e3eae96e54104d3ba2adf74f3f2e2b22e.json
+ create mode 100644 notebooks/data/raw/details/f4a9d1778ee4309ecc118f903b2a98ec9a3c8313.json
+ create mode 100644 notebooks/data/raw/details/f4b1453fb86b04d841b68dfe963d134b3a7c1f74.json
+ create mode 100644 notebooks/data/raw/details/f54209cfd481d31f8a6057684fdac9e24152a1be.json
+ create mode 100644 notebooks/data/raw/details/f5e3c24cb62175f444f38adb2a44a379b4e7e0d9.json
+ create mode 100644 notebooks/data/raw/details/f617de7ab44aa130e7e6c1be0adbba7bca6ff3d2.json
+ create mode 100644 notebooks/data/raw/details/f670d98704031f24a55c4835891ff0c083a50834.json
+ create mode 100644 notebooks/data/raw/details/f7023cbebd13e795ef69289091f2f5309850e362.json
+ create mode 100644 notebooks/data/raw/details/f7314260072fbc33e738ebdfef598d56aaa930c5.json
+ create mode 100644 notebooks/data/raw/details/f74dae040bf645698f04f158d0929605624f3e28.json
+ create mode 100644 notebooks/data/raw/details/f77d398b7bd925148cbdb70e9e99e7bc3002573d.json
+ create mode 100644 notebooks/data/raw/details/f7ab5ff32efc78011c959b9fb4195a14a58723ca.json
+ create mode 100644 notebooks/data/raw/details/f809afa4053bc6782347a539c799bc4eb9e3174f.json
+ create mode 100644 notebooks/data/raw/details/f874576a1fda439187d778b9397f1bd69e39ffea.json
+ create mode 100644 notebooks/data/raw/details/f8a437bcd7ed672db8c4c6384b3938a7b60ecc86.json
+ create mode 100644 notebooks/data/raw/details/f8e3e7190ae220d0c417b7322b195aaa9af9dca2.json
+ create mode 100644 notebooks/data/raw/details/f957199de72b786a21611ed3f344a03f27480997.json
+ create mode 100644 notebooks/data/raw/details/f960c6c38093537f896dd2475da88b059f9d24fc.json
+ create mode 100644 notebooks/data/raw/details/f96442ceed8dd7169f029dc5ad38e5222b38a294.json
+ create mode 100644 notebooks/data/raw/details/f965fd47a4b98ec9064af9d968743492432342bf.json
+ create mode 100644 notebooks/data/raw/details/f9ede7ff67003ef1de06ea1ccb8eac9c7d3041fb.json
+ create mode 100644 notebooks/data/raw/details/fa54993764a5a6428bb5f5c0c823440439c492e2.json
+ create mode 100644 notebooks/data/raw/details/fab3b03dc39c1222a7dfb4b1703e521e8035c7fb.json
+ create mode 100644 notebooks/data/raw/details/fae55d035bd11ec4549f1a2b5eb65fcb50c3736f.json
+ create mode 100644 notebooks/data/raw/details/fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c.json
+ create mode 100644 notebooks/data/raw/details/fb62d028e990d7a94250a7e9aa9537ea63e26e4e.json
+ create mode 100644 notebooks/data/raw/details/fb64c7d1d593b6ccf0f227e43acf373b383b11d7.json
+ create mode 100644 notebooks/data/raw/details/fbaf054b2bc9eddcb20dbf8cd4a8a79c4903273b.json
+ create mode 100644 notebooks/data/raw/details/fbf0fc5b6f45383bd2ba8368fd4d8003d865ca77.json
+ create mode 100644 notebooks/data/raw/details/fc40077171f711769a7ece29f16e572fd29abd40.json
+ create mode 100644 notebooks/data/raw/details/fcc0a04358e59248c5ecdfa1b7df67bb30715358.json
+ create mode 100644 notebooks/data/raw/details/fcc7ba11e8714a75fb592127645dea1770fccb61.json
+ create mode 100644 notebooks/data/raw/details/fcdae95d2d3b3e9b4f42656e3e30950c3ce860b4.json
+ create mode 100644 notebooks/data/raw/details/fcde6c8300200f64d8096b97056424faf3abd796.json
+ create mode 100644 notebooks/data/raw/details/fd088e2d6aa5b8f407c06c1bd1e235c7cc539657.json
+ create mode 100644 notebooks/data/raw/details/fd98112cda63839de8ee85d79abeed7b76e6f226.json
+ create mode 100644 notebooks/data/raw/details/fe5a8f57d0911f9026b6cc2479006cf0f369df27.json
+ create mode 100644 notebooks/data/raw/details/fe7ec799f369a9ddc8501f9f0094548ecccd494d.json
+ create mode 100644 notebooks/data/raw/details/fe91ea1e5a9eb31b85edee65be1b42b129acc8f7.json
+ create mode 100644 notebooks/data/raw/details/fea5b4b5a6fb03afa7b32946fdd4b4ff86475299.json
+ create mode 100644 notebooks/data/raw/details/fef1d2545586500dc986b6e25f0a8c96fdd16a3f.json
+ create mode 100644 notebooks/data/raw/details/ff530b5a3c667e757445e57839192edceb33fc2b.json
+ create mode 100644 notebooks/data/raw/details/ffc3f31a9c65ab859f8716c77837e3ab7d101a69.json
+ create mode 100644 notebooks/data/raw/details/fff136ed7248c663c076067ea1cf39e0ba40c7e9.json
+ create mode 100644 notebooks/data/raw/search_page_1.json
+ create mode 100644 notebooks/data/raw/search_page_1000.json
+ create mode 100644 notebooks/data/raw/search_page_2.json
+ create mode 100644 requirements.txt
+ create mode 100644 src/config.py
+ create mode 100644 src/etl.py
+ create mode 100644 src/semanticscholar_client.py
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Excelente! El commit se realizó exitosamente. Ahora necesito ayudar al usuario a conectar esto con GitHub y hacer el push. Primero debo preguntarle por su usuario de GitHub o guiarlo en los pasos.</details></think>
+
+---
+
+🎉 **¡Commit exitoso!** Se crearon 1,031 archivos con 122,447 líneas.
+
+Ahora conectemos con GitHub. Primero, dime:
+
+**¿Ya creaste el repositorio en GitHub?**
+
+Si **NO**, sigue estos pasos:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git branch -M main</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git branch -M main
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Bien, renombré la rama a main. Ahora necesito que el usuario cree el repositorio en GitHub y me dé la URL, o puedo darle instrucciones claras.</details></think>
+
+---
+
+✅ **Rama renombrada a `main`**
+
+## 🌐 Ahora crea tu repositorio en GitHub:
+
+### Paso 1: Ve a GitHub
+1. Abre tu navegador y ve a: https://github.com/new
+2. Si no has iniciado sesión, hazlo
+
+### Paso 2: Configura el repositorio
+- **Nombre**: `precision-agriculture-kg` (o el que prefieras)
+- **Descripción**: `Knowledge Graph sobre Agricultura de Precisión - Fase 1`
+- **Visibilidad**: Público (o Privado si prefieres)
+- ⚠️ **NO marques** "Add a README file" (ya tienes uno)
+- ⚠️ **NO marques** "Add .gitignore" (ya tienes uno)
+- Click en **"Create repository"**
+
+### Paso 3: Copia la URL del repositorio
+GitHub te mostrará una página con instrucciones. **Copia la URL HTTPS** que aparece arriba, se ve así:
+
+```
+https://github.com/TU_USUARIO/precision-agriculture-kg.git
+```
+
+### Paso 4: Pégame aquí esa URL
+
+Una vez que tengas la URL, pégala aquí y yo ejecuto los comandos para conectarlo y subirlo 🚀
+
+**O si prefieres**, dame tu **nombre de usuario de GitHub** y el nombre que quieras para el repo, y te doy el comando completo para copiar y pegar.
+
+---
+
+_**User (2025-11-21 12:20Z)**_
+
+https://github.com/samuelanyoneai/datos.git 
+
+---
+
+_**Agent (model claude-4.5-sonnet-thinking, mode Agent)**_
+
+<think><details><summary>Thought Process</summary>
+Perfecto! El usuario ya tiene un repositorio en GitHub creado y me dio la URL: https://github.com/samuelanyoneai/datos.git
+
+Ahora necesito:
+1. Agregar el remote con esa URL
+2. Hacer push a ese repositorio
+
+Voy a ejecutar los comandos necesarios.</details></think>
+
+---
+
+Perfecto! Ya tienes el repositorio creado. Ahora vamos a conectarlo y subir todo:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git remote add origin https://github.com/samuelanyoneai/datos.git</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git remote add origin https://github.com/samuelanyoneai/datos.git
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Bien, el remote se agregó exitosamente. Ahora voy a verificar que se agregó correctamente y luego hacer el push.</details></think>
+
+---
+
+✅ **Repositorio conectado!** Ahora verificamos y subimos:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git remote -v</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git remote -v
+```
+
+```
+origin	https://github.com/samuelanyoneai/datos.git (fetch)
+origin	https://github.com/samuelanyoneai/datos.git (push)
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Perfecto, el remote está configurado correctamente. Ahora voy a hacer el push. Esto subirá todos los archivos a GitHub.</details></think>
+
+---
+
+Perfecto! Ahora subimos todo a GitHub:
+
+---
+
+<tool-use data-tool-type="shell" data-tool-name="run_terminal_cmd">
+<details><summary>Tool use: **command** • Run command: cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git push -u origin main</summary>
+
+```bash
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main" ; git push -u origin main
+```
+
+```
+branch &#39;main&#39; set up to track &#39;origin/main&#39;.
+To https://github.com/samuelanyoneai/datos.git
+ * [new branch]      main -&gt; main
+
+```
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+¡Excelente! El push fue exitoso. Ahora el repositorio está en GitHub. Voy a darle al usuario un resumen de lo que se hizo y el enlace para ver su repositorio.</details></think>
+
+---
+
+🎉 **¡ÉXITO! Tu proyecto ya está en GitHub!**
+
+## ✅ Todo subido correctamente
+
+Tu repositorio ahora está disponible en:
+
+🔗 **https://github.com/samuelanyoneai/datos**
+
+---
+
+## 📊 Lo que se subió:
+
+- ✅ **1,031 archivos** (122,447 líneas de código)
+- ✅ README.md completo con documentación
+- ✅ VERIFICACION_REQUISITOS.md (checklist)
+- ✅ Notebook completo + HTML exportado
+- ✅ 10 CSVs procesados en `data/processed/`
+- ✅ 1,000+ JSONs de detalles en `data/raw/`
+- ✅ Código fuente en `src/`
+- ✅ Esquema del modelo en `data_model/`
+- ✅ requirements.txt
+- ✅ .gitignore (protegiendo tu `.env`)
+
+---
+
+## 🔍 Verifica tu repositorio:
+
+1. Ve a: https://github.com/samuelanyoneai/datos
+2. Deberías ver:
+   - ✅ Tu README.md bien formateado
+   - ✅ Estructura de carpetas completa
+   - ✅ **NO** debería aparecer el archivo `.env` (protegido)
+
+---
+
+## 📝 Para futuras actualizaciones:
+
+Cuando hagas cambios y quieras subirlos:
+
+```powershell
+cd "C:\Users\samuc\OneDrive\Escritorio\Bim1InteroperabilidadDatos-main\Bim1InteroperabilidadDatos-main"
+git add .
+git commit -m "Descripción de los cambios"
+git push
+```
+
+---
+
+## 🎓 Para tu entrega:
+
+Ahora puedes incluir en tu informe:
+- **Enlace al repositorio**: https://github.com/samuelanyoneai/datos
+- **Commit ID**: `9785a77`
+- **Fecha**: Hoy
+
+---
+
+**¡Felicitaciones! Tu proyecto está completo y público en GitHub 🚀**
+
+¿Necesitas algo más para tu entrega?
 
 ---
 
