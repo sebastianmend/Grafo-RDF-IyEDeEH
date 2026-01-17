@@ -1,0 +1,84 @@
+{
+  "paperId": "1a4897b961d453d6580469a15b0bfdfe42876527",
+  "externalIds": {
+    "MAG": "2954771128",
+    "DBLP": "conf/dev/JainKKSPVSSCBRS19",
+    "DOI": "10.1145/3314344.3332485",
+    "CorpusId": 198697130
+  },
+  "url": "https://www.semanticscholar.org/paper/1a4897b961d453d6580469a15b0bfdfe42876527",
+  "title": "Low-cost aerial imaging for small holder farmers",
+  "venue": "The Compass",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3314344.3332485?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3314344.3332485, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book"
+  ],
+  "authors": [
+    {
+      "authorId": "2110543036",
+      "name": "Aditya Jain"
+    },
+    {
+      "authorId": "2084050",
+      "name": "Zerina Kapetanovic"
+    },
+    {
+      "authorId": "2116451912",
+      "name": "Akshit Kumar"
+    },
+    {
+      "authorId": "3751982",
+      "name": "Vasuki Narasimha Swamy"
+    },
+    {
+      "authorId": "2069242598",
+      "name": "Rohit Patil"
+    },
+    {
+      "authorId": "2343833556",
+      "name": "Deepak Vasisht"
+    },
+    {
+      "authorId": "2111337067",
+      "name": "R. Sharma"
+    },
+    {
+      "authorId": "30576065",
+      "name": "Manohar Swaminathan"
+    },
+    {
+      "authorId": "39403445",
+      "name": "Ranveer Chandra"
+    },
+    {
+      "authorId": "1783539",
+      "name": "Anirudh Badam"
+    },
+    {
+      "authorId": "144172811",
+      "name": "G. Ranade"
+    },
+    {
+      "authorId": "1757937",
+      "name": "Sudipta N. Sinha"
+    },
+    {
+      "authorId": "51464520",
+      "name": "A. Nambi"
+    }
+  ],
+  "abstract": "Recent work in networked systems has shown that using aerial imagery for farm monitoring can enable precision agriculture by lowering the cost and reducing the overhead of large scale sensor deployment. However, acquiring aerial imagery requires a drone, which has high capital and operational costs, often beyond the reach of farmers in the developing world. In this paper, we present TYE (Tethered eYE), an inexpensive platform for aerial imagery. It consists of a tethered helium balloon with a custom mount that can hold a smartphone (or a camera) with a battery pack. The balloon can be carried using a tether by a person or a vehicle. We incorporate various techniques to increase the operational time of the system, and to provide actionable insights even with unstable imagery. We develop path-planning algorithms and use that to develop an interactive mobile phone application that provides the user instant feedback to guide users to efficiently traverse large areas of land. We use computer vision algorithms to stitch orthomosaics by effectively countering wind-induced motion of the camera. We have used TYE for aerial imaging of agricultural land for over a year, and envision it as a low-cost aerial imaging platform for similar applications.",
+  "references": null
+}

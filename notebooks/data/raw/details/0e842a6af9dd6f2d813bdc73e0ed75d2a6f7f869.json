@@ -1,0 +1,49 @@
+{
+  "paperId": "0e842a6af9dd6f2d813bdc73e0ed75d2a6f7f869",
+  "externalIds": {
+    "MAG": "2998074135",
+    "DBLP": "conf/iotsms/SalimaPhA19",
+    "DOI": "10.1109/iotsms48152.2019.8939229",
+    "CorpusId": 209458312
+  },
+  "url": "https://www.semanticscholar.org/paper/0e842a6af9dd6f2d813bdc73e0ed75d2a6f7f869",
+  "title": "Remote Sensing Data: Useful Way for the Precision Agriculture",
+  "venue": "International Conference on Internet of Things: Systems, Management and Security",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iotsms48152.2019.8939229?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iotsms48152.2019.8939229, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1471430006",
+      "name": "Yousfi Salima"
+    },
+    {
+      "authorId": "2105123788",
+      "name": "José Fernando Marin Peira"
+    },
+    {
+      "authorId": "1471426847",
+      "name": "Gregorio rincón de la horra"
+    },
+    {
+      "authorId": "1471427868",
+      "name": "P. V. M. Ablanque"
+    }
+  ],
+  "abstract": "The use of the remote sensing data to scheduling irrigation and fertilization and to predict yield may contribute to a more sustainable agriculture in Mediterranean regions, where irrigation and fertilization are not optimized in terms of timing and quantity. Data of remote sensing techniques using spectral and thermal approaches have been proposed as potential indicators to allowing rapid identification of crop nitrogen status, water stress and plants diseases across large areas. Given their versatility, remote sensing techniques have become valuable tools for precision agriculture, allowing to farmers to practice a more sustainable agriculture, minimizing risks of losing the harvest by providing the resources (water irrigation and fertilizer) needed to secure yield. Here, we review some remote sensing strategies and techniques used for a smart crop management and we discuss the useful of internet and computing programs to analyze the data of these techniques for precision agriculture. Nowadays, the use of software programs is an essential tool for the process and interpretation of data derived from remote sensing technologies, permitting a rapid and accurate farmer’s decisions to improved crop production and farmers’ incomes.",
+  "references": null
+}

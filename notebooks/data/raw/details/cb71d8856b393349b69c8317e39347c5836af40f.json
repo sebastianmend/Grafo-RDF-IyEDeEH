@@ -1,0 +1,63 @@
+{
+  "paperId": "cb71d8856b393349b69c8317e39347c5836af40f",
+  "externalIds": {
+    "MAG": "2907060442",
+    "DBLP": "conf/ieeesensors/PatkarAVAGLBR18",
+    "DOI": "10.1109/ICSENS.2018.8589626",
+    "CorpusId": 57190074
+  },
+  "url": "https://www.semanticscholar.org/paper/cb71d8856b393349b69c8317e39347c5836af40f",
+  "title": "Microcantilever Based Dual Mode Optical Biosensor for Agricultural Pathogen Detection",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSENS.2018.8589626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSENS.2018.8589626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31218822",
+      "name": "Rajul S. Patkar"
+    },
+    {
+      "authorId": "30598830",
+      "name": "M. Ashwin"
+    },
+    {
+      "authorId": "9580384",
+      "name": "M. Vinchurkar"
+    },
+    {
+      "authorId": "49621630",
+      "name": "A. Adami"
+    },
+    {
+      "authorId": "2594901",
+      "name": "F. Giacomozzi"
+    },
+    {
+      "authorId": "67288744",
+      "name": "Leandro Lorcnzclli"
+    },
+    {
+      "authorId": "2094522412",
+      "name": "M. Baghini"
+    },
+    {
+      "authorId": "145328913",
+      "name": "V. Rao"
+    }
+  ],
+  "abstract": "With the aim of increasing crop yields, guiding precision farming applications and for more sustainable disease management practices development of early diagnostics sensors for pathogens in agriculture is vital. A sensitive method of diagnosis which will detect the low concentration of pathogens in the initial stages of infection will allow early diagnosis and help in saving the crop. Microcantilever based biosensors are ideal devices for such kind of applications. This paper presents development of a highly sensitive dual mode operated optical sensor for agricultural pathogen detection. Agricultural pathogen detection using a microcantilever platform in both static and dynamic mode of operation is reported here for the first time. Micromolar concentartion of Ralstonia solanacearum antigens was detected optically by using the ultrasensitive Mecwins® SCALA platform in liquid medium.",
+  "references": null
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "2cb1fad1546476382726f78e0116a1ac28e74f56",
+  "externalIds": {
+    "MAG": "2984058135",
+    "DBLP": "conf/igarss/Venkitasubramony19",
+    "DOI": "10.1109/IGARSS.2019.8899157",
+    "CorpusId": 208037217
+  },
+  "url": "https://www.semanticscholar.org/paper/2cb1fad1546476382726f78e0116a1ac28e74f56",
+  "title": "Lobe Differencing Correlating Radiometer (LDCR) Digital Correlator Spectral Calibration and Characterization",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8899157?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8899157, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31898864",
+      "name": "Aravind Venkitasubramony"
+    },
+    {
+      "authorId": "3060532",
+      "name": "E. Dai"
+    },
+    {
+      "authorId": "1708044",
+      "name": "A. Gasiewski"
+    },
+    {
+      "authorId": "1936127",
+      "name": "M. Stachura"
+    },
+    {
+      "authorId": "48792222",
+      "name": "Jack Elston"
+    }
+  ],
+  "abstract": "The Lobe Differencing Correlating Radiometer (LDCR) developed at Center for Environmental Technology (CET) at CU, Boulder is a lightweight payload for small unmanned aerial systems (sUAS) enabling remote soil moisture measurement for precision agriculture applications. The second revision of the payload (LDCR Rev B) includes a digital correlation detector for which the data processing flow, instrument calibration, and test data analysis is presented. Cross frequency peak detection, time and frequency domain kurtosis, and complex coherence phase were used to characterize radio frequency interference (RFI) in the high spectral resolution radiometric data. A quiescent state performance analysis using matched loads and antennas revealing RFI generated from the radiometer high speed data acquisition system, and the sUAS communication system is discussed.",
+  "references": null
+}

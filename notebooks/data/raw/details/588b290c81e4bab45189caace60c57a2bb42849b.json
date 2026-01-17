@@ -1,0 +1,72 @@
+{
+  "paperId": "588b290c81e4bab45189caace60c57a2bb42849b",
+  "externalIds": {
+    "MAG": "2945581674",
+    "DOI": "10.1088/1755-1315/275/1/012008",
+    "CorpusId": 182862372
+  },
+  "url": "https://www.semanticscholar.org/paper/588b290c81e4bab45189caace60c57a2bb42849b",
+  "title": "Proposal of an ontological approach to design and analyse farm information systems to support Precision Agriculture techniques",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/275/1/012008",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/275/1/012008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/275/1/012008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40383046",
+      "name": "F. Mazzetto"
+    },
+    {
+      "authorId": "19208567",
+      "name": "R. Gallo"
+    },
+    {
+      "authorId": "2065904879",
+      "name": "M. Riedl"
+    },
+    {
+      "authorId": "47341201",
+      "name": "P. Sacco"
+    }
+  ],
+  "abstract": "After a comparative evaluation around the concepts of Industry 4.0, Precision Agriculture and Smart Farming, the paper discusses the necessity of identifying solutions able to apply the methods of the so-called Knowledge Management 4.0 in the agri-environmental enterprises. To this aim, an ontology based on a conceptual map derived from the data-to-information transformation is here proposed to support the design of a new generation of Farm Information Systems (FIS) able to fit the production needs of agri-environmental enterprises. The data-to-information cycle is split into four phases: A) Data collection, B) Data processing, C) Data analysis and evaluation, and D) Use of information. Phases A and D comprise tools of “light digitization” typically referring to OLTP components (On Line Transactional Processes). On their turn, phases B and C are typically formed by “heavy digitization” components (On Line Analytical Processes), generally more complicated to be managed by the farmers directly. The conceptual map defined by the ontology is firstly useful to plan the composition of the FIS according to a modular approach, possibly following a strategy that starts to consider the introduction of OLTP components, for then evolving gradually towards more articulated solutions that include also OLAP component and related functions. In this way, decision makers can manage practical planning instrument able to show clearly the level of complexity a FIS can reach, thus evaluating its sustainability with respect to the financial, cultural and professional resources available at the farm. Finally, after having underlined the opportunities offered by Cloud Computing and widespread connectivity, that provide an easier adoption of OLAP tools, some application cases are presented and discussed.",
+  "references": [
+    {
+      "paperId": "449c2c1551ac4bb5bfe789598dab38df9dfa351c"
+    },
+    {
+      "paperId": "3e3b1e7eb2ed3922abc423cb2bd04bbc494d5cbf"
+    },
+    {
+      "paperId": "55fe6414a0d177c67521a289a986ef27cd62974c"
+    },
+    {
+      "paperId": "b688deae29fd81a7ae64a7ee560d148381acfa2f"
+    },
+    {
+      "paperId": "6380a991fda39fcf20d118d817755314f7203a7c"
+    },
+    {
+      "paperId": "7a2174050be6118b66fd4379cc2ebea6e94d374a"
+    },
+    {
+      "paperId": "4bbd7f9412a37dd9995c45c9019a02f5e13dda57"
+    },
+    {
+      "paperId": "d31958504ac29854dd298584a71defccbe42eb36"
+    }
+  ]
+}

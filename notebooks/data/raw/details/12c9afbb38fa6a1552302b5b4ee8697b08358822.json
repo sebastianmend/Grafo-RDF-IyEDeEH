@@ -1,0 +1,44 @@
+{
+  "paperId": "12c9afbb38fa6a1552302b5b4ee8697b08358822",
+  "externalIds": {
+    "MAG": "2898790531",
+    "DBLP": "conf/dcoss/Huchtkoetter0K18",
+    "DOI": "10.1109/DCOSS.2018.00017",
+    "CorpusId": 53100847
+  },
+  "url": "https://www.semanticscholar.org/paper/12c9afbb38fa6a1552302b5b4ee8697b08358822",
+  "title": "PulseHV: Opportunistic Data Transmissions over High Voltage Pulses for Smart Farming Applications",
+  "venue": "International Conference on Distributed Computing in Sensor Systems",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCOSS.2018.00017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCOSS.2018.00017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "46250397",
+      "name": "Jana Huchtkoetter"
+    },
+    {
+      "authorId": "145147353",
+      "name": "Andreas Reinhardt"
+    },
+    {
+      "authorId": "1756400",
+      "name": "U. Kulau"
+    }
+  ],
+  "abstract": "Wireless Sensor Networks establish the foundation for a revolution in precision agriculture. As an integral part of smart farming systems, they can collect detailed information about crop health, air and soil conditions, and other relevant parameters to support agriculturists in their decision-making. Likewise, decentralized actuation (e.g., opening sprinkler valves) becomes possible when embedded sensor and actuator devices are deployed. From a technical point of view, smart farming systems strongly rely on embedded devices with wireless communication interfaces to cater for their convenient deployment. The operation of their wireless radio transceivers, however, often represents a significant energetic burden. This is particularly conspicuous when compared to the low-power microcontrollers that have become ubiquitous on current-generation sensing systems. We mitigate this issue by following an entirely different approach in this work, namely by exploiting the presence of electric fence energizers that are widely used in farming scenarios. Our solution called PULSEHV modulates data onto the highvoltage electric pulses emitted by fence energizers and thus enables broadcast communications at no extra overhead. As electrical fences commonly encircle entire patches of cropland, they act as large sending antennas; a proximity between deployed sensing devices and this antenna is implicitly ensured thereby. We practically demonstrate how PulseHV accomplishes an effective data rate of 2.7 bit/s through the application of pulse position modulation. This limited throughput is counterbalanced by the fact that receiving the broadcast transmissions incurs virtually no energy overhead.",
+  "references": null
+}

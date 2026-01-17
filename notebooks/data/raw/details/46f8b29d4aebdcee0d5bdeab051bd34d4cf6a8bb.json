@@ -1,0 +1,65 @@
+{
+  "paperId": "46f8b29d4aebdcee0d5bdeab051bd34d4cf6a8bb",
+  "externalIds": {
+    "MAG": "2894431730",
+    "DOI": "10.1002/jms.4292",
+    "CorpusId": 52314605,
+    "PubMed": "30242936"
+  },
+  "url": "https://www.semanticscholar.org/paper/46f8b29d4aebdcee0d5bdeab051bd34d4cf6a8bb",
+  "title": "Metabolomics in the clinic: A review of the shared and unique features of untargeted metabolomics for clinical research and clinical testing.",
+  "venue": "Journal of Mass Spectrometry",
+  "year": 2018,
+  "citationCount": 84,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jms.4016",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jms.4292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jms.4292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40022702",
+      "name": "A. Kennedy"
+    },
+    {
+      "authorId": "2543585",
+      "name": "Bryan M. Wittmann"
+    },
+    {
+      "authorId": "33963284",
+      "name": "A. M. Evans"
+    },
+    {
+      "authorId": "4713774",
+      "name": "Luke A. D. Miller"
+    },
+    {
+      "authorId": "38411720",
+      "name": "D. Toal"
+    },
+    {
+      "authorId": "48760946",
+      "name": "Shaun Lonergan"
+    },
+    {
+      "authorId": "3718606",
+      "name": "S. Elsea"
+    },
+    {
+      "authorId": "4977798",
+      "name": "K. Pappan"
+    }
+  ],
+  "abstract": "Metabolomics is the untargeted measurement of the metabolome, which is composed of the complement of small molecules detected in a biological sample. As such, metabolomic analysis produces a global biochemical phenotype. It is a technology that has been utilized in the research setting for over a decade. The metabolome is directly linked to and is influenced by genetics, epigenetics, environmental factors, and the microbiome-all of which affect health. Metabolomics can be applied to human clinical diagnostics and to other fields such as veterinary medicine, nutrition, exercise, physiology, agriculture/plant biochemistry, and toxicology. Applications of metabolomics in clinical testing are emerging, but several aspects of its use as a clinical test differ from applications focused on research or biomarker discovery and need to be considered for metabolomics clinical test data to have optimum impact, be meaningful, and be used responsibly. In this review, we deconstruct aspects and challenges of metabolomics for clinical testing by illustrating the significance of test design, accurate and precise data acquisition, quality control, data processing, n-of-1 comparison to a reference population, and biochemical pathway analysis. We describe how metabolomics technology is integral to defining individual biochemical phenotypes, elaborates on human health and disease, and fits within the precision medicine landscape. Finally, we conclude by outlining some future steps needed to bring metabolomics into the clinical space and to be recognized by the broader medical and regulatory fields.",
+  "references": null
+}

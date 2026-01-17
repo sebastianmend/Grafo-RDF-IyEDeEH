@@ -1,0 +1,227 @@
+{
+  "paperId": "76323475d0bea30aba464c27ce6a44e62dae1933",
+  "externalIds": {
+    "MAG": "2981288115",
+    "DBLP": "journals/remotesensing/SuSCZYWHZ19",
+    "DOI": "10.3390/rs11202409",
+    "CorpusId": 204854312
+  },
+  "url": "https://www.semanticscholar.org/paper/76323475d0bea30aba464c27ce6a44e62dae1933",
+  "title": "Joint Retrieval of Growing Season Corn Canopy LAI and Leaf Chlorophyll Content by Fusing Sentinel-2 and MODIS Images",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2409/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202409?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202409, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "122174488",
+      "name": "W. Su"
+    },
+    {
+      "authorId": "2291867",
+      "name": "Zhongping Sun"
+    },
+    {
+      "authorId": "2109664784",
+      "name": "Wen-hua Chen"
+    },
+    {
+      "authorId": "49469820",
+      "name": "Xiaodong Zhang"
+    },
+    {
+      "authorId": "2093201240",
+      "name": "Chan Yao"
+    },
+    {
+      "authorId": "2116291824",
+      "name": "Jiayu Wu"
+    },
+    {
+      "authorId": "1768630",
+      "name": "Jianxi Huang"
+    },
+    {
+      "authorId": "2411341",
+      "name": "Dehai Zhu"
+    }
+  ],
+  "abstract": "Continuous and accurate estimates of crop canopy leaf area index (LAI) and chlorophyll content are of great importance for crop growth monitoring. These estimates can be useful for precision agricultural management and agricultural planning. Our objectives were to investigate the joint retrieval of corn canopy LAI and chlorophyll content using filtered reflectances from Sentinel-2 and MODIS data acquired during the corn growing season, which, being generally hot and rainy, results in few cloud-free Sentinel-2 images. In addition, the retrieved time series of LAI and chlorophyll content results were used to monitor the corn growth behavior in the study area. Our results showed that: (1) the joint retrieval of LAI and chlorophyll content using the proposed joint probability distribution method improved the estimation accuracy of both corn canopy LAI and chlorophyll content. Corn canopy LAI and chlorophyll content were retrieved jointly and accurately using the PROSAIL model with fused Kalman filtered (KF) reflectance images. The relation between retrieved and field measured LAI and chlorophyll content of four corn-growing stages had a coefficient of determination (R2) of about 0.6, and root mean square errors (RMSEs) ranges of mainly 0.1–0.2 and 0.0–0.3, respectively. (2) Kalman filtering is a good way to produce continuous high-resolution reflectance images by synthesizing Sentinel-2 and MODIS reflectances. The correlation between fused KF and Sentinel-2 reflectances had an R2 value of 0.98 and RMSE of 0.0133, and the correlation between KF and field-measured reflectances had an R2 value of 0.8598 and RMSE of 0.0404. (3) The derived continuous KF reflectances captured the crop behavior well. Our analysis showed that the LAI increased from day of year (DOY) 181 (trefoil stage) to DOY 236 (filling stage), and then increased continuously until harvest, while the chlorophyll content first also increased from DOY 181 to DOY 236, and then remained stable until harvest. These results revealed that the jointly retrieved continuous LAI and chlorophyll content could be used to monitor corn growth conditions.",
+  "references": [
+    {
+      "paperId": "250af8f2c179d10e01b35b59f71f2476523bff59"
+    },
+    {
+      "paperId": "ecf3051fad23b5f43c7f67bb745453e2760c57e7"
+    },
+    {
+      "paperId": "7cd0264e474bb1c3aa22b1d1f2a066cc7ef1cc09"
+    },
+    {
+      "paperId": "857a63bbbb21cd7679573e3941a46a59f8238436"
+    },
+    {
+      "paperId": "3fdd34dd8800655d6539d3a38f8404b545e3144d"
+    },
+    {
+      "paperId": "478d236b380f46f595714bb5ea2fa2468ce9742d"
+    },
+    {
+      "paperId": "f003bde5b61c607e26f6ac848b36f2bca2c40775"
+    },
+    {
+      "paperId": "30eba4808a2e44f71e7e9d04a8d717509fdd606e"
+    },
+    {
+      "paperId": "d8e911dc55cdf5becad29c6768698f9924f017cb"
+    },
+    {
+      "paperId": "c74c5b396b370c4f58124156883bd746ad83e908"
+    },
+    {
+      "paperId": "70dec015c4173546874c4c5c0c90970c0b735e87"
+    },
+    {
+      "paperId": "3301e6fdc5f28223fb049d3cfd8bb5346c28dc72"
+    },
+    {
+      "paperId": "7d1467bf5de0cef6c40561be76fee967c6e5919c"
+    },
+    {
+      "paperId": "91d9cbda9f8e43015cd3f404d3bb0e4511ff1bdc"
+    },
+    {
+      "paperId": "e1c0059bebae3ec7739121e51b40d1b75dca99ce"
+    },
+    {
+      "paperId": "6e448f61e770a6b7f987b69f9402b83944ac6518"
+    },
+    {
+      "paperId": "4d7e17e79c6a33aacfc3ae127502a2af3ca10810"
+    },
+    {
+      "paperId": "cc31623a43fd24188df1b80ca7623dfed961d204"
+    },
+    {
+      "paperId": "a0ca6812381c0b05f6162c2aadf84f7976835d78"
+    },
+    {
+      "paperId": "84a95557712af4aee6044e6f32696b04d3bdb9ae"
+    },
+    {
+      "paperId": "7a71a6e8c4aabc1788a9658d556c5a7cae569c15"
+    },
+    {
+      "paperId": "b4fa6b10f740547f834bd89eb67a80bebb9244b9"
+    },
+    {
+      "paperId": "bc1991cf3f2b5f39f240a10ef4ede9c9581813cf"
+    },
+    {
+      "paperId": "07530b54979e389e87ccb78bbd18a5bffdb770e6"
+    },
+    {
+      "paperId": "078404c4b0428399f041a0581cf1018c3a2cacc6"
+    },
+    {
+      "paperId": "133265f07d43f2f1c5bc477e772024485ee9de48"
+    },
+    {
+      "paperId": "a1a6274b0bf3d4cd2ecf2205732d8c4b4d2a1867"
+    },
+    {
+      "paperId": "03e73cfcd80959473a74411424e3aff5084d90fa"
+    },
+    {
+      "paperId": "6d86cf960438ca47cd58d558e6f358019940a8f8"
+    },
+    {
+      "paperId": "46d93fbc11599506d89ea0fd0323f8f0dfb9fc83"
+    },
+    {
+      "paperId": "b724deac97f21b6355e46a07dedaf8edb1a5b96e"
+    },
+    {
+      "paperId": "967f9e9dd17db231ee0e00a761f7a33ddb330280"
+    },
+    {
+      "paperId": "a5626016960d7f8ad1225084f98900e887b907cb"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "60daf7798a7b8597d65ce4d856930299acc1785b"
+    },
+    {
+      "paperId": "a3b29763fa0d006ccd428f4511da75c5fd87b263"
+    },
+    {
+      "paperId": "19f0ec00adb9666a31f9a4446cc4116bf9da69ca"
+    },
+    {
+      "paperId": "9423d723291757c5497ec14e7470c711a72ba184"
+    },
+    {
+      "paperId": "50cb0c774ff706b1dcd76382db53b4412d1f8ad3"
+    },
+    {
+      "paperId": "9afa7751492a63a944781c747d383258764ef84d"
+    },
+    {
+      "paperId": "775cab39107ecac3f60c395abcac3d2a77765046"
+    },
+    {
+      "paperId": "a548bc8bd51c45d732c04d17bebde83dd4619f04"
+    },
+    {
+      "paperId": "f92b509b41a5fee274c1b540153e965718c00b4c"
+    },
+    {
+      "paperId": "969931a0b421d11187a6afd7dfe869c8c694f0a1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8df8ef38f2d970a7d9f8e7f799859d53ac10206e"
+    },
+    {
+      "paperId": "796f069542a832a8a3789bf9868d3517f41879ff"
+    },
+    {
+      "paperId": "b153b7eadbab652473579aee91ff8dbcaddad83f"
+    },
+    {
+      "paperId": "aef80c000ed32d6558c63ef9d962046e6fb5f226"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

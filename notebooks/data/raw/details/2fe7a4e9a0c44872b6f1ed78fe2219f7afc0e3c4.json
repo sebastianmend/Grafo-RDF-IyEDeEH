@@ -1,0 +1,59 @@
+{
+  "paperId": "2fe7a4e9a0c44872b6f1ed78fe2219f7afc0e3c4",
+  "externalIds": {
+    "DBLP": "journals/nca/KeswaniMMKRGA19",
+    "MAG": "2893164490",
+    "DOI": "10.1007/s00521-018-3737-1",
+    "CorpusId": 52845705
+  },
+  "url": "https://www.semanticscholar.org/paper/2fe7a4e9a0c44872b6f1ed78fe2219f7afc0e3c4",
+  "title": "Adapting weather conditions based IoT enabled smart irrigation technique in precision agriculture mechanisms",
+  "venue": "Neural computing & applications (Print)",
+  "year": 2018,
+  "citationCount": 200,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00521-018-3737-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00521-018-3737-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51369613",
+      "name": "B. Keswani"
+    },
+    {
+      "authorId": "32141216",
+      "name": "A. G. Mohapatra"
+    },
+    {
+      "authorId": "83042679",
+      "name": "Amarjeet Mohanty"
+    },
+    {
+      "authorId": "47688201",
+      "name": "Ashish Khanna"
+    },
+    {
+      "authorId": "152171655",
+      "name": "J. Rodrigues"
+    },
+    {
+      "authorId": "1685090538",
+      "name": "Deepak Gupta"
+    },
+    {
+      "authorId": "2536066",
+      "name": "V. Albuquerque"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "6e95d2b61e3f0b16a74ad0d2ffdc246819be3f03",
+  "externalIds": {
+    "DBLP": "conf/fruct/ZyrianoffHSK18",
+    "MAG": "2908232002",
+    "DOI": "10.23919/FRUCT.2018.8588086",
+    "CorpusId": 57191591
+  },
+  "url": "https://www.semanticscholar.org/paper/6e95d2b61e3f0b16a74ad0d2ffdc246819be3f03",
+  "title": "Scalability of an Internet of Things Platform for Smart Water Management for Agriculture",
+  "venue": "Conference of the Open Innovations Association",
+  "year": 2018,
+  "citationCount": 25,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/FRUCT.2018.8588086?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/FRUCT.2018.8588086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3308894",
+      "name": "Ivan D. Zyrianoff"
+    },
+    {
+      "authorId": "51956625",
+      "name": "Alexandre Heideker"
+    },
+    {
+      "authorId": "143845572",
+      "name": "Dener Silva"
+    },
+    {
+      "authorId": "1969406",
+      "name": "C. Kamienski"
+    }
+  ],
+  "abstract": "The emergence of a new breed of smart applications requires middleware platforms that enable the rapid development of IoT-based solutions, which can be hosted partially in fog nodes, as well as in a traditional cloud datacenter. Currently, there is no scalable de facto open IoT platform but the European Commission is pushing FIWARE to fill this gap. We analyzed the performance of FIWARE under different platform configurations comparing fog/cloud and cloud-only scenarios for precision irrigation in smart farming. Our results reveal interesting and non-intuitive findings, such as that fog computing does not always improve the overall system performance and in some cases it even makes it worse. Also, the network between the farm and the cloud datacenter causes some unexpected differences between different scenarios.",
+  "references": null
+}

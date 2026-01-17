@@ -1,0 +1,57 @@
+{
+  "paperId": "8e8ae3b3af8483b70e9604f227147ed956eb4638",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/RenPLTGG18",
+    "MAG": "2897352794",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476060",
+    "CorpusId": 52914412
+  },
+  "url": "https://www.semanticscholar.org/paper/8e8ae3b3af8483b70e9604f227147ed956eb4638",
+  "title": "Evaluation Method of Field Road Accessibility Based on GF-2 Satellite Imagines",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476060?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476060, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40006550",
+      "name": "Y. Ren"
+    },
+    {
+      "authorId": "50326299",
+      "name": "Yuchun Pan"
+    },
+    {
+      "authorId": "2146400414",
+      "name": "Yu Liu"
+    },
+    {
+      "authorId": "2109800289",
+      "name": "Xiumei Tang"
+    },
+    {
+      "authorId": "7882078",
+      "name": "Bingbo Gao"
+    },
+    {
+      "authorId": "2382604",
+      "name": "Yunbing Gao"
+    }
+  ],
+  "abstract": "Field road accessibility is an important index of cultivated land quality. In this paper, field road accessibility was defined from the perspectives of traffic capacity, and an evaluation model was constructed based on weighted network data set. The case study was carried out in Dingzhou City of Hebei Province, and GF-2 satellite images were adopted to acquire basic data including field roads and cropping plots. The results showed that, (1) Overall precision of field roads and cropping plots based on GF-2 images were above 90% and 89.13%, respectively, meeting the precision requirement for acquisition of field road accessibility; (2) Field road accessibility of the study area ranged from 0.6 to 3.7 and the plots were divided into 4 levels from high to low. The plots in Level- I area, showing strongest accessibility, were with the maximum quantity of high-level roads, and facilitate the input and output of agricultural materials; The plots in Level-II area, showing stronger accessibility, were always connected to high-level roads and middle-level roads; The plots in Level-III area, showing ordinary accessibility, were mainly linked with middle-level roads and low-level roads; The plots in Level-IV area, showing weakest accessibility, were difficult for large machines to pass through because of the low-level roads.",
+  "references": null
+}

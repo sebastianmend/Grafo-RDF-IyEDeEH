@@ -1,0 +1,42 @@
+{
+  "paperId": "6ebe6306d1bc8613b4a28b97d9eec33db83daf5a",
+  "externalIds": {
+    "MAG": "2888500274",
+    "DOI": "10.1007/978-981-13-0761-4_62",
+    "CorpusId": 139749363
+  },
+  "url": "https://www.semanticscholar.org/paper/6ebe6306d1bc8613b4a28b97d9eec33db83daf5a",
+  "title": "Electrical Conductivity Sensing for Precision Agriculture: A Review",
+  "venue": "Harmony Search and Nature Inspired Optimization Algorithms",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-0761-4_62?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-0761-4_62, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2118343589",
+      "name": "Sonia Gupta"
+    },
+    {
+      "authorId": "2124974757",
+      "name": "Mohit Kumar"
+    },
+    {
+      "authorId": "143746538",
+      "name": "R. Priyadarshini"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

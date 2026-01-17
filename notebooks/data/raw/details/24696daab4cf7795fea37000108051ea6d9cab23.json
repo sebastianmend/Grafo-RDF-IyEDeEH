@@ -1,0 +1,40 @@
+{
+  "paperId": "24696daab4cf7795fea37000108051ea6d9cab23",
+  "externalIds": {
+    "DBLP": "journals/cea/PatricioR18",
+    "MAG": "2887311010",
+    "DOI": "10.1016/J.COMPAG.2018.08.001",
+    "CorpusId": 52814451
+  },
+  "url": "https://www.semanticscholar.org/paper/24696daab4cf7795fea37000108051ea6d9cab23",
+  "title": "Computer vision and artificial intelligence in precision agriculture for grain crops: A systematic review",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "citationCount": 747,
+  "influentialCitationCount": 13,
+  "openAccessPdf": {
+    "url": "http://www.alice.cnptia.embrapa.br/bitstream/doc/1099103/1/ID444052008CompElectroAgricv153p69.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2018.08.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2018.08.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2068881692",
+      "name": "D. I. Patrício"
+    },
+    {
+      "authorId": "34775267",
+      "name": "Rafael Rieder"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

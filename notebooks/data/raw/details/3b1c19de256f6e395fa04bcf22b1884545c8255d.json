@@ -1,0 +1,38 @@
+{
+  "paperId": "3b1c19de256f6e395fa04bcf22b1884545c8255d",
+  "externalIds": {
+    "MAG": "2981820238",
+    "DOI": "10.1109/ICSCAN.2019.8878718",
+    "CorpusId": 204862751
+  },
+  "url": "https://www.semanticscholar.org/paper/3b1c19de256f6e395fa04bcf22b1884545c8255d",
+  "title": "A Comparative study of IoT Technology in Precision Agriculture",
+  "venue": "2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN)",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSCAN.2019.8878718?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSCAN.2019.8878718, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1384179681",
+      "name": "Immanuel Zion Ramdinthara"
+    },
+    {
+      "authorId": "2286714500",
+      "name": "Dr. P Shanthi Bala"
+    }
+  ],
+  "abstract": "Agriculture is the backbone of every country. It produces all the necessary needs such as wheat, rice, fruits, grains which are consumed by a human for everyday survival. So, it is important for the country to develop and sustain a productive agricultural system. As demand is increasing for food, food security is very important to sustain and increase yield production at a higher rate and at the same time preserve the ecosystem. So, the technologies in the agricultural domain may be incorporated to enhance food supplies and production. In many countries like the USA, China and Israel have a prominently high implementation of technologies with a high rate of food production and even exported in many parts of the world. These countries have implemented advanced techniques such as the Internet of Things (IoT), Cloud Computing, Machine Learning and Deep Learning algorithm for agriculture domain. Sensor technology used in this domain is highly effective, accurate and productive for precision agriculture. In this topic, agriculture in some developed and developing countries are compared also discusses the way in which these countries could possibly exchange feasible ideas from a different perspective for the development of sustainable agriculture.",
+  "references": null
+}

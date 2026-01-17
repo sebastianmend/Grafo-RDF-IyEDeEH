@@ -1,0 +1,48 @@
+{
+  "paperId": "25b118a36fef29fdfe29f51fa717a305e0fbaae9",
+  "externalIds": {
+    "MAG": "2981914048",
+    "DBLP": "conf/dsd/NouacerOOG19",
+    "DOI": "10.1109/DSD.2019.00067",
+    "CorpusId": 267848616
+  },
+  "url": "https://www.semanticscholar.org/paper/25b118a36fef29fdfe29f51fa717a305e0fbaae9",
+  "title": "Framework of Key Enabling Technologies for Safe and Autonomous Drones' Applications",
+  "venue": "Euromicro Symposium on Digital Systems Design",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DSD.2019.00067?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DSD.2019.00067, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "7184582",
+      "name": "R. Nouacer"
+    },
+    {
+      "authorId": "2285723030",
+      "name": "Huáscar Espinoza Ortiz"
+    },
+    {
+      "authorId": "2285714181",
+      "name": "Yassine Ouhammou"
+    },
+    {
+      "authorId": "2286326529",
+      "name": "Rodrigo Castiñeira González"
+    }
+  ],
+  "abstract": "The potential applications for drones, especially those in manned areas or into non-segregated airspace, are currently not possible without the development and validation of certain key enabling technologies: \"detect and avoid\", \"air traffic management\" and \"command and control (C2) link\". SESAR JU identified that issue has a high impact on European innovation, which demands R&D investments and incentives for the convergence of shared technologies and markets. The COMP4DRONES project complements SESAR JU efforts with a particular focus on safe software and hardware drone architectures. COMP4DRONES will bear a holistically designed ecosystem ranging from application to electronic components. The ecosystem aims at supporting (1) efficient customization and incremental assurance of drone-embedded platforms, (2) safe autonomous decision making concerning individual or cooperative missions, (3) trustworthy drone-to-drone and drone-to-ground communications even in presence of malicious attackers and under the intrinsic platform constraints, and (4) agile and cost-effective design and assurance of drone modules and systems. Lead applications driving ecosystem development and benchmarking on the fields of transport, inspection, logistic, precision agriculture, parcel delivery, among others, will be produced.",
+  "references": null
+}

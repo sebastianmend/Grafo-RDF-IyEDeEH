@@ -1,0 +1,291 @@
+{
+  "paperId": "ac12a6100cbc34ea0e664e67226e2dc6a40f20cd",
+  "externalIds": {
+    "MAG": "2963235971",
+    "DBLP": "journals/remotesensing/ZhaoSYLZF19",
+    "DOI": "10.3390/RS11141724",
+    "CorpusId": 200091039
+  },
+  "url": "https://www.semanticscholar.org/paper/ac12a6100cbc34ea0e664e67226e2dc6a40f20cd",
+  "title": "Monitoring of Nitrogen and Grain Protein Content in Winter Wheat Based on Sentinel-2A Data",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 41,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/14/1724/pdf?version=1563787752",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11141724?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11141724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152530844",
+      "name": "Haitao Zhao"
+    },
+    {
+      "authorId": "50706865",
+      "name": "Xiao-yu Song"
+    },
+    {
+      "authorId": "34831475",
+      "name": "Guijun Yang"
+    },
+    {
+      "authorId": "48458509",
+      "name": "Zhenhai Li"
+    },
+    {
+      "authorId": "47845039",
+      "name": "Dongyan Zhang"
+    },
+    {
+      "authorId": "2156262",
+      "name": "Haikuan Feng"
+    }
+  ],
+  "abstract": "Grain protein content (GPC) is an important indicator of wheat quality. Earlier estimation of wheat GPC based on remote sensing provided effective decision to adapt optimized strategies for grain harvest, which is of great significance for agricultural production. The objectives of this field study are: (i) To assess the ability of spectral vegetation indices (VIs) of Sentinel 2 data to detect the wheat nitrogen (N) attributes related to the grain quality of winter wheat production, and (ii) to examine the accuracy of wheat N status and GPC estimation models based on different VIs and wheat nitrogen parameters across Analytical Spectra Devices (ASD) and Unmanned Aerial Vehicle (UAV) hyper-spectral data-simulated sentinel data and the real Sentinel-2 data. In this study, four nitrogen parameters at the wheat anthesis stage, including plant nitrogen accumulation (PNA), plant nitrogen content (PNC), leaf nitrogen accumulation (LNA), and leaf nitrogen content (LNC), were evaluated for their relationship between spectral parameters and GPC. Then, a multivariate linear regression method was used to establish the wheat nitrogen and GPC estimation model through simulated Sentinel-2A VIs. The coefficients of determination (R2) of four nitrogen parameter models were all greater than 0.7. The minimum R2 of the prediction model of wheat GPC constructed by four nitrogen parameters combined with VIs was 0.428 and the highest R2 was 0.467. The normalized root mean square error (nRMSE) of the four nitrogen estimation models ranged from 26.333% to 29.530% when verified by the ground-measured data collected from the Beijing suburbs, and the corresponding nRMSE for the GPC-predicted models ranged from 17.457% to 52.518%. The accuracy of the estimated model was verified by UAV hyper-spectral data which had resized to different spatial resolution collected from the National Experimental Station for Precision Agriculture. The normalized root mean square error (nRMSE) of the four nitrogen estimation models ranged from 16.9% to 37.8%, and the corresponding nRMSE for the GPC-predicted models ranged from 12.3% to 13.2%. The relevant models were also verified by Sentinel-2A data collected in 2018 while the minimum nRMSE for GPC invert model based on PNA was 7.89% and the maximum nRMSE of the GPC model based on LNC was 12.46% in Renqiu district, Hebei province. The nRMSE for the wheat nitrogen estimation model ranged from 23.200% to 42.790% for LNC and PNC. These data demonstrate that freely available Sentinel-2 imagery can be used as an important data source for wheat nutrition and grain quality monitoring.",
+  "references": [
+    {
+      "paperId": "6ae073c78297c58057bf611af4d27a51ea47daf8"
+    },
+    {
+      "paperId": "e0e087c3683692652041073936c891a186beb827"
+    },
+    {
+      "paperId": "72b1c10bc413575e6d53d1cec69851faac77e9aa"
+    },
+    {
+      "paperId": "3a320460986e18447f94e08d73b0ec144afb6f57"
+    },
+    {
+      "paperId": "60f04e0e4f99dcc5234dfb42bcf47419260b148e"
+    },
+    {
+      "paperId": "0ec1dc509492cd9f1ede891f9319212f2fe01fa1"
+    },
+    {
+      "paperId": "0a99922403da33e0851a0d08d211cdc1c9f0d995"
+    },
+    {
+      "paperId": "ccb1d6b99cb83179bac7caa89e46f9f109574c0c"
+    },
+    {
+      "paperId": "fab0a33c7aef9f85c013c2db511b3dc9a7ea9e94"
+    },
+    {
+      "paperId": "a15ea48b0d27b8208bb2adb4da14f00e5d143aab"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "6e77c555cf94ae8648a761a06f74e4f8b4d836ee"
+    },
+    {
+      "paperId": "baaf518e3c89c73f26adc11ef44ab84e3a87a429"
+    },
+    {
+      "paperId": "2c8074472eff86a1eea52dbce8e3d80e7aaacefc"
+    },
+    {
+      "paperId": "b1f926ce5fb3c87c0c5559132c58226f8ea40b42"
+    },
+    {
+      "paperId": "da31a33694d3401548c4e3fd395cc8280870711e"
+    },
+    {
+      "paperId": "d8cc319162ef6dc7a49aa649e4684147cd66edb7"
+    },
+    {
+      "paperId": "64a4766e96a62296415570cfa7fe753ebc51a9ca"
+    },
+    {
+      "paperId": "4a33badec56e6b26f46606f5297121708ac6ffa8"
+    },
+    {
+      "paperId": "9fee2ed272eeebb19785c3b68a91b3a554cb02aa"
+    },
+    {
+      "paperId": "99c36052b64d2f43858fb3fdda99d809fa12390f"
+    },
+    {
+      "paperId": "77a0c9223a6c20f337b885cda1b7f35dd1c672fc"
+    },
+    {
+      "paperId": "8dd9a14770c68214fe8436a89f433d5c26c6eb0a"
+    },
+    {
+      "paperId": "b92e116320dad8766047f169e63818bbbde36d04"
+    },
+    {
+      "paperId": "2f1bc07dbe66f790e4a53d026dacf6dbcfb7cef8"
+    },
+    {
+      "paperId": "937facefe72a85300d1a69ecfbc82e71b5d836f4"
+    },
+    {
+      "paperId": "3991c14813ebaa32a4264549f36f3e77ab410f48"
+    },
+    {
+      "paperId": "38a45b10151dc04b67f51ec634338b1eaa5a546d"
+    },
+    {
+      "paperId": "d283707ad94d648448f1c0c854cba89f087076b4"
+    },
+    {
+      "paperId": "986bad8295e503aa6d49a1078ca476a9624d071a"
+    },
+    {
+      "paperId": "a446dbc70080b0c5a6107c64a90dd7399edbc553"
+    },
+    {
+      "paperId": "0cd5e1a479122f977f9792198446effd094c7478"
+    },
+    {
+      "paperId": "52d103093d98d4c136041a2438e5ab587b24ace6"
+    },
+    {
+      "paperId": "dba4780add5014b9c894709acc6255cdb098ec7f"
+    },
+    {
+      "paperId": "bba1d2024b40cb0b910f20801423d8f22608668c"
+    },
+    {
+      "paperId": "63a344f99f22b2b74a87ca01ecbfff6e146e009d"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "c79c4f0e689352b3ff2b50033a35dcaf61331bbe"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "0c57c587fb0c0f46f5479642fe723ab6937bbfad"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "cbebf7dbcb48041ec8176ae0b03dfdb2412e4489"
+    },
+    {
+      "paperId": "e5085bb46a7d14452c36c9f661d6d662c4e1d7d6"
+    },
+    {
+      "paperId": "0087a5d1f3ecf09869fe0393a4c3439e633e1beb"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "33fcf925f5796eb4cef343c1db4d939b05f440df"
+    },
+    {
+      "paperId": "4c62efe084ee252e61291cc04e5d91d42b66a95a"
+    },
+    {
+      "paperId": "0bcc4fef09f2474ce258136d8a5834d1a1941e20"
+    },
+    {
+      "paperId": "d64b022d4c825052adcc03eb4f911cef97fd3702"
+    },
+    {
+      "paperId": "2c06cfb45ab8cccaeea740ea0c29f3b68eb449ba"
+    },
+    {
+      "paperId": "799b432a3251ae5deb66c590ced7c06b7567d91d"
+    },
+    {
+      "paperId": "854127df9b99c4f6cb1bd373e4793a9761f2de02"
+    },
+    {
+      "paperId": "cc022b750cd131ffdb635e867811fc0e43fff254"
+    },
+    {
+      "paperId": "2f25864854810587ac5c974942844f99bc1a727f"
+    },
+    {
+      "paperId": "e26f7b24b05df464c3adfe9f146c162ce26077cd"
+    },
+    {
+      "paperId": "7897803fd296c30a1b83f49a2e420ba8d802ba42"
+    },
+    {
+      "paperId": "a379fd56b8347ad1dfe4aa46520f9d4aa894b349"
+    },
+    {
+      "paperId": "873e567b9fc5e51835712efcc882d16fb1edb8ac"
+    },
+    {
+      "paperId": "0419991c637df3bf13a688817dc11b67416e981f"
+    },
+    {
+      "paperId": "9ab1d9a21713a24f134c1bad96de51f89990273f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "89e3f8dc063133ea157079b37bca9b3f1552b77d"
+    },
+    {
+      "paperId": "c2905ae9884d8a0b833cf466b2a26b450c9a2a5e"
+    },
+    {
+      "paperId": "475ea4344e4a1be3ccedee27fffb03f308ad82f0"
+    },
+    {
+      "paperId": "50d072f18f0566700dba5e1f7084d140d905215f"
+    },
+    {
+      "paperId": "2923f87ad1ffec49d12d91e6dc0efa2e316fa5bb"
+    },
+    {
+      "paperId": "aef80c000ed32d6558c63ef9d962046e6fb5f226"
+    },
+    {
+      "paperId": "e967cb7559aed274b635880b881a5e34228e0aee"
+    },
+    {
+      "paperId": "40a5919f9847f01942d5be1ab1534e5bdf568a17"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "77464b7e1db4500a3ff57043e4ea1f450531298a"
+    },
+    {
+      "paperId": "7974de79ee9c9fd14774c6198ea018cde031bcf6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6425f6e91ff49eb88ef5ec4545a47160852e7370"
+    },
+    {
+      "paperId": "b51892b88a037ced06fdbae40d6a16a4b5ea41d5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

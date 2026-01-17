@@ -1,0 +1,38 @@
+{
+  "paperId": "a66439a82b9a2b40b9bb445b0581a1e3d5cfcd76",
+  "externalIds": {
+    "MAG": "2903336648",
+    "DOI": "10.1109/ICOEI.2018.8553720",
+    "CorpusId": 54440456
+  },
+  "url": "https://www.semanticscholar.org/paper/a66439a82b9a2b40b9bb445b0581a1e3d5cfcd76",
+  "title": "Internet of Things (IoT) for Precision Agriculture Application",
+  "venue": "2018 2nd International Conference on Trends in Electronics and Informatics (ICOEI)",
+  "year": 2018,
+  "citationCount": 108,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOEI.2018.8553720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOEI.2018.8553720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52189452",
+      "name": "Manishkumar Dholu"
+    },
+    {
+      "authorId": "1397286173",
+      "name": "K. Ghodinde"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

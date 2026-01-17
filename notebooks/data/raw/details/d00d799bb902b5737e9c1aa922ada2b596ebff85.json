@@ -1,0 +1,174 @@
+{
+  "paperId": "d00d799bb902b5737e9c1aa922ada2b596ebff85",
+  "externalIds": {
+    "MAG": "2807039230",
+    "DBLP": "journals/corr/abs-1805-12395",
+    "ArXiv": "1805.12395",
+    "DOI": "10.20944/PREPRINTS201809.0088.V1",
+    "CorpusId": 44146894
+  },
+  "url": "https://www.semanticscholar.org/paper/d00d799bb902b5737e9c1aa922ada2b596ebff85",
+  "title": "Deep Learning with unsupervised data labeling for weeds detection on UAV images",
+  "venue": "arXiv.org",
+  "year": 2018,
+  "citationCount": 30,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/11/1690/pdf?version=1540548877",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.12395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144700340",
+      "name": "M. D. Bah"
+    },
+    {
+      "authorId": "1822411",
+      "name": "A. Hafiane"
+    },
+    {
+      "authorId": "34775571",
+      "name": "R. Canals"
+    }
+  ],
+  "abstract": "In recent years, weeds is responsible for most of the agricultural yield losses. To deal with this threat, farmers resort to spraying pesticides throughout the field. Such method not only requires huge quantities of herbicides but impact environment and humans health. One way to reduce the cost and environmental impact is to allocate the right doses of herbicide at the right place and at the right time (Precision Agriculture). Nowadays, Unmanned Aerial Vehicle (UAV) is becoming an interesting acquisition system for weeds localization and management due to its ability to obtain the images of the entire agricultural field with a very high spatial resolution and at low cost. Despite the important advances in UAV acquisition systems, automatic weeds detection remains a challenging problem because of its strong similarity with the crops. Recently Deep Learning approach has shown impressive results in different complex classification problem. However, this approach needs a certain amount of training data but, creating large agricultural datasets with pixel-level annotations by expert is an extremely time consuming task. In this paper, we propose a novel fully automatic learning method using Convolutional Neuronal Networks (CNNs) with unsupervised training dataset collection for weeds detection from UAV images. The proposed method consists in three main phases. First we automatically detect the crop lines and using them to identify the interline weeds. In the second phase, interline weeds are used to constitute the training dataset. Finally, we performed CNNs on this dataset to build a model able to detect the crop and weeds in the images. The results obtained are comparable to the traditional supervised training data labeling. The accuracy gaps are 1.5% in the spinach field and 6% in the bean field.",
+  "references": [
+    {
+      "paperId": "7274d46776846188019dd8b834162c31e0a79e84"
+    },
+    {
+      "paperId": "e6a1d26b40b38ca59f9b594cc544e5432d76d5a3"
+    },
+    {
+      "paperId": "0fcb1938fa94a92c3f4450bfdb76b8349fca751e"
+    },
+    {
+      "paperId": "518a7c79968a56d63a691d42f8378be6c776167e"
+    },
+    {
+      "paperId": "07628f14424980e27568ad49384d137682a6809d"
+    },
+    {
+      "paperId": "39c958e3e72fdb488cf64e194bcf781b42d89e9b"
+    },
+    {
+      "paperId": "a954ca481ba980ca149a19b0f99b531459d5d366"
+    },
+    {
+      "paperId": "754c27095a8fe310a0c22c82b515536734086ae3"
+    },
+    {
+      "paperId": "3abfc8ccf067ed7e07c0614a642aa89fda6e6949"
+    },
+    {
+      "paperId": "896c33aa816426e1d1f5a595708d8f904684517a"
+    },
+    {
+      "paperId": "1221818eab73702a085cdd9d69742da0050ccb04"
+    },
+    {
+      "paperId": "625b47efe463898ff1ad7579a4ae45532aa9aaa1"
+    },
+    {
+      "paperId": "5f5de869662a075da3b9998e7ff9206b3e502860"
+    },
+    {
+      "paperId": "3f59e8b6686f5f773bef7bac26192b3700aab533"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "102c9017e8b1446593c6230016ec873b1eb70f44"
+    },
+    {
+      "paperId": "4c7d24a0cc343e298390cd2bed7883f22d76b842"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "b3c785b99ec147049caa47f707f337b717705970"
+    },
+    {
+      "paperId": "235e1aa6fe650aed0edc6f30952962542d30b8b2"
+    },
+    {
+      "paperId": "8d4ee35b849b1a7a0a04a1f77aac73dc89764bc3"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "b5b4905e2fc9427387c728504d38c63b379e5056"
+    },
+    {
+      "paperId": "9b52116cc30222143f902de5e49be95aa93660f7"
+    },
+    {
+      "paperId": "a6b0f71c5f6e4d7e1ed5ed869f95e7aad6982fef"
+    },
+    {
+      "paperId": "f7134ee06adf48fe752ddded4eff121ffc933d6a"
+    },
+    {
+      "paperId": "e8b12467bdc20bde976750b8a28decdb33246d1d"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "2a0d7b81fc001707d54c5ff8ac404fcb7532268f"
+    },
+    {
+      "paperId": "bc4b5fd732a50656bda64393aca267e4a3172948"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "1fdb62555eb650662dbe2a6f3985d390861597c2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "02ac08428fc34d031e40f663844a0dc0ee19a3c2"
+    },
+    {
+      "paperId": "c5f804d4b296237f7f0777c2ecf796c92b0c730e"
+    },
+    {
+      "paperId": "658aa17f120e75a6eeb453c84a7563b039079396"
+    },
+    {
+      "paperId": "e31e8a753a9bbd112d4c170c3b3f487a24632d56"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

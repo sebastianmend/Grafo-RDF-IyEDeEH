@@ -1,0 +1,46 @@
+{
+  "paperId": "301f302aabf919cdbaaece7626099217a2ed5db7",
+  "externalIds": {
+    "MAG": "2933344298",
+    "DOI": "10.1016/J.AGWAT.2019.03.034",
+    "CorpusId": 159130470
+  },
+  "url": "https://www.semanticscholar.org/paper/301f302aabf919cdbaaece7626099217a2ed5db7",
+  "title": "Current and potential capabilities of UAS for crop water productivity in precision agriculture",
+  "venue": "Agricultural Water Management",
+  "year": 2019,
+  "citationCount": 67,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.AGWAT.2019.03.034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.AGWAT.2019.03.034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "78774945",
+      "name": "G. Ezenne"
+    },
+    {
+      "authorId": "143695445",
+      "name": "L. Jupp"
+    },
+    {
+      "authorId": "40648596",
+      "name": "S. Mantel"
+    },
+    {
+      "authorId": "145480928",
+      "name": "J. Tanner"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

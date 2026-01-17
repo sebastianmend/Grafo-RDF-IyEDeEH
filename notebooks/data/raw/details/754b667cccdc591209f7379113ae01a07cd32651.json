@@ -1,0 +1,46 @@
+{
+  "paperId": "754b667cccdc591209f7379113ae01a07cd32651",
+  "externalIds": {
+    "MAG": "2806453440",
+    "DOI": "10.1109/ICEDEG.2018.8372346",
+    "CorpusId": 46956369
+  },
+  "url": "https://www.semanticscholar.org/paper/754b667cccdc591209f7379113ae01a07cd32651",
+  "title": "Design and Implementation of a Wireless Sensor Network for Precision Agriculture Operating in API Mode",
+  "venue": "International Conference on eDemocracy & eGovernment",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEDEG.2018.8372346?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEDEG.2018.8372346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1414520686",
+      "name": "Jorge Granda-Cantuña"
+    },
+    {
+      "authorId": "1414583154",
+      "name": "Carlos Molina-Colcha"
+    },
+    {
+      "authorId": "1411089189",
+      "name": "Sergio-Enrique Hidalgo-Lupera"
+    },
+    {
+      "authorId": "1414702957",
+      "name": "Christian-David Valarezo-Varela"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

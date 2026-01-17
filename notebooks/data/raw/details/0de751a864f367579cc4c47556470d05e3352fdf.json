@@ -1,0 +1,434 @@
+{
+  "paperId": "0de751a864f367579cc4c47556470d05e3352fdf",
+  "externalIds": {
+    "DBLP": "journals/comsur/SundaramDZ20",
+    "MAG": "2981455641",
+    "ArXiv": "1908.10195",
+    "DOI": "10.1109/COMST.2019.2949598",
+    "CorpusId": 201646231
+  },
+  "url": "https://www.semanticscholar.org/paper/0de751a864f367579cc4c47556470d05e3352fdf",
+  "title": "A Survey on LoRa Networking: Research Problems, Current Solutions, and Open Issues",
+  "venue": "IEEE Communications Surveys and Tutorials",
+  "year": 2019,
+  "citationCount": 409,
+  "influentialCitationCount": 20,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1908.10195",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1908.10195, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1564613921",
+      "name": "Jothi Prasanna Shanmuga Sundaram"
+    },
+    {
+      "authorId": "2519327",
+      "name": "W. Du"
+    },
+    {
+      "authorId": "48634005",
+      "name": "Zhiwei Zhao"
+    }
+  ],
+  "abstract": "Wireless networks have been widely deployed for many Internet-of-Things (IoT) applications, like smart cities and precision agriculture. Low Power Wide Area Networking (LPWAN) is an emerging IoT networking paradigm to meet three key requirements of IoT applications, i.e., low cost, large scale deployment and high energy efficiency. Among all available LPWAN technologies, LoRa networking has attracted much attention from both academia and industry, since it specifies an open standard and allows us to build autonomous LPWAN networks without any third-party infrastructure. Many LoRa networks have been developed recently, e.g., managing solar plants in Carson City, Nevada, USA and power monitoring in Lyon and Grenoble, France. However, there are still many research challenges to develop practical LoRa networks, e.g., link coordination, resource allocation, reliable transmissions and security. This article provides a comprehensive survey on LoRa networks, including the technical challenges of deploying LoRa networks and recent solutions. Based on our detailed analysis of current solutions, some open issues of LoRa networking are discussed. The goal of this survey paper is to inspire more works on improving the performance of LoRa networks and enabling more practical deployments.",
+  "references": [
+    {
+      "paperId": "8175efe6d1f93d8d3822860e08a4e312cb9aaeed"
+    },
+    {
+      "paperId": "333c7239d95c607c72bbd202ee81d7f8a3a393b3"
+    },
+    {
+      "paperId": "62ab749dc55a4c109b2135d8118cd31d0b36ba8b"
+    },
+    {
+      "paperId": "c03653f7b1000c9515d32182ddb6cc52008d99ac"
+    },
+    {
+      "paperId": "1bb89414fec81fa5ddc49d9b58be805e25a1ccab"
+    },
+    {
+      "paperId": "3b18b812d2d4c2f54f96e64ecd9d933400e6be4e"
+    },
+    {
+      "paperId": "f68875795f6c900374f50d6768971b5803846964"
+    },
+    {
+      "paperId": "525f1f7488b5b73355f227e6eff68f794a48db7c"
+    },
+    {
+      "paperId": "bfa9c480782afede658f77497c7b14c107c3c7fb"
+    },
+    {
+      "paperId": "47691ccad6e8a1ed388e225275b1e47d4c865ccf"
+    },
+    {
+      "paperId": "772797b528ba2abbbe9a498a89f2dbb9029b2199"
+    },
+    {
+      "paperId": "04c15568bc9ab23c7435d2ad435ccc8b5be9bef8"
+    },
+    {
+      "paperId": "96f43934062346c1991c198ba121c89c99dcc855"
+    },
+    {
+      "paperId": "22e8869a58c80702110b88da4600ec257783bfbb"
+    },
+    {
+      "paperId": "222b666b363412109f1e816ee68d6c62438bc8fe"
+    },
+    {
+      "paperId": "0664248fca0479493e888d58e85531964fc6c67b"
+    },
+    {
+      "paperId": "651e28523b0a597f8368ae976b76a82de64e0f0e"
+    },
+    {
+      "paperId": "0f6dc0befa6eae34fa717f4737910d394d94e77d"
+    },
+    {
+      "paperId": "a8ff408185d6b5593fa051cdc1183b3aff15c200"
+    },
+    {
+      "paperId": "f03a57462149b5d752322ba302943452016261ec"
+    },
+    {
+      "paperId": "c9d03a6b6ebf5d80e4e69065fcaa33fdeda3c984"
+    },
+    {
+      "paperId": "2517dca0527281f279806d05fbb4d05e92673849"
+    },
+    {
+      "paperId": "68f24a3baac8e40ae3032f25e8ecb3acf35edbd7"
+    },
+    {
+      "paperId": "98a6e6a90e54fa5e3df85444795db0715ad596bb"
+    },
+    {
+      "paperId": "dcaaf87056ba39f775be92b1ac5670746504faa7"
+    },
+    {
+      "paperId": "5c69f1b0bca0fc2facf86adb240156d865705191"
+    },
+    {
+      "paperId": "fde2a89b239ad474ec401ebc3fe79809e31db4b0"
+    },
+    {
+      "paperId": "fa3b9634b6057b3f7963c0147c878e5112aa0e30"
+    },
+    {
+      "paperId": "1f53d330403a732996a6e81b094e70e760a2a311"
+    },
+    {
+      "paperId": "91821916f689af9381a23c93b4ca5519d0353aa0"
+    },
+    {
+      "paperId": "cd4235fe314179bb2035af3aff81d29b9150b898"
+    },
+    {
+      "paperId": "16a32f257a943b39d09e2bb29a195b54f51c85c6"
+    },
+    {
+      "paperId": "eac646db1155261b15ff65ce8a0874e695439205"
+    },
+    {
+      "paperId": "343757d35c200305570c9f74c62c1042b897669f"
+    },
+    {
+      "paperId": "d7a6d74ca8b97940750363a38cf7a6a28d63c8b7"
+    },
+    {
+      "paperId": "e0738235f3f87974e2de22c2676793f54cbf1942"
+    },
+    {
+      "paperId": "eff6ee810d58bf4476cc21de5510045ec2ffb6bc"
+    },
+    {
+      "paperId": "705951f4e219698a9f6e8af4e032ea0dfe7fbf9f"
+    },
+    {
+      "paperId": "bf0718126837de5267b20f69ed56dbf4816ca0d1"
+    },
+    {
+      "paperId": "a347fda1cd4cf996187bb90876cd11dd2ed1f2d8"
+    },
+    {
+      "paperId": "c4ae2abd41cef5e8c4026bf037de0419d0c9541e"
+    },
+    {
+      "paperId": "ec633f8bba8157301d5e8d826b891286328b6a45"
+    },
+    {
+      "paperId": "30b7b45720f5a0dba6df4527e4d637e39890ee46"
+    },
+    {
+      "paperId": "4c88b87edc8283d254c87dba555cb8a9e3242c09"
+    },
+    {
+      "paperId": "cda20fe69057cfef9bbded8caefc4199cc837b07"
+    },
+    {
+      "paperId": "e0b7c454f875f996e018e9d3f2f76285edd20284"
+    },
+    {
+      "paperId": "7c472c5ee462ccb53a1d3f0c85700f5fe2e3856e"
+    },
+    {
+      "paperId": "55d473ae377e83ab732b406282e7b70476396c1e"
+    },
+    {
+      "paperId": "cd3d4459ff0ff590a3e3258b0f774d6963cd4c90"
+    },
+    {
+      "paperId": "28fe6a3fab2f2097a6f9aac5ae9799577badf883"
+    },
+    {
+      "paperId": "bb515b9932c703fc4dc86cd260dc15d53885d7cf"
+    },
+    {
+      "paperId": "c0a8a4ceba63b350fed8624f0a7d7f464c94b08f"
+    },
+    {
+      "paperId": "511956f120c72f9cf1fd18901c90ad6578cc1cdb"
+    },
+    {
+      "paperId": "9027ad3f2b4aba423fb8a1d095a4e3d9c0886dd2"
+    },
+    {
+      "paperId": "797d2de54bb46f7e9b7440f556d23384c678a7eb"
+    },
+    {
+      "paperId": "aa8d8d47066a15c5179ab0e6fa87d4a89da1e3e1"
+    },
+    {
+      "paperId": "6a063f13e3a891d14ecf43aa92396cb781ec4e4b"
+    },
+    {
+      "paperId": "631cc57858eb1a94522e0090c6640f6f39ab7e18"
+    },
+    {
+      "paperId": "059d033767add135130f456f4b80a9dc31a7160c"
+    },
+    {
+      "paperId": "a8dacf579e390dadd4ff8cadfb1ea80fafa670e1"
+    },
+    {
+      "paperId": "70f455aaef44339e6e00a7ade84ee5df181bad38"
+    },
+    {
+      "paperId": "d966c1efc6255c1722cf1a337bcc0bffeeeed116"
+    },
+    {
+      "paperId": "093003a5bf55abb088903800ddf012855bea6c07"
+    },
+    {
+      "paperId": "30e99ee8335e4592d6c449b20f5c4b5f2a4462b7"
+    },
+    {
+      "paperId": "4b6e11f3ec7a9bef6761f6628b85461e8feba6fb"
+    },
+    {
+      "paperId": "15500a322dd2d5e1eb3b9dab5adea46ded6d1d37"
+    },
+    {
+      "paperId": "569a6e4e91e7abe03879ab1c2e37c077da520ae9"
+    },
+    {
+      "paperId": "0bd8dbb5c304474e033806857caea8ed500b4cff"
+    },
+    {
+      "paperId": "7e78f4d96a9c27d0ae6f3685999c3c4470cab1f1"
+    },
+    {
+      "paperId": "d6ceedda48f06c9267e00514bf256e42004d403b"
+    },
+    {
+      "paperId": "06764fcbceaeb6d5aae590fa01a6b721adb6932a"
+    },
+    {
+      "paperId": "fc19657790249ba30faf76668d1b34a66b4b334a"
+    },
+    {
+      "paperId": "3f940211624bd66a1105976c9909b6cd21df8f93"
+    },
+    {
+      "paperId": "b74483e4ef7ba45af25a627a87884019ad9585bb"
+    },
+    {
+      "paperId": "977bfeb24a00058d76ac4879c345f994774854a7"
+    },
+    {
+      "paperId": "c998aeb12b78122ec4143b608b517aef0aa2c821"
+    },
+    {
+      "paperId": "fd864f394bc0992b1c2ac1c1204836a1b072b8f0"
+    },
+    {
+      "paperId": "4a365837e188882e953be1a2eccb469cbe0fc952"
+    },
+    {
+      "paperId": "8346dbe6f1b69ed646fc630cd6fa2a623419c92c"
+    },
+    {
+      "paperId": "535cd7104208efcf169da395e9ad429ec0775ba1"
+    },
+    {
+      "paperId": "84f25ddd053e414f239b91552410dab0adbaedad"
+    },
+    {
+      "paperId": "613b523168201f71cea211f35a1d00d822d4f2d0"
+    },
+    {
+      "paperId": "4cba62c5a49b789f13a1495b16a4d53755b81200"
+    },
+    {
+      "paperId": "14b0242b5638f9fe56234fbea89ff1d1a44603bb"
+    },
+    {
+      "paperId": "6987d085322ea33fca80d04b4891eeb9916d3eb7"
+    },
+    {
+      "paperId": "c90410ee6a00ef7ee1e11b935347ac9e2625694f"
+    },
+    {
+      "paperId": "4f71708b58af718926d4cff1b3be4e6fda6f676f"
+    },
+    {
+      "paperId": "157f66cd9b731e292c19f06c6bd0084d34a2e443"
+    },
+    {
+      "paperId": "f263f46c10c400fb721fe044bb3c0c4188778010"
+    },
+    {
+      "paperId": "4bc18895651d620ab756f68d4694ab71583135b4"
+    },
+    {
+      "paperId": "e2da7c5a2ad66ae737c8f6971836ef61b0c61249"
+    },
+    {
+      "paperId": "1d88e09ebd27c1161a8532a05af7e7117b650853"
+    },
+    {
+      "paperId": "b9c3cabf817743eebc4c53da97c8e3bca4614c5e"
+    },
+    {
+      "paperId": "9ca545e205d5da6fe668774ce9e4bc5be280fbab"
+    },
+    {
+      "paperId": "4b9fbadfff6e65a9fa3264d41a061e0e31561027"
+    },
+    {
+      "paperId": "ea8ab6c38792f3ef479f42a55bcf6bac13b19753"
+    },
+    {
+      "paperId": "fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4"
+    },
+    {
+      "paperId": "a53acfef4eb18a83bce2685466465cb0dbc9060e"
+    },
+    {
+      "paperId": "80b26764f70c63b39ca1a48f8094422ffb3508f4"
+    },
+    {
+      "paperId": "6f5b6b6e94dca127afe5c6effa62a4c6771640d8"
+    },
+    {
+      "paperId": "d9b5afe999adcffaf88a9467b4c99860166f303c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d1c3a97700e42ad1f5aafe6bb22725b401558df0"
+    },
+    {
+      "paperId": "b5b8bd99f5a4189cfdb34679b6025876df8c49fc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "754c825c13a3c72d1dca8cbcddf1444cfdde8ee0"
+    },
+    {
+      "paperId": "24711b2a7a4dc4d0dad74bbbfeea9140abab047b"
+    },
+    {
+      "paperId": "0eee5297c007c36a922623e65398e1283c4e4c6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4abeecda63a90f2c39554843c8189a6cd8c4eea5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

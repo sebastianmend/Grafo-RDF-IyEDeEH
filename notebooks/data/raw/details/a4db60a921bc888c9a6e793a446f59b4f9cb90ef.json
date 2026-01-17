@@ -1,0 +1,166 @@
+{
+  "paperId": "a4db60a921bc888c9a6e793a446f59b4f9cb90ef",
+  "externalIds": {
+    "MAG": "2924875331",
+    "DOI": "10.17863/CAM.38134",
+    "CorpusId": 159151343
+  },
+  "url": "https://www.semanticscholar.org/paper/a4db60a921bc888c9a6e793a446f59b4f9cb90ef",
+  "title": "Sensor Applications in Agrifood Systems: Current Trends and Opportunities for Water Stewardship",
+  "venue": "Climate",
+  "year": 2019,
+  "citationCount": 19,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2225-1154/7/3/44/pdf?version=1553673749",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17863/CAM.38134?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17863/CAM.38134, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "14356268",
+      "name": "N. Tsolakis"
+    },
+    {
+      "authorId": "100496245",
+      "name": "Eirini Aivazidou"
+    },
+    {
+      "authorId": "1953762",
+      "name": "J. Srai"
+    }
+  ],
+  "abstract": "Growing global food demand and security concerns dictate the need for state-of-the-art food production technologies to increase farming efficiency. Concurrently, freshwater overexploitation in agriculture, especially in arid and water-scarce areas, emphasises the vital role of appropriate water-saving irrigations techniques to ensure natural resources sustainability in food supply networks. In line with the development of automated systems, the use of sensors for water monitoring, indicatively in the cases of smart farming or precision agriculture, could further promote the preservation of freshwater resources. To this end, this research first provides a review of sensor applications for improving sustainability in agrifood systems. We then focus on digital technologies applied for monitoring and assessing freshwater utilisation in the food commodities sector based on academic literature and real-world business evidence. A contextual map is developed for capturing the main technical, environmental and economic factors affecting the selection of sensors for water monitoring and stewardship during agricultural production. This first-effort framework, in terms of sensor-based freshwater monitoring, aims at supporting the agrifood system’s decision makers to identify the optimal sensor applications for improving sustainability and water efficiency in agricultural operations.",
+  "references": [
+    {
+      "paperId": "dcf6eb1c56f2bfd7c86ada7d0780134b1f161490"
+    },
+    {
+      "paperId": "39fafb018df87d2a1fde6eb1eab7a1202dd8099c"
+    },
+    {
+      "paperId": "a9eca69197eb72fea84632738b5168f7d9d5254a"
+    },
+    {
+      "paperId": "48e47aaf3f42133a9f8a2e029dc7f94055c75a0f"
+    },
+    {
+      "paperId": "cae4261496acd17bdfed85896b3d0ba864af261a"
+    },
+    {
+      "paperId": "a7d22a43abfb3a380dd45cf4e1513f4a042a56d2"
+    },
+    {
+      "paperId": "dc367cca9a8c687edb8aa09b7ac3fafc802d0d38"
+    },
+    {
+      "paperId": "9075e9c18a6ff78d8dd41b638ec445038a3859cf"
+    },
+    {
+      "paperId": "420d8eb0d8f9829506a7fef6140b87e045cfb402"
+    },
+    {
+      "paperId": "7d47c8dd6fe09aa9a49dce669f2c02393c1cb1d3"
+    },
+    {
+      "paperId": "17b99d8a86f3f102fa4b21c80a5bb420ca7bceec"
+    },
+    {
+      "paperId": "fd0f143b3406474519689a0c91f93d2e96793dbe"
+    },
+    {
+      "paperId": "bb3f5bc30ccdb86747f82f12c9d149ee113e2324"
+    },
+    {
+      "paperId": "d4db0a09f3cd296fe49141da9cb5393a5d4fc1d4"
+    },
+    {
+      "paperId": "8fb2eeb0f5c69106ef13d7ea81f1daa62aaf2a06"
+    },
+    {
+      "paperId": "086b23235a8b00d7fc39b6477e001aee875d1efa"
+    },
+    {
+      "paperId": "9b328421f3d4a27d4e81611b7a475090d0d6ab44"
+    },
+    {
+      "paperId": "5fcdff8b4f58bb0c4a9ed2f35d83e9f53fccab9f"
+    },
+    {
+      "paperId": "8e4cf17e95e04cb299cc447b12bb23da1ade6930"
+    },
+    {
+      "paperId": "b592f1bc54b95e074a94d20b948f1bd3b9aa8aa5"
+    },
+    {
+      "paperId": "b40e50da81fb402126ec598caa779d9fe87acf71"
+    },
+    {
+      "paperId": "5b0f3bf9db770a38134a37958f16e0dc6774ef53"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "3c1faa18049f4a3124ea7d98ebe44f02bbd989eb"
+    },
+    {
+      "paperId": "cb50bc86ee09a5eed3f0f391022068904f0ae6d4"
+    },
+    {
+      "paperId": "8a1771a115ebd8474bd60c53bbe107c3394b05a5"
+    },
+    {
+      "paperId": "10b36e255151d5be9f0b288442de6678901e7ba5"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "90a1fc325d14bcf2b891e920c081077f52bea14c"
+    },
+    {
+      "paperId": "a134a135501045c014a9a9ccf0754bd04a8e9a3d"
+    },
+    {
+      "paperId": "fc0ad53af182f67bd2bb0f1ef9d8bc48ac88bd06"
+    },
+    {
+      "paperId": "b6d350b57664cb2549b3cfb8cfeb52857c9db454"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "cd29d37817c336ca89655563b1cd03f713cb2618"
+    },
+    {
+      "paperId": "6ada5a2da9cba3005874548f4b69a47735aa600f"
+    },
+    {
+      "paperId": "e43b42570d3404b6a9c784a1fd689ca196761dcd"
+    },
+    {
+      "paperId": "18c4cacf87691a3e9b22b1a34971f9d057a617f8"
+    },
+    {
+      "paperId": "921fab4f9a9da781c36d8e4173a4f5925ae03417"
+    },
+    {
+      "paperId": "11fa570652638f60757b9bc54f91ce5b176fc223"
+    },
+    {
+      "paperId": "19c0065b1ad3f83f5ce7b0b16742d137d0f2125e"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

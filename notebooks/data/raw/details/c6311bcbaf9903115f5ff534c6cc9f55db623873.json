@@ -1,0 +1,48 @@
+{
+  "paperId": "c6311bcbaf9903115f5ff534c6cc9f55db623873",
+  "externalIds": {
+    "DOI": "10.65000/jya00z16",
+    "CorpusId": 282126737
+  },
+  "url": "https://www.semanticscholar.org/paper/c6311bcbaf9903115f5ff534c6cc9f55db623873",
+  "title": "Smart Cultivation using IOT",
+  "venue": "International Journal of Modern Computation, Information and Communication Technology",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.65000/jya00z16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65000/jya00z16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2385927620",
+      "name": "V. Vignesh"
+    },
+    {
+      "authorId": "2385930711",
+      "name": "S. Muthukaruppaiah"
+    },
+    {
+      "authorId": "2385929252",
+      "name": "V. Kalaiyarasan"
+    },
+    {
+      "authorId": "2358735991",
+      "name": "R. Prasath"
+    },
+    {
+      "authorId": "2385876512",
+      "name": "D.R Saranya"
+    }
+  ],
+  "abstract": "IOT is a revolutionary technology that represents the future of computing and communications. Most of the people around the world depend on agriculture. Because of this reason smart IT technologies are needed to migrate with traditional agricultural methods. Using modern technologies, we can control the cost, maintenance and monitoring the performances of the crops. Satellite and aerial imagery play a vital role in modern cultivation. Precision agricultural sensor monitoring network that is used to measure the information effectively, like temperature, humidity, soil PH, soil nutrition levels, water level etc. So, with the help of IOT, farmers can monitor the crops remotely via phones and computers. In this paper, we have surveyed some typical applications of agricultural IOT sensor monitoring network technologies using Cloud computing as a backbone. This survey is used to understand the different technologies and used to build sustainable smart agriculture. Simple IOT agriculture model is addressed with a wireless network. ",
+  "references": null
+}

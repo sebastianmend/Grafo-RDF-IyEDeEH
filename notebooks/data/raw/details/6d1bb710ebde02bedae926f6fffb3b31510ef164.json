@@ -1,0 +1,110 @@
+{
+  "paperId": "6d1bb710ebde02bedae926f6fffb3b31510ef164",
+  "externalIds": {
+    "MAG": "2923985379",
+    "CorpusId": 187576482
+  },
+  "url": "https://www.semanticscholar.org/paper/6d1bb710ebde02bedae926f6fffb3b31510ef164",
+  "title": "Green Wave Technologies: An Integrated Hydroponic Solution to StaggeringPopulation Growth in the Modern Day",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "121173986",
+      "name": "Joey Gallegos"
+    },
+    {
+      "authorId": "153612611",
+      "name": "M. Luong"
+    },
+    {
+      "authorId": "16962917",
+      "name": "J. Stoneking"
+    },
+    {
+      "authorId": "148241983",
+      "name": "Taajza Singleton"
+    },
+    {
+      "authorId": "147620033",
+      "name": "M. Truong"
+    },
+    {
+      "authorId": "2166041242",
+      "name": "Xianling Yan"
+    },
+    {
+      "authorId": "147198919",
+      "name": "Klaudia Cymerska"
+    },
+    {
+      "authorId": "122866576",
+      "name": "Javier Martín"
+    },
+    {
+      "authorId": "2057960485",
+      "name": "Ó. Sánchez"
+    },
+    {
+      "authorId": "147263490",
+      "name": "Kayla Uy"
+    },
+    {
+      "authorId": "2061066960",
+      "name": "R. Cheung"
+    },
+    {
+      "authorId": "146265594",
+      "name": "Brandon Hawi"
+    },
+    {
+      "authorId": "2056139368",
+      "name": "Humza Khan"
+    },
+    {
+      "authorId": "2057099945",
+      "name": "Aaron Liang"
+    },
+    {
+      "authorId": "148124257",
+      "name": "S. Riazi"
+    },
+    {
+      "authorId": "2110240439",
+      "name": "Joshua Wang"
+    },
+    {
+      "authorId": "2054869857",
+      "name": "P. Hernandez"
+    },
+    {
+      "authorId": "148084382",
+      "name": "S. Lodi"
+    },
+    {
+      "authorId": "31317199",
+      "name": "M. Olivieri"
+    },
+    {
+      "authorId": "8468202",
+      "name": "Daniela Parada"
+    },
+    {
+      "authorId": "100493127",
+      "name": "Calvin Sun"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

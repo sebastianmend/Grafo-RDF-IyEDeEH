@@ -1,0 +1,36 @@
+{
+  "paperId": "76275d9afe0247c6db8a67a7a3bc111db49e67e1",
+  "externalIds": {
+    "MAG": "2889959592",
+    "DOI": "10.1038/nbt0918-783a",
+    "CorpusId": 52162161,
+    "PubMed": "30188547"
+  },
+  "url": "https://www.semanticscholar.org/paper/76275d9afe0247c6db8a67a7a3bc111db49e67e1",
+  "title": "In silico farming drives next wave in agriculture",
+  "venue": "Nature Biotechnology",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nbt0918-783a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nbt0918-783a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46577696",
+      "name": "Eric Smalley"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

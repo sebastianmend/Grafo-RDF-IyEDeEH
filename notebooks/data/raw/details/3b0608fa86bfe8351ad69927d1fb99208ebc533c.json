@@ -1,0 +1,46 @@
+{
+  "paperId": "3b0608fa86bfe8351ad69927d1fb99208ebc533c",
+  "externalIds": {
+    "MAG": "3161605631",
+    "DOI": "10.2139/ssrn.3363092",
+    "CorpusId": 236795313
+  },
+  "url": "https://www.semanticscholar.org/paper/3b0608fa86bfe8351ad69927d1fb99208ebc533c",
+  "title": "Precision Agriculture in India- Challenges and Opportunities",
+  "venue": "International Journal of Agricultural Resources, Governance and Ecology",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3363092?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3363092, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "118726929",
+      "name": "Mahesh Kumar Soma"
+    },
+    {
+      "authorId": "32139964",
+      "name": "M. Shaheen"
+    },
+    {
+      "authorId": "8274615",
+      "name": "Farrah Zeba"
+    },
+    {
+      "authorId": "143759312",
+      "name": "M. Aruna"
+    }
+  ],
+  "abstract": "Precision farming is the latest trend in the agriculture sector which makes use of information technology to integrate all the procedures of farming from analysing the soil-moisture, weather forecasting, and the quality of seed to predicting the real-time of harvesting. India is an agrarian country where agriculture is the backbone of the economy and precision farming could be quite useful. In the present article, through a systematic literature review, the vital role of precision farming is outlined. Also, the article identifies various challenges and opportunities associated with the adoption of precision farming in India. In-depth interviews with ten farmers of the villages located near Hyderabad City of India were conducted. The article is among the first preliminary study to explore the awareness, usage, challenges, and opportunities behind the adoption of precision farming in India. The findings of the study will aid the policy makers in designing strategies for promoting precision farming in the emerging markets of India.",
+  "references": null
+}

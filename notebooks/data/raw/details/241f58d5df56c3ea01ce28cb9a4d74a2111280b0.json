@@ -1,0 +1,67 @@
+{
+  "paperId": "241f58d5df56c3ea01ce28cb9a4d74a2111280b0",
+  "externalIds": {
+    "MAG": "2922178002",
+    "DBLP": "journals/cm/RuanWCHZZSSL19",
+    "DOI": "10.1109/MCOM.2019.1800332",
+    "CorpusId": 77391283
+  },
+  "url": "https://www.semanticscholar.org/paper/241f58d5df56c3ea01ce28cb9a4d74a2111280b0",
+  "title": "A Life Cycle Framework of Green IoT-Based Agriculture and Its Finance, Operation, and Management Issues",
+  "venue": "IEEE Communications Magazine",
+  "year": 2019,
+  "citationCount": 163,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MCOM.2019.1800332?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MCOM.2019.1800332, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2865211",
+      "name": "Junhu Ruan"
+    },
+    {
+      "authorId": "2143529656",
+      "name": "Yuxuan Wang"
+    },
+    {
+      "authorId": "123337480",
+      "name": "F. Chan"
+    },
+    {
+      "authorId": "31429904",
+      "name": "Xiangpei Hu"
+    },
+    {
+      "authorId": "3404059",
+      "name": "Minjuan Zhao"
+    },
+    {
+      "authorId": "2075371823",
+      "name": "Fangwei Zhu"
+    },
+    {
+      "authorId": "1991299",
+      "name": "Baofeng Shi"
+    },
+    {
+      "authorId": "1491235429",
+      "name": "Yan Shi"
+    },
+    {
+      "authorId": "145957468",
+      "name": "Fan Lin"
+    }
+  ],
+  "abstract": "The increasing population in the world forces humans to improve farm yields using advanced technologies. The Internet of Things (IoT) is one promising technique to achieve precision agriculture, which is expected to greatly increase yields. However, the large-scale application of IoT systems in agriculture is facing challenges such as huge investment in agriculture IoT systems and non-tech-savvy farmers. To identify these challenges, we summarize the applications of IoT techniques in agriculture in four categories: controlled environment planting, open-field planting, livestock breeding, and aquaculture and aquaponics. The focus on implementing agriculture IoT systems is suggested to be expanded from the growth cycle to the agri-products life cycle. Meanwhile, the energy concern should be considered in the implementation of agriculture IoT systems. The construction of green IoT systems in the whole life cycle of agri-products will have great impact on farmers' interest in IoT techniques. With the life cycle framework, emerging finance, operation, and management (FOM) issues in the implementation of green IoT systems in agriculture are observed, such as IoT finance, supply chain and big data financing, network nodes recharging and repairing, and IoT data management. These FOM issues call for innovative farm production modes and new types of agribusiness enterprises.",
+  "references": null
+}

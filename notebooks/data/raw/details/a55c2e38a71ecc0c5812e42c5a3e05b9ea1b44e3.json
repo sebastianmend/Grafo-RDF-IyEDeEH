@@ -1,0 +1,44 @@
+{
+  "paperId": "a55c2e38a71ecc0c5812e42c5a3e05b9ea1b44e3",
+  "externalIds": {
+    "DBLP": "journals/iet-ipr/KaurPG18",
+    "MAG": "2790578909",
+    "DOI": "10.1049/iet-ipr.2017.0822",
+    "CorpusId": 49238886
+  },
+  "url": "https://www.semanticscholar.org/paper/a55c2e38a71ecc0c5812e42c5a3e05b9ea1b44e3",
+  "title": "Semi-automatic leaf disease detection and classification system for soybean culture",
+  "venue": "IET Image Processing",
+  "year": 2018,
+  "citationCount": 171,
+  "influentialCitationCount": 12,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1049/iet-ipr.2017.0822?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1049/iet-ipr.2017.0822, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4652214",
+      "name": "Sukhvir Kaur"
+    },
+    {
+      "authorId": "3136973",
+      "name": "Shreelekha Pandey"
+    },
+    {
+      "authorId": "48820816",
+      "name": "S. Goel"
+    }
+  ],
+  "abstract": "Development of automatic disease detection and classification system is significantly explored in precision agriculture. In the past few decades, researchers have studied several cultures exploiting different parts of a plant. A similar study is performed for Soybean using leaf images. A rule based semi-automatic system using concepts of k\n-means is designed and implemented to distinguish healthy leaves from diseased leaves. In addition, a diseased leaf is classified into one of the three categories (\n downy mildew\n, frog eye\n, and Septoria leaf blight\n). Experiments are performed by separately utilising colour features, texture features, and their combinations to train three models based on support vector machine classifier. Results are generated using thousands of images collected from PlantVillage dataset. Acceptable average accuracy values are reported for all the considered combinations which are also found to be better than existing ones. This study also attempts to discover the best performing feature set for leaf disease detection in Soybean. The system is shown to efficiently compute the disease severity as well. Visual examination of leaf samples further proves the suitability of the proposed system for detection, classification, and severity calculation.",
+  "references": null
+}

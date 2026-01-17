@@ -1,0 +1,195 @@
+{
+  "paperId": "18f8cf1a64937fc948ea8220fc12a78fd5b74568",
+  "externalIds": {
+    "MAG": "2946893621",
+    "PubMedCentral": "6648038",
+    "DOI": "10.1021/acsomega.9b01035",
+    "CorpusId": 189985415,
+    "PubMed": "31460042"
+  },
+  "url": "https://www.semanticscholar.org/paper/18f8cf1a64937fc948ea8220fc12a78fd5b74568",
+  "title": "Multifunctional Stretchable Sensors for Continuous Monitoring of Long-Term Leaf Physiology and Microclimate",
+  "venue": "ACS Omega",
+  "year": 2019,
+  "citationCount": 102,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b01035",
+    "status": "GOLD",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6648038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "71078085",
+      "name": "Yicong Zhao"
+    },
+    {
+      "authorId": "3052508",
+      "name": "Shenghan Gao"
+    },
+    {
+      "authorId": "2108721433",
+      "name": "Jia Zhu"
+    },
+    {
+      "authorId": "2109000739",
+      "name": "Jiameng Li"
+    },
+    {
+      "authorId": "2116309349",
+      "name": "Hang Xu"
+    },
+    {
+      "authorId": "36741453",
+      "name": "Kexin Xu"
+    },
+    {
+      "authorId": "2088929",
+      "name": "Huanyu Cheng"
+    },
+    {
+      "authorId": "7278855",
+      "name": "Xian Huang"
+    }
+  ],
+  "abstract": "Communication with plants to understand their growth mechanisms and interaction with the surrounding environment may improve production yield in agriculture and facilitate prevention of plant diseases and negative influence of environmental stress. Typical sensing technologies in plant biology and precision agriculture largely rely on techniques with low spatial and temporal resolutions, and fail to continuously and precisely determine localized variation in leaf physiology and microenvironments. Here, techniques to develop a multifunctional stretchable leaf-mounted sensor have been developed to offer optimized adaptability to plant growth and monitor leaf physiological and environmental conditions in continuous and highly sensitive manners. The multifunctional leaf sensor contains multiple heterogeneous sensing elements made of metal, carbon nanotube matrix, and silicon, leading to temperature, hydration, light illuminance, and strain sensing capabilities on a leaf. Evaluation under a controlled environment indicates excellent precision and accuracy of the sensor compared to conventional devices. Furthermore, indoor and outdoor experiments have demonstrated the multifunctional monitoring ability of the sensor in real situations. The multifunctional stretchable sensor holds the promise to advance monitoring techniques in plant biology and precision agriculture, resulting in improved capability to record slow and subtle physiological changes in plants and plant/environment interaction.",
+  "references": [
+    {
+      "paperId": "b56ecd8c40a61f7ce597679601cd0d697bbc2fa9"
+    },
+    {
+      "paperId": "37f13e5869c6963364aefd324e5b4d4ca5df1c4f"
+    },
+    {
+      "paperId": "6696f744b8e1f9fc9d68bfabbe1e0776859cf6ba"
+    },
+    {
+      "paperId": "b7c37484aeec5f39becf05451e41421e77a67353"
+    },
+    {
+      "paperId": "6598cc8c956a1d569fde78cd9a0e5b928104787c"
+    },
+    {
+      "paperId": "16eb988cde3a6117ee638c3b25522aacab2b740e"
+    },
+    {
+      "paperId": "c869b35023cdfe3f258aa5a842e3622d7b2252b3"
+    },
+    {
+      "paperId": "f565832795db0cf1cd0707ef224949cdd27082be"
+    },
+    {
+      "paperId": "3d55c11d11df6c45ae3cd7f15dc78a3fe6f2237e"
+    },
+    {
+      "paperId": "b7d0321493b425317a65511ca1aeede53e7084d2"
+    },
+    {
+      "paperId": "5ee3b7e55b44dd2b40c38332af3bd8b396913b1f"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "b93b876ad5a8df83e56fd75cd87e2bbe66d628e2"
+    },
+    {
+      "paperId": "692c2a5768791336565e0eccd5de31114153c68a"
+    },
+    {
+      "paperId": "a6c102b5ff95458075c82efa5b0ce70615fb104f"
+    },
+    {
+      "paperId": "5a20a8e48857364effac144233be9be72b1440df"
+    },
+    {
+      "paperId": "2279242241633d4bbf3ee0d542122cf3eea83474"
+    },
+    {
+      "paperId": "fb0d19f67ddd0d023449425accb382a76ca495c5"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "b4fa6b10f740547f834bd89eb67a80bebb9244b9"
+    },
+    {
+      "paperId": "6b0d2c0a943f05c099afd81bebdf9de248f43f39"
+    },
+    {
+      "paperId": "3dd0a1f55916d9f9887733e4528142e1f36eb075"
+    },
+    {
+      "paperId": "22efc5291c07bf4ca7cb5f3dc2e8b8394c5acec6"
+    },
+    {
+      "paperId": "f4d487db69ef3e30012c10882b225c504c4ec694"
+    },
+    {
+      "paperId": "e080286f9e19ba8736bf8ebb6a576e7ad8140b03"
+    },
+    {
+      "paperId": "7c5a9eea84448d1d8779a6464a0efa34d72e3160"
+    },
+    {
+      "paperId": "4a59d959c563a2e4ffe268f6598ca925817cd74c"
+    },
+    {
+      "paperId": "125deeb3a047a3b4789ccbc77f84dedee9af5887"
+    },
+    {
+      "paperId": "6ddcde0d54596ce6da585ec45eaf45c7a4b6fa37"
+    },
+    {
+      "paperId": "e8cd3fbc891ddf91561842fa6da47b9174477bee"
+    },
+    {
+      "paperId": "1923009bee355c74fe4bf9a0bdb95df2d6ad8d35"
+    },
+    {
+      "paperId": "953c8d1cb3b7b9cde708b8fe951fed8eb1bc106a"
+    },
+    {
+      "paperId": "1908120911cbcaff378169dec47a65a54c9e4123"
+    },
+    {
+      "paperId": "e2df71a688bb58fffb3f10aa33e184082c963913"
+    },
+    {
+      "paperId": "32ac20f7bd9a2fe25ff01316b7acbb7f5d6cd72b"
+    },
+    {
+      "paperId": "dbe045b0ab5577df90431fa919d6f90172529be0"
+    },
+    {
+      "paperId": "54326c1ff65017db84810ad856d0a8fa024bd215"
+    },
+    {
+      "paperId": "c98c8be5ffa7dd033c54bc055e06903e6103b758"
+    },
+    {
+      "paperId": "9afe224573ed3500cfd46041bb71aa5560953487"
+    },
+    {
+      "paperId": "a2fe4c62dfaed511d2c3b5ee5029d359af788bab"
+    },
+    {
+      "paperId": "ada12ff23e862c86e4271bc6cdaaa6f92dc1bf90"
+    },
+    {
+      "paperId": "44dfafbc39f81afb45de13fd721012e80d94c2e1"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

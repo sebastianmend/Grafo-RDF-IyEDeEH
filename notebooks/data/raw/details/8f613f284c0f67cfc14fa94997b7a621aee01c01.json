@@ -1,0 +1,148 @@
+{
+  "paperId": "8f613f284c0f67cfc14fa94997b7a621aee01c01",
+  "externalIds": {
+    "MAG": "2904612197",
+    "DBLP": "journals/sensors/Egea-RocaTLSWBS18",
+    "PubMedCentral": "6308591",
+    "DOI": "10.3390/s18124483",
+    "CorpusId": 57390424,
+    "PubMed": "30567379"
+  },
+  "url": "https://www.semanticscholar.org/paper/8f613f284c0f67cfc14fa94997b7a621aee01c01",
+  "title": "Design, Implementation and Validation of a GNSS Measurement Exclusion and Weighting Function with a Dual Polarized Antenna †",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/12/4483/pdf?version=1545134053",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6308591, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2697060",
+      "name": "D. Egea"
+    },
+    {
+      "authorId": "1405244167",
+      "name": "Antonio Tripiana-Caballero"
+    },
+    {
+      "authorId": "1402919988",
+      "name": "J. López-Salcedo"
+    },
+    {
+      "authorId": "1401642241",
+      "name": "G. Seco-Granados"
+    },
+    {
+      "authorId": "51232520",
+      "name": "W. D. Wilde"
+    },
+    {
+      "authorId": "2915620",
+      "name": "B. Bougard"
+    },
+    {
+      "authorId": "14132374",
+      "name": "J. Sleewaegen"
+    },
+    {
+      "authorId": "145217549",
+      "name": "Alexander Popugaev"
+    }
+  ],
+  "abstract": "Global Navigation Satellite Systems (GNSSs) have become a ubiquitous tool for our modern society to carry out vital tasks such as transportation, civil engineering or precision agriculture. This breath has reached the realm of safety-critical applications such as time management of critical infrastructures or autonomous vehicles, in which GNSS is an essential tool nowadays. Unfortunately, current GNSS performance is not enough to fulfill the requirements of these professional and critical applications. For this reason, the FANTASTIC project was launched to boost the adoption of these applications. The project was funded by the European GNSS agency (GSA) in order to enhance the robustness and accuracy of GNSS in harsh environments. This paper presents the part related to the development of a weighting and exclusion function with a dual circularly polarized antenna. The idea is to reduce the effects of multipath by weighting and/or excluding those measurements affected by multipath. The observables and other metrics obtained from a dual polarized antenna will be exploited to define an exclusion threshold and to provide the weights. Real-world experiments will show the improvement in the positioning solution, using all available constellations, obtained with the developed technique.",
+  "references": [
+    {
+      "paperId": "bc5274a596ff7fb40cc917d8ea01230d67037f66"
+    },
+    {
+      "paperId": "35b61325aecaaf2b5d7473b8a4d809609180510a"
+    },
+    {
+      "paperId": "4cbde12f9b159a24d1ba43528972c66cda37ec44"
+    },
+    {
+      "paperId": "e6df60856a18b62aa973f41b5001a23f60686432"
+    },
+    {
+      "paperId": "2bb5defb3bbf6dd0f23f6e0ea85ab46104bf5c89"
+    },
+    {
+      "paperId": "2750eb955750b9ef9468728970f09ca923b34dfe"
+    },
+    {
+      "paperId": "90f77eb4e35a6390205c9de36d39d7e559fa6fdc"
+    },
+    {
+      "paperId": "a9297d24a58a41d3759a20f8e863b05451343750"
+    },
+    {
+      "paperId": "61eaee4b188224bbec74197fa1ca75e87500cc71"
+    },
+    {
+      "paperId": "a1fe14dfc43c2c33785f6160976598988b1c2e79"
+    },
+    {
+      "paperId": "8c46577d60632a1d49082e6672c8b9d49a605b40"
+    },
+    {
+      "paperId": "837a829f2be8e56822700e278907c09774e8d07a"
+    },
+    {
+      "paperId": "4c392905443a30d08e484632ffd9eb0ea327de93"
+    },
+    {
+      "paperId": "45c9c7fb97803d52e753582ec8e6a86ba37993bf"
+    },
+    {
+      "paperId": "8621d219483c5ab3ff00ae2844bf739d99b3f1cf"
+    },
+    {
+      "paperId": "64fc5cbd7e8dae59b9c774ac921addaf1bbf1d1e"
+    },
+    {
+      "paperId": "0d130b2fae0d6f4856a57857a79f1220baf1a38b"
+    },
+    {
+      "paperId": "ec2bf5f27ee6cb17601c36a506ee9f857711a1e3"
+    },
+    {
+      "paperId": "67b9808a760a5920101753bd6af156214e943f91"
+    },
+    {
+      "paperId": "31860894d80d51f62fbb139857d135e135a11cfd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e40d63a93801db724d16d399c9c2a735d3a6a7db"
+    },
+    {
+      "paperId": "05cc1f57bc260bbac6f7b3e2fb29a661f6cc4568"
+    },
+    {
+      "paperId": "1bbf357c41890b39edaa2de40dc7d369d5480594"
+    },
+    {
+      "paperId": "2102ce1f2cc27467de6d63419b50c4b458d9de8f"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

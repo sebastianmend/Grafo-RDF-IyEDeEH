@@ -1,0 +1,177 @@
+{
+  "paperId": "61e81f3ffc2bc50d3b5d5b43b605827d8823029a",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-1905-12411",
+    "ArXiv": "1905.12411",
+    "MAG": "2947264019",
+    "DOI": "10.1007/978-3-030-23551-2_1",
+    "CorpusId": 168170063
+  },
+  "url": "https://www.semanticscholar.org/paper/61e81f3ffc2bc50d3b5d5b43b605827d8823029a",
+  "title": "Designing and Implementing Data Warehouse for Agricultural Big Data",
+  "venue": "BigData Congress [Services Society]",
+  "year": 2019,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1905.12411, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145357985",
+      "name": "V. M. Ngo"
+    },
+    {
+      "authorId": "1388632905",
+      "name": "Nhien-An Le-Khac"
+    },
+    {
+      "authorId": "144549246",
+      "name": "Mohand Tahar Kechadi"
+    }
+  ],
+  "abstract": "In recent years, precision agriculture that uses modern information and communication technologies is becoming very popular. Raw and semi-processed agricultural data are usually collected through various sources, such as: Internet of Thing (IoT), sensors, satellites, weather stations, robots, farm equipment, farmers and agribusinesses, etc. Besides, agricultural datasets are very large, complex, unstructured, heterogeneous, non-standardized, and inconsistent. Hence, the agricultural data mining is considered as Big Data application in terms of volume, variety, velocity and veracity. It is a key foundation to establishing a crop intelligence platform, which will enable resource efficient agronomy decision making and recommendations. In this paper, we designed and implemented a continental level agricultural data warehouse by combining Hive, MongoDB and Cassandra. Our data warehouse capabilities: (1) flexible schema; (2) data integration from real agricultural multi datasets; (3) data science and business intelligent support; (4) high performance; (5) high storage; (6) security; (7) governance and monitoring; (8) replication and recovery; (9) consistency, availability and partition tolerant; (10) distributed and cloud deployment. We also evaluate the performance of our data warehouse.",
+  "references": [
+    {
+      "paperId": "dd1af9882b74d32818aaa38458281d361d1c610d"
+    },
+    {
+      "paperId": "d2aa0548d1709dd524bdbb66ec3a0b99e2f88f3e"
+    },
+    {
+      "paperId": "0856f7c043b812e684593ed989151e2300e789de"
+    },
+    {
+      "paperId": "7d57d79e9900e9525e1dfbf11d73621a412ae372"
+    },
+    {
+      "paperId": "b867e0dcb92ca4b17fbe3dceaf3baedfa3724b4d"
+    },
+    {
+      "paperId": "d30b000d528af946bf93bd45c69324668fa6b17b"
+    },
+    {
+      "paperId": "0dcffac2fca3accad5cb22e0ae920c264bbe55cf"
+    },
+    {
+      "paperId": "ba75900954cc5e884c526160db658cad6cc38c33"
+    },
+    {
+      "paperId": "faaad9fc7051f46751bee9c5f71e75eb4f2d4393"
+    },
+    {
+      "paperId": "9433ac9d423bd207deaac1d6d3268979e97d9c38"
+    },
+    {
+      "paperId": "7ee2cfd7814d00a688eefa1d50fad4b2828e5f65"
+    },
+    {
+      "paperId": "967f42ab58bddcad88e9f0fc056d7a682d490c6b"
+    },
+    {
+      "paperId": "5547d1d06896b02066149d138978b1340c7884e7"
+    },
+    {
+      "paperId": "16dff436f43bd1d103ee5a65647e79c14ff9c8a7"
+    },
+    {
+      "paperId": "b5f95887c3f0998906841b84e03fe1e99422bbab"
+    },
+    {
+      "paperId": "61a03bebf1aa6ca05e7d06c9c29a36f90e9d8f04"
+    },
+    {
+      "paperId": "56939284be4b42d28867cedcc037543b684d004e"
+    },
+    {
+      "paperId": "dc6f4ea957743727c89c2e43358b51e6d3fb792e"
+    },
+    {
+      "paperId": "69a51b2210e09e6dbbdad9ec56686a219a429989"
+    },
+    {
+      "paperId": "a981a45ad2dd1c15f1f5ada9bfd02d23279264d9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "555ac689af4c183e805adc00a0e0253be1f48aaa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3e46777ef526de212d9919b8fe2ea48803a80524"
+    },
+    {
+      "paperId": "a8bcb0fa5bd28b87943d99a8d9960d13d9c67d35"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d448a33c77562dd0bc001da91336a0160a141272"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "25376f1a28a0a386d5d001da315891e1e59b0a22",
+  "externalIds": {
+    "MAG": "2991739542",
+    "DOI": "10.30766/2072-9081.2018.66.5.83-89",
+    "CorpusId": 216861740
+  },
+  "url": "https://www.semanticscholar.org/paper/25376f1a28a0a386d5d001da315891e1e59b0a22",
+  "title": "Оценка засоренности агроценозов и эффективность дифференцированного применения гербицидов в севообороте",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.30766/2072-9081.2018.66.5.83-89",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30766/2072-9081.2018.66.5.83-89?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30766/2072-9081.2018.66.5.83-89, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "73549727",
+      "name": "А. М. Гурьянов"
+    },
+    {
+      "authorId": "83437980",
+      "name": "Алексей Анатольевич Артемьев"
+    }
+  ],
+  "abstract": "In precision agriculture, the estimation of agrocoenosis for weediness is carried out using satellite images or aerial surveys, mobile ground equipment and land survey using the traditional framework survey in the adopted global positioning system. According to the results of the survey or inspection, a map of crops weediness is built, on the basis of which the exact application of herbicides is carried out. At the same time the development of new plant protection technologies is associated with the need for special studies aimed at identifying their practical widespread use. The study of the effectiveness of differentiated herbicide use for agricultural crops in crop rotation was carried out in 2003-2010 at the experimental site of the Mordovia Research Agricultural Institute with an area of 1 ha divided into 45 sectors. The research was carried out in crop rotation: winter wheat (test sowing) - spring wheat, annual grasses - spring barley - bare fallow - winter wheat - spring wheat. It has been established that weeds placement in the site areas was extremely uneven, that allowed carrying out herbicide application selectively in places with a high weediness level. Locally differentiated herbicides use in field crop rotation provided 29.4-37.0 % decrease in its consumption and at the same time did not lead to the increase of cultivated plants weediness. To identify the effectiveness of herbicides in field crop rotation an economic assessment was carried out, which revealed the advantage of differentiated application of herbicides over traditional use. In comparison with the traditional technology, the difference in the average cost of herbicide application was 134.56 rubles/ha, or 33.6 % decrease. Therefore, the differentiated herbicides use is a promising direction in the development of effective resource-saving technologies in agricultural production.",
+  "references": []
+}

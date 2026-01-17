@@ -1,0 +1,50 @@
+{
+  "paperId": "4d3cd41823d9c117bd05ad97abcb847041b49c9f",
+  "externalIds": {
+    "MAG": "2745334359",
+    "DOI": "10.1007/s11119-017-9537-2",
+    "CorpusId": 24771074
+  },
+  "url": "https://www.semanticscholar.org/paper/4d3cd41823d9c117bd05ad97abcb847041b49c9f",
+  "title": "Educational needs and perceptions of the sustainability of precision agriculture: survey evidence from Greece",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-017-9537-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-017-9537-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "23542408",
+      "name": "Georgios Kountios"
+    },
+    {
+      "authorId": "3108805",
+      "name": "A. Ragkos"
+    },
+    {
+      "authorId": "2808886",
+      "name": "T. Bournaris"
+    },
+    {
+      "authorId": "23589430",
+      "name": "G. Papadavid"
+    },
+    {
+      "authorId": "2025627",
+      "name": "A. Michailidis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

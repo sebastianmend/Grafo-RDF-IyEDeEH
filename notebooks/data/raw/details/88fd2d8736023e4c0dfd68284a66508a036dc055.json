@@ -1,0 +1,323 @@
+{
+  "paperId": "88fd2d8736023e4c0dfd68284a66508a036dc055",
+  "externalIds": {
+    "DOI": "10.20546/ijcmas.2019.805.200",
+    "CorpusId": 241443314
+  },
+  "url": "https://www.semanticscholar.org/paper/88fd2d8736023e4c0dfd68284a66508a036dc055",
+  "title": "More Rice, Less Water-Precision Water Management Approaches for Increasing Water Productivity in Irrigated Rice-Based Systems under North IGP: A Review",
+  "venue": "International Journal of Current Microbiology and Applied Sciences",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.20546/ijcmas.2019.805.200",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20546/ijcmas.2019.805.200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20546/ijcmas.2019.805.200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32350227",
+      "name": "N. C. Mahajan"
+    },
+    {
+      "authorId": "145435134",
+      "name": "R. Naresh"
+    },
+    {
+      "authorId": "30182154",
+      "name": "S. Tomar"
+    },
+    {
+      "authorId": "19212406",
+      "name": "V. Vek"
+    },
+    {
+      "authorId": "81746440",
+      "name": "Kancheti Mrunalini"
+    },
+    {
+      "authorId": "2291836535",
+      "name": "M. Sharath Chandra"
+    },
+    {
+      "authorId": "117171383",
+      "name": "Lingutla Sirisha"
+    }
+  ],
+  "abstract": "ISSN: 2319-7706 Volume 8 Number 05 (2019) Journal homepage: http://www.ijcmas.com Water is a critical input for productivity enhancement especially of field crops. Its judicious and optimum use is needed utmost for realizing higher resource use efficiency and plugging gaps in production. Key technological interventions, which could alter or rectify the usage pattern or strategies in freshwater utilization in agriculture, are the need of the hour. Precision water management approach could help in conserving and making more-efficient use of scarce water resources through integrated management combined with selected external inputs/technologies. In this context, the scientific interventions on water management involving precision levelling of land, no tillage or reduced tillage systems, furrow irrigated raised bed planting systems and other inclusive technological practices could enforce appropriate water management schedules. The potentials for water savings in rice production appear to be very large. But we do not know the degree to which various farm and system interventions will lead to sustainable water savings in the water basin until we can quantify the downstream impact of the interventions. Studies on the economic benefits and costs of alternative interventions are also lacking. Without this additional information, it will be difficult to identify the potential benefits and the most appropriate strategies for increasing irrigation water productivity in rice-based systems. During the crop growth period, the amount of water usually applied to the field is much more than the actual field requirement. When water supply within the irrigation system is unreliable, farmers try to store much more water in the field than needed as insurance against a possible shortage in the future. Rice transplanted on wide raised beds and transplanted rice under reduced tillage plots consumed more moisture from the deeper profile layer than conventional tillage practice Transplanted basmati rice after puddling recorded higher bulk density and more contribution from top layer. Dry-seeded rice technology offers a significant opportunity for conserving irrigation water by using rainfall more effectively. The future of rice production will therefore depend heavily on developing and adopting strategies and practices that will use water efficiently in irrigation schemes. This review paper emphasizes the need for integrating various water-saving measures into practical models and for conducting holistic assessments of their impact within and outside irrigation systems in the water basin. K e y w o r d s Water productivity, Tillage, Water balance, Alternate wetting and drying Accepted: 15 April 2019 Available Online: 10 May 2019 Article Info Int.J.Curr.Microbiol.App.Sci (2019) 8(5): 1727-1747",
+  "references": [
+    {
+      "paperId": "7755b5f60a6935c9194fb2f414edace3f5d72ae0"
+    },
+    {
+      "paperId": "a9f5ee5c5b671e6a7dc1bd07af528a99500096cb"
+    },
+    {
+      "paperId": "f3429db25dafa7c81eca434b35b2580323310cb0"
+    },
+    {
+      "paperId": "30b98f5f8912070082672d8424b4a9e76a6bb73a"
+    },
+    {
+      "paperId": "823d72bb16d4584ed1287c5890eaf19aab6d9150"
+    },
+    {
+      "paperId": "d2d0f98938f58fe0434703d77f2f1e804429f85b"
+    },
+    {
+      "paperId": "9e8de6d42d87f5037c3904d97c75d29b555e9d22"
+    },
+    {
+      "paperId": "5799af8aab197bd5c4f2e6dad27a923413daddbe"
+    },
+    {
+      "paperId": "b51673f937dca94157c848229ab770dbfa0f7471"
+    },
+    {
+      "paperId": "dc316dabacea0a3a2691e3a97d3a5c7887080990"
+    },
+    {
+      "paperId": "645da63299bd94c161a8e7cc2ee4836190e727b1"
+    },
+    {
+      "paperId": "cfe039cd52f4804281804196e9e848e8320c090b"
+    },
+    {
+      "paperId": "53fe9d0c0a5b7a42a93dd861094c6d1c9b6265f6"
+    },
+    {
+      "paperId": "cba323da93c0e5dc3394b135544a0f944d596466"
+    },
+    {
+      "paperId": "cf7c96e381fd5f108bbb360da8054f4504ec17d5"
+    },
+    {
+      "paperId": "98cc3404f1e24b31fb9c9c3fd42df7091af310ab"
+    },
+    {
+      "paperId": "3fbb8691498f9c967f82c21cdb6c4af41611c461"
+    },
+    {
+      "paperId": "f1a5421df814b732dc6ceecf14adff538d8773f2"
+    },
+    {
+      "paperId": "aaae6bf4c2cc244b2183821f740b85d089c1805a"
+    },
+    {
+      "paperId": "c394d36ac714fabdb5917beb786489212dc53642"
+    },
+    {
+      "paperId": "6cfe48f7d6383c9b4d2a9582a1877425582f7bf0"
+    },
+    {
+      "paperId": "5f6f11ddc425261ffcb40ee9ab9c22c6be80766f"
+    },
+    {
+      "paperId": "e097c4d5f17fbc3e8c31ba302ecf2370ce452666"
+    },
+    {
+      "paperId": "5f105e13f809dc7fffa161803775b42c03b397fb"
+    },
+    {
+      "paperId": "60fe73d2257090551b95cd99a7fca07f541cef03"
+    },
+    {
+      "paperId": "5572dc29d647b85d15ea4fa400eac6e3cd19c7a1"
+    },
+    {
+      "paperId": "a54a5232faa202c24e661f39cd0234ab72f267ad"
+    },
+    {
+      "paperId": "d8b0933044a656fc48216dfdaaaf16dac046fb16"
+    },
+    {
+      "paperId": "c0abce7fb0c723f352722b2af5b176e13b099415"
+    },
+    {
+      "paperId": "5f2b011d113b96931e8095e958ffab05d35604aa"
+    },
+    {
+      "paperId": "d6de9573992beae78dd6165d11f4a7758c565bc7"
+    },
+    {
+      "paperId": "7d6e86a98a0b1a933bbabfe42d5a1d858f3f078b"
+    },
+    {
+      "paperId": "c041a7c3f7a40f17588458221023360896a12b6d"
+    },
+    {
+      "paperId": "fa58a102ebb080724812d69e394258f6d0be6db6"
+    },
+    {
+      "paperId": "0c8bb482f368a82ebe082eba15aa3d5613295e0f"
+    },
+    {
+      "paperId": "cd604a7521e995c6e7339fc87335fcb388cf7b9d"
+    },
+    {
+      "paperId": "fd35b4493913ba9af058af54b65c3650bc06675a"
+    },
+    {
+      "paperId": "adb95c57b890ecbdd44c39c7be5a245994e41fbf"
+    },
+    {
+      "paperId": "3a6e72da43203ff496e96880cca5ac046096ab01"
+    },
+    {
+      "paperId": "338b6f8cd1ce7eea2503f9200a63c50d13f10181"
+    },
+    {
+      "paperId": "7f4a7f3c501c146b0bcf114787e7aa096b42394c"
+    },
+    {
+      "paperId": "621b543fa684ffb85088051f94d83df011bdfd4f"
+    },
+    {
+      "paperId": "794022a878e190c23b6ba8ec30f2da50e5432985"
+    },
+    {
+      "paperId": "8d236188f4bc32513b7c7c10cde4de3fd2efda76"
+    },
+    {
+      "paperId": "bd44c2d24a9e03b9c7c30c3734ee98aa987e59bf"
+    },
+    {
+      "paperId": "ea2904599b1ebaaea74534f883938ba61e767eb3"
+    },
+    {
+      "paperId": "87184cdadea47815fe9afc2af2e19853ddf3dcfe"
+    },
+    {
+      "paperId": "64839eca4c9c6744cf644db91a65aeb3833d2a5e"
+    },
+    {
+      "paperId": "3bd8a720b727edccdc8849973c0f0d383272861b"
+    },
+    {
+      "paperId": "4db560eb157a2e2dbc5f7a57b4ff61267dc2f0d8"
+    },
+    {
+      "paperId": "8bb8e046e1f52c53b4a774e1365f7685ec059603"
+    },
+    {
+      "paperId": "b134b0c3528ff838d982d792834a9ca2e4d113b6"
+    },
+    {
+      "paperId": "5f51220da130c1069ee456cf774d481262ec8816"
+    },
+    {
+      "paperId": "b2b1c2eab803c764ba4caad7df3e380cc31cbd73"
+    },
+    {
+      "paperId": "289ef1839180343ed60072f95755ccac5be67fe7"
+    },
+    {
+      "paperId": "ad84ba192abb105b57a6f282c2a18b2fc0b2ea3c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

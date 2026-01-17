@@ -1,0 +1,366 @@
+{
+  "paperId": "13624ebc9e3810a3e22981429ce661575f7ff27a",
+  "externalIds": {
+    "MAG": "2966712205",
+    "PubMedCentral": "6687941",
+    "DOI": "10.1128/mSystems.00211-19",
+    "CorpusId": 199467164,
+    "PubMed": "31387929"
+  },
+  "url": "https://www.semanticscholar.org/paper/13624ebc9e3810a3e22981429ce661575f7ff27a",
+  "title": "Identification of Primary Antimicrobial Resistance Drivers in Agricultural Nontyphoidal Salmonella enterica Serovars by Using Machine Learning",
+  "venue": "mSystems",
+  "year": 2019,
+  "citationCount": 29,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1128/msystems.00211-19",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6687941, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48332298",
+      "name": "F. Maguire"
+    },
+    {
+      "authorId": "2743112",
+      "name": "M. A. Rehman"
+    },
+    {
+      "authorId": "145357300",
+      "name": "C. Carrillo"
+    },
+    {
+      "authorId": "3974695",
+      "name": "M. Diarra"
+    },
+    {
+      "authorId": "2708164",
+      "name": "R. Beiko"
+    }
+  ],
+  "abstract": "Antimicrobial resistance (AMR) represents an existential threat to the function of modern medicine. Genomics and machine learning methods are being increasingly used to analyze and predict AMR. This type of surveillance is very important to try to reduce the impact of AMR. Machine learning models are typically trained using genomic data, but the aspects of the genomes that they use to make predictions are rarely analyzed. In this work, we showed how, by using different types of machine learning models and performing this analysis, it is possible to identify the key genes underlying AMR in nontyphoidal Salmonella (NTS). NTS is among the leading cause of foodborne illness globally; however, AMR in NTS has not been heavily studied within the food chain itself. Therefore, in this work we performed a broad-scale analysis of the AMR in NTS isolates from commercial chicken farms and identified some priority AMR genes for surveillance. ABSTRACT Nontyphoidal Salmonella (NTS) is a leading global cause of bacterial foodborne morbidity and mortality. Our ability to treat severe NTS infections has been impaired by increasing antimicrobial resistance (AMR). To understand and mitigate the global health crisis AMR represents, we need to link the observed resistance phenotypes with their underlying genomic mechanisms. Broiler chickens represent a key reservoir and vector for NTS infections, but isolates from this setting have been characterized in only very low numbers relative to clinical isolates. In this study, we sequenced and assembled 97 genomes encompassing 7 serotypes isolated from broiler chicken in farms in British Columbia between 2005 and 2008. Through application of machine learning (ML) models to predict the observed AMR phenotype from this genomic data, we were able to generate highly (0.92 to 0.99) precise logistic regression models using known AMR gene annotations as features for 7 antibiotics (amoxicillin-clavulanic acid, ampicillin, cefoxitin, ceftiofur, ceftriaxone, streptomycin, and tetracycline). Similarly, we also trained “reference-free” k-mer-based set-covering machine phenotypic prediction models (0.91 to 1.0 precision) for these antibiotics. By combining the inferred k-mers and logistic regression weights, we identified the primary drivers of AMR for the 7 studied antibiotics in these isolates. With our research representing one of the largest studies of a diverse set of NTS isolates from broiler chicken, we can thus confirm that the AmpC-like CMY-2 β-lactamase is a primary driver of β-lactam resistance and that the phosphotransferases APH(6)-Id and APH(3″-Ib) are the principal drivers of streptomycin resistance in this important ecosystem. IMPORTANCE Antimicrobial resistance (AMR) represents an existential threat to the function of modern medicine. Genomics and machine learning methods are being increasingly used to analyze and predict AMR. This type of surveillance is very important to try to reduce the impact of AMR. Machine learning models are typically trained using genomic data, but the aspects of the genomes that they use to make predictions are rarely analyzed. In this work, we showed how, by using different types of machine learning models and performing this analysis, it is possible to identify the key genes underlying AMR in nontyphoidal Salmonella (NTS). NTS is among the leading cause of foodborne illness globally; however, AMR in NTS has not been heavily studied within the food chain itself. Therefore, in this work we performed a broad-scale analysis of the AMR in NTS isolates from commercial chicken farms and identified some priority AMR genes for surveillance.",
+  "references": [
+    {
+      "paperId": "b0aa94d0982d939d665eb255d389daa56bb9702f"
+    },
+    {
+      "paperId": "d173a04ca4e95e14f98cf2d6d319e67b9097dc56"
+    },
+    {
+      "paperId": "19d7234b756cdfd3d23903604e1cef7433e0a533"
+    },
+    {
+      "paperId": "387c3de34e0694021ed6d8036e4d4490c6dddc05"
+    },
+    {
+      "paperId": "a3660bfc6d25df5bfeda93c1a9d8eac3c8363728"
+    },
+    {
+      "paperId": "4eab840cbbcd5bb03b1ef3fee825e105803c406d"
+    },
+    {
+      "paperId": "ec445c3df646b2456dcd5347ab324561bcedfce4"
+    },
+    {
+      "paperId": "54515f25ce3003137c3cbd1e0cd8c9420419210b"
+    },
+    {
+      "paperId": "bccd632f677ad6928394a1ddf56b75769cd0cc9d"
+    },
+    {
+      "paperId": "e1aa9a1f65f2b972edd8e2a54f0d8cff3d478c81"
+    },
+    {
+      "paperId": "ec1693349410340a29da964ac1597857113aac2f"
+    },
+    {
+      "paperId": "c3ade8fe3520598286a686e7279c46e84fa12982"
+    },
+    {
+      "paperId": "d728326a9ff4812a5d51e45e6ff659af28f2904c"
+    },
+    {
+      "paperId": "ab0831ca666919f2f546cdee48f7b9b30f9b4de5"
+    },
+    {
+      "paperId": "c0c4573cb8bc9c03815c664aeeaebb99ae237040"
+    },
+    {
+      "paperId": "11b666a6ad69c4ddd72a276e526738cd16f5948e"
+    },
+    {
+      "paperId": "50956eb675d9a2a143991b3146768a3dbe1df073"
+    },
+    {
+      "paperId": "7585aa6daa068dc459aaf4bf770ea3a1d1dfde2a"
+    },
+    {
+      "paperId": "43a9b02fac9e369ee0618e42a906b24768678bde"
+    },
+    {
+      "paperId": "4ad5815230a5f79e19635a055c3a7e1ddf14de7a"
+    },
+    {
+      "paperId": "1e425082c7c4e78d2138aaa5ffefe136628b3d5d"
+    },
+    {
+      "paperId": "cb56121bc38e0f4b44bcb5296a12038626152e96"
+    },
+    {
+      "paperId": "05c5b732fb92546c7d6eeabfadb5c14610d07373"
+    },
+    {
+      "paperId": "3880b4695c2218bbb0a6f97aada592b4281928eb"
+    },
+    {
+      "paperId": "f9b9b1797fa218ae3bcf3897f211fc5232eb5f94"
+    },
+    {
+      "paperId": "8e59fa24ddca2f2ea67fe7fdc3826e09214a3c17"
+    },
+    {
+      "paperId": "b3681601f276af74eeb099ecd4fc303497de045d"
+    },
+    {
+      "paperId": "94f913c6bf736e7667ff2b36c7c5ecaf2648fce4"
+    },
+    {
+      "paperId": "85f2616d56f2436a93e138f6b9f26119b311ec96"
+    },
+    {
+      "paperId": "b7b4399cdf6bd17645a696b03366431b685abc5c"
+    },
+    {
+      "paperId": "854e9d348943b0e8346097bead17cb2cc90b1091"
+    },
+    {
+      "paperId": "766150b00dc038b24cc3ff9715c60f42b98b7254"
+    },
+    {
+      "paperId": "4495d423a3a1ccfccc56848a58323dbd4a913836"
+    },
+    {
+      "paperId": "232fb123bb22173fc8d54a190c9720f39bcd0e9b"
+    },
+    {
+      "paperId": "d48171ebeb7d7a673a21856409a6c14a996d1013"
+    },
+    {
+      "paperId": "df0829cb2f3adef8bdc90c0eca0d1b91efcf870c"
+    },
+    {
+      "paperId": "e64728f38ddeb4a134e92610f280a546c82bda91"
+    },
+    {
+      "paperId": "e9a6b74200a8bb57e46076f5d317c75865a47b8e"
+    },
+    {
+      "paperId": "824e0c49fe89050eef2b6556005e7d537368aa01"
+    },
+    {
+      "paperId": "c3380127c45af3833ae5d1d6f8f0856d97838ea5"
+    },
+    {
+      "paperId": "1d1bf83f34b7b192af837cc853adda60574a389e"
+    },
+    {
+      "paperId": "4b57f72ae7d091863dc87b852cd01823e7644223"
+    },
+    {
+      "paperId": "8eb3f3dc39fc19b048b0ec29c0c1715d642528a8"
+    },
+    {
+      "paperId": "0651de08ebb8b02f39da45f5098f18b575ef7273"
+    },
+    {
+      "paperId": "6654afe7bdb669fa109891a23b24159315ad1677"
+    },
+    {
+      "paperId": "72ecffe55423ec506ce432a9675abc1e40723945"
+    },
+    {
+      "paperId": "f65e89bc4d573100f7991f0d6252ea4918873571"
+    },
+    {
+      "paperId": "3bbc9400429ad3d6bda6d12e4449053afa1114a2"
+    },
+    {
+      "paperId": "29e17e38bc49fe30856d2e70c5ca031fce0ad852"
+    },
+    {
+      "paperId": "74574ee09030e8aadb48fa349eb9b054e2f95ceb"
+    },
+    {
+      "paperId": "830e34d87d274bb1ed06157ff7b03facc702693c"
+    },
+    {
+      "paperId": "8f80cc9ad154795fbbf187c660d4c13a60deb7ed"
+    },
+    {
+      "paperId": "ab1b773064765b5a24830c87442ffd64bcbc6403"
+    },
+    {
+      "paperId": "bf080c53b036466bd316e8ababdece64c1b59e31"
+    },
+    {
+      "paperId": "e45b0c2ba189f2bf75b6de718a2507645f4ec1a3"
+    },
+    {
+      "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246"
+    },
+    {
+      "paperId": "d19212532704a14eab6d1f0900538b8cd1d08f90"
+    },
+    {
+      "paperId": "2470dde5c7883b8b46a1e70fd59610200a7b883a"
+    },
+    {
+      "paperId": "99a1520bc334c111ff84619a1ac376f009d0d3bf"
+    },
+    {
+      "paperId": "dfa5487fb21929ec4c994edab7e09bad9a021ad9"
+    },
+    {
+      "paperId": "a529d959ba60ded9e2d7db7b183f08412863a27d"
+    },
+    {
+      "paperId": "4ea5aac9cb3e90797e5869ac95172e7db380b986"
+    },
+    {
+      "paperId": "67f6f4a9bd24d210a115e3797a017c5f7f861ca4"
+    },
+    {
+      "paperId": "6e420d5abec8b8f9480c0dc53848cf851b9df3f3"
+    },
+    {
+      "paperId": "535e3dd8ff4ae2ddcb7d1053913ffa09ee3f913c"
+    },
+    {
+      "paperId": "4df5032a599e4c65f90285e9829c8594feb4c01f"
+    },
+    {
+      "paperId": "520862d0bb0f398ded90e79ed5d72cf1aaabe570"
+    },
+    {
+      "paperId": "bd8e3a3b7dac0a6f340980c46c6221c881a044f8"
+    },
+    {
+      "paperId": "971e077fb81134ad8e75d63a7e965342a9907865"
+    },
+    {
+      "paperId": "5c58f0b18e4832804419b27ad71998083f03ed6e"
+    },
+    {
+      "paperId": "278e9c9a8becb5a462e98094d99ef719eb4da0aa"
+    },
+    {
+      "paperId": "cad31b9b115a6323096c08228fcda39e2e22c78d"
+    },
+    {
+      "paperId": "c586ad3d502b7eb62513b14883c242c531a42d2a"
+    },
+    {
+      "paperId": "02afc5ff37ae7cc8b0dd524f9799e585e6dcc29c"
+    },
+    {
+      "paperId": "3d9161d92247877d459995f73f4340482e0dab38"
+    },
+    {
+      "paperId": "0fe97c88452d8d8603d9ba883a0721da46ba84f4"
+    },
+    {
+      "paperId": "bfa19e12690e0ab735f1c7102feeef85bc010ece"
+    },
+    {
+      "paperId": "ba3b211c93973285f25515dc39648bd94f00fcc8"
+    },
+    {
+      "paperId": "4c59493b8599e8026380edc83fc5643c23400df6"
+    },
+    {
+      "paperId": "ad1392ea220760f43fae7bdebb37adfa4897eb7b"
+    },
+    {
+      "paperId": "7cf3c5e04343a00cecb5315a0ae573560eef6286"
+    },
+    {
+      "paperId": "9d8d4cc91c124789b7dc8190f672ae4e3503437e"
+    },
+    {
+      "paperId": "d9dd0979e8dc3438fdb23045a5e9dc4fcf251926"
+    },
+    {
+      "paperId": "207edaa74996e8ceb19ae43fc50a07a61794ca5a"
+    },
+    {
+      "paperId": "f1e03e51c53c1382aa2ea71c63b2025c06e7d32a"
+    },
+    {
+      "paperId": "fe0df243feacf533e6a800fc24d7ca9765881edf"
+    },
+    {
+      "paperId": "189b74946568257e7c9c3aa4de7be99c06700344"
+    },
+    {
+      "paperId": "e592bf4a886277d961f1c5d140c10e4bfe50b14a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e47868841d87efe261451a43b00d6c81cf7fb7a3"
+    },
+    {
+      "paperId": "5ccd1d7b3e2122a2c0f6f822ee76c87324de1675"
+    },
+    {
+      "paperId": "53490fab1f48b73086f5f43ce81f5348ea774cd7"
+    },
+    {
+      "paperId": "1a62eb61b2663f8135347171e30cb9dc0a8931b5"
+    },
+    {
+      "paperId": "ad12528a07943c137813b37d60b6b8c3fb61bd2c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2c6c7beb0ccd45d159d42b7108353dc7cf138976"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f8ef4906784598947c08b9f23fa03a82a5157d9c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cf55655ac42b6647b4debb17610d6328271ab370"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

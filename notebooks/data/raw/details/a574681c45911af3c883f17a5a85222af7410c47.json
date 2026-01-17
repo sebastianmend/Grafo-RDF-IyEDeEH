@@ -1,0 +1,45 @@
+{
+  "paperId": "a574681c45911af3c883f17a5a85222af7410c47",
+  "externalIds": {
+    "MAG": "2887184093",
+    "DBLP": "conf/interaccion/RodriguezFH18",
+    "DOI": "10.1145/3233824.3233844",
+    "CorpusId": 52010779
+  },
+  "url": "https://www.semanticscholar.org/paper/a574681c45911af3c883f17a5a85222af7410c47",
+  "title": "Beyond the GUI in agriculture: a bibliographic review, challenges and opportunities",
+  "venue": "Interacción",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3233824.3233844?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3233824.3233844, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1576100042",
+      "name": "Andrés Rodríguez"
+    },
+    {
+      "authorId": "143822181",
+      "name": "Alejandro Fernández"
+    },
+    {
+      "authorId": "2913594",
+      "name": "J. H. Hormazabal"
+    }
+  ],
+  "abstract": "Different reasons have lead to an increased interest in ICTs applications to the agriculture, like precision farming or agricultural robotics. However the GUI remains the most common interface today, a host of other interfaces are becoming increasingly prevalent, such as speech based, gestural, haptics, multimodal, etc. This work presents a bibliographic review about the inclusion of nontraditional interactions (named \"beyond the GUI interfaces\" after Kortum [17]) for different operations in the agricultural fields, a qualitative analysis and some challenges and opportunities found",
+  "references": null
+}

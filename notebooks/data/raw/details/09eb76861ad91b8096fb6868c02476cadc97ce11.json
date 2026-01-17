@@ -1,0 +1,208 @@
+{
+  "paperId": "09eb76861ad91b8096fb6868c02476cadc97ce11",
+  "externalIds": {
+    "MAG": "2792678843",
+    "DBLP": "journals/sensors/NieDHX18",
+    "PubMedCentral": "5854973",
+    "DOI": "10.3390/s18020391",
+    "CorpusId": 3531939,
+    "PubMed": "29382177"
+  },
+  "url": "https://www.semanticscholar.org/paper/09eb76861ad91b8096fb6868c02476cadc97ce11",
+  "title": "Research on the Effects of Drying Temperature on Nitrogen Detection of Different Soil Types by Near Infrared Sensors",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/2/391/pdf?version=1517238656",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5854973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1767076",
+      "name": "P. Nie"
+    },
+    {
+      "authorId": "3099401",
+      "name": "T. Dong"
+    },
+    {
+      "authorId": "87689783",
+      "name": "Yong He"
+    },
+    {
+      "authorId": "29944578",
+      "name": "Shupei Xiao"
+    }
+  ],
+  "abstract": "Soil is a complicated system whose components and mechanisms are complex and difficult to be fully excavated and comprehended. Nitrogen is the key parameter supporting plant growth and development, and is the material basis of plant growth as well. An accurate grasp of soil nitrogen information is the premise of scientific fertilization in precision agriculture, where near infrared sensors are widely used for rapid detection of nutrients in soil. However, soil texture, soil moisture content and drying temperature all affect soil nitrogen detection using near infrared sensors. In order to investigate the effects of drying temperature on the nitrogen detection in black soil, loess and calcium soil, three kinds of soils were detected by near infrared sensors after 25 °C placement (ambient temperature), 50 °C drying (medium temperature), 80 °C drying (medium-high temperature) and 95 °C drying (high temperature). The successive projections algorithm based on multiple linear regression (SPA-MLR), partial least squares (PLS) and competitive adaptive reweighted squares (CARS) were used to model and analyze the spectral information of different soil types. The predictive abilities were assessed using the prediction correlation coefficients (RP), the root mean squared error of prediction (RMSEP), and the residual predictive deviation (RPD). The results showed that the loess (RP = 0.9721, RMSEP = 0.067 g/kg, RPD = 4.34) and calcium soil (RP = 0.9588, RMSEP = 0.094 g/kg, RPD = 3.89) obtained the best prediction accuracy after 95 °C drying. The detection results of black soil (RP = 0.9486, RMSEP = 0.22 g/kg, RPD = 2.82) after 80 °C drying were the optimum. In conclusion, drying temperature does have an obvious influence on the detection of soil nitrogen by near infrared sensors, and the suitable drying temperature for different soil types was of great significance in enhancing the detection accuracy.",
+  "references": [
+    {
+      "paperId": "b0b67d78fa7f0879a52bbc80954e74c4383200d1"
+    },
+    {
+      "paperId": "0ad1fcfb23769ace127c6114690f49a8bdc359fe"
+    },
+    {
+      "paperId": "310709a3fb8a952504576d86917b9f5fa73b67f0"
+    },
+    {
+      "paperId": "a87151d6ff79545f892bc45ef1c2ae999c57bfd0"
+    },
+    {
+      "paperId": "b7f39db0a8955a5d88158f23c3b000d7de43d6ed"
+    },
+    {
+      "paperId": "a409ac98e5c132eddafa52980b22410f4999bc5d"
+    },
+    {
+      "paperId": "035c4b2f77fec0826980e8b1a3037a190cda7226"
+    },
+    {
+      "paperId": "5f0eff3b8e71e6d57a8c401dae2a918858fadcbc"
+    },
+    {
+      "paperId": "9db02dc1eb0817f1fcd3a6cb21b0fee337dc5caf"
+    },
+    {
+      "paperId": "18d130b7fb7ccb07f4df3a2da54a77e1eda95697"
+    },
+    {
+      "paperId": "54e2fe9dae454c3853c637b897813099f59e5537"
+    },
+    {
+      "paperId": "716e200aab732240010c71051f97e39e3d3ec148"
+    },
+    {
+      "paperId": "71c33ab337b87da29b2f9e4cf81feb61bdc4f5bd"
+    },
+    {
+      "paperId": "5a1a78a83c3437c689416310b0326a1d613919b4"
+    },
+    {
+      "paperId": "a74458a2631f3d106c305b8b55b15128bf4ad404"
+    },
+    {
+      "paperId": "07ee17dc5d2bff0919dd7d8c1a940054e08bc4a8"
+    },
+    {
+      "paperId": "86e55b9202a8ca41ed4b6b50eba6da904e3e8f3e"
+    },
+    {
+      "paperId": "fe097c973c5e2e8e41e25666c8412d3981facb79"
+    },
+    {
+      "paperId": "6fab5cf7bc37ba53230f6343f7a46e5121f8786b"
+    },
+    {
+      "paperId": "2be9927133df97a1d276119dc9e5143811d6e2f9"
+    },
+    {
+      "paperId": "36395aeb0f054d4627fa981c3efd04c995f5ff6d"
+    },
+    {
+      "paperId": "6ddcde0d54596ce6da585ec45eaf45c7a4b6fa37"
+    },
+    {
+      "paperId": "6e8b4e5b9aa89bf1d35dd75f90b220bceb20990f"
+    },
+    {
+      "paperId": "4b5f1676af2ae06e6c240e6e698a7ae20112b109"
+    },
+    {
+      "paperId": "bfb94c30de885e70fe3f1c794106f4492d6bc53c"
+    },
+    {
+      "paperId": "17e8ea601e43f69af2f7be4c0a647e1d7e03485a"
+    },
+    {
+      "paperId": "5ee037c65be9f0c1b011875163afa2b4daff1527"
+    },
+    {
+      "paperId": "e3ad8eeb2d46c2073f5280bed8daa444506d3c64"
+    },
+    {
+      "paperId": "5c112913383a58b48eaa20cc7efcee77947543dd"
+    },
+    {
+      "paperId": "6fa81c380db82fb1c09c8e58993cef99e724b4b2"
+    },
+    {
+      "paperId": "6003997c8b8aa370b71238578c789a25c42c3e76"
+    },
+    {
+      "paperId": "9079eb5a6345bf55e5f5c0dccb3850c769d0d863"
+    },
+    {
+      "paperId": "6e90e7978bb5eb6ed0bf7173b389bb47bb63f447"
+    },
+    {
+      "paperId": "70a2e6a79b4b10e2ae97bad680e218e48b750451"
+    },
+    {
+      "paperId": "77233ce186e70749ae2894c6adb387d26a02fcde"
+    },
+    {
+      "paperId": "df8b8dd0ddefa662fa4f786cc345bdf149cc1c39"
+    },
+    {
+      "paperId": "cc011e4ca50cde71191490b5cc231b07756fec55"
+    },
+    {
+      "paperId": "80e83fa600d5fb339061297a28556dd360728610"
+    },
+    {
+      "paperId": "06ca57af699e9c7c6cba520f106b5b31bce4afb8"
+    },
+    {
+      "paperId": "8c9357c6c0382e2d5198c6ff6e50885ba4a0ad22"
+    },
+    {
+      "paperId": "fa2a88c9a44e8e4b07aff10723d0ba6eb73c5c6f"
+    },
+    {
+      "paperId": "8a8eb4777acdfa542bdb5ab31105ccc001f672a1"
+    },
+    {
+      "paperId": "809edaa599cd4da33792aad82d4afc204176f291"
+    },
+    {
+      "paperId": "e65b479cde4e78d619138ff23be161e9b75749ab"
+    },
+    {
+      "paperId": "3432c9ef9cdc83957d0c2dd6013d99225025a4bd"
+    },
+    {
+      "paperId": "cb12cf4877c51da21e45c254d50ad3131a567f14"
+    },
+    {
+      "paperId": "8c611de5cc25f12d1eb49ae74f64df2a602215c1"
+    },
+    {
+      "paperId": "eb9f7b9f35269cfd0bb9658ff913d6a5676a670a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

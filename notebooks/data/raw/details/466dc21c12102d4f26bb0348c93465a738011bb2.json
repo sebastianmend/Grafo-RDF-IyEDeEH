@@ -1,0 +1,38 @@
+{
+  "paperId": "466dc21c12102d4f26bb0348c93465a738011bb2",
+  "externalIds": {
+    "MAG": "2966810831",
+    "DOI": "10.1007/s10499-019-00443-w",
+    "CorpusId": 199474620
+  },
+  "url": "https://www.semanticscholar.org/paper/466dc21c12102d4f26bb0348c93465a738011bb2",
+  "title": "Precision aquaculture: a short review on engineering innovations",
+  "venue": "Aquaculture International",
+  "year": 2019,
+  "citationCount": 98,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10499-019-00443-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10499-019-00443-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49753151",
+      "name": "F. Antonucci"
+    },
+    {
+      "authorId": "2098502",
+      "name": "C. Costa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

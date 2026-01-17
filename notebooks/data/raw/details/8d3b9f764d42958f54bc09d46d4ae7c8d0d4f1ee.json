@@ -1,0 +1,51 @@
+{
+  "paperId": "8d3b9f764d42958f54bc09d46d4ae7c8d0d4f1ee",
+  "externalIds": {
+    "MAG": "2951123107",
+    "DBLP": "conf/kmo/KhalidSQAA19",
+    "DOI": "10.1007/978-3-030-21451-7_36",
+    "CorpusId": 186206386
+  },
+  "url": "https://www.semanticscholar.org/paper/8d3b9f764d42958f54bc09d46d4ae7c8d0d4f1ee",
+  "title": "Knowledge Representation and Management for Precision Agriculture: A Case Study",
+  "venue": "International Conference on Knowledge Management in Organizations",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-21451-7_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-21451-7_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2065842956",
+      "name": "Maryam Khalid"
+    },
+    {
+      "authorId": "146929826",
+      "name": "H. Saim"
+    },
+    {
+      "authorId": "40992749",
+      "name": "Z. Qamar"
+    },
+    {
+      "authorId": "145266818",
+      "name": "Fahad Akhtar"
+    },
+    {
+      "authorId": "2363957023",
+      "name": "M. Awais"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

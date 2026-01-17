@@ -15,7 +15,7 @@
     "url": "https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=3055&context=facultybib2010",
     "status": "GREEN",
     "license": "public-domain",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.7183/1045-6635.22.3.275?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7183/1045-6635.22.3.275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.7183/1045-6635.22.3.275?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7183/1045-6635.22.3.275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Geography"

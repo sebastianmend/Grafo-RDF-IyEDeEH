@@ -1,0 +1,42 @@
+{
+  "paperId": "f915ba532e1845499564a73240f62441d3b747a7",
+  "externalIds": {
+    "MAG": "2972985608",
+    "DOI": "10.1109/CCDC.2019.8832792",
+    "CorpusId": 202560808
+  },
+  "url": "https://www.semanticscholar.org/paper/f915ba532e1845499564a73240f62441d3b747a7",
+  "title": "Design and Implementation of Intelligent Irrigation and Fertilization System in Greenhouse",
+  "venue": "Chinese Control and Decision Conference",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCDC.2019.8832792?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCDC.2019.8832792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109619472",
+      "name": "Jianwen Li"
+    },
+    {
+      "authorId": "2109065468",
+      "name": "Man Zhang"
+    },
+    {
+      "authorId": "2145142637",
+      "name": "Yan Zhao"
+    }
+  ],
+  "abstract": "In order to promote the sustainable development of agriculture and improve the utilization efficiency of water and fertilizer is a problem. The effective measure is to implement precise irrigation and fertilization in greenhouse production. In view of the above problems, a water and fertilizer integrated high-precision fertigation system was designed and implemented in the paper based on the key technologies of water-saving irrigation and precision fertilization in greenhouse. The overall structure of the system is designed with light aluminum profile with universal wheel, and Programmable Logical Controller is used as the control core to realize the real-time control of sensor data acquisition and execution equipment, and the on-line detection and human-computer interaction are realized through the Human Machine Interface. The experiments of mixed fertilizer and water irrigation in greenhouse show that the designed fertilization system can eliminate the heterogeneity of fertilizer and water produced by the precipitation of fertilizer mother liquor. The EC control accuracy error is less than or equal to 0.02 ms/cm, the standard deviation is 0-2.81%, and the PH value is stable around 5.9, the accuracy is f0.4, and the overshoot of PH is less than 20%, which can meet the irrigation and fertilization requirements of greenhouse crops. The designed fertigation system has high fertilizer-water mixing precision, and can effectively improve the utilization rate of fertilizer and water, and realize the reasonable nutrient supply needed for high-yield and high-quality cultivation of crops.",
+  "references": null
+}

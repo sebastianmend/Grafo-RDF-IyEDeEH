@@ -1,0 +1,47 @@
+{
+  "paperId": "c87597ec199846ad961238a3ebee0fa893e946b5",
+  "externalIds": {
+    "DBLP": "conf/icisp/AhmadGMB18",
+    "MAG": "2811003893",
+    "DOI": "10.1007/978-3-319-94211-7_1",
+    "CorpusId": 49648167
+  },
+  "url": "https://www.semanticscholar.org/paper/c87597ec199846ad961238a3ebee0fa893e946b5",
+  "title": "An Image Processing Method Based on Features Selection for Crop Plants and Weeds Discrimination Using RGB Images",
+  "venue": "International Conference on Image and Signal Processing",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-94211-7_1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-94211-7_1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46255596",
+      "name": "Ali Ahmad"
+    },
+    {
+      "authorId": "1921908",
+      "name": "R. Guyonneau"
+    },
+    {
+      "authorId": "2083742383",
+      "name": "F. Mercier"
+    },
+    {
+      "authorId": "92986767",
+      "name": "É. Belin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

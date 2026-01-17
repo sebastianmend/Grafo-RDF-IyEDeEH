@@ -1,0 +1,39 @@
+{
+  "paperId": "f92288225ea0b81cad98d9e4506cbb176757054c",
+  "externalIds": {
+    "MAG": "2932477727",
+    "DBLP": "journals/rss/SaravananP19",
+    "DOI": "10.1007/s12626-019-00035-3",
+    "CorpusId": 159050061
+  },
+  "url": "https://www.semanticscholar.org/paper/f92288225ea0b81cad98d9e4506cbb176757054c",
+  "title": "Realizing Social-Media-Based Analytics for Smart Agriculture",
+  "venue": "The Review of Socionetwork Strategies",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12626-019-00035-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12626-019-00035-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145058374",
+      "name": "M. Saravanan"
+    },
+    {
+      "authorId": "31001097",
+      "name": "S. K. Perepu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

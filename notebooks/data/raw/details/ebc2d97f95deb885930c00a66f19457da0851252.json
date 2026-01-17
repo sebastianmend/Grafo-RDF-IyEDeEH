@@ -1,0 +1,38 @@
+{
+  "paperId": "ebc2d97f95deb885930c00a66f19457da0851252",
+  "externalIds": {
+    "MAG": "2806487137",
+    "DOI": "10.1007/s00334-018-0686-7",
+    "CorpusId": 135176605
+  },
+  "url": "https://www.semanticscholar.org/paper/ebc2d97f95deb885930c00a66f19457da0851252",
+  "title": "Dung fungi as a proxy for megaherbivores: opportunities and limitations for archaeological applications",
+  "venue": "Vegetation History and Archaeobotany",
+  "year": 2018,
+  "citationCount": 73,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00334-018-0686-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00334-018-0686-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46670194",
+      "name": "Angelina G. Perrotti"
+    },
+    {
+      "authorId": "2387564017",
+      "name": "Eline van Asperen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

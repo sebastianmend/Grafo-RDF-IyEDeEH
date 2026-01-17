@@ -1,0 +1,44 @@
+{
+  "paperId": "8d4fd98d2f931444ec3d771c447af3b6953b3492",
+  "externalIds": {
+    "MAG": "2902441109",
+    "DBLP": "conf/icacci/AravindSK18",
+    "DOI": "10.1109/ICACCI.2018.8554565",
+    "CorpusId": 54437523
+  },
+  "url": "https://www.semanticscholar.org/paper/8d4fd98d2f931444ec3d771c447af3b6953b3492",
+  "title": "Bit Error Rate (BER) Performance Analysis of DASH7 Protocol in Rayleigh Fading Channel",
+  "venue": "International Conference on Advances in Computing, Communications and Informatics",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACCI.2018.8554565?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACCI.2018.8554565, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2286558960",
+      "name": "P. Sai Aravind"
+    },
+    {
+      "authorId": "48383159",
+      "name": "Jalpa Shah"
+    },
+    {
+      "authorId": "2608782",
+      "name": "D. Kurup"
+    }
+  ],
+  "abstract": "This paper deals with bit error rate (BER) performance analysis of DASH7 (Developer's Alliance for Standard Harmonization) protocol, which is an emerging technology for long range and low power wireless sensor networks (WSN) when compared to Zigbee, WI-FI and Bluetooth protocols. Results are presented for BER performance of DASH7 with and without channel coding. The channel assumed in our studies is Rayleigh fading channel which is of interest to WSN applications in the area of Precision Agriculture.",
+  "references": null
+}

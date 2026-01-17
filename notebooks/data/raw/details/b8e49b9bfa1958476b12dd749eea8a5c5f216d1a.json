@@ -1,0 +1,40 @@
+{
+  "paperId": "b8e49b9bfa1958476b12dd749eea8a5c5f216d1a",
+  "externalIds": {
+    "MAG": "2899053069",
+    "DBLP": "journals/scientometrics/MorilloB18",
+    "DOI": "10.1007/s11192-018-2947-8",
+    "CorpusId": 53102951
+  },
+  "url": "https://www.semanticscholar.org/paper/b8e49b9bfa1958476b12dd749eea8a5c5f216d1a",
+  "title": "How to automatically identify major research sponsors selecting keywords from the WoS Funding Agency field",
+  "venue": "Scientometrics",
+  "year": 2018,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11192-018-2947-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11192-018-2947-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2152822",
+      "name": "F. Morillo"
+    },
+    {
+      "authorId": "2055013732",
+      "name": "B. Bornstein"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

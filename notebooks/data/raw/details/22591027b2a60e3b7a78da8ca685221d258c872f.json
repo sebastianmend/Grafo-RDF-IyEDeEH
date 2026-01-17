@@ -1,0 +1,52 @@
+{
+  "paperId": "22591027b2a60e3b7a78da8ca685221d258c872f",
+  "externalIds": {
+    "DBLP": "conf/compsac/BritoLLFT19",
+    "MAG": "2957297539",
+    "DOI": "10.1109/COMPSAC.2019.10259",
+    "CorpusId": 199008675
+  },
+  "url": "https://www.semanticscholar.org/paper/22591027b2a60e3b7a78da8ca685221d258c872f",
+  "title": "A Comparative Approach on the use of Unmanned Aerial Vehicles kind of Fixed-Wing and Rotative Wing Applied to the Precision Agriculture Scenario",
+  "venue": "Annual International Computer Software and Applications Conference",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPSAC.2019.10259?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPSAC.2019.10259, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "16538287",
+      "name": "Robison Cris Brito"
+    },
+    {
+      "authorId": "2098760715",
+      "name": "M. C. Lorencena"
+    },
+    {
+      "authorId": "31944692",
+      "name": "J. F. Loureiro"
+    },
+    {
+      "authorId": "3354821",
+      "name": "F. Favarim"
+    },
+    {
+      "authorId": "3160652",
+      "name": "E. Todt"
+    }
+  ],
+  "abstract": "To use Unmanned Aerial Vehicles in precision agriculture is a very common and efficient practice, however, the vast majority of applications make use of Fixed-Wing Aerial Vehicles due to their autonomy that is several times higher than that of the Rotating-Wing Aerial Vehicles type. Meanwhile, as its autonomy increases, so does its cost, and with the price of a single fixed-wing vehicle it is possible to purchase a swarm of several rotary-wing vehicles. The present study presents a theoretical and practical comparison to identify the most favorable scenarios for the use of Fixed-Wing and Rotating-Wing type air vehicles, making a qualitative comparison with data obtained from the vehicles Datasheet and a quantitative comparison, divided into two moments: with theoretical data calculated based on data retrieved from Datasheets, and with real data obtained from flights. At the end of the work, it is concluded that for linear flights, for example the monitoring of roads or frontiers, the superiority is held by fixed-wing vehicles. As for flights monitoring two-dimensional areas, where precision agriculture is commonly applied, the superiority is that of rotating-wings, which are able to do the same work in a lesser time than fixed-wings, with the advantages of having lower cost and greater flight dynamic, given their maneuverability, in addition to being easily applied on the autonomous flights, since the operations of takeoff and landing do not need the human interaction, since they happen vertically.",
+  "references": null
+}

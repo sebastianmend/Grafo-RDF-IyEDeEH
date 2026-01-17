@@ -1,0 +1,54 @@
+{
+  "paperId": "115efa55479cf2058231fb37aada38b5a78e5c72",
+  "externalIds": {
+    "MAG": "2945574753",
+    "DOI": "10.1016/J.COMPAG.2019.05.034",
+    "CorpusId": 182586384
+  },
+  "url": "https://www.semanticscholar.org/paper/115efa55479cf2058231fb37aada38b5a78e5c72",
+  "title": "Optoelectronic proximal sensing vehicle-mounted technologies in precision agriculture: A review",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "citationCount": 73,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2019.05.034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2019.05.034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3379148",
+      "name": "F. Pallottino"
+    },
+    {
+      "authorId": "49753151",
+      "name": "F. Antonucci"
+    },
+    {
+      "authorId": "2098502",
+      "name": "C. Costa"
+    },
+    {
+      "authorId": "4440679",
+      "name": "C. Bisaglia"
+    },
+    {
+      "authorId": "3362957",
+      "name": "Simone Figorilli"
+    },
+    {
+      "authorId": "3363929",
+      "name": "P. Menesatti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

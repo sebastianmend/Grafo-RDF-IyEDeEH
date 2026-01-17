@@ -1,0 +1,240 @@
+{
+  "paperId": "284a9cb0b78c17e60597fe92a3d3cca0d7487c13",
+  "externalIds": {
+    "MAG": "2810270273",
+    "DOI": "10.1017/S0021859618000436",
+    "CorpusId": 90772935
+  },
+  "url": "https://www.semanticscholar.org/paper/284a9cb0b78c17e60597fe92a3d3cca0d7487c13",
+  "title": "A review of the use of convolutional neural networks in agriculture",
+  "venue": "Journal of Agricultural Sciences",
+  "year": 2018,
+  "citationCount": 382,
+  "influentialCitationCount": 12,
+  "openAccessPdf": {
+    "url": "https://repositori.irta.cat/bitstream/20.500.12327/815/2/Prenafeta_review_2018.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0021859618000436?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0021859618000436, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1764301",
+      "name": "A. Kamilaris"
+    },
+    {
+      "authorId": "1398263014",
+      "name": "F. Prenafeta-Boldú"
+    }
+  ],
+  "abstract": "Abstract Deep learning (DL) constitutes a modern technique for image processing, with large potential. Having been successfully applied in various areas, it has recently also entered the domain of agriculture. In the current paper, a survey was conducted of research efforts that employ convolutional neural networks (CNN), which constitute a specific class of DL, applied to various agricultural and food production challenges. The paper examines agricultural problems under study, models employed, sources of data used and the overall precision achieved according to the performance metrics used by the authors. Convolutional neural networks are compared with other existing techniques, and the advantages and disadvantages of using CNN in agriculture are listed. Moreover, the future potential of this technique is discussed, together with the authors’ personal experiences after employing CNN to approximate a problem of identifying missing vegetation from a sugar cane plantation in Costa Rica. The overall findings indicate that CNN constitutes a promising technique with high performance in terms of precision and classification accuracy, outperforming existing commonly used image-processing techniques. However, the success of each CNN model is highly dependent on the quality of the data set used.",
+  "references": [
+    {
+      "paperId": "2b8e604b855476307642dcf59c5353f4d1042785"
+    },
+    {
+      "paperId": "518a7c79968a56d63a691d42f8378be6c776167e"
+    },
+    {
+      "paperId": "0b842f5d17165280687784ccf6b844242f7bfb7c"
+    },
+    {
+      "paperId": "51579a8a40aea8dc6b9cdea9499dc27c2797499d"
+    },
+    {
+      "paperId": "7a9e471e31ac156cf22a5e2a5c1463697df866ab"
+    },
+    {
+      "paperId": "d5dee7225ebde6d2ae1c61bba59b1174577972e1"
+    },
+    {
+      "paperId": "d3eb6e57f618cf0830678594efd7e67eec76a898"
+    },
+    {
+      "paperId": "71111d953442bbd631da9f1a3cf9c7b3d74702de"
+    },
+    {
+      "paperId": "0f366de3ea595932dad06389f6e61fe0dd8cbe74"
+    },
+    {
+      "paperId": "12b31cf2368e8dde238ab21bd87b1a4c17aab9e6"
+    },
+    {
+      "paperId": "45d45687ebca6281d44e477cd012a1ef48ebf286"
+    },
+    {
+      "paperId": "6b1cd60cac85f68f040011032a9f1156f776b438"
+    },
+    {
+      "paperId": "6d5867465c55b2d8fda24591c3cb40af416de525"
+    },
+    {
+      "paperId": "d04cf73d35b94f8404d4086b41a85fbe70c8cf0f"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "4261d0a39ad52cae9753cf5056ee831e32012f89"
+    },
+    {
+      "paperId": "18e3eec4e4c259cc0cbce91daff37e95e05d57d0"
+    },
+    {
+      "paperId": "9a786d1ecf77dfba3459a83cd3fa0f1781bbcba4"
+    },
+    {
+      "paperId": "83ae2f76d92905cfa36c695e0b5d902ad4ce2e3d"
+    },
+    {
+      "paperId": "e30d9b8ce108d982169621b88a5e3fb69fec70e1"
+    },
+    {
+      "paperId": "b5c26ab8767d046cb6e32d959fdf726aee89bb62"
+    },
+    {
+      "paperId": "8cc07ae9510854ec6e79190cc150f9f1fe98a238"
+    },
+    {
+      "paperId": "39ac1f54f958c2eb7c2b7df3d3294a788d45b569"
+    },
+    {
+      "paperId": "540d3197d6b100e9ddec0706b90cb37e13742774"
+    },
+    {
+      "paperId": "18c9b468a8e3ac416a81ea7e83e0629a8af04b0c"
+    },
+    {
+      "paperId": "56453a88588732bbb9975166e019b052c4fcc0a7"
+    },
+    {
+      "paperId": "0a5d6a04deae65337e8d16cd2806868e965feba0"
+    },
+    {
+      "paperId": "1e4709c0b8fe3bf759cd64dc1ede695d6e5316f0"
+    },
+    {
+      "paperId": "391b86cf16c2702dcc4beee55a6dd6d3bd7cf27b"
+    },
+    {
+      "paperId": "86efe7769f2b8a0e15ca213ab09881e6705caeb0"
+    },
+    {
+      "paperId": "e15cf50aa89fee8535703b9f9512fca5bfc43327"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "1f6ba0782862ec12a5ec6d7fb608523d55b0c6ba"
+    },
+    {
+      "paperId": "ef8ae1effca9cd45677086034d8c7b06a69c03e5"
+    },
+    {
+      "paperId": "6d4c9c923e9f145d1c01a2de2afc38ec23c44253"
+    },
+    {
+      "paperId": "c08f5fa876181fc040d76c75fe2433eee3c9b001"
+    },
+    {
+      "paperId": "f58ea68448a584b8c8540c86bb9965d746b767a9"
+    },
+    {
+      "paperId": "193edd20cae92c6759c18ce93eeea96afd9528eb"
+    },
+    {
+      "paperId": "b75d82cbb02bf24861e099b5f3383a9be7b6b291"
+    },
+    {
+      "paperId": "18c5f752d912983a67416ee2f507ff82bedb68e2"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "a25fbcbbae1e8f79c4360d26aa11a3abf1a11972"
+    },
+    {
+      "paperId": "7f92e827116c37dbdd4ebdbcceca0d17c06232a7"
+    },
+    {
+      "paperId": "1f407ba997265fdd0d72432dcf8b5d39ad5f0540"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e"
+    },
+    {
+      "paperId": "7edc5aa22600c42024bf14f52d5bcfbddc04b15c"
+    },
+    {
+      "paperId": "3b0a03d4256391dcb5c7598a46f5f97ed1dc0b66"
+    },
+    {
+      "paperId": "a4354936e35b5a7bdc3ad7222476e5042ad6159a"
+    },
+    {
+      "paperId": "41977fee0ac98b029c6d9f6d9a6c23b584ea860d"
+    },
+    {
+      "paperId": "08fd3998d49dffdb9cfe33d209b1a36ef67eb40c"
+    },
+    {
+      "paperId": "11540131eae85b2e11d53df7f1360eeb6476e7f4"
+    },
+    {
+      "paperId": "563e821bb5ea825efb56b77484f5287f08cf3753"
+    },
+    {
+      "paperId": "9207dab2492e8a95fe5e024998d58aea1bf23441"
+    },
+    {
+      "paperId": "9fcecc67da35c6af6defd6825875a49954f195e9"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": "f59d8504d7c6e209e6f8bcb62346140214b244b7"
+    },
+    {
+      "paperId": "2660dcf5bd16d14862a7bbb241fa4d85ae34327f"
+    },
+    {
+      "paperId": "a038c488c2af99d6fd0a08e0ab48e0a1f58a5362"
+    },
+    {
+      "paperId": "9035b35ff342e016d9fb6cce0779f63b589db4a6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b137ce7319d3008c7f1a6df8bf7717c8fba6a0a2"
+    },
+    {
+      "paperId": "ce2b3fff1ab22724e8cda6d6595a7a281fdff872"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "paperId": "f0d63efdf2d6961b14c55a0b569fa1e8d9b4a442",
+  "externalIds": {
+    "MAG": "2905350194",
+    "DOI": "10.1007/978-3-319-96815-5_11",
+    "CorpusId": 134838117
+  },
+  "url": "https://www.semanticscholar.org/paper/f0d63efdf2d6961b14c55a0b569fa1e8d9b4a442",
+  "title": "Mapping Agricultural Terraces in Italy. Methodologies Applied in the MAPTER Project",
+  "venue": "Environmental History",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-96815-5_11?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-96815-5_11, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40184079",
+      "name": "Francesco Ferrarese"
+    },
+    {
+      "authorId": "49563646",
+      "name": "S. Pappalardo"
+    },
+    {
+      "authorId": "115773332",
+      "name": "Alberto Cosner"
+    },
+    {
+      "authorId": "92760414",
+      "name": "S. Brugnaro"
+    },
+    {
+      "authorId": "114543407",
+      "name": "Kaodi Alum"
+    },
+    {
+      "authorId": "2079347612",
+      "name": "Angelica Dal Pozzo"
+    },
+    {
+      "authorId": "2002363",
+      "name": "M. Marchi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

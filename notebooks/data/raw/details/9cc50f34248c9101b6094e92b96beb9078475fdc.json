@@ -1,0 +1,43 @@
+{
+  "paperId": "9cc50f34248c9101b6094e92b96beb9078475fdc",
+  "externalIds": {
+    "MAG": "2887928937",
+    "DBLP": "conf/csii/DonziaKH18",
+    "DOI": "10.1007/978-3-319-96806-3_4",
+    "CorpusId": 52298781
+  },
+  "url": "https://www.semanticscholar.org/paper/9cc50f34248c9101b6094e92b96beb9078475fdc",
+  "title": "A Software Model for Precision Agriculture Framework Based on Smart Farming System and Application of IoT Gateway",
+  "venue": "International Conference on Computational Science & Intelligence and Applied Informatics",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-96806-3_4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-96806-3_4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51206770",
+      "name": "Symphorien Karl Yoki Donzia"
+    },
+    {
+      "authorId": "33786068",
+      "name": "Haeng-Kon Kim"
+    },
+    {
+      "authorId": "3149535",
+      "name": "H. Hwang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "953391d95baf557b6dc78caeed20e7ac666e789a",
+  "externalIds": {
+    "MAG": "2983168209",
+    "DBLP": "conf/rtsi/TiotsopSM19",
+    "DOI": "10.1109/RTSI.2019.8895543",
+    "CorpusId": 207972960
+  },
+  "url": "https://www.semanticscholar.org/paper/953391d95baf557b6dc78caeed20e7ac666e789a",
+  "title": "Optimally Scheduling Complex Logistics Operations Involving Acquisition, Elaboration and Action Tasks",
+  "venue": "International Forum on Research and Technologies for Society and Industry Leveraging a better tomorrow",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RTSI.2019.8895543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RTSI.2019.8895543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "147376706",
+      "name": "Lohic Fotio Tiotsop"
+    },
+    {
+      "authorId": "2236057",
+      "name": "Antonio Servetti"
+    },
+    {
+      "authorId": "1803966",
+      "name": "E. Masala"
+    }
+  ],
+  "abstract": "Optimization algorithms can dramatically improve the efficiency of logistics operations. However, when complex tasks are involved, there is a significant lack of good models and optimized solutions. For instance, when it is necessary to perform more than one operation at each specific point in space, potentially depending on the outcome of others, finding optimal solutions for the operator movements may become extremely difficult. This work addresses such context, in which one operator is required to perform acquisition, elaboration and action tasks while visiting a set of positions, with complex sequential dependencies. An example could be an automatic operator, i.e., an unmanned ground vehicle (UGV), that is required to help in precision agriculture activities. For clarity's sake, we will mostly focus on the precision agriculture scenario, but our model and results can be readily applied to the other contexts described in more details in the paper, e.g., scheduling of robot operations or repair companies. After formulating the general problem analytically as an integer linear programming problem, we propose an algorithm that is guaranteed to find the global minimum cost solution in terms of time needed to complete the operations. Tests on instances of the optimization problems with a different number of nodes show the efficiency of the proposed algorithms in terms of computational time.",
+  "references": null
+}

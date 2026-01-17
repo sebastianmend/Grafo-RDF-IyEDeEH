@@ -1,0 +1,112 @@
+{
+  "paperId": "7dde009274a2c2f1e38db58a4861df2480a0e2a2",
+  "externalIds": {
+    "MAG": "2924805576",
+    "DBLP": "journals/access/KhanXLAY19",
+    "DOI": "10.1109/ACCESS.2019.2906033",
+    "CorpusId": 96432019
+  },
+  "url": "https://www.semanticscholar.org/paper/7dde009274a2c2f1e38db58a4861df2480a0e2a2",
+  "title": "UAV’s Agricultural Image Segmentation Predicated by Clifford Geometric Algebra",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08672449.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2906033?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2906033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "92683987",
+      "name": "Prince Waqas Khan"
+    },
+    {
+      "authorId": "1687201",
+      "name": "Guangxia Xu"
+    },
+    {
+      "authorId": "143680427",
+      "name": "M. Latif"
+    },
+    {
+      "authorId": "1471742438",
+      "name": "Khizar Abbas"
+    },
+    {
+      "authorId": "92142276",
+      "name": "A. Yasin"
+    }
+  ],
+  "abstract": "Image segmentation is widely used in the field of agriculture to improve the yields and protecting them from pests, herbs, shrubs, and weeds. Precision agriculture is also contributing to the inter and intra crop monitoring. Recently, unmanned aerial vehicles are used widely for acquiring images. In this paper, we purpose Clifford geometric algebra to enhance the segmented images acquired from the UAVs of different agricultural fields. The Clifford geometric algebra is also sometimes used as a collective term for the diverse range of mathematical fields, both classical and modern algebraic mathematics. Previous image segmentation approaches depend upon the intensity of red, green, and blue colors; but the complete perspective could not be obtained from these approaches. Geometric algebra overcomes this limitation and leads to a genuine color space image processing. It is mainly used in the processing of medical images. Subalgebra of the Clifford algebra is Quaternions. We have used this approach in agricultural images. The image segmentation of foreground and background is enhanced using Clifford geometric algebra; hence, the results obtained are fine-tuned segmented images. The anticipated result of our research would have a positive impact on the amelioration of the condition of the farmers and their livelihood.",
+  "references": [
+    {
+      "paperId": "b7c6bd604e608eb403264e3a15bb7a2f35d00c92"
+    },
+    {
+      "paperId": "6fab72a69a8645d7ad6dd8b5c5bd4f92522cf730"
+    },
+    {
+      "paperId": "f022890be13407a9ebb937796798bc7d4df4cd56"
+    },
+    {
+      "paperId": "9fdd00c443a321d7bc11fbe2e45e5031ca29a038"
+    },
+    {
+      "paperId": "5682c9222cf00f9d65358f6f6ce4360d777251a2"
+    },
+    {
+      "paperId": "0e2086fc38dd3e019f00fc7a54612105a369e362"
+    },
+    {
+      "paperId": "e8426e37cd096c758a4c8f52ee7c5db12dd963a7"
+    },
+    {
+      "paperId": "07545941f58ac8fc5da6bec1ac0c3546ba58abc5"
+    },
+    {
+      "paperId": "507c980da21d128543628d4a37db1147f619f39c"
+    },
+    {
+      "paperId": "c2c9dc779e1db913af8893241fabc4629d045a99"
+    },
+    {
+      "paperId": "737d00b06491c072669646f1012a1eb999855896"
+    },
+    {
+      "paperId": "32d92dcec1cf84a05aa7b2e08e0ea7cb275b3969"
+    },
+    {
+      "paperId": "341cd306e5adf98472dfbdfecbadf6a698a6824e"
+    },
+    {
+      "paperId": "378ee2d52a974bd30de7e40df229ad42a22c55ee"
+    },
+    {
+      "paperId": "a2bfc30fd47584ba6cb1743d51c0c00b7430dfae"
+    },
+    {
+      "paperId": "cad05df69d02d98e2781815e2cc1db5a8c003637"
+    },
+    {
+      "paperId": "a35365c78dee03f891e3a3b4488a8884db3fb70d"
+    },
+    {
+      "paperId": "40ba4d3563daef36ef2565cbecdca2dc9fa4ea85"
+    },
+    {
+      "paperId": "7a9d389a39dd7cfcb9f3c66428e071c969f2dd67"
+    },
+    {
+      "paperId": "fe73371766b989b6b818ec8fb26a068a89c7afda"
+    }
+  ]
+}

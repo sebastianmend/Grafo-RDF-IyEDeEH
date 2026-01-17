@@ -1,0 +1,53 @@
+{
+  "paperId": "c555707410939142cdd86e9152bb289402b893ec",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/GuSYXS18",
+    "MAG": "2897112385",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476034",
+    "CorpusId": 52914174
+  },
+  "url": "https://www.semanticscholar.org/paper/c555707410939142cdd86e9152bb289402b893ec",
+  "title": "Spectral Response of Soil Organic Matter by Principal Component Analysis",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "7788004",
+      "name": "X. Gu"
+    },
+    {
+      "authorId": "51431744",
+      "name": "Meiyan Shu"
+    },
+    {
+      "authorId": "34831475",
+      "name": "Guijun Yang"
+    },
+    {
+      "authorId": "50180828",
+      "name": "Xingang Xu"
+    },
+    {
+      "authorId": "50706865",
+      "name": "Xiao-yu Song"
+    }
+  ],
+  "abstract": "Soil organic matter (SOM) can be used as an indicator to guide fertilization and chemical input management of farmland. It increases soil porosity and water holding capacity. Monitoring the spatial distribution of SOM timely and accurately is very important for fertilization management in precision agriculture. Imaging hyperspectrometer carried on the unmanned aerial vehicle (UAV) has been developed rapidly in recent years. The study aimed to test the practicability of monitoring SOM by imaging hyperspectrometer in a small scale. The 132 soil samples in the study were collected from three regions. The quantitative relationships between SOM and spectral reflectivity with different pixel sizes were analyzed by the transformation method of principal component analysis (PCA). After screening sensitive bands and spectral parameters, partial least square method (PLS) was used to develop the inversion models of SOM to evaluate the optimal scale of imaging hyperspectrometer application in monitoring SOM. Two-third of SOM samples were used to develop the PCA-PLS models. Results showed that the first two principal components of hyperspectral image could reach 99.80% relative information, which were chosen as spectral parameters of SOM. The correlations between SOM and PCA1 or PCA2 were analyzed with five resampling sizes, all of which reached above 0.4. One-third of SOM samples were used to evaluate the accuracy of the inversion with determination coefficient (R2) and root mean square error (RMSE). Results showed that all PCA-PLS models of predicting SOM could get good accuracy, all R2 above 0.3. With the resampling size increasing, the accuracies of PCA-PLS models increased first and then decreased. The model with 3*3 resampling size reached highest accuracy, of which the R2 was 0.3411, while RMSE was 3.071 g/kg. It indicated that the PCA method could make the best of hyperspectrum information to monitor SOM effectively.",
+  "references": null
+}

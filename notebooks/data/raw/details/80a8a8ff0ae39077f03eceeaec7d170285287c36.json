@@ -1,0 +1,56 @@
+{
+  "paperId": "80a8a8ff0ae39077f03eceeaec7d170285287c36",
+  "externalIds": {
+    "MAG": "2963186797",
+    "DBLP": "conf/giots/RoussakiKRDPM19",
+    "DOI": "10.1109/GIOTS.2019.8766416",
+    "CorpusId": 198147073
+  },
+  "url": "https://www.semanticscholar.org/paper/80a8a8ff0ae39077f03eceeaec7d170285287c36",
+  "title": "A Multi-Actor Approach to promote the employment of IoT in Agriculture",
+  "venue": "Global Internet of Things Summit",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GIOTS.2019.8766416?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GIOTS.2019.8766416, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1700078",
+      "name": "I. Roussaki"
+    },
+    {
+      "authorId": "1690531",
+      "name": "Pavlos Kosmides"
+    },
+    {
+      "authorId": "51933328",
+      "name": "George Routis"
+    },
+    {
+      "authorId": "2207136",
+      "name": "Kevin Doolin"
+    },
+    {
+      "authorId": "151248054",
+      "name": "Veronique Pevtschin"
+    },
+    {
+      "authorId": "13739384",
+      "name": "A. Marguglio"
+    }
+  ],
+  "abstract": "The evolution of smart farming and precision agriculture during the last decades has led to an increase of the available solutions that can be used by farmers. However, these two paradigms have not yet achieved high acceptance by end user farmers due to various reasons. In this respect, this paper elaborates on an innovative Multi-Actor Approach architecture that assists farmers to take better decisions and enables them to harness the full value of their own data and knowledge aiming to promote the adoption of the Internet of Things in the agrifood sector.",
+  "references": null
+}

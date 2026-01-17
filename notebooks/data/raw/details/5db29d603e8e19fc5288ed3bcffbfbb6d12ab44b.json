@@ -1,0 +1,46 @@
+{
+  "paperId": "5db29d603e8e19fc5288ed3bcffbfbb6d12ab44b",
+  "externalIds": {
+    "MAG": "2901384800",
+    "DOI": "10.1007/s13593-018-0544-0",
+    "CorpusId": 53717841
+  },
+  "url": "https://www.semanticscholar.org/paper/5db29d603e8e19fc5288ed3bcffbfbb6d12ab44b",
+  "title": "Grapevine abiotic stress assessment and search for sustainable adaptation strategies in Mediterranean-like climates. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2018,
+  "citationCount": 115,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13593-018-0544-0.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-018-0544-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-018-0544-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "34716047",
+      "name": "S. Bernardo"
+    },
+    {
+      "authorId": "120886863",
+      "name": "L. Dinis"
+    },
+    {
+      "authorId": "145340016",
+      "name": "Nelson Machado"
+    },
+    {
+      "authorId": "1399402628",
+      "name": "J. Moutinho-Pereira"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

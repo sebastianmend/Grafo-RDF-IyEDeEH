@@ -1,0 +1,40 @@
+{
+  "paperId": "737f07ceb9554d51d90a000ba4fdf024a8b94acc",
+  "externalIds": {
+    "DBLP": "journals/sj/SahotaK18",
+    "MAG": "2406992669",
+    "DOI": "10.1109/JSYST.2016.2550607",
+    "CorpusId": 4357243
+  },
+  "url": "https://www.semanticscholar.org/paper/737f07ceb9554d51d90a000ba4fdf024a8b94acc",
+  "title": "Maximum-Likelihood Sensor Node Localization Using Received Signal Strength in Multimedia With Multipath Characteristics",
+  "venue": "IEEE Systems Journal",
+  "year": 2018,
+  "citationCount": 19,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/jsyst.2016.2550607",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSYST.2016.2550607?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSYST.2016.2550607, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47366436",
+      "name": "Herman Sahota"
+    },
+    {
+      "authorId": "1909719357",
+      "name": "Ratnesh Kumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

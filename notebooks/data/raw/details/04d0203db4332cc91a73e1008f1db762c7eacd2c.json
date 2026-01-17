@@ -1,0 +1,46 @@
+{
+  "paperId": "04d0203db4332cc91a73e1008f1db762c7eacd2c",
+  "externalIds": {
+    "MAG": "2980138107",
+    "DOI": "10.1007/978-981-13-9570-3_15",
+    "CorpusId": 210311220
+  },
+  "url": "https://www.semanticscholar.org/paper/04d0203db4332cc91a73e1008f1db762c7eacd2c",
+  "title": "Climate Change and Agriculture: A Review of Crop Models",
+  "venue": "Global Climate Change and Environmental Policy",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-9570-3_15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-9570-3_15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "108742552",
+      "name": "S. Mulla"
+    },
+    {
+      "authorId": "152341252",
+      "name": "Sudhir Kumar Singh"
+    },
+    {
+      "authorId": "2242392145",
+      "name": "Komal Singh"
+    },
+    {
+      "authorId": "144745568",
+      "name": "Bushra Praveen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

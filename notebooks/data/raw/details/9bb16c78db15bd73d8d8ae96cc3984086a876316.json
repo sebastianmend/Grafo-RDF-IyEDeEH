@@ -1,0 +1,50 @@
+{
+  "paperId": "9bb16c78db15bd73d8d8ae96cc3984086a876316",
+  "externalIds": {
+    "MAG": "2982421764",
+    "DOI": "10.1109/APUSNCURSINRSM.2019.8889330",
+    "CorpusId": 207832869
+  },
+  "url": "https://www.semanticscholar.org/paper/9bb16c78db15bd73d8d8ae96cc3984086a876316",
+  "title": "The Future of Backscatter in Precision Agriculture",
+  "venue": "2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://pureadmin.qub.ac.uk/ws/files/190294519/future2019.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/APUSNCURSINRSM.2019.8889330?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/APUSNCURSINRSM.2019.8889330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39247489",
+      "name": "S. Daskalakis"
+    },
+    {
+      "authorId": "3147276",
+      "name": "S. D. Assimonis"
+    },
+    {
+      "authorId": "145354878",
+      "name": "G. Goussetis"
+    },
+    {
+      "authorId": "9450966",
+      "name": "M. Tentzeris"
+    },
+    {
+      "authorId": "2086966",
+      "name": "A. Georgiadis"
+    }
+  ],
+  "abstract": "Nowadays, the explosive growth of Internet-of-Things-related applications has required the design of low-cost and ultra-low-power wireless sensors; backscatter communication has been introduced as a cutting-edge technology that could address the above constraints. For sensing applications, the monitoring of plant water stress is of high importance in smart agriculture. Instead of the traditional ground soil moisture measurements, leaf sensing is an old technology, which is used for the detection of plant water stress. Considering the above topics, this paper aims to provide a contemporary and literature review on fundamentals, applications and research efforts/progress on backscatter systems for leaf sensing applications. It is described how backscatter technology could be exploited for \"one sensor per plant\" applications in future precision agriculture.",
+  "references": null
+}

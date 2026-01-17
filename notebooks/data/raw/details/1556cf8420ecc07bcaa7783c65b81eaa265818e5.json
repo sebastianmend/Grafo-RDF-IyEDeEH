@@ -1,0 +1,101 @@
+{
+  "paperId": "1556cf8420ecc07bcaa7783c65b81eaa265818e5",
+  "externalIds": {
+    "MAG": "2972557667",
+    "DOI": "10.26832/24566632.2019.040307",
+    "CorpusId": 202742268
+  },
+  "url": "https://www.semanticscholar.org/paper/1556cf8420ecc07bcaa7783c65b81eaa265818e5",
+  "title": "Position of farmers in agriculture 4.0: Finding from farmers partner of aggregator online vegetables commodity in Indonesia",
+  "venue": "Archives of Agriculture and Environmental Science",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.26832/24566632.2019.040307",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26832/24566632.2019.040307?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26832/24566632.2019.040307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "95723503",
+      "name": "J. Meliala"
+    },
+    {
+      "authorId": "2077321518",
+      "name": "M. Hubeis"
+    },
+    {
+      "authorId": "71562024",
+      "name": "S. Jahroh"
+    },
+    {
+      "authorId": "78202569",
+      "name": "A. Maulana"
+    }
+  ],
+  "abstract": "Received: 23 August 2019 Revised received: 01 September 2019 Accepted: 06 September 2019 The idea of the agricultural revolution 4.0 emerged as the impact of the industrial revolution 4.0. Agriculture 4.0 is characterized by precision agriculture, artificial intelligence, plant factories, and digital marketing. In Indonesia since 2015, online Aggregators have begun to appear in agriculture, which are intermediary actors using internet-based applications or websites that act as liaison for farmers with markets, suppliers and funders. This online aggregator also acts as a mobilizer for partner farmers towards agriculture 4.0. But problems appear when farmers are not ready to face increasingly rapid technological advances. The purpose of this study was to explore the farmer's position towards agriculture 4.0, especially partner of aggregator online vegetable commodities. This study used survey methods to collect information from farmers used questionnaire. Sampling method used the quota sampling to select 36 farmers from 12 aggregators online vegetables commodity. Analysis of the position of farmers using the questionnaire based on indicators on the 6 elements of management are man, material, method, machine, money, market in agricultural positions 1.0 to position 4.0. The results of the questionnaire are then processed based on the arithmetic mean. The results showed the position of aggregate partner farmers in general were able to pass the phase of the agricultural revolution 3.0 towards agriculture 4.0. The findings of this study show elements come near to the agricultural 4.0 position are market and material element with an average value 3,83 and 3,56. While the lowest element position with an average position value of 2.94 is machine.",
+  "references": [
+    {
+      "paperId": "935189b5043912427dd4ead5cb7222b95ad8d1a2"
+    },
+    {
+      "paperId": "872da019b839087efdb0e8ce28efb0ec6e7fe5da"
+    },
+    {
+      "paperId": "d659e7058a32f58db52cd44fd9ddc5c5f94bd0d7"
+    },
+    {
+      "paperId": "a2f075d51c8641aece7521093e346b00562a9a8a"
+    },
+    {
+      "paperId": "4a38420aae8d5a4ce19311738bdd286f99c45077"
+    },
+    {
+      "paperId": "b399e80818641d188adfe262fa75db7e158a3d94"
+    },
+    {
+      "paperId": "131ba511b8bdc2060479256e690e1eb4fa277bff"
+    },
+    {
+      "paperId": "42aa775fc62d0561c0d977ebb8db55223f528457"
+    },
+    {
+      "paperId": "b6cc0a2d707f7ba5cd662862b63516f95be05888"
+    },
+    {
+      "paperId": "91791027e06f74bf4f63f31795bfed99c6300d3d"
+    },
+    {
+      "paperId": "4adadfafa086bd2a35c8df4b427e64818545dbe7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bcef34c7e66b8c55f4bb7dbe95062b757c919dde"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

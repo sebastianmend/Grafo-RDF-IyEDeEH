@@ -1,0 +1,46 @@
+{
+  "paperId": "685760667e3c75f59bc4726911ef1c39e63530a5",
+  "externalIds": {
+    "MAG": "2990465445",
+    "DOI": "10.1109/MetroAgriFor.2019.8909240",
+    "CorpusId": 208207435
+  },
+  "url": "https://www.semanticscholar.org/paper/685760667e3c75f59bc4726911ef1c39e63530a5",
+  "title": "When accuracy of measurements matter: economic profitability from precision agriculture",
+  "venue": "2019 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iris.univpm.it/bitstream/11566/274883/1/When%20accuracy%20of%20measurements%20matter%20economic.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MetroAgriFor.2019.8909240?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MetroAgriFor.2019.8909240, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "117022122",
+      "name": "G. Bucci"
+    },
+    {
+      "authorId": "98470281",
+      "name": "D. Bentivoglio"
+    },
+    {
+      "authorId": "92632865",
+      "name": "M. Belletti"
+    },
+    {
+      "authorId": "93960078",
+      "name": "A. Finco"
+    }
+  ],
+  "abstract": "Starting from 1980s, Precision Agriculture (PA) has established itself as a modern farming management using digital techniques to monitor and optimize agricultural production processes. However, the debate about the relative magnitude of benefits and costs of PA technologies on individual farms is still going on. The profitability of precision agriculture depends on part of the spatial and temporal variability of the soil and on the other hand on the accuracy with which the measurements are made. On this premise, the present paper aims, firstly, to review the state of art of the economic profitability of PA, in relation to the technology adopted. Secondly to explore how Precision Agriculture Technologies could affect the productivity of a representative farm specialized in arable crop production. This study confirms the positive effect related to the application of Precision Agriculture Technologies (PATs).",
+  "references": null
+}

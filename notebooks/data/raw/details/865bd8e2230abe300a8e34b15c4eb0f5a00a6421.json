@@ -16,7 +16,7 @@
     "url": "https://research.utwente.nl/files/347714446/Generation_of_SpectralTemporal_Response_Surfaces_by_Combining_Multispectral_Satellite_and_Hyperspectral_UAV_Imagery_for_Precision_Agriculture_Applications.pdf",
     "status": "GREEN",
     "license": "other-oa",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2015.2406339?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2015.2406339, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2015.2406339?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2015.2406339, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Mathematics",

@@ -1,0 +1,49 @@
+{
+  "paperId": "bfa4529c8e5e506f87f1a3fb9ef9ab74876fe01b",
+  "externalIds": {
+    "DBLP": "conf/jcsse/Asavasuthirakul19",
+    "MAG": "2979334098",
+    "DOI": "10.1109/JCSSE.2019.8864167",
+    "CorpusId": 204701784
+  },
+  "url": "https://www.semanticscholar.org/paper/bfa4529c8e5e506f87f1a3fb9ef9ab74876fe01b",
+  "title": "A Low-Cost RTK GNSS Receiver with Cloud-Based Control Center Application",
+  "venue": "International Joint Conference on Computer Science and Software Engineering",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JCSSE.2019.8864167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JCSSE.2019.8864167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1929942",
+      "name": "Duangduen Asavasuthirakul"
+    },
+    {
+      "authorId": "1393456977",
+      "name": "Sittha Saisawan"
+    },
+    {
+      "authorId": "1964448",
+      "name": "A. Harfield"
+    },
+    {
+      "authorId": "1393456962",
+      "name": "Prasert Wiangsukphaiboon"
+    }
+  ],
+  "abstract": "Geographical positioning is indispensable in fields such as agriculture automation, mapping, and land surveying. Real-time kinematic (RTK) is a technique to enhance the positional accuracy of global navigation satellite systems (GNSS) to centimeter level precision. However, professional-grade RTK GNSS devices and their associated commercial tools are expensive and require expertise to operate. Thus, the authors have developed a low-cost RTK GNSS receiver “Pantai” together with its cloud control center, called “RTK Control Center”. Pantai supports satellite signals from multi-constellations and can communicate across existing data networks (3G+/Wi-Fi) to provide real-time positioning information and to receive operation commands from remote users via the control center. In this paper, we describe the architecture for Pantai and RTK Control Center, and we undertake two experiments to verify the accuracy and reliability of the system. The results show that the system can measure the position of a rover with centimeter level accuracy.",
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "a0f611cd314b96dee26f775689475c60528950b0",
+  "externalIds": {
+    "MAG": "3032606758",
+    "DOI": "10.1109/ICEMI46757.2019.9101772",
+    "CorpusId": 218907667
+  },
+  "url": "https://www.semanticscholar.org/paper/a0f611cd314b96dee26f775689475c60528950b0",
+  "title": "A two-stage method for constructing real-time high-precision temperature map",
+  "venue": "IEEE International Conference on Electronic Measurement & Instruments",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEMI46757.2019.9101772?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEMI46757.2019.9101772, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9200718",
+      "name": "Wang Ruoyu"
+    },
+    {
+      "authorId": "1720865813",
+      "name": "Cai Jingtao"
+    },
+    {
+      "authorId": "2113510653",
+      "name": "Sun Feng"
+    },
+    {
+      "authorId": "9285671",
+      "name": "Chen Yongquan"
+    }
+  ],
+  "abstract": "Temperature monitoring has many real-life applications in the fields of electricity, meteorology, manufacturing, agriculture, security, etc. Therefore, it is important to efficiently construct a high-precision temperature map based on a number of sampling temperature data collected by temperature sensors. For this problem, the traditional methods include the average value method, the finite element method, and the Kriging method, among which the Kriging method has the highest accuracy, but requires the highest complexity, preventing its applications in large-scale scenes. To overcome this drawback, a two-stage constructing method is developed, which divides all the pixels into two classes, called 1-level pixels and 2-level pixels respectively. For the 1-level pixels, it still uses the Kriging method to estimate the corresponding temperatures (to ensure accuracy). Based on estimated temperatures of the 1-level pixels, for the 2-level pixels it uses a local weighted mean method with low complexity to estimate the corresponding temperatures (to improve efficiency). Experimental results show that, the new method could greatly improve the efficiency of calculation, only with very few loss of accuracy, thus satisfying the real-time requirement in large-scale cases.",
+  "references": null
+}

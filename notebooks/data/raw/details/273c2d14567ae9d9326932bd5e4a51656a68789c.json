@@ -1,0 +1,42 @@
+{
+  "paperId": "273c2d14567ae9d9326932bd5e4a51656a68789c",
+  "externalIds": {
+    "MAG": "2891616237",
+    "DOI": "10.29252/jehe.5.3.299",
+    "CorpusId": 133896752
+  },
+  "url": "https://www.semanticscholar.org/paper/273c2d14567ae9d9326932bd5e4a51656a68789c",
+  "title": "Selection of Suitable Guidelines for the Application of Sewage Sludge in Agricultural Using Hierarchical Analysis System (AHP)",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.29252/jehe.5.3.299",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29252/jehe.5.3.299?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29252/jehe.5.3.299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "114619025",
+      "name": "رضا براتی رشوانلو"
+    },
+    {
+      "authorId": "2099694587",
+      "name": "مهدی فرزادکیا"
+    },
+    {
+      "authorId": "97551257",
+      "name": "محمد ماروسی"
+    }
+  ],
+  "abstract": "Background:Sewage sludge management is one of the most challenging parts of sewage treatment in terms of economic, design and environmental issues. One of the common ways of disposing of sludge is its use in agricultural land. Due to the presence of various contaminants in sludge Sewage, its safe and effective use in agricultural land requires the development of a special Guidance. Methods: This study was carried out to survey the guidelines of different countries regarding the application of sewage sludge on the ground and prioritize them according to the native conditions of Iran using multivariate analysis and expert opinion and using the AHP method. Resultss: The United States, Australia, Canada, China, Japan, the European :union:, Russia, Turkey, and South Africa have the highest rating by applying the scores of indexes and taking into account the weight of the criteria in accordance with the standards of the US Environmental Protection Agency, respectively. Conclusion: The analysis of the results of this study showed that among the various guidelines examined, the US Environmental Protection Agency (EPA) has the most executive capacity in terms of executive capacity, comprehensiveness, transparency and precision.",
+  "references": []
+}

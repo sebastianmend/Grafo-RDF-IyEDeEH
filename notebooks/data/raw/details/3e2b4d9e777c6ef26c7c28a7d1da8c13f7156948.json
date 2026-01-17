@@ -1,0 +1,32 @@
+{
+  "paperId": "3e2b4d9e777c6ef26c7c28a7d1da8c13f7156948",
+  "externalIds": {
+    "MAG": "2805406354",
+    "CorpusId": 67136928
+  },
+  "url": "https://www.semanticscholar.org/paper/3e2b4d9e777c6ef26c7c28a7d1da8c13f7156948",
+  "title": "Toward open smart IoT Systems: an overview of recent initiatives and future directions",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1809322",
+      "name": "K. Drira"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

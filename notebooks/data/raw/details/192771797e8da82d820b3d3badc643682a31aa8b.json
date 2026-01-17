@@ -1,0 +1,48 @@
+{
+  "paperId": "192771797e8da82d820b3d3badc643682a31aa8b",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/0003WSL18",
+    "MAG": "2896970139",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476007",
+    "CorpusId": 52915029
+  },
+  "url": "https://www.semanticscholar.org/paper/192771797e8da82d820b3d3badc643682a31aa8b",
+  "title": "Digital Mapping of Soil Available Phosphorus Supported by AI Technology for Precision Agriculture",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "143701631",
+      "name": "Wen Dong"
+    },
+    {
+      "authorId": "3106487",
+      "name": "Tianjun Wu"
+    },
+    {
+      "authorId": "46676395",
+      "name": "Yingwei Sun"
+    },
+    {
+      "authorId": "1762091",
+      "name": "Jiancheng Luo"
+    }
+  ],
+  "abstract": "Precision agriculture has been proposed to improve the sustainability of agriculture and solve the environmental pollution of soil. In precision agriculture process, the management of water and fertilizer is carried out on agricultural operation units. Therefore, acquisition of accurate soil nutrient distribution information is a key step for precision agriculture application and digital soil mapping is an effective technology. Significant progress has been made in digital soil mapping over the past 20 years. However, the current digital soil mapping framework was implemented based on grids, which was not consistent with the operation units of precision agriculture. This paper proposed a geo-parcel based digital soil mapping framework on the support of artificial intelligence technology for precision agriculture application. Two key technologies were studied for the implementation of this framework. Geo-parcels automatic extraction was the basis of this method, and a modified VGG 16 network was used for geo-parcels' accurate boundary extraction from high resolution images. Different machine learning methods were attempted to construct the relationship between soil available phosphorus and environment on geo-parcels. We chose an agricultural region in Zhongning County, Ningxia Province as the study area, and the new digital soil mapping framework was applied for soil available phosphorus mapping. This research showed that geo-parcel based digital mapping method could reduce the number of prediction units more than 50% for fine soil mapping, and effectively improve the prediction and application efficiency. This study was an attempt to realize soil mapping based on agricultural operation units for precision agriculture application. The high resolution remote sensing images provide basic data for the realization of this idea and the development of AI technology provides technical support for it. In the future, we will carry out experiments in larger areas to further optimize this method and key technologies for the applications in more complex environments.",
+  "references": null
+}

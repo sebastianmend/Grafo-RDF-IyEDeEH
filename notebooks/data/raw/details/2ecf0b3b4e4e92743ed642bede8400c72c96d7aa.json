@@ -1,0 +1,47 @@
+{
+  "paperId": "2ecf0b3b4e4e92743ed642bede8400c72c96d7aa",
+  "externalIds": {
+    "MAG": "2786652201",
+    "DBLP": "journals/network/ChenSYX18",
+    "DOI": "10.1109/MNET.2018.1700145",
+    "CorpusId": 9236724
+  },
+  "url": "https://www.semanticscholar.org/paper/2ecf0b3b4e4e92743ed642bede8400c72c96d7aa",
+  "title": "ThriftyEdge: Resource-Efficient Edge Computing for Intelligent IoT Applications",
+  "venue": "IEEE Network",
+  "year": 2018,
+  "citationCount": 170,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "http://hdl.handle.net/10397/77580",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MNET.2018.1700145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MNET.2018.1700145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118183861",
+      "name": "Xu Chen"
+    },
+    {
+      "authorId": "2113756611",
+      "name": "Qian Shi"
+    },
+    {
+      "authorId": "2118929101",
+      "name": "Lei Yang"
+    },
+    {
+      "authorId": "2145754023",
+      "name": "Jie Xu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

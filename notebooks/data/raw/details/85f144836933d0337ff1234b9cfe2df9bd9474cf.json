@@ -1,0 +1,227 @@
+{
+  "paperId": "85f144836933d0337ff1234b9cfe2df9bd9474cf",
+  "externalIds": {
+    "MAG": "2990129253",
+    "PubMedCentral": "6912663",
+    "DOI": "10.3390/ani9111000",
+    "CorpusId": 208227083,
+    "PubMed": "31752422"
+  },
+  "url": "https://www.semanticscholar.org/paper/85f144836933d0337ff1234b9cfe2df9bd9474cf",
+  "title": "The Effect of Behaviour and Diet on the Rumen Temperature of Holstein Bulls",
+  "venue": "Animals",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-2615/9/11/1000/pdf?version=1574332388",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6912663, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "147705170",
+      "name": "N. Rutherford"
+    },
+    {
+      "authorId": "73915546",
+      "name": "A. Gordon"
+    },
+    {
+      "authorId": "10028259",
+      "name": "F. Lively"
+    },
+    {
+      "authorId": "49601754",
+      "name": "G. Arnott"
+    }
+  ],
+  "abstract": "Simple Summary The use of precision technology within agriculture is growing rapidly. Rumen temperature boluses are primarily used for the detection of ill health, but also have uses in detecting estrus and the onset of parturition. Research has shown that water intake and diet can impact rumen temperature. However, little emphasis has been placed on the impact of behaviour, particularly agonistic interactions, which are common amongst young bulls. In fact, there is a clear knowledge gap surrounding the effect behaviour has on physiology, particularly core body temperature. Thus, the aim of this study is to investigate the impact of behaviour and diet on the rumen temperature of Holstein bulls, both at grass, and in a housed environment. The results from this study indicate that although significant differences in rumen temperature exist between behaviour groups, these rumen temperatures are all within the normal temperature range. Therefore, behaviour should not impact the accuracy of the detection of ill health. Furthermore, diet had no effect on rumen temperature. Abstract Rumen temperature boluses are becoming increasingly used as a means of monitoring core body temperature for the detection of ill health. However, the effect of behavior on rumen temperature is largely unknown. This research investigates the impact of behaviour and diet on the rumen temperature of Holstein bulls, both at grass, and in a housed environment. Rumen temperature was recorded at five-minute intervals using a bolus. Direct observations were conducted on young bulls in two studies (i) at grass (n = 30) and (ii) while housed (n = 32). In addition, activity monitors were attached to bulls at grass (n = 24). Within each study, diet differed by the level of concentrate supplementation. There was no effect of diet on rumen temperature. Significant differences in rumen temperature were observed between behaviour groups for bulls at grass (p < 0.001) and housed (p < 0.001). Furthermore, drinking resulted in the lowest rumen temperature (grass 35.97 °C; housed 36.70 °C). Therefore, rumen temperature is affected by behavior; however, the temperatures recorded were not outside the normal temperature range for healthy cattle.",
+  "references": [
+    {
+      "paperId": "cb512d1abe84d0854a121bf89d692c5f4f607a5c"
+    },
+    {
+      "paperId": "87fcb577a3b8552c6e0038e8e8bd439a32730ee2"
+    },
+    {
+      "paperId": "fe909a701a033fa4cdaabade9104756d3d88a584"
+    },
+    {
+      "paperId": "f20a300ab5b11679e546fb26addae5b47f8e6531"
+    },
+    {
+      "paperId": "e3231bdec76ea1cac0988aa85790f120ffc23b22"
+    },
+    {
+      "paperId": "4d9f14a9105987c5b2e6dc7ae8baabc47a44e102"
+    },
+    {
+      "paperId": "99bb880512f138996d083825b58961ceabb6504c"
+    },
+    {
+      "paperId": "cbcae7cfe714e1e375ea6446cef36a697a7e507c"
+    },
+    {
+      "paperId": "442c8138065ec77b7fb9ea767152629abf52c3ee"
+    },
+    {
+      "paperId": "1b6939b9ee0a2af86ad93545f26b291f5de6a04c"
+    },
+    {
+      "paperId": "fdbc770881a757eb444e47d61e3b3a69a4ebb0ce"
+    },
+    {
+      "paperId": "17864c1dd1f001bf26353c08432445c3c3a6e0bd"
+    },
+    {
+      "paperId": "2cd66351883a23e18b1a97648e367dfb144a377a"
+    },
+    {
+      "paperId": "33c07ed4e2b6286de87799b766a5f66ee759767f"
+    },
+    {
+      "paperId": "3f1c670482027dbade295d0a57d7a1c7dfef5cf0"
+    },
+    {
+      "paperId": "3e0e851a45805dc6cd1e8b9acbdfbd38e2409b8d"
+    },
+    {
+      "paperId": "8c68849f64298aea17cfe40513574bc8ff6657c7"
+    },
+    {
+      "paperId": "d3bf3850540e402e40330c51a964bbaeb954bef9"
+    },
+    {
+      "paperId": "974888640581232ffffd031bb723dfd216692f3a"
+    },
+    {
+      "paperId": "d587c5455b3a035bfa81453de2289c373459d2cc"
+    },
+    {
+      "paperId": "a96b6646d072c1cad0022d5991b5173bb56aa70e"
+    },
+    {
+      "paperId": "eef7d4f3df81bc5816c8a569f8378214981168a2"
+    },
+    {
+      "paperId": "bea268d34190700b11c01da5bf093e8649478790"
+    },
+    {
+      "paperId": "e010fdc97cf75b24840892e7243cae1f8f170b3a"
+    },
+    {
+      "paperId": "cc17050d2a977d882a19451c3f0385f666f5a89b"
+    },
+    {
+      "paperId": "b6bc00aa0babdee1cc247bf354130e6660079bec"
+    },
+    {
+      "paperId": "efc156a0ffb341494d16aec6bb525a0f7f1718a5"
+    },
+    {
+      "paperId": "0202316f93605e3465b158f851a66132587617c7"
+    },
+    {
+      "paperId": "e94a7995c3dbd5c94ac7c04813113ffade9c3e84"
+    },
+    {
+      "paperId": "5c92c89c8ddf57f5e926ff693996edaacc44bc9f"
+    },
+    {
+      "paperId": "3d7bd82d7eefb92032db94b823c6ca9b34398832"
+    },
+    {
+      "paperId": "dd856b1c28aa425567ca7a35d979b017097471e6"
+    },
+    {
+      "paperId": "c7b528ffae33411deebb74cda111e2c3a14553b1"
+    },
+    {
+      "paperId": "56a5792893def3f5f7ef1a512752fecc416e5d2b"
+    },
+    {
+      "paperId": "1fa5f986d134bc307a6689ca62388f333a0a9b77"
+    },
+    {
+      "paperId": "ac9e3b9bd301d3e98104c47f77ed3c49ed885396"
+    },
+    {
+      "paperId": "4731b4b7b23e5d3e28761f5e768b13bcd6924fff"
+    },
+    {
+      "paperId": "21da1bd8748bea021a0e15d80bf421731cf3e09a"
+    },
+    {
+      "paperId": "314445be8efc6b6f7456f0592b2d2696eaec4996"
+    },
+    {
+      "paperId": "4867cc85a4671c081f40977f771f9ce9d7de73f5"
+    },
+    {
+      "paperId": "e2c6b5095790f3e94675e7c2e5d3ad95d2e8e816"
+    },
+    {
+      "paperId": "c0404b74010ad377dded3717223e7df6840a467b"
+    },
+    {
+      "paperId": "b9ab447321a7d0405f234c2666f23d398d99fdbd"
+    },
+    {
+      "paperId": "7b795f7d451c4dad72cd10621d99ed0380433f53"
+    },
+    {
+      "paperId": "646d6520e55c3553af44f58ab707d4acf47b3644"
+    },
+    {
+      "paperId": "fe5aace486d096f3a79f357d1190a2c700e31735"
+    },
+    {
+      "paperId": "c3572836af50b8463e90913b29cb036de4a9f0ae"
+    },
+    {
+      "paperId": "ed4905fcd06ffc23d4d215b4cbd9d6b5bc4ccac9"
+    },
+    {
+      "paperId": "c421797dce3d940061ecf76a6f8a0da1f34dfd68"
+    },
+    {
+      "paperId": "71740985ee8f0d9b858d4302fb31349d5e345b7c"
+    },
+    {
+      "paperId": "079ed8d91c827c332ced2ff93c93434285bacb17"
+    },
+    {
+      "paperId": "8e76640be8eebc8e1c00a3c98235775a310e1b78"
+    },
+    {
+      "paperId": "783af39fb38caa42ed88b06e4ccb7c98820584e3"
+    },
+    {
+      "paperId": "402c4b26474af772d21f6a2b7cfc06f4efe95971"
+    },
+    {
+      "paperId": "35572eb7b053c604bb02243ecc884cee0d365c5e"
+    },
+    {
+      "paperId": "91dc7b29c5a32d138151955c21b6d9f388b40a0e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

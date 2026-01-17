@@ -1,0 +1,38 @@
+{
+  "paperId": "fd66d0e7205003c71d76fcf2bf69f5dc9a469328",
+  "externalIds": {
+    "MAG": "2952050056",
+    "DOI": "10.1109/BIOSMART.2019.8734219",
+    "CorpusId": 189825034
+  },
+  "url": "https://www.semanticscholar.org/paper/fd66d0e7205003c71d76fcf2bf69f5dc9a469328",
+  "title": "Sorghum Yield Prediction using Machine Learning",
+  "venue": "2019 3rd International Conference on Bio-engineering for Smart Technologies (BioSMART)",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/BIOSMART.2019.8734219?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BIOSMART.2019.8734219, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "147180694",
+      "name": "Judicael Geraud N. Zannou"
+    },
+    {
+      "authorId": "1837870",
+      "name": "V. Houndji"
+    }
+  ],
+  "abstract": "Estimation of a future agricultural production is an important challenge for farmers. In this paper, we propose a system based on machine learning algorithms to estimate farm yields. The experiments were conducted on a Sorghum field. We use TensorFlow with Convolutional Neural Networks and Linear Regression. These algorithms allow us 1) to detect the different ears of Sorghum on an image and 2) to estimate their weight. On our dataset, we obtain an average accuracy of 74,5% for the detection of sorghum and an average precision of 99% for the estimation of the weight.",
+  "references": null
+}

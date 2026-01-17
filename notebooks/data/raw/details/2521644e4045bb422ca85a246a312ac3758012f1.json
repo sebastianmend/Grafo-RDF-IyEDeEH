@@ -16,7 +16,7 @@
     "url": "https://digital.csic.es/bitstream/10261/238312/1/Potential%20use%20of%20ground%e2%80%90based%20sensor%20technologies%20for%20weed%20detection.pdf",
     "status": "GREEN",
     "license": "other-oa",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ps.3677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ps.3677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ps.3677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ps.3677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Computer Science",

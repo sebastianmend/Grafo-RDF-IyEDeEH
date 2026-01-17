@@ -1,0 +1,176 @@
+{
+  "paperId": "103d00cf23186050c47b2942ccaba2ee0052b988",
+  "externalIds": {
+    "DBLP": "journals/ral/PotenaK0SNP19",
+    "MAG": "3102624293",
+    "ArXiv": "1810.00457",
+    "DOI": "10.1109/LRA.2019.2894468",
+    "CorpusId": 52902864
+  },
+  "url": "https://www.semanticscholar.org/paper/103d00cf23186050c47b2942ccaba2ee0052b988",
+  "title": "AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming",
+  "venue": "IEEE Robotics and Automation Letters",
+  "year": 2018,
+  "citationCount": 76,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://iris.uniroma1.it/bitstream/11573/1220042/11/Potena_postprint_AgriColMap_2019.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1810.00457, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3235263",
+      "name": "Ciro Potena"
+    },
+    {
+      "authorId": "39937174",
+      "name": "R. Khanna"
+    },
+    {
+      "authorId": "144147879",
+      "name": "Juan I. Nieto"
+    },
+    {
+      "authorId": "1720483",
+      "name": "R. Siegwart"
+    },
+    {
+      "authorId": "144143750",
+      "name": "D. Nardi"
+    },
+    {
+      "authorId": "144446984",
+      "name": "Alberto Pretto"
+    }
+  ],
+  "abstract": "The combination of aerial survey capabilities of unmanned aerial vehicles (UAVs) with targeted intervention abilities of agricultural unmanned ground vehicles (UGVs) can significantly improve the effectiveness of robotic systems applied to precision agriculture. In this context, building and updating a common map of the field is an essential but challenging task. The maps built using robots of different types show differences in size, resolution, and scale, the associated geolocation data may be inaccurate and biased while the repetitiveness of both visual appearance and geometric structures found within agricultural contexts render classical map merging techniques ineffective. In this letter, we propose AgriColMap, a novel map registration pipeline that leverages a grid-based multimodal environment representation, which includes a vegetation index map and a digital surface model. We cast the data association problem between maps built from UAVs and UGVs as a multimodal, large displacement dense optical flow estimation. The dominant, coherent flows, selected using a voting scheme, are used as point-to-point correspondences to infer a preliminary nonrigid alignment between the maps. A final refinement is then performed, by exploiting only meaningful parts of the registered maps. We evaluate our system using real-world data for three fields with different crop species. The results show that our method outperforms several state-of-the-art map registration and matching techniques by a large margin, and has a higher tolerance to large initial misalignments. We release an implementation of the proposed approach along with the acquired datasets with this letter.",
+  "references": [
+    {
+      "paperId": "d63aed16401591c357b7946797991e9bc3e5b9c8"
+    },
+    {
+      "paperId": "4b9a9be60e0ee9151b2f095d9652dfc08e8bc258"
+    },
+    {
+      "paperId": "9062126537913724dd68c50693e589dcfc47cc1c"
+    },
+    {
+      "paperId": "3ef3da80830b5009592e2de773fd40379259a4cc"
+    },
+    {
+      "paperId": "96c4e986ce754b303eed964dcfa1588f193db98b"
+    },
+    {
+      "paperId": "5889099614e0e34810960b0ac247cff0d5c58cb4"
+    },
+    {
+      "paperId": "4cc13834497114dc3c70fb184685019eadd9a539"
+    },
+    {
+      "paperId": "2bb03a5995c57182538e3d6d5de0170c28debfc0"
+    },
+    {
+      "paperId": "9068fd54cdef49c17d5d3342a59d52fa964e30ee"
+    },
+    {
+      "paperId": "c90a2d5f881c70587643019e8af3c1fd0f6faa4d"
+    },
+    {
+      "paperId": "9956619795b48410283be50fae12c15fa3695161"
+    },
+    {
+      "paperId": "7e2224d742e1addb09b1042623a1385122b8f64e"
+    },
+    {
+      "paperId": "a73072561a5ff1e7dc89ff2eea34e2412cfbd92b"
+    },
+    {
+      "paperId": "e1f6e9e8f4ad62a0df375dda78ad76a0f54b6ed1"
+    },
+    {
+      "paperId": "0e43c4607584d623aefa437a0278412f762f06e0"
+    },
+    {
+      "paperId": "102df4ec5f5bebb344a36e58d006603b085e1db8"
+    },
+    {
+      "paperId": "dd35c14b9e0bad00a37b581a5fa437db080cf329"
+    },
+    {
+      "paperId": "71ec92183095261f30991c985a56c82b0f0d4447"
+    },
+    {
+      "paperId": "6037c0c35640a52dd041c6beecd1c872dff4691c"
+    },
+    {
+      "paperId": "fc922cabc43fafea6669c94a403ff4e7892c5328"
+    },
+    {
+      "paperId": "021a2ab14855a4a8d843a0fbdf9a09d86934606b"
+    },
+    {
+      "paperId": "976e29fe6c9baeb39732bca0e35f66f84d5bdd90"
+    },
+    {
+      "paperId": "954d01c5c85cf4b60de91165fccf407a86db1b37"
+    },
+    {
+      "paperId": "2145f5cbac48df8ed9f7695606c34e98b26cf5a9"
+    },
+    {
+      "paperId": "3ebc7ec2a9b89ebcc00328b11a1984d69a57f2a7"
+    },
+    {
+      "paperId": "65c260fce4fb6fe44ac44562b75d38b0ac5c38f5"
+    },
+    {
+      "paperId": "940dd2fa074ad97d5e8efa7e867b1f4460cfb8d5"
+    },
+    {
+      "paperId": "cdbb606ae47c64049262dfbd3bb147d3f4ba8420"
+    },
+    {
+      "paperId": "3147e7f488e8a3e2d9cfd245083704b564613795"
+    },
+    {
+      "paperId": "766584b2c514cb4afb7248d65403e554cea7e923"
+    },
+    {
+      "paperId": "93bd95d97543031e39d524ed408a543d740d4eb5"
+    },
+    {
+      "paperId": "3a937288d9e6e60fc2ad4fdd29fd0ea49ada5702"
+    },
+    {
+      "paperId": "e4b6bf2c13784b5f05187cec2e9c08d6354185c6"
+    },
+    {
+      "paperId": "9511b4e7a3d64b9737ea25b5c268478e3d248209"
+    },
+    {
+      "paperId": "a3229dc33ecb80c59a75b906c46b586dd059b781"
+    },
+    {
+      "paperId": "cb2e93ed8ac472f7835d04c93081fc0b2b893e8c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

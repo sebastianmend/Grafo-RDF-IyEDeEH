@@ -1,0 +1,356 @@
+{
+  "paperId": "715c15ab60fc3adc0567d8f04addd9a4308d6b28",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/AragonHTFM18",
+    "MAG": "2900604860",
+    "DOI": "10.3390/RS10121867",
+    "CorpusId": 58013669
+  },
+  "url": "https://www.semanticscholar.org/paper/715c15ab60fc3adc0567d8f04addd9a4308d6b28",
+  "title": "CubeSats Enable High Spatiotemporal Retrievals of Crop-Water Use for Precision Agriculture",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 78,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/12/1867/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10121867?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10121867, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51432014",
+      "name": "B. Aragon"
+    },
+    {
+      "authorId": "1919533",
+      "name": "R. Houborg"
+    },
+    {
+      "authorId": "144327492",
+      "name": "K. Tu"
+    },
+    {
+      "authorId": "144450239",
+      "name": "J. Fisher"
+    },
+    {
+      "authorId": "20538593",
+      "name": "M. Mccabe"
+    }
+  ],
+  "abstract": "Remote sensing based estimation of evapotranspiration (ET) provides a direct accounting of the crop water use. However, the use of satellite data has generally required that a compromise between spatial and temporal resolution is made, i.e., one could obtain low spatial resolution data regularly, or high spatial resolution occasionally. As a consequence, this spatiotemporal trade-off has tended to limit the impact of remote sensing for precision agricultural applications. With the recent emergence of constellations of small CubeSat-based satellite systems, these constraints are rapidly being removed, such that daily 3 m resolution optical data are now a reality for earth observation. Such advances provide an opportunity to develop new earth system monitoring and assessment tools. In this manuscript we evaluate the capacity of CubeSats to advance the estimation of ET via application of the Priestley-Taylor Jet Propulsion Laboratory (PT-JPL) retrieval model. To take advantage of the high-spatiotemporal resolution afforded by these systems, we have integrated a CubeSat derived leaf area index as a forcing variable into PT-JPL, as well as modified key biophysical model parameters. We evaluate model performance over an irrigated farmland in Saudi Arabia using observations from an eddy covariance tower. Crop water use retrievals were also compared against measured irrigation from an in-line flow meter installed within a center-pivot system. To leverage the high spatial resolution of the CubeSat imagery, PT-JPL retrievals were integrated over the source area of the eddy covariance footprint, to allow an equivalent intercomparison. Apart from offering new precision agricultural insights into farm operations and management, the 3 m resolution ET retrievals were shown to explain 86% of the observed variability and provide a relative RMSE of 32.9% for irrigated maize, comparable to previously reported satellite-based retrievals. An observed underestimation was diagnosed as a possible misrepresentation of the local surface moisture status, highlighting the challenge of high-resolution modeling applications for precision agriculture and informing future research directions. .",
+  "references": [
+    {
+      "paperId": "f33167b5850f6682e803c8c872895296bb6db0c3"
+    },
+    {
+      "paperId": "f404b15149457e0cbfb2cd7af936d7d78daca208"
+    },
+    {
+      "paperId": "a5a2be90d12663567512ee2b61831a8e66e8b66c"
+    },
+    {
+      "paperId": "e71a3d50a5e8ed28514f12d69ae70f5e7268d49b"
+    },
+    {
+      "paperId": "a2088bf05fe427b1b548e5c4c3e44c4034c6db12"
+    },
+    {
+      "paperId": "02c3d1c42682a61270cecc434f5d1588fb851ff7"
+    },
+    {
+      "paperId": "a49eaa6c2409d6d5345326c5c9770dc01ed4fdca"
+    },
+    {
+      "paperId": "0cf6f23083c9e71bd678f746ba8bd218e6e956eb"
+    },
+    {
+      "paperId": "d35ed1fcab47cf98101dc745c42d3b51dace25eb"
+    },
+    {
+      "paperId": "fd89099a80df6effc7a1e9e2d1a87da754ac630e"
+    },
+    {
+      "paperId": "cd7129f138753c459c4446250edf2eab49fc99c8"
+    },
+    {
+      "paperId": "7c8f1dca0ca4125313c8c20e13a2ee144ed08b47"
+    },
+    {
+      "paperId": "fd8cd307c61dfb1e645ecaa87d77f0a83dfa5fae"
+    },
+    {
+      "paperId": "aa289606fad7a193b3200adab97d500818345528"
+    },
+    {
+      "paperId": "3645b697dcdac809438615e179ab6b24b3054bf2"
+    },
+    {
+      "paperId": "4438fe790f10212de378ed4ea220957a3f900833"
+    },
+    {
+      "paperId": "8ee816c19e180a2620f7caa2c8312aec7d6e6119"
+    },
+    {
+      "paperId": "0347be5cc7bf771df0aee48fe87adaa8997e2142"
+    },
+    {
+      "paperId": "58d0b3dec66538d0c9cda1218025203e44c76947"
+    },
+    {
+      "paperId": "9cb5d02b268d9a4a53b3d1a913d6de0a0e6a4ab0"
+    },
+    {
+      "paperId": "037c62f4ed21587fba4e1457ee79e053ffe3e323"
+    },
+    {
+      "paperId": "3bc52df701dbe621d32f9acf1e9fa0c32e503656"
+    },
+    {
+      "paperId": "67a28ba5a218d0c52365bdea1a0ff66c8adc203a"
+    },
+    {
+      "paperId": "48c5a9f49964058a9aece23600261d6e85c3d08f"
+    },
+    {
+      "paperId": "f3bd463a2af50e628024fda02cf331477e6085c6"
+    },
+    {
+      "paperId": "0c08a6ba1bf88adf7f6d6923b212273781972a7c"
+    },
+    {
+      "paperId": "00e813e6e0c3be15104f8a41f583fd9ec24ecab4"
+    },
+    {
+      "paperId": "c554f8fa8951e2be66616f1a7417a1add3d839ed"
+    },
+    {
+      "paperId": "2976648b67c09c45415dada674d9e1756074a8c8"
+    },
+    {
+      "paperId": "ce98aeab02cb25fd96550ca10834f59b6ebeaeaa"
+    },
+    {
+      "paperId": "fc74a46ff5a6e8a68fcfa3eb87fb1687dc806248"
+    },
+    {
+      "paperId": "2430ad9940a433b1f8496f386d4156106aac48eb"
+    },
+    {
+      "paperId": "1718bb152e12624439b493d756d656e727b14e89"
+    },
+    {
+      "paperId": "4b10f80e8eb6d818262c4824b057894c892598a1"
+    },
+    {
+      "paperId": "a4b35fc5bcdcff9a17fd889142b98ae1b3f2fab8"
+    },
+    {
+      "paperId": "88a849724e8327aa8c9334bfb15ec1b11951a542"
+    },
+    {
+      "paperId": "8defb2c1f1daaef3f5bb079668db78cfee5524b4"
+    },
+    {
+      "paperId": "f0c0e3aa563befe45669e8d3d06c83f50207bd0c"
+    },
+    {
+      "paperId": "9c8234bb61fb5f2f727c517b76d41135fe8578d5"
+    },
+    {
+      "paperId": "881423a60be37f711c3436d76697e4022fe1a73e"
+    },
+    {
+      "paperId": "9f5876a7219485ccb89f75bda927270432ad7ce3"
+    },
+    {
+      "paperId": "156b9f809deac3f530fe2fd0e3dc69bc8f9751c3"
+    },
+    {
+      "paperId": "e9f814704ea8a69905cfe91189c5dce6bf848a47"
+    },
+    {
+      "paperId": "52bc52d3349a487c31dd202fcff89f4871f33985"
+    },
+    {
+      "paperId": "a36ae5728975a1850d9f18b80c5841ceda79b2cb"
+    },
+    {
+      "paperId": "ee1e722fe02cf050824af5affb04f7a9e444b3cd"
+    },
+    {
+      "paperId": "067833d334b139276848a7ec70e7675566c52349"
+    },
+    {
+      "paperId": "ef4eb4d1f1fa8e1b3d95fc866ec9fc98fa7d587b"
+    },
+    {
+      "paperId": "cd0c2605cdfb493431187b75c95772c372dfb15a"
+    },
+    {
+      "paperId": "c3893e8c546a9226c0c4a55e97fafee95457e242"
+    },
+    {
+      "paperId": "84acb25c58320da5201d9df1ba0aefc641db4a7c"
+    },
+    {
+      "paperId": "c188304b9f26d24e5d63b32b0dedec78aede580b"
+    },
+    {
+      "paperId": "aa2b02b7a5d73e13db2968f12f6583c0af93b0a0"
+    },
+    {
+      "paperId": "dbc5ade86865d468187f57b3a1ac62441c6407af"
+    },
+    {
+      "paperId": "9c7e0eec33a75385aa7f3b56c9aacb71ae86c193"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "dc7af0a62605bf4771f19b255945a650d81bfeed"
+    },
+    {
+      "paperId": "b2bbb45d53799ef6e482101f94c79e4e2520b689"
+    },
+    {
+      "paperId": "8886bf69220b2ec6f88c477d9e3ce9da5587e396"
+    },
+    {
+      "paperId": "b872aa7a68e3cf53b7374cc03f840a9f81852090"
+    },
+    {
+      "paperId": "1882342a951f37f78c49a6efae04b5951f05280b"
+    },
+    {
+      "paperId": "e1e19596de5532adba3d40d6b196054870e5dc71"
+    },
+    {
+      "paperId": "ac05482ebca45eaeec478f8eeb65750e659b8e41"
+    },
+    {
+      "paperId": "817edad756d41499da26498e71c85afaa884383a"
+    },
+    {
+      "paperId": "ec393093e23bde7267ae22563567df5d3d82ff39"
+    },
+    {
+      "paperId": "fb25027648deaf3de624fbe814bd433a91226c9b"
+    },
+    {
+      "paperId": "c4b38d6aea156327d3f3df0e46af4d2bd8d15591"
+    },
+    {
+      "paperId": "a7604364d19b6f6d677dee8c00b5cb9f4d504c98"
+    },
+    {
+      "paperId": "41488196a6ebdde8091791d3ba8151a8f7409f7b"
+    },
+    {
+      "paperId": "2904aefeefc2cb93f573e65edf5154fe81363acd"
+    },
+    {
+      "paperId": "b78164bc56a3acd6c72ac334eec4cfffdc4e21dd"
+    },
+    {
+      "paperId": "e5d9a20cbff837c00233b4a3ebe77dfdc0a8aa66"
+    },
+    {
+      "paperId": "771d03cb38a94567fe090df886054fb61fa635a4"
+    },
+    {
+      "paperId": "cc96b33af38468eeda3a04733d647b9a3b3d8373"
+    },
+    {
+      "paperId": "18c7534e41a5b08a9885770d9072e6fce07f55c8"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "518ddc07d6b38e809e14decb4ce4b90882bf4b7a"
+    },
+    {
+      "paperId": "cdcbd4447f604b2e1c95c513edab6d0a004224d9"
+    },
+    {
+      "paperId": "707bc0a5837a39bd8c03177cd7e764dc7cec4cc9"
+    },
+    {
+      "paperId": "b60c389cfac87e6712ac65e15f166a4cf49d2827"
+    },
+    {
+      "paperId": "8102b4f87660c7d36efc38cf6df0223b656989b2"
+    },
+    {
+      "paperId": "e6b1743a9bc3827784fc1209455943625e315f18"
+    },
+    {
+      "paperId": "9e6b7c3f75fc6ca38a48e577ae80732314d6237c"
+    },
+    {
+      "paperId": "5b2d27966ca206c31d599f3f432a7d2f2baf0334"
+    },
+    {
+      "paperId": "f21084cd5a3c252bee54073ceca807bc25492547"
+    },
+    {
+      "paperId": "912b5bd59c33845ec237bb580ea4c0a8f4f7c01e"
+    },
+    {
+      "paperId": "7bd0c3b8360c59a52efc9754a1888c1744f8ad9f"
+    },
+    {
+      "paperId": "056e1d34ed74d1882732acd1ba15fa14fe9c848c"
+    },
+    {
+      "paperId": "e9086f0483d589a7efd7a1508963887f4d7bc82c"
+    },
+    {
+      "paperId": "b5e1bf0b1d093f36c2ab28e7e149d9304e0433b3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d13451d38f4cb3602384e91d58e6076d0768b82b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f88ef342ddbcdb49370ce316ff3dfbd4876b3d71"
+    },
+    {
+      "paperId": "be6782d83774e2088cd56dc620b2942b094515ea"
+    },
+    {
+      "paperId": "7282151445417410c4aef151dcad98aac530fc7e"
+    },
+    {
+      "paperId": "f8c6a42084b33618f3f12000f382b9f248d4afb8"
+    },
+    {
+      "paperId": "8737541ae0dbb04b4d3afe2120e83407c2b0b265"
+    },
+    {
+      "paperId": "74360997684d9bf597693fa02674cb299e5a0f33"
+    },
+    {
+      "paperId": "fcc7c8c80c8799b66f42779a5365cacd95788502"
+    },
+    {
+      "paperId": "e9cd4cbece0573d9e276b0fc3a99f5a5e3792221"
+    }
+  ]
+}

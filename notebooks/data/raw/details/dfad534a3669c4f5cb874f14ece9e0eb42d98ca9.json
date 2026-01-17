@@ -1,0 +1,46 @@
+{
+  "paperId": "dfad534a3669c4f5cb874f14ece9e0eb42d98ca9",
+  "externalIds": {
+    "MAG": "2942136088",
+    "DOI": "10.1109/ICCSP.2019.8698021",
+    "CorpusId": 133603875
+  },
+  "url": "https://www.semanticscholar.org/paper/dfad534a3669c4f5cb874f14ece9e0eb42d98ca9",
+  "title": "A Complex Network Approach for Plant Growth Analysis using Images",
+  "venue": "International Conference on Cryptography, Security and Privacy",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSP.2019.8698021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSP.2019.8698021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1411266916",
+      "name": "S. Vv"
+    },
+    {
+      "authorId": "1413035724",
+      "name": "Gopalakrishnan E.A."
+    },
+    {
+      "authorId": "80753010",
+      "name": "S. V."
+    },
+    {
+      "authorId": "2059784103",
+      "name": "Soman K.P."
+    }
+  ],
+  "abstract": "The process of plant growth monitoring and analysis changed its perspective from the way it was. The recent farming practices demand vision based sensors for monitoring and analyses of the plant growth characteristics from images acquired by satellites and Unmanned Aerial Vehicles (UAV’s). The advanced plant phenotyping systems are equipped with digital cameras to report the plant growth on a daily basis. The time determined images from plant monitoring system require a better computational representation to understand and study the plant life cycle, plant to plant interaction and correlations between plants with-in the community. This paper presents a new and yet simple approach towards plant growth analysis and its correlations in community by applying the theory of complex network on visible images from a plant phenotyping system. The method is highly promising in the area of precision agriculture when we have large area to monitor.",
+  "references": null
+}

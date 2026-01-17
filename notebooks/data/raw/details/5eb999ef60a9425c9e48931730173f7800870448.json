@@ -1,0 +1,156 @@
+{
+  "paperId": "5eb999ef60a9425c9e48931730173f7800870448",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/CinatGBM19",
+    "MAG": "2942539026",
+    "DOI": "10.3390/RS11091023",
+    "CorpusId": 155651740
+  },
+  "url": "https://www.semanticscholar.org/paper/5eb999ef60a9425c9e48931730173f7800870448",
+  "title": "Comparison of Unsupervised Algorithms for Vineyard Canopy Segmentation from UAV Multispectral Images",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 48,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/9/1023/pdf?version=1556611884",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11091023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11091023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "103916109",
+      "name": "P. Cinat"
+    },
+    {
+      "authorId": "93097819",
+      "name": "S. F. D. Gennaro"
+    },
+    {
+      "authorId": "145499433",
+      "name": "A. Berton"
+    },
+    {
+      "authorId": "4690368",
+      "name": "A. Matese"
+    }
+  ],
+  "abstract": "Technical resources are currently supporting and enhancing the ability of precision agriculture techniques in crop management. The accuracy of prescription maps is a key aspect to ensure a fast and targeted intervention. In this context, remote sensing acquisition by unmanned aerial vehicles (UAV) is one of the most advanced platforms to collect imagery of the field. Besides the imagery acquisition, canopy segmentation among soil, plants and shadows is another practical and technical aspect that must be fast and precise to ensure a targeted intervention. In this paper, algorithms to be applied to UAV imagery are proposed according to the sensor used that could either be visible spectral or multispectral. These algorithms, called HSV-based (Hue, Saturation, Value), DEM (Digital Elevation Model) and K-means, are unsupervised, i.e., they perform canopy segmentation without human support. They were tested and compared in three different scenarios obtained from two vineyards over two years, 2017 and 2018 for RGB (Red-Green-Blue) and NRG (Near Infrared-Red-Green) imagery. Particular attention is given to the unsupervised ability of these algorithms to identify vines in these different acquisition conditions. This ability is quantified by the introduction of over- and under- estimation indexes, which are the algorithm’s ability to over-estimate or under-estimate vine canopies. For RGB imagery, the HSV-based algorithms consistently over-estimate vines, and never under-estimate them. The k-means and DEM method have a similar trend of under-estimation. While for NRG imagery, the HSV is the more stable algorithm and the DEM model slightly over-estimates the vines. HSV-based algorithms and the DEM algorithm have comparable computation time. The k-means algorithm increases computational demand as the quality of the DEM decreases. The algorithms developed can isolate canopy vegetation data, which is useful information about the current vineyard state, and can be used as a tool to be efficiently applied in the crop management procedure within precision viticulture applications.",
+  "references": [
+    {
+      "paperId": "e5fd3f906e9373a89d54faf1beca62034cd330cb"
+    },
+    {
+      "paperId": "0c4b85799521a87c0bdb0e3ba71d1c82c50a3830"
+    },
+    {
+      "paperId": "b867db0be67997e21791b21fefcdddf2a95cf242"
+    },
+    {
+      "paperId": "95d84da1933be1900cf38078a81e08fac0efe86f"
+    },
+    {
+      "paperId": "24bbbe0cccd2e3cb7874c8f1573b223b67e5d237"
+    },
+    {
+      "paperId": "61d66ddc5559a086cee62e8b1dad65ee83b06692"
+    },
+    {
+      "paperId": "0ce55b631203a2aaaa506dbc20d0b91ea1bd5485"
+    },
+    {
+      "paperId": "2fc143825a42b49d55c6e32fe158affd3b002df3"
+    },
+    {
+      "paperId": "940197ede8ba2ee50a39bf2bb7f15a136117c7ee"
+    },
+    {
+      "paperId": "894fc45f4fcde187b3777262faadd5c19fa936f3"
+    },
+    {
+      "paperId": "3702cdc76ac827b6d477f77d7cdcfa097c9242ce"
+    },
+    {
+      "paperId": "bc4d8b36b7ee93b1da38c79b3e5c2a25179643a7"
+    },
+    {
+      "paperId": "60339353fd211a7a98b816c4d10e5e309d400bd1"
+    },
+    {
+      "paperId": "e95c50b61f833244707191fbd653563a688a078d"
+    },
+    {
+      "paperId": "5eab6e86410dcee6ce6e54103ba746b05715375a"
+    },
+    {
+      "paperId": "e873f6fc97e3a248678292a78eab41cc6d8ea45e"
+    },
+    {
+      "paperId": "930596cebae1417e5c6310fe1e949e3a8a2d6ba2"
+    },
+    {
+      "paperId": "fa821e059b6d1f3e1790420b238198da514fb581"
+    },
+    {
+      "paperId": "b48a028b21da46fd6b2da4682ce7f3ba95ea4932"
+    },
+    {
+      "paperId": "99f0343cb5a71497247e14dd141fea6a1833b8cd"
+    },
+    {
+      "paperId": "6b6baacb06d068e91aab837a108db2008af6b703"
+    },
+    {
+      "paperId": "b0a0b8546e8f7d1988b186eb9b8961140debe19e"
+    },
+    {
+      "paperId": "3c660ed6412425bf68dccedd6f098fcf6c4a5820"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "da1f80f7cc73f754b375e66b81b111adbaa87df2"
+    },
+    {
+      "paperId": "b59599a9029a4b9b31a245f402e8c19cbef1799c"
+    },
+    {
+      "paperId": "8dc6e5f57cf81ddd836b986b1d01087683e0391d"
+    },
+    {
+      "paperId": "c97a9a78c18f1d1a2fe450a1225ef66abcef71d5"
+    },
+    {
+      "paperId": "a82c64e86864d783f324e5cbd14b80cc851856ed"
+    },
+    {
+      "paperId": "fd8ab22e4d06c11a004143ff12f02cff8c57c278"
+    },
+    {
+      "paperId": "1625b32fcf0a3d0c5387415c818af69a4c8538b8"
+    },
+    {
+      "paperId": "a5a1d6b4a45eaae41313306267e0a15d5aab4044"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

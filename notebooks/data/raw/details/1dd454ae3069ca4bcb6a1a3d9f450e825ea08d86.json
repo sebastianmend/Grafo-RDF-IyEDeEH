@@ -1,0 +1,46 @@
+{
+  "paperId": "1dd454ae3069ca4bcb6a1a3d9f450e825ea08d86",
+  "externalIds": {
+    "MAG": "2990757191",
+    "DOI": "10.1109/ISSC.2019.8904938",
+    "CorpusId": 208207407
+  },
+  "url": "https://www.semanticscholar.org/paper/1dd454ae3069ca4bcb6a1a3d9f450e825ea08d86",
+  "title": "Closed loop process control for precision farming: An Agriculture 4.0 perspective",
+  "venue": "Irish Signals and Systems Conference",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://researchrepository.ul.ie/articles/conference_contribution/Closed_loop_process_control_for_precision_farming_an_agriculture_4_0_perspective/19855318/1/files/35271439.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISSC.2019.8904938?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISSC.2019.8904938, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30852767",
+      "name": "Sukumar Katamreddy"
+    },
+    {
+      "authorId": "145975195",
+      "name": "Joseph Walsh"
+    },
+    {
+      "authorId": "50788337",
+      "name": "S. Ward"
+    },
+    {
+      "authorId": "50207148",
+      "name": "Daniel Riordan"
+    }
+  ],
+  "abstract": "The emergence of advanced technologies has helped in solving specific problems in agriculture. In many sectors, interoperability of new technologies has helped in solving much bigger problems on a large scale and has eventually led to widespread automation, but this automation wouldn't have been possible without openness in communication protocols. These standard protocols have evolved over time to cater to industry needs, from partial to fully automated manufacturing processes. The overall system obtained by the integration of these technologies for automated process control and management is commonly referred to as Industry 4.0. This paper discusses the protocols and technologies used in precision farming analogous to Industry 4.0. This paper also addresses the gaps to fill by exploring the technologies and standards and by proposing a unified architecture. It is hoped that addressing these gaps will help to create a solution for fully automated process control in an Agriculture 4.0 perspective and race towards more advanced Agriculture 5.0.",
+  "references": null
+}

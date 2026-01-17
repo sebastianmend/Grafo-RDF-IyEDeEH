@@ -1,0 +1,95 @@
+{
+  "paperId": "a9da37d86a7145bc33063e247f18667e6697275c",
+  "externalIds": {
+    "MAG": "2895450614",
+    "DOI": "10.1088/1742-6596/1087/3/032013",
+    "CorpusId": 169965765
+  },
+  "url": "https://www.semanticscholar.org/paper/a9da37d86a7145bc33063e247f18667e6697275c",
+  "title": "Application Progress of Agricultural Internet of Things in Major Countries",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2018,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1087/3/032013",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1087/3/032013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1087/3/032013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2631150",
+      "name": "Jianzhai Wu"
+    },
+    {
+      "authorId": "2752092",
+      "name": "Shuqing Han"
+    },
+    {
+      "authorId": "2108324459",
+      "name": "Jifang Liu"
+    }
+  ],
+  "abstract": "Agriculture is the important application field of the agricultural Internet of Things. With the development of information technology and computer network technology, IoT (Internet of Things) has entered various fields such as agricultural production, management, management, service and so on. On the basis of systematic discussion of the application of Internet of Things in the developed countries such as USA, Japan and Holland, the paper looks forwards to the key application fields in the future such as agricultural resources and environment monitoring, precision operation in the field, intelligent monitoring of facility gardening, fine management of livestock and poultry, prevention and control of diseases and pests, intelligent irrigation, agricultural product quality trace ability, etc.",
+  "references": [
+    {
+      "paperId": "6aff6ac9bc2cc8fa6b10f6cf1234af0681149914"
+    },
+    {
+      "paperId": "0a9c1b5486215ec10a1b7b4caeca4023e29a9dfb"
+    },
+    {
+      "paperId": "5e4f68e47fc2272b40b5c571676fd88da49f53c4"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "328cc605660a65e581667f0d86de0eba9b107e79"
+    },
+    {
+      "paperId": "0d76eaa6e53fad44a965a7e0c2f8b697d23744fa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0e82f242a03aa6f5861ec4e566b7be22d9f04769"
+    },
+    {
+      "paperId": "b54f1a347caca1da5f47de2ea79fd88ae3083735"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9f6a0ec3b57945d18c2b8f0fb16950d4a6ef83c6"
+    },
+    {
+      "paperId": "d73304b4c7af98054c6fd1298cce1e885d1f525a"
+    }
+  ]
+}

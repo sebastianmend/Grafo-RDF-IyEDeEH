@@ -1,0 +1,55 @@
+{
+  "paperId": "f409459f8880feeaf76ab920ff0be0641abd4b5f",
+  "externalIds": {
+    "MAG": "2942933131",
+    "DBLP": "journals/tii/RuanJLSCR19",
+    "DOI": "10.1109/TII.2019.2914158",
+    "CorpusId": 156020187
+  },
+  "url": "https://www.semanticscholar.org/paper/f409459f8880feeaf76ab920ff0be0641abd4b5f",
+  "title": "A Granular GA-SVM Predictor for Big Data in Agricultural Cyber-Physical Systems",
+  "venue": "IEEE Transactions on Industrial Informatics",
+  "year": 2019,
+  "citationCount": 55,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TII.2019.2914158?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TII.2019.2914158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2865211",
+      "name": "Junhu Ruan"
+    },
+    {
+      "authorId": "2107747769",
+      "name": "Hua Jiang"
+    },
+    {
+      "authorId": "2108748252",
+      "name": "Xiaoyu Li"
+    },
+    {
+      "authorId": "1491235429",
+      "name": "Yan Shi"
+    },
+    {
+      "authorId": "123337480",
+      "name": "F. Chan"
+    },
+    {
+      "authorId": "3366586",
+      "name": "Weizhen Rao"
+    }
+  ],
+  "abstract": "The connection of physical agriculture with corresponding cyber systems is helpful to achieve precision agriculture. Real-time data from agriculture sensors can provide decision supports to improve the yields and quality of agricultural products, but also bring about challenges one of which is how to mine useful information from these vast amounts of data at acceptable computation costs. To deal with the dimension disaster problem faced by most conventional mining algorithms, in this paper we combine granulation techniques and genetic algorithm (GA) with a support vector machine (SVM) to propose a granular GA-SVM. In the integrated predictor, three granulation methods, that is, Min–Median–Max granulation, Quartile–Median granulation, and fuzzy granulation, are introduced to break down big data in agricultural cyber-physical systems into small-scale granules, and GA is used to find the optimal values of SVM penalty parameter and kernel parameter from the reduced granules. Internet of Things (IoT) data from Luochuan Apple Experimental Demonstration Station in Shaanxi Province, China, verified that the proposed granular GA-SVM predictor is effective to make big data prediction with reduced computation time and equivalent accuracy. Moreover, the predicted environment information could provide guidance for growers achieving precise management of apple planting.",
+  "references": null
+}

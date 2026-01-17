@@ -1,0 +1,31 @@
+{
+  "paperId": "ed267c24daa938c55e0d59dc7433e00d08015d31",
+  "externalIds": {
+    "DOI": "10.1080/10496505.2018.1515457",
+    "CorpusId": 216149375
+  },
+  "url": "https://www.semanticscholar.org/paper/ed267c24daa938c55e0d59dc7433e00d08015d31",
+  "title": "Editorial",
+  "venue": "Journal of Agricultural & Food Information",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/10496505.2018.1515457?needAccess=true",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10496505.2018.1515457?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10496505.2018.1515457, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1657328359",
+      "name": "A. Ezzo"
+    }
+  ],
+  "abstract": "This issue marks the completion of Volume 19, as well as my tenure as Editor. After 16 years, I have decided to step down to devote time to other endeavors. I have enjoyed the opportunity to work with such a capable team of review and column editors over the years and thank the numerous contributors who have chosen JAFI as a publication venue, building its international audience and reputation. Longtime Editorial Board member Leslie M. Delserone, Science and Government Information Librarian at the University of Nebraska-Lincoln, will assume the role of Editor-in-Chief. The issue opens with a Society of the Quarter column by Jessica Page profiling the American Farmland Trust, an organization dedicated to preserving farmland, keeping farmers on the land, and supporting local agriculture and the environment. Its matterof-fact slogan, “No Farms, No Food” captures the importance of its mission. In the lead refereed article, Jason West presents the sobering scenario of cyberattacks on the modern digital farm, reliant on an array of sensors, transmitters, wireless networks, and other technologies for water management, crop production, livestock tracking, etc. The author proposes a threat prediction model and decision framework to quantify vulnerabilities and risk and derive customized, preventative strategies for cyberattacks to precision agriculture systems. Two articles analyze the use of social media in the agricultural domain. Pawandeep Kaushik, Ataharul Chowdhury, Helen Hambly Odame, and Annemarie van Passen assess the use of Facebook and Twitter by four agri-food stakeholders in Ontario, Canada to foster communication and networking. Their findings document a beneficial role for social media but suggest it also serve as a driver of face-to-face, “offline” interactions not just passive, online exchanges. Victor Otene, Jacob Okwu, and Agada Agene examine Nigerian farmers’ and extension agents’ utilization of Facebook to gauge its viability as a future communication medium. Results show higher Facebook use by agents than farmers, but major infrastructural constraints (poor network service, power failures) limit effective use by either group. In the face of such digital barriers, it is not surprising that radio, on the opposite end of the Information Communication Technology spectrum, remains an important agricultural information tool, as our next two contributions show. George Adamides and Andreas Stylianou evaluate listenership to a popular Cypriot radio broadcast which serves as a source of extension information. Idris Badiru and Nsikakabasi Akpabio study the audience and utilization of an agricultural radio program in Nigeria. While the authors’ analyses report differing levels of listenership, they both validate continued investment in radio as a vehicle for information dissemination, especially in rural and remote areas of the country. Book Reviews by Innocent Awasom and Sarah Prentice complete the issue. Enjoy!",
+  "references": null
+}

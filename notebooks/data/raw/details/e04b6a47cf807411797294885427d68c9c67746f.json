@@ -1,0 +1,216 @@
+{
+  "paperId": "e04b6a47cf807411797294885427d68c9c67746f",
+  "externalIds": {
+    "MAG": "2976305676",
+    "DOI": "10.30858/zer/112132",
+    "CorpusId": 204091783
+  },
+  "url": "https://www.semanticscholar.org/paper/e04b6a47cf807411797294885427d68c9c67746f",
+  "title": "Precision Farming – Concepts and Perspectives",
+  "venue": "Problems of Agricultural Economics",
+  "year": 2019,
+  "citationCount": 34,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "http://www.zer.waw.pl/pdf-112132-49415?filename=PRECISION FARMING _.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30858/zer/112132?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30858/zer/112132, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1411804542",
+      "name": "R. Beluhova-Uzunova"
+    },
+    {
+      "authorId": "1392274844",
+      "name": "D. Dunchev"
+    }
+  ],
+  "abstract": "The development of technologies in the 20th century led to evolution of precision agriculture concept. Nowadays, precision farming is usually associated with the use of GPS and satellite navigation, GIS, unmanned airplanes and drones, variable rate of application, as well as complex and sophisticated computer systems and software. On the other hand, the main question is related to the profitability and efficiency of these technologies and the opportunities for their adoption. The main purpose of the research is to investigate the most popular concepts of precision farming and to analyze the technical and economic efficiency of different technologies based on literature review. The results indicate that the adoption of precision farming technologies is closely related to the farmer’s perception of and needs for institutional support. The promotion of precision farming under the Common Agricultural Policy is necessary in order to overcome the number of economic and environmental challenges and ensure sustainable development and green growth.",
+  "references": [
+    {
+      "paperId": "4ce13dcc8e5497755bbedcea39c4b9b7e14fe64f"
+    },
+    {
+      "paperId": "df2d3a9eb4474ac3291497419bdb869dffefa116"
+    },
+    {
+      "paperId": "77bf99abbb3c8d58faebd6dcbbad9222e0648190"
+    },
+    {
+      "paperId": "83b2cf211432992915c12544d24c8ffab9244f69"
+    },
+    {
+      "paperId": "11f3f8eec2076c4d10f853a9db5ca0c89e712ede"
+    },
+    {
+      "paperId": "50d8df2d53b2857afa33babd791bf01e0753ab4e"
+    },
+    {
+      "paperId": "1fd7c3eed7e1f4fba9da81676eae958959d1ef75"
+    },
+    {
+      "paperId": "5a18a5aca58e1c0342e3275a8558199cff01532d"
+    },
+    {
+      "paperId": "370e5b2f59cc04a81c90efe895705519c2c8ceca"
+    },
+    {
+      "paperId": "7f0939661967bbafc884b5163da8d927ff0954cd"
+    },
+    {
+      "paperId": "9cc2d9bf7aa37a03bd35a8b15ba58a3b90a3f648"
+    },
+    {
+      "paperId": "1be73f377b3d26fab3c574aef751ab5bd2af1816"
+    },
+    {
+      "paperId": "a3cc3d70ac1db41d8ad94e33a6df76e7520b9554"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "e479b1043a562346b24ca255bafc46e735c818a9"
+    },
+    {
+      "paperId": "b83a1ff3125124deb61fa11093f2843ec6ed8f95"
+    },
+    {
+      "paperId": "3894042dbda153ae229f039c6fa52ea59379542c"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "7781fa3446eafdc411cd7cc7e9ed0d297b535e6e"
+    },
+    {
+      "paperId": "e317517d1e177afeb50a7d99b2bff41e9f834d49"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "d3c3bbfae5d38a3bf16947f122964318d8bdbb13"
+    },
+    {
+      "paperId": "ddb7f2893c90ef2dd240ae87a6c38fa8d6e7d326"
+    },
+    {
+      "paperId": "fd6327344a5903de4415f239f95fc8b2419ffffa"
+    },
+    {
+      "paperId": "9dea1e735f415c699a105a57eae0aa1efc38f18d"
+    },
+    {
+      "paperId": "39787aac3456b9ffa13323c1f6a27fba299726d5"
+    },
+    {
+      "paperId": "b2b48af7257bee6fad1f27ded81fdd556bd7cdbb"
+    },
+    {
+      "paperId": "3c47767514dc78d1076acf82ce154e0989728e88"
+    },
+    {
+      "paperId": "618c1d0f65e189624edfcab73b27f1117039e2a4"
+    },
+    {
+      "paperId": "e1f913e23c57e34ba57d3936b321641e6ae4799d"
+    },
+    {
+      "paperId": "9f9174f8a37b04f25bcd4ce2b2b3abaecab58c05"
+    },
+    {
+      "paperId": "f2f80e6d8c05f94f4b890173b2cb4b9b354f93c7"
+    },
+    {
+      "paperId": "7629b5ea9832527d1413056debf30f1abc823f19"
+    },
+    {
+      "paperId": "913160cd5839d51ddc874e2c156b5bd8e27e106c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5599bab8173493483ee81fd6e17a60eee5a4bdb0"
+    },
+    {
+      "paperId": "93f784f497739eb15e11b8b884c3690cb8ada215"
+    },
+    {
+      "paperId": "1625b32fcf0a3d0c5387415c818af69a4c8538b8"
+    },
+    {
+      "paperId": "5462d5914fb423664e22ece691f9642f5b15079b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c46988223b30741fd2816e57cac0a6a551a309be"
+    },
+    {
+      "paperId": "1f5167a4114b21b97aad924c5dc56b0352df660c"
+    },
+    {
+      "paperId": "d9c49f7f25886dea4009eb1d8e7915a3869a9c60"
+    },
+    {
+      "paperId": "b99cc75985cca5561454e757e4b1736d58c4a5aa"
+    },
+    {
+      "paperId": "b4f4fef044aa4285e0ea28f5ca144e1815aa8249"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8d30d4af4facd427c7956863d31eb3ca31a6f4bb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b8aeba5b4119f4923d2ed09f764e25cd0ab8ddb4"
+    },
+    {
+      "paperId": "fa138a746c500b34a7bf11f673567a1d2e87b147"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6f939bca9335e669d0de2a4ceb25b17b3e49ded9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8dc5ab42a151d59c586959bade3df6dc6cbd1793"
+    },
+    {
+      "paperId": "ab2b9cf0befe93bb63518d435744d695838bcce6"
+    },
+    {
+      "paperId": "c428d562fe1e8a7ff9c8fc61a752bd70d77065f5"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

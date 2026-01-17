@@ -1,0 +1,284 @@
+{
+  "paperId": "5566a05ae66b61765a9523a9848b0e606251d095",
+  "externalIds": {
+    "MAG": "2912977378",
+    "DBLP": "journals/remotesensing/SaganMSEPHEKNPW19",
+    "DOI": "10.3390/RS11030330",
+    "CorpusId": 85497679
+  },
+  "url": "https://www.semanticscholar.org/paper/5566a05ae66b61765a9523a9848b0e606251d095",
+  "title": "UAV-Based High Resolution Thermal Imaging for Vegetation Monitoring, and Plant Phenotyping Using ICI 8640 P, FLIR Vue Pro R 640, and thermoMap Cameras",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 206,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/3/330/pdf?version=1549870890",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11030330?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11030330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35993396",
+      "name": "V. Sagan"
+    },
+    {
+      "authorId": "2496780",
+      "name": "M. Maimaitijiang"
+    },
+    {
+      "authorId": "2325550",
+      "name": "P. Sidike"
+    },
+    {
+      "authorId": "88728930",
+      "name": "Kevin Eblimit"
+    },
+    {
+      "authorId": "47109477",
+      "name": "K. Peterson"
+    },
+    {
+      "authorId": "81968790",
+      "name": "S. Hartling"
+    },
+    {
+      "authorId": "2240316027",
+      "name": "Flavio Esposito"
+    },
+    {
+      "authorId": "26896744",
+      "name": "Kapil Khanal"
+    },
+    {
+      "authorId": "27524444",
+      "name": "M. Newcomb"
+    },
+    {
+      "authorId": "34788566",
+      "name": "D. Pauli"
+    },
+    {
+      "authorId": "2112937421",
+      "name": "Rick Ward"
+    },
+    {
+      "authorId": "144485801",
+      "name": "F. Fritschi"
+    },
+    {
+      "authorId": "34892854",
+      "name": "N. Shakoor"
+    },
+    {
+      "authorId": "2491793",
+      "name": "T. Mockler"
+    }
+  ],
+  "abstract": "The growing popularity of Unmanned Aerial Vehicles (UAVs) in recent years, along with decreased cost and greater accessibility of both UAVs and thermal imaging sensors, has led to the widespread use of this technology, especially for precision agriculture and plant phenotyping. There are several thermal camera systems in the market that are available at a low cost. However, their efficacy and accuracy in various applications has not been tested. In this study, three commercially available UAV thermal cameras, including ICI 8640 P-series (Infrared Cameras Inc., USA), FLIR Vue Pro R 640 (FLIR Systems, USA), and thermoMap (senseFly, Switzerland) have been tested and evaluated for their potential for forest monitoring, vegetation stress detection, and plant phenotyping. Mounted on multi-rotor or fixed wing systems, these cameras were simultaneously flown over different experimental sites located in St. Louis, Missouri (forest environment), Columbia, Missouri (plant stress detection and phenotyping), and Maricopa, Arizona (high throughput phenotyping). Thermal imagery was calibrated using procedures that utilize a blackbody, handheld thermal spot imager, ground thermal targets, emissivityand atmospheric correction. A suite of statistical analyses, including analysis of variance (ANOVA), correlation analysis between camera temperature and plant biophysical and biochemical traits, and heritability were utilized in order to examine the sensitivity and utility of the cameras against selected plant phenotypic traits and in the detection of plant water stress. In addition, in reference to quantitative assessment of image quality from different thermal cameras, a non-reference image quality evaluator, which primarily measures image focus that is based on the spatial relationship of pixels in different scales, was developed. Our results show that (1) UAV-based thermal imaging is a viable tool in precision agriculture and (2) the three examined cameras are comparable in terms of their efficacy for plant phenotyping. Overall, accuracy, when compared against field measured ground temperature and estimating power of plant biophysical and biochemical traits, the ICI 8640 P-series performed better than the other two cameras, followed by FLIR Vue Pro R 640 and thermoMap cameras. Our results demonstrated that all three UAV thermal cameras provide useful temperature data for precision agriculture and plant phenotying, with ICI 8640 P-series presenting the best results among the three systems. Cost wise, FLIR Vue Pro R 640 is more affordable than the other two cameras, providing a less expensive option for a wide range of applications.",
+  "references": [
+    {
+      "paperId": "f0d1c533d8671f206c7a9d5c40b6b3ba37606973"
+    },
+    {
+      "paperId": "0f1842e3d69ad2c9da1ac99c0356354c3a181da5"
+    },
+    {
+      "paperId": "81cbca83233c4d1f65501b4675dea0412157bfd3"
+    },
+    {
+      "paperId": "1019bd1e38b1c9301c8ab44d00f3a2944fa1ba95"
+    },
+    {
+      "paperId": "f157a26ebbe9f7b8bf63a3a7ae5e5aa274101e53"
+    },
+    {
+      "paperId": "072c30f405b77344eeac4f84de2127905194add5"
+    },
+    {
+      "paperId": "66fa3de81309233c3ebae0fe29a2b5c1992fa1d8"
+    },
+    {
+      "paperId": "537a0c6029887e185fff1f3f18769f4cd24ee511"
+    },
+    {
+      "paperId": "a9b939073972ac3184d6cb96a5f3c6bf2fc7188f"
+    },
+    {
+      "paperId": "13c7fc8174b72d4c0d94ee484b8858033a306afd"
+    },
+    {
+      "paperId": "c333ab6d4020685fe4fc0b5e1ecad6d5054ba629"
+    },
+    {
+      "paperId": "eb7003134427464be2a3cff3cac178c16813787e"
+    },
+    {
+      "paperId": "585ebdc724c0aec0af3654553cbe4ddad043cd85"
+    },
+    {
+      "paperId": "c34dcc548ed14f355541a67d4141c5c17929df1d"
+    },
+    {
+      "paperId": "68c668a7d2da59bc7edf06d27cb7ef167081144c"
+    },
+    {
+      "paperId": "0825d6b23cc993c2d9741b9e02af3eeb6b35c083"
+    },
+    {
+      "paperId": "c932b3cfbc94895078f2c468800cd70da968f9d6"
+    },
+    {
+      "paperId": "a5a637db081a6b7700d6a7155d70234ddff9c374"
+    },
+    {
+      "paperId": "046ace47f1776ced74f5fa22ce3fab6b7488b39f"
+    },
+    {
+      "paperId": "0ba00612370e18d71851b924d5d92fee6b331675"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "39e2ecc5f36c293912b349aa44a2dfb78294ebcf"
+    },
+    {
+      "paperId": "38208809599b2bcbae4bddd2ea07ea39418e1bdb"
+    },
+    {
+      "paperId": "38bea7ea6c4efdcaa9487b0af780ef345782bf4a"
+    },
+    {
+      "paperId": "9260eaabfc73a393d70e8020f3c5f860739f8b2b"
+    },
+    {
+      "paperId": "0ea4eb70bb6882b214a6c97d15a91d29252a6850"
+    },
+    {
+      "paperId": "a799dc3b932471792edcc6f0bfaa336ad29f926c"
+    },
+    {
+      "paperId": "31a317212c7b7113027106917af02bd1c0a11b78"
+    },
+    {
+      "paperId": "ea8d96afbbc385bce41da4baf145cbbeaaff13a4"
+    },
+    {
+      "paperId": "36f5fbc59d903baa6f77737fce59e51f06f0a14e"
+    },
+    {
+      "paperId": "cdf7cf12b53885df4fbf7f9503ac1303724084e8"
+    },
+    {
+      "paperId": "2acc9f4bdc7c182aa4f4d66ee363897daad2cc7c"
+    },
+    {
+      "paperId": "c24161992b0385710992c41d6544fdb079dd72ad"
+    },
+    {
+      "paperId": "08a6fd43347f4ef1e9845c3cd6631c1509546519"
+    },
+    {
+      "paperId": "612eb78ec068d76d3ef08826a3627c7ce6a2e8e2"
+    },
+    {
+      "paperId": "a059418ba24f3038f9e2d62c87a7e7a3db548a9c"
+    },
+    {
+      "paperId": "e38f65ef89b7235d28c7776cde3658dfb6b86e54"
+    },
+    {
+      "paperId": "e4eb5baa88707342b3cde9002fdc55ce47b86bb2"
+    },
+    {
+      "paperId": "9a604bbdb81834a17614643bed43a2e758c074f3"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "4d3c2c8c9cd40be06466993b5ea6da6b829236ab"
+    },
+    {
+      "paperId": "f8a624c7b067eb9bb1581ce07db05c8644ede16a"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "f6d31a6258248b180070eb5f996c5a4abe1a6146"
+    },
+    {
+      "paperId": "006f2f1429d34f9aa209fad0e2f71901ad856e8e"
+    },
+    {
+      "paperId": "34cad6583e1d8c2b9cd3550dcc07b688b3d8057f"
+    },
+    {
+      "paperId": "eb513114762360abe92790c565b36f4f1974f633"
+    },
+    {
+      "paperId": "fa3a439f4297843c4f9a567b7f9c6a3ae9789ad5"
+    },
+    {
+      "paperId": "9097d93618c5ff3f9ae2943cf0be59d3aee46f38"
+    },
+    {
+      "paperId": "b59e5d44643bc1fe92ca4fccc3d103189c1995ab"
+    },
+    {
+      "paperId": "7e0c72d0933852486065834432a9fd3b389f9fc5"
+    },
+    {
+      "paperId": "6c62946b414c957ba5e8eb6ec473c8215bf42175"
+    },
+    {
+      "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "92420d9bc7c8e635f863fc6e0260b1eafaf17689"
+    },
+    {
+      "paperId": "7582e7be75db59a4320f8990efc3c66db914a200"
+    },
+    {
+      "paperId": "245b8d48c3d43e5bb949290ace846b9de8e6e739"
+    },
+    {
+      "paperId": "efef79f565491ece16bdb0cad18438820c1558c4"
+    },
+    {
+      "paperId": "a67363e68e69f8017fee76cd94ea59acc03f8778"
+    },
+    {
+      "paperId": "02f1a023e0dd33b7c41816eba2739933768a59ea"
+    },
+    {
+      "paperId": "09a6d76fe2d5ca1bfb7ed0dc4023248b749c4ac1"
+    },
+    {
+      "paperId": "a3ffbe558354e7291621222a414f74fc8a850bbb"
+    },
+    {
+      "paperId": "c466842ed443b67326ca37cf02be76abcab1c6ed"
+    },
+    {
+      "paperId": "1c0e3c5e7f18afa0bb1116ae89fef92d95d5ef49"
+    },
+    {
+      "paperId": "bb08743ece51fb97648e6a160c51a13fd96b0410"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "fb3d29ea32b62f6c4024bcd7b9bcf09c00380e61",
+  "externalIds": {
+    "MAG": "3028186116",
+    "DBLP": "conf/ram/VlasceanuD0I19",
+    "DOI": "10.1109/CIS-RAM47153.2019.9095823",
+    "CorpusId": 218835317
+  },
+  "url": "https://www.semanticscholar.org/paper/fb3d29ea32b62f6c4024bcd7b9bcf09c00380e61",
+  "title": "Sensor and Communication Considerations in UAV-WSN Based System for Precision Agriculture",
+  "venue": "2019 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CIS-RAM47153.2019.9095823?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CIS-RAM47153.2019.9095823, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9160084",
+      "name": "Emilian Vlasceanu"
+    },
+    {
+      "authorId": "144050745",
+      "name": "M. Dima"
+    },
+    {
+      "authorId": "144752161",
+      "name": "D. Popescu"
+    },
+    {
+      "authorId": "1758132",
+      "name": "L. Ichim"
+    }
+  ],
+  "abstract": "The paper presents a hybrid UAV (Unmanned Aerial Vehicle) – WSN (Wireless Sensor Network) based system with application in a specific field: the precision agriculture. The main goal is to collect data from WSN via aerial platform. We propose a multi-agent system architecture (multi-UAVs, multi WSNs) and a specific implementation for the ground Wireless Sensors Network. The communication inside WSN is based on LoRa transmission protocol. The solution is a cheap one and the simulation results give the perspective of a large-scale utilization in agriculture. The experimental results were done on a two UAVs-two WSNs configuration which can be controlled and programed at distance via internet.",
+  "references": null
+}

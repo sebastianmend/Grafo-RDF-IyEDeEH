@@ -1,0 +1,38 @@
+{
+  "paperId": "1a85f47e7b0e4c66ff29be89d8328e33f6e0b805",
+  "externalIds": {
+    "MAG": "2982300331",
+    "DOI": "10.1007/s11816-019-00581-w",
+    "CorpusId": 204947198
+  },
+  "url": "https://www.semanticscholar.org/paper/1a85f47e7b0e4c66ff29be89d8328e33f6e0b805",
+  "title": "New era of precision plant breeding using genome editing",
+  "venue": "Plant Biotechnology Reports",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11816-019-00581-w.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11816-019-00581-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11816-019-00581-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120086341",
+      "name": "Jeong-Il Kim"
+    },
+    {
+      "authorId": "2145425241",
+      "name": "Jae-Yean Kim"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

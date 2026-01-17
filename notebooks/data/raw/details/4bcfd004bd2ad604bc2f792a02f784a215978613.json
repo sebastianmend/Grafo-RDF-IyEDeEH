@@ -1,0 +1,50 @@
+{
+  "paperId": "4bcfd004bd2ad604bc2f792a02f784a215978613",
+  "externalIds": {
+    "MAG": "2915991474",
+    "DOI": "10.33012/2019.16680",
+    "CorpusId": 86567722
+  },
+  "url": "https://www.semanticscholar.org/paper/4bcfd004bd2ad604bc2f792a02f784a215978613",
+  "title": "Single-Chip Delivers Multi-Band Multi-GNSS Raw Measurement and Built-In RTK Engine for Mass Market Applications",
+  "venue": "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.33012/2019.16680?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33012/2019.16680, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145619089",
+      "name": "Ryan Yang"
+    },
+    {
+      "authorId": "2761385",
+      "name": "Shifei Yang"
+    },
+    {
+      "authorId": "47532452",
+      "name": "G. Hau"
+    },
+    {
+      "authorId": "123405493",
+      "name": "Chia-Wei Sung"
+    },
+    {
+      "authorId": "7278766",
+      "name": "Hongtao Yu"
+    }
+  ],
+  "abstract": "The paper is dedicated to Allystar’s new generation GNSS system-on-a-chip (SoC) for introducing its basic Cynosure III architecture, GNSS raw measurements evaluation, and preliminary real-time kinematic (RTK) testing result. The motivation of launching this GNSS SoC is to provide a desirable solution for meeting the requirements of mass market applications, such as small size, low power consumption, affordable expense and accurate positioning information. Therefore, this fully integrated multiband multi-constellation GNSS SoC is capable of tracking all legacy and modernized civil signals (in L1, L2, L5 and L6 band) transmitted by all satellite navigation systems (GPS, BDS, GLONASS, Galileo, QZSS, NAVIC and SBAS). In addition to standard positioning service (SPS) with multi-band multi-constellation GNSS signals, it also provides GNSS raw measurements output via standard radio technical commission for maritime services (RTCM) format and built-in RTK engine with centimeter-level positioning accuracy. Hence it enables any kind of high-precision integrations and applications, such as wearable devices, GIS data collection, precision agriculture, intelligent logistic, intelligent driving, surveying and mapping, and so forth.\nIn terms of manufacturing processes, it adopts TSMC’s 40 nm process and incorporates a variety of advanced low-power design technologies, making it extremely attractive in terms of size and power consumption. The chip die of Cynosure III architecture is mounted in a 5.0 mm by 5.0 mm quad-flat no-lead (QFN) package, which allows customers to reduce printed circuit board (PCB) and bill of materials (BOM) cost while reducing the number of peripheral devices. The distinguishing characteristic of Cynosure III architecture is that only an analog GNSS radio-frequency (RF) front-end, a digital GNSS baseband, and an ARM Cortex-M4 microcontroller are integrated for tracking multi-band multi-constellation GNSS signals. Furthermore, several popular I/O interfaces (UART, USB, SPI, I2C, GPIO, PWM, etc.) and controller area network (CAN) bus are supported, which can be widely used in vehicle management and car navigation.",
+  "references": null
+}

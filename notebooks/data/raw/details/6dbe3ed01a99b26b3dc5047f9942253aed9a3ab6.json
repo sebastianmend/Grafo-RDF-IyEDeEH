@@ -1,0 +1,64 @@
+{
+  "paperId": "6dbe3ed01a99b26b3dc5047f9942253aed9a3ab6",
+  "externalIds": {
+    "MAG": "2969595744",
+    "DBLP": "journals/gis/DaiNHHYTXL20",
+    "DOI": "10.1080/13658816.2019.1650363",
+    "CorpusId": 201874050
+  },
+  "url": "https://www.semanticscholar.org/paper/6dbe3ed01a99b26b3dc5047f9942253aed9a3ab6",
+  "title": "Integrated edge detection and terrain analysis for agricultural terrace delineation from remote sensing images",
+  "venue": "International Journal of Geographical Information Science",
+  "year": 2019,
+  "citationCount": 42,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13658816.2019.1650363?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13658816.2019.1650363, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2054962788",
+      "name": "W. Dai"
+    },
+    {
+      "authorId": "9481264",
+      "name": "J. Na"
+    },
+    {
+      "authorId": "2054020424",
+      "name": "Nan Huang"
+    },
+    {
+      "authorId": "2114117836",
+      "name": "Guang-hui Hu"
+    },
+    {
+      "authorId": "88662450",
+      "name": "Xin Yang"
+    },
+    {
+      "authorId": "1859304",
+      "name": "G. Tang"
+    },
+    {
+      "authorId": "3276082",
+      "name": "Li-yang Xiong"
+    },
+    {
+      "authorId": "1922470",
+      "name": "Fayuan Li"
+    }
+  ],
+  "abstract": "ABSTRACT Agricultural terraces are important for agricultural production and soil-and-water conservation. They comprise treads and risers that require manual construction and maintenance. If managed improperly, risers will collapse, causing soil loss, gully erosion, and cultivation threats. However, mapping terrace risers remains a challenge. This study presents a novel approach to automatically map terrace risers by combining remote sensing images and digital elevation models (DEMs). First, a terraced hillslope was extracted via a hill-shading method and edges in the image were detected using a Canny edge detector. Next, the DEM was used to generate the contour direction, and edges along this direction were searched and coded as candidate terrace risers via directional detection. Finally, the results of directional detection and the edge image obtained from the Canny detector were overlaid to backtrack complete terrace risers. The approach was validated using four study areas with different topographic characteristics in the Loess Plateau, China. The results verify that the approach achieves outstanding performance and robustness in mapping terrace risers. The precision, recall, and F-measure were 90.81%–97.57%, 88.53%–94.10%, and 90.13%–95.80%, respectively. This approach is flexible and applicable with freely available images and DEM sources.",
+  "references": null
+}

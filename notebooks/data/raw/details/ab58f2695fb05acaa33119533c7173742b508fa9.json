@@ -1,0 +1,267 @@
+{
+  "paperId": "ab58f2695fb05acaa33119533c7173742b508fa9",
+  "externalIds": {
+    "DBLP": "journals/sensors/ShafiMGHZI19",
+    "MAG": "2971480543",
+    "PubMedCentral": "6749385",
+    "DOI": "10.3390/s19173796",
+    "CorpusId": 201830977,
+    "PubMed": "31480709"
+  },
+  "url": "https://www.semanticscholar.org/paper/ab58f2695fb05acaa33119533c7173742b508fa9",
+  "title": "Precision Agriculture Techniques and Practices: From Considerations to Applications",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 504,
+  "influentialCitationCount": 12,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/17/3796/pdf?version=1567419401",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6749385, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "52181435",
+      "name": "Uferah Shafi"
+    },
+    {
+      "authorId": "2480545",
+      "name": "Rafia Mumtaz"
+    },
+    {
+      "authorId": "1397664639",
+      "name": "J. García-Nieto"
+    },
+    {
+      "authorId": "1682336",
+      "name": "Syed Ali Hassan"
+    },
+    {
+      "authorId": "3403116",
+      "name": "Syed Ali Raza Zaidi"
+    },
+    {
+      "authorId": "2065630717",
+      "name": "Naveed Iqbal"
+    }
+  ],
+  "abstract": "Internet of Things (IoT)-based automation of agricultural events can change the agriculture sector from being static and manual to dynamic and smart, leading to enhanced production with reduced human efforts. Precision Agriculture (PA) along with Wireless Sensor Network (WSN) are the main drivers of automation in the agriculture domain. PA uses specific sensors and software to ensure that the crops receive exactly what they need to optimize productivity and sustainability. PA includes retrieving real data about the conditions of soil, crops and weather from the sensors deployed in the fields. High-resolution images of crops are obtained from satellite or air-borne platforms (manned or unmanned), which are further processed to extract information used to provide future decisions. In this paper, a review of near and remote sensor networks in the agriculture domain is presented along with several considerations and challenges. This survey includes wireless communication technologies, sensors, and wireless nodes used to assess the environmental behaviour, the platforms used to obtain spectral images of crops, the common vegetation indices used to analyse spectral images and applications of WSN in agriculture. As a proof of concept, we present a case study showing how WSN-based PA system can be implemented. We propose an IoT-based smart solution for crop health monitoring, which is comprised of two modules. The first module is a wireless sensor network-based system to monitor real-time crop health status. The second module uses a low altitude remote sensing platform to obtain multi-spectral imagery, which is further processed to classify healthy and unhealthy crops. We also highlight the results obtained using a case study and list the challenges and future directions based on our work.",
+  "references": [
+    {
+      "paperId": "484ef32037cb9dcd2c7000afbd4206c4c909efa0"
+    },
+    {
+      "paperId": "5ed7eb0ae7b48b4e08a8f5038a332be3dbe03175"
+    },
+    {
+      "paperId": "1ae6badd31d9e2ca4038cc4039335aa1dc5c663d"
+    },
+    {
+      "paperId": "51187924392c587cfed831aa539ace30ca5ce44c"
+    },
+    {
+      "paperId": "f3e17922675441e35019216264a49fb254760596"
+    },
+    {
+      "paperId": "2b0c36e8fcdd4265a7009e4f9c6d639768704b19"
+    },
+    {
+      "paperId": "c96a4255f481c76aebdec68c253cab727926264d"
+    },
+    {
+      "paperId": "6346826938c069276b5382cf6116333d698947cd"
+    },
+    {
+      "paperId": "acf6ce2e891fc49e81934d22a50144622a11aca4"
+    },
+    {
+      "paperId": "be28092478faa4df11063fecaef53370de6a29e7"
+    },
+    {
+      "paperId": "dcfc94b0d53060c57602f14fd8b237fe6c682362"
+    },
+    {
+      "paperId": "a30efab0b7d215dc6fe00deb90c257ba2e298bf2"
+    },
+    {
+      "paperId": "cb96fde150a2ed5fe8bd108c28328d46a47ee21a"
+    },
+    {
+      "paperId": "af6132d14e3a699bc023a46676ebc9ed9da30fcb"
+    },
+    {
+      "paperId": "7f23704553b5fb73e2f9532dc1e9c70e29f49839"
+    },
+    {
+      "paperId": "03c1335fbf4b274eac4695f0ae98998000842d45"
+    },
+    {
+      "paperId": "a88afb867a98374f4676c05f95537fbb63c08380"
+    },
+    {
+      "paperId": "b5f36c7c4208e2d4422f525267cd7b45bb857d14"
+    },
+    {
+      "paperId": "f762aab23de186b97f465ec0fb95b31a2ed7d0fa"
+    },
+    {
+      "paperId": "e03bde3b5e723e9330388c7a38b81d5f2ef0684a"
+    },
+    {
+      "paperId": "e22ecc54d016336ee3c7a8a99533b1136698727f"
+    },
+    {
+      "paperId": "fc8ccbc079fddac94737091547a206734f5c03b3"
+    },
+    {
+      "paperId": "2c1a168c8c9e84d20a567d27d99b546c45bb5af2"
+    },
+    {
+      "paperId": "896c33aa816426e1d1f5a595708d8f904684517a"
+    },
+    {
+      "paperId": "9de5fec440bbaca2ada718688c0bc4ebace6bf1b"
+    },
+    {
+      "paperId": "fca3c411e111c5bdd7ed7e0ddd2670f3eada96f6"
+    },
+    {
+      "paperId": "22d729dcf7f85ee4454ac78cfec44aee9b3acb2a"
+    },
+    {
+      "paperId": "ec69bb1679233177973e282e07b17b64e00c7fab"
+    },
+    {
+      "paperId": "1dfadfd2a5c8d8c8ffe27a8b461a4c86487797d9"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "3c0590b95cd81521d7cc7db6b97db9578a2e20a4"
+    },
+    {
+      "paperId": "32d8e5cfaa3505979b5d8ddc01cafa15d3c9ebad"
+    },
+    {
+      "paperId": "764fb4d5d79641193570ca843589149f3f2dfde5"
+    },
+    {
+      "paperId": "4220868688ecf6d252d17f6d784923d0c5f66366"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "2ddbd2e8c4cf7c89c2e6292487eeeaeb1b5dcf7b"
+    },
+    {
+      "paperId": "a7e633e155898cf4e5ecf307d96ba4b9ee891f67"
+    },
+    {
+      "paperId": "12af3bbe1514043db10d3ee3a99f53a7f56edc23"
+    },
+    {
+      "paperId": "5136c1a9ba338c024b3a3a7d8f9e28658b59bcaa"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "a93b7b31fa55a2c6fd78388fca58c1cb223d1e18"
+    },
+    {
+      "paperId": "22b148bcc2bf082c165340499a3bdeb3ac0b22d8"
+    },
+    {
+      "paperId": "2fd704c1e5c4eefd42bb6f922bd4722b494b301b"
+    },
+    {
+      "paperId": "4b86a67233af911298eb6809c45f614a09577ca4"
+    },
+    {
+      "paperId": "157afaf886e0d693665cbf4d65a6641cab0bbdc5"
+    },
+    {
+      "paperId": "fce607749502ac4bfd892ed5cf4e583888d6afc4"
+    },
+    {
+      "paperId": "36ac44165e6677ea1b880c1347d572d500ae3d5a"
+    },
+    {
+      "paperId": "17a179f158e989ac72f1db782c64021666c531ce"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "11084079ac17e3e2654e9ced7dfe222c1ccf9700"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "3e049bc0bf9d06c14648f5a36036b8af7628a4ce"
+    },
+    {
+      "paperId": "1bba6d2cff90a8a9a586683347dad9713097dccd"
+    },
+    {
+      "paperId": "824d8c2d07ad1e91de10ba5dbe3d095e8ff29b13"
+    },
+    {
+      "paperId": "71c9025107709b3707de50eedfc8c926c3d56207"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "317c0b9b3662911a5bc0be936cf0529f4afea62e"
+    },
+    {
+      "paperId": "67b813faed6fd611c31b8ddf584abebb60a3b03f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d98ccd54f6ab952a5151d00219e5f37ea503bf78"
+    },
+    {
+      "paperId": "45b0330f6248c8fa3ac9fa98b079e06f78009047"
+    },
+    {
+      "paperId": "f9c556a102d350dd884799b838c8fc53ed50bf44"
+    },
+    {
+      "paperId": "a07b80de87f5c6c7e291c09a14e9e0ba396ffe6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2d1038ef88c25e06e92de1368f4b682d28e74435"
+    }
+  ]
+}

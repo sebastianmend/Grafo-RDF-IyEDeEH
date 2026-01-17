@@ -1,0 +1,45 @@
+{
+  "paperId": "cacfa8b1ccc8591e6f194700df57a701c162c9aa",
+  "externalIds": {
+    "MAG": "2902061692",
+    "DBLP": "conf/icacci/VermaCS18",
+    "DOI": "10.1109/ICACCI.2018.8554842",
+    "CorpusId": 54217711
+  },
+  "url": "https://www.semanticscholar.org/paper/cacfa8b1ccc8591e6f194700df57a701c162c9aa",
+  "title": "Prediction Models for Identification and Diagnosis of Tomato Plant Diseases",
+  "venue": "International Conference on Advances in Computing, Communications and Informatics",
+  "year": 2018,
+  "citationCount": 40,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACCI.2018.8554842?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACCI.2018.8554842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50406099",
+      "name": "Shradha Verma"
+    },
+    {
+      "authorId": "2649983",
+      "name": "A. Chug"
+    },
+    {
+      "authorId": "1788663",
+      "name": "A. Singh"
+    }
+  ],
+  "abstract": "Through the ages, pests and plant diseases have remained a constant threat to the quality and quantity of overall crop production. Hence, their timely and accurate identification could greatly extenuate the economic losses worldwide, also denigrating the harmful impact of fertilizers and pesticides on the environment. Once the correct disease is identified, conforming to the characteristic symptoms, proper control measures can be applied. The concept of Precision Agriculture necessitates the timely automation of dominant and crucial agricultural processes by applying the techniques of computational intelligence in the agriculture domain, Machine Learning and Computer Vision being the most researched and implemented technologies. This paper presents a survey on the current techniques and prediction models, based on Image processing and the role of Internet of Things (IoT), being applied for identification, detection as well as quantification of Tomato plant diseases.",
+  "references": null
+}

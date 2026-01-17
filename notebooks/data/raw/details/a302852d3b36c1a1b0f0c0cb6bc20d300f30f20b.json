@@ -1,0 +1,47 @@
+{
+  "paperId": "a302852d3b36c1a1b0f0c0cb6bc20d300f30f20b",
+  "externalIds": {
+    "DBLP": "journals/lgrs/OliveiraGNS18",
+    "MAG": "2797897612",
+    "DOI": "10.1109/LGRS.2018.2819944",
+    "CorpusId": 49413062
+  },
+  "url": "https://www.semanticscholar.org/paper/a302852d3b36c1a1b0f0c0cb6bc20d300f30f20b",
+  "title": "Failure Detection in Row Crops From UAV Images Using Morphological Operators",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "year": 2018,
+  "citationCount": 49,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2018.2819944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2018.2819944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2143395388",
+      "name": "H. C. Oliveira"
+    },
+    {
+      "authorId": "9370721",
+      "name": "V. Guizilini"
+    },
+    {
+      "authorId": "50875010",
+      "name": "Israel P. Nunes"
+    },
+    {
+      "authorId": "2095013870",
+      "name": "Jefferson R. Souza"
+    }
+  ],
+  "abstract": "The detection of failures (DF) in coffee crops is fundamental in evaluating product quality and the optimal occupation of planted areas. The use of unmanned aerial vehicles (UAVs) in precision agriculture has great potential as a tool to analyze critical parameters in cultivation, among them the detection of planting failures. This letter presents a novel methodology for DF from aerial images, obtained using a UAV capable of collecting high-resolution RGB images. The proposed approach uses mathematical morphology operators to detect failures over planted areas and returns both the individual positions of these failures and total failure length (sum of empty spaces between plants), thus facilitating decision making for further actions. Results show that the proposed DF method is reliable for accurately identifying failures over rows of planted coffee crops.",
+  "references": null
+}

@@ -1,0 +1,165 @@
+{
+  "paperId": "037977b941956d1e9b8e59ce8d2b459167aa1ba0",
+  "externalIds": {
+    "MAG": "2948555907",
+    "DOI": "10.5194/ISPRS-ARCHIVES-XLII-2-W13-673-2019",
+    "CorpusId": 195482373
+  },
+  "url": "https://www.semanticscholar.org/paper/037977b941956d1e9b8e59ce8d2b459167aa1ba0",
+  "title": "OPPORTUNITIES OF UAVS IN ORCHARD MANAGEMENT",
+  "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/673/2019/isprs-archives-XLII-2-W13-673-2019.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRS-ARCHIVES-XLII-2-W13-673-2019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRS-ARCHIVES-XLII-2-W13-673-2019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1430777632",
+      "name": "C. Zhang"
+    },
+    {
+      "authorId": "145514047",
+      "name": "J. Valente"
+    },
+    {
+      "authorId": "3289950",
+      "name": "L. Kooistra"
+    },
+    {
+      "authorId": "2157243986",
+      "name": "L. Guo"
+    },
+    {
+      "authorId": "102257514",
+      "name": "W. Wang"
+    }
+  ],
+  "abstract": "Abstract. The growth process of fruit trees is accompanied by a large number of monitoring and management activities, such as pruning, irrigation, fertilization, spraying, and harvesting, which are labour intensive and time consuming. In the context of precision agriculture, automation and precision orchard management not only saves labour resources and increases the income of growers, but also has great significance in improving resource utilization. Recent technological developments enable Unmanned Aerial Vehicles (UAVs, also commonly referred to as Unmanned Aerial Systems, or ‘drones’) to become an efficient monitoring tool for improving orchard management, that can provide growers much more detailed and precise information about fruit crops health status, geometric variables, physiological variables etc. This paper reviews the use of UAVs in orchard management, with a focus on recent UAV applications, synthetically describing the existing situation (e.g., general data processing approaches, sensing platform and sensor uploaded). The challenges and prospects of UAVs opportunities in orchard management are also summarized.\n",
+  "references": [
+    {
+      "paperId": "716a54dce5d0534a19c827be5d22cf266077a957"
+    },
+    {
+      "paperId": "5e2c3d3913aa1a2fb0bf25b82559ac5544e51a50"
+    },
+    {
+      "paperId": "aa8256886a88d8acc6974840c3eda89d879000ff"
+    },
+    {
+      "paperId": "a0e0d8d387cdf00e036caa2fe7e5f07789bd1388"
+    },
+    {
+      "paperId": "c7202214961298fa94b889b8f2e34d5f80495ddb"
+    },
+    {
+      "paperId": "ad60de34e970a648d99219791d627590559aef18"
+    },
+    {
+      "paperId": "7ab1d93b8c31843d0631c057633a07004f304046"
+    },
+    {
+      "paperId": "7c526402dba52e965a12d37d937160ec51e0cf5e"
+    },
+    {
+      "paperId": "3ac58a85afb2796e2985a3780e72edde3aae1c7f"
+    },
+    {
+      "paperId": "640884541c2d0b52da646e5e211371be5ae16198"
+    },
+    {
+      "paperId": "a48a46d6a608a0fc9ed12265784ddb7322bb3a89"
+    },
+    {
+      "paperId": "68c668a7d2da59bc7edf06d27cb7ef167081144c"
+    },
+    {
+      "paperId": "c932b3cfbc94895078f2c468800cd70da968f9d6"
+    },
+    {
+      "paperId": "418ad3a5092cdf1ed4ad652a4de581957f969303"
+    },
+    {
+      "paperId": "02ba19b8246de6c4451611483b83be52e0c865fd"
+    },
+    {
+      "paperId": "d3eb6e57f618cf0830678594efd7e67eec76a898"
+    },
+    {
+      "paperId": "7ada0b9dd93a4aacefb1d044b7a15dfdd8e4f357"
+    },
+    {
+      "paperId": "98065ce85f69c64f7408d3f0a2633958886fcad9"
+    },
+    {
+      "paperId": "7962236cf3e975ea0c7f858c3e89459bb2dca781"
+    },
+    {
+      "paperId": "2acc9f4bdc7c182aa4f4d66ee363897daad2cc7c"
+    },
+    {
+      "paperId": "7cee3de7c28d6d95bea9b27322f01fb50952af37"
+    },
+    {
+      "paperId": "7a19fcfcfbef7b00a8f8cce4c3c530a01e7cdc1f"
+    },
+    {
+      "paperId": "ac8d047ec1e33844ec82251c2ded517c990cad7a"
+    },
+    {
+      "paperId": "9f9b0cd39d5edd9f3125ea927213d34609d6aeed"
+    },
+    {
+      "paperId": "49ec3bebb4e41a075194c007eb73f22c0126badc"
+    },
+    {
+      "paperId": "88d8735f31ce444236b64a67801db38dad1cea88"
+    },
+    {
+      "paperId": "ee6f1a62442a37927c471759691e0fc552377d3f"
+    },
+    {
+      "paperId": "394d9c9d3214a11466c3ab82bed97bb0b5b0dfbf"
+    },
+    {
+      "paperId": "d1003fcb8a3938cc976642cd21730888fb6703d6"
+    },
+    {
+      "paperId": "269c867f16eafa50d0b33c551efb1803fb17c02d"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "d874fa8ad1f95a036ba6c27dd4aa872951a6963d"
+    },
+    {
+      "paperId": "eb513114762360abe92790c565b36f4f1974f633"
+    },
+    {
+      "paperId": "11491d9594b44bf61f99811b44967c609ab3c173"
+    },
+    {
+      "paperId": "f92aeb4be38a18708e7170cb4da5f7fbf02cfe46"
+    },
+    {
+      "paperId": "7c14c6f1c8cc1955a9e9b9570e72aebe07471a85"
+    },
+    {
+      "paperId": "e2e8650e2df485f57216a4b28909e46dc6c64917"
+    },
+    {
+      "paperId": "a54746804e5e3eeba822ce0aad8b5f11ed90edd0"
+    }
+  ]
+}

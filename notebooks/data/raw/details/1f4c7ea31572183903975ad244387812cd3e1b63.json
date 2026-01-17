@@ -1,0 +1,148 @@
+{
+  "paperId": "1f4c7ea31572183903975ad244387812cd3e1b63",
+  "externalIds": {
+    "MAG": "2888214130",
+    "DBLP": "journals/ijgi/GaoYLZQ18",
+    "DOI": "10.3390/ijgi7090349",
+    "CorpusId": 53237958
+  },
+  "url": "https://www.semanticscholar.org/paper/1f4c7ea31572183903975ad244387812cd3e1b63",
+  "title": "Joint Alternate Small Convolution and Feature Reuse for Hyperspectral Image Classification",
+  "venue": "ISPRS Int. J. Geo Inf.",
+  "year": 2018,
+  "citationCount": 41,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2220-9964/7/9/349/pdf?version=1535257570",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/ijgi7090349?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/ijgi7090349, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "9309089",
+      "name": "Hongmin Gao"
+    },
+    {
+      "authorId": "2116763868",
+      "name": "Yao Yang"
+    },
+    {
+      "authorId": "151487426",
+      "name": "Chenming Li"
+    },
+    {
+      "authorId": "2146381804",
+      "name": "Hui Zhou"
+    },
+    {
+      "authorId": "2052432637",
+      "name": "Xiaoyu Qu"
+    }
+  ],
+  "abstract": "A hyperspectral image (HSI) contains fine and rich spectral information and spatial information of ground objects, which has great potential in applications. It is also widely used in precision agriculture, marine monitoring, military reconnaissance and many other fields. In recent years, a convolutional neural network (CNN) has been successfully used in HSI classification and has provided it with outstanding capacity for improving classification effects. To get rid of the bondage of strong correlation among bands for HSI classification, an effective CNN architecture is proposed for HSI classification in this work. The proposed CNN architecture has several distinct advantages. First, each 1D spectral vector that corresponds to a pixel in an HSI is transformed into a 2D spectral feature matrix, thereby emphasizing the difference among samples. In addition, this architecture can not only weaken the influence of strong correlation among bands on classification, but can also fully utilize the spectral information of hyperspectral data. Furthermore, a 1 × 1 convolutional layer is adopted to better deal with HSI information. All the convolutional layers in the proposed CNN architecture are composed of small convolutional kernels. Moreover, cascaded composite layers of the architecture consist of 1 × 1 and 3 × 3 convolutional layers. The inputs and outputs of each composite layer are stitched as the inputs of the next composite layer, thereby accomplishing feature reuse. This special module with joint alternate small convolution and feature reuse can extract high-level features from hyperspectral data meticulously and comprehensively solve the overfitting problem to an extent, in order to obtain a considerable classification effect. Finally, global average pooling is used to replace the traditional fully connected layer to reduce the model parameters and extract high-dimensional features from the hyperspectral data at the end of the architecture. Experimental results on three benchmark HSI datasets show the high classification accuracy and effectiveness of the proposed method.",
+  "references": [
+    {
+      "paperId": "f675035662882dc44b2a557104dcda24e783a281"
+    },
+    {
+      "paperId": "3a695820c5f4a595bf0d727e6327eeec122b86a6"
+    },
+    {
+      "paperId": "15a02c69498671aee7ab7fc14cad42b84b5e58fa"
+    },
+    {
+      "paperId": "78f7782d6e9017d72b31907b53b4925bb4e6cde1"
+    },
+    {
+      "paperId": "2b45253d9450028e52b7a4cd6e69bf23414a1f1a"
+    },
+    {
+      "paperId": "9da734397acd7ff7c557960c62fb1b400b27bd89"
+    },
+    {
+      "paperId": "4a73a1840945e87583d89ca0216a2c449d50a4a3"
+    },
+    {
+      "paperId": "ba14fa8493a1919903c6b9ab047a86448f7e2559"
+    },
+    {
+      "paperId": "ec9aa46ebc50a03ea9d7d20d80a232e6bd4293de"
+    },
+    {
+      "paperId": "47a1fa91816f50266aef3c31b6bd38895df63b00"
+    },
+    {
+      "paperId": "8fcfecd5285216b0ca0f25b3ee81f4a22c2cc4d7"
+    },
+    {
+      "paperId": "08c2fda35d798f7f3265e12a6c736721ccec5760"
+    },
+    {
+      "paperId": "10fb16414324a5db44f5d830adcb4810af59eed0"
+    },
+    {
+      "paperId": "801f33a6c58b30800e8d8382efacba10bd9487d8"
+    },
+    {
+      "paperId": "be00ddea81933a280aaf3dda486aa12cb374f5c1"
+    },
+    {
+      "paperId": "6d00032d5f1d0fcb7c26c4e595c46ed3cfc4915f"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "678ca1c6948bbeae83ad4d3fa8e9074d19bbfb65"
+    },
+    {
+      "paperId": "2369db9921078c4bb76072ef7d6426e9f1dbfdb5"
+    },
+    {
+      "paperId": "8027c90cad2c41275c96ed058e4c90c7426ace0b"
+    },
+    {
+      "paperId": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23"
+    },
+    {
+      "paperId": "f9d119346b0773ea83251598fa5305bc75bac8ab"
+    },
+    {
+      "paperId": "e70d75454de81b05fed9b63a405bcd1229f20229"
+    },
+    {
+      "paperId": "e15cf50aa89fee8535703b9f9512fca5bfc43327"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "5e83ab70d0cbc003471e87ec306d27d9c80ecb16"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "941a4dfed459d099268f6f7fc538f6eff427c241"
+    },
+    {
+      "paperId": "d98ce36328c6c501e507a5f8f8f508b25db85af3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    },
+    {
+      "paperId": "3e3ec72e932d7205a541e67e0f9a1fde5235eefd"
+    }
+  ]
+}

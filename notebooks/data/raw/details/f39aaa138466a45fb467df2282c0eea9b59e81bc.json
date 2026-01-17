@@ -1,0 +1,26 @@
+{
+  "paperId": "f39aaa138466a45fb467df2282c0eea9b59e81bc",
+  "externalIds": {
+    "DOI": "10.35940/ijitee.k2421.0981119",
+    "CorpusId": 241604551
+  },
+  "url": "https://www.semanticscholar.org/paper/f39aaa138466a45fb467df2282c0eea9b59e81bc",
+  "title": "Social Innovation through Precision Farming: An IoT Based Precision Farming System for Examining and Improving Soil Fertility and Soil Health",
+  "venue": "International Journal of Innovative Technology and Exploring Engineering",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.35940/ijitee.k2421.0981119",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35940/ijitee.k2421.0981119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35940/ijitee.k2421.0981119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [],
+  "abstract": "Agriculture is the most important sector of Indian Economy. Indian agriculture sector provides employment to 50% of the countries workforce. India is the world's largest producer of pulses, rice, wheat, sugarcane, pomegranates etc. The current scenario of agriculture business in India is not up to the mark as expected. There are number of reasons which causes less yield in the agriculture such as unpredictable environmental conditions, excess use of fertilizers (cost is increasing day by day), increased draught frequency and its severity, increasing labor rate, less difference between the income and expenditure, ripeness of soil, influenced suspensions, non-appropriate water management, diseases on crops, invasion of animals and so on. There is need to find the ways which makes the use of Information Technology (IT) concepts and tools wherever possible for increasing automation in the agriculture business, which results in the efficient and effective outcome of agriculture i.e. higher yields. The production efficiency can be increased significantly with technological advancement in agriculture. Internet of Things (IoT) is a novel design approach for precision farming. Farming has seen number of technological transformations in the last decade. By using various smart agriculture gadgets, farmers have gained better control over the process of raising the growing crops and livestocks. One of the major issues which cause fewer yields is the soil health. This paper mainly analyses/reviews the problems related to the soil health (soil fertility), which is a main obstacle in the crop production. Also this study focuses on the use of IoT applications in precision farming. It gives an overview of the relation between crop productivity and soil health",
+  "references": []
+}

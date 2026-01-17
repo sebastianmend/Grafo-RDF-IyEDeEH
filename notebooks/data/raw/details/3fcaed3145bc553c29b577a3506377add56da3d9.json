@@ -1,0 +1,89 @@
+{
+  "paperId": "3fcaed3145bc553c29b577a3506377add56da3d9",
+  "externalIds": {
+    "MAG": "2991443715",
+    "DOI": "10.1088/1757-899X/620/1/012093",
+    "CorpusId": 214171042
+  },
+  "url": "https://www.semanticscholar.org/paper/3fcaed3145bc553c29b577a3506377add56da3d9",
+  "title": "Development ion phosphate sensor system for precision farming",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/620/1/012093",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/620/1/012093?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/620/1/012093, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "12974156",
+      "name": "R. V. Manurung"
+    },
+    {
+      "authorId": "9494670",
+      "name": "B. Prabowo"
+    },
+    {
+      "authorId": "8491175",
+      "name": "I. Hermida"
+    },
+    {
+      "authorId": "2065576797",
+      "name": "D. Kurniawan"
+    },
+    {
+      "authorId": "88087235",
+      "name": "Y. Sulaeman"
+    },
+    {
+      "authorId": "31381402",
+      "name": "A. Heryana"
+    }
+  ],
+  "abstract": "Indonesia as an agricultural country has agricultural lands are quite spacious and most of the people working in this sector. However, agricultural production has not yet fulfilled domestic demand. One effort to increase agricultural production is to apply precision farming method where conducted monitoring and analysis of soil conditions prior to land management activities by using sensor technology. This paper described the development of sensor systems for measuring ion phosphate concentration as the main nutrient. The sensor employs an electrochemical amperometric measurement technique, based conductive polymer as an ion-sensitive membrane through electro-polymerization technique and electrode fabrication using thick film technology. Three configuration electrodes has been used for the sensor and working and auxiliary electrode was made by carbon while the reference electrode fabricated use silver|silver chloride. The ion phosphate sensor was characterized using a standard phosphate solution 10−6 - 10−2 M and produced current about 4 to 41 μA with 98 % linearity, and 150 seconds average of response time. In addition, signal conditioning and data acquisition as electronic circuit system which has support the sensor have been designed and fabricated.",
+  "references": [
+    {
+      "paperId": "66571766d3a7e080401b1a80583ea337e5546882"
+    },
+    {
+      "paperId": "382ae6a622b6acb352dbb4c57082ed5b38f33826"
+    },
+    {
+      "paperId": "e063a068746f1a2b7d0abc6b48628794f1bff12f"
+    },
+    {
+      "paperId": "24b53aa117ff80f00481873e64db485bb1451567"
+    },
+    {
+      "paperId": "2d5d64efc970fe9802c5ec36e7175153e775e8a9"
+    },
+    {
+      "paperId": "8d93a3a3bd2abc5bcc7d0c2d2fe1fe2e8a3ca4c9"
+    },
+    {
+      "paperId": "a098352fc5aa183a3bf3a9eae19f7def1fb46bc0"
+    },
+    {
+      "paperId": "d73304b4c7af98054c6fd1298cce1e885d1f525a"
+    },
+    {
+      "paperId": "98f5c240e5a4207ae6b6fe0f3f60aaf4ccd55d5f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

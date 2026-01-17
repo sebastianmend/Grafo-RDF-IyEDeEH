@@ -1,0 +1,64 @@
+{
+  "paperId": "ee9c82616e76057ef4297d3776d5cb5062e5cab7",
+  "externalIds": {
+    "MAG": "2921649228",
+    "DBLP": "conf/intap/WangHCPCMDZ18",
+    "DOI": "10.1007/978-981-13-6052-7_46",
+    "CorpusId": 134219396
+  },
+  "url": "https://www.semanticscholar.org/paper/ee9c82616e76057ef4297d3776d5cb5062e5cab7",
+  "title": "An Ecological Irrigation Canal Extraction Algorithm Based on Airborne Lidar Point Cloud Data",
+  "venue": "INTAP",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-6052-7_46?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-6052-7_46, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48738267",
+      "name": "Guangqi Wang"
+    },
+    {
+      "authorId": "49721993",
+      "name": "Yu Han"
+    },
+    {
+      "authorId": "2118445799",
+      "name": "Jian Chen"
+    },
+    {
+      "authorId": "2111415786",
+      "name": "Yue Pan"
+    },
+    {
+      "authorId": "70448265",
+      "name": "Yi Cao"
+    },
+    {
+      "authorId": "143748182",
+      "name": "Hao Meng"
+    },
+    {
+      "authorId": "1781359448",
+      "name": "Nannan Du"
+    },
+    {
+      "authorId": "2110767727",
+      "name": "Yongjun Zheng"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

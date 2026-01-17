@@ -1,0 +1,163 @@
+{
+  "paperId": "174a33870d43539e8309ebdf79bd46c4fcc18851",
+  "externalIds": {
+    "MAG": "2976289512",
+    "DBLP": "journals/sensors/BendiabRHEKVB19",
+    "PubMedCentral": "6806293",
+    "DOI": "10.3390/s19194168",
+    "CorpusId": 203580411,
+    "PubMed": "31561415"
+  },
+  "url": "https://www.semanticscholar.org/paper/174a33870d43539e8309ebdf79bd46c4fcc18851",
+  "title": "Coupling Waveguide-Based Micro-Sensors and Spectral Multivariate Analysis to Improve Spray Deposit Characterization in Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/19/4168/pdf?version=1569469575",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6806293, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "95632338",
+      "name": "Anis Taleb Bendiab"
+    },
+    {
+      "authorId": "1395227322",
+      "name": "M. Ryckewaert"
+    },
+    {
+      "authorId": "79893531",
+      "name": "D. Héran"
+    },
+    {
+      "authorId": "9131589",
+      "name": "R. Escalier"
+    },
+    {
+      "authorId": "2319324950",
+      "name": "R. Kribich"
+    },
+    {
+      "authorId": "46502746",
+      "name": "C. Vigreux"
+    },
+    {
+      "authorId": "4311709",
+      "name": "R. Bendoula"
+    }
+  ],
+  "abstract": "The leaf coverage surface is a key measurement of the spraying process to maximize spray efficiency. To determine leaf coverage surface, the development of optical micro-sensors that, coupled with a multivariate spectral analysis, will be able to measure the volume of the droplets deposited on their surface is proposed. Rib optical waveguides based on Ge-Se-Te chalcogenide films were manufactured and their light transmission was studied as a response to the deposition of demineralized water droplets on their surface. The measurements were performed using a dedicated spectrophotometric bench to record the transmission spectra at the output of the waveguides, before (reference) and after drop deposition, in the wavelength range between 1200 and 2000 nm. The presence of a hollow at 1450 nm in the relative transmission spectra has been recorded. This corresponds to the first overtone of the O–H stretching vibration in water. This result tends to show that the optical intensity decrease observed after droplet deposition is partly due to absorption by water of the light energy carried by the guided mode evanescent field. The probe based on Ge-Se-Te rib optical waveguides is thus sensitive throughout the whole range of volumes studied, i.e., from 0.1 to 2.5 μL. Principal Component Analysis and Partial Least Square as multivariate techniques then allowed the analysis of the statistics of the measurements and the predictive character of the transmission spectra. It confirmed the sensitivity of the measurement system to the water absorption, and the predictive model allowed the prediction of droplet volumes on an independent set of measurements, with a correlation of 66.5% and a precision of 0.39 μL.",
+  "references": [
+    {
+      "paperId": "3296707b6dffc4be8d4acba6795fa2933337f811"
+    },
+    {
+      "paperId": "5c2b5970d53111b279c56f64aee4787fd500de5f"
+    },
+    {
+      "paperId": "2cb7d46c799022c11ef5c9bb2b199406234ca984"
+    },
+    {
+      "paperId": "e0c516e8eebe631ca50edab2ebc727d818a59c9b"
+    },
+    {
+      "paperId": "c327b419abf4eb3994e3a0b09a874533a0925052"
+    },
+    {
+      "paperId": "af2ba57e764772ce5920f705bd49f6632ea12f2e"
+    },
+    {
+      "paperId": "f4ac42905bcb8613be65f87d2dc352d61be4f59b"
+    },
+    {
+      "paperId": "8124db2ef61deb0e760a7e9d32756990abafe922"
+    },
+    {
+      "paperId": "11787d9112da2b4f31429dfe9f6b2acd78326b1e"
+    },
+    {
+      "paperId": "586ace16bcd183f1e01c2f3697b37996244ab34b"
+    },
+    {
+      "paperId": "93d377494d43825e86891d35b3c21d1295071010"
+    },
+    {
+      "paperId": "2e8733f31ce260305acb0fb523ba2a254c2ae334"
+    },
+    {
+      "paperId": "4e5f0adbe0fd4a32cf0c73a0ead14f643e6ad84a"
+    },
+    {
+      "paperId": "e2b0185d607960b89a5df4c04e6eaa73e67df8f2"
+    },
+    {
+      "paperId": "f9db6de773aa46e3e58aaf7d032ceb498994f5bb"
+    },
+    {
+      "paperId": "2866b41fafdc07933ed4b4c5a933c48f6d20e3ba"
+    },
+    {
+      "paperId": "bc51c3285488bfa924577f772df918df24eb6ecd"
+    },
+    {
+      "paperId": "0e5dfe1b27ce98f84051b3509807240d7ffd01f8"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "a98923f2613f9304bff525609a04b9b56e8b8644"
+    },
+    {
+      "paperId": "7b587c301f00a3d56166739a0ab9c9cdd74738e6"
+    },
+    {
+      "paperId": "a397933f32a5ffc6b42ddeb19a6638ef27432951"
+    },
+    {
+      "paperId": "2b84d0bfcb6cb11a92762bd53f665727e104504d"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": "ec58c1378032a90b8a446533bf3e807dd750d67c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ff78a7d860440bf54128b7d9521e4a109da7f79f"
+    },
+    {
+      "paperId": "16b48244fa27568e61e3ee8dca4e3e9a6a62a7e9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "90d176aa7c7fb66ad1227be619f99958fa320bcf"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

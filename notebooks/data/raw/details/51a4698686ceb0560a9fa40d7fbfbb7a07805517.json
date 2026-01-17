@@ -1,0 +1,219 @@
+{
+  "paperId": "51a4698686ceb0560a9fa40d7fbfbb7a07805517",
+  "externalIds": {
+    "MAG": "2796913108",
+    "DBLP": "journals/remotesensing/CaminoZG18",
+    "DOI": "10.3390/RS10040604",
+    "CorpusId": 19112817
+  },
+  "url": "https://www.semanticscholar.org/paper/51a4698686ceb0560a9fa40d7fbfbb7a07805517",
+  "title": "Effects of Heterogeneity within Tree Crowns on Airborne-Quantified SIF and the CWSI as Indicators of Water Stress in the Context of Precision Agriculture",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 43,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/4/604/pdf?version=1525348361",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10040604?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10040604, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143801464",
+      "name": "C. Camino"
+    },
+    {
+      "authorId": "1402203033",
+      "name": "P. Zarco-Tejada"
+    },
+    {
+      "authorId": "1398285553",
+      "name": "V. González-Dugo"
+    }
+  ],
+  "abstract": "This research focused on understanding the effects of structural heterogeneity within tree crowns on the airborne retrieval of solar-induced chlorophyll fluorescence (SIF) and the Crop Water Stress Index (CWSI). We explored the SIF and CWSI variability observed within crowns of trees subjected to different water stress regimes and its effect on the relationships with leaf physiological measurements. High-resolution (20 cm) hyperspectral imagery was acquired to assess fluorescence retrieval from sunlit portions of the tree crowns using the Fraunhofer line depth method, and from entire crowns using automatic object-based tree crown detection methods. We also measured the canopy temperature distribution within tree crowns using segmentation algorithms based on temperature percentiles applied to high-resolution (25 cm) thermal imagery. The study was conducted in an almond orchard cultivated under three watering regimes in Cordoba, in southern Spain. Three airborne campaigns took place during the summer of 2015 using high-resolution hyperspectral and thermal cameras on board a manned aircraft. Relationships between SIF and the assimilation rate improved significantly when the sunlit tree crown pixels extracted through segmentation were used for all flight dates. By contrast, the SIF signal extracted from the entire tree crowns was highly degraded due to the canopy heterogeneity observed within tree crowns. The quartile crown segmentations applied to the thermal images showed that the CWSI values obtained were within the theoretically expected CWSI range only when the pixels were extracted from the 50th percentile class. However, the CWSI values were biased in the upper quartile (Q75) for all watering regimes due to the soil background effects on the calculated mean crown temperature. The relationship between the CWSI and Gs was heavily affected by the crown segmentation levels applied and improved remarkably when the CWSI values were calculated from the middle quartile crown segmentation (Q50), corresponding to the coldest and purest vegetation pixels (r2 = 0.78 in pure vegetation pixels vs. r2 = 0.52 with the warmer pixels included in the upper quartile). This study highlights the importance of using high-resolution hyperspectral and thermal imagery for pure-object segmentation extractions from tree crowns in the context of precision agriculture and water stress detection.",
+  "references": [
+    {
+      "paperId": "54e9547f1b763e38bf7edc2c616a0ee4ca33647e"
+    },
+    {
+      "paperId": "9831b2d80e2d3759fc3e6f24f5f1410d5d63bda0"
+    },
+    {
+      "paperId": "36d09dd965d5da64829b82668e585614fef70254"
+    },
+    {
+      "paperId": "05b8b67451fb105576c58af960e6e6d98f9103e7"
+    },
+    {
+      "paperId": "27dc2636871c1b34dc70ae15a9a876c1b0c81acf"
+    },
+    {
+      "paperId": "f0375093e4f8a0577fd8de4abf6b1d1dc8b57b9c"
+    },
+    {
+      "paperId": "29b463cc5c8501f4bfc37495fd20f703b3be1833"
+    },
+    {
+      "paperId": "ffc8b9957be3c1f0ea8da2235d01eca3e908e5d8"
+    },
+    {
+      "paperId": "8b2e2c8c7fae3d22893f8d5ba8706ea831a9eeb3"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "3f1c2a64e76ebea6474ea936f88a757e72e42040"
+    },
+    {
+      "paperId": "4c28a2799b595bdcc2614af6edcf2fc52af6d4b1"
+    },
+    {
+      "paperId": "7a19fcfcfbef7b00a8f8cce4c3c530a01e7cdc1f"
+    },
+    {
+      "paperId": "4e89413a0197106cf000e05af3150b8cf59a24f5"
+    },
+    {
+      "paperId": "b3322ba5f67c5fe8cf0a84f6b2b84f98de4ed3a5"
+    },
+    {
+      "paperId": "9f9b0cd39d5edd9f3125ea927213d34609d6aeed"
+    },
+    {
+      "paperId": "89c5af6c91a59b87f110fc3d0fcfed936a259c11"
+    },
+    {
+      "paperId": "652204e3f099356db0292a10142d5e8e6b78f4e4"
+    },
+    {
+      "paperId": "97efb7aa05cbbf74c048ed1a762ed5e5bf0f5c14"
+    },
+    {
+      "paperId": "49ec3bebb4e41a075194c007eb73f22c0126badc"
+    },
+    {
+      "paperId": "1efb4d18b147bb23380ac224bdebdc8a3d3d1834"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "a605776b37e508a7e70e266d43adf4eb3a1966f9"
+    },
+    {
+      "paperId": "d6a8d861d55f337c79e2a2306f1013a1b08c5b2e"
+    },
+    {
+      "paperId": "1e51a43262addbc5d1a29172004aa602ee080e42"
+    },
+    {
+      "paperId": "cf9dd3e47d1cfd8f8977dbb5b92d1cb8c2058514"
+    },
+    {
+      "paperId": "a7c3647d3396fa63756a721218aeb3331ea55489"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "df67aca4c96032f986a2f2935a840b72ffa8ca10"
+    },
+    {
+      "paperId": "d6d5dd724cd0422a556673f3414de6ab1f71a5bd"
+    },
+    {
+      "paperId": "299166f55aa39f492fd93919525b85432cdfbbf8"
+    },
+    {
+      "paperId": "94c4d9a901fdcd54da94e214568b59aeb4eb9c4c"
+    },
+    {
+      "paperId": "cdd56b9601e3cda4b4595752bb40862c39eff167"
+    },
+    {
+      "paperId": "904c18a06d223e2f76f27757a9760d9a60c1bc56"
+    },
+    {
+      "paperId": "6780810ecb87e9303e0413253ccdc8877c6728dd"
+    },
+    {
+      "paperId": "b4c7e77e5b701718366fca53cdd869c2b7244492"
+    },
+    {
+      "paperId": "bb24299bfd1af6881bc6b0c98fd1e02ed4c47e26"
+    },
+    {
+      "paperId": "479b6e52b20034713fe0f713e0d896b9779cd22d"
+    },
+    {
+      "paperId": "be97923dbcdaf8b1496b637ed156656d8874f552"
+    },
+    {
+      "paperId": "338eb35ac715f9fd028dc18ffce41fed477ab387"
+    },
+    {
+      "paperId": "95c852316dbd9114a8b53c107a17d57036ec0ced"
+    },
+    {
+      "paperId": "ad9f0447e440c866c9b11a518b87ca135bc5aa18"
+    },
+    {
+      "paperId": "cb71efec1111e00c37b14389be2315ad99fcec5c"
+    },
+    {
+      "paperId": "1651b7dd282476b747f1cec79accd80e03f15a1e"
+    },
+    {
+      "paperId": "c466842ed443b67326ca37cf02be76abcab1c6ed"
+    },
+    {
+      "paperId": "ce213c6b736f6ec098f00e94d976a80c2a64122e"
+    },
+    {
+      "paperId": "d231e0d738f8d8084482f2feee06e6a8fb3ddf30"
+    },
+    {
+      "paperId": "040a49fceb64d7457e251579f87b5a766d0f358c"
+    },
+    {
+      "paperId": "c6c61a35a725a62179cd32d885151ff246008eb3"
+    },
+    {
+      "paperId": "a45e4b8b1358dfc27840520f56ba4115c28cfdee"
+    },
+    {
+      "paperId": "93c983a28e6298657ce4f4ca838596d52697af2c"
+    },
+    {
+      "paperId": "e5eee54c59a52908cd106785ca31a0e593fe3024"
+    },
+    {
+      "paperId": "1bd44f7b8e4ca522253b3072a07efd5b18cabf5d"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "f26b6edc32f253d200eb51533bd1f622179e6219"
+    },
+    {
+      "paperId": "be9677a109c9e9992a23e41ad7179e0572961c7b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

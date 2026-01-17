@@ -1,0 +1,62 @@
+{
+  "paperId": "428842247ffce3e778cde0e598d0bb58ab495678",
+  "externalIds": {
+    "MAG": "3010815245",
+    "DOI": "10.1007/978-3-030-39299-4_92",
+    "CorpusId": 216251894
+  },
+  "url": "https://www.semanticscholar.org/paper/428842247ffce3e778cde0e598d0bb58ab495678",
+  "title": "Detection and Monitoring of Alien Weeds Using Unmanned Aerial Vehicle in Agricultural Systems in Sardinia (Italy)",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/bfm:978-3-030-39299-4/1?pdf=chapter%20toc",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-39299-4_92?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-39299-4_92, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1453749453",
+      "name": "V. Lozano"
+    },
+    {
+      "authorId": "7030595",
+      "name": "G. Brundu"
+    },
+    {
+      "authorId": "1899990",
+      "name": "Luca Ghiani"
+    },
+    {
+      "authorId": "91560561",
+      "name": "D. Piccirilli"
+    },
+    {
+      "authorId": "1643976599",
+      "name": "A. Sassu"
+    },
+    {
+      "authorId": "27662042",
+      "name": "M. T. Tiloca"
+    },
+    {
+      "authorId": "4327065",
+      "name": "L. Ledda"
+    },
+    {
+      "authorId": "87707712",
+      "name": "F. Gambella"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

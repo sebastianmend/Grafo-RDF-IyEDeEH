@@ -1,0 +1,26 @@
+{
+  "paperId": "eee4a369b1c109fde6edc1ad1b5f85fb40e3fa91",
+  "externalIds": {
+    "DOI": "10.3390/mol2net-05-06261",
+    "CorpusId": 242975195
+  },
+  "url": "https://www.semanticscholar.org/paper/eee4a369b1c109fde6edc1ad1b5f85fb40e3fa91",
+  "title": "MODEC04-2019, International Workshop on the Natural Products and Agro-Industrial Processes in Ecuadorian Amazon Region",
+  "venue": "Proceedings of MOL2NET 2019, International Conference on Multidisciplinary Sciences, 5th edition",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://sciforum.net/paper/download/6261/manuscript",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/mol2net-05-06261?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/mol2net-05-06261, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [],
+  "abstract": ": Welcome to the MODEC2019 workshop. This is Amazon State University's (UEA) fourth workshop, devoted to the promotion and application of the Multidisciplinary Sciences to the development of natural products and agro-industrial processes in Ecuadorian Amazon regions. This includes the application of Information and Communications Technologies (ICTs) for data analysis and computational model including the fields of Agro-industrial Engineering, Chemistry, Chemical Engineering, Biotechnology, Veterinary Medicine, and/or Environmental Sciences, etc. We invite you to visit the official web of the workshop: https://sciforum.net/conference/mol2net-05/modec-04 This workshop runs online. The online workshop is powered by the SciForum platform of MDPI, hosted by the MOL2NET conference, International Conference on Interdisciplinary Sciences. Please, contact the workshop chairmen for further details. Paper submission is already open and the publication of papers for conference purposes in SciForum platform is free of cost. Publications abstract. Next, be The application of computational chemistry, cheminformatics, and bioinformatics to the discovery of new bioactive compounds within the Ecuadorian Amazon ecosystem which can contribute to the identification of natural agents with drug-like bioactivity that will serve to relieve the symptoms of socially relevant diseases. These findings have the potential to enhance the health, well-being, and quality of life for the native population. This section is devoted to, but not limited to the following fields/subjects of study: description of new bio compounds and data sets, (quantum) similarity measures, similarity/diversity searching, clustering algorithms, QSAR techniques, validation metrics, the discovery of enzyme inhibitors, proteasome, tyrosine, computer-aided molecular design, lead optimization, artificial intelligence and machine learning, multi-target approaches, QSPR, QSAR, QSTR, applied computer sciences, and applied statistics. For the mathematical modeling, papers relating to the use of mathematical tools used to obtain or support the presented results will be shared. These purpose of this research is aimed finding natural products in the Amazonian region of Ecuador linked to agro-industrial processes and the related disciplines such as Chemical Engineering, Biotechnology and environmental processes. The modeling process should strengthen the analysis of the experimental processes in order to describe with adequate precision the processes, phenomena, data, etc. The techniques applied may be statistical or non-statistical consistent with data analysis and computer and communications technologies. The obtained results may be presented in any stage of the model: development, analysis or interpretation. skills and in the application of machine learning algorithms to ligand-based drug discovery. include Evaluation of the agricultural behavior of crops in Amazonian conditions, Crops in Hydroponic Systems and Recovery of degraded soils. This workshop pretends to be a meeting point to exchange information about research processes in the use of biomass for renewable energy production in order to foment the development and application of the research activities in the Amazon region in Ecuador. In this context, the workshop tries to cover all aspects related to the use of biomass as a renewable resource, using agro-forest residues to produce clean biofuels.",
+  "references": []
+}

@@ -1,0 +1,151 @@
+{
+  "paperId": "83b4ea5da6038425887cc5a735d20396e503e2e5",
+  "externalIds": {
+    "MAG": "2945925278",
+    "DBLP": "journals/remotesensing/Fuentes-Pacheco19",
+    "DOI": "10.3390/RS11101157",
+    "CorpusId": 174800853
+  },
+  "url": "https://www.semanticscholar.org/paper/83b4ea5da6038425887cc5a735d20396e503e2e5",
+  "title": "Fig Plant Segmentation from Aerial Images Using a Deep Convolutional Encoder-Decoder Network",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 41,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/10/1157/pdf?version=1558429329",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11101157?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11101157, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1400333449",
+      "name": "Jorge Fuentes-Pacheco"
+    },
+    {
+      "authorId": "1423364341",
+      "name": "Juan Torres-Olivares"
+    },
+    {
+      "authorId": "1398659780",
+      "name": "E. Román-Rangel"
+    },
+    {
+      "authorId": "145613399",
+      "name": "Salvador Cervantes"
+    },
+    {
+      "authorId": "2089175139",
+      "name": "P. Juárez-López"
+    },
+    {
+      "authorId": "2648799",
+      "name": "Jorge Hermosillo Valadez"
+    },
+    {
+      "authorId": "1400333452",
+      "name": "J. M. Rendon-Mancha"
+    }
+  ],
+  "abstract": "Crop segmentation is an important task in Precision Agriculture, where the use of aerial robots with an on-board camera has contributed to the development of new solution alternatives. We address the problem of fig plant segmentation in top-view RGB (Red-Green-Blue) images of a crop grown under open-field difficult circumstances of complex lighting conditions and non-ideal crop maintenance practices defined by local farmers. We present a Convolutional Neural Network (CNN) with an encoder-decoder architecture that classifies each pixel as crop or non-crop using only raw colour images as input. Our approach achieves a mean accuracy of 93.85% despite the complexity of the background and a highly variable visual appearance of the leaves. We make available our CNN code to the research community, as well as the aerial image data set and a hand-made ground truth segmentation with pixel precision to facilitate the comparison among different algorithms.",
+  "references": [
+    {
+      "paperId": "d21902c3adf4444c161f76b15aa704d88e3141c7"
+    },
+    {
+      "paperId": "4abb3db338fb5ced964f92059ddebfeb2d21a532"
+    },
+    {
+      "paperId": "77cec64cdf0581ff4e7b70aa595a4d6e39b70ce4"
+    },
+    {
+      "paperId": "284a9cb0b78c17e60597fe92a3d3cca0d7487c13"
+    },
+    {
+      "paperId": "518a7c79968a56d63a691d42f8378be6c776167e"
+    },
+    {
+      "paperId": "3c3ffeea7253769387f06a055744df8923a9989a"
+    },
+    {
+      "paperId": "a0cfaada6f2291bb83df4e202c4d81ff1695e89b"
+    },
+    {
+      "paperId": "b648d73edd1a533decd22eec2e7722b96746ceae"
+    },
+    {
+      "paperId": "88a0c58dc2d79fc1f191bafebbcb1142791873d9"
+    },
+    {
+      "paperId": "d1265ca1fe5177851270dad76f4118a04ef6c339"
+    },
+    {
+      "paperId": "1221818eab73702a085cdd9d69742da0050ccb04"
+    },
+    {
+      "paperId": "1b5cf59e1ff54a52113e49af517d99bf2ab0fc3b"
+    },
+    {
+      "paperId": "625b47efe463898ff1ad7579a4ae45532aa9aaa1"
+    },
+    {
+      "paperId": "cab372bc3824780cce20d9dd1c22d4df39ed081a"
+    },
+    {
+      "paperId": "df9e26180bc72e1c0adb68c03f7f7dbfe4c1a2d2"
+    },
+    {
+      "paperId": "b0c065cd43aa7280e766b5dcbcc7e26abce59330"
+    },
+    {
+      "paperId": "abb8ab43c337f59e474f84b7909d8a17638171f8"
+    },
+    {
+      "paperId": "5691bdc7aa8ef348e8486fe1e24c745c65706128"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0"
+    },
+    {
+      "paperId": "58a09b1351ddb447e6abdede7233a4794d538155"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "310af9f255c121b19d31cd2fd8afc19483b8a48a"
+    },
+    {
+      "paperId": "bce193a5684a70f3c35f8e2b9a111c11f5a5a076"
+    },
+    {
+      "paperId": "44119ee207d59a9389e6d0b0ca4fabf1041544cc"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "2f2344fdc5445563c83337e874f35d0423790f7e"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b70e05b680b7f7523a443cf8e6f84a190573cc80"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    }
+  ]
+}

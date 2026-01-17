@@ -1,0 +1,76 @@
+{
+  "paperId": "d7045f11c611848ae1e2a2eeae37794d265b295a",
+  "externalIds": {
+    "MAG": "2793171944",
+    "DOI": "10.17221/4882-RAE",
+    "CorpusId": 169394452
+  },
+  "url": "https://www.semanticscholar.org/paper/d7045f11c611848ae1e2a2eeae37794d265b295a",
+  "title": "Influence of factors on the maize-grain mechanized technology net margin",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.agriculturejournals.cz/publicFiles/57193.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17221/4882-RAE?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17221/4882-RAE, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "89741699",
+      "name": "B. Havrland"
+    },
+    {
+      "authorId": "70441179",
+      "name": "M. Kavka"
+    },
+    {
+      "authorId": "2071081084",
+      "name": "M. Růžička"
+    }
+  ],
+  "abstract": "a tendency to reduce number of operations by their association carries technical, environmental as well as economic aspects. Technical and environmental features are apparent and can be described with couple of quite logic positive effects and consequences. It is rather difficult to exactly identify economic proceeds that must especially be seen in producer’s final perception (net margin). Methodology of net margin calculation is complicated and sometimes not fully transparent. A new (proper) methodological approach has been conceived in the concept of ATMP (Agricultural Technology Management Program). The Program is meant to provide the art of work to the extension worker in formulating sound and exact technological advice based upon both the availability of technological information (particularly on machinery sets and agronomic requirements) and rapid economic (costs) calculations. The program demonstrates an attempt to put into practice the concept of “precision technology” based on precision machinery inputs, which reduces machinery input costs. Preceding field survey carried out in August–September 2003 supplied basic data for technologies design and economic calculations. Five different mechanized technologies were conceived as provided with various operations and inputs: (1) classic mechanized technology composed of all necessary soil preparation, seeding, cultivation and harvesting operations; (2) direct sowing as a form of the minimum tillage (no soil preparation operations); (3) classic mechanized technology with farmyard fertilizing, (4) classical mechanized technology with combined cultivation operations; (5) classical mechanized technology with green manure. All technologies have been designed using Czech currency. The economic appropriateness of the respective technologies has been judged according to the main parameters of the crop budget that were selected for export to the comparison table. The parameters included in the comparison table were displayed in chart form. This enabled a better comparison of different parameters of the technologies. The main economic indicators that have been considered are the gross and net margins and own market price per ton of the product.",
+  "references": [
+    {
+      "paperId": "75c0cd3633aa530028baba93b2decc32d718ebda"
+    },
+    {
+      "paperId": "80069acf98455e005c9260ff93c15326d5158e85"
+    },
+    {
+      "paperId": "066caaea987368c4d4fc7576bf1f49276508ab0e"
+    },
+    {
+      "paperId": "6d4428e2ae905e952ff13e4f050b9dc56ddc56e8"
+    },
+    {
+      "paperId": "9791165927639195bb746485b16011280deffb0f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

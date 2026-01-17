@@ -1,0 +1,40 @@
+{
+  "paperId": "e701f5a47c4b97e03035fcc5ea5a25acc4e8c681",
+  "externalIds": {
+    "MAG": "2951292079",
+    "DBLP": "conf/kmo/JimenezC19",
+    "DOI": "10.1007/978-3-030-21451-7_31",
+    "CorpusId": 186206326
+  },
+  "url": "https://www.semanticscholar.org/paper/e701f5a47c4b97e03035fcc5ea5a25acc4e8c681",
+  "title": "Design of an Identification System for Crop Monitoring as First Step to Implementing Precision Agriculture Technology: The Case of African Palm",
+  "venue": "International Conference on Knowledge Management in Organizations",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-21451-7_31?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-21451-7_31, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144284376",
+      "name": "J. C. Jimenez"
+    },
+    {
+      "authorId": "65753984",
+      "name": "Katherine Andrea Cuartas Castro"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

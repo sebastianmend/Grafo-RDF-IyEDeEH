@@ -1,0 +1,38 @@
+{
+  "paperId": "76e5e71d12034c8c6ee208c09d0854f16fe55c1d",
+  "externalIds": {
+    "MAG": "2921089393",
+    "DOI": "10.1109/ICCONS.2018.8662936",
+    "CorpusId": 77384211
+  },
+  "url": "https://www.semanticscholar.org/paper/76e5e71d12034c8c6ee208c09d0854f16fe55c1d",
+  "title": "Precision Agriculture in Maize Fields",
+  "venue": "International Conference Intelligent Computing and Control Systems",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCONS.2018.8662936?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCONS.2018.8662936, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2057115357",
+      "name": "K. Aparna"
+    },
+    {
+      "authorId": "144885217",
+      "name": "P. Supriya"
+    }
+  ],
+  "abstract": "Managing the agricultural sector by exploiting technology facilitates the productivity as well as diminishes unintended wastages and manual inaccuracies. In this paper, algorithms for detection of weeds, pest and disease affected leaves in a maize field are presented. Shape and size analysis techniques are used for weed detection while thresholding methods are used for pest and disease affected leaves detection. The algorithms can be used in systems to enable automated precision agriculture in maize fields.",
+  "references": null
+}

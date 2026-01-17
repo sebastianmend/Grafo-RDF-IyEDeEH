@@ -1,0 +1,48 @@
+{
+  "paperId": "b44312dae11316a27beeeb14db3dc1e61559c022",
+  "externalIds": {
+    "DBLP": "conf/uemcom/FarukZLL19",
+    "MAG": "3006438892",
+    "DOI": "10.1109/UEMCON47517.2019.8993104",
+    "CorpusId": 211209090
+  },
+  "url": "https://www.semanticscholar.org/paper/b44312dae11316a27beeeb14db3dc1e61559c022",
+  "title": "Smart Phone Based Mobile Code Dissemination for Heterogeneous Wireless Sensor Networks",
+  "venue": "Ubiquitous Computing, Electronics & Mobile Communication Conference",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://scholarworks.indianapolis.iu.edu/bitstreams/1d4b2ad2-5318-4c09-9c84-946e3ba06a60/download",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/UEMCON47517.2019.8993104?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/UEMCON47517.2019.8993104, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "73660202",
+      "name": "Omor Faruk"
+    },
+    {
+      "authorId": "1783948",
+      "name": "Xiaoyang Zhong"
+    },
+    {
+      "authorId": "1755893",
+      "name": "Yao Liang"
+    },
+    {
+      "authorId": "2110912756",
+      "name": "Xu Liang"
+    }
+  ],
+  "abstract": "Low-power Wireless Sensor Networks (WSNs) are being widely used in various outdoor applications including environmental monitoring, precision agriculture, and smart cities. WSN is a distributed network of sensor devices where the software running on the sensor devices defines how the devices should operate. In real-world WSN deployments, sensor node's software update is required to fix bugs and maintain optimal operation. In this paper, we present a novel mobile code dissemination tool based on smart phone running on Android Operating System for heterogeneous WSN reprogramming. Our implementation builds upon Mobile Deluge with new enhancements and more convenient mobile code dissemination tool in practice. We have evaluated our application performance on Android platform, and validated our mobile tool with a real-world outdoor low-power heterogeneous WSN deployment, demonstrating its practical merit.",
+  "references": null
+}

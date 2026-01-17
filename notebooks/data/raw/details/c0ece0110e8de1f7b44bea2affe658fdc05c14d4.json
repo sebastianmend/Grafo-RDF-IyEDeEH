@@ -1,0 +1,86 @@
+{
+  "paperId": "c0ece0110e8de1f7b44bea2affe658fdc05c14d4",
+  "externalIds": {
+    "MAG": "2969221743",
+    "DOI": "10.1088/1755-1315/315/3/032023",
+    "CorpusId": 202179526
+  },
+  "url": "https://www.semanticscholar.org/paper/c0ece0110e8de1f7b44bea2affe658fdc05c14d4",
+  "title": "Estimation of the spatial distribution of spring barley yield using ground-based and satellite spectrophotometric data",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/315/3/032023",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/315/3/032023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/315/3/032023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "11621857",
+      "name": "A. Shevyrnogov"
+    },
+    {
+      "authorId": "2130457941",
+      "name": "I. Yu Botvich"
+    },
+    {
+      "authorId": "2255179350",
+      "name": "D V Yemelianov"
+    },
+    {
+      "authorId": "21606192",
+      "name": "A. A. Larko"
+    },
+    {
+      "authorId": "2255179477",
+      "name": "V K Ivchenko"
+    },
+    {
+      "authorId": "2255179247",
+      "name": "T N Demianenko"
+    }
+  ],
+  "abstract": "The article presents a method for estimating the spatial distribution of spring barley yield, based on the use of optical ground and satellite spectral data (PlanetScope data with a spatial resolution of 3 meters). This approach is highly relevant for the development of precision agriculture technologies. Yield mapping is carried out on the basis of data on the spatial distribution of the actual yield and the spatial distribution of the spectral optical characteristics. The method’s characteristic feature is the use of the integral values of vegetation indices (NDVI, MSAVI2, ClGreen) at various stages of crop development. The method was tested on the basis of stationary field experience, where traditional agriculture (deep plowing) is compared with resource-saving technologies (subsurface and surface plowing, and direct seeding with zero tillage).",
+  "references": [
+    {
+      "paperId": "ad111bed204493772fa1e19f35c7bf080bb53a28"
+    },
+    {
+      "paperId": "f976722c0f800c00aeac9fe7d22ceaf29ad173a8"
+    },
+    {
+      "paperId": "11084079ac17e3e2654e9ced7dfe222c1ccf9700"
+    },
+    {
+      "paperId": "939c99e00bef5f9b10f2c4f5c726a17f710e7f85"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

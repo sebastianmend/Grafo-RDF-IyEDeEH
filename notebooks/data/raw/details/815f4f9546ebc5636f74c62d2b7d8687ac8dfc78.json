@@ -1,0 +1,134 @@
+{
+  "paperId": "815f4f9546ebc5636f74c62d2b7d8687ac8dfc78",
+  "externalIds": {
+    "MAG": "2943561186",
+    "DBLP": "journals/access/HorstrandGRDLL19",
+    "DOI": "10.1109/ACCESS.2019.2913957",
+    "CorpusId": 155516212
+  },
+  "url": "https://www.semanticscholar.org/paper/815f4f9546ebc5636f74c62d2b7d8687ac8dfc78",
+  "title": "A UAV Platform Based on a Hyperspectral Sensor for Image Capturing and On-Board Processing",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 67,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08701689.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2913957?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2913957, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2688374",
+      "name": "Pablo Horstrand"
+    },
+    {
+      "authorId": "38131459",
+      "name": "Raúl Guerra"
+    },
+    {
+      "authorId": "153719613",
+      "name": "A. Rodríguez"
+    },
+    {
+      "authorId": "104149124",
+      "name": "María Díaz"
+    },
+    {
+      "authorId": "144705450",
+      "name": "S. López"
+    },
+    {
+      "authorId": "151055021",
+      "name": "José F. López"
+    }
+  ],
+  "abstract": "Application-oriented solutions based on the combination of different technologies such as unmanned aerial vehicles (UAVs), advanced sensors, precise GPS, and embedded devices have led to important improvements in the field of cyber-physical systems. Agriculture, due to its economic and social impact on the global population, arises as a potential domain which could enormously benefit from this paradigm in terms of savings in time, resources and human labor, not to mention aspects related to sustainability and environment respect. This has led to a new revolution named precision agriculture (or precision farming), based on observing and measuring inter and intra-field variability in crops. A key technology in this scenario is the use of hyperspectral imaging, firstly used in satellites and later in manned aircraft, composed by hundreds of spectral bands which facilitate hidden data to be converted into useful information. In this paper, a hyperspectral flying platform is presented and the construction of the whole system is detailed. The proposed solution is based on a commercial DJI Matrice 600 drone and a Specim FX10 hyperspectral camera. The challenge in this work has been to adopt this latter device, mainly conceived for industrial applications, into a flying platform in which weight, power budget, and connectivity are paramount. Additionally, an embedded board with advanced processing capabilities has been mounted on the drone in order to control its trajectory, manage the data acquisition, and allow on-board processing, such as the evaluation of different vegetation indices (the normalized difference vegetation index, NDVI, the modified chlorophyll absorption ratio index, MCARI, and the modified soil-adjusted vegetation index, MSAVI), which are numerical and/or graphical indicators of the vegetation properties and compression, which is of crucial relevance due to the huge amounts of data captured. The whole system was successfully tested in a real scenario located on the island of Gran Canaria, Spain, where a vineyard area was inspected between May and August of the year 2018.",
+  "references": [
+    {
+      "paperId": "7315b49c18d0a96f21e44c6052ea4a3c94007ded"
+    },
+    {
+      "paperId": "33043db19af77178614bfbe10e6fc1921116154b"
+    },
+    {
+      "paperId": "c5e088609eb7d32e2a6323f5ce258faec33c3bc5"
+    },
+    {
+      "paperId": "58552169c202f5964ba71b7a4afa4a5257a93e67"
+    },
+    {
+      "paperId": "a80b169a86da15040d41033368a07ab052f4315d"
+    },
+    {
+      "paperId": "d35ed1fcab47cf98101dc745c42d3b51dace25eb"
+    },
+    {
+      "paperId": "e9f9a931f1e33fa8b43e4cd4f93b682f09e79215"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "f923420cfd2b7a46607fe8da4d102cb712f21dbb"
+    },
+    {
+      "paperId": "7e3e3a4437571a5aebce2f38610e1071375f23b4"
+    },
+    {
+      "paperId": "65c166bab73e0edb8ffcbdbdc907338aa48cac1a"
+    },
+    {
+      "paperId": "46edaed7e080f2c4949180dc3a8338926e30e403"
+    },
+    {
+      "paperId": "ef0582b77feb3fbbccd4d7cbd14ec777f122892d"
+    },
+    {
+      "paperId": "2194ae5e2d57f78f0a196954b541b1738cc33a6f"
+    },
+    {
+      "paperId": "3b350fb33ab840918c87d8383e67a6c6864a1176"
+    },
+    {
+      "paperId": "b830ba166a6c56706ae6299792f0894e4f36ca12"
+    },
+    {
+      "paperId": "645dcd6b6dcae3d29f7f27d3973fcefa975e74b8"
+    },
+    {
+      "paperId": "4ebfa2e30a7b5195abe4c458dd7f8033bbdbe9fe"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "b4ce29879474ffcf0a44f712c0ccca12b4401f0b"
+    },
+    {
+      "paperId": "d8a3681f4eb1730ddc22c8f22ca44ef80c647d8a"
+    },
+    {
+      "paperId": "a73e1909e58568a2974415571fdd9ab27c54a11c"
+    },
+    {
+      "paperId": "c3a30c40d304a7a312942c0c243f5033b8c3fd3f"
+    },
+    {
+      "paperId": "9384a55e8e17376077393f44930f163de0adf04f"
+    },
+    {
+      "paperId": "c223840dfe3f41ccc9320222815312eca854aabc"
+    }
+  ]
+}

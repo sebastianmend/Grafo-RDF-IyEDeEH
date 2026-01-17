@@ -1,0 +1,38 @@
+{
+  "paperId": "ab85a921ca82b7d091898b0f4d0cfe023913c351",
+  "externalIds": {
+    "MAG": "3039101010",
+    "DOI": "10.1109/ICCUBEA47591.2019.9129579",
+    "CorpusId": 220313390
+  },
+  "url": "https://www.semanticscholar.org/paper/ab85a921ca82b7d091898b0f4d0cfe023913c351",
+  "title": "Prediction Of Soil Accuracy Using Data Mining Techniques",
+  "venue": "International Conference on Computing Communication Control and automation",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCUBEA47591.2019.9129579?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCUBEA47591.2019.9129579, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1789872120",
+      "name": "Deone Jyoti Bhanudas"
+    },
+    {
+      "authorId": "1789915632",
+      "name": "Khan Rahat Afreen"
+    }
+  ],
+  "abstract": "This paper gives ideas for today's agriculture problem and provides the efficient optimization methods and effective crop planning with the utilization of minimum resources. Total growth of the nation is depended on the agronomy and agronomy is depended on the soil and water. In this paper we provide the idea of different irrigation technique through this you can utilize minimum water and increase maximum yield. Also, the farmer not aware about diverse guidelines and policy provided by the government. In this study we overlook on farmer's choice of crops, irrigation facilities and type of soil. The most important job of this paper is to calculate the soil precision with the help of different Data mining classification algorithm such as JRip and Naive Bayes. In this paper we consider two type of soil Red and Black depending on this type of soil we examine the accuracy then we found JRip classification technique gives more accuracy as compared to naïve Bayes.",
+  "references": null
+}

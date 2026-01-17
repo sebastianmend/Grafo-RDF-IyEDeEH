@@ -1,0 +1,55 @@
+{
+  "paperId": "d81dc112dfc8bd45c63d8bb2c49569f428a310e2",
+  "externalIds": {
+    "MAG": "2794848438",
+    "DOI": "10.1089/omi.2018.0012",
+    "CorpusId": 4881925,
+    "PubMed": "29584542"
+  },
+  "url": "https://www.semanticscholar.org/paper/d81dc112dfc8bd45c63d8bb2c49569f428a310e2",
+  "title": "Toward Decentralized Agrigenomic Surveillance? A Polymerase Chain Reaction–Restriction Fragment Length Polymorphism Approach for Adaptable and Rapid Detection of User-Defined Fungal Pathogens in Potato Crops",
+  "venue": "Omics",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1089/omi.2018.0012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/omi.2018.0012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47490088",
+      "name": "M. Kambouris"
+    },
+    {
+      "authorId": "16010216",
+      "name": "Y. Manoussopoulos"
+    },
+    {
+      "authorId": "10355121",
+      "name": "S. Kritikou"
+    },
+    {
+      "authorId": "40813671",
+      "name": "Aphroditi Milioni"
+    },
+    {
+      "authorId": "2337434199",
+      "name": "Spyridon Mantzoukas"
+    },
+    {
+      "authorId": "6323511",
+      "name": "A. Velegraki"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

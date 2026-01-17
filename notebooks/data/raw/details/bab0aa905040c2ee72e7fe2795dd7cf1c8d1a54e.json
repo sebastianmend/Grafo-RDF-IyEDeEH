@@ -15,7 +15,7 @@
     "url": "https://academic.oup.com/condor/article-pdf/113/4/843/26966765/condor0843.pdf",
     "status": "CLOSED",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1525/cond.2011.090152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1525/cond.2011.090152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1525/cond.2011.090152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1525/cond.2011.090152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Geography"

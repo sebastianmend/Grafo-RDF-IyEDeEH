@@ -1,0 +1,39 @@
+{
+  "paperId": "0e30af1c9c4391467b71c71e33e99004bd1e0401",
+  "externalIds": {
+    "MAG": "2921199990",
+    "DBLP": "journals/jirs/BassoF20",
+    "DOI": "10.1007/s10846-019-01006-0",
+    "CorpusId": 115378453
+  },
+  "url": "https://www.semanticscholar.org/paper/0e30af1c9c4391467b71c71e33e99004bd1e0401",
+  "title": "A UAV Guidance System Using Crop Row Detection and Line Follower Algorithms",
+  "venue": "Journal of Intelligent and Robotic Systems",
+  "year": 2019,
+  "citationCount": 68,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10846-019-01006-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10846-019-01006-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "81406187",
+      "name": "Maik Basso"
+    },
+    {
+      "authorId": "2703260",
+      "name": "Edison Pignaton de Freitas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

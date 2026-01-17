@@ -1,0 +1,91 @@
+{
+  "paperId": "51dcb42397116b19c1251236b1248bf5845f672e",
+  "externalIds": {
+    "MAG": "2951856563",
+    "DOI": "10.1088/1757-899X/537/3/032038",
+    "CorpusId": 197575985
+  },
+  "url": "https://www.semanticscholar.org/paper/51dcb42397116b19c1251236b1248bf5845f672e",
+  "title": "Technology of differentiated application nitrogen fertilizers according to the map of steady intra -field heterogeneity of soil fertility",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/537/3/032038",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/537/3/032038?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/537/3/032038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "107945115",
+      "name": "S. Semizorov"
+    },
+    {
+      "authorId": "152152685",
+      "name": "D. Petukhov"
+    }
+  ],
+  "abstract": "The article presents the results of studies of precision farming technology in the experimental field of the validation landfill. It allows assessing the fertility zones and differentially affecting the identified field soil heterogeneity in order to increase the yield of winter wheat. A description of the “Agronavigator-Asur-Dozator” navigation system is given. The system allows a given dose of fertilisation depending on the working speed of the machine and its location in the field. It also provides parallel driving of agricultural machinery with different accuracy of determining the coordinates and automatic control of making granular mineral fertilizers. An original scheme of experiments on the differentiated winter wheat subcortex by the square-nesting method with an interval of 50 kg on a regular network with a step of 80 × 90 m and determination of yield with GPS reference using the specialized software of the Agronomist is given. The effectiveness of mineral fertilizers in different areas of the map of the steady intra-field heterogeneity of soil fertility of the land cover is substantiated and the economic efficiency of differential fertilizer application is calculated.",
+  "references": [
+    {
+      "paperId": "c091fdd155a5322b60d6a2a94aba83394206d676"
+    },
+    {
+      "paperId": "66ea4415457eb8d71518b98b10dd5c100995a95e"
+    },
+    {
+      "paperId": "665350740e244a78153c0968b9a3703316bc8374"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

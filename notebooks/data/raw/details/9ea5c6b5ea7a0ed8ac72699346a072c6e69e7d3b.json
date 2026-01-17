@@ -1,0 +1,48 @@
+{
+  "paperId": "9ea5c6b5ea7a0ed8ac72699346a072c6e69e7d3b",
+  "externalIds": {
+    "MAG": "2997537090",
+    "DBLP": "conf/iotsms/DahaneBMB19",
+    "DOI": "10.1109/iotsms48152.2019.8939170",
+    "CorpusId": 209457244
+  },
+  "url": "https://www.semanticscholar.org/paper/9ea5c6b5ea7a0ed8ac72699346a072c6e69e7d3b",
+  "title": "Automated Irrigation Management Platform using a Wireless Sensor Network",
+  "venue": "International Conference on Internet of Things: Systems, Management and Security",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iotsms48152.2019.8939170?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iotsms48152.2019.8939170, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2170058",
+      "name": "Amine Dahane"
+    },
+    {
+      "authorId": "1729935",
+      "name": "Kechar Bouabdellah"
+    },
+    {
+      "authorId": "123333363",
+      "name": "Y. Meddah"
+    },
+    {
+      "authorId": "1471441826",
+      "name": "O. Benabdellah"
+    }
+  ],
+  "abstract": "Agricultural sector is one of the trademarks of Algeria’s economy. Agriculture plays a vital role in the development of the country. But in today’s world, agricultural areas are getting reduced due to laziness of mankind in irrigation. But due to population growth and overexploitation, the demand for water is exceeding supply. An algorithm was developed with threshold values of temperature and soil moisture (Rawls and Turq formulas) that was programmed into a microcontroller-based gateway to control water quantity. In this paper, we implement a platform for precision agriculture which allows to collect fundamental physical phenomena (the moisture of the soil, air temperature, humidity, water level, water flow, luminous intensity) required for the precision agriculture, which will be treated to calculate the need for water needed for optimal irrigation. Our platform consists of a sensor/actuator node, a desktop application and a gateway switches relay which controls water pump according to the requirement. Our system is a good starting point for a smart irrigator. Arduino (open source) is used in the design of the prototype model in making the system compact and sustainable.",
+  "references": null
+}

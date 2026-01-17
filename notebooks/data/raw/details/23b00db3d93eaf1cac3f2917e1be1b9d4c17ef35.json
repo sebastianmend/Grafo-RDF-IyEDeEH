@@ -1,0 +1,62 @@
+{
+  "paperId": "23b00db3d93eaf1cac3f2917e1be1b9d4c17ef35",
+  "externalIds": {
+    "MAG": "2926913437",
+    "DOI": "10.1109/JEC-ECC.2018.8679571",
+    "CorpusId": 96432106
+  },
+  "url": "https://www.semanticscholar.org/paper/23b00db3d93eaf1cac3f2917e1be1b9d4c17ef35",
+  "title": "PLANTAE: An IoT-Based Predictive Platform for Precision Agriculture",
+  "venue": "2018 International Japan-Africa Conference on Electronics, Communications and Computations (JAC-ECC)",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JEC-ECC.2018.8679571?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JEC-ECC.2018.8679571, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "144159094",
+      "name": "M. Hossam"
+    },
+    {
+      "authorId": "2128588822",
+      "name": "Mohamed Kamal"
+    },
+    {
+      "authorId": "91944620",
+      "name": "M. Moawad"
+    },
+    {
+      "authorId": "49533975",
+      "name": "Mohamed Maher"
+    },
+    {
+      "authorId": "2057821935",
+      "name": "Mohamed Salah"
+    },
+    {
+      "authorId": "92417594",
+      "name": "Youssef Abady"
+    },
+    {
+      "authorId": "2058582553",
+      "name": "A. Hesham"
+    },
+    {
+      "authorId": "143799905",
+      "name": "Ahmed K. F. Khattab"
+    }
+  ],
+  "abstract": "This paper presents an Internet of Things (IoT) predictive platform for precision agriculture. The proposed platform aims to improve the productivity of crops through auto-controlling the plantation environment at low cost. Furthermore, the platform uses machine learning to predict plant diseases by implementing deep learning algorithms that extract hidden knowledge from the leaves' images to produce a model to achieve the highest possible accuracy of diseases classification. The platform consists of three layers. The first layer collects the needed information and applies the required actions. The second layer provides connectivity to the Internet. The last layer stores data, analyzes it, and makes it accessible to authorized users.",
+  "references": null
+}

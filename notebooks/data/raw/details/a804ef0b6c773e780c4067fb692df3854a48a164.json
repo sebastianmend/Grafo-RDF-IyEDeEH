@@ -1,0 +1,55 @@
+{
+  "paperId": "a804ef0b6c773e780c4067fb692df3854a48a164",
+  "externalIds": {
+    "DBLP": "conf/icira/GuZSWGL19",
+    "MAG": "2966866447",
+    "DOI": "10.1007/978-3-030-27532-7_30",
+    "CorpusId": 199379531
+  },
+  "url": "https://www.semanticscholar.org/paper/a804ef0b6c773e780c4067fb692df3854a48a164",
+  "title": "3D Scanning and Multiple Point Cloud Registration with Active View Complementation for Panoramically Imaging Large-Scale Plants",
+  "venue": "International Conference on Intelligent Robotics and Applications",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-27532-7_30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-27532-7_30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "151397390",
+      "name": "Dajing Gu"
+    },
+    {
+      "authorId": "2113842731",
+      "name": "K. Zhu"
+    },
+    {
+      "authorId": "151360351",
+      "name": "Yuechen Shao"
+    },
+    {
+      "authorId": "39533001",
+      "name": "Wei Wu"
+    },
+    {
+      "authorId": "144513168",
+      "name": "Liang Gong"
+    },
+    {
+      "authorId": "1699591",
+      "name": "Chengliang Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

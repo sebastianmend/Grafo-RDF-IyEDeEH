@@ -1,0 +1,50 @@
+{
+  "paperId": "5e9a61599fee2769eae09b5370f23c61c376f4d7",
+  "externalIds": {
+    "MAG": "2772534622",
+    "DOI": "10.1002/esp.4319",
+    "CorpusId": 67831211
+  },
+  "url": "https://www.semanticscholar.org/paper/5e9a61599fee2769eae09b5370f23c61c376f4d7",
+  "title": "Fluvial system dynamics derived from distributed sediment budgets: perspectives from an uncertainty‐bounded application",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://researchportal.port.ac.uk/files/8406476/Fluvial_system_dunamics_derived.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/esp.4319?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/esp.4319, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "33802033",
+      "name": "P. Downs"
+    },
+    {
+      "authorId": "13914444",
+      "name": "Scott R. Dusterhoff"
+    },
+    {
+      "authorId": "33787392",
+      "name": "G. Leverich"
+    },
+    {
+      "authorId": "2026325",
+      "name": "P. Soar"
+    },
+    {
+      "authorId": "2159903200",
+      "name": "Michael B. Napolitano"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

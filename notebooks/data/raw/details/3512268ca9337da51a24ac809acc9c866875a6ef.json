@@ -1,0 +1,38 @@
+{
+  "paperId": "3512268ca9337da51a24ac809acc9c866875a6ef",
+  "externalIds": {
+    "MAG": "3021342400",
+    "DOI": "10.1109/DASC43569.2019.9081640",
+    "CorpusId": 218473104
+  },
+  "url": "https://www.semanticscholar.org/paper/3512268ca9337da51a24ac809acc9c866875a6ef",
+  "title": "Variable-power ADS-B for UAS",
+  "venue": "Symposium on Dependable Autonomic and Secure Computing",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DASC43569.2019.9081640?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DASC43569.2019.9081640, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1664653590",
+      "name": "Brendan Duffy"
+    },
+    {
+      "authorId": "16053681",
+      "name": "L. Glaab"
+    }
+  ],
+  "abstract": "Small unmanned aerial systems (sUAS) have the potential for a large array of highly-beneficial applications. These applications include search and rescue, fire spotting, precision agriculture, etc. just to name a few. Typically sUAS vehicles weigh less than 55 lbs and will be performing flight operations in the National Air Space (NAS). Certain sUAS applications, such as package delivery, will include operations in the close proximity of the general public. Operations of sUAS vehicles pose risks to people and property on the ground as well as to manned aviation. The full benefit from sUAS is contingent upon the resolution of several technological areas in order to provide an acceptable level of risk for widespread sUAS operations. One significant technological area currently precluding widespread sUAS operations in the NAS is the ability to prevent sUAS from colliding with other sUAS and/or manned aircraft. Autonomous sense and avoid (ASAA) can provide sUAS the capability to maneuver around other vehicles, but is contingent upon adequate knowledge of traffic aircraft position. Automatic Dependent Surveillance Broadcast (ADS-B), already employed for manned aircraft, can be an excellent method of providing adequate air traffic position information. However, the large number of anticipated sUAS would be expected to completely saturate the ADS-B system, degrading existing ADS-B applications. One promising method of cooperative traffic position communication for sUAS is through reduced-power ADS-B. Reduced power output would greatly reduce the effect each vehicle has on the overall ADS-B system. The over-arching objective of the current effort was to determine if a transmit power level could be defined that would enable effective ASAA for sUAS while still providing useful alerts to manned aircraft without risking oversaturation of the ADS-B spectrum. Flight testing was performed for several ADS-B power levels. ADS-B communication from sUAS to sUAS and sUAS to manned aircraft were evaluated to ascertain the efficacy of this approach.",
+  "references": null
+}

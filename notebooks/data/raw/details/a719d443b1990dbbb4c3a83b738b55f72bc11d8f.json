@@ -1,0 +1,347 @@
+{
+  "paperId": "a719d443b1990dbbb4c3a83b738b55f72bc11d8f",
+  "externalIds": {
+    "MAG": "2910378558",
+    "DOI": "10.15302/J-FASE-2018240",
+    "CorpusId": 92171580
+  },
+  "url": "https://www.semanticscholar.org/paper/a719d443b1990dbbb4c3a83b738b55f72bc11d8f",
+  "title": "A comparative review of the state and advancement of Site-Specific Crop Management in the UK and China",
+  "venue": "Frontiers of Agricultural Science and Engineering",
+  "year": 2019,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.15302/j-fase-2018240",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15302/J-FASE-2018240?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15302/J-FASE-2018240, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2109640933",
+      "name": "Zhenhong Li"
+    },
+    {
+      "authorId": "143642265",
+      "name": "J. Taylor"
+    },
+    {
+      "authorId": "3251978",
+      "name": "L. Frewer"
+    },
+    {
+      "authorId": "143611766",
+      "name": "Chunjiang Zhao"
+    },
+    {
+      "authorId": "34831475",
+      "name": "Guijun Yang"
+    },
+    {
+      "authorId": "2109641643",
+      "name": "Zhenhua Li"
+    },
+    {
+      "authorId": "2109015464",
+      "name": "Zhigang Liu"
+    },
+    {
+      "authorId": "8596064",
+      "name": "R. Gaulton"
+    },
+    {
+      "authorId": "51142468",
+      "name": "Daniel Wicks"
+    },
+    {
+      "authorId": "47947121",
+      "name": "H. Mortimer"
+    },
+    {
+      "authorId": "2149477567",
+      "name": "Xiao Cheng"
+    },
+    {
+      "authorId": "2786525",
+      "name": "Chaoqing Yu"
+    },
+    {
+      "authorId": "2118547961",
+      "name": "Zhanyi Sun"
+    }
+  ],
+  "abstract": "Precision agriculture, and more specifically Site-Specific Crop Management (SSCM), has been implemented in some form across nearly all agricultural production systems over the past 25 years. Adoption has been greatest in developed agricultural countries. In this review article, the current situation of SSCM adoption and application is investigated from the perspective of a developed (UK) and developing (China) agricultural economy. The current state-of-the art is reviewed with an emphasis on developments in position system technology and satellite-based remote sensing. This is augmented with observations on the differences between the use of SSCM technologies and methodologies in the UK and China and discussion of the opportunities for (and limitations to) increasing SSCM adoption in developing agricultural economies. A particular emphasis is given to the role of socio-demographic factors and the application of responsible research and innovation (RRI) in translating agritechnologies into China and other developing agricultural economies. Several key research and development areas are identified that need to be addressed to facilitate the delivery of SSCM as a holistic service into areas with low precision agriculture (PA) adoption. This has implications for developed as well as developing agricultural economies.",
+  "references": [
+    {
+      "paperId": "f742ba5d501b4568d8b2f3f127460ee8adb6bb4e"
+    },
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "66fa3de81309233c3ebae0fe29a2b5c1992fa1d8"
+    },
+    {
+      "paperId": "3b048dc4349f6fac23ab1729986569faa061a43f"
+    },
+    {
+      "paperId": "207ebe3891a97919bd9a4f5746068e28a1987cf9"
+    },
+    {
+      "paperId": "e2d248c3b85b071010c92d1827a08aca414cbfab"
+    },
+    {
+      "paperId": "bd21e6d064e7f0947648bc9a710de7557fcc431a"
+    },
+    {
+      "paperId": "6f85980a1c065adb71f3e6a30d21ea168de9b796"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "5d3a173abcbe829a839a66fa8fbf2358bbeda527"
+    },
+    {
+      "paperId": "5565d780aa60e7dfa58b95c154a5737886040943"
+    },
+    {
+      "paperId": "525aff2802c496ca1380afa9cdb95dc75286c9a8"
+    },
+    {
+      "paperId": "19ceab9f0558c4b60526240aa3771d52e81738ea"
+    },
+    {
+      "paperId": "cf3d680db30f0de3e25ff569265f55aa758c2eb9"
+    },
+    {
+      "paperId": "20a2d545cd1ad4b9cee831138af942141b5f3226"
+    },
+    {
+      "paperId": "943ac83c80e3eee491ef790d91920fff5ef12839"
+    },
+    {
+      "paperId": "40802cc758de00a9815fb23ddef4c43c1338a031"
+    },
+    {
+      "paperId": "08a6fd43347f4ef1e9845c3cd6631c1509546519"
+    },
+    {
+      "paperId": "bf3656c3a7da18e24335b5de139492433c48350d"
+    },
+    {
+      "paperId": "e8655b5c7f82ce416fbb30b2b7d29a744f11743e"
+    },
+    {
+      "paperId": "31098452a7552643916755fe73ac396b860f6818"
+    },
+    {
+      "paperId": "4794b70a5487fe664f1bb021fcd2fedb0a02a984"
+    },
+    {
+      "paperId": "4c7d24a0cc343e298390cd2bed7883f22d76b842"
+    },
+    {
+      "paperId": "24b2b82ad64769b67d62802c1f223d546979a125"
+    },
+    {
+      "paperId": "a7f13c7e286eb1332881e8fae69ae4a81907a777"
+    },
+    {
+      "paperId": "5fbf79ee981d2cd761d99a584d3486a1c25279c7"
+    },
+    {
+      "paperId": "bb12e3c9150cb52ea43bd636be0f3b6a0a10beef"
+    },
+    {
+      "paperId": "af186a8f3f88ca3953b28267e4706dfaf528ab8b"
+    },
+    {
+      "paperId": "70e01ce9cbe758efb9ce016bb35a15b39becde2c"
+    },
+    {
+      "paperId": "37b6f4c193ff02045536c1a60d2c396b0e0bf460"
+    },
+    {
+      "paperId": "78ac654676806edb7d7cc44bb988db026e431183"
+    },
+    {
+      "paperId": "9f9b0cd39d5edd9f3125ea927213d34609d6aeed"
+    },
+    {
+      "paperId": "e902ef7bcbdd1857c700b82681b9ae70b5040845"
+    },
+    {
+      "paperId": "632df768c4e45680d7469c08151d29d9e12cc2da"
+    },
+    {
+      "paperId": "6415c9a54aae8d8cfde350731ed6acd3c511dd70"
+    },
+    {
+      "paperId": "919bffe41fafe8c79ad6b460d43a504553bb3165"
+    },
+    {
+      "paperId": "924c2d59123ca554a57573f0738036ef7afcd277"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "1bd81ab131e22e124581e6e28130ee6f12a081df"
+    },
+    {
+      "paperId": "6121cc899885b27494637ad8ca422f2694af5f6e"
+    },
+    {
+      "paperId": "27777ad5f53e2375b990a7db833f77b9024568f1"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "48fff09c57ffffdd00bff7e22040d45e26de850b"
+    },
+    {
+      "paperId": "d39a18faceb02746d411619f7b40e31a23a931a4"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "b70b222293ad417a3c9e6c851941ffd568f727c3"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "5aff482c3bb9e7e9ee264bcffc054fb240f193f2"
+    },
+    {
+      "paperId": "a47e337f7f0c211e3df3dc689e87356c11048ca6"
+    },
+    {
+      "paperId": "e8d61e9b2c58810ca55f70e925a4d84f39374471"
+    },
+    {
+      "paperId": "629cff80d4366f82c100eb45e343bc11da7256aa"
+    },
+    {
+      "paperId": "76c03e22ee6669d47e9b0d8a9fb8b746088cbbae"
+    },
+    {
+      "paperId": "4105f0eedea9ffb980783f5096229c5602de53ae"
+    },
+    {
+      "paperId": "ee7a1bf10e749254c07eea7e60b11894644e93d2"
+    },
+    {
+      "paperId": "ed5d679b096dfc2adefe5e120d54f96716fc8e79"
+    },
+    {
+      "paperId": "8adc68fb6639b2db9f19fbfd9e6ac92ce0dd2452"
+    },
+    {
+      "paperId": "2f9e23f9d67cf824604b99d95b8ea33245043319"
+    },
+    {
+      "paperId": "89ca80d88b329bffee31f469029b129e1fa1a525"
+    },
+    {
+      "paperId": "a8ce3b4e6705e4f961599efe8ea7f9cf43e0d3d5"
+    },
+    {
+      "paperId": "9e7d4217d0355cbde061311f216ec9e8722d65f3"
+    },
+    {
+      "paperId": "fbd977b15ee792bc73a769d43d6f41d159ff217d"
+    },
+    {
+      "paperId": "0b69bd5ad0532b9ced50b06a4f64b9808a06498e"
+    },
+    {
+      "paperId": "1c3dd55cdf4e8b51294d66ce16d11e09876ea816"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2a881e5b072a8b981c2914cec5f8d74a1cb0d672"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1ac73ef32a63c68abd33010f169f5ba612707f35"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "44467ad5d774178dce0957355e8402d78cf8c996"
+    },
+    {
+      "paperId": "c083a736879cfa209bd324790ddc1b6e71e9c559"
+    },
+    {
+      "paperId": "05c2d794e80fba44ea38ad661712f3c974fb6173"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b47d4fe6b10f91967d3881c33cb405e3f5a82cfe"
+    },
+    {
+      "paperId": "3cdb65822ad833954f4f0c76b95ba74068ecc26e"
+    },
+    {
+      "paperId": "0b10a7022ca1920b9717c35406ca5be94362c082"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1d6e9a9c096b2a222da250355196d9fc338ae160"
+    },
+    {
+      "paperId": "090b575678b0283ff795052f703398d3784ed586"
+    },
+    {
+      "paperId": "e354ea4397003bb6afd12cb2cab187be4418b1a8"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

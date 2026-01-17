@@ -1,0 +1,75 @@
+{
+  "paperId": "1a05f50b7e9c596a1f87c04b2d14958e74bd4834",
+  "externalIds": {
+    "MAG": "3087050841",
+    "DOI": "10.2533/chimia.2019.232",
+    "CorpusId": 109940479,
+    "PubMed": "30975249"
+  },
+  "url": "https://www.semanticscholar.org/paper/1a05f50b7e9c596a1f87c04b2d14958e74bd4834",
+  "title": "Quantifying Isotopic Signatures of N₂O Using Quantum Cascade Laser Absorption Spectroscopy.",
+  "venue": "Chimia (Basel)",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://chimia.ch/chimia/article/download/1220/540",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2533/chimia.2019.232?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2533/chimia.2019.232, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Materials Science",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "94310309",
+      "name": "Kristýna Kantnerová"
+    },
+    {
+      "authorId": "9446473",
+      "name": "B. Tuzson"
+    },
+    {
+      "authorId": "5967829",
+      "name": "L. Emmenegger"
+    },
+    {
+      "authorId": "40470871",
+      "name": "S. Bernasconi"
+    },
+    {
+      "authorId": "39871137",
+      "name": "J. Mohn"
+    }
+  ],
+  "abstract": "Nitrous oxide, N₂O, is the environmentally most relevant constituent of the biogeochemical nitrogen cycle. Human activities, e.g. the agricultural use of mineral fertilizers, accelerate nitrogen transformations, leading to higher emissions of this strong greenhouse gas. Investigating the stable isotopic composition of N₂O provides a better understanding of formation mechanisms to disentangle its variable source and sink processes. Mid-infrared (mid-IR) laser spectroscopy is a highly attractive technique to analyze N₂O isotopocules based on their specific ro-vibrational absorption characteristics. Specifically, quantum cascade laser absorption spectroscopy (QCLAS) in combination with preconcentration has shown to be powerful for simultaneous and high-precision analysis of the main N₂O isotopocules. Recently, in the scope of my PhD project, we have been advancing this analytical technique for the analysis of the very rare doubly substituted N₂O isotopic species 15N14N18O, 14N15N18O, and 15N15N16O, also known as clumped isotopes. Currently, we are investigating the potential of these novel isotopic tracers to track the complex N₂O production and consumption pathways. Improved understanding of the nitrogen cycle will be a major step towards N₂O emission reduction.",
+  "references": [
+    {
+      "paperId": "1536fdb4faabeaecf748b4d2a9313bb025828df0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "282e525970bb93467a5fa430a852c2f6888d6f7b"
+    },
+    {
+      "paperId": "80de57c4ef11cd9e2877e0e790b8b051ecfb9861"
+    },
+    {
+      "paperId": "acea7ea50129a20cd2afcc6ab96e1dc40d4addc6"
+    },
+    {
+      "paperId": "0d25f9a462fa8a84b63789ce45da74af423e1c9f"
+    }
+  ]
+}

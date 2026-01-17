@@ -1,0 +1,32 @@
+{
+  "paperId": "04f9d7bbd6faaadf86271fd6934d577fe13dae53",
+  "externalIds": {
+    "MAG": "2994894215",
+    "CorpusId": 213317444
+  },
+  "url": "https://www.semanticscholar.org/paper/04f9d7bbd6faaadf86271fd6934d577fe13dae53",
+  "title": "Crop plant reconstruction and feature extraction based on 3-D vision",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2070013966",
+      "name": "M. V. Arellano"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

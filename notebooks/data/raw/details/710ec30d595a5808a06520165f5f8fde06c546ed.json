@@ -1,0 +1,125 @@
+{
+  "paperId": "710ec30d595a5808a06520165f5f8fde06c546ed",
+  "externalIds": {
+    "MAG": "2944543480",
+    "PubMedCentral": "6504937",
+    "DOI": "10.1038/s41598-019-43171-0",
+    "CorpusId": 146807096,
+    "PubMed": "31065055"
+  },
+  "url": "https://www.semanticscholar.org/paper/710ec30d595a5808a06520165f5f8fde06c546ed",
+  "title": "Automatic Localization and Count of Agricultural Crop Pests Based on an Improved Deep Learning Pipeline",
+  "venue": "Scientific Reports",
+  "year": 2019,
+  "citationCount": 89,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-019-43171-0.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6504937, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108746873",
+      "name": "Weilu Li"
+    },
+    {
+      "authorId": "144287224",
+      "name": "Peng Chen"
+    },
+    {
+      "authorId": "144461642",
+      "name": "B. Wang"
+    },
+    {
+      "authorId": "1994566",
+      "name": "Chengjun Xie"
+    }
+  ],
+  "abstract": "Insect pests are known to be a major cause of damage to agricultural crops. This paper proposed a deep learning-based pipeline for localization and counting of agricultural pests in images by self-learning saliency feature maps. Our method integrates a convolutional neural network (CNN) of ZF (Zeiler and Fergus model) and a region proposal network (RPN) with Non-Maximum Suppression (NMS) to remove overlapping detections. First, the convolutional layers in ZF Net, without average pooling layer and fc layers, were used to compute feature maps of images, which can better retain the original pixel information through smaller convolution kernels. Then, several critical parameters of the method were optimized, including the output size, score threshold, NMS threshold, and so on. To demonstrate the practical applications of our method, different feature extraction networks were explored, including AlexNet, ResNet and ZF Net. Finally, the model trained on smaller multi-scale images was tested on original large images. Experimental results showed that our method achieved a precision of 0.93 with a miss rate of 0.10. Moreover, our model achieved a mean Accuracy Precision (mAP) of 0.885.",
+  "references": [
+    {
+      "paperId": "fc7178fe13e956a79262d2c79694386d02546fa9"
+    },
+    {
+      "paperId": "3539d19fddeb7020e4b32672dd0237b596999a55"
+    },
+    {
+      "paperId": "f64277dbab6531eac425f07662652199107a0227"
+    },
+    {
+      "paperId": "b724c3f7ff395235b62537203ddeb710f0eb27bb"
+    },
+    {
+      "paperId": "edd3553f1af38f2bb9150deef89b1aa082cda363"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "4d7a9197433acbfb24ef0e9d0f33ed1699e4a5b0"
+    },
+    {
+      "paperId": "9bc088b0a21587cf492e000a48ef1bcb4a898e3c"
+    },
+    {
+      "paperId": "e413aae12612335f926d1e052c49348669889016"
+    },
+    {
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270"
+    },
+    {
+      "paperId": "a6cb366736791bcccc5c8639de5a8f9636bf87e8"
+    },
+    {
+      "paperId": "cbb19236820a96038d000dc629225d36e0b6294a"
+    },
+    {
+      "paperId": "1a2a770d23b4a171fa81de62a78a3deb0588f238"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "ce2c82c18c588a19e27300f4a7a54c29b8b65219"
+    },
+    {
+      "paperId": "34e0ba2daabfa4d3d22913ade8265aff50b5f917"
+    },
+    {
+      "paperId": "5e2041a96b15ecf4c74b65a262bc94b69fa56a56"
+    },
+    {
+      "paperId": "9cfb3ef7dd364cbddff0fc0926c314bc945cdc20"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "588e02d3ba491b653f2aadce0d7132a09d7fa951"
+    }
+  ]
+}

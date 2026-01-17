@@ -1,0 +1,171 @@
+{
+  "paperId": "c605022150f75afa1cea067dd798a11f7a3ad9ac",
+  "externalIds": {
+    "MAG": "2930255786",
+    "PubMedCentral": "6479819",
+    "DBLP": "journals/sensors/ChenLHWJMTPL19",
+    "DOI": "10.3390/s19071620",
+    "CorpusId": 111387216,
+    "PubMed": "30987354"
+  },
+  "url": "https://www.semanticscholar.org/paper/c605022150f75afa1cea067dd798a11f7a3ad9ac",
+  "title": "A 10-nm Spectral Resolution Hyperspectral LiDAR System Based on an Acousto-Optic Tunable Filter",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 61,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/7/1620/pdf?version=1554376895",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6479819, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science",
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47559322",
+      "name": "Yuwei Chen"
+    },
+    {
+      "authorId": "2157337353",
+      "name": "Wei Li"
+    },
+    {
+      "authorId": "1399214117",
+      "name": "J. Hyyppä"
+    },
+    {
+      "authorId": "2152169242",
+      "name": "Ning Wang"
+    },
+    {
+      "authorId": "9072637",
+      "name": "Changhui Jiang"
+    },
+    {
+      "authorId": "2086783591",
+      "name": "Fanrong Meng"
+    },
+    {
+      "authorId": "2282271",
+      "name": "L. Tang"
+    },
+    {
+      "authorId": "2825376",
+      "name": "E. Puttonen"
+    },
+    {
+      "authorId": "7430857",
+      "name": "Chuanrong Li"
+    }
+  ],
+  "abstract": "Hyperspectral LiDAR (HSL) technology can obtain spectral and ranging information from targets by processing the recorded waveforms and measuring the time of flight (ToF). With the development of the supercontinuum laser (SCL), it is technically easier to develop an active hyperspectral LiDAR system that can simultaneously collect both spatial information and extensive spectral information from targets. Compared with traditional LiDAR technology, which can only obtain range and intensity information at the selected spectral wavelengths, HSL detection technology has demonstrated its potential and adaptability for various quantitative applications from its spectrally resolved waveforms. However, with most previous HSLs, the collected spectral information is discrete, and such information might be insufficient and restrict the further applicability of the HSLs. In this paper, a tunable HSL technology using an acousto-optic tunable filter (AOTF) as a spectroscopic device was proposed, designed, and tested to address this issue. Both the general range precision and the accuracy of the spectral measurement were evaluated. By tuning the spectroscopic device in the time dimension, the proposed AOTF-HSL could achieve backscattered echo with continuous coverage of the full spectrum of 500–1000 nm, which had the unique characteristics of a continuous spectrum in the visible and near infrared (VNIR) regions with 10 nm spectral resolution. Yellow and green leaves from four plants (aloe, dracaena, balata, and radermachera) were measured using the AOTF-HSL to assess its feasibility in agriculture application. The spectral profiles measured by a standard spectrometer (SVC© HR-1024) were used as a reference for evaluating the measurements of the AOTF-HSL. The difference between the spectral measurements collected from active and passive instruments was minor. The comparison results show that the AOTF-based consecutive and high spectral resolution HSL was effective for this application.",
+  "references": [
+    {
+      "paperId": "312e9bdc86a48fb04c58371ed8c2ded56211c06a"
+    },
+    {
+      "paperId": "dc028c748a676cdaa8e5f142461001b45c6e6028"
+    },
+    {
+      "paperId": "8f2d073d299106c07d6a3d845f4ab3dcdaba6070"
+    },
+    {
+      "paperId": "f1e7f8f34a3908f29035f33c03f3e5338e6928ac"
+    },
+    {
+      "paperId": "d58ddb46539983e9c98e8abd30e0b772848940dc"
+    },
+    {
+      "paperId": "5c59452908ade356d39edba1547bdf9f993a2520"
+    },
+    {
+      "paperId": "05144398fcd7ee3163247122c9e33bce8e298104"
+    },
+    {
+      "paperId": "5416f8cc501ae0de27d0094003f536b59e0ae1ac"
+    },
+    {
+      "paperId": "83c01dee17db1756c89ef4dcc2a8f91116103a2e"
+    },
+    {
+      "paperId": "29325a0417b7f852710b471468bbc9053010984d"
+    },
+    {
+      "paperId": "e01494e7dafa3b5440794a115dcacc2a8612800d"
+    },
+    {
+      "paperId": "cd3c448cd90c6f23a1a95d3fcb598a64bddc15fd"
+    },
+    {
+      "paperId": "b1d487de6e7cfbe44f111c44ad58e44fa19ae540"
+    },
+    {
+      "paperId": "e4c99afe30f09d5d7e37a747b0beadf5dc9cb793"
+    },
+    {
+      "paperId": "51c2aec9d1356ec2156f515b5da42a8eeb60bbc9"
+    },
+    {
+      "paperId": "7f408866c5405d90e62e3218332c38eb45fa4be0"
+    },
+    {
+      "paperId": "81b35e9a9df0cc02b932e3639b17bd6e27dcf0d0"
+    },
+    {
+      "paperId": "7ac9946804b311987c3aa97dab3edb7ab074caf2"
+    },
+    {
+      "paperId": "87cf76020806e0890a47b60852298e025b6c8746"
+    },
+    {
+      "paperId": "47604d5516afe277a2288774247db3a40ad23136"
+    },
+    {
+      "paperId": "5b514f2fbb9c02b9846eff1ad9f5118c85aa7fb2"
+    },
+    {
+      "paperId": "c36e0d210ae2280a6267e4423f1079b9609bb8d7"
+    },
+    {
+      "paperId": "2e07d6ed968a26803d6e452da3cbc56f27c33838"
+    },
+    {
+      "paperId": "da9c87ec5b2b56ef1941074008784401c2ae00f3"
+    },
+    {
+      "paperId": "594f9df3e0272640455f22752b752e2befad00fc"
+    },
+    {
+      "paperId": "760513a8886cec891391ae19660db041248b366d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ca80032213bc7aca72e251f166146c361196cfce"
+    },
+    {
+      "paperId": "c9037721740517a683ab989f814ae3e89e2cba56"
+    },
+    {
+      "paperId": "34d22b9a5093103ea765f85e6677544be59b3d14"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

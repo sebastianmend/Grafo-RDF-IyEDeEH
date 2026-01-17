@@ -1,0 +1,46 @@
+{
+  "paperId": "31306cd440e5dfe2c8154d2c1ae13e40d152294b",
+  "externalIds": {
+    "MAG": "2989677080",
+    "DOI": "10.23919/EuMC.2019.8910952",
+    "CorpusId": 208281236
+  },
+  "url": "https://www.semanticscholar.org/paper/31306cd440e5dfe2c8154d2c1ae13e40d152294b",
+  "title": "Millifluidic Sensor Dedicated to the Microwave Dielectric Spectroscopy of Liquids",
+  "venue": "European Microwave Conference",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.laas.fr/hal-02400996/file/20180211%20Patricio%20EuMWFINAL.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/EuMC.2019.8910952?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/EuMC.2019.8910952, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2067368058",
+      "name": "Patricio Felipe Jaque Gonzalez"
+    },
+    {
+      "authorId": "1764498",
+      "name": "D. Dubuc"
+    },
+    {
+      "authorId": "2240086955",
+      "name": "Katia Grenier"
+    },
+    {
+      "authorId": "31995836",
+      "name": "T. Véronèse"
+    }
+  ],
+  "abstract": "This paper presents a microwave sensor, which has been designed to dielectrically characterize liquids in the frequency range of 0.1 to 4GHz for a fluid volume of the order of 1 ml. Accuracy of the technique has been evaluated for two case studies. One is based on BSA molecules in aqueous solution at different concentrations, whereas the second case study is related to the dielectric measurements of eggs constituents. Even if these different liquids may present intrinsic variability due to the living, a weak standard deviation of 0.01 for BSA solutions and 0.05 for extra-embryonic liquids have been reached respectively. This accuracy enables the future use of the sensor and measurement technique in various applications and notably for the agriculture of precision, which mostly requires ubiquitous and affordable analytic equipment.",
+  "references": null
+}

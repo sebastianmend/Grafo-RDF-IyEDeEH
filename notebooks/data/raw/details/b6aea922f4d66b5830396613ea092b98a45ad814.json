@@ -1,0 +1,40 @@
+{
+  "paperId": "b6aea922f4d66b5830396613ea092b98a45ad814",
+  "externalIds": {
+    "MAG": "3096688519",
+    "DOI": "10.25680/s19948603.2018.100.12",
+    "CorpusId": 230937630
+  },
+  "url": "https://www.semanticscholar.org/paper/b6aea922f4d66b5830396613ea092b98a45ad814",
+  "title": "ОСНОВНЫЕ НАПРАВЛЕНИЯ РОБОТИЗАЦИИ ЗЕМЛЕДЕЛИЯ",
+  "venue": "Плодородие",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25680/s19948603.2018.100.12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25680/s19948603.2018.100.12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2334095586",
+      "name": "Черноусько Ф.Л."
+    },
+    {
+      "authorId": "2334109257",
+      "name": "Ермолов И.Л."
+    },
+    {
+      "authorId": "2334062359",
+      "name": "Афанасьев Р.А."
+    }
+  ],
+  "abstract": "Рассмотрены основные аспекты роботизации агрохимического обслуживания интенсивного земледелия, вклю- чая технологии точного земледелия. Доказана необходимость коренной автоматизации сельскохозяйственного производства из-за снижения обеспеченности сельского хозяйства трудовыми ресурсами. Показаны технологиче- ские приемы перевода земледелия на роботизированную основу.\n In our study we investigated the main aspects of robotic application for agrochemical services in intensive agriculture, including tech- nologies of precision farming. Necessity of agricultural production radical automation induced by short human resources supply is proved. The study also shows the technological practices of forwarding agriculture to the robotics basis.",
+  "references": null
+}

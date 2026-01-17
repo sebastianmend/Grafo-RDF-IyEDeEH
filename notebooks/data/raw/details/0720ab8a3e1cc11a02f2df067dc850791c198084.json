@@ -1,0 +1,139 @@
+{
+  "paperId": "0720ab8a3e1cc11a02f2df067dc850791c198084",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-1805-08692",
+    "ArXiv": "1805.08692",
+    "MAG": "2804447297",
+    "CorpusId": 46896077
+  },
+  "url": "https://www.semanticscholar.org/paper/0720ab8a3e1cc11a02f2df067dc850791c198084",
+  "title": "Assessing a mobile-based deep learning model for plant disease surveillance",
+  "venue": "arXiv.org",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.08692, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "29009240",
+      "name": "Amanda Ramcharan"
+    },
+    {
+      "authorId": "49466998",
+      "name": "Peter McCloskey"
+    },
+    {
+      "authorId": "2064837181",
+      "name": "Kelsee Baranowski"
+    },
+    {
+      "authorId": "46241906",
+      "name": "N. Mbilinyi"
+    },
+    {
+      "authorId": "46211060",
+      "name": "Latifa Mrisho"
+    },
+    {
+      "authorId": "13260913",
+      "name": "Mathias Ndalahwa"
+    },
+    {
+      "authorId": "4118885",
+      "name": "J. Legg"
+    },
+    {
+      "authorId": "2068146094",
+      "name": "David P. Hughes"
+    }
+  ],
+  "abstract": "Convolutional neural network models (CNNs) have made major advances in computer vision tasks in the last five years. Given the challenge in collecting real world datasets, most studies report performance metrics based on available research datasets. In scenarios where CNNs are to be deployed on images or videos from mobile devices, models are presented with new challenges due to lighting, angle, and camera specifications, which are not accounted for in research datasets. It is essential for assessment to also be conducted on real world datasets if such models are to be reliably integrated with products and services in society. Plant disease datasets can be used to test CNNs in real time and gain insight into real world performance. We train a CNN object detection model to identify foliar symptoms of diseases (or lack thereof) in cassava (Manihot esculenta Crantz). We then deploy the model on a mobile app and test its performance on mobile images and video of 720 diseased leaflets in an agricultural field in Tanzania. Within each disease category we test two levels of severity of symptoms - mild and pronounced, to assess the model performance for early detection of symptoms. In both severities we see a decrease in the F-1 score for real world images and video. The F-1 score dropped by 32% for pronounced symptoms in real world images (the closest data to the training data) due to a drop in model recall. If the potential of smartphone CNNs are to be realized our data suggest it is crucial to consider tuning precision and recall performance in order to achieve the desired performance in real world settings. In addition, the varied performance related to different input data (image or video) is an important consideration for the design of CNNs in real world applications.",
+  "references": [
+    {
+      "paperId": "8df72c48a7ce4418c683c4dd9bb300558ac71d47"
+    },
+    {
+      "paperId": "3360497eee381961effcf3d84b49e70a0b1580a4"
+    },
+    {
+      "paperId": "a11fca45e2758ddb6c2a2f312a732f71e10eb9ca"
+    },
+    {
+      "paperId": "91381bedaa6d880a393122be0064096e5d5e432d"
+    },
+    {
+      "paperId": "572785b5d6f6fa4b174d79725f82c056b0fb4565"
+    },
+    {
+      "paperId": "3647d6d0f151dc05626449ee09cc7bce55be497e"
+    },
+    {
+      "paperId": "1a0912bb76777469295bb2c059faee907e7f3258"
+    },
+    {
+      "paperId": "e1ec11a1cb3d9745fb18d3bf74247f95a6663d08"
+    },
+    {
+      "paperId": "ecde7c041e9ac48bccef7a8d078a3f80239b0479"
+    },
+    {
+      "paperId": "e30d9b8ce108d982169621b88a5e3fb69fec70e1"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "4d7a9197433acbfb24ef0e9d0f33ed1699e4a5b0"
+    },
+    {
+      "paperId": "23ffaa0fe06eae05817f527a47ac3291077f9e58"
+    },
+    {
+      "paperId": "8b6fef185e1099d548083672c8d199f6f07fc7ef"
+    },
+    {
+      "paperId": "6c20cd584e7258056840eb88437d69731000bb0f"
+    },
+    {
+      "paperId": "a2573c02b48420fb67fac4bed8b86dee746f0bd1"
+    },
+    {
+      "paperId": "66d398aeaeb7ec24ededb1adaa4b4f09a6c1bcde"
+    },
+    {
+      "paperId": "d33b0fbc8197252b6f15151fa2dfa5ff4181b05a"
+    },
+    {
+      "paperId": "68f945d47d173b12f6e89084dffd2a6375654200"
+    },
+    {
+      "paperId": "9cfb3ef7dd364cbddff0fc0926c314bc945cdc20"
+    },
+    {
+      "paperId": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9f886f05aaaf35860b1fb2af6cd97589e7e5b9ef"
+    },
+    {
+      "paperId": "9704f727efc8a4755f8dcad1988239a843fdabbd"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "b53427a22baf0aeab746ad9029d3a67a07560331",
+  "externalIds": {
+    "MAG": "2808461187",
+    "DOI": "10.1002/arp.1721",
+    "CorpusId": 84838128
+  },
+  "url": "https://www.semanticscholar.org/paper/b53427a22baf0aeab746ad9029d3a67a07560331",
+  "title": "Deploying multispectral remote sensing for multi‐temporal analysis of archaeological crop stress at Ravenshall, Fife, Scotland",
+  "venue": "Archaeological Prospection",
+  "year": 2018,
+  "citationCount": 54,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/arp.1721",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/arp.1721?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/arp.1721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "102688602",
+      "name": "C. Moriarty"
+    },
+    {
+      "authorId": "77728609",
+      "name": "D. Cowley"
+    },
+    {
+      "authorId": "144948649",
+      "name": "T. Wade"
+    },
+    {
+      "authorId": "1890726",
+      "name": "C. Nichol"
+    }
+  ],
+  "abstract": "Diminishing returns of archaeological crop marks in lowland areas from traditional observer‐directed visible spectrum aerial survey with standard photographic cameras highlights a need to explore alternative approaches to maintain the effectiveness of survey programmes. Developments in low‐cost multispectral remote sensing have in part been driven by the growth of precision agriculture and, whilst contributing to the intensification of land use, these technologies may offer new spectral and temporal capacities for detecting, recording and monitoring historic landscapes. However, there are significant challenges to the deployment of such approaches, not least the costs of data acquisition and uncertainty about the best conditions for data collection. This study assesses the effectiveness of the Parrot Sequoia, a relatively low‐cost multispectral sensor recently developed for agricultural applications, for the detection of crop marks to inform archaeological survey. A series of observations were taken with the sensor mounted on an unmanned aerial vehicle (UAV) at Ravenshall, Fife, Scotland, between April and July 2017. The resulting reflectance maps are compared to red, green and blue (RGB) photographs taken with a Nikon D800E digital camera during seven light aircraft surveys, with the aim of testing the sensors' comparative ability to record crop mark developments over time. The contrast in reflectance between vegetation samples growing over buried archaeological remains and the surrounding field was assessed through separability in regional histogram values across different image band combinations. Separable values indicative of crop marks were found in both the multispectral and RGB results from June 2017 onwards. Several vegetation index (VI) maps, particularly the Simple Ratio (SR) and Normalised Difference Vegetation Index (NDVI), were found to be effective for distinguishing crop marks in the multispectral results. The Sequoia is a cost‐effective sensor offering improved spectral resolution over the RGB photographs, showing potential for subtle crop mark detection across compact study areas.",
+  "references": null
+}

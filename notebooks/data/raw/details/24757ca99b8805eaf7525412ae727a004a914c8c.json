@@ -1,0 +1,169 @@
+{
+  "paperId": "24757ca99b8805eaf7525412ae727a004a914c8c",
+  "externalIds": {
+    "PubMedCentral": "6279044",
+    "MAG": "2949858028",
+    "DOI": "10.1371/journal.pone.0203509",
+    "CorpusId": 54486746,
+    "PubMed": "30513092"
+  },
+  "url": "https://www.semanticscholar.org/paper/24757ca99b8805eaf7525412ae727a004a914c8c",
+  "title": "Spatiotemporal variability of soil nutrients and the responses of growth during growth stages of winter wheat in northern China",
+  "venue": "PLoS ONE",
+  "year": 2018,
+  "citationCount": 21,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0203509&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6279044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2054512173",
+      "name": "Baowei Su"
+    },
+    {
+      "authorId": "2917210",
+      "name": "Gengxing Zhao"
+    },
+    {
+      "authorId": "2019684689",
+      "name": "Chao Dong"
+    }
+  ],
+  "abstract": "Studying soil nutrient variability and its effect on the growth and development of crops under a traditional tillage mode is the foundation for comprehensively implementing precision agriculture policies at the field scale and ensuring excellent crop management. In this paper, a 28.5 hm2 winter wheat field under the traditional cultivation model in Tianzhuang town of Huantai County was selected as the research area. The mesh point method was utilized for sampling (60×60 m), and the characteristics of soil available nitrogen (AN), available phosphorus (AP) and available potassium (AK) variations in the before sowing, reviving, jointing, and filling stages of winter wheat were analyzed using geostatistical and GIS methods. Moreover, Pearson correlation analysis was used to study the response of wheat growth and development to soil nutrient variations. As the growth stages progressed, 1) each nutrient showed the characteristics of low-high-low and moderate variability. The highest AN and AK contents were found at the reviving stage, while AP reached a turning point at the jointing stage. The order of variability of each nutrient was AN>AP>AK. 2) The nutrient variations first increased and then decreased and showed medium to strong spatial correlation. The three nutrients were strongly spatially correlated in the before sowing stage and moderately spatially correlated during the reviving stage. During the jointing and filling stages, AN had moderate spatial correlation, and AP and AK had strong spatial correlation. The spatial correlation of each nutrient was the weakest in the reviving stage, and the spatial correlation of AN was strongest in the before sowing stage, while the spatial correlations of AP and AK were strongest in the jointing stage. The spatial correlation of each soil nutrient decreased from the before sowing stage to the reviving stage and from the jointing stage to the filling stage, and the spatial correlation increased from the reviving stage to the jointing stage. 3) The soil nutrient content first increased and then decreased, and the grades of the nutrients gradually decreased. 4) The correlation between soil nutrients and wheat growth gradually increased. AN had the highest correlation with wheat growth, followed by AK and AP. The effect of soil nutrients on the growth of wheat at the reviving stage was greater than the effect of nutrients in the current stage. The growth of wheat at the jointing stage was mainly influenced by nutrients in the current stage, while the growth of wheat at the filling stage was influenced by the nutrient contents of both the previous and current stages. Thus, the date of fertilizer supplementation should be postponed properly. In this study, the soil nutrient dynamics and their influence on the growth of wheat during the winter wheat growth period under the traditional field model were well described, and these results could provide a theoretical basis for the precision management of soil nutrients in the northern winter wheat area where the planting environment and cultivation management are relatively uniform.",
+  "references": [
+    {
+      "paperId": "3ec5d1f6b000c6db18ffd02297615e538dc70f20"
+    },
+    {
+      "paperId": "6bd43775f5444902ae81972c5a3572b48514f811"
+    },
+    {
+      "paperId": "2febc7d2369012c94cc6d928d75b34323df1451b"
+    },
+    {
+      "paperId": "4a9b140f0fa5a6a69cfa61a26a76ec4f13501d35"
+    },
+    {
+      "paperId": "b892c08a8df445150586082429f3263957af04b6"
+    },
+    {
+      "paperId": "6a0e5e4a012008d1a941ba89ee6014062643589c"
+    },
+    {
+      "paperId": "4fa941a0b21db5aec19b3d147ae9df421d31db1e"
+    },
+    {
+      "paperId": "c8bcdbaa4300703ac1313322d15b810796dea871"
+    },
+    {
+      "paperId": "dd07396eacd488d24c775eb2af36f4020ee86c1b"
+    },
+    {
+      "paperId": "a1ebe8084d8e2dffde2b101ad6071a6b390c2b76"
+    },
+    {
+      "paperId": "782b3c0420360174d898853c913a5bf1eab0a25b"
+    },
+    {
+      "paperId": "50bbbc6e021780071a761f7dfad0c93f9898ccd2"
+    },
+    {
+      "paperId": "19d0cb1d863471355af071e10631671957979081"
+    },
+    {
+      "paperId": "9495064ac078ec830700319342a42c3f93a0a46a"
+    },
+    {
+      "paperId": "8c2ff25c43932f96606c565eba54a308274551b0"
+    },
+    {
+      "paperId": "2af66f1e247bc7d7fa2716e70954c42edd03e900"
+    },
+    {
+      "paperId": "a1706248bbb5b33ef8e862c3f7b3c05fc7e4d08e"
+    },
+    {
+      "paperId": "03e217a54d5827e8922c92af5d26f284c1111e8d"
+    },
+    {
+      "paperId": "3c7fd787d301be032ce651b5407d715454037666"
+    },
+    {
+      "paperId": "d11413387c875743add4a990fc620b7cd8e11a87"
+    },
+    {
+      "paperId": "9d82be19571b31bb31edfe2885c6ea92459d071e"
+    },
+    {
+      "paperId": "b53ccca0f2f832a58521974a7c2759f5ad61c585"
+    },
+    {
+      "paperId": "461c951d5147c91e87948d2dbe51a4ce94fa3e06"
+    },
+    {
+      "paperId": "343ad16b2b156436f7908e90a14b8a5f3f8bd79a"
+    },
+    {
+      "paperId": "7bf781c182d99a2c2d1e7e31711fccdfc2692160"
+    },
+    {
+      "paperId": "3a5e696a03d8052d46136bff8d64a28f8935a531"
+    },
+    {
+      "paperId": "89eb9d84f607f85d635e2cae4205cb86f7c105a5"
+    },
+    {
+      "paperId": "55ff41c224b684baac71f4a6f435fca4a843744a"
+    },
+    {
+      "paperId": "c071af2b70031baa1c0942fe80b131d46ae45568"
+    },
+    {
+      "paperId": "8fc887025acf6cf4308c2ee1d5f4adee1689599c"
+    },
+    {
+      "paperId": "cf28ba6b68c79921b19fd876e472d723d2e93b90"
+    },
+    {
+      "paperId": "4fd224df7e9bdc54420c81de1d34feb2ae394803"
+    },
+    {
+      "paperId": "635196322866bfe657b8187b5922f009d4f45b3a"
+    },
+    {
+      "paperId": "8770943235124ef55f3986f12abe2c5b123fa36c"
+    },
+    {
+      "paperId": "681a42d80a5dd02d2917a7ec4af079916c576f29"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "233dc7c78affb6be391a37c59ee126761debbec1",
+  "externalIds": {
+    "MAG": "2908358422",
+    "DOI": "10.1109/ATC.2018.8587487",
+    "CorpusId": 57191551
+  },
+  "url": "https://www.semanticscholar.org/paper/233dc7c78affb6be391a37c59ee126761debbec1",
+  "title": "Design of automatic irrigation system for greenhouse based on LoRa technology",
+  "venue": "International Conference on Autonomic and Trusted Computing",
+  "year": 2018,
+  "citationCount": 29,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ATC.2018.8587487?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ATC.2018.8587487, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "66757215",
+      "name": "V. A. Vu"
+    },
+    {
+      "authorId": "67177996",
+      "name": "Dong Cong Trinh"
+    },
+    {
+      "authorId": "66664128",
+      "name": "Tuan Christian Truvant"
+    },
+    {
+      "authorId": "66773932",
+      "name": "Thanh Dang Bui"
+    }
+  ],
+  "abstract": "The application of wireless communication technology to precision agriculture systems helps meet the requirements for real time, reliability and sustainability in the monitoring and control of environmental factors for crop-growth environment. This paper presents the design of automatic irrigation system for the greenhouse agriculture based on LoRa (abbreviation of Long Range) technology with outstanding advantages in terms of transmission range and power consumption. The system consists of Sensor Nodes that collect the data of soil moisture, temperature and humidity. These data will be transmitted to a central station named Concentrator, the Concentrator will use it to control the irrigation process through the Control Nodes located at the field level. The data is also sent to the Supervisor Computer and the Web Server for storage for future analysis. Users can monitor, set up irrigation mode, configure system, access data and manage crops through both Computer Interface and Web Interface. In order to increase the reliability, we also propose to apply the medium access control method Master/Slave for the LoRa network in this system. Finally, we presented some results to evaluate the performance of the system.",
+  "references": null
+}

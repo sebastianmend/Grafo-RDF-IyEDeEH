@@ -1,0 +1,31 @@
+{
+  "paperId": "631b2e27352dfb043ecf64b672180c15df632ecf",
+  "externalIds": {
+    "DOI": "10.19080/jojha.2018.01.555569",
+    "CorpusId": 212494534
+  },
+  "url": "https://www.semanticscholar.org/paper/631b2e27352dfb043ecf64b672180c15df632ecf",
+  "title": "UAV and Artificial Intelligence in Precision Viticulture",
+  "venue": "JOJ Horticulture & Arboriculture",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://juniperpublishers.com/jojha/pdf/JOJHA.MS.ID.555569.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.19080/jojha.2018.01.555569?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.19080/jojha.2018.01.555569, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2286023677",
+      "name": "Gambella F"
+    }
+  ],
+  "abstract": "Precision viticulture and the use of monitoring systems for the management of spatial and temporal variability in recent decades has been the research topic that has led to the emergence of new high tech production segments that have been able to accompany the transformation of agricultural machines. The results of the research have enabled the design and introduction of autonomous vehicles (drones) and intelligent sensors, suitable for proximal and remote sensing and for use in the sustainable management of the vineyard. At the same time, there are still difficulties in market deployment of these technologies due to high costs and difficult integration with ordinary agronomic techniques. The object of this mini-review is to present the innovative technologies applied in precision viticulture considering several",
+  "references": null
+}

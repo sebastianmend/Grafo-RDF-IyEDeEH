@@ -1,0 +1,56 @@
+{
+  "paperId": "af36d45017e9b091ecfd97351f4803730b749c99",
+  "externalIds": {
+    "DBLP": "conf/igarss/PignattiCHHPP19",
+    "MAG": "2988575021",
+    "DOI": "10.1109/IGARSS.2019.8900241",
+    "CorpusId": 208038513
+  },
+  "url": "https://www.semanticscholar.org/paper/af36d45017e9b091ecfd97351f4803730b749c99",
+  "title": "Maize Crop and Weeds Species Detection by Using Uav Vnir Hyperpectral Data",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8900241?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8900241, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2756871",
+      "name": "S. Pignatti"
+    },
+    {
+      "authorId": "4600514",
+      "name": "R. Casa"
+    },
+    {
+      "authorId": "47459837",
+      "name": "A. Harfouche"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "2160695",
+      "name": "A. Palombo"
+    },
+    {
+      "authorId": "2442601",
+      "name": "S. Pascucci"
+    }
+  ],
+  "abstract": "Monitoring and mapping weeds within agricultural crops is required for the implementation of precision agriculture approaches such as patch spraying. A precise and targeted weed control would bring about positive consequences from both environmental and economic perspectives. Given the small spectral differences between crop species, VNIR hyperspectral data can be a powerful tool to perform an effective weed monitoring and identification when high spatial and spectral resolution data is available (i.e. UAV platforms).This work explores the spectral differences between crops and weeds to evaluate the ability of UAV hyperspectral data to separate maize crop from weeds and to discriminate different types of weeds. To this aim, UAV and field hyperspectral data were acquired in some maize fields in Italy during the 2016 growing season. Results showed that by exploiting leaf chlorophyll and carotenoid contents, retrieved using spectral indices or by inverting PROSAIL, is it possible to discriminate between maize crop and weeds and, moreover, among weed types. The procedure allowed the quantification of crop/weeds relative ground cover, which showed a good relationship with the corresponding measured relative LAI values.",
+  "references": null
+}

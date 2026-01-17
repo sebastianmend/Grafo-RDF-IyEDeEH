@@ -1,0 +1,42 @@
+{
+  "paperId": "dd4f6854347e7bac4b7268cbf80b8c4580b34c0e",
+  "externalIds": {
+    "MAG": "2946060255",
+    "DOI": "10.1109/SPIN.2019.8711694",
+    "CorpusId": 155108346
+  },
+  "url": "https://www.semanticscholar.org/paper/dd4f6854347e7bac4b7268cbf80b8c4580b34c0e",
+  "title": "Energy Efficient WSN for Precision Agriculture – Using Modified Zonal Stable Election Protocol",
+  "venue": "SPIN",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SPIN.2019.8711694?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SPIN.2019.8711694, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "122449929",
+      "name": "Asmita Singh"
+    },
+    {
+      "authorId": "123696298",
+      "name": "Abhishek Tyagi"
+    },
+    {
+      "authorId": "123440612",
+      "name": "Sindhu Hak"
+    }
+  ],
+  "abstract": "Crop production is significantly decreasing due to inefficient agricultural practices, limited irrigation facilities and lack of technology. Economic conditions of developing countries force farmers to use traditional practices rather than adopting latest technologies which are capable of producing better yield. Practices like Precision Agriculture are being incorporated all over the world to help farmers to get better crop yield. Precision Agriculture is the concept of real-time observation of soil parameters like temperature, water content, moisture etc. In present work, Wireless Sensor Network (WSN) has been implemented to sense and store data of agricultural field. To increase the acceptance of this technology in agriculture, cost effective and energy efficient system is required. Modified Zonal Stable Election Protocol (M-ZSEP) which follows hybrid routing for heterogeneous networks has been realized for agricultural field. WSN collects data through real time monitoring and then transmit it to the Base Station (BS). Data received is then displayed at base station to achieve monitoring of various soil parameters for efficient use of resources. Result indicate that M-ZSEP outperforms traditional protocols in terms of throughput and stability period which in turn will increase the lifetime of nodes and further make proposed network energy efficient.",
+  "references": null
+}

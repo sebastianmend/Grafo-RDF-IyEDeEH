@@ -1,0 +1,44 @@
+{
+  "paperId": "219f146315fc3a6d97d4323e06656899f2824d45",
+  "externalIds": {
+    "MAG": "2987609842",
+    "DBLP": "conf/igarss/CondeNF19",
+    "DOI": "10.1109/IGARSS.2019.8899855",
+    "CorpusId": 208039351
+  },
+  "url": "https://www.semanticscholar.org/paper/219f146315fc3a6d97d4323e06656899f2824d45",
+  "title": "Comparison of In-Field Measurements and INSAR Estimates of Soil Moisture: Inversion Strategies of Interferometric Data",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8899855?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8899855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30579664",
+      "name": "V. Conde"
+    },
+    {
+      "authorId": "2227594",
+      "name": "G. Nico"
+    },
+    {
+      "authorId": "37800505",
+      "name": "João Catalão"
+    }
+  ],
+  "abstract": "Synthetic Aperture Radar (SAR) interferometry is currently providing displacement measurements over large areas and recently also maps of water vapor in atmosphere. However, the interferometric phase can also capture tiny contributions due to soil moisture. In this work the results obtained in a 1-year experiment with in-situ measurements of soil moisture in agricultural area, in the flat land around the Tagus river, Lisbon, Portugal, are presented. We analyze two interferometric models for the estimation of soil moisture from SAR images. Sentinel-1 SAR images in the C-band are used due to their regular acquisition plan and the short revisiting time. We present examples of soil maps from Sentinel-1 data, characterized by a high spatial resolution and short updating time and comments on their use in precision farming.",
+  "references": null
+}

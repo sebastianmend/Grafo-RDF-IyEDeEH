@@ -1,0 +1,42 @@
+{
+  "paperId": "c4dda2b3eab810ae0d10a9fae56de16e0395fde4",
+  "externalIds": {
+    "MAG": "2995286131",
+    "DOI": "10.1109/ICISPC.2019.8935722",
+    "CorpusId": 209459608
+  },
+  "url": "https://www.semanticscholar.org/paper/c4dda2b3eab810ae0d10a9fae56de16e0395fde4",
+  "title": "Detecting diseases in Chilli Plants Using K-Means Segmented Support Vector Machine",
+  "venue": "2019 3rd International Conference on Imaging, Signal Processing and Communication (ICISPC)",
+  "year": 2019,
+  "citationCount": 43,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISPC.2019.8935722?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISPC.2019.8935722, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1471428712",
+      "name": "Abdul Hafiz Bin Abdul Wahab"
+    },
+    {
+      "authorId": "134688603",
+      "name": "R. Zahari"
+    },
+    {
+      "authorId": "9261554",
+      "name": "T. H. Lim"
+    }
+  ],
+  "abstract": "Early detection of the plant diseases is critical to avoid losses in the yield and quality of the agricultural product. The studies of the plant diseases have been widely researched to detect abnormality in plant growth using visually observable patterns on the plant. Plant monitoring and disease detection is needed to ensure sustainability in agriculture. However, it is usually very difficult to monitor the plant diseases manually as they require real-time and precision detection. Image processing is commonly used for the detection of plant diseases which involved image acquisition, pre-processing, segmentation, feature extraction and classification. In this paper, an Artificial Intelligence based image processing algorithm is proposed to detect diseases on a Chilli plant using its leaves images. The proposed solution focuses on using k-means clustering algorithm for image segmentation and compares different Support Vector Machine (SVM) algorithm for classification. Computed images' features are extracted and use to classify these images into classes. Different parameters and different kernel functions are used to compute different SVM classification algorithms. The results are classified into background, healthy and unhealthy (Cucumber Mosaic) and can differentiate between health and unhealthy plant.",
+  "references": null
+}

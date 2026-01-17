@@ -1,0 +1,48 @@
+{
+  "paperId": "ea26ecbeaa9abd7b45430f42b582f712af2fb431",
+  "externalIds": {
+    "DBLP": "conf/igarss/DasSHK18",
+    "MAG": "2901863668",
+    "DOI": "10.1109/IGARSS.2018.8518014",
+    "CorpusId": 53226701
+  },
+  "url": "https://www.semanticscholar.org/paper/ea26ecbeaa9abd7b45430f42b582f712af2fb431",
+  "title": "Evaluation of Land Surface Model Against Smap and In-Situ Observations for Indian Region",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "84350015",
+      "name": "K. Das"
+    },
+    {
+      "authorId": "145473890",
+      "name": "Jitendra Singh"
+    },
+    {
+      "authorId": "1771491",
+      "name": "J. Hazra"
+    },
+    {
+      "authorId": "1694760",
+      "name": "S. Kalyanaraman"
+    }
+  ],
+  "abstract": "Soil moisture and temperature are key inputs to several precision agricultural applications such as irrigation scheduling, identifying crop health, pest and disease prediction, yield and acreage estimation, etc. The existing remote sensing satellites based soil moisture products such as SMAP are of coarse resolution and physics based land surface model such as NL-DAS, GLDAS are also of coarse resolution as well as not available for real time applications. Keeping this in focus, we have customized high resolution land data assimilation system (HRLDAS) for India. The customization involve: (1) use of Global Data Assimilation System (GDAS) dataset for dynamic forcing fields, (2) ability to ingest local information about the soil characteristics (3) high resolution USGS land-cover and other static datasets, amongst others. In this paper, we present the performance of the customized model against SMAP soil moisture data and local sensors observations. The first results from the comparison shows a significantly reduced errors in model results. The RMSE for LSM generated outputs are less than 2%, whereas SMAP gives 4–5 % error for soil moisture.",
+  "references": null
+}

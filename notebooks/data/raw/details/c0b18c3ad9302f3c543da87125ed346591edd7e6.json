@@ -1,0 +1,38 @@
+{
+  "paperId": "c0b18c3ad9302f3c543da87125ed346591edd7e6",
+  "externalIds": {
+    "MAG": "2901945515",
+    "DOI": "10.1109/I2CT.2018.8529754",
+    "CorpusId": 53280724
+  },
+  "url": "https://www.semanticscholar.org/paper/c0b18c3ad9302f3c543da87125ed346591edd7e6",
+  "title": "Soil Toxicity Prediction and Recommendation System Using Data Mining In Precision Agriculture",
+  "venue": "2018 3rd International Conference for Convergence in Technology (I2CT)",
+  "year": 2018,
+  "citationCount": 33,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/I2CT.2018.8529754?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I2CT.2018.8529754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "82677818",
+      "name": "M. Pawar"
+    },
+    {
+      "authorId": "9140022",
+      "name": "Geetha R. Chillarge"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

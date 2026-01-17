@@ -1,0 +1,44 @@
+{
+  "paperId": "cb80c1ccc3d349a9a00b812db7cf9814fbd4897c",
+  "externalIds": {
+    "MAG": "2974331417",
+    "CorpusId": 204257393
+  },
+  "url": "https://www.semanticscholar.org/paper/cb80c1ccc3d349a9a00b812db7cf9814fbd4897c",
+  "title": "Delineation of homogeneous management zones through EMI and multispectral data for a vineyard in northern Italy",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3008023",
+      "name": "B. Ortuani"
+    },
+    {
+      "authorId": "2690635",
+      "name": "G. Sona"
+    },
+    {
+      "authorId": "1382695760",
+      "name": "Giulia Ronchetti"
+    },
+    {
+      "authorId": "3180942",
+      "name": "A. Facchi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

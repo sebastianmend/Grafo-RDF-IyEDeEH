@@ -1,0 +1,39 @@
+{
+  "paperId": "6e4b96a8d19dde057484836f5d69ae2a4ed3f0a2",
+  "externalIds": {
+    "MAG": "2939529227",
+    "DBLP": "conf/mwscas/KaurM18",
+    "DOI": "10.1109/MWSCAS.2018.8623906",
+    "CorpusId": 116863227
+  },
+  "url": "https://www.semanticscholar.org/paper/6e4b96a8d19dde057484836f5d69ae2a4ed3f0a2",
+  "title": "Automatic Crop Furrow Detection for Precision Agriculture",
+  "venue": "Midwest Symposium on Circuits and Systems",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MWSCAS.2018.8623906?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MWSCAS.2018.8623906, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2288765541",
+      "name": "M. Kaur"
+    },
+    {
+      "authorId": "40003911",
+      "name": "Cheol-Hong Min"
+    }
+  ],
+  "abstract": "In order to automate agriculture, development in the robotics equipped with machine vision sensors applied to Precision agriculture is a demanding solution for various applications in the agriculture. Machine vision system necessary for crop row and weed detection. This paper proposes an automatic furrow detection system based on identifying crop rows in maize fields in the presence of weeds. The image quality is affected by different lighting conditions and gaps between the crop furrows due to lack of germination. The proposed image processing method consists of four different processes. First, image segmentation based on HSV (Hue, Saturation, Value) decision tree. The HSV color space used to discriminate crops, weeds, sky, and soil. The region of interest (ROI) is defined by filtering each of the HSV channels between the maximum and minimum threshold values. Then, the noises in the images are eliminated by selecting pixel values. Further, mathematical morphological processes, that is, erosion to remove smaller objects followed by dilation to enlarge the boundaries of regions of foreground pixels are applied. To detect the position of crop rows, ROI was defined by creating a binary mask. The Hough Transform and blob analysis were applied to detect crop furrows. The experimental results show that the method is effective.",
+  "references": null
+}

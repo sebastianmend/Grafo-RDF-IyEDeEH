@@ -1,0 +1,44 @@
+{
+  "paperId": "78f232ab1d6001acc6c332b75777c0d531d0df0b",
+  "externalIds": {
+    "MAG": "2805142011",
+    "DBLP": "journals/cea/ChlingaryanSW18",
+    "DOI": "10.1016/j.compag.2018.05.012",
+    "CorpusId": 51878174
+  },
+  "url": "https://www.semanticscholar.org/paper/78f232ab1d6001acc6c332b75777c0d531d0df0b",
+  "title": "Machine learning approaches for crop yield prediction and nitrogen status estimation in precision agriculture: A review",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "citationCount": 1126,
+  "influentialCitationCount": 25,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2018.05.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2018.05.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3038921",
+      "name": "A. Chlingaryan"
+    },
+    {
+      "authorId": "1800730",
+      "name": "S. Sukkarieh"
+    },
+    {
+      "authorId": "144648192",
+      "name": "B. Whelan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

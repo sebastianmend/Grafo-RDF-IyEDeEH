@@ -1,0 +1,83 @@
+{
+  "paperId": "02433964198fd8f8ca2f7894ef7b108a6f4c77c9",
+  "externalIds": {
+    "MAG": "2896406066",
+    "DOI": "10.23919/CHICC.2018.8482722",
+    "CorpusId": 52928506
+  },
+  "url": "https://www.semanticscholar.org/paper/02433964198fd8f8ca2f7894ef7b108a6f4c77c9",
+  "title": "Fixed Wing UAV Survey Coverage Path Planning in Wind for Improving Existing Ground Control Station Software",
+  "venue": "Cybersecurity and Cyberforensics Conference",
+  "year": 2018,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://figshare.com/articles/conference_contribution/Fixed_wing_UAV_survey_coverage_path_planning_in_wind_for_improving_existing_ground_control_station_software/9221903/1/files/16801181.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23919/CHICC.2018.8482722?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/CHICC.2018.8482722, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "12742150",
+      "name": "M. Coombes"
+    },
+    {
+      "authorId": "31165511",
+      "name": "Wen‐Hua Chen"
+    },
+    {
+      "authorId": "2107994836",
+      "name": "Cunjia Liu"
+    }
+  ],
+  "abstract": "UAV technology is becoming increasingly mature and cheap. This recent cost reduction and performance improvement means that these systems have become reliable and cheap enough to be viable for mass use by farmers and operators for precision agriculture activities; such as disease identification, yield estimation and plant nitrogen monitoring. A critical stage of this is the planning of the flight path which ensures complete image coverage of the region of interest. If the field is a simple convex shape, then generating an optimal coverage path is hugely simplified by using a back and forth Boustrophedon path. However, most fields have complex polygonal shapes, where planning the coverage path manually is nontrivial, as operators may not have the correct skills and experience. This is why in this paper, we outline an algorithm to improve the performance of survey path generation on complex ROI for mission planning software. The tools implemented in this paper take into account environmental factors and aircraft dynamics. By decomposing these complex survey regions into many smaller arrangements of manageable convex polygon survey regions, Boustrophedon paths can be used to cover them. By using a survey model for calculation of flight time in a wind field. it is used to optimise the decomposition in order to lower flight time. The fastest survey path is used to generate waypoints files to be used with a number of popular mission planning software including: DJI PC Ground Control, Mission Planner, QGroundControl.",
+  "references": [
+    {
+      "paperId": "be04b53b6ff6e1b77ac9e77d877b830e2ae7c49f"
+    },
+    {
+      "paperId": "89a50c4d6cd775c98dd3893053ad97bb5343a3fd"
+    },
+    {
+      "paperId": "2309c5b95b9d7c51a7381e46bf62ed70e050cc68"
+    },
+    {
+      "paperId": "b4331466fc3635cea7ccf7b92e90a24c21f3852a"
+    },
+    {
+      "paperId": "0cc2030f5b717e366e5246baf2f61f7b0a233116"
+    },
+    {
+      "paperId": "829d4898bde0e596dd49914f69b3eae1124bf35c"
+    },
+    {
+      "paperId": "c9bde4cac35afc70379a02adc1d977ec1aadd07f"
+    },
+    {
+      "paperId": "c33d040fd1c595e2442876db2c5dd28003beefbd"
+    },
+    {
+      "paperId": "f498925210f003f89d392a5588f665b917dcb0d9"
+    },
+    {
+      "paperId": "744fa9974c3d087168962769133495582682c263"
+    },
+    {
+      "paperId": "3b78c867931a87ea1240d99f9d8254ab67d305e8"
+    },
+    {
+      "paperId": "7dee2cd7592a88b4b52027e20d6d7910cb6bf9ff"
+    },
+    {
+      "paperId": "1f192f0fc0f696fa2a47b614aa1f21f2c5367aca"
+    }
+  ]
+}

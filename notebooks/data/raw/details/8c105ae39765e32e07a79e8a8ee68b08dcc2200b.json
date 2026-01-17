@@ -1,0 +1,29 @@
+{
+  "paperId": "8c105ae39765e32e07a79e8a8ee68b08dcc2200b",
+  "externalIds": {
+    "DOI": "10.1038/nbt0918-783b",
+    "CorpusId": 52159977,
+    "PubMed": "30188537"
+  },
+  "url": "https://www.semanticscholar.org/paper/8c105ae39765e32e07a79e8a8ee68b08dcc2200b",
+  "title": "Sangamo poised for CAR-Treg race",
+  "venue": "Nature Biotechnology",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/nbt0918-783b.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nbt0918-783b?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nbt0918-783b, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [],
+  "abstract": null,
+  "references": null
+}

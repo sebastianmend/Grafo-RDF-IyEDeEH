@@ -1,0 +1,109 @@
+{
+  "paperId": "10824659df0b578988c35b0d455c8c6f083a9155",
+  "externalIds": {
+    "MAG": "2903345612",
+    "DOI": "10.1088/1742-6596/1117/1/012009",
+    "CorpusId": 69309545
+  },
+  "url": "https://www.semanticscholar.org/paper/10824659df0b578988c35b0d455c8c6f083a9155",
+  "title": "Field heterogeneity detection based on the modified FastICA RGB-image processing",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1117/1/012009",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1117/1/012009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1117/1/012009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "66660622",
+      "name": "L. Mirvakhabova"
+    },
+    {
+      "authorId": "17928009",
+      "name": "M. Pukalchik"
+    },
+    {
+      "authorId": "2057507958",
+      "name": "S. Matveev"
+    },
+    {
+      "authorId": "80089383",
+      "name": "P. Tregubova"
+    },
+    {
+      "authorId": "1738205",
+      "name": "I. Oseledets"
+    }
+  ],
+  "abstract": "In the light of the increasing demand for food production, climate change challenges, and economic pressure, precision farming is becoming an ever-growing market. Nowadays using satellite images for field zoning has become a widely spread technique employed in precision agriculture. Usually satellite images are used to evaluate Normalized Difference Vegetation Index (NDVI) as a common yield assessment. At the same time it is rather a challenging task to designing NDVI maps as compared to ordinary RGB images. We propose a new algorithm for site-specific zoning based on the performance of a well-known and widely used ICA algorithm (FastICA). We analyse high resolution RGB satellite images for 3 arable fields located in Kursk region, Russia, (2017) provided by the Planet Labs service. The main outcomes from this study are (i) the algorithm creates site-specific zoning maps with a relative accuracy of yield distribution maps between 0.78 and 0.89; (ii) the algorithm requires a relatively small dataset – from 8 to 10 RGB images. The obtained results indicate that the algorithm in question can be used not only to identify management zones but also to map the variations in yield within the fields.",
+  "references": [
+    {
+      "paperId": "ccdb0a2cc4b76391d0ec84706388ec1e0a3767c8"
+    },
+    {
+      "paperId": "4935972d53183f86104a54cd069776bca79a1f92"
+    },
+    {
+      "paperId": "9949acf7b76bca9e1eac43bcc6aaf2503e123ff9"
+    },
+    {
+      "paperId": "edbfeb9a25f89904635252d8191d095e537a05e8"
+    },
+    {
+      "paperId": "e22ecc54d016336ee3c7a8a99533b1136698727f"
+    },
+    {
+      "paperId": "b4fa6b10f740547f834bd89eb67a80bebb9244b9"
+    },
+    {
+      "paperId": "f736ece4d7081adf678a5f93beb6a86080f1d25e"
+    },
+    {
+      "paperId": "7890cf80dbbce51a6f518a32eef44fc1049918a3"
+    },
+    {
+      "paperId": "e1fec22da5aebc4d76466a49640b193ffc65bb0c"
+    },
+    {
+      "paperId": "cca32de3bacf36f797be95a56cd3e78ed34192a1"
+    },
+    {
+      "paperId": "32f6fd9480a6cd3e2908d2cd24f0abc4acd10a51"
+    },
+    {
+      "paperId": "804519f49feee4d2bfafdc0db6d0d10f7f3ebf0c"
+    },
+    {
+      "paperId": "f9f836d28f52ad260213d32224a6d227f8e8849a"
+    },
+    {
+      "paperId": "8d946c3eb1d1db376a89ad9342282163b5ae0930"
+    },
+    {
+      "paperId": "b56a16b628e1e5c9a858b88b93b0a1b33f30d258"
+    },
+    {
+      "paperId": "3e9824f5ed17186b2498210ab6bef6b501236c03"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

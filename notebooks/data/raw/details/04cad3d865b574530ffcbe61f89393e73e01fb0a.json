@@ -1,0 +1,132 @@
+{
+  "paperId": "04cad3d865b574530ffcbe61f89393e73e01fb0a",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/DysonMFZ19",
+    "MAG": "2968752509",
+    "DOI": "10.3390/rs11161859",
+    "CorpusId": 201803643
+  },
+  "url": "https://www.semanticscholar.org/paper/04cad3d865b574530ffcbe61f89393e73e01fb0a",
+  "title": "Deep Learning for Soil and Crop Segmentation from Remotely Sensed Data",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 60,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/16/1859/pdf?version=1565338910",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11161859?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11161859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34872957",
+      "name": "J. Dyson"
+    },
+    {
+      "authorId": "1679246",
+      "name": "A. Mancini"
+    },
+    {
+      "authorId": "1721130",
+      "name": "E. Frontoni"
+    },
+    {
+      "authorId": "1695800",
+      "name": "P. Zingaretti"
+    }
+  ],
+  "abstract": "One of the most challenging problems in precision agriculture is to correctly identify and separate crops from the soil. Current precision farming algorithms based on artificially intelligent networks use multi-spectral or hyper-spectral data to derive radiometric indices that guide the operational management of agricultural complexes. Deep learning applications using these big data require sensitive filtering of raw data to effectively drive their hidden layer neural network architectures. Threshold techniques based on the normalized difference vegetation index (NDVI) or other similar metrics are generally used to simplify the development and training of deep learning neural networks. They have the advantage of being natural transformations of hyper-spectral or multi-spectral images that filter the data stream into a neural network, while reducing training requirements and increasing system classification performance. In this paper, to calculate a detailed crop/soil segmentation based on high resolution Digital Surface Model (DSM) data, we propose the redefinition of the radiometric index using a directional mathematical filter. To further refine the analysis, we feed this new radiometric index image of about 3500 × 4500 pixels into a relatively small Convolution Neural Network (CNN) designed for general image pattern recognition at 28 × 28 pixels to evaluate and resolve the vegetation correctly. We show that the result of applying a DSM filter to the NDVI radiometric index before feeding it into a Convolutional Neural Network can potentially improve crop separation hit rate by 65%.",
+  "references": [
+    {
+      "paperId": "cf99d08dff970e104b330d25bbd12773b458efa2"
+    },
+    {
+      "paperId": "83b4ea5da6038425887cc5a735d20396e503e2e5"
+    },
+    {
+      "paperId": "27a918a368e971a15b545abf63353e269a8ce8a2"
+    },
+    {
+      "paperId": "e4c1269d7d95a761de53f60366cbb4f3b79d3837"
+    },
+    {
+      "paperId": "00a99ccb4c7e9cb564a80e8fc1721418356fa7cc"
+    },
+    {
+      "paperId": "a0cfaada6f2291bb83df4e202c4d81ff1695e89b"
+    },
+    {
+      "paperId": "1f73e79a9f2e4475737b44bfd9a7c5e1c4404ed4"
+    },
+    {
+      "paperId": "52aca3bdd23b97a7d84bd99140eba5ca27be7596"
+    },
+    {
+      "paperId": "e58a698b537f1dceafa0f89b1c7cc0c6e03ecae1"
+    },
+    {
+      "paperId": "79f6bda4aab416dfbab101ac274d50b6c6820f0c"
+    },
+    {
+      "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8"
+    },
+    {
+      "paperId": "4a66922fba3c9faf450b8e16fd7ead0360bdaa92"
+    },
+    {
+      "paperId": "1d70937202d843664c5591fde4fb0d48627d1cf6"
+    },
+    {
+      "paperId": "a04c89bfceea08ebafb43a22879ea4a8bca11529"
+    },
+    {
+      "paperId": "81e524dad1f50cca3561f49efff20fd5ae8bb161"
+    },
+    {
+      "paperId": "5a35d6702e5bc138b021a0cfff7c545d1fb371e5"
+    },
+    {
+      "paperId": "2cd5b7a7c66596febb8c4e8f86c99556783eb9b0"
+    },
+    {
+      "paperId": "7010cfdee4e5949e39e8c1a453afb9fc5d154a4f"
+    },
+    {
+      "paperId": "90df980cadf86e5dfe922ada56452842a18bd80e"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e"
+    },
+    {
+      "paperId": "3dde024313bdc51c5eacfe30f4d612448a2f9520"
+    },
+    {
+      "paperId": "51d267b782e7caf2b6bc7240b1a5f48044ffe115"
+    },
+    {
+      "paperId": "ea1f6648014e519f6869980baf37a8feb17c37bb"
+    },
+    {
+      "paperId": "42ff88338e1a4c498890334b56818117e0416239"
+    },
+    {
+      "paperId": "2fa8d566a0363785954868df21799cd48fd7c1fc"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": "fa8807b59e272131b450955c30f5e4af85045ee2"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

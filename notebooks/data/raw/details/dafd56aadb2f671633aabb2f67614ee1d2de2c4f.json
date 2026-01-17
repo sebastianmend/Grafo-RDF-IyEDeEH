@@ -1,0 +1,40 @@
+{
+  "paperId": "dafd56aadb2f671633aabb2f67614ee1d2de2c4f",
+  "externalIds": {
+    "MAG": "2922024218",
+    "DBLP": "conf/icncc/BaculoM18",
+    "DOI": "10.1145/3301326.3301358",
+    "CorpusId": 77388845
+  },
+  "url": "https://www.semanticscholar.org/paper/dafd56aadb2f671633aabb2f67614ee1d2de2c4f",
+  "title": "Automatic Mango Detection using Image Processing and HOG-SVM",
+  "venue": "International Conference on Network, Communication and Computing",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3301326.3301358?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3301326.3301358, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "29371562",
+      "name": "Maria Jeseca C. Baculo"
+    },
+    {
+      "authorId": "36940378",
+      "name": "N. Marcos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

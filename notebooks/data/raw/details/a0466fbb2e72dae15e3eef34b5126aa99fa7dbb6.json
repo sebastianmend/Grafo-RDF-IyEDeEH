@@ -1,0 +1,64 @@
+{
+  "paperId": "a0466fbb2e72dae15e3eef34b5126aa99fa7dbb6",
+  "externalIds": {
+    "MAG": "2883773987",
+    "DOI": "10.1002/pca.2777",
+    "CorpusId": 51706763,
+    "PubMed": "30033674"
+  },
+  "url": "https://www.semanticscholar.org/paper/a0466fbb2e72dae15e3eef34b5126aa99fa7dbb6",
+  "title": "Deep eutectic solvents used as extraction solvent for the determination of flavonoids from Camellia oleifera flowers by high-performance liquid chromatography.",
+  "venue": "Phytochemical Analysis",
+  "year": 2018,
+  "citationCount": 50,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/pca.2777?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/pca.2777, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "12020126",
+      "name": "Yaqian Ma"
+    },
+    {
+      "authorId": "2152970770",
+      "name": "Menghan Liu"
+    },
+    {
+      "authorId": "2069451374",
+      "name": "Ting Tan"
+    },
+    {
+      "authorId": "11243921",
+      "name": "Aiping Yan"
+    },
+    {
+      "authorId": "46846015",
+      "name": "Lan Guo"
+    },
+    {
+      "authorId": "2052123380",
+      "name": "Kun Jiang"
+    },
+    {
+      "authorId": "65856315",
+      "name": "Changheng Tan"
+    },
+    {
+      "authorId": "39553427",
+      "name": "Yiqun Wan"
+    }
+  ],
+  "abstract": "INTRODUCTION\nCamellia oleifera flowers are rich in flavonoids, but there has been little attention on their application. A simple and reliable method for determining the content of flavonoids in C. oleifera flowers would be very helpful for the utilisation of agriculture resources.\n\n\nOBJECTIVE\nTo develop an efficient analytical method for the determination of flavonoids in C. oleifera flowers by high-performance liquid chromatography-ultraviolet (HPLC-UV) detection.\n\n\nMETHODOLOGY\nPreparing an environmentally-friendly and effective solvent - deep eutectic solvents (DESs) - for compound extraction. Then investigating the influential factors of ultrasound-assisted extraction with DESs by the Box-Behnken design combined with response surface methodology.\n\n\nRESULTS\nDES-5 synthesised with choline chloride and lactic acid (1:2) acquired excellent extractability for four flavonoids (quercetin 3-O-rhamnoside, kaempferol 3-O-rhamnoside and their aglycones) with different polarity. The proposed method, which could simultaneously determine four flavonoids with HPLC-UV detection for the first time, displays satisfactory recovery yields and high precision with inter-day relative standard deviation lower than 5.80%.\n\n\nCONCLUSION\nDESs could be promising solvents for efficiently and selectively extracting bioactive compounds from plant materials, and the analytical method for flavonoids of C. oleifera flowers could provide reference value for its application and be used in other plant resources.",
+  "references": null
+}

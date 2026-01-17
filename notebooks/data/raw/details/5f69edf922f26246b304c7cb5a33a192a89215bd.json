@@ -1,0 +1,36 @@
+{
+  "paperId": "5f69edf922f26246b304c7cb5a33a192a89215bd",
+  "externalIds": {
+    "MAG": "2946153926",
+    "CorpusId": 181906567
+  },
+  "url": "https://www.semanticscholar.org/paper/5f69edf922f26246b304c7cb5a33a192a89215bd",
+  "title": "Protected Agriculture, Precision Agriculture, and Vertical Farming: Brief Reviews of Issues in the Literature Focusing on the Developing Region in Asia",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "52138561",
+      "name": "Hiroyuki Takeshima"
+    },
+    {
+      "authorId": "2066882790",
+      "name": "P. K. Joshi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

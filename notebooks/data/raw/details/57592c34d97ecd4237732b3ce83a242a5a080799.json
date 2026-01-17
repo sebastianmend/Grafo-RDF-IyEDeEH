@@ -1,0 +1,48 @@
+{
+  "paperId": "57592c34d97ecd4237732b3ce83a242a5a080799",
+  "externalIds": {
+    "DBLP": "conf/icac/BoubinCSK19",
+    "MAG": "2973181736",
+    "DOI": "10.1109/ICAC.2019.00012",
+    "CorpusId": 202561225
+  },
+  "url": "https://www.semanticscholar.org/paper/57592c34d97ecd4237732b3ce83a242a5a080799",
+  "title": "Autonomic Computing Challenges in Fully Autonomous Precision Agriculture",
+  "venue": "International Conference on Automation and Computing",
+  "year": 2019,
+  "citationCount": 37,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAC.2019.00012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAC.2019.00012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3424981",
+      "name": "Jayson G. Boubin"
+    },
+    {
+      "authorId": "1396650006",
+      "name": "J. Chumley"
+    },
+    {
+      "authorId": "143876788",
+      "name": "Christopher Stewart"
+    },
+    {
+      "authorId": "10131231",
+      "name": "S. Khanal"
+    }
+  ],
+  "abstract": "Precision agriculture examines crop fields, gathers data, analyzes crop health and informs field management. This data driven approach can reduce fertilizer runoff, prevent crop disease and increase yield. Frequent data collection improves outcomes, but also increases operating costs. Fully autonomous aerial systems (FAAS) can capture detailed images of crop fields without human intervention. They can reduce operating costs significantly. However, FAAS software must embed agricultural expertise to decide where to fly, which images to capture and when to land. This paper explores fully autonomous precision agriculture where FAAS map crop fields frequently. We have designed hardware and software architecture. We use unmanned aerial systems, edge computing components and software driven by reinforcement learning and ensemble models. In early results, we have collected data from an Ohio cornfield. We use this data to simulate a FAAS modeling crop yield. Our results (1) show that our approach predicts yield well and (2) can quantify computational demand. Computational costs can be prohibitive. We discuss how research on adaptive systems can reduce costs and enable fully autonomous precision agriculture. We also provide our simulation tools and dataset as part of our open source FAAS middleware, SoftewarePilot.",
+  "references": null
+}

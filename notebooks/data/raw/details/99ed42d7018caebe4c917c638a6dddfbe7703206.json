@@ -1,0 +1,54 @@
+{
+  "paperId": "99ed42d7018caebe4c917c638a6dddfbe7703206",
+  "externalIds": {
+    "MAG": "2955298871",
+    "DOI": "10.1109/ICISET.2018.8745605",
+    "CorpusId": 195740292
+  },
+  "url": "https://www.semanticscholar.org/paper/99ed42d7018caebe4c917c638a6dddfbe7703206",
+  "title": "IoT Based Power Efficient Agro Field Monitoring and Irrigation Control System : An Empirical Implementation in Precision Agriculture",
+  "venue": "2018 International Conference on Innovations in Science, Engineering and Technology (ICISET)",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISET.2018.8745605?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISET.2018.8745605, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "122890367",
+      "name": "Md. Ariful Islam"
+    },
+    {
+      "authorId": "86920169",
+      "name": "Kohinur Akter"
+    },
+    {
+      "authorId": "147693700",
+      "name": "Noor Jahan Nipu"
+    },
+    {
+      "authorId": "2113243895",
+      "name": "Amlan Das"
+    },
+    {
+      "authorId": "2286686584",
+      "name": "Md. Mahbubur Rahman"
+    },
+    {
+      "authorId": "150228126",
+      "name": "Mohimanur Rahman"
+    }
+  ],
+  "abstract": "Internet of Things (IoT) has been flourishing the communication and networking system in recent years, while experiencing a growing phase in agricultural field. Precision agriculture requires sensor integration, automatic control, and networking and data processing capabilities. With the implementation of rapidly growing IoT, challenges of scalability and data management can be overcome. In this research, we have developed an IoT based smart monitoring system for agricultural practice including client application- web application and android application; and designed a controlling system for power efficient irrigation. We have used LoRa, wireless RF transceiver to overcome the limitations of area coverage and have enabled to established real time data communication. While our android application makes this system feasible for users. Real time data were collected deploying the system and empirical data has been included in the result section.",
+  "references": null
+}

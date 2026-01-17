@@ -1,0 +1,216 @@
+{
+  "paperId": "cdbeb479576bd4e024c01b7e1c1e1c81a5cd68b6",
+  "externalIds": {
+    "MAG": "2912874092",
+    "DBLP": "journals/sensors/WangLZZTOLC19",
+    "PubMedCentral": "6387432",
+    "DOI": "10.3390/s19030642",
+    "CorpusId": 67857289,
+    "PubMed": "30717488"
+  },
+  "url": "https://www.semanticscholar.org/paper/cdbeb479576bd4e024c01b7e1c1e1c81a5cd68b6",
+  "title": "Applications and Prospects of Agricultural Unmanned Aerial Vehicle Obstacle Avoidance Technology in China",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 70,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/3/642/pdf?version=1549601570",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6387432, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108539696",
+      "name": "Linlin Wang"
+    },
+    {
+      "authorId": "27388096",
+      "name": "Y. Lan"
+    },
+    {
+      "authorId": "2108520393",
+      "name": "Yali Zhang"
+    },
+    {
+      "authorId": "46702713",
+      "name": "Huihui Zhang"
+    },
+    {
+      "authorId": "37898126",
+      "name": "M. Tahir"
+    },
+    {
+      "authorId": "2056449368",
+      "name": "Shichao Ou"
+    },
+    {
+      "authorId": "2142989738",
+      "name": "Xiaotao Liu"
+    },
+    {
+      "authorId": "30858338",
+      "name": "Pengchao Chen"
+    }
+  ],
+  "abstract": "With the steady progress of China’s agricultural modernization, the demand for agricultural machinery for production is widely growing. Agricultural unmanned aerial vehicles (UAVs) are becoming a new force in the field of precision agricultural aviation in China. In those agricultural areas where ground-based machinery have difficulties in executing farming operations, agricultural UAVs have shown obvious advantages. With the development of precision agricultural aviation technology, one of the inevitable trends is to realize autonomous identification of obstacles and real-time obstacle avoidance (OA) for agricultural UAVs. However, the complex farmland environment and changing obstacles both increase the complexity of OA research. The objective of this paper is to introduce the development of agricultural UAV OA technology in China. It classifies the farmland obstacles in two ways and puts forward the OA zones and related avoidance tactics, which helps to improve the safety of aviation operations. This paper presents a comparative analysis of domestic applications of agricultural UAV OA technology, features, hotspot and future research directions. The agricultural UAV OA technology of China is still at an early development stage and many barriers still need to be overcome.",
+  "references": [
+    {
+      "paperId": "a04aa73bde816a3e1c1a1668d896c104d7da5816"
+    },
+    {
+      "paperId": "56edc8852286a1ed80a5d76d33806abf6019ec82"
+    },
+    {
+      "paperId": "83f52aa07e9aecad31431a5f14ad2177f991a6d3"
+    },
+    {
+      "paperId": "238f4a302f48934f3e060b20a22dafe94c7bc5dc"
+    },
+    {
+      "paperId": "499ad50629768a7a7cd019536610c30381c46001"
+    },
+    {
+      "paperId": "9ef673d207d6792484a7ef15fcf274fbeae2c6de"
+    },
+    {
+      "paperId": "ff84a7902daedbee8acd398c51dc6d279f321fb1"
+    },
+    {
+      "paperId": "e566430184152289662cf3e346fecb9dd9698f91"
+    },
+    {
+      "paperId": "b5ee14a607befff9fcf2edb1ba11b3edb3b2bbc2"
+    },
+    {
+      "paperId": "8140f510623a2fd6af9a2ee72e7831649a64ab6c"
+    },
+    {
+      "paperId": "df24bf3f489027addbfcd51c9ddf4061788253bc"
+    },
+    {
+      "paperId": "28b568f6eadf8a83157530502fb8471472f4e67e"
+    },
+    {
+      "paperId": "6bdacaf992b0394cc73ff94fcbf6b31483406286"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f10a7b9c6e41908d41dc03dcefed181177cfe52e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6ddd4f4289ef4af6a6b58abd44b0cb1e0f3cb3a0"
+    },
+    {
+      "paperId": "268168512f1b6883583829ac48ade90aeb404c87"
+    },
+    {
+      "paperId": "38b85997820f02d3b28605a241eaa052db009551"
+    },
+    {
+      "paperId": "0b4ccc41a15f13bf951aa3cdb4b318ddff1c414f"
+    },
+    {
+      "paperId": "ba5ebe74170a5755ac4deeef163c05f8a25cc417"
+    },
+    {
+      "paperId": "b1392105f583226c9fbc2254056aac93882534b0"
+    },
+    {
+      "paperId": "ac0b9d541916f9ac5fcb8a0816d6be6bd6ab8ff5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3344f43434eebaf43dd9ceb9e17b95acc8ca0d7e"
+    },
+    {
+      "paperId": "5fb28f20f559fe0edab97ebb7080f7455693261c"
+    },
+    {
+      "paperId": "d2987afcb25bba5cabce8810b40362832a74a5f9"
+    },
+    {
+      "paperId": "08a8aa7308a1279f5f5dcfe92198b4e07ff23293"
+    },
+    {
+      "paperId": "98618277aaf135862ebf6713736e90a5df025f71"
+    },
+    {
+      "paperId": "4eba2fabdacc191b35b1c82a0f43a685a0a7fdf6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5b44a3f6dc2956552e876870f1e7e3424bcf2196"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

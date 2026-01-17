@@ -1,0 +1,673 @@
+{
+  "paperId": "2b0d90af12f959b29fed9afefe90f54b4e0324cd",
+  "externalIds": {
+    "MAG": "2885121946",
+    "DOI": "10.25165/J.IJABE.20181104.4278",
+    "CorpusId": 69434941
+  },
+  "url": "https://www.semanticscholar.org/paper/2b0d90af12f959b29fed9afefe90f54b4e0324cd",
+  "title": "Research and development in agricultural robotics: a perspective of digital farming.",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 467,
+  "influentialCitationCount": 12,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.25165/j.ijabe.20181103.4278",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.25165/J.IJABE.20181104.4278?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/J.IJABE.20181104.4278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35629016",
+      "name": "R. Shamshiri"
+    },
+    {
+      "authorId": "2050822171",
+      "name": "Cornelia Weltzien"
+    },
+    {
+      "authorId": "2754221",
+      "name": "I. Hameed"
+    },
+    {
+      "authorId": "91711270",
+      "name": "I. Yule"
+    },
+    {
+      "authorId": "4850448",
+      "name": "T. Grift"
+    },
+    {
+      "authorId": "51260647",
+      "name": "S. K. Balasundram"
+    },
+    {
+      "authorId": "2266590",
+      "name": "Lenka Pitonakova"
+    },
+    {
+      "authorId": "144940484",
+      "name": "D. Ahmad"
+    },
+    {
+      "authorId": "1733356",
+      "name": "Girish V. Chowdhary"
+    }
+  ],
+  "abstract": "Digital farming is the practice of modern technologies such as sensors, robotics, and data analysis for shifting from tedious operations to continuously automated processes. This paper reviews some of the latest achievements in agricultural robotics, specifically those that are used for autonomous weed control, field scouting, and harvesting. Object identification, task planning algorithms, digitalization and optimization of sensors are highlighted as some of the facing challenges in the context of digital farming. The concepts of multi-robots, human-robot collaboration, and environment reconstruction from aerial images and ground-based sensors for the creation of virtual farms were highlighted as some of the gateways of digital farming. It was shown that one of the trends and research focuses in agricultural field robotics is towards building a swarm of small scale robots and drones that collaborate together to optimize farming inputs and reveal denied or concealed information. For the case of robotic harvesting, an autonomous framework with several simple axis manipulators can be faster and more efficient than the currently adapted professional expensive manipulators. While robots are becoming the inseparable parts of the modern farms, our conclusion is that it is not realistic to expect an entirely automated farming system in the future. \nKeywords: agricultural robotics, precision agriculture, virtual orchards, digital agriculture, simulation software, multi-robots \nDOI: 10.25165/j.ijabe.20181104.4278 \n \nCitation: Shamshiri R R, Weltzien C, Hameed I A, Yule I J, Grift T E, Balasundram S K, et al. Research and development in agricultural robotics: A perspective of digital farming. Int J Agric & Biol Eng, 2018; 11(4): 1–14.",
+  "references": [
+    {
+      "paperId": "394c385e27e42d68c347e716ed8756b37f7bc3d9"
+    },
+    {
+      "paperId": "5b1fa8135d6a27bb512019f5e279475b1b04b72b"
+    },
+    {
+      "paperId": "e191988d19f1791cc9ba1d75addf0facb2c4b7e1"
+    },
+    {
+      "paperId": "93989c51fb9800c7fe528c020d32e11bfd404361"
+    },
+    {
+      "paperId": "857e83cf8978d9415327ef6e3c50a0729740d9a9"
+    },
+    {
+      "paperId": "08453390484a250a457bcb8b986629cf6ff58be1"
+    },
+    {
+      "paperId": "1395e7b1a5202bdbb8ae4b0b8230a3e1b2b74e88"
+    },
+    {
+      "paperId": "51db38a0a32eb33c1b31101474a3026868a00a83"
+    },
+    {
+      "paperId": "08e9467a8640151e1ce4695a95f4eae457a65abb"
+    },
+    {
+      "paperId": "564b905f8c261b463ea29b58353a828189525803"
+    },
+    {
+      "paperId": "e4a71c61ae9177d90de8cb92215912ff43a474f8"
+    },
+    {
+      "paperId": "0eadf46913448b9119ec21fd96ebe754b990d79a"
+    },
+    {
+      "paperId": "d328cbb7d2336795ca50d62a4182058c1555e3d4"
+    },
+    {
+      "paperId": "bbc79aed01d3cff83339a512570eb644fe77cd33"
+    },
+    {
+      "paperId": "6f9a25f5c38d574157ff2e2d46503d6490417ca9"
+    },
+    {
+      "paperId": "378449914530db9fdf28b3410d3f9353f24b41bb"
+    },
+    {
+      "paperId": "20a552c58f457b5db453ec2f3788a0bb45be49b9"
+    },
+    {
+      "paperId": "1b583dd6147902eae879495ed97fc9b1f73fd069"
+    },
+    {
+      "paperId": "74e33c060e318309acbb72e62fd8c866d98f2e53"
+    },
+    {
+      "paperId": "0b842f5d17165280687784ccf6b844242f7bfb7c"
+    },
+    {
+      "paperId": "bcb1349fd89dff44b15022e603362b8abedd8865"
+    },
+    {
+      "paperId": "c7d243d0d1efee259ce533fd394d3d53e27e8c8a"
+    },
+    {
+      "paperId": "ed0f5c404230c9043d491d03ad4e2ffae9ec9c13"
+    },
+    {
+      "paperId": "80ccf61879ba9ab2898cfb3e83dbeab73c94266a"
+    },
+    {
+      "paperId": "bda88292b054a176da5222e22378d3354583b67b"
+    },
+    {
+      "paperId": "ed7d150719252b8ea41ea781737d0a031f4ecaca"
+    },
+    {
+      "paperId": "f2aa558448ba9c5eff864809dbc353d945d1df3a"
+    },
+    {
+      "paperId": "64e96e153202791d3049fc3648d374c9ded549e1"
+    },
+    {
+      "paperId": "9912c6cd5607f0c7835787fe7f332d3d7bf21489"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "97788f093baf55372a3267fdc123636ad5d08ada"
+    },
+    {
+      "paperId": "1c1b0a59df0229dde780d4c49ba2662c29227567"
+    },
+    {
+      "paperId": "9703dfb97478cddd7bbc29efb30908f7e8ed92af"
+    },
+    {
+      "paperId": "34f6eaa5d5abb02fd9aabbcc090a8e890a3472a4"
+    },
+    {
+      "paperId": "11e54a2c97f8d852d277c3e989131e82d72ece1a"
+    },
+    {
+      "paperId": "057f602d3e762d73a077a41122fb62d42e8283a0"
+    },
+    {
+      "paperId": "479bd6d4a871fd2e0b718c8a106f86acda2878b0"
+    },
+    {
+      "paperId": "7fdf0aad3b9bf8b52ead48efcf3fd682aacac111"
+    },
+    {
+      "paperId": "13855d943999bbe8cc7a7e56b69b76a2ebd85959"
+    },
+    {
+      "paperId": "4ef826d8915a1b28980ef883dbd623a8f9bf54f1"
+    },
+    {
+      "paperId": "b95191e4672475b32d0a4c571bd2817659747dca"
+    },
+    {
+      "paperId": "16f9addbf673cc0604bafaa8915def74972d1772"
+    },
+    {
+      "paperId": "bbd55ab6ba8ad0ecb0cbd25941c3bc2271d6969e"
+    },
+    {
+      "paperId": "fa61577a7c15182e63cac43dfddaf3979f4ed0ad"
+    },
+    {
+      "paperId": "00a526385a6cb746bcaaec88a58ba887a9546d05"
+    },
+    {
+      "paperId": "9169b8dfa4ecd0c9b5bd59164a73b4f63413e786"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "e4a3bd8de4fe2d8711614c6663ea8a50145b34df"
+    },
+    {
+      "paperId": "9678b92699fd4823d74e247db6bfefaa7e17174c"
+    },
+    {
+      "paperId": "c74cd94b8031874dd436c2426bc6fe25f63a6ba6"
+    },
+    {
+      "paperId": "fcc735e2eb935d242fee9a3e334e6b3e69454b59"
+    },
+    {
+      "paperId": "063bc81463de0a7712c6c09f9a46d4f4cbb6a9a9"
+    },
+    {
+      "paperId": "31943760427e2e1d1fc3903623858d52023a35f5"
+    },
+    {
+      "paperId": "86dd1891488ced4092c09792c58cacf8ad72b9ff"
+    },
+    {
+      "paperId": "fc485f4964d5bfe82b5b38d14604c9d8999d6274"
+    },
+    {
+      "paperId": "a40c7966e48bbec9a0a982cba960d0ef0d9bfd1d"
+    },
+    {
+      "paperId": "7ef374ea20692c2839d9c9fa1670a38e2c882f6c"
+    },
+    {
+      "paperId": "5d4a14ad86581882537879101c842823dffd9efb"
+    },
+    {
+      "paperId": "e9fbeef0580e44372a93bf4a1e4c42dfcbfdfde3"
+    },
+    {
+      "paperId": "63567b9d448db1231f98f85e29ba42cd8b6d1aa1"
+    },
+    {
+      "paperId": "d3e6643e0901d442ad6a3b0b06a8a5a93f54a000"
+    },
+    {
+      "paperId": "9bf3b05a1e1a8c6a120b2499135313d12e2770b3"
+    },
+    {
+      "paperId": "70791329c371cf94da071f70dfe0d21be1c9a972"
+    },
+    {
+      "paperId": "ea498e36b5fa170077247b87531eb2c40aeed4f3"
+    },
+    {
+      "paperId": "5f44b98b2c754208c18943119c657be31252648a"
+    },
+    {
+      "paperId": "f82a230976160caa50ed9f4f162ccc0f45a87260"
+    },
+    {
+      "paperId": "2ec033996addc6a52b00951319b094ee5c7f9bbc"
+    },
+    {
+      "paperId": "caf3dec891996ebf1851c36dc2b324e59b1169c7"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "bab348927c667a0f97b7975f99fad38238f75ef7"
+    },
+    {
+      "paperId": "c2eaffc617c57ab5106ba3bc95b7b910be473389"
+    },
+    {
+      "paperId": "40802cc758de00a9815fb23ddef4c43c1338a031"
+    },
+    {
+      "paperId": "3846336d50e9d3133cea368c8f3e490af97547e8"
+    },
+    {
+      "paperId": "7338edc0af83cf864fbe7d75abb2dc6a08995747"
+    },
+    {
+      "paperId": "872f57b073a55084fe730bfff40bcaebb8f50a2c"
+    },
+    {
+      "paperId": "102df4ec5f5bebb344a36e58d006603b085e1db8"
+    },
+    {
+      "paperId": "c6a2eb00519bd81b62cc0f1b33af33034f4e6c42"
+    },
+    {
+      "paperId": "336d63da1e1b8421c1e3495da573f3273b23e7aa"
+    },
+    {
+      "paperId": "2e99d954ed649b7340f3bcc05d76a282ad212d2f"
+    },
+    {
+      "paperId": "61453645f239459747d1ca554d5344ea3dd48c2e"
+    },
+    {
+      "paperId": "c13e209be6e181138d081a5dc6751286cd67d2ad"
+    },
+    {
+      "paperId": "75780916ab04597fa75ba88dd8524cc7bf585ce0"
+    },
+    {
+      "paperId": "d223ef12f8788ba74193d194833afa8db62b7406"
+    },
+    {
+      "paperId": "243233a84eb60051e6f7333e5763ce5d0f38aad8"
+    },
+    {
+      "paperId": "a2b986b0c676ad71481582e9344a8323aafd8dfb"
+    },
+    {
+      "paperId": "5cc7481f21fbd54253f2772f59c3855ebad202e8"
+    },
+    {
+      "paperId": "c19dd5f6bbdc591cde3c3dc2fbeba91ba41fe3e2"
+    },
+    {
+      "paperId": "0e81f56908b67f3595d7402ba25913e7ebd5ef6e"
+    },
+    {
+      "paperId": "b51c1181954310d369a553a54f670b9bd62c670f"
+    },
+    {
+      "paperId": "f0013e67e2407f6ae2d9ea86e523edb01a5ab2c7"
+    },
+    {
+      "paperId": "3af9b59638b24366ff05ea47da09e2e0202ad133"
+    },
+    {
+      "paperId": "b20a7a99e512dcfc98522985d9e667a0d061ccd2"
+    },
+    {
+      "paperId": "e50b44c8da7ba00954f5ac2c24377c226b99824a"
+    },
+    {
+      "paperId": "e0d280c1b0cf91e71495fe29c4e6daff4ade8d8e"
+    },
+    {
+      "paperId": "2077f3da2246b2f65c006b35c4acfed13ea063ba"
+    },
+    {
+      "paperId": "2ace230e4afeb85ba1f25843acf301ad17794866"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "43f577bfef7d08be8d9b72cfdf6d20a0b6f409b2"
+    },
+    {
+      "paperId": "b17197b9ae30184608a8fef0d915c0bc442d8699"
+    },
+    {
+      "paperId": "5c31df1e14e2e713aa04761fc197edab80722553"
+    },
+    {
+      "paperId": "5a5b02160545bc3518551e5ecfbe6a45306c5278"
+    },
+    {
+      "paperId": "8269a63d400d779c741e44e807c9ffcd592bfa85"
+    },
+    {
+      "paperId": "a58602a5c4fe74cbab9dadcc5046be2bb57a3e7d"
+    },
+    {
+      "paperId": "4aaee7976b9d1c7f233faf7d671013f06c27c95c"
+    },
+    {
+      "paperId": "334e99f40bc920a8aafb13cb407ec48831cd85ac"
+    },
+    {
+      "paperId": "954d01c5c85cf4b60de91165fccf407a86db1b37"
+    },
+    {
+      "paperId": "80036ed8dd13a855a0086edf86926c9ade398cd0"
+    },
+    {
+      "paperId": "bf105abc16f87c6f63784ccc8d6e9131f4fd1f2f"
+    },
+    {
+      "paperId": "ac33ffcc6dba3c6cee43812fcc0a72536f731f8b"
+    },
+    {
+      "paperId": "fd5e40fe56e3f78deae5e3837746a851830e8105"
+    },
+    {
+      "paperId": "e687119ae5a09370b9ddce860cc1199d88f33eda"
+    },
+    {
+      "paperId": "2a5c2c6fc382bffda61c16c43f4bedefb15bb9ee"
+    },
+    {
+      "paperId": "c821383b37486e033a2b8be640ff768de6ca4edf"
+    },
+    {
+      "paperId": "5a066075af2b3d7b2ffb2580e64aa6afac78b344"
+    },
+    {
+      "paperId": "be1866b0ae728f7929a01ed50fa0af8dac56cb7d"
+    },
+    {
+      "paperId": "fafca6c6ae2baa028645664856809bc1c0b8b077"
+    },
+    {
+      "paperId": "aaa09305782ff87f85232c00490ed6b495526ff6"
+    },
+    {
+      "paperId": "e4cd0f1d3904979185084c4278f4a250daf66fd8"
+    },
+    {
+      "paperId": "659455f06c270c3991bf35f2c7458539582e8cbe"
+    },
+    {
+      "paperId": "4f120c67fdfcc85475d52165e70ed9439a6fdf95"
+    },
+    {
+      "paperId": "5fbb2f6f18aa6754b447d648b1197684597d7100"
+    },
+    {
+      "paperId": "76c0b01393cd9d3a26b0f23a09cc6dfe1582d5df"
+    },
+    {
+      "paperId": "e6728da939f1230beb55b475edeef382b7949a4e"
+    },
+    {
+      "paperId": "18f7929443e401c6a1961c5cd3f0d48bd5cac48d"
+    },
+    {
+      "paperId": "e2b3f0d8fdc18928f5154ffa7c98fa8f2f5d4e6b"
+    },
+    {
+      "paperId": "2407797d4b908a5acac26b925567cc12d62e4a21"
+    },
+    {
+      "paperId": "9b5c688401deef8c26c1d82f32db731148c24641"
+    },
+    {
+      "paperId": "27f9b805de1f125273a88786d2383621e60c6094"
+    },
+    {
+      "paperId": "48e4d1039dc58a5a898195c7f164e0f147658732"
+    },
+    {
+      "paperId": "9028edf5e099d0162413bff19908814960670092"
+    },
+    {
+      "paperId": "02198f4ce7275f62aa8dee5da0cbbab3e018b29b"
+    },
+    {
+      "paperId": "927bcfdd7a327d094c62829d6a7ffe2a9643c9c2"
+    },
+    {
+      "paperId": "d1d53340413ee984391c99c816c27d0c47e5a65b"
+    },
+    {
+      "paperId": "6d201784b925327e2245e3f2f263350e488393ce"
+    },
+    {
+      "paperId": "efcfe699f691dbf6440d3fe247a1edc0ee1d7676"
+    },
+    {
+      "paperId": "98823da8ae2073fa2a6dcf205a8e53f4700ded2a"
+    },
+    {
+      "paperId": "9913030165e3717a36341b16fb6d6eda615b8e53"
+    },
+    {
+      "paperId": "66fa8f9fe1af44f50c1ba54b0c22ec7cbce66a37"
+    },
+    {
+      "paperId": "d2610e029bfdaa72b818dab12963dc31aee61d65"
+    },
+    {
+      "paperId": "d46cde12f5510d0af16e7594f48a7dc8c39342fb"
+    },
+    {
+      "paperId": "c56fbf13e2383f6718f61b43212fe992783e6c6c"
+    },
+    {
+      "paperId": "e7066a98ed515153a6b6aaf0981d231bed08348f"
+    },
+    {
+      "paperId": "93acef352808cab74cae9aae531cbd529d8bd88f"
+    },
+    {
+      "paperId": "13754d470d8b5bf060ff42aa5a93b743f8be74a3"
+    },
+    {
+      "paperId": "c1fa49e63261b14c018829099dff40cb81fc5f32"
+    },
+    {
+      "paperId": "cd96d601526d98c1061b437e9217841829ef03b4"
+    },
+    {
+      "paperId": "dbff11d931870ae1e0f1cd6856fc710f12ae0ef5"
+    },
+    {
+      "paperId": "2078a09c133745da15cc66d9db5ad9dcb40bbd4b"
+    },
+    {
+      "paperId": "0bd5c1ac14e22a51fdcfef573f3ea447e672fa92"
+    },
+    {
+      "paperId": "d07c57726e94310f6711db931da526a63ab1b9d4"
+    },
+    {
+      "paperId": "20db4fa65e1a95a80bbb6e961c626ecc0dc5bc1f"
+    },
+    {
+      "paperId": "001f0bdbe62589b03ddc6483e40e86d6071f3cbe"
+    },
+    {
+      "paperId": "2b9e70ab7b29d8f799d132dc4ed36926a68b382d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1c0ccd29dcc1f5654c03772049cbcacaa77103a8"
+    },
+    {
+      "paperId": "0a1826d8e9b52c84aa973d9ff07d7ffdea403151"
+    },
+    {
+      "paperId": "e9ad864019ad4ed8c2faef398f466cb318793842"
+    },
+    {
+      "paperId": "da299dba9580c29ed02fb4d8f0a4c7cc1c10e6f1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0391ce0c34ba2cfdf961053a2b39b01810a9ceb7"
+    },
+    {
+      "paperId": "0d59f4b05dc1fb394a01ea04c6c2f4b40c5b9b5b"
+    },
+    {
+      "paperId": "4bc35e6aa29eaf318739ad83986411a873f2d73e"
+    },
+    {
+      "paperId": "24f3de0d632907ee33784e7e58206b917e8edb39"
+    },
+    {
+      "paperId": "79ff224a76838287a658333d34ef06118bfba9f7"
+    },
+    {
+      "paperId": "dd0b8660f2028869d97a99e23a09391384f788ec"
+    },
+    {
+      "paperId": "d31958504ac29854dd298584a71defccbe42eb36"
+    },
+    {
+      "paperId": "ffd2882b7975264865917357e57ae4786fa0adc5"
+    },
+    {
+      "paperId": "68db3ffa7e035b7e7511a0cf27afcc7c4f44aefc"
+    },
+    {
+      "paperId": "b60cd3a1f13e153ec9e76c0393ccdd98d08d01f3"
+    },
+    {
+      "paperId": "f0cf482e8a199a6bd9afb272db23556a6c8ae155"
+    },
+    {
+      "paperId": "0f67505c0af6b79a8dff134fe744a035c734bf7d"
+    },
+    {
+      "paperId": "e6055b200c690c7d579740966e7deeb9a1945f1f"
+    },
+    {
+      "paperId": "7c3410cce942bce690d244562137ecfcb5f3b180"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5bf304932d3e88fe09ce0c990bd8ee1084647225"
+    },
+    {
+      "paperId": "5b7a28f57b939ff8010faea33105066f5c36b088"
+    },
+    {
+      "paperId": "b2299577450fd0d664330ebb238585989bb4feb1"
+    },
+    {
+      "paperId": "cd27d8dee76e179049ef64fc6dd7ee088cd16c02"
+    },
+    {
+      "paperId": "278cf90e6939f0e0d6810eea03a0f92b8e606a9c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": "b5943b329e5c26cc357f032c1c8122c555f9ade2"
+    },
+    {
+      "paperId": "cdbea62835010dce767f0f75be1912a9798f1d4c"
+    },
+    {
+      "paperId": "bfe8e315213651c4dc59b2bb0bb047ce62c16600"
+    },
+    {
+      "paperId": "03d095ec6c0674a435a2425ca14136a4619afccb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fb1d4146200c0509630e5a4b045ce3e383b2f99e"
+    },
+    {
+      "paperId": "20aa9b02051ba26ca98f630c326e9d65b7585675"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6a9b77a9f254c5ae1aeaeeaeba0dc7373f40e382"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1b4909bde4e9274718297494d75ca6f5cd86d970"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "50ab1236ad2f4849a9495a371890df27d2146a24"
+    },
+    {
+      "paperId": "8cb911d2a948ae494237edca40b5c9a10833c171"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

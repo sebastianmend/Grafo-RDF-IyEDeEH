@@ -1,0 +1,89 @@
+{
+  "paperId": "183ac29b5fc64e2e88257a955e5d17bf3b337af8",
+  "externalIds": {
+    "MAG": "2801400702",
+    "DBLP": "journals/corr/abs-1805-04295",
+    "ArXiv": "1805.04295",
+    "CorpusId": 21674088
+  },
+  "url": "https://www.semanticscholar.org/paper/183ac29b5fc64e2e88257a955e5d17bf3b337af8",
+  "title": "A Tube-based Robust MPC for a Fixed-wing UAV: an Application for Precision Farming",
+  "venue": "arXiv.org",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.04295, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40898131",
+      "name": "Martina Mammarella"
+    },
+    {
+      "authorId": "34692184",
+      "name": "E. Capello"
+    }
+  ],
+  "abstract": "The techniques of precision agriculture include the possibility to execute crop monitoring tasks through the application of Unmanned Aerial Vehicles (UAVs). These platforms are flexible, easy to use and low-cost, and they are the best candidates for improving the farm efficiency and productivity. In this research, a guidance algorithm and a robust control system are combined to guarantee the robustness of the system to additive noise (i.e. wind disturbance) and uncertainties (i.e. model parameter variations). A small fixed-wing UAV with an autonomy of about $1$ hour is proposed as case study, to reduce the cost of monitoring and increasing the stability performance of the system. A waypoint-grid on a paddy field is verified by hardware-in-the loop tests. The control scheme provides good results with a low computational effort, guaranteeing the repeatability of the monitoring and reduction of the costs.",
+  "references": [
+    {
+      "paperId": "574d7f16cb92e349d2e72219ad6b9d5580e1fd47"
+    },
+    {
+      "paperId": "65db433ec64a1dbd1da0b8f07441cb9705e3945d"
+    },
+    {
+      "paperId": "0c48d937fe0dc1d8d7befc7fac9fa93267a536db"
+    },
+    {
+      "paperId": "aa0bd90f2daa1074c9ed633c29ade1844e59a7ad"
+    },
+    {
+      "paperId": "fcc0a04358e59248c5ecdfa1b7df67bb30715358"
+    },
+    {
+      "paperId": "3a5df7363b34cdb860af841734216177ad6e60df"
+    },
+    {
+      "paperId": "c3c2e199c00bfb662dd7f008060c22e0b66dbd04"
+    },
+    {
+      "paperId": "6e2748fea9b3e01f79db0161e4bdc541bf7329e1"
+    },
+    {
+      "paperId": "cf723faaa8f0971a4dd4f87682b0c50ab9dc847d"
+    },
+    {
+      "paperId": "2c96d4d20b9e684a01749a1d49cadd6b3ec14fe7"
+    },
+    {
+      "paperId": "c03ecc07b6ae40e0a0b5ec27bb7a65b4da1d5ebc"
+    },
+    {
+      "paperId": "721de68a75ed1eae769ee586973d082293bb9652"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "af364537636c60b0e5f16922ec672399b8989fca"
+    },
+    {
+      "paperId": "daf608a3d6e8fb6165dc8b601edcad6bb320bab1"
+    },
+    {
+      "paperId": "c4451fdc47cd845fe440cf983111f5446b58a896"
+    }
+  ]
+}

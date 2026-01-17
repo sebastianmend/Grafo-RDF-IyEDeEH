@@ -1,0 +1,47 @@
+{
+  "paperId": "b3560fe15db7131509189ca67643f98f877dbfba",
+  "externalIds": {
+    "DOI": "10.47114/j.agroped.2022.jun4",
+    "CorpusId": 253704969
+  },
+  "url": "https://www.semanticscholar.org/paper/b3560fe15db7131509189ca67643f98f877dbfba",
+  "title": "Soil-Landscape Characterization and Mapping to Advance the State of Spatial Soil Information on Ethiopian Highlands: Implications for Site-Specific Soil Management",
+  "venue": "Agropedology",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.47114/j.agroped.2022.jun4",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.47114/j.agroped.2022.jun4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47114/j.agroped.2022.jun4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "90425663",
+      "name": "W. Seifu"
+    },
+    {
+      "authorId": "2057446703",
+      "name": "E. Elias"
+    },
+    {
+      "authorId": "27663810",
+      "name": "G. Gebresamuel"
+    },
+    {
+      "authorId": "88718291",
+      "name": "G. Legesse"
+    },
+    {
+      "authorId": "1505876309",
+      "name": "W. Tefera"
+    }
+  ],
+  "abstract": "Currently, soil characterization and classification are becoming the primary source of information for precision agriculture, land use planning, and management. Thus, this study was focused on perusing the landscape-scale spatial variation of soils in data-scarce areas using toposequence-based ground sampling to characterize and classify the soils. Six typical profiles representing major landforms were opened and studied for their morphological characteristics and physical and chemical properties. Results indicated that the soils were shallow to very deep in depth, moderately acidic to moderately alkaline in soil reaction, non-saline, and clay to sandy loam in texture. The soils were found to be very low to low in organic carbon, very low to medium in total nitrogen , low to medium in available P, very low in available S, very low to low in available B, high to very high in CEC and very low to very high in base saturation. The soils were found to tbe deficient in Zn but sufficient in Fe, Cu, and Mn. Following the field survey and soil analytical results, five main reference soil groups, mollic Leptosols (Eutric), Prothovertio Luvisols (Clayic, Aric, Escalic), Skeletic Fluvisols (Arenic, Densic), Haplic Leptosols (Skeletic), Haplic Vertisols (Endocalcaric, Ochric), and Haplic Cambisols (Arenic, Aric) were identified in the different parts of the topographic positions. Pedon - 2, 3, 5, and 6 were classified in I to IV land capability class (LCC) and grouped as arable land with some limitations. They were in suitable to a marginally suitable range. The severe constraints to crop cultivation in the area were low fertility, erosion hazard, and climate for all soil units. Therefore, application of manure and compost alongwith chemical fertilizer, reducing complete crop residue removal, and soil and water conservation measures are essential to overcome these common and other limitations.",
+  "references": null
+}

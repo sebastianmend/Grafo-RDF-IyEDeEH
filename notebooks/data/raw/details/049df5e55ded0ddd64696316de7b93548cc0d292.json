@@ -1,0 +1,55 @@
+{
+  "paperId": "049df5e55ded0ddd64696316de7b93548cc0d292",
+  "externalIds": {
+    "MAG": "2795059173",
+    "DBLP": "journals/staeors/HabibZMZFC18",
+    "DOI": "10.1109/JSTARS.2018.2813263",
+    "CorpusId": 13741477
+  },
+  "url": "https://www.semanticscholar.org/paper/049df5e55ded0ddd64696316de7b93548cc0d292",
+  "title": "Boresight Calibration of GNSS/INS-Assisted Push-Broom Hyperspectral Scanners on UAV Platforms",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2018,
+  "citationCount": 45,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/jstars.2018.2813263",
+    "status": "HYBRID",
+    "license": "publisher-specific, author manuscript",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2018.2813263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2018.2813263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "38036973",
+      "name": "A. Habib"
+    },
+    {
+      "authorId": "2267328824",
+      "name": "Tian Zhou"
+    },
+    {
+      "authorId": "89582257",
+      "name": "A. Masjedi"
+    },
+    {
+      "authorId": "2118748587",
+      "name": "Zhou Zhang"
+    },
+    {
+      "authorId": "41018495",
+      "name": "John Evan Flatt"
+    },
+    {
+      "authorId": "15760889",
+      "name": "M. Crawford"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

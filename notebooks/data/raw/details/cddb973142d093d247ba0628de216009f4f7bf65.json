@@ -1,0 +1,162 @@
+{
+  "paperId": "cddb973142d093d247ba0628de216009f4f7bf65",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/YangLZYNH19",
+    "MAG": "2970433707",
+    "DOI": "10.3390/rs11172008",
+    "CorpusId": 202922771
+  },
+  "url": "https://www.semanticscholar.org/paper/cddb973142d093d247ba0628de216009f4f7bf65",
+  "title": "Mapping Plastic Mulched Farmland for High Resolution Images of Unmanned Aerial Vehicle Using Deep Semantic Segmentation",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 39,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/17/2008/pdf?version=1566810988",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11172008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11172008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2158478266",
+      "name": "Qingpu Yang"
+    },
+    {
+      "authorId": "2112251932",
+      "name": "Man Liu"
+    },
+    {
+      "authorId": "2144391789",
+      "name": "Zhitao Zhang"
+    },
+    {
+      "authorId": "12662344",
+      "name": "Shuqin Yang"
+    },
+    {
+      "authorId": "2611959",
+      "name": "J. Ning"
+    },
+    {
+      "authorId": "1782267",
+      "name": "Wenting Han"
+    }
+  ],
+  "abstract": "With increasing consumption, plastic mulch benefits agriculture by promoting crop quality and yield, but the environmental and soil pollution is becoming increasingly serious. Therefore, research on the monitoring of plastic mulched farmland (PMF) has received increasing attention. Plastic mulched farmland in unmanned aerial vehicle (UAV) remote images due to the high resolution, shows a prominent spatial pattern, which brings difficulties to the task of monitoring PMF. In this paper, through a comparison between two deep semantic segmentation methods, SegNet and fully convolutional networks (FCN), and a traditional classification method, Support Vector Machine (SVM), we propose an end-to-end deep-learning method aimed at accurately recognizing PMF for UAV remote sensing images from Hetao Irrigation District, Inner Mongolia, China. After experiments with single-band, three-band and six-band image data, we found that deep semantic segmentation models built via single-band data which only use the texture pattern of PMF can identify it well; for example, SegNet reaching the highest accuracy of 88.68% in a 900 nm band. Furthermore, with three visual bands and six-band data (3 visible bands and 3 near-infrared bands), deep semantic segmentation models combining the texture and spectral features further improve the accuracy of PMF identification, whereas six-band data obtains an optimal performance for FCN and SegNet. In addition, deep semantic segmentation methods, FCN and SegNet, due to their strong feature extraction capability and direct pixel classification, clearly outperform the traditional SVM method in precision and speed. Among three classification methods, SegNet model built on three-band and six-band data obtains the optimal average accuracy of 89.62% and 90.6%, respectively. Therefore, the proposed deep semantic segmentation model, when tested against the traditional classification method, provides a promising path for mapping PMF in UAV remote sensing images.",
+  "references": [
+    {
+      "paperId": "88e7534dad294ec8347d0c0eb8e04a5777d15df6"
+    },
+    {
+      "paperId": "3e5b53a1043080c20f615a043707c0afea173052"
+    },
+    {
+      "paperId": "8fff5963fe480124d4df4cb6bfcf3aa8dfb34101"
+    },
+    {
+      "paperId": "2aab0e8bd4e709ea94f6c4a86a03ecaa789a8ba4"
+    },
+    {
+      "paperId": "57f9ca8e8d396e62ac5f0c869afaf32e1d812685"
+    },
+    {
+      "paperId": "4d07a9a80a3aef7c5106e9360d077dd06140aa5d"
+    },
+    {
+      "paperId": "3c7aea54b7c7321445204fc5078f7346388879f6"
+    },
+    {
+      "paperId": "c0f17f99c44807762f2a386ac6579c364330e082"
+    },
+    {
+      "paperId": "efe26b572cef02b0a4b89d0acf61aecb8bc78427"
+    },
+    {
+      "paperId": "4c88e2694576e4de49d8cbd95192ac6ae0d6ef8a"
+    },
+    {
+      "paperId": "7b512a39119ccf28291ad1f79174312dbf90daca"
+    },
+    {
+      "paperId": "83ef7de2669bb2827208fd3a64ac910e276fbdb4"
+    },
+    {
+      "paperId": "3a9b8bc293754e0523f8d22c4906138fbb862ec7"
+    },
+    {
+      "paperId": "9472ed1440694e9be67b6f7168a656d15651a442"
+    },
+    {
+      "paperId": "842ca93d770edef147e9ca117e1c0294a596cb82"
+    },
+    {
+      "paperId": "b0c065cd43aa7280e766b5dcbcc7e26abce59330"
+    },
+    {
+      "paperId": "2369db9921078c4bb76072ef7d6426e9f1dbfdb5"
+    },
+    {
+      "paperId": "cf986bfe13a24d4739f95df3a856a3c6e4ed4c1c"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0"
+    },
+    {
+      "paperId": "7477bf07bd36648bf97ca76612db1beb538aa438"
+    },
+    {
+      "paperId": "a7f1a4bd5ff49d127fe20f6b8e0b64fb0902bfb0"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "d95e4582f5fa9ffd07f78d6598ba426419e67671"
+    },
+    {
+      "paperId": "3bf004a2f8cce17ab837da3ff6ff9e4d49c2f861"
+    },
+    {
+      "paperId": "e8b12467bdc20bde976750b8a28decdb33246d1d"
+    },
+    {
+      "paperId": "cfc6d0c8260594ebc5dd20ee558d29b1014ed41a"
+    },
+    {
+      "paperId": "52b7bf3ba59b31f362aa07f957f1543a29a4279e"
+    },
+    {
+      "paperId": "fafec59a851a17ab3b1f29ab702ac13a6f611ab5"
+    },
+    {
+      "paperId": "7dc6ac23cbb3a2577230bc62fefe1eaedef507d6"
+    },
+    {
+      "paperId": "9e05effef396922ad68370b6363589d3ca2bae3b"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": "e895bbad823e2a286737dcf1d4cdb5dfe60b15b3"
+    },
+    {
+      "paperId": "de0c639f11eb8fbfddae9c471ff3a309218ffc9a"
+    },
+    {
+      "paperId": "ebfa3fb595ca0299ab5249c69374c98b74bb62b3"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "cb29b5cd6c0bc73c4c122bc284ace53c9de68b33",
+  "externalIds": {
+    "MAG": "3004619613",
+    "DOI": "10.1109/IEMENTech48150.2019.8981128",
+    "CorpusId": 211060287
+  },
+  "url": "https://www.semanticscholar.org/paper/cb29b5cd6c0bc73c4c122bc284ace53c9de68b33",
+  "title": "Precision Agriculture System Using Verilog Hardware Description Language to Design an ASIC",
+  "venue": "2019 3rd International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IEMENTech48150.2019.8981128?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IEMENTech48150.2019.8981128, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2389329310",
+      "name": "Jitendra Patidar"
+    },
+    {
+      "authorId": "152704315",
+      "name": "R. Khatri"
+    },
+    {
+      "authorId": "50712834",
+      "name": "R. Gurjar"
+    }
+  ],
+  "abstract": "Objective of this paper to explain how traditional agriculture in India can be replaced with smart and precision agriculture by controlling different parameter using programmed hardware through Verilog hardware description language with available sensor network data to develop an ASIC. There are different parameters which are responsible for growth of plant, by controlling that parameter production and growth of plant can be improved rapidly in compare of traditional agriculture Issue in traditional agriculture can easily remove through precision agriculture based network. Using precision agriculture organic farming can possible so disease cause by inorganic farming can overcome easily. Water supply in traditional agriculture is more than need of plant so more energy consume to supply more water, using precision agriculture water supply according to need of plant so energy conservation possible. Data analysis of agriculture sector can give correct information about consumption and production of different crops, vegetables, fruits. According to data analysis farmer can easily grow different crops according to demand with the help of precision agriculture.",
+  "references": null
+}

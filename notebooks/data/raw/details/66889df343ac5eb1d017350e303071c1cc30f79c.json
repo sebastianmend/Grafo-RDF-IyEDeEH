@@ -1,0 +1,34 @@
+{
+  "paperId": "66889df343ac5eb1d017350e303071c1cc30f79c",
+  "externalIds": {
+    "MAG": "2937595577",
+    "DOI": "10.2139/ssrn.3352814",
+    "CorpusId": 169051621
+  },
+  "url": "https://www.semanticscholar.org/paper/66889df343ac5eb1d017350e303071c1cc30f79c",
+  "title": "Multilevel Assessment of Agrarian Sustainability in Bulgaria",
+  "venue": "Social Science Research Network",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://mpra.ub.uni-muenchen.de/92752/1/MPRA_paper_92752.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3352814?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3352814, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "83456117",
+      "name": "Hrabrin Bachev Храбрин Башев"
+    }
+  ],
+  "abstract": "The goal of this study is to unpack sustainability in terms of understanding and evaluation using as a case Bulgarian agriculture. A hierarchical system for assessing agrarian sustainability in Bulgaria at national, regional, sub-sectoral, ecosystem and farm level is proposed. It includes 3 aspects(pillars), 17 principles, 35 criteria, and 46 indicators and reference values for evaluating sustainability as well as approach for their integration and interpretation. Assessment is made of agrarian sustainability in the country at various level using aggregate macro and farm level micro data. \nThe assessment has found out that there is a considerable differentiation in the level of integral and aspects sustainability of different type of farms, ecosystems, subsectors and regions. Nevertheless, results on the integral agrarian sustainability based on macro aggregate and micro farm data are quite similar. The later indicates that both approaches are reliable and could be simultaneously used according to the level of analysis, needs of decision makers, and available data. \nMajor factors encouraging improving economic sustainability are market demand and price; direct state subsidies; market competition; financial capability; participation in public support programs; possibility of benefitting immediately; possibility of benefitting in the near future; tax preferences; possibility of benefitting in the long term; and integration with buyers of farm products. Main factors encouraging the enhancement of social sustainability are personal convictions and satisfaction; social recognition of individual contribution; immediate benefits for other people and groups; regional community initiatives and pressure; access to advisory services; European Union policy; and existing regional problems and risks. Important factors encouraging environmental sustainability are problems and risks existing at the global scale; official regulations, standards, and norms; existing regional problems and risks; and European Union policies. \nPublic policies and instruments that improve economic sustainability of Bulgarian agriculture include: direct area-based payments; national top-ups for products and livestock; modernization of agricultural holdings; green payments; support for semi-market farms. At the same time the impact of national and European policies on social and environmental sustainability is relatively weak. \nHaving in mind the importance of holistic assessments of this kind for improving agrarian sustainability, farm management and agrarian policies, they are to be expended and their precision and representation increased. The latter requires a closer cooperation between and participation of all interested parties as well as improvement of the precision through enlargement of collected statistical data, number of surveyed farms, and incorporating more “objective” data from field tests and surveys, monitoring, expertise of professionals in the area, etc.",
+  "references": null
+}

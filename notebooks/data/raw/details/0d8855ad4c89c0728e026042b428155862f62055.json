@@ -1,0 +1,45 @@
+{
+  "paperId": "0d8855ad4c89c0728e026042b428155862f62055",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/LiuCX18",
+    "MAG": "2895935128",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476059",
+    "CorpusId": 52917632
+  },
+  "url": "https://www.semanticscholar.org/paper/0d8855ad4c89c0728e026042b428155862f62055",
+  "title": "Estimating Wheat Coverage Using Multispectral Images Collected by Unmanned Aerial Vehicles and a New Sensor",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "120809696",
+      "name": "Jinran Liu"
+    },
+    {
+      "authorId": "2158501072",
+      "name": "Pengfei Chen"
+    },
+    {
+      "authorId": "50180828",
+      "name": "Xingang Xu"
+    }
+  ],
+  "abstract": "Coverage is an important parameter for indicating wheat growth and health. Remote sensing technology has utility in monitoring wheat coverage in a timely and nondestructive manner over a given spatial scale for precision agriculture. Unmanned aerial vehicles (UAVs) are flexible and can easily be manipulated. They can acquire images with high spatial and temporal resolutions at low cost when equipped with sensors. However, the application of UAVs is still in its initial phases. The objective of this study is to estimate wheat coverage using multispectral images obtained with a low-cost UAV sensor named RedEdge-M and a four-rotor UAV. To meet this goal, a nitrogen fertilization experiment on wheat conducted at the Xiaotangshan National Precision Agriculture Experimental Base in Changping district, Beijing, was used. Multispectral images of wheat in Feekes growth stage 4 were obtained. Additionally, wheat coverage at representative points in each plot were measured by traditional photographic methods. Based on the data described above, spectral data for the sampling points were first extracted from the obtained RedEdge images. Second, the sampling data were divided into two parts. One part contained 24 randomly selected sampling points that were used to design the wheat coverage estimation model, whereas the other part contained the remaining 8 sampling points that were used to test the model. During this process, commonly used spectral indices that are suitable for coverage prediction were selected and used to produce a coverage estimation model. The results showed that multispectral images obtained using RedEdge-M have great potential for use in estimating wheat coverage. All of the selected spectral indices are closely related to wheat coverage. Of these indices, the Triangular Vegetation Index (TVI) and Normalized Difference Red Edge (NDRE) displayed the best performance. During calibration, the R2 values obtained using the TVI and the NDRE were 0.96 and 0.97, respectively; the corresponding RMSE values were 1.56% and 1.50, and the RMSE% values were 8.91 and 8.55. During model validation, the R2 values were 0.90 and 0.90, the RMSE values were 3.11% and 3.31%, and the RMSE% values were 16.96 and 18.05, respectively.",
+  "references": null
+}

@@ -1,0 +1,165 @@
+{
+  "paperId": "775272b11cbd8422f2e943cb861141699a55274e",
+  "externalIds": {
+    "PubMedCentral": "6102389",
+    "MAG": "2886135879",
+    "DOI": "10.3389/fpls.2018.01197",
+    "CorpusId": 51976983,
+    "PubMed": "30154818"
+  },
+  "url": "https://www.semanticscholar.org/paper/775272b11cbd8422f2e943cb861141699a55274e",
+  "title": "High-Throughput Plant Phenotyping for Developing Novel Biostimulants: From Lab to Field or From Field to Lab?",
+  "venue": "Frontiers in Plant Science",
+  "year": 2018,
+  "citationCount": 152,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2018.01197/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6102389, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5518481",
+      "name": "Y. Rouphael"
+    },
+    {
+      "authorId": "3988489",
+      "name": "L. Spíchal"
+    },
+    {
+      "authorId": "7175075",
+      "name": "Klára Panzarová"
+    },
+    {
+      "authorId": "4600514",
+      "name": "R. Casa"
+    },
+    {
+      "authorId": "36995045",
+      "name": "G. Colla"
+    }
+  ],
+  "abstract": "Plant biostimulants which include bioactive substances (humic acids, protein hydrolysates and seaweed extracts) and microorganisms (mycorrhizal fungi and plant growth promoting rhizobacteria of strains belonging to the genera Azospirillum, Azotobacter, and Rhizobium spp.) are gaining prominence in agricultural systems because of their potential for improving nutrient use efficiency, tolerance to abiotic stressors, and crop quality. Highly accurate non-destructive phenotyping techniques have attracted the interest of scientists and the biostimulant industry as an efficient means for elucidating the mode of biostimulant activity. High-throughput phenotyping technologies successfully employed in plant breeding and precision agriculture, could prove extremely useful in unraveling biostimulant-mediated modulation of key quantitative traits and would also facilitate the screening process for development of effective biostimulant products in controlled environments and field conditions. This perspective article provides an innovative discussion on how small, medium, and large high-throughput phenotyping platforms can accelerate efforts for screening numerous biostimulants and understanding their mode of action thanks to pioneering sensor and image-based phenotyping techniques. Potentiality and constraints of small-, medium-, and large-scale screening platforms are also discussed. Finally, the perspective addresses two screening approaches, “lab to field” and “field to lab,” used, respectively, by small/medium and large companies for developing novel and effective second generation biostimulant products.",
+  "references": [
+    {
+      "paperId": "540c38192663a5449799e151e56f37fe4903b16f"
+    },
+    {
+      "paperId": "338c1f48c153437da02cb7ebad63e5e60f9848b0"
+    },
+    {
+      "paperId": "93aae72f4dc0ae93b6824adf91c9c884c4a59bb1"
+    },
+    {
+      "paperId": "eb7003134427464be2a3cff3cac178c16813787e"
+    },
+    {
+      "paperId": "57ae282d30d5ee61cd3cac44d2c8d3feec55be69"
+    },
+    {
+      "paperId": "c28e735a80aed0d6338270d611d234890acc9f21"
+    },
+    {
+      "paperId": "ee7d321bc8356f1caa7c1a8111895574bf9c147b"
+    },
+    {
+      "paperId": "6f1bfb83c76a40aa7ba23f599278b69ce89d964e"
+    },
+    {
+      "paperId": "418ad3a5092cdf1ed4ad652a4de581957f969303"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "9ebe4622d9971b971d6294c01616ef9f964271a0"
+    },
+    {
+      "paperId": "95d784154e9f1ec3456df1b1099adb9a8b597059"
+    },
+    {
+      "paperId": "90d40fd9a01c9d7481f4121c534018be7494eac9"
+    },
+    {
+      "paperId": "273a039479b08184cd01b64e7e87c8d4442c989b"
+    },
+    {
+      "paperId": "cf3d680db30f0de3e25ff569265f55aa758c2eb9"
+    },
+    {
+      "paperId": "4b2129a88d1247c95fcab9108678c94ce69eeee7"
+    },
+    {
+      "paperId": "8fc8a385a250fc68d33a36b876fc2e0ce645bb18"
+    },
+    {
+      "paperId": "515670f7982105c728bd6adba6ff0cbd956a2eaf"
+    },
+    {
+      "paperId": "e4e0e90cfbbd4056e8bf666eedef56b7a4cef9f8"
+    },
+    {
+      "paperId": "2949ed3a26db0bbaa2e6e3ec1556833750452c71"
+    },
+    {
+      "paperId": "97d99f5be6ddb4c8ccf7b90342ca45d0b12ffe84"
+    },
+    {
+      "paperId": "85b2547001dc11beed2554fd16f41a558ee81562"
+    },
+    {
+      "paperId": "1ad70fb5f55ff12207abf63a5d8623153de6c9d9"
+    },
+    {
+      "paperId": "290619ff841b276d4cf7ca473b5e178324d6fc99"
+    },
+    {
+      "paperId": "67eaf6391f14ec8f2633fb45fa06b38682aa55a9"
+    },
+    {
+      "paperId": "4a16be5b2b5dd4f9f01d72426c793259ace8de72"
+    },
+    {
+      "paperId": "136b44759650c0ec04025c511f97d7d51f655a42"
+    },
+    {
+      "paperId": "7e2e54835eb5d48c3f1c85066dd7c98976177132"
+    },
+    {
+      "paperId": "990f052b3ca6aa6fce19305163279545c9ed77b7"
+    },
+    {
+      "paperId": "d77c1ecfac4f5049400c75734a82ee4f87d73dee"
+    },
+    {
+      "paperId": "d2bfca01f27526c542c74278da145141e89d7293"
+    },
+    {
+      "paperId": "2749e6e7b6f60c49c67dec11c370f526968f363e"
+    },
+    {
+      "paperId": "6becc274f9afd76368752494e0abf36da66a2a8b"
+    },
+    {
+      "paperId": "c1fcd2a5c482c9daf7b5a153e2e5923b815ce28a"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

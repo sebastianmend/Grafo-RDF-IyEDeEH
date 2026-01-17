@@ -1,0 +1,149 @@
+{
+  "paperId": "aa9fb4d0d58d6265d283fe08cb4a4cf408ee99a1",
+  "externalIds": {
+    "MAG": "2795820839",
+    "PubMedCentral": "5948514",
+    "DBLP": "journals/sensors/WangHZ18",
+    "DOI": "10.3390/s18041126",
+    "CorpusId": 4807341,
+    "PubMed": "29642454"
+  },
+  "url": "https://www.semanticscholar.org/paper/aa9fb4d0d58d6265d283fe08cb4a4cf408ee99a1",
+  "title": "Application of Deep Learning Architectures for Accurate and Rapid Detection of Internal Mechanical Damage of Blueberry Using Hyperspectral Transmittance Data",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 128,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/4/1126/pdf?version=1525347500",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5948514, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "22230396",
+      "name": "Zhaodi Wang"
+    },
+    {
+      "authorId": "14425187",
+      "name": "Menghan Hu"
+    },
+    {
+      "authorId": "144826390",
+      "name": "Guangtao Zhai"
+    }
+  ],
+  "abstract": "Deep learning has become a widely used powerful tool in many research fields, although not much so yet in agriculture technologies. In this work, two deep convolutional neural networks (CNN), viz. Residual Network (ResNet) and its improved version named ResNeXt, are used to detect internal mechanical damage of blueberries using hyperspectral transmittance data. The original structure and size of hypercubes are adapted for the deep CNN training. To ensure that the models are applicable to hypercube, we adjust the number of filters in the convolutional layers. Moreover, a total of 5 traditional machine learning algorithms, viz. Sequential Minimal Optimization (SMO), Linear Regression (LR), Random Forest (RF), Bagging and Multilayer Perceptron (MLP), are performed as the comparison experiments. In terms of model assessment, k-fold cross validation is used to indicate that the model performance does not vary with the different combination of dataset. In real-world application, selling damaged berries will lead to greater interest loss than discarding the sound ones. Thus, precision, recall, and F1-score are also used as the evaluation indicators alongside accuracy to quantify the false positive rate. The first three indicators are seldom used by investigators in the agricultural engineering domain. Furthermore, ROC curves and Precision-Recall curves are plotted to visualize the performance of classifiers. The fine-tuned ResNet/ResNeXt achieve average accuracy and F1-score of 0.8844/0.8784 and 0.8952/0.8905, respectively. Classifiers SMO/ LR/RF/Bagging/MLP obtain average accuracy and F1-score of 0.8082/0.7606/0.7314/0.7113/0.7827 and 0.8268/0.7796/0.7529/0.7339/0.7971, respectively. Two deep learning models achieve better classification performance than the traditional machine learning methods. Classification for each testing sample only takes 5.2 ms and 6.5 ms respectively for ResNet and ResNeXt, indicating that the deep learning framework has great potential for online fruit sorting. The results of this study demonstrate the potential of deep CNN application on analyzing the internal mechanical damage of fruit.",
+  "references": [
+    {
+      "paperId": "db1204e47e0fa4d52c3413f934e5d3758f8511c0"
+    },
+    {
+      "paperId": "de166be83926f7b8ffcd6353d412728a70f250be"
+    },
+    {
+      "paperId": "964d1c0661d6dd98b849298cf7e82ff94de79e59"
+    },
+    {
+      "paperId": "6b3138e7684d9f51ae20406a103c455357c47eb1"
+    },
+    {
+      "paperId": "cbd4c6209c49fadcc6660e6e29d84beadd06ecbc"
+    },
+    {
+      "paperId": "8c2cd44951cefadf703a8ae44a1eeb3b1c52dea7"
+    },
+    {
+      "paperId": "1c1b0a59df0229dde780d4c49ba2662c29227567"
+    },
+    {
+      "paperId": "abb8b5b6ea705e6b29d3d54da060a3419f78b698"
+    },
+    {
+      "paperId": "f6e0856b4a9199fa968ac00da612a9407b5cb85c"
+    },
+    {
+      "paperId": "45d45687ebca6281d44e477cd012a1ef48ebf286"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "a9fd411ba460593173bac993f46bbc10706e7d15"
+    },
+    {
+      "paperId": "fc45900c9a8edb2e0b7dd38741af84e69cfff1b2"
+    },
+    {
+      "paperId": "815fcc2717ff69e8e617b2dd651af79c2311a62f"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "1dd8cafc34e2a478087547c01cb3d65dcd707fc6"
+    },
+    {
+      "paperId": "f9a451a971252f6adec0a6277f1b9da0b0a8b3b3"
+    },
+    {
+      "paperId": "94f0ce7e4ab605f9ad4c87b7ab308b8e3054238e"
+    },
+    {
+      "paperId": "fcf25c3acb14264473133554c7478c6dd910cd60"
+    },
+    {
+      "paperId": "19a6aa631be25300c55e7d3bbc59a476cf8065ad"
+    },
+    {
+      "paperId": "b5dcb0acbea93e029a10b7cfb5dc0a27489712f4"
+    },
+    {
+      "paperId": "f95ce3f058d4a46e81317a5bf42e604e1a42db8b"
+    },
+    {
+      "paperId": "87e198dda53912da7d95d731aa94c44332cd1122"
+    },
+    {
+      "paperId": "3e75e4fe4ee9c33bbccd54ac17fb855a62674e8c"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "6d95b96d71669f3f4edfcc95cacd428b62b3fcde"
+    },
+    {
+      "paperId": "0dd318767c0e26100b3c07d3efb2c21e8f4168d0"
+    },
+    {
+      "paperId": "d1ee87290fa827f1217b8fa2bccb3485da1a300e"
+    },
+    {
+      "paperId": "9c4a766239363ad81945281cedc590d565ea5960"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6e633b41d93051375ef9135102d54fa097dc8cf8"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

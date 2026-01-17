@@ -1,0 +1,200 @@
+{
+  "paperId": "c930c7b34ef70196d2aaa5c514056f6f2650758b",
+  "externalIds": {
+    "MAG": "2981905363",
+    "DOI": "10.3390/agriculture9110232",
+    "CorpusId": 208573705
+  },
+  "url": "https://www.semanticscholar.org/paper/c930c7b34ef70196d2aaa5c514056f6f2650758b",
+  "title": "Adoption Determinants of Modern Rice Cultivars among Smallholders of Northern Iran",
+  "venue": "Agriculture",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2077-0472/9/11/232/pdf?version=1572515705",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/agriculture9110232?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/agriculture9110232, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4478176",
+      "name": "Dariush Ashoori"
+    },
+    {
+      "authorId": "4487655",
+      "name": "M. Allahyari"
+    },
+    {
+      "authorId": "13156536",
+      "name": "A. Bagheri"
+    },
+    {
+      "authorId": "3892220",
+      "name": "C. Damalas"
+    }
+  ],
+  "abstract": "Several agronomic innovations and precision technologies have been developed and disseminated in rice cultivation, but adoption is often lagged, particularly in developing countries. The objective of this work was to collect information on the use of improved rice cultivars and factors affecting adoption through a farmers’ survey in Guilan Province, northern Iran. About 4 out of 10 farmers (42.8%) used improved rice cultivars. Above half of the farmers (55.2%) recognized the high profitability of this technology and half (49.8%) realized that modern rice cultivars are of great importance. However, there were some farmers who perceived no profitability (14.8%) or no importance (12.5%) regarding this technology. Additionally, 9.8% were not aware of the profitability, and 16.2% were not aware of the importance of the technology. The majority of the farmers (60.5%) collaborated with fellow farmers about common production problems. Nevertheless, low cooperation with extension agents was noted for 58.5% of the farmers and low attendance of local agricultural offices activities was noted for 59.8% of the farmers. A logistic regression analysis showed that perceived profitability and perceived importance of modern varieties, background in rice farming, and size of livestock holdings were positively associated with the adoption of improved cultivars. It can be concluded that the low acceptance of modern rice cultivars in the study area is related to current farming socio-economic conditions. Dissemination of information on improved cultivars from experienced farmers to other farmers should be considered to promote adoption, along with financial incentives to low-income farmers.",
+  "references": [
+    {
+      "paperId": "a0f86db70a7d7ac33d90b4169ac842371eff4cdb"
+    },
+    {
+      "paperId": "b14867890334c49a5a4a04d17e0e4efef3e964e7"
+    },
+    {
+      "paperId": "224b09057651feb1721f5b6e49976aeeb1ac2fe8"
+    },
+    {
+      "paperId": "9630c2cda8ac4689396d0ad7e776cd8f82883274"
+    },
+    {
+      "paperId": "d6c0ec80bfc8085236823e08c1f2aa3d0479211e"
+    },
+    {
+      "paperId": "059459ddd0115461ac9978b60bfe89c630aa897f"
+    },
+    {
+      "paperId": "480cb021b4150c21c5765d8f6b1949631cdfbf94"
+    },
+    {
+      "paperId": "06bd2a52f08fecff8b31a7f2bdddc5ad1d40b78f"
+    },
+    {
+      "paperId": "a4b34fc3328232accbc753131032816b0e70bdc8"
+    },
+    {
+      "paperId": "f3f4f153d0f013dcb0cf5362b45c3d6286b71926"
+    },
+    {
+      "paperId": "2e29ebcd0f5ab31b9539e74f228eddc033d5e834"
+    },
+    {
+      "paperId": "7aa7a545348c702612a8727d2f0dd60c0c397adc"
+    },
+    {
+      "paperId": "b9098b058fc1952df6f0fd18ff360dcc57652c37"
+    },
+    {
+      "paperId": "65adb58bb8044aee2b46ee8c1c09892ed4d5f249"
+    },
+    {
+      "paperId": "622c76779aeae506eebed24992e7955b498492c5"
+    },
+    {
+      "paperId": "047c65f8e90c70f983d962fa429b9879d402b5ac"
+    },
+    {
+      "paperId": "1ff6398e024de7ec4ddaa67ed0afc713867d9979"
+    },
+    {
+      "paperId": "bf4c4b57be42ccc1ba34d9ee9ca49f959401ff8a"
+    },
+    {
+      "paperId": "0b1143c0890ff810cd7a51fda0e7f39693458d09"
+    },
+    {
+      "paperId": "221e43775af3fb25087673f65df5681e6a809fd7"
+    },
+    {
+      "paperId": "e0ee18959f7e4fc70e57079969626a82b8772efc"
+    },
+    {
+      "paperId": "9a33560ec685ff2253f9e1c98a25bff59f086b04"
+    },
+    {
+      "paperId": "1d9cc0c4a303fa4946c4a3a105e4d6105e16174e"
+    },
+    {
+      "paperId": "76c806280b80858ee0f9974350f6b164e6a5daf3"
+    },
+    {
+      "paperId": "10335046c6dedcfea9139a85ae807490f20a3e79"
+    },
+    {
+      "paperId": "16a5014d7ad154bd1808ec9703e7b96ea8fa5a26"
+    },
+    {
+      "paperId": "e8f6d9992566edea275d784b43f460eb2efcd1d6"
+    },
+    {
+      "paperId": "7cd79a9180a3a02b69f64ac4a8c7c548d5d3bf96"
+    },
+    {
+      "paperId": "03d884cab892e0e0af0e8c85d25cda05ab9d3957"
+    },
+    {
+      "paperId": "cf89c1e0f69863f454c528f590e3a5d1f89e7723"
+    },
+    {
+      "paperId": "0d5e640b4a375a66ae51b5ab0f96c41dd7fa8402"
+    },
+    {
+      "paperId": "624a93967ff21454e0e50ddcc716a6bb048f0f6b"
+    },
+    {
+      "paperId": "fe48e90c4599798c389895293cbe80c45e84b640"
+    },
+    {
+      "paperId": "90f95a4709c5f1566820674cb518fb2dfac92a5f"
+    },
+    {
+      "paperId": "1b8119afcb8655301b1f643b92a88435ca99e6df"
+    },
+    {
+      "paperId": "bd3d0e89e15d1b3bbb96bfc3a58becc41db6a4ec"
+    },
+    {
+      "paperId": "d4519e2faf7b47abf918125fd5034879f18ce672"
+    },
+    {
+      "paperId": "baa36aa2ce6a6ee1253f04c8a19486c32027ebb6"
+    },
+    {
+      "paperId": "09b78832972bf5909c215d36d472adeff6db3885"
+    },
+    {
+      "paperId": "942e154d8c2f45c08dc50a2962e2c8c854073785"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

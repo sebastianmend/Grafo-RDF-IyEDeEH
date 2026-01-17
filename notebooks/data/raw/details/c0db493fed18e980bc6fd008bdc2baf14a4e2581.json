@@ -1,0 +1,32 @@
+{
+  "paperId": "c0db493fed18e980bc6fd008bdc2baf14a4e2581",
+  "externalIds": {
+    "MAG": "2916764587",
+    "CorpusId": 86402571
+  },
+  "url": "https://www.semanticscholar.org/paper/c0db493fed18e980bc6fd008bdc2baf14a4e2581",
+  "title": "DIPPA : Data integration platform for precision agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1393506482",
+      "name": "B. Enkhtaivan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

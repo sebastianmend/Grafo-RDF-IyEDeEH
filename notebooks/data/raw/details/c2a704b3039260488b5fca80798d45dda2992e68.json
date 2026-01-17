@@ -1,0 +1,51 @@
+{
+  "paperId": "c2a704b3039260488b5fca80798d45dda2992e68",
+  "externalIds": {
+    "MAG": "2943700272",
+    "DBLP": "conf/iscas/HovhannisyanKFE19",
+    "DOI": "10.1109/ISCAS.2019.8702569",
+    "CorpusId": 155370814
+  },
+  "url": "https://www.semanticscholar.org/paper/c2a704b3039260488b5fca80798d45dda2992e68",
+  "title": "Feasibility Study of Plant Health Monitoring",
+  "venue": "International Symposium on Circuits and Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCAS.2019.8702569?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCAS.2019.8702569, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3408754",
+      "name": "Davit Hovhannisyan"
+    },
+    {
+      "authorId": "2098752250",
+      "name": "Kareem Khalifeh"
+    },
+    {
+      "authorId": "2104293599",
+      "name": "Peng Fei"
+    },
+    {
+      "authorId": "2868015",
+      "name": "A. Eltawil"
+    },
+    {
+      "authorId": "1785145",
+      "name": "F. Kurdahi"
+    }
+  ],
+  "abstract": "Continuous monitoring of crop is an essential task of agricultural practices for detection of diseases or pests, precision irrigation and fertilization. The state of the art monitoring and imaging systems use aerial imaging to obtain visual feedback and multi-spectral imagery to determine crop growth factors. The main idea is that the features can be automatically calculated and assessed after pre-processing the images. After pre-processing, then the parameters can be computed using image processing techniques. For example, key leaf function traits leaf life span, leaf mass per area can be calculated. Our findings indicate that plant health assessment could be moved from lab and expensive monitoring tools to ubiquitous silicon technology based cost effect solutions without much loss of accuracy.",
+  "references": null
+}

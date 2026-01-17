@@ -1,0 +1,55 @@
+{
+  "paperId": "fb3918334ef231fd7ca17905e654f790c6548b89",
+  "externalIds": {
+    "DBLP": "conf/iciap/AvolaCFFMP19",
+    "MAG": "2971817591",
+    "DOI": "10.1007/978-3-030-30645-8_42",
+    "CorpusId": 201843715
+  },
+  "url": "https://www.semanticscholar.org/paper/fb3918334ef231fd7ca17905e654f790c6548b89",
+  "title": "Feature-Based SLAM Algorithm for Small Scale UAV with Nadir View",
+  "venue": "International Conference on Image Analysis and Processing",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-30645-8_42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-30645-8_42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51105591",
+      "name": "D. Avola"
+    },
+    {
+      "authorId": "1729018",
+      "name": "L. Cinque"
+    },
+    {
+      "authorId": "1962368873",
+      "name": "Alessio Fagioli"
+    },
+    {
+      "authorId": "144706031",
+      "name": "G. Foresti"
+    },
+    {
+      "authorId": "35404907",
+      "name": "Cristiano Massaroni"
+    },
+    {
+      "authorId": "3433822",
+      "name": "D. Pannone"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

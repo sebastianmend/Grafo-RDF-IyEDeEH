@@ -1,0 +1,61 @@
+{
+  "paperId": "ac01da528e32e530dd26a8caae9295c935a651d1",
+  "externalIds": {
+    "MAG": "2982533091",
+    "DOI": "10.1088/1755-1315/335/1/012022",
+    "CorpusId": 208130218
+  },
+  "url": "https://www.semanticscholar.org/paper/ac01da528e32e530dd26a8caae9295c935a651d1",
+  "title": "RiTx; Integrating among Field Monitoring System (FMS), Internet of Things (IOT) and agriculture for precision agriculture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/335/1/012022/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/335/1/012022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/335/1/012022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2287027731",
+      "name": "B D A Nugroho"
+    },
+    {
+      "authorId": "1418443057",
+      "name": "H. K. Aliwarga"
+    }
+  ],
+  "abstract": "As developing country with industrial revolution 4.0, agro-technology, Internet of Things (IoT), E-Commerce and logistics technology is an important point in Indonesia. Although there has been many agro-knowledge and information systems for famers, but a little information in integrating among agriculture, IoT and field monitoring systems (FMS) technology for farmers in Indonesia. RiTx or Agricultural Technology is one of application for farmers with integrating among agriculture, IoT and field monitoring system technology. RiTx provides realtime, localized soil and weather data and field-level agronomic intelligence, which support farmers to decide their decisions during planting until harvesting, so failure during planting season can be eliminated. The province of East Nusa Tenggara (NTT) is cluster of islands located in the south – eastern part of Indonesia. The monsoon season stretches from October to March each year. Outside of the monsoon season, the climate of NTT is relatively dry. This study focuses on applying FMS technology with IoT for agricultural precision. For this study, field monitoring system was set up in the field since 26 July 2017 in Kupang, NTT Province that is consisted of three main components, i.e., FieldRouter, Datalogger and the sensors. Here, there are several sensors that have been installed in the field, e.g., solar radiation, rain-gauge and soil moisture. As the results, the IT field monitoring system showed good performance and reliable for precision agriculture. The actual field conditions were monitored well in term of image, numeric, and graphical data acquisition. Based on monitored data, plant growth can be well monitored. In addition, dynamic changes of environmental parameters can be monitored as well. Finally, it can help farmers in the future, not only in Indonesia or South-East Asia but also in the world, so prosperity for farmers can be granted.",
+  "references": [
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

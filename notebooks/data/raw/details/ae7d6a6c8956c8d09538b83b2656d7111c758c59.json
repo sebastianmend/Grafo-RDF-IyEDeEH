@@ -1,0 +1,42 @@
+{
+  "paperId": "ae7d6a6c8956c8d09538b83b2656d7111c758c59",
+  "externalIds": {
+    "MAG": "2931073790",
+    "DOI": "10.1007/s11119-019-09653-x",
+    "CorpusId": 85542528
+  },
+  "url": "https://www.semanticscholar.org/paper/ae7d6a6c8956c8d09538b83b2656d7111c758c59",
+  "title": "A systematic literature review of the factors affecting the precision agriculture adoption process",
+  "venue": "Precision Agriculture",
+  "year": 2019,
+  "citationCount": 190,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-019-09653-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-019-09653-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "89908331",
+      "name": "H. S. Pathak"
+    },
+    {
+      "authorId": "144197020",
+      "name": "P. Brown"
+    },
+    {
+      "authorId": "145918966",
+      "name": "Talitha Best"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

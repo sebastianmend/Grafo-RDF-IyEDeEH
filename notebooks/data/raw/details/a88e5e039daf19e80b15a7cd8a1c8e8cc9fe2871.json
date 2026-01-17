@@ -1,0 +1,47 @@
+{
+  "paperId": "a88e5e039daf19e80b15a7cd8a1c8e8cc9fe2871",
+  "externalIds": {
+    "MAG": "2944897054",
+    "DBLP": "conf/isda/RadhaTKB18",
+    "DOI": "10.1007/978-3-030-16657-1_26",
+    "CorpusId": 152283422
+  },
+  "url": "https://www.semanticscholar.org/paper/a88e5e039daf19e80b15a7cd8a1c8e8cc9fe2871",
+  "title": "Precision Crop Protection Using Wireless Sensor Network",
+  "venue": "International Conference on Intelligent Systems Design and Applications",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-16657-1_26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-16657-1_26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143854935",
+      "name": "R. Radha"
+    },
+    {
+      "authorId": "49192132",
+      "name": "A. Tyagi"
+    },
+    {
+      "authorId": "48990480",
+      "name": "K. Kathiravan"
+    },
+    {
+      "authorId": "79616240",
+      "name": "G. S. Betzy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "d449f9b11c74b7c029f6b2176144578f276ccc59",
+  "externalIds": {
+    "MAG": "2954084258",
+    "DOI": "10.2991/MSMI-19.2019.18",
+    "CorpusId": 198844267
+  },
+  "url": "https://www.semanticscholar.org/paper/d449f9b11c74b7c029f6b2176144578f276ccc59",
+  "title": "Practice and Optimization Suggestion of Precise Poverty Alleviation in Jiangxi Province under the Rural Revitalization Strategy",
+  "venue": "Proceedings of the 6th International Conference on Management Science and Management Innovation (MSMI 2019)",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2991/msmi-19.2019.18",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/MSMI-19.2019.18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/MSMI-19.2019.18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2141762661",
+      "name": "Xiaoyuan Li"
+    },
+    {
+      "authorId": "120383963",
+      "name": "Yan Tang"
+    }
+  ],
+  "abstract": "Implementing the rural revitalization strategy is the general starting point for the work of “agriculture, rural areas and farmers” in the new era, and provides new guidance for the precise poverty alleviation work in poverty-stricken areas. By analyzing the relationship between rural revitalization strategy and precision poverty alleviation, combined with the practical experience of precision poverty alleviation in Jiangxi Province and the results achieved, this paper points out the predicament of precision poverty alleviation in Jiangxi Province from the perspective of rural revitalization. Finally, based on the \"two crosses\" policy of the rural revitalization strategy, the author proposes optimization proposals to promote \"prosperous industry, ecological livability, rural civilization, effective governance, and affluent life.\"",
+  "references": [
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

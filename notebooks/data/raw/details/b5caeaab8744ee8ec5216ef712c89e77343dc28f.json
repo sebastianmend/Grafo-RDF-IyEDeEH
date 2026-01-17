@@ -1,0 +1,198 @@
+{
+  "paperId": "b5caeaab8744ee8ec5216ef712c89e77343dc28f",
+  "externalIds": {
+    "MAG": "2894440407",
+    "DOI": "10.31803/TG-20180213125928",
+    "CorpusId": 135112500
+  },
+  "url": "https://www.semanticscholar.org/paper/b5caeaab8744ee8ec5216ef712c89e77343dc28f",
+  "title": "Different Sensor Systems for the Application of Variable Rate Technology in Permanent Crops",
+  "venue": "Tehnički glasnik",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hrcak.srce.hr/file/302953",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31803/TG-20180213125928?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31803/TG-20180213125928, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40428693",
+      "name": "D. Petrović"
+    },
+    {
+      "authorId": "79040980",
+      "name": "M. Jurišić"
+    },
+    {
+      "authorId": "2166780436",
+      "name": "Tadić Vjekoslav"
+    },
+    {
+      "authorId": "2166779875",
+      "name": "Plaščak Ivan"
+    },
+    {
+      "authorId": "2166780851",
+      "name": "Barač Željko"
+    }
+  ],
+  "abstract": "The paper presents a review of different sensory systems for trees’ characterization and detection in permanent crops and the detection of plant health status in crop\nconditions for the purpose of applying the variable application rate. The use of new technologies enables the use of variable inputs in production with the aim of increasing the\neconomic profit and reducing the negative impact on the environment. World trends increasingly emphasize the use of various sensor systems to achieve precision agriculture\nand apply the following: ultrasonic sensors for the detection of permanent crops; LIDAR (optical) sensors for treetop detection and characterization; infrared sensors with similar\ncharacteristics of optical sensors, but with very low cost prices and N - sensors for variable nitric fertilization. The daily development of sensor systems applied in agricultural\nproduction improves the performance and quality of the machines they are installed on. With a more intensive use of sensors in agricultural mechanization, their price becomes\nmore acceptable for widespread use by achieving high quality work with respect to the ecological principles of sustainable production.",
+  "references": [
+    {
+      "paperId": "6d8ec1db22c451af69c9c04363f1135a96bd0519"
+    },
+    {
+      "paperId": "5dc5bb8633e915f9121bd7b6a7efaaa4a09fef02"
+    },
+    {
+      "paperId": "22f00de1c7c1c7b7c67f680ff117a0e82896f86c"
+    },
+    {
+      "paperId": "10a7c56b2d129deb9bd0affebba62369440ca393"
+    },
+    {
+      "paperId": "2f0304b411e080a8dfe9a8623728af014be856b2"
+    },
+    {
+      "paperId": "5296cdf018b677bbb4b8269ff9e63040f417b98c"
+    },
+    {
+      "paperId": "e73d3fcfb8ca7509abcb258aa13014c2d436e178"
+    },
+    {
+      "paperId": "745ab0b45ac92a98bb4d7c756d287eba46a0f132"
+    },
+    {
+      "paperId": "b00dcb4f6570496e0228a9cd3b5db0fce25137af"
+    },
+    {
+      "paperId": "9087e09d974f03847e04bb5ffadc965bd58e7e95"
+    },
+    {
+      "paperId": "50edc0a1db5b249d486b8e77b4023a87f540fec2"
+    },
+    {
+      "paperId": "8aaa7695ed613e2a298624b08774b3b497272a5d"
+    },
+    {
+      "paperId": "1cdb410408fc10017314a05c1dad64758a940887"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "9b7c6c13633f784432bf53edaf661ce567436403"
+    },
+    {
+      "paperId": "6c39096b771ba1456504e23551fab6550773e393"
+    },
+    {
+      "paperId": "c7576caf92c42321c6f08874acab1b4ecd60b7c1"
+    },
+    {
+      "paperId": "8ca14243bf0993f4ed7e71fd40c75390242a27a9"
+    },
+    {
+      "paperId": "4d9a7487f0ad229b34541bf8293889361c0ffcdf"
+    },
+    {
+      "paperId": "bb0526e4876ea1e98fc0659d1c903a2edcbfb024"
+    },
+    {
+      "paperId": "0d3f3e3ae9ddce15d2ada6def9d62bea665eb9f0"
+    },
+    {
+      "paperId": "ed40019a5deb0f0fc7353cd2d77ded6116a1e2cf"
+    },
+    {
+      "paperId": "ef44837a9409c779bfa514eb1c460ade5be0464b"
+    },
+    {
+      "paperId": "cd986c075ec402766b3a36a67e326b99bb1f2a8a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ca14debf27ea4818ab36419583d106c1d51471f0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "054b838aeb952b8957d35c8e0350b9fc31381a40"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fce3b7427b51508ab0fe0d3dd1408a4a8b113230"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a7ca886b92e59ebb0c8396921cccfa8dec4e6a6a"
+    },
+    {
+      "paperId": "b203430566410372d2114fe1a1b235fdf2828799"
+    },
+    {
+      "paperId": "c229ec7eeb91ed1bef617cb16f4cf48e7beb294e"
+    },
+    {
+      "paperId": "df42062df1f356ae62c9e5c75de240047caa66cc"
+    },
+    {
+      "paperId": "7bdd54900332575b28043291e0df3ca926dc1263"
+    },
+    {
+      "paperId": "d0a70455e6011e592393af4ce355a544c387e616"
+    },
+    {
+      "paperId": "5323072c23c4347e1aaa42536ce6b342ddc155a8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3b27c4462324ae6b73421fff3b1e376d7e259366"
+    },
+    {
+      "paperId": "e31e8a753a9bbd112d4c170c3b3f487a24632d56"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "64fee8a266e28e17c8b2920ce8fb5580624dca9c"
+    },
+    {
+      "paperId": "cd51a0dec83dc64e9c07726a3ae578001030878a"
+    }
+  ]
+}

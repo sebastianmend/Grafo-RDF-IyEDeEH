@@ -1,0 +1,56 @@
+{
+  "paperId": "d675d37495c37086c38e6d9e08f5cca69efa2630",
+  "externalIds": {
+    "MAG": "2922275516",
+    "DOI": "10.1002/jsfa.9689",
+    "CorpusId": 76660948,
+    "PubMed": "30868598"
+  },
+  "url": "https://www.semanticscholar.org/paper/d675d37495c37086c38e6d9e08f5cca69efa2630",
+  "title": "Recognition pest by image-based transfer learning.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2019,
+  "citationCount": 119,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.9689?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.9689, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49769031",
+      "name": "Wang Dawei"
+    },
+    {
+      "authorId": "3370503",
+      "name": "Limiao Deng"
+    },
+    {
+      "authorId": "152320821",
+      "name": "Jiangong Ni"
+    },
+    {
+      "authorId": "82113911",
+      "name": "Gao Ji-yue"
+    },
+    {
+      "authorId": "2149671269",
+      "name": "Hongfei Zhu"
+    },
+    {
+      "authorId": "2983491",
+      "name": "Zhongzhi Han"
+    }
+  ],
+  "abstract": "BACKGROUND\nPlant pests mainly refers to insects and mites that harm crops and products. There are a wide variety of plant pests, with wide distribution, fast reproduction and large quantity, which directly causes serious losses to crops. Therefore, pest recognition is very important for crops to grow healthily, and this in turn affects crop yields and quality. At present, it is a great challenge to realize accurate and reliable pest identification.\n\n\nRESULTS\nIn this study, we put forward a diagnostic system based on transfer learning for pest detection and recognition. This method is able to train and test ten types of pests and achieves an accuracy of 93.84%. We compared this transfer learning method with human experts and a traditional neural network model. Experimental results show that the performance of the proposed method is comparable to human experts and the traditional neural network. To verify the general adaptability of this model, we used our model to recognize two types of weeds: Sisymbrium sophia and Procumbent Speedwell, and achieved an accuracy of 98.92%.\n\n\nCONCLUSION\nThe proposed method can provide evidence for the control of pests and weeds and the precise spraying of pesticides. Thus, it provides reliable technical support for precision agriculture. © 2019 Society of Chemical Industry.",
+  "references": null
+}

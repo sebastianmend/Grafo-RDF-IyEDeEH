@@ -1,0 +1,37 @@
+{
+  "paperId": "da0cb2765313ceceefa59384cc42d4eb9504a860",
+  "externalIds": {
+    "MAG": "2907509313",
+    "DOI": "10.1007/s00335-018-9791-2",
+    "CorpusId": 57241158,
+    "PubMed": "30600355"
+  },
+  "url": "https://www.semanticscholar.org/paper/da0cb2765313ceceefa59384cc42d4eb9504a860",
+  "title": "Fearful old world? A commentary on the Second International Summit on human genome editing",
+  "venue": "Mammalian Genome",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00335-018-9791-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00335-018-9791-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145533512",
+      "name": "A. Greenfield"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

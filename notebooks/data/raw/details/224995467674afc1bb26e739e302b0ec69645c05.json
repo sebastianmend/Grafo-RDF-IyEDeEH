@@ -1,0 +1,47 @@
+{
+  "paperId": "224995467674afc1bb26e739e302b0ec69645c05",
+  "externalIds": {
+    "MAG": "2883087564",
+    "DBLP": "journals/icl/BaccoBGC18",
+    "DOI": "10.1109/LCOMM.2018.2855211",
+    "CorpusId": 52195700
+  },
+  "url": "https://www.semanticscholar.org/paper/224995467674afc1bb26e739e302b0ec69645c05",
+  "title": "IEEE 802.15.4 Air-Ground UAV Communications in Smart Farming Scenarios",
+  "venue": "IEEE Communications Letters",
+  "year": 2018,
+  "citationCount": 74,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LCOMM.2018.2855211?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LCOMM.2018.2855211, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2632787",
+      "name": "Manlio Bacco"
+    },
+    {
+      "authorId": "145499433",
+      "name": "A. Berton"
+    },
+    {
+      "authorId": "144875926",
+      "name": "A. Gotta"
+    },
+    {
+      "authorId": "1728002",
+      "name": "L. Caviglione"
+    }
+  ],
+  "abstract": "Smart farming is one of the most promising applications showing the benefits of using unmanned aerial vehicles (UAVs). Thus, precision agriculture in rural areas may largely benefit from low-cost and easy-to-deploy vehicles able to exchange data with ground sensors for monitoring and controlling automated cultivations. In this letter, we describe, both analytically and empirically, a real testbed implementing IEEE 802.15.4-based communications between an UAV and fixed ground sensors. In our scenario, we found that aerial mobility limits the actual IEEE 802.15.4 transmission range among the UAV and the ground nodes to approximately 1/3 of the nominal one. We also provide considerations to design the deployment of sensors in precision agriculture scenarios.",
+  "references": null
+}

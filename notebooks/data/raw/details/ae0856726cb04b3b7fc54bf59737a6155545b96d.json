@@ -1,0 +1,89 @@
+{
+  "paperId": "ae0856726cb04b3b7fc54bf59737a6155545b96d",
+  "externalIds": {
+    "MAG": "2883945908",
+    "DOI": "10.1088/1755-1315/173/1/012027",
+    "CorpusId": 134057784
+  },
+  "url": "https://www.semanticscholar.org/paper/ae0856726cb04b3b7fc54bf59737a6155545b96d",
+  "title": "Soil characterization using satellite remote sensing in southwestern Nigeria: Implications for precision agriculture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/173/1/012027",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/173/1/012027?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/173/1/012027, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "22361366",
+      "name": "A. Aizebeokhai"
+    },
+    {
+      "authorId": "1753506519",
+      "name": "U. Okenwa"
+    },
+    {
+      "authorId": "22379386",
+      "name": "K. Oyeyemi"
+    },
+    {
+      "authorId": "39120566",
+      "name": "O. T. Kayode"
+    },
+    {
+      "authorId": "100690871",
+      "name": "G. Adeyemi"
+    }
+  ],
+  "abstract": "Timely and reliable soil information with respect to their nature extent and spatial distribution is very essential for the optimal utilization of available natural resources in sustained bases. The technology advances in the field of remote sensing; Geographical Information System (GIS) have augmented the efficiency of soil survey. The use of advanced computer technologies with database can be used in decision making, risk assessment and environmental modelling. Precisely this project aims at the application of high spatial resolution satellite data (LANDAT 7) for assessing soil properties which include soil pH, soil texture and soil drainage. This study was carried out in South Western Nigeria in order to map out some soil characteristics with the use of remotely sensed data to assess their variability within the area in order to improve precision agriculture within the area.",
+  "references": [
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "7feb794c966d3da0db7f1680d9dc60f632bdcfc7"
+    },
+    {
+      "paperId": "552f1caa17d523f92ba75f1f49b12263bd5ffb90"
+    },
+    {
+      "paperId": "cf0b2db2f924517ea05e8b2a9d958edcac4de4b5"
+    },
+    {
+      "paperId": "2a0d95cd45cb02a6bbe422686489061fbba8356e"
+    },
+    {
+      "paperId": "6cf5fd381855caa21220d12d5191ba5059e8cb5e"
+    },
+    {
+      "paperId": "1e0217be87c30a05a72803700c20cfc0f40ccc56"
+    },
+    {
+      "paperId": "f4b7d553b088f1cc0dfbd77c57f229c8608c5e74"
+    },
+    {
+      "paperId": "b8bddc7549bd99a20eb038696ff40237e2beed4d"
+    },
+    {
+      "paperId": "39023257162d3b90e781dd8f2b816b16555d9cff"
+    },
+    {
+      "paperId": "b96a70f79482356ee6b673f590c0a075b818aa5b"
+    },
+    {
+      "paperId": "8aa8f95625979c805cf114fc4c1bac1fefd526d6"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "paperId": "d8b5dcbf80bd2c26ef7a1cb82f5150154e222b0c",
+  "externalIds": {
+    "MAG": "2908396013",
+    "DBLP": "journals/jsan/GrassoS19",
+    "DOI": "10.3390/JSAN8010003",
+    "CorpusId": 68018139
+  },
+  "url": "https://www.semanticscholar.org/paper/d8b5dcbf80bd2c26ef7a1cb82f5150154e222b0c",
+  "title": "A Fleet of MEC UAVs to Extend a 5G Network Slice for Video Monitoring with Low-Latency Constraints",
+  "venue": "J. Sens. Actuator Networks",
+  "year": 2019,
+  "citationCount": 36,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2224-2708/8/1/3/pdf?version=1546311031",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/JSAN8010003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/JSAN8010003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "32833683",
+      "name": "Christian Grasso"
+    },
+    {
+      "authorId": "1997810",
+      "name": "G. Schembra"
+    }
+  ],
+  "abstract": "In the last decade, video surveillance systems have become more and more popular. Thanks to a decrease in price of video camera devices and the diffusion of cheap small unmanned aerial vehicles (UAVs), video monitoring is today adopted in a wide range of application cases, from road traffic control to precision agriculture. This leads to capture a great amount of visual material to be monitored and screened for event detection. However, information that is gathered from a platform of video monitoring UAVs may produce high-volume data, whose processing is unfeasible to be done locally by the same UAVs that perform monitoring. Moreover, because of the limited bandwidth of wireless links connecting UAVs to computing infrastructures that are installed on ground, offloading these data to edge clouds renders these platforms infeasible for video analysis applications with low-latency requirements. The target of this paper is to extend a 5G network slice for video monitoring with a Flying Ad-hoc NETwork (FANET) constituted by UAVs with multi-access edge computing (MEC) facilities (MEC UAVs), flying very close to the layer of UAVs monitoring the area of interest. A policy for mutual help among MEC UAVS is defined in order to increase the performance of the whole aerial MEC platform, so further reducing end-to-end latency between sources and actuators, and increasing system reliability. A use case is considered for a numerical analysis of the proposed platform.",
+  "references": [
+    {
+      "paperId": "e3f1e5602832a92e179d0e0cbb81eea2ae074bb3"
+    },
+    {
+      "paperId": "26856a5f945c63942065a2ae0e9bb0019d8ce347"
+    },
+    {
+      "paperId": "2e0cc7751dec50dc805f41cc0065ee57ab59fda7"
+    },
+    {
+      "paperId": "6257ce8f65185e02e14c6835618566b7bf6ec3bf"
+    },
+    {
+      "paperId": "632356ca649289146a167b08c591c20c1eaa7e2b"
+    },
+    {
+      "paperId": "effe4bf37b40247a30a82d9ecb5e6cf8e07bb13f"
+    },
+    {
+      "paperId": "c22a601db1f74eb7955508958ee341131465dd4d"
+    },
+    {
+      "paperId": "5c61431e479245b1235b30de20aa89ebc188189c"
+    },
+    {
+      "paperId": "afd9dadac8d3354615e26b2038887ecdbc9e33e5"
+    },
+    {
+      "paperId": "34238aa559ab88cbe3fd2c8032569cd67f9a2660"
+    },
+    {
+      "paperId": "80cede05779760d2928778315911743a79160189"
+    },
+    {
+      "paperId": "6718007d7072ca9aba5847d8faadd1e5fb970c77"
+    },
+    {
+      "paperId": "776da0f525b4cd278289fb9cfb13e026cb11b9c7"
+    },
+    {
+      "paperId": "37d6fc637c3810e12ec59e734a20242a4b8f567b"
+    },
+    {
+      "paperId": "bf3cf7bbc92c563c8d97c446b5182cf891588d4c"
+    },
+    {
+      "paperId": "9637925df14a54d592aa9642075e591089b2b977"
+    },
+    {
+      "paperId": "e208b8256ad3fdd45cb8e636181fc368e0c0111f"
+    },
+    {
+      "paperId": "7da446d2b14209866a412913d0a6446077bd54c0"
+    },
+    {
+      "paperId": "ef302c884a6b51c5499e048a9eb84501c351ac83"
+    },
+    {
+      "paperId": "906f06935463fd29ac180e20868588a852a46b43"
+    },
+    {
+      "paperId": "be093424a46e067ab0be11f9fc99d87aa8222108"
+    },
+    {
+      "paperId": "8be33515606a741e986533ff00df529667eb32b7"
+    },
+    {
+      "paperId": "b6be25a2188880468417b7bfef1c88dd969ce5b0"
+    }
+  ]
+}

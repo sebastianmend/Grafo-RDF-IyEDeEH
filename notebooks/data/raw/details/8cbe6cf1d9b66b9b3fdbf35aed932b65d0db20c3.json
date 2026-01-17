@@ -1,0 +1,52 @@
+{
+  "paperId": "8cbe6cf1d9b66b9b3fdbf35aed932b65d0db20c3",
+  "externalIds": {
+    "MAG": "2975300127",
+    "DBLP": "conf/iccse2/ChenLLTC19",
+    "DOI": "10.1109/ICCSE.2019.8845527",
+    "CorpusId": 202729398
+  },
+  "url": "https://www.semanticscholar.org/paper/8cbe6cf1d9b66b9b3fdbf35aed932b65d0db20c3",
+  "title": "Application of Intelligent Technology in Animal Husbandry and Aquaculture Industry",
+  "venue": "International Conference on Crowd Science and Engineering",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSE.2019.8845527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSE.2019.8845527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2108962607",
+      "name": "Yongqiang Chen"
+    },
+    {
+      "authorId": "2230699580",
+      "name": "Shaofang Li"
+    },
+    {
+      "authorId": "2124479602",
+      "name": "Hongmei Liu"
+    },
+    {
+      "authorId": "2060157420",
+      "name": "Pin Tao"
+    },
+    {
+      "authorId": "2228721767",
+      "name": "Yilin Chen"
+    }
+  ],
+  "abstract": "with the popularization of wUAV technology, information technology, artificial intelligence and automation technology, it is a more realistic problem to apply these modern technological to the traditional animal husbandry and aquaculture industry. This will greatly liberate human resources, improve modern production efficiency, and will be of great help to improve the output, product quality and other conveniences. Applying artificial intelligence to modern animal husbandry and animal husbandry and aquaculture technology can intelligently identify animals of different weights and stages, feed differently, and improve the output rate of high-quality feeding animals. On the basis of investigation and Research on different types of sheep houses, the paper formulates optimization and improvement plan for the shortcomings of existing sheep houses, applies information technology in the field of animal husbandry science, improves the automation and intelligence level of goat houses, through the crossdisciplines of automated feeding, precision feeding, automatic door closure, photographic weighting, UAV sheep farm patrol, and herd behavior image analysis, etc. The research and development of new technology has developed a new sheep house for meat goats suitable for use in Agricultural Area, carried out research on microclimate environment regulation and control of different types of sheep houses, formulated corresponding control schemes, and carried out demonstration application in the project area to improve the health status of sheep and increase production efficiency.",
+  "references": null
+}

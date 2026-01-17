@@ -1,0 +1,153 @@
+{
+  "paperId": "16bb64ff712644cd915830ca1f92f67b8a73c24a",
+  "externalIds": {
+    "MAG": "2955039067",
+    "PubMedCentral": "6651272",
+    "DOI": "10.3390/molecules24132486",
+    "CorpusId": 195845019,
+    "PubMed": "31284656"
+  },
+  "url": "https://www.semanticscholar.org/paper/16bb64ff712644cd915830ca1f92f67b8a73c24a",
+  "title": "Application of Near-infrared Spectroscopy and Multiple Spectral Algorithms to Explore the Effect of Soil Particle Sizes on Soil Nitrogen Detection",
+  "venue": "Molecules",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1420-3049/24/13/2486/pdf?version=1562485092",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6651272, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "29944578",
+      "name": "Shupei Xiao"
+    },
+    {
+      "authorId": "87689783",
+      "name": "Yong He"
+    }
+  ],
+  "abstract": "Soil nitrogen is the key parameter supporting plant growth and development; it is also the material basis of plant growth. An accurate grasp of soil nitrogen information is the premise of scientific fertilization in precision agriculture, where near-infrared (NIR) spectroscopy is widely used for rapid detection of soil nutrients. In this study, the variation law of soil NIR reflectivity spectra with soil particle sizes was studied. Moreover, in order to precisely study the effect of particle size on soil nitrogen detection by NIR, four different spectra preprocessing methods and five different chemometric modeling methods were used to analyze the soil NIR spectra. The results showed that the smaller the soil particle sizes, the stronger the soil NIR reflectivity spectra. Besides, when the soil particle sizes ranged 0.18–0.28 mm, the soil nitrogen prediction accuracy was the best based on the partial least squares (PLS) model with the highest Rp2 of 0.983, the residual predictive deviation (RPD) of 6.706. The detection accuracy was not ideal when the soil particle sizes were too big (1–2 mm) or too small (0–0.18 mm). In addition, the relationship between the mixing spectra of six different soil particle sizes and the soil nitrogen detection accuracy was studied. It was indicated that the larger the gap between soil particle sizes, the worse the accuracy of soil nitrogen detection. In conclusion, soil nitrogen detection precision was affected by soil particle sizes to a large extent. It is of great significance to optimize the pre-treatments of soil samples to realize rapid and accurate detection by NIR spectroscopy.",
+  "references": [
+    {
+      "paperId": "12563e63f419b31802bd90f89c672a222cebcbe9"
+    },
+    {
+      "paperId": "4d2bb25d222cd466d52e4016fe645bf08c811f71"
+    },
+    {
+      "paperId": "36ec2bb00447a53d4bf6134c6b32fd6167909947"
+    },
+    {
+      "paperId": "9cb4d1bbbc06bc302734d1d6ba44a92c0bd2a9e0"
+    },
+    {
+      "paperId": "85e7766ce79b62c0d062bdce0c60547f776b1336"
+    },
+    {
+      "paperId": "903261681ce9419a2482ebff87b98f031ff47946"
+    },
+    {
+      "paperId": "2816fc1c145c3d21f196b931092c3cb061fa38ec"
+    },
+    {
+      "paperId": "09eb76861ad91b8096fb6868c02476cadc97ce11"
+    },
+    {
+      "paperId": "b0b67d78fa7f0879a52bbc80954e74c4383200d1"
+    },
+    {
+      "paperId": "0ad1fcfb23769ace127c6114690f49a8bdc359fe"
+    },
+    {
+      "paperId": "310709a3fb8a952504576d86917b9f5fa73b67f0"
+    },
+    {
+      "paperId": "339b5b3c60ceac87322ef77cfae8a423f97a3a9c"
+    },
+    {
+      "paperId": "a87151d6ff79545f892bc45ef1c2ae999c57bfd0"
+    },
+    {
+      "paperId": "035c4b2f77fec0826980e8b1a3037a190cda7226"
+    },
+    {
+      "paperId": "de833fa917ccf22204c65cca0ec21342e5f27454"
+    },
+    {
+      "paperId": "9d4c13bb17ca0c94a02c5b0e202cf1fec1cf5c00"
+    },
+    {
+      "paperId": "07ee17dc5d2bff0919dd7d8c1a940054e08bc4a8"
+    },
+    {
+      "paperId": "86e55b9202a8ca41ed4b6b50eba6da904e3e8f3e"
+    },
+    {
+      "paperId": "9196bcf2775f77bc4f79d311457bf2c6e537945f"
+    },
+    {
+      "paperId": "1bbeb6503a7bfe5786a63cc86c0b421b5955063e"
+    },
+    {
+      "paperId": "af456324689d5ddd671ee66aef4e5f92db15cbbd"
+    },
+    {
+      "paperId": "cea9fe929d6dacb02b89ad2885049a0d1fb3bb8f"
+    },
+    {
+      "paperId": "4b5f1676af2ae06e6c240e6e698a7ae20112b109"
+    },
+    {
+      "paperId": "b102fe0b80ca1b9b065d9b68f8e38b94e43a5690"
+    },
+    {
+      "paperId": "6003997c8b8aa370b71238578c789a25c42c3e76"
+    },
+    {
+      "paperId": "6e90e7978bb5eb6ed0bf7173b389bb47bb63f447"
+    },
+    {
+      "paperId": "cc011e4ca50cde71191490b5cc231b07756fec55"
+    },
+    {
+      "paperId": "250addd5b5dd003b504a268f819b060c9ec89918"
+    },
+    {
+      "paperId": "fa2a88c9a44e8e4b07aff10723d0ba6eb73c5c6f"
+    },
+    {
+      "paperId": "829b98af046d2a320a6ab314c99dadb5a3d10d3c"
+    },
+    {
+      "paperId": "e930c682ee211252ee158c22dbe7ec09ed9719cc"
+    },
+    {
+      "paperId": "809edaa599cd4da33792aad82d4afc204176f291"
+    },
+    {
+      "paperId": "3432c9ef9cdc83957d0c2dd6013d99225025a4bd"
+    },
+    {
+      "paperId": "83d7e7105308ed16f01ba30eaa5e5d6166f957a2"
+    },
+    {
+      "paperId": "eb9f7b9f35269cfd0bb9658ff913d6a5676a670a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

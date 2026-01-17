@@ -1,0 +1,37 @@
+{
+  "paperId": "3d653e9398e9cbbf7dad224344ea7ddbf916b229",
+  "externalIds": {
+    "DBLP": "conf/icccnt/Madhumathi19",
+    "MAG": "2997880421",
+    "DOI": "10.1109/icccnt45670.2019.8944554",
+    "CorpusId": 209696364
+  },
+  "url": "https://www.semanticscholar.org/paper/3d653e9398e9cbbf7dad224344ea7ddbf916b229",
+  "title": "Elucidating Farmers towards Smart Agricultural Farm Building through Cloud Model",
+  "venue": "International Conference on Computing Communication and Networking Technologies",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/icccnt45670.2019.8944554?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/icccnt45670.2019.8944554, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145958996",
+      "name": "R. Madhumathi"
+    }
+  ],
+  "abstract": "Agriculture is the main source of food and is undeniably the key reason for the survival of the beings in this planet. With the growing population, the precision-centric, informed, and optimized production of various food items is essential. There are new technologies, methodologies and best practices being conceived and conceptualized by the experts and researchers in the agriculture field. The various advancements in the information technology (IT) domain are showing some positive signs towards efficient and intelligent agriculture. The widely discussed innovations and disruptions in the IT space are bound to impact the agriculture activities in a strategically sound manner. A variety of changes in the way our farmers are toiling in the agriculture land parcels are being expected. With the emergence of software-defined cloud environments, big and real-time data analytics, the faster adoption of artificial intelligence (AI) advancements, knowledge visualization tools, the growing array of Smartphone applications are to bring in a raft of transformations in the lives of farmers in the days ahead. This paper is to describe the various ways and means of empowering our farmers with realtime information and insights through the cloud technology.",
+  "references": null
+}

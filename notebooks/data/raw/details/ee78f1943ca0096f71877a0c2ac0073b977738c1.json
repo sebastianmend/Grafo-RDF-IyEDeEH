@@ -1,0 +1,56 @@
+{
+  "paperId": "ee78f1943ca0096f71877a0c2ac0073b977738c1",
+  "externalIds": {
+    "MAG": "2971833977",
+    "DBLP": "conf/secon/LinGD00W19",
+    "DOI": "10.1109/SAHCN.2019.8824918",
+    "CorpusId": 197639786
+  },
+  "url": "https://www.semanticscholar.org/paper/ee78f1943ca0096f71877a0c2ac0073b977738c1",
+  "title": "Maximizing Energy Efficiency of Period-Area Coverage with UAVs for Wireless Rechargeable Sensor Networks",
+  "venue": "Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks",
+  "year": 2019,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SAHCN.2019.8824918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SAHCN.2019.8824918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47532530",
+      "name": "Chi Lin"
+    },
+    {
+      "authorId": "47932606",
+      "name": "Chunyang Guo"
+    },
+    {
+      "authorId": "2519327",
+      "name": "W. Du"
+    },
+    {
+      "authorId": "2153626525",
+      "name": "Jing Deng"
+    },
+    {
+      "authorId": "145131947",
+      "name": "Lei Wang"
+    },
+    {
+      "authorId": "1712374",
+      "name": "Guowei Wu"
+    }
+  ],
+  "abstract": "Wireless Rechargeable Sensor Networks (WRSNs) with perpetual network lifetime have been used in many Internet of Things (IoT) applications, like smart city and precision agriculture. Rechargeable sensors together with Unmanned Aerial Vehicles (UAVs) are collaboratively employed for fulfilling periodic coverage tasks. However, traditional coverage solutions are normally based on static deployment of sensors and not suitable for such coverage requirements. In this paper, we propose a new concept of coverage problem named Period-Area Coverage (PAC) which requires data of the overall area must be collected periodically. We focus on maximizing the energy efficiency of UAVs and propose two heuristic scheduling schemes to balance energy cost. Moreover, we adopt adjustable sensing range to further promote efficiency and develop a charging re-allocation mechanism for UAVs. Test-bed experiments and extensive simulations demonstrate that the proposed schemes can enhance energy efficiency by 18.2% compared to prior arts.",
+  "references": null
+}

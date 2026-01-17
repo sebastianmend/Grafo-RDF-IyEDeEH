@@ -1,0 +1,52 @@
+{
+  "paperId": "b9569b5232721b665e3b1795995052e003fd2e23",
+  "externalIds": {
+    "MAG": "2979900088",
+    "DBLP": "conf/webmedia/HelferBCMS19",
+    "DOI": "10.1145/3323503.3360637",
+    "CorpusId": 203926916
+  },
+  "url": "https://www.semanticscholar.org/paper/b9569b5232721b665e3b1795995052e003fd2e23",
+  "title": "A model for productivity and soil fertility prediction oriented to ubiquitous agriculture",
+  "venue": "Brazilian Symposium on Multimedia and the Web",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3323503.3360637?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3323503.3360637, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143869621",
+      "name": "G. Helfer"
+    },
+    {
+      "authorId": "1704217056",
+      "name": "J. Barbosa"
+    },
+    {
+      "authorId": "2110268250",
+      "name": "A. B. Costa"
+    },
+    {
+      "authorId": "2051861312",
+      "name": "B. G. Martini"
+    },
+    {
+      "authorId": "2115676120",
+      "name": "Ronaldo dos Santos"
+    }
+  ],
+  "abstract": "Currently the advances in precision agriculture technologies expand into the area of ubiquotous computing, with sophisticated sensors to measure soil composition and plant needs. The goal is to make farming more efficient and productive with the least impact on the environment. This paper proposes an architectural model for evaluation of soil fertility and productivity using contexts history based on chemical and physical aspects that characterize different types of soil over the time in a sustainable way. The prediction of productivity by wheat planted area used as physical aspects the climatic events between the years of 2001 and 2015. The results achieved a mean square error of calibration (RMSE) of 0.24 T/ha, mean square erros of cross-validation of 0.46 T/ha with a determination coefficient (R2) of 0.8725. For the prediction of organic matter and clay, the best results obtained were a R2 of 0.9584, RMSECV of 0.47% and R2 of 0.9180, RMSECV of 7.64%, respectively.",
+  "references": null
+}

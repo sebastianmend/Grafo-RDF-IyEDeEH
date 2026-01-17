@@ -1,0 +1,46 @@
+{
+  "paperId": "f43fb3e98ea789401befe2132afcdc50fd7bd413",
+  "externalIds": {
+    "MAG": "2951924216",
+    "DOI": "10.1109/CSCI46756.2018.00199",
+    "CorpusId": 197578316
+  },
+  "url": "https://www.semanticscholar.org/paper/f43fb3e98ea789401befe2132afcdc50fd7bd413",
+  "title": "A Connected Soil Humidity and Salinity Sensor for Precision Agriculture",
+  "venue": "2018 International Conference on Computational Science and Computational Intelligence (CSCI)",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.laas.fr/hal-02015850/file/A%20connected%20soil%20humidity%20and%20salinity%20sensor%20for%20precision%20agriculture.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CSCI46756.2018.00199?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CSCI46756.2018.00199, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2031128515",
+      "name": "J. Roux"
+    },
+    {
+      "authorId": "3184018",
+      "name": "J. Fourniols"
+    },
+    {
+      "authorId": "101933599",
+      "name": "G. Soto-Romero"
+    },
+    {
+      "authorId": "2443907",
+      "name": "C. Escriba"
+    }
+  ],
+  "abstract": "The new methods for the agriculture have to improve the irrigation systems. Nowadays, an important part of irrigation water is wasted. A new connected agriculture needs to reduce that wastage by creating a sustainable agriculture. To achieve that goal, we need to control the soil moisture to perfectly adapt the water supply. This paper presents a new connected sensor to monitor in real time the irrigation impact on the fields. The challenges for this new system are the ease of installation, the cost and the network coverage. This work describes the design of this system and its results in fields.",
+  "references": null
+}

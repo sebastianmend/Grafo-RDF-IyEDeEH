@@ -1,0 +1,56 @@
+{
+  "paperId": "3540e2cd7509cd74078cd5e0c072c2f0310af5a0",
+  "externalIds": {
+    "MAG": "2774422868",
+    "DOI": "10.1080/19393210.2017.1412360",
+    "CorpusId": 23729013,
+    "PubMed": "29228873"
+  },
+  "url": "https://www.semanticscholar.org/paper/3540e2cd7509cd74078cd5e0c072c2f0310af5a0",
+  "title": "Dehydroacetic acid in cheese and cheese coating, results of official control in Italy",
+  "venue": "Food Additives & Contaminants, Part B",
+  "year": 2018,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/19393210.2017.1412360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/19393210.2017.1412360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3795806",
+      "name": "M. Scordino"
+    },
+    {
+      "authorId": "13096698",
+      "name": "F. Lazzaro"
+    },
+    {
+      "authorId": "40257059",
+      "name": "Marco A. Borzì"
+    },
+    {
+      "authorId": "3551668",
+      "name": "L. Sabatino"
+    },
+    {
+      "authorId": "5212918",
+      "name": "P. Traulo"
+    },
+    {
+      "authorId": "48362658",
+      "name": "G. Gagliano"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

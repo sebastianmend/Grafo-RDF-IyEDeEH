@@ -1,0 +1,40 @@
+{
+  "paperId": "d239a0c24e5fd773efd895f5cacb855880985bda",
+  "externalIds": {
+    "MAG": "2969697571",
+    "DOI": "10.1126/science.aax8546",
+    "CorpusId": 201616516,
+    "PubMed": "31439784"
+  },
+  "url": "https://www.semanticscholar.org/paper/d239a0c24e5fd773efd895f5cacb855880985bda",
+  "title": "Reducing tropical deforestation",
+  "venue": "Science",
+  "year": 2019,
+  "citationCount": 194,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://science.sciencemag.org/content/sci/365/6455/756.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.aax8546?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.aax8546, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49597887",
+      "name": "F. Seymour"
+    },
+    {
+      "authorId": "153841529",
+      "name": "N. Harris"
+    }
+  ],
+  "abstract": "The interventions required to reduce deforestation differ widely across the tropics Primary tropical forests continue to be lost at high rates, with disturbing consequences for biodiversity, climate change, and the rights and livelihoods of local communities. Improved spatial data and monitoring systems are enabling researchers to identify drivers of deforestation with increased geographical precision (1) and to assess the relative potential of various interventions to stem forest loss (2). International initiatives currently focus on halting the expansion of commercial agriculture for export markets, a driver of deforestation that emerged in the 1980s (3). Numerous corporations are trying to implement commitments to remove deforestation from their commodity supply chains. However, recent research shows that the drivers of deforestation are complex and can change rapidly. A range of policies customized to specific jurisdictions will be needed to address them effectively.",
+  "references": null
+}

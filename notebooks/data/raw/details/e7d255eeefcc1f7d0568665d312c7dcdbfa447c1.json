@@ -1,0 +1,88 @@
+{
+  "paperId": "e7d255eeefcc1f7d0568665d312c7dcdbfa447c1",
+  "externalIds": {
+    "MAG": "2954409862",
+    "DOI": "10.1088/1757-899X/557/1/012070",
+    "CorpusId": 198419061
+  },
+  "url": "https://www.semanticscholar.org/paper/e7d255eeefcc1f7d0568665d312c7dcdbfa447c1",
+  "title": "Analysis of Spatial Distribution of Soil Moisture Content for Different Soil Layers in Mango Greenhouse",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/557/1/012070",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/557/1/012070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/557/1/012070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "51428085",
+      "name": "F. A. Azizan"
+    },
+    {
+      "authorId": "2289137402",
+      "name": "F. N. M. Zalani"
+    },
+    {
+      "authorId": "47147194",
+      "name": "A. Nagarajan"
+    },
+    {
+      "authorId": "51439428",
+      "name": "A. Aznan"
+    },
+    {
+      "authorId": "82170743",
+      "name": "R. Ruslan"
+    }
+  ],
+  "abstract": "Water content in soil or generally known as soil moisture plays an important role in plant growth. In moving towards a better farm management in precision agriculture concept, it is vital to maintain the uniform growth of plants by preserving the same amount of moisture in the soil. In this study, spatial distribution analysis of soil moisture content was conducted to observe the variability of topsoil and subsoil. A total of 80 soil samples were collected randomly and analysed using the gravimetric method. The data were used to produce soil moisture distribution maps using ArcGIS software. The results show subsoil layer has higher moisture content compared to the topsoil layer with a mean value of 26.17% and 22.84%, respectively. Even though the maps revealed two different patterns of moisture content, both layers fall in high moisture class (21.01% – 28%) with less variation. Thus, this indicates both layers have sufficient amount of moisture content for mango growth and irrigation water supply was adequate.",
+  "references": [
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "1e87bbf630a51c4bf5414b4e637d070947095096"
+    },
+    {
+      "paperId": "f782f0bae19346c1c0dfdeee32d7c150e67dfdec"
+    },
+    {
+      "paperId": "3653d084c853b3c04987af0b08524da5b0f26e8d"
+    },
+    {
+      "paperId": "3aa2e96720ed1e5c74d6e7b7e528091f14c6ad1d"
+    },
+    {
+      "paperId": "14158926a3a956adf7835bef841324bd1e94a0e0"
+    },
+    {
+      "paperId": "c27714033f8d58889909ddb676ec46a1237c599a"
+    },
+    {
+      "paperId": "702327dfa52cca2e9a0f34460ac94fe57c32aa59"
+    },
+    {
+      "paperId": "8800b625ed20acff99d9e3a12c3eed3b9fed9fa0"
+    },
+    {
+      "paperId": "ba387fb8067bc5b459bd625e72b2b1913cd2e424"
+    },
+    {
+      "paperId": "aca3e4e4e9ce2894d063d5d6bc10daaa19ceb7ed"
+    },
+    {
+      "paperId": "33bba5f49cede2c692a1f0db09b45b584e5075b1"
+    }
+  ]
+}

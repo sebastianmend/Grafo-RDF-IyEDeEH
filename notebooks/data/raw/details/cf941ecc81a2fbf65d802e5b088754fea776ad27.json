@@ -1,0 +1,39 @@
+{
+  "paperId": "cf941ecc81a2fbf65d802e5b088754fea776ad27",
+  "externalIds": {
+    "DBLP": "conf/aciids/DewiC19",
+    "MAG": "2929777893",
+    "DOI": "10.1007/978-3-030-14132-5_3",
+    "CorpusId": 68243449
+  },
+  "url": "https://www.semanticscholar.org/paper/cf941ecc81a2fbf65d802e5b088754fea776ad27",
+  "title": "Decision Making Based on IoT Data Collection for Precision Agriculture",
+  "venue": "Asian Conference on Intelligent Information and Database Systems",
+  "year": 2019,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-14132-5_3.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-14132-5_3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-14132-5_3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144102321",
+      "name": "Christine Dewi"
+    },
+    {
+      "authorId": "1694167",
+      "name": "R. Chen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

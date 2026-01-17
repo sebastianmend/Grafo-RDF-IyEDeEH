@@ -1,0 +1,142 @@
+{
+  "paperId": "e25f01bed5ad7e9275e0a95ce6eac39742014011",
+  "externalIds": {
+    "DBLP": "journals/symmetry/ZhangWCJL19",
+    "MAG": "2938650952",
+    "DOI": "10.3390/SYM11040533",
+    "CorpusId": 145966890
+  },
+  "url": "https://www.semanticscholar.org/paper/e25f01bed5ad7e9275e0a95ce6eac39742014011",
+  "title": "Research on Vision-Based Navigation for Plant Protection UAV under the Near Color Background",
+  "venue": "Symmetry",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2073-8994/11/4/533/pdf?version=1555754925",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/SYM11040533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/SYM11040533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1720822869",
+      "name": "Hehu Zhang"
+    },
+    {
+      "authorId": "9293685",
+      "name": "Xiushan Wang"
+    },
+    {
+      "authorId": "2118427286",
+      "name": "Ying Chen"
+    },
+    {
+      "authorId": "145497615",
+      "name": "G. Jiang"
+    },
+    {
+      "authorId": "47562238",
+      "name": "Shifeng Lin"
+    }
+  ],
+  "abstract": "GPS (Global Positioning System) navigation in agriculture is facing many challenges, such as weak signals in orchards and the high cost for small plots of farmland. With the reduction of camera cost and the emergence of excellent visual algorithms, visual navigation can solve the above problems. Visual navigation is a navigation technology that uses cameras to sense environmental information as the basis of an aircraft flight. It is mainly divided into five parts: Image acquisition, landmark recognition, route planning, flight control, and obstacle avoidance. Here, landmarks are plant canopy, buildings, mountains, and rivers, with unique geographical characteristics in a place. During visual navigation, landmark location and route tracking are key links. When there are significant color-differences (for example, the differences among red, green, and blue) between a landmark and the background, the landmark can be recognized based on classical visual algorithms. However, in the case of non-significant color-differences (for example, the differences between dark green and vivid green) between a landmark and the background, there are no robust and high-precision methods for landmark identification. In view of the above problem, visual navigation in a maize field is studied. First, the block recognition method based on fine-tuned Inception-V3 is developed; then, the maize canopy landmark is recognized based on the above method; finally, local navigation lines are extracted from the landmarks based on the maize canopy grayscale gradient law. The results show that the accuracy is 0.9501. When the block number is 256, the block recognition method achieves the best segmentation. The average segmentation quality is 0.87, and time is 0.251 s. This study suggests that stable visual semantic navigation can be achieved under the near color background. It will be an important reference for the navigation of plant protection UAV (Unmanned Aerial Vehicle).",
+  "references": [
+    {
+      "paperId": "aae238f2bdae9f93d9978a9e4d58ccc453848a71"
+    },
+    {
+      "paperId": "a8d30821ea364bacd71b4d8ba3964c27c8161bea"
+    },
+    {
+      "paperId": "f135dc64040901f735b3cd946f5e729a6013694b"
+    },
+    {
+      "paperId": "db5d97d61a334f1067684a3a54ecae828d92eb54"
+    },
+    {
+      "paperId": "c55b139b9493f486e17d44cca3cf5f9eab742607"
+    },
+    {
+      "paperId": "db0101213c84d0e76a896f11481e7ef3f991c511"
+    },
+    {
+      "paperId": "73d5a83ff33c3666a03e8d1550027e21f49ffa5e"
+    },
+    {
+      "paperId": "39c958e3e72fdb488cf64e194bcf781b42d89e9b"
+    },
+    {
+      "paperId": "12b31cf2368e8dde238ab21bd87b1a4c17aab9e6"
+    },
+    {
+      "paperId": "ea96bd15e103695d550c5b7b1cf8ff88e688c557"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "e30d9b8ce108d982169621b88a5e3fb69fec70e1"
+    },
+    {
+      "paperId": "d54ca41d55515e9437762db047b95ad044dfb560"
+    },
+    {
+      "paperId": "23ffaa0fe06eae05817f527a47ac3291077f9e58"
+    },
+    {
+      "paperId": "a4d477ef2a69863794e8c449e5d5255d7d568acf"
+    },
+    {
+      "paperId": "bb3566f302e6a43cabf8c221c3a6fe10376f2540"
+    },
+    {
+      "paperId": "5a2e79d33dc27e805464b29c6096ca921c69346f"
+    },
+    {
+      "paperId": "0197e215347eb1a33a11a01d03b6942dc04f24ec"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "ed605bebf07e1859951e5836e1ffbf6f63221199"
+    },
+    {
+      "paperId": "b5b4905e2fc9427387c728504d38c63b379e5056"
+    },
+    {
+      "paperId": "7010cfdee4e5949e39e8c1a453afb9fc5d154a4f"
+    },
+    {
+      "paperId": "e7b1e998d845f9d9f307f904bad571676671552f"
+    },
+    {
+      "paperId": "71120b6d5bac5cd1b2aebe51b5dbda27001f20d3"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "bd039d9ef12fc59167b359d9c43aad40ad2f8c4c"
+    },
+    {
+      "paperId": "ddfa4e9b667dba47693ac0e961a6abaf3bbdaee3"
+    },
+    {
+      "paperId": "0f4e05823e8dd1c1def6dc8574242df80a4ca2e0"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "02552a8b40f3a82a5353f596264db71d899a9b4a"
+    }
+  ]
+}

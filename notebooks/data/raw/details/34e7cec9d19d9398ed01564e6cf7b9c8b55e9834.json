@@ -1,0 +1,48 @@
+{
+  "paperId": "34e7cec9d19d9398ed01564e6cf7b9c8b55e9834",
+  "externalIds": {
+    "MAG": "2912984997",
+    "CorpusId": 86593492
+  },
+  "url": "https://www.semanticscholar.org/paper/34e7cec9d19d9398ed01564e6cf7b9c8b55e9834",
+  "title": "Advanced Buried Object Detection by Multichannel, UAV/Drone Carried Synthetic Aperture Radar",
+  "venue": "European Conference on Antennas and Propagation",
+  "year": 2019,
+  "citationCount": 47,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50980442",
+      "name": "E. Schreiber"
+    },
+    {
+      "authorId": "47734794",
+      "name": "A. Heinzel"
+    },
+    {
+      "authorId": "38920360",
+      "name": "M. Peichl"
+    },
+    {
+      "authorId": "144542161",
+      "name": "M. Engel"
+    },
+    {
+      "authorId": "2239599574",
+      "name": "Werner Wiesbeck"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

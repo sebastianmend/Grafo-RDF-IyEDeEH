@@ -1,0 +1,51 @@
+{
+  "paperId": "ddf10942af81c10115e96c68e4fb9e6797e4723c",
+  "externalIds": {
+    "DBLP": "journals/staeors/RaviLESH18",
+    "MAG": "2798379399",
+    "DOI": "10.1109/JSTARS.2018.2812796",
+    "CorpusId": 13756111
+  },
+  "url": "https://www.semanticscholar.org/paper/ddf10942af81c10115e96c68e4fb9e6797e4723c",
+  "title": "Simultaneous System Calibration of a Multi-LiDAR Multicamera Mobile Mapping Platform",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2018,
+  "citationCount": 79,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/jstars.2018.2812796",
+    "status": "HYBRID",
+    "license": "publisher-specific, author manuscript",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2018.2812796?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2018.2812796, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48727796",
+      "name": "Radhika Ravi"
+    },
+    {
+      "authorId": "9691810",
+      "name": "Yun-Jou Lin"
+    },
+    {
+      "authorId": "41017066",
+      "name": "Magdy Elbahnasawy"
+    },
+    {
+      "authorId": "12928439",
+      "name": "Tamer Shamseldin"
+    },
+    {
+      "authorId": "1883510",
+      "name": "A. Habib"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

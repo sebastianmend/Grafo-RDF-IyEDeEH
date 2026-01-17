@@ -1,0 +1,184 @@
+{
+  "paperId": "ed20c940b5a23d98aff54c1e42ae12bbbedc6656",
+  "externalIds": {
+    "MAG": "2811061838",
+    "DBLP": "journals/corr/abs-2103-11294",
+    "ArXiv": "2103.11294",
+    "DOI": "10.1002/rob.21794",
+    "CorpusId": 53243483
+  },
+  "url": "https://www.semanticscholar.org/paper/ed20c940b5a23d98aff54c1e42ae12bbbedc6656",
+  "title": "High‐precision control of tracked field robots in the presence of unknown traction coefficients",
+  "venue": "J. Field Robotics",
+  "year": 2018,
+  "citationCount": 43,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://dspace.mit.edu/bitstream/1721.1/140809.2/1/10.1002-rob.21794.pdf",
+    "status": "GREEN",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2103.11294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2487386",
+      "name": "E. Kayacan"
+    },
+    {
+      "authorId": "51304231",
+      "name": "Sierra N. Young"
+    },
+    {
+      "authorId": "2751064",
+      "name": "J. Peschel"
+    },
+    {
+      "authorId": "1733356",
+      "name": "Girish V. Chowdhary"
+    }
+  ],
+  "abstract": "Accurate steering through crop rows that avoids crop damage is one of the most important tasks for agricultural robots utilized in various field operations, such as monitoring, mechanical weeding, or spraying. In practice, varying soil conditions can result in off‐track navigation due to unknown traction coefficients so that it can cause crop damage. To address this problem, this paper presents the development, application, and experimental results of a real‐time receding horizon estimation and control (RHEC) framework applied to a fully autonomous mobile robotic platform to increase its steering accuracy. Recent advances in cheap and fast microprocessors, as well as advances in solution methods for nonlinear optimization problems, have made nonlinear receding horizon control (RHC) and receding horizon estimation (RHE) methods suitable for field robots that require high‐frequency (milliseconds) updates. A real‐time RHEC framework is developed and applied to a fully autonomous mobile robotic platform designed by the authors for in‐field phenotyping applications in sorghum fields. Nonlinear RHE is used to estimate constrained states and parameters, and nonlinear RHC is designed based on an adaptive system model that contains time‐varying parameters. The capabilities of the real‐time RHEC framework are verified experimentally, and the results show an accurate tracking performance on a bumpy and wet soil field. The mean values of the Euclidean error and required computation time of the RHEC framework are equal to 0.0423 m and 0.88 ms, respectively.",
+  "references": [
+    {
+      "paperId": "a24c3af933b1eaeedf755b85f067596f28fe34f1"
+    },
+    {
+      "paperId": "5ecccb8fd619ef972a60d718e02ef703a6640d8c"
+    },
+    {
+      "paperId": "2721ff8f1c97ca34bee063be08979ae901949d5f"
+    },
+    {
+      "paperId": "e9a7da12dfa99145bdcbb563607a25ef56073304"
+    },
+    {
+      "paperId": "e3ee5b7bdc939f0c946c0c3755a8034282c87ccf"
+    },
+    {
+      "paperId": "f747fd85c98b1bb1dbc6d977b01e51ee339e8252"
+    },
+    {
+      "paperId": "ccd6267cbcb89aeb3000e98dc14dea19c48dc8bc"
+    },
+    {
+      "paperId": "ef5ae9395fff1f5f7053b65131ae6fb815cff665"
+    },
+    {
+      "paperId": "e353f3a2f68f7d1c7e49df0e7b49c78f54cccb7f"
+    },
+    {
+      "paperId": "5a2a1536a1417b05fa6eb702e9500862d02a38e5"
+    },
+    {
+      "paperId": "e62c8d3d7cc83592c6c4456fc2dbd80e6f8b56bf"
+    },
+    {
+      "paperId": "35a6d02a81326af987387a2fa71a4b2db341520c"
+    },
+    {
+      "paperId": "f05c485b8cef3ae37e08efd52678cda0804dcf68"
+    },
+    {
+      "paperId": "a7c2536b4dd89a3f97a82be54d20f03d8d31f55a"
+    },
+    {
+      "paperId": "dd5282b7736411bc88ae9d5f81c30bc7d8ddc158"
+    },
+    {
+      "paperId": "1dd2112b2babfa30b6142febdffa2830d49342ae"
+    },
+    {
+      "paperId": "170ea9f894036b2df7c852d50edaace22d320caf"
+    },
+    {
+      "paperId": "85ee2a6efaf7988633e597180367e446c8e65729"
+    },
+    {
+      "paperId": "1d1beab14865cd3691ee873e3fc773760cce9fbc"
+    },
+    {
+      "paperId": "11c40c2e946442b0817e6ddb152e8da9f9be78f1"
+    },
+    {
+      "paperId": "996ed8860adfd2e653f2c966ab1602132ba087c6"
+    },
+    {
+      "paperId": "429751e63f1a443f3324c3f775a6d05c2b739c89"
+    },
+    {
+      "paperId": "90bc5df2fb4b33c94895ebeca0355868960ee828"
+    },
+    {
+      "paperId": "62990d022b19aa0f05fef69f959dadb8aa23ce8b"
+    },
+    {
+      "paperId": "abd354d708b98fb60e0d827a41157491289e8d3c"
+    },
+    {
+      "paperId": "04d8298334561b1c6faf7037b3f7617e185e9db4"
+    },
+    {
+      "paperId": "eab02efb4409e1e5765618cfa155bbc69ac024c0"
+    },
+    {
+      "paperId": "413250faaacbc2173a8ebc2818ec43f783ed264b"
+    },
+    {
+      "paperId": "f1fcd04a32eef701eec186760a3355591b3566c4"
+    },
+    {
+      "paperId": "530b3ffcf6345a6a9aaef9fcb686efdab5b75160"
+    },
+    {
+      "paperId": "abe3167ff50408ea3b89890f63526c1f2fbd7087"
+    },
+    {
+      "paperId": "3ceba12ba489f07c4d700c24a7efbb97ea07dba0"
+    },
+    {
+      "paperId": "c42cc79b708c5c271d2e91d4ecb5cdb26b5701c3"
+    },
+    {
+      "paperId": "a96894b44b2ea91d234840ae42af5a883e44b09c"
+    },
+    {
+      "paperId": "f68614f143c46406ca2fc1b47814a8ad04869a3e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3e12bb4ee865a640d151391d26f51732b64c02c8"
+    },
+    {
+      "paperId": "02119511c043057135ec89c997f40e11270adc93"
+    },
+    {
+      "paperId": "5ca397c7af89bc1ee1639af464e3eaacaca81038"
+    },
+    {
+      "paperId": "d6c5c1803605cbd573b85278e54c0ea99b5b8bc5"
+    },
+    {
+      "paperId": "1a4b1eac36c8138207a2d8f3d97abcfeb3abacf1"
+    },
+    {
+      "paperId": "9351b6c6b655681219ea7ac9bbcd606182d75eaa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e5867ce381162f1c144f788357f57913742053d0"
+    }
+  ]
+}

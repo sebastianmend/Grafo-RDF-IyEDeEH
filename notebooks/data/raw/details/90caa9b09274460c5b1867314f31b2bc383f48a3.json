@@ -1,0 +1,184 @@
+{
+  "paperId": "90caa9b09274460c5b1867314f31b2bc383f48a3",
+  "externalIds": {
+    "PubMedCentral": "6261544",
+    "MAG": "2902048657",
+    "DOI": "10.1371/journal.pone.0207052",
+    "CorpusId": 54106419,
+    "PubMed": "30485301"
+  },
+  "url": "https://www.semanticscholar.org/paper/90caa9b09274460c5b1867314f31b2bc383f48a3",
+  "title": "Mark-release-recapture meets Species Distribution Models: Identifying micro-habitats of grassland butterflies in agricultural landscapes",
+  "venue": "PLoS ONE",
+  "year": 2018,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207052&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6261544, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5739950",
+      "name": "J. Habel"
+    },
+    {
+      "authorId": "3707430",
+      "name": "Mike Teucher"
+    },
+    {
+      "authorId": "6563519",
+      "name": "D. Rödder"
+    }
+  ],
+  "abstract": "Habitat demands and species mobility strongly determine the occurrence of species. Sedentary species with specific habitat requirements are assumed to occur more patchy than mobile habitat generalist species, and thus suffer stronger under habitat fragmentation and habitat deterioration. In this study we measured dispersal and habitat preference of three selected butterfly species using mark-release-recapture technique. We used data on species abundance to calculate Species Distribution Models based on high-resolution aerial photographs taken using RGB / NIR cameras mounted on a UAV. We found that microhabitats for species with specific habitat requirements occur spatially restricted. In contrast, suitable habitats are more interconnected and widespread for mobile habitat generalists. Our models indicate that even managed grassland sites have comparatively little habitat quality, while road verges provide high quality micro-habitats. In addition, dispersal was more restricted for specialist butterfly species, and higher for the two other butterfly species with less ecological specialisation. This study shows synergies arising when combining ecological data with high precision aerial pictures and Species Distribution Models, to identify micro-habitats for butterflies. This approach might be suitable to identify and conserve high quality habitats, and to improve nature conservation at the ground.",
+  "references": [
+    {
+      "paperId": "8779be859f6055c85b268184fc5761ba9cd1636e"
+    },
+    {
+      "paperId": "7e9062c1f6b6edf7a5a35df26f653e5c16f9c71d"
+    },
+    {
+      "paperId": "1cdb10ab564b2873bbc24ec26bdfac6c36ef3152"
+    },
+    {
+      "paperId": "d44875bbf597fd1c3ffaa307520b2aae6483cbf3"
+    },
+    {
+      "paperId": "2ae2424f69bc1b391d4d4f1c0c92827b891f357b"
+    },
+    {
+      "paperId": "b732bdb56618027b65d3f19210a8ca301cab6b8d"
+    },
+    {
+      "paperId": "4dcf4f9a0b9952ff73f82648b3326ee9958b4244"
+    },
+    {
+      "paperId": "1952e77e488ad491d5fe6b1329c111080bb2091c"
+    },
+    {
+      "paperId": "42415bb09fea53b08a32ca4ad11ecc98745a7fa7"
+    },
+    {
+      "paperId": "57fbdc5ff136d10620ea5204db024583249f9550"
+    },
+    {
+      "paperId": "9f53e8e250a1d0ea4d2b86e268c1e7d20f9e233c"
+    },
+    {
+      "paperId": "3ccc823f2cad1803add40e81b36aadb04507d4f0"
+    },
+    {
+      "paperId": "de2b95889faab6c9101fa065bdc0b97aa0a236e0"
+    },
+    {
+      "paperId": "f8950ea134ed55fbf236e6081d4b51cfabd8d482"
+    },
+    {
+      "paperId": "1517e9695cb0bf98ad69ad7fcbff720dd4f79d7d"
+    },
+    {
+      "paperId": "17ec8af51ca313d3bff6809fce9171f543b455e9"
+    },
+    {
+      "paperId": "ce64fd924e5f9622a61015d35fb4f879ace46319"
+    },
+    {
+      "paperId": "9ece694ee734b271e8911334211aeef84108dffb"
+    },
+    {
+      "paperId": "85170ae899bbb04583e87d24e70aa65c3ce07863"
+    },
+    {
+      "paperId": "e298f8270a62fcf42017b1a31afab0072095c444"
+    },
+    {
+      "paperId": "53d021c2a25140df5b11ef2cbbf47e77ef0cef7f"
+    },
+    {
+      "paperId": "759e05edbc6b9418e52623ab05940de3a98a0b3a"
+    },
+    {
+      "paperId": "1c3ad147fc10e6ecc94e80c6af7f75c42fbccd05"
+    },
+    {
+      "paperId": "3be6ccf1f1a8413fffedfdf4b71f998d2f0ebc32"
+    },
+    {
+      "paperId": "bb22fa40f54414a2a3747200d59bdc6781b574c8"
+    },
+    {
+      "paperId": "082436ddaa9025f0e5f7a42cff6896e7f8e6f378"
+    },
+    {
+      "paperId": "6fade8f5f4f1d20cc7d94f8733d0793d2612e460"
+    },
+    {
+      "paperId": "43ba4c0c3cd8a3fbda9982fffe1919238a14ac51"
+    },
+    {
+      "paperId": "2a3218d16613cf2e55b1e24636de8540b98b6111"
+    },
+    {
+      "paperId": "a8109c1d82e4164bef5efae593c9828c03f151d4"
+    },
+    {
+      "paperId": "29a131dc55e503288f97237425788f6a7185c969"
+    },
+    {
+      "paperId": "5a04c92d0ee5e6cec6f630f1b0db5b82ea933c19"
+    },
+    {
+      "paperId": "47b13d04edec845d63a8cd51c930307d744ca310"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "44e10b4832861294598bf661b81ae995c320acf6"
+    },
+    {
+      "paperId": "33843145d478674b25e68e91c829f0849e53df0e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6f7ec8e9612391c1c57d964f56587bd78862e4b2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6670f156de8464379947b2341cb99b70723c6841"
+    }
+  ]
+}

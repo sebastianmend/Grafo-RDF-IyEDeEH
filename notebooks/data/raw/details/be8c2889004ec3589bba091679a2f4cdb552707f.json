@@ -1,0 +1,255 @@
+{
+  "paperId": "be8c2889004ec3589bba091679a2f4cdb552707f",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/WilkeSKBKMDHR19",
+    "MAG": "2919781516",
+    "DOI": "10.3390/RS11050515",
+    "CorpusId": 104293535
+  },
+  "url": "https://www.semanticscholar.org/paper/be8c2889004ec3589bba091679a2f4cdb552707f",
+  "title": "Quantifying Lodging Percentage and Lodging Severity Using a UAV-Based Canopy Height Model Combined with an Objective Threshold Approach",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 65,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/5/515/pdf?version=1551606153",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11050515?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11050515, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51879044",
+      "name": "N. Wilke"
+    },
+    {
+      "authorId": "2411204",
+      "name": "B. Siegmann"
+    },
+    {
+      "authorId": "2785171",
+      "name": "L. Klingbeil"
+    },
+    {
+      "authorId": "30827953",
+      "name": "A. Burkart"
+    },
+    {
+      "authorId": "46490791",
+      "name": "T. Kraska"
+    },
+    {
+      "authorId": "37640607",
+      "name": "O. Muller"
+    },
+    {
+      "authorId": "105006418",
+      "name": "A. V. Doorn"
+    },
+    {
+      "authorId": "2074875035",
+      "name": "Sascha Heinemann"
+    },
+    {
+      "authorId": "2852289",
+      "name": "U. Rascher"
+    }
+  ],
+  "abstract": "Unmanned aerial vehicles (UAVs) open new opportunities in precision agriculture and phenotyping because of their flexibility and low cost. In this study, the potential of UAV imagery was evaluated to quantify lodging percentage and lodging severity of barley using structure from motion (SfM) techniques. Traditionally, lodging quantification is based on time-consuming manual field observations. Our UAV-based approach makes use of a quantitative threshold to determine lodging percentage in a first step. The derived lodging estimates showed a very high correlation to reference data (R2 = 0.96, root mean square error (RMSE) = 7.66%) when applied to breeding trials, which could also be confirmed under realistic farming conditions. As a second step, an approach was developed that allows the assessment of lodging severity, information that is important to estimate yield impairment, which also takes the intensity of lodging events into account. Both parameters were tested on three ground sample distances. The lowest spatial resolution acquired from the highest flight altitude (100 m) still led to high accuracy, which increases the practicability of the method for large areas. Our new lodging assessment procedure can be used for insurance applications, precision farming, and selecting for genetic lines with greater lodging resistance in breeding research.",
+  "references": [
+    {
+      "paperId": "a228dfbcf8e72f9fc8f1ddd7992fe9442ac2ffb0"
+    },
+    {
+      "paperId": "36b3e856c2f964f52fcfbbf719be69c52fde6409"
+    },
+    {
+      "paperId": "3c7d45abbba5ab73bbb7e13e5dd4859a7b9fca6a"
+    },
+    {
+      "paperId": "f77d9387eda3c518be483ccc50579d96bfbfddf7"
+    },
+    {
+      "paperId": "afa415765df3e2b8b2b6613160b0052366adb716"
+    },
+    {
+      "paperId": "b96d865a3acd87a1c642d112a1c90626bd83ae74"
+    },
+    {
+      "paperId": "a63814ed699602d630f3c255569f3aecec9398d3"
+    },
+    {
+      "paperId": "d5e79bb2489acebac64bb49073ab83e21b6c5395"
+    },
+    {
+      "paperId": "cee355ead5ae49b40f3e5eec69abf51c2e152595"
+    },
+    {
+      "paperId": "6b4e3787f51d988dcf3e0bcb719e0bf8895923f3"
+    },
+    {
+      "paperId": "12951ab55fc1647afaa8a9fe8176cb9349bf9211"
+    },
+    {
+      "paperId": "842620444bb8b4781aa98d66dd46912425ca8a46"
+    },
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "a9449adbedc8d14cce63acd9f3771aab7a3481d4"
+    },
+    {
+      "paperId": "e78311cdec32aab2a96ead0f1dde0a28b2b9ca0f"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "02f498a7242fce3a3185f1f50332fbdaa8e152c9"
+    },
+    {
+      "paperId": "ac2011cc8637639a81f04754c14398850c1cd6f3"
+    },
+    {
+      "paperId": "88aaf745a02fc5ccc762ba91b86b2c3a3894de05"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "8c9192c37bd4dc05319724246e23d8754e4a7ec6"
+    },
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "5ca84f7e6c21dfb9f61aeaf49a1d64edb9e70f1c"
+    },
+    {
+      "paperId": "357824b53cf8b31a4e622b61699fbe925aecd99f"
+    },
+    {
+      "paperId": "207d27919b5ba210d3bbc3927df192c54270a123"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "652204e3f099356db0292a10142d5e8e6b78f4e4"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "029c5841b3fc010f55b604d7d1c541adb0e4a782"
+    },
+    {
+      "paperId": "9eca0ea5717419385fa20cf69d09da25da3fcaba"
+    },
+    {
+      "paperId": "6d5acfb66740d7fc1fbf3190d73afb03b00dfad2"
+    },
+    {
+      "paperId": "90086e5c7485e1ea7f982ecf164fa01c09bfb790"
+    },
+    {
+      "paperId": "be05df90f8535125f27f24f8d006fc2e7af79795"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "c6e814bd3502c2445d0a72f3fa40753d0bf5675d"
+    },
+    {
+      "paperId": "53f48bea324d1a0b2729ca4b4d8eef445fef2c39"
+    },
+    {
+      "paperId": "b0b724e45a7dc04195f9c47612406d3423f21f97"
+    },
+    {
+      "paperId": "432e5eb8b7184c0241fb1188d2deb9b68b56e23c"
+    },
+    {
+      "paperId": "926250cde8e34b11c536cd9c434ec8135545655d"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "c8426d9aabd7633b5fdb97ce49a932e8e7e5fcdb"
+    },
+    {
+      "paperId": "ad569b01e98c5cbe2039409a1cc12b820baf27bc"
+    },
+    {
+      "paperId": "c6afb06fd05bd2c244b10eacd73d3e248a502c19"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ff3d0ae5fb4aaf2da5326b3a3d7d70a90a226210"
+    },
+    {
+      "paperId": "c0f5daee01ef96f0fd7f467f15a9eb57ec79ae17"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "141a5ee5a1a44df37574913acb24aaa0eac1cd97"
+    },
+    {
+      "paperId": "4de1b12785cc5231d611ef550a160cd425171c46"
+    },
+    {
+      "paperId": "18648407e048086fad9bce8a6fb23c68229fe0d1"
+    },
+    {
+      "paperId": "05af0f0faf12fce4357e8c82341eec8a9f57ea16"
+    },
+    {
+      "paperId": "8d50063d7fcbbd259ef5abdcd3a05e8633012704"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e9cd4cbece0573d9e276b0fc3a99f5a5e3792221"
+    },
+    {
+      "paperId": "1348c755a22395199e02e7d16d4c8cad0669ed40"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

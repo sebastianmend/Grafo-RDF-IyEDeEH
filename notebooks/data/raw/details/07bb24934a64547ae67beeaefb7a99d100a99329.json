@@ -1,0 +1,38 @@
+{
+  "paperId": "07bb24934a64547ae67beeaefb7a99d100a99329",
+  "externalIds": {
+    "MAG": "3010331865",
+    "DOI": "10.1109/RTEICT46194.2019.9016979",
+    "CorpusId": 212634545
+  },
+  "url": "https://www.semanticscholar.org/paper/07bb24934a64547ae67beeaefb7a99d100a99329",
+  "title": "An Iterative Approach for Optimal Number of Balanced Clusters and Placement of Cluster Heads in WSN with Spatial Constraints",
+  "venue": "IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RTEICT46194.2019.9016979?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RTEICT46194.2019.9016979, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1557390934",
+      "name": "G. Chethana"
+    },
+    {
+      "authorId": "2285607630",
+      "name": "K V Padmaja"
+    }
+  ],
+  "abstract": "Sensor nodes in Wireless sensor Network collect different types of data in numerous fields such as healthcare, precision agriculture, military, and so on. The spatial constraints due to topographical or some other adverse conditions may restrict both the location of sensor nodes and cluster heads inside well defined planar regions within the WSN, while some other regions may be more amenable for easy deployment of sensors nodes and cluster heads. A new method of determining the optimum number of balanced clusters and the locations of the cluster heads in a Wireless Sensor Network with spatial constraints is presented. The optimum number of balanced clusters is determined using an iterative approach. The K-means clustering algorithm is modified to obtain balanced clusters. The cluster head locations are determined using the constrained nonlinear convex optimal solver based on ‘pattern search’ technique. In our scheme, the cluster heads are not elected from the cluster members. Instead, higher capacity communication nodes are placed at the optimal locations obtained by the optimal solver. Silhouette simulation result shows lesser the indices better the quality. Our approach is having better quality of balanced clustering with the improvement of negative indices value from 55.78% to 17%.",
+  "references": null
+}

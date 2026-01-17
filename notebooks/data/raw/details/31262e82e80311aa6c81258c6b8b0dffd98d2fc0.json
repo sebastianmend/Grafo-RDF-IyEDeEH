@@ -1,0 +1,42 @@
+{
+  "paperId": "31262e82e80311aa6c81258c6b8b0dffd98d2fc0",
+  "externalIds": {
+    "MAG": "2979093049",
+    "DOI": "10.1007/978-3-030-22587-2_17",
+    "CorpusId": 208123856
+  },
+  "url": "https://www.semanticscholar.org/paper/31262e82e80311aa6c81258c6b8b0dffd98d2fc0",
+  "title": "Stabilization of Airborne Video Using Sensor Exterior Orientation with Analytical Homography Modeling",
+  "venue": "Machine Vision and Navigation",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-22587-2_17?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-22587-2_17, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1736711",
+      "name": "H. Aliakbarpour"
+    },
+    {
+      "authorId": "1921638",
+      "name": "K. Palaniappan"
+    },
+    {
+      "authorId": "7691720",
+      "name": "G. Seetharaman"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

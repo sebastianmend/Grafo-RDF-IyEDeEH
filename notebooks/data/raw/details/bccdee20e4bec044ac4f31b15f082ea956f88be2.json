@@ -1,0 +1,42 @@
+{
+  "paperId": "bccdee20e4bec044ac4f31b15f082ea956f88be2",
+  "externalIds": {
+    "MAG": "2971500055",
+    "DBLP": "conf/agro-geoinformatics/ZhangC19",
+    "DOI": "10.1109/Agro-Geoinformatics.2019.8820476",
+    "CorpusId": 201832424
+  },
+  "url": "https://www.semanticscholar.org/paper/bccdee20e4bec044ac4f31b15f082ea956f88be2",
+  "title": "Application and Research Progress of Geographic Information System (GIS) in Agriculture",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Agro-Geoinformatics.2019.8820476?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Agro-Geoinformatics.2019.8820476, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2182281622",
+      "name": "Fei Zhang"
+    },
+    {
+      "authorId": "108173566",
+      "name": "N. Cao"
+    }
+  ],
+  "abstract": "The application of Geographic Information System (GIS) in agriculture is a new and important research field in agricultural science. This paper first introduces the evolution of GIS technology. As the third generation language of geography, GIS is a comprehensive application system developed in the last 50 years. Internationally, GIS began to be used in agriculture in the 1970s. It has been applied in land resource survey, land resource evaluation, and management analysis of agricultural resource information. After the 1990s, the application of GIS in the field of agriculture has been deepened and popularized. It is mainly used in the followings, such as the regional agricultural sustainable development research, land crop suitability evaluation, agricultural production information management, farmland soil erosion and protection research, land agricultural productive potential research, agricultural system imitation and simulation research, integrated of modern high-tech “precision agriculture” research and application, agro-ecosystem monitoring and quantitative research, investigation, planning and management of farmland and agricultural input-output benefits and environmental protection research, forest pest control, etc. In China, in the mid-1980s, GIS began to be applied to the agricultural field including land and resources decision management, agricultural resource information, regional agricultural planning, grain distribution management and food production assisted decision-making, agricultural production potential research, crop yield estimation research, regional agricultural sustainable development research, agricultural land suitability evaluation, agro-ecological environment monitoring, and research on precision agricultural information processing systems based on GPS and GIS, which have made great achievements. Some research results have been directly applied to agricultural production and great economic benefits have been obtained. This paper focuses on the specific application research of GIS technology on agricultural resource information management, agroclimatic zoning, agricultural disaster prevention, agro-ecological environment management, precision agriculture, crop yield estimation and monitoring, soil erosion, ecological sensitivity and non-point source pollution, etc. The research believes that the application of “3S” integration technology, the integration of integrated agricultural expert system (ES) combined with GIS, and the application of portable mobile GIS are the main trend of modern agriculture development of GIS technology under the background of today’s informatization and networking.",
+  "references": null
+}

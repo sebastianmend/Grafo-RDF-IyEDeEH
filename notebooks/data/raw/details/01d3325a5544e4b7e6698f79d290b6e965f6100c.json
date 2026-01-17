@@ -1,0 +1,46 @@
+{
+  "paperId": "01d3325a5544e4b7e6698f79d290b6e965f6100c",
+  "externalIds": {
+    "MAG": "2998543837",
+    "DOI": "10.1109/icoac44903.2018.8939076",
+    "CorpusId": 209458329
+  },
+  "url": "https://www.semanticscholar.org/paper/01d3325a5544e4b7e6698f79d290b6e965f6100c",
+  "title": "Enhancement Of Segmentation And Feature Fusion For Apple Disease Classification",
+  "venue": "International Conference on Advanced Computing",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/icoac44903.2018.8939076?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/icoac44903.2018.8939076, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2270705144",
+      "name": "K. Sujatha"
+    },
+    {
+      "authorId": "2126743554",
+      "name": "J. Sandhya"
+    },
+    {
+      "authorId": "1471448201",
+      "name": "Jitta Sai Chaitanya"
+    },
+    {
+      "authorId": "2023290394",
+      "name": "R. Subashini"
+    }
+  ],
+  "abstract": "Diseases in fruit cause serious problem in economic loss and production in agricultural industry. The quality and yield of the fruits can be degraded too much with the presence of the diseases in the fruit. It is critical to detect the diseases present in fruit and monitor fruit’s health. Advanced computational methods have been used in agricultural applications, such as disease detection, classification and grading to help agriculturists in common farm tasks with more precision, efficiency, productivity and cost reduction. An approach for the apple disease classification with enhancement of defect segmentation and fusion of color, texture and shape based features is used to classify the apple into two types, healthy and defected with an accuracy of 96% using Histogram of Oriented Gradients feature descriptor and Bagged Decision Trees classifier.",
+  "references": null
+}

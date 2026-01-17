@@ -1,0 +1,195 @@
+{
+  "paperId": "4f70fc70673793abe054e252446d64c58749e774",
+  "externalIds": {
+    "MAG": "2887783849",
+    "DOI": "10.25165/IJABE.V11I4.4032",
+    "CorpusId": 55889996
+  },
+  "url": "https://www.semanticscholar.org/paper/4f70fc70673793abe054e252446d64c58749e774",
+  "title": "Simulation software and virtual environments for acceleration of agricultural robotics: Features highlights and performance comparison",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 65,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.25165/j.ijabe.20181104.4032",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.25165/IJABE.V11I4.4032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/IJABE.V11I4.4032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35629016",
+      "name": "R. Shamshiri"
+    },
+    {
+      "authorId": "2754221",
+      "name": "I. Hameed"
+    },
+    {
+      "authorId": "2266590",
+      "name": "Lenka Pitonakova"
+    },
+    {
+      "authorId": "2050822171",
+      "name": "Cornelia Weltzien"
+    },
+    {
+      "authorId": "51260647",
+      "name": "S. K. Balasundram"
+    },
+    {
+      "authorId": "91711270",
+      "name": "I. Yule"
+    },
+    {
+      "authorId": "4850448",
+      "name": "T. Grift"
+    },
+    {
+      "authorId": "1733356",
+      "name": "Girish V. Chowdhary"
+    }
+  ],
+  "abstract": "Research efforts for development of agricultural robots that can effectively perform tedious field tasks have grown significantly in the past decade. Agricultural robots are complex systems that require interdisciplinary collaborations between different research groups for effective task delivery in unstructured crops and plants environments. With the exception of milking robots, the extensive research works that have been carried out in the past two decades for adaptation of robotics in agriculture have not yielded a commercial product to date. To accelerate this pace, simulation approach and evaluation methods in virtual environments can provide an affordable and reliable framework for experimenting with different sensing and acting mechanisms in order to verify the performance functionality of the robot in dynamic scenarios. This paper reviews several professional simulators and custom-built virtual environments that have been used for agricultural robotic applications. The key features and performance efficiency of three selected simulators were also compared. A simulation case study was demonstrated to highlight some of the powerful functionalities of the Virtual Robot Experimentation Platform. Details of the objects and scenes were presented as the proof-of-concept for using a completely simulated robotic platform and sensing systems in a virtual citrus orchard. It was shown that the simulated workspace can provide a configurable and modular prototype robotic system that is capable of adapting to several field conditions and tasks through easy testing and debugging of control algorithms with zero damage risk to the real robot and to the actual equipment. This review suggests that an open-source software platform for agricultural robotics will significantly accelerate effective collaborations between different research groups for sharing existing workspaces, algorithms, and reusing the materials. \nKeywords: agricultural robotics, precision agriculture, virtual orchards, digital agriculture, simulation software, multi-robots \nDOI: 10.25165/j.ijabe.20181104.4032 \n \nCitation: Shamshiri R R, Hameed I A, Pitonakova L, Weltzien C, Balasundram S K, Yule I J, et al. Simulation software and virtual environments for acceleration of agricultural robotics: Features highlights and performance comparison. Int J Agric & Biol Eng, 2018; 11(4): 15–31.",
+  "references": [
+    {
+      "paperId": "2dee5378dc52882ef4e8d51eca25c6ef6c1d7126"
+    },
+    {
+      "paperId": "e4a71c61ae9177d90de8cb92215912ff43a474f8"
+    },
+    {
+      "paperId": "1569dcee8c1c8d2b637c8cfc49c32e0c68f09344"
+    },
+    {
+      "paperId": "0d8a22f3981375bccd8c4664ac3d58f2bf6dc1d1"
+    },
+    {
+      "paperId": "4bb2ad41612d0014018b13920b79e9418d3489c8"
+    },
+    {
+      "paperId": "2e99d954ed649b7340f3bcc05d76a282ad212d2f"
+    },
+    {
+      "paperId": "5cc7481f21fbd54253f2772f59c3855ebad202e8"
+    },
+    {
+      "paperId": "b51c1181954310d369a553a54f670b9bd62c670f"
+    },
+    {
+      "paperId": "e50b44c8da7ba00954f5ac2c24377c226b99824a"
+    },
+    {
+      "paperId": "e0d280c1b0cf91e71495fe29c4e6daff4ade8d8e"
+    },
+    {
+      "paperId": "cbf2d6307ea7215bfd219cbdcc50891e911a0548"
+    },
+    {
+      "paperId": "32c89084ab22d88354a98106149a9ea943104987"
+    },
+    {
+      "paperId": "b17197b9ae30184608a8fef0d915c0bc442d8699"
+    },
+    {
+      "paperId": "f2747a1b3d711c86a4e2c80f6eecd589f29f83bc"
+    },
+    {
+      "paperId": "0eaa27e8c35b8321ab4a707f7dc06655fdafc8ee"
+    },
+    {
+      "paperId": "0561a7534e5cb2f5bc33664db7cb77159b53d1f5"
+    },
+    {
+      "paperId": "acf943277399b9c8684b53aae62067b926bf9027"
+    },
+    {
+      "paperId": "79b5983d0522214ad4466b18601200af380e8dae"
+    },
+    {
+      "paperId": "60ba661060fc22c27ba34e6a84159127a1ab6535"
+    },
+    {
+      "paperId": "13997b3da18cd1e950e570ae8b1efa0db829eb41"
+    },
+    {
+      "paperId": "d531f8172d238fc3db3e623b6b897c5e29591a8f"
+    },
+    {
+      "paperId": "df0295715f8b43a8cbaa19f74a3dceb06e610eaf"
+    },
+    {
+      "paperId": "bd0c0046f11e023afea6e2d9cf49fca27f008089"
+    },
+    {
+      "paperId": "fcd1f57c009e55d4aa042b1609dfd67b28a17b7d"
+    },
+    {
+      "paperId": "df706d522e23a32cbc76361538ebb910999be255"
+    },
+    {
+      "paperId": "80da875185e22a5d4e07912483628897d6512c3d"
+    },
+    {
+      "paperId": "4de00d253f6c88dbb2047e06c0f39d7a2fde9c5f"
+    },
+    {
+      "paperId": "a3f321f94b32063a8b452dd0c9113b6bd9f64753"
+    },
+    {
+      "paperId": "5ee8accc7f60d90122641d8f59d52cf5b78b30c4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1fc69bb556fa2841fea099c09d07132c751d71ed"
+    },
+    {
+      "paperId": "0f67505c0af6b79a8dff134fe744a035c734bf7d"
+    },
+    {
+      "paperId": "1e322efa8b25d56e3b19b95ee820575bd9ca60ef"
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": "e8a606f12d7c83d21c862d92784450d9d48cf7a9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c28d3dc33b629916a306cc58cbff05dcd632d42d"
+    },
+    {
+      "paperId": "784fc48ea139a483fe14917e97c0ae1f6ee9697a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "90d36402b62cce6dcccd96c7d094177487a59e18"
+    },
+    {
+      "paperId": "e85b58686704f355f1d755bb4757a3e1909e4e78"
+    }
+  ]
+}

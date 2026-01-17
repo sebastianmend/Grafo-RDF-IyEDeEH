@@ -1,0 +1,44 @@
+{
+  "paperId": "3723600d75bc74d3fc1eef12fa42c6d88ee44abc",
+  "externalIds": {
+    "DBLP": "conf/icecocs/AbouzahirSS18",
+    "MAG": "2910281187",
+    "DOI": "10.1109/ICECOCS.2018.8610505",
+    "CorpusId": 58012189
+  },
+  "url": "https://www.semanticscholar.org/paper/3723600d75bc74d3fc1eef12fa42c6d88ee44abc",
+  "title": "Enhanced Approach for Weeds Species Detection Using Machine Vision",
+  "venue": "International Conference on Electronics, Control, Optimization and Computer Science",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECOCS.2018.8610505?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECOCS.2018.8610505, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "28890017",
+      "name": "Saad Abouzahir"
+    },
+    {
+      "authorId": "2641332",
+      "name": "M. Sadik"
+    },
+    {
+      "authorId": "2098846",
+      "name": "Essaid Sabir"
+    }
+  ],
+  "abstract": "Precision Agriculture is a clear standout of applying the most recent advances of intelligent systems. The motivation behind the adoption of such a systems is to reduce costs, increment treatments quality and efficiency, thus, increasing the quantity and the quality of agricultural products. In our study we used a histograms based on color indices to discriminate between three classes: soil, soybean and broad-leaf(weeds). This feature representation was tested with two classifiers Back-propagation neural network (BPNN), and Support Vector Machine (SVM). Our approach achieved a state of the art performance with an overall accuracy of 96.601% for BPNN, and 95.078% SVM.",
+  "references": null
+}

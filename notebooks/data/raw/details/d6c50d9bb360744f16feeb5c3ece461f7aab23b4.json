@@ -1,0 +1,46 @@
+{
+  "paperId": "d6c50d9bb360744f16feeb5c3ece461f7aab23b4",
+  "externalIds": {
+    "MAG": "2921424929",
+    "DOI": "10.1109/ICCONS.2018.8663181",
+    "CorpusId": 77387055
+  },
+  "url": "https://www.semanticscholar.org/paper/d6c50d9bb360744f16feeb5c3ece461f7aab23b4",
+  "title": "RAIS - Remotely Accessible Irrigation System",
+  "venue": "International Conference Intelligent Computing and Control Systems",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCONS.2018.8663181?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCONS.2018.8663181, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "7784073",
+      "name": "Alka Singhal"
+    },
+    {
+      "authorId": "82910660",
+      "name": "R. Kohli"
+    },
+    {
+      "authorId": "83123514",
+      "name": "Cheshta Dhamija"
+    },
+    {
+      "authorId": "2305460138",
+      "name": "Nishant Singh"
+    }
+  ],
+  "abstract": "In the past centennial agriculture has been a crucial aspect of living. As the world's population is increasing more food production is required than ever before. But current methods that are used for agriculture are not sustainable to match up with the escalating demands. Advancement in methodologies is a big need. Hence as automation is done in different sectors, it can be applied to agriculture as well to provide a better tool for producing crop more proficiently. This paper is trying to give an efficacious solution which reduces human efforts, enhances quality and precision in farming and related areas. We are developing a remotely accessible irrigation system using with which any person can know the status of his plantations/crops from anywhere. High charts used as medium of information representation gives a much clearer picture of the crop conditions directly to the user.",
+  "references": null
+}

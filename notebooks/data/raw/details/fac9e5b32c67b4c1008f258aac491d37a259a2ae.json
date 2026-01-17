@@ -1,0 +1,103 @@
+{
+  "paperId": "fac9e5b32c67b4c1008f258aac491d37a259a2ae",
+  "externalIds": {
+    "MAG": "2768585041",
+    "DBLP": "journals/jiat/LamLLN18",
+    "DOI": "10.1080/24751839.2017.1390653",
+    "CorpusId": 4058279
+  },
+  "url": "https://www.semanticscholar.org/paper/fac9e5b32c67b4c1008f258aac491d37a259a2ae",
+  "title": "Wireless sensing modules for rural monitoring and precision agriculture applications",
+  "venue": "Journal of Information and Telecommunication",
+  "year": 2018,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1080/24751839.2017.1390653",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/24751839.2017.1390653?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/24751839.2017.1390653, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31336833",
+      "name": "Phat Tan Lam"
+    },
+    {
+      "authorId": "34308839",
+      "name": "Tan Quang Le"
+    },
+    {
+      "authorId": "34731773",
+      "name": "N. N. Le"
+    },
+    {
+      "authorId": "31084553",
+      "name": "D. Nguyen"
+    }
+  ],
+  "abstract": "ABSTRACT In this work, a new design of wireless sensing modules for the wireless sensor network was proposed and the specifications were tested (Received Signal Strength Indicator – RSSI, Packet Reception Ratio – PRR, Link Quality Indicator – LQI) in comparison with some commercial products. Indeed, we focus on the design of wireless sensing nodes and programming of the data transfer protocol for wireless sensing nodes (from the PHYSICAL layer to MAC layer) Experimental results show that the designed wireless sensing modules have the potential for real-world application with read-range (over 150 m), RSSI (bigger than –80 dBm), LQI (bigger than 108) and PRR (over 99%) in the range between 0 and 150 m.",
+  "references": [
+    {
+      "paperId": "c28e946e525f129e4ea243efc57f8efebe9a59a9"
+    },
+    {
+      "paperId": "d080fb7c7cd1bf65be60ec9cd47dd44fca0abb66"
+    },
+    {
+      "paperId": "840dbb7b29ec652c739500ccc4ad877c6ddba2b4"
+    },
+    {
+      "paperId": "0471dc8a8d549325f36b93e0e84e9716944d2a9e"
+    },
+    {
+      "paperId": "2accceeb495a1fbd71c024d69fddc6691857b444"
+    },
+    {
+      "paperId": "484ded995d10537c67014617433b7aad9dc8ebc3"
+    },
+    {
+      "paperId": "4cff2b234ff723a9df559cb0bb75f7ac8f0a51d4"
+    },
+    {
+      "paperId": "b80e6e21c3be1fab4977aaae3673cbbc02d897a5"
+    },
+    {
+      "paperId": "6133b0fb775c027e1afa5bbd4b1bd4afc02f6012"
+    },
+    {
+      "paperId": "d4ef008a5e9e19a0bc7da32fbb700942e449880e"
+    },
+    {
+      "paperId": "672518ab328d602f06627cb24fd79c3c877bc44e"
+    },
+    {
+      "paperId": "47403d86a8e77be939f783e2ecbcfb4741894507"
+    },
+    {
+      "paperId": "f172676e06a3297a197e1b62c289e7ae1caeb035"
+    },
+    {
+      "paperId": "63e037ea89f732414b0df87ed6c7d2950bb1d1b3"
+    },
+    {
+      "paperId": "1363edbb55122fd1e4d07d74e69d429ad122cef1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5d45e796d7dcc1bd6b0945fc58072d51313152c7"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

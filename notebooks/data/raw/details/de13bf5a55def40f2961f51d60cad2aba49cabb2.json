@@ -1,0 +1,42 @@
+{
+  "paperId": "de13bf5a55def40f2961f51d60cad2aba49cabb2",
+  "externalIds": {
+    "MAG": "2921401428",
+    "DOI": "10.1109/EICONRUS.2019.8657303",
+    "CorpusId": 71151406
+  },
+  "url": "https://www.semanticscholar.org/paper/de13bf5a55def40f2961f51d60cad2aba49cabb2",
+  "title": "Directed Antennas for RFID-Based Navigation for Agricultural Unmanned Vehicles",
+  "venue": "IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EICONRUS.2019.8657303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EICONRUS.2019.8657303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1941886",
+      "name": "Alexander K. Savochkin"
+    },
+    {
+      "authorId": "145140623",
+      "name": "A. Timoshenko"
+    },
+    {
+      "authorId": "2070431118",
+      "name": "Mikhail Ivanov"
+    }
+  ],
+  "abstract": "This article examines the method of development of directed antennas for RFID technology in agricultural applications. The use of directional antennas is explained by the growing popularity of using unmanned vehicles in agriculture and with the possibility of implementing high-precision navigation of unmanned vehicles on the field without using satellite navigation. The article also covers the brief concept of use RFID technology for navigation of unmanned vehicles in agricultural applications. The article covers the modeling and physical engineering approach to make compact and robust directed antennas applicable for both identificational and navigational purposes. The conclusion is that directed antennas can be used for RFID-based precise navigation with a location accuracy of less than 1 meter.",
+  "references": null
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "5302d83eaf3d4f2cc366938ed752c29d0607e54e",
+  "externalIds": {
+    "MAG": "2903343514",
+    "DBLP": "conf/icacci/PriyaRK18",
+    "DOI": "10.1109/ICACCI.2018.8554948",
+    "CorpusId": 54442169
+  },
+  "url": "https://www.semanticscholar.org/paper/5302d83eaf3d4f2cc366938ed752c29d0607e54e",
+  "title": "Crop Prediction on the Region Belts of India: A Naïve Bayes MapReduce Precision Agricultural Model",
+  "venue": "International Conference on Advances in Computing, Communications and Informatics",
+  "year": 2018,
+  "citationCount": 60,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACCI.2018.8554948?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACCI.2018.8554948, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "120018452",
+      "name": "R. Priya"
+    },
+    {
+      "authorId": "143943271",
+      "name": "D. Ramesh"
+    },
+    {
+      "authorId": "47652527",
+      "name": "Ekaansh Khosla"
+    }
+  ],
+  "abstract": "Agriculture is the main occupation of India. More than 70% of the population is involved in agriculture and its ancillary. In order to feed the expanding population there is a need to incorporate the latest technologies and tools in the agriculture sector. With the help of big data analytics, IoT, and machine learning algorithms the crop productivity can be increased by many folds. Big data provide facilities like data storage, data processing, and data analysis with accuracy, hence its use in the field of agriculture can benefit farmers and nation's economic growth. In this work, a precision agriculture model is presented to suggest farmers, which crop to cultivate according to field conditions. Focusing mainly on the agriculture in Telangana region, the model uses a Naïve Bayes classifier to recommend about the crop to the farmers. It also suggests which crop can be grown in a specific given environment.",
+  "references": null
+}

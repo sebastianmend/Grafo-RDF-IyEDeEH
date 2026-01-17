@@ -1,0 +1,316 @@
+{
+  "paperId": "4f6c72070e08dcfc19041e046f1a37400f049f80",
+  "externalIds": {
+    "MAG": "2950014406",
+    "ArXiv": "1812.04943",
+    "PubMedCentral": "6542841",
+    "DOI": "10.1038/s41598-019-44316-x",
+    "CorpusId": 126124425,
+    "PubMed": "31147564"
+  },
+  "url": "https://www.semanticscholar.org/paper/4f6c72070e08dcfc19041e046f1a37400f049f80",
+  "title": "Long-range depth imaging using a single-photon detector array and non-local data fusion",
+  "venue": "Scientific Reports",
+  "year": 2018,
+  "citationCount": 55,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-019-44316-x.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1812.04943, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Physics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48818035",
+      "name": "Susan Chan"
+    },
+    {
+      "authorId": "2070316",
+      "name": "Abderrahim Halimi"
+    },
+    {
+      "authorId": "103198079",
+      "name": "Fengzheng Zhu"
+    },
+    {
+      "authorId": "6588375",
+      "name": "I. Gyongy"
+    },
+    {
+      "authorId": "145405011",
+      "name": "R. Henderson"
+    },
+    {
+      "authorId": "2029380",
+      "name": "R. Bowman"
+    },
+    {
+      "authorId": "144519519",
+      "name": "S. Mclaughlin"
+    },
+    {
+      "authorId": "9069648",
+      "name": "G. Buller"
+    },
+    {
+      "authorId": "144134091",
+      "name": "J. Leach"
+    }
+  ],
+  "abstract": "The ability to measure and record high-resolution depth images at long stand-off distances is important for a wide range of applications, including connected and automotive vehicles, defense and security, and agriculture and mining. In LIDAR (light detection and ranging) applications, single-photon sensitive detection is an emerging approach, offering high sensitivity to light and picosecond temporal resolution, and consequently excellent surface-to-surface resolution. The use of large format CMOS (complementary metal-oxide semiconductor) single-photon detector arrays provides high spatial resolution and allows the timing information to be acquired simultaneously across many pixels. In this work, we combine state-of-the-art single-photon detector array technology with non-local data fusion to generate high resolution three-dimensional depth information of long-range targets. The system is based on a visible pulsed illumination system at a wavelength of 670 nm and a 240 × 320 array sensor, achieving sub-centimeter precision in all three spatial dimensions at a distance of 150 meters. The non-local data fusion combines information from an optical image with sparse sampling of the single-photon array data, providing accurate depth information at low signature regions of the target.",
+  "references": [
+    {
+      "paperId": "4bd8fed0f7a776f43267a6546a3c5fe94343eca1"
+    },
+    {
+      "paperId": "69c287bde4bb05968207668936a6537ead4e6c27"
+    },
+    {
+      "paperId": "3a4d2612ec7af954e2f611a4fdd4152801203745"
+    },
+    {
+      "paperId": "3e677c6b807950935e8a277d6fb991e27b7acc04"
+    },
+    {
+      "paperId": "eb79108d14aa489a286a80d70ef284c74e8ac1f1"
+    },
+    {
+      "paperId": "689e9a5f5743888a4f2289edf7d7e5f054cd70c2"
+    },
+    {
+      "paperId": "0c15bda31cf33945850d1dfeed923588f8b4ee52"
+    },
+    {
+      "paperId": "5abb3d36b72418891179593a16181361f18073de"
+    },
+    {
+      "paperId": "75b7c0a5dac37f2c9e6f091135053a2d713562b6"
+    },
+    {
+      "paperId": "25c3742ff45a4fac39c4a96ea29f58476c873735"
+    },
+    {
+      "paperId": "2c999f74110cfcbdafab456d951c84c58210ca06"
+    },
+    {
+      "paperId": "d3631aed17e4bbdf697c39fd09da3134ffc8c464"
+    },
+    {
+      "paperId": "93f9ff7f2183b9aa3d26a900ad95a040f5bb7b91"
+    },
+    {
+      "paperId": "b00ade679dc18ff6eae714de3c17fadcdf9dc1b7"
+    },
+    {
+      "paperId": "de6ae40bdaad6778fdb5cf46e1c70f2050883437"
+    },
+    {
+      "paperId": "e9e36d0c726216f8da64d79990a9183a2821c6e1"
+    },
+    {
+      "paperId": "d4dac8109475f9244af00799eb5769c43cf7e0a9"
+    },
+    {
+      "paperId": "6f7dacafacfe31dba5be56d8d31b17e422c14543"
+    },
+    {
+      "paperId": "96346ce3918cf6890fef79f83226b9e35e11844e"
+    },
+    {
+      "paperId": "675260daa97086f759059f2d1ac77d3a12390998"
+    },
+    {
+      "paperId": "9f8dbb4aef6b3dd0b0725efe2fe3cbc610f8918b"
+    },
+    {
+      "paperId": "d1ced10d8b769d19984ebc5aeaa7fcea6257e9fd"
+    },
+    {
+      "paperId": "303afdb34cc4d44dd175757ff80805967043f2aa"
+    },
+    {
+      "paperId": "e65a93cde4ad298be1ec7b8e3f84a7d46654117f"
+    },
+    {
+      "paperId": "546f420ca582a2bca9e1e0c60d58db699005d9b9"
+    },
+    {
+      "paperId": "b004cd729abfe3022da99c4e42a59bba3b056b4f"
+    },
+    {
+      "paperId": "715d3d2ab38d132e757ba26bb88ff2f11ec5a39d"
+    },
+    {
+      "paperId": "53ce6c125c932409239f4ac8c984cf48b4b3b01f"
+    },
+    {
+      "paperId": "4073942d1d4c721bccabfd5a57ebe2b5908bf152"
+    },
+    {
+      "paperId": "cecdb669c6750b7f32d0f2af2b1f7c26b8898041"
+    },
+    {
+      "paperId": "e2bbbb6696d7d8e8d440e369f7276220636e5bb2"
+    },
+    {
+      "paperId": "1de6a176e63a195ab9649321ab720c9c03967fdc"
+    },
+    {
+      "paperId": "ef2c290f9cecfc0af1bc396fa17e0dc4ffa63cf5"
+    },
+    {
+      "paperId": "9595a151562c18ff3389ebc0e3194144c53c5170"
+    },
+    {
+      "paperId": "2ee7dd47f398eb2c425277e2e36bda4539d60fbf"
+    },
+    {
+      "paperId": "5d3ace9cde1c53d6f9a5d76a2c70b761edc73b38"
+    },
+    {
+      "paperId": "426eaa68beecee866a13bb8a5e35a4acd5baa3a8"
+    },
+    {
+      "paperId": "928dceddad946377b2d49fde7929711082cbea61"
+    },
+    {
+      "paperId": "fa6b0f37c6f98c8c9d6334732f2c22fbe82ec818"
+    },
+    {
+      "paperId": "0492adae99f69ba75722a673c6542b40e6ce697a"
+    },
+    {
+      "paperId": "cd3c448cd90c6f23a1a95d3fcb598a64bddc15fd"
+    },
+    {
+      "paperId": "ce553addaeeceeefcf548dd42b2fa5015504ccc5"
+    },
+    {
+      "paperId": "6e94caaaa116b834221e025c186da8aa9d93b408"
+    },
+    {
+      "paperId": "658c947ec2979edc3f765a9cf179e4880e342bfb"
+    },
+    {
+      "paperId": "764986210f1c5ae40ded7b2fca1c0522f30d73a9"
+    },
+    {
+      "paperId": "1f50194a22e896c969c5940575224b9ff0e79597"
+    },
+    {
+      "paperId": "e5120418015223eff635c4b73eb5ff536cbc02b7"
+    },
+    {
+      "paperId": "94df81864b93c10365e2d908b13102831f1e2ce6"
+    },
+    {
+      "paperId": "b89d94ca774ad0dca6f53b95c2569f17cdd3ae96"
+    },
+    {
+      "paperId": "3a8c252ad18adf01e876df641f9e11025017d2a0"
+    },
+    {
+      "paperId": "eae2f1a2cbfb634b76ca14687ab8a80e7d5cb96b"
+    },
+    {
+      "paperId": "e47f5a476644963bbfa783268945a18bdab7effc"
+    },
+    {
+      "paperId": "2b07d0bfcbc64b8cefa2d5d7b84a3dd13b6d7b51"
+    },
+    {
+      "paperId": "4e694fd10d8d3db97536f0afaa9f8953acf112c7"
+    },
+    {
+      "paperId": "fe7e873113368d05e5865cdb66ee90a9edb42722"
+    },
+    {
+      "paperId": "1150b8b35bc14c15fe5d666cf18bace52d916ddb"
+    },
+    {
+      "paperId": "393baeab0ad6285c5a873fb3e1dd8c971d8cccc2"
+    },
+    {
+      "paperId": "6ad2fd7a469701e6ca208180057036fc6c5a89bd"
+    },
+    {
+      "paperId": "a7ce5391f0e93052dcda44e8d1bfec79a8c853ab"
+    },
+    {
+      "paperId": "adb5ab44ad91dc552137c72a5276a34b45dd5299"
+    },
+    {
+      "paperId": "35b75d462204bfcc316a382d318fa8701006533a"
+    },
+    {
+      "paperId": "0b2142551e4c7e723afd3c6fb53ebedb84f2b8a6"
+    },
+    {
+      "paperId": "7c4b7907aa5b6eb61568355a82d61b91653d2d6f"
+    },
+    {
+      "paperId": "8a74b1e041ae701932244e48631629ec73162e91"
+    },
+    {
+      "paperId": "2e90a5b521979897ffae67b50355ae76fd6c86e4"
+    },
+    {
+      "paperId": "51d267b782e7caf2b6bc7240b1a5f48044ffe115"
+    },
+    {
+      "paperId": "fffa7ae83fa463678861b1a642f8d7917bc66649"
+    },
+    {
+      "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700"
+    },
+    {
+      "paperId": "0a4207feb93d62873e24c015a7423b3bff33629a"
+    },
+    {
+      "paperId": "f2c8f30509ffadc1cb4199b6dc7cfda4eb5e6851"
+    },
+    {
+      "paperId": "54205667c1f65a320f667d73c354ed8e86f1b9d9"
+    },
+    {
+      "paperId": "502e95071eac43d21bd2a83d0949a7d32e5a7f7a"
+    },
+    {
+      "paperId": "6a4c5f56de6d18d435b65cc2243901ac805bc961"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dbd5335a258ae6c4473c4dde643feda985e85111"
+    },
+    {
+      "paperId": "bee16332a00454a75100f9798a4375805e6cbc12"
+    },
+    {
+      "paperId": "236b32803143bb0e1c13319d454bfad6198a6171"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "ba74987cb8c6708e1fe5369401a47755a8f21962",
+  "externalIds": {
+    "MAG": "3007723494",
+    "DBLP": "conf/icmu/RokahaGK19",
+    "DOI": "10.23919/ICMU48249.2019.9006632",
+    "CorpusId": 211297570
+  },
+  "url": "https://www.semanticscholar.org/paper/ba74987cb8c6708e1fe5369401a47755a8f21962",
+  "title": "Building a Reliable and Cost-Effective RTK-GNSS Infrastructure for Precise Positioning of IoT Applications",
+  "venue": "International Conference on Mobile Computing and Ubiquitous Networking",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/ICMU48249.2019.9006632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/ICMU48249.2019.9006632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "73777506",
+      "name": "Bhagawan Rokaha"
+    },
+    {
+      "authorId": "2401886",
+      "name": "B. P. Gautam"
+    },
+    {
+      "authorId": "2556837",
+      "name": "T. Kitani"
+    }
+  ],
+  "abstract": "A precise positioning solution is mandatory for many applications including intelligent transport systems (ITS), precision agriculture, space weather forecasting, disaster rescue and managing unmanned aerial vehicles (UAV). RTK-GNSS is a key technology in providing centimeter-level accuracy for those applications. However, reliable and cost-effective RTK-GNSS applications and infrastructure are still lacking. Thus, in this paper, we discuss how a reliable and cost-saving RTK-GNSS infrastructure can be designed, deployed and accomplished by using available technologies and tools. We developed a prototyping device equipped with RTK-GNSS receiver, cellular modem, sensors, and movable energy supply modules that include a solar panel as a self-sustainable power source. In our design, different sensors are used to monitor and control the physical status of the base station through Internet. We conducted two experiments in different weather and geographical conditions where our result shows that the consistency of the cm-level accuracy is around 91% in both areas. Similarly, the reliability of the system is maintained by the sensors' data that are visualized graphically in real-time through Internet. After analyzing the experimented results, and mechanism of the base station status update and control system, we conclude that the accuracy, feasibility, and reliability can be achieved even by using a low-cost RTK-GNSS receiver with sensors network. We believe that developing this infrastructure will support precise positioning applications and upgrade technological capabilities for generations.",
+  "references": null
+}

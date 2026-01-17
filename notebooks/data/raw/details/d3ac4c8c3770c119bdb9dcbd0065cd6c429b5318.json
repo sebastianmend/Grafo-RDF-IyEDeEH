@@ -1,0 +1,47 @@
+{
+  "paperId": "d3ac4c8c3770c119bdb9dcbd0065cd6c429b5318",
+  "externalIds": {
+    "MAG": "2919409811",
+    "DBLP": "conf/globecom/PianiniEGC18",
+    "DOI": "10.1109/GLOCOMW.2018.8644518",
+    "CorpusId": 67864603
+  },
+  "url": "https://www.semanticscholar.org/paper/d3ac4c8c3770c119bdb9dcbd0065cd6c429b5318",
+  "title": "Emerging Distributed Programming Paradigm for Cyber-Physical Systems Over LoRaWANs",
+  "venue": "2018 IEEE Globecom Workshops (GC Wkshps)",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://cris.unibo.it/bitstream/11585/670773/3/LoraGlobe18_CameraREady.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GLOCOMW.2018.8644518?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GLOCOMW.2018.8644518, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3161078",
+      "name": "Danilo Pianini"
+    },
+    {
+      "authorId": "2309813556",
+      "name": "Ahmed Elzanaty"
+    },
+    {
+      "authorId": "3354671",
+      "name": "A. Giorgetti"
+    },
+    {
+      "authorId": "1710215",
+      "name": "M. Chiani"
+    }
+  ],
+  "abstract": "The growing interest around the cyber-physical systems (CPS), populated with open systems counting myriads of devices, is calling for new technologies both in telecommunications and software engineering with full integration among them. One of the most promising wireless communication technologies for the CPS is LoRaWAN, which enables long range transmission with low power consumption. Typical application scenarios include smart-homes, smart-cities, precision agriculture, and intelligent transportation. On the software side, novel paradigms are emerging to dominate the complexity introduced by the CPS with a large number of spatially distributed devices. Among them, aggregate computing is gaining traction, for it enables expressing the behavior of aggregates of devices by considering their ensemble as a single computational entity, allowing expressive space-time computations. In this paper, we introduce a software architecture which allows aggregate programming software to execute on a network of LoRa-communicating devices. We also provide an open source prototype implementing such architecture, which we use to study the current limitations of existing aggregate programming interpreters in resource-constrained scenarios. We conclude by drawing recommendations for developing such interpreters in order to pave the way to a more power- and data-efficient design.",
+  "references": null
+}

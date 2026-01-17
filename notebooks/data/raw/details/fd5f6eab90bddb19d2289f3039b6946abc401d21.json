@@ -1,0 +1,36 @@
+{
+  "paperId": "fd5f6eab90bddb19d2289f3039b6946abc401d21",
+  "externalIds": {
+    "MAG": "2900713119",
+    "CorpusId": 133773574
+  },
+  "url": "https://www.semanticscholar.org/paper/fd5f6eab90bddb19d2289f3039b6946abc401d21",
+  "title": "UAV or Drones for Remote Sensing Applications [volume 1]",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2067405890",
+      "name": "F. Toro"
+    },
+    {
+      "authorId": "1809291",
+      "name": "A. Tsourdos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

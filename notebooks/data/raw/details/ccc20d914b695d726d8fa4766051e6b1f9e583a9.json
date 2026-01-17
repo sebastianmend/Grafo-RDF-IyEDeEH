@@ -1,0 +1,166 @@
+{
+  "paperId": "ccc20d914b695d726d8fa4766051e6b1f9e583a9",
+  "externalIds": {
+    "MAG": "2784073554",
+    "DBLP": "journals/access/YangKHMS18",
+    "DOI": "10.1109/ACCESS.2018.2790902",
+    "CorpusId": 3463864
+  },
+  "url": "https://www.semanticscholar.org/paper/ccc20d914b695d726d8fa4766051e6b1f9e583a9",
+  "title": "Real-Time Monitoring of Soil Compaction Using Piezoceramic-Based Embeddable Transducers and Wavelet Packet Analysis",
+  "venue": "IEEE Access",
+  "year": 2018,
+  "citationCount": 31,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2018.2790902",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2018.2790902?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2018.2790902, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2393465488",
+      "name": "Wenwei Yang"
+    },
+    {
+      "authorId": "36359718",
+      "name": "Qingzhao Kong"
+    },
+    {
+      "authorId": "143695596",
+      "name": "S. Ho"
+    },
+    {
+      "authorId": "145353863",
+      "name": "Y. Mo"
+    },
+    {
+      "authorId": "1815327",
+      "name": "G. Song"
+    }
+  ],
+  "abstract": "Quantitative assessment of soil compaction is of great importance to construction work, precision agriculture, and geotechnical research. Currently, measurement of soil compaction is mainly performed through field measurements, and the accuracy is highly influenced by personnel experience. In addition, most of the current methods for soil compaction measurement are capable of real-time monitoring. This paper presents an exploratory study of using a piezoceramic-based active sensing approach coupled with wavelet packet analysis to quantitatively monitor soil compaction in real time. In the active sensing approach, a pair of smart aggregates (SA) consisting of piezoceramic transducers embedded inside a host material are embedded into soil. In the pair, one SA acts as transmitter to transmit a modulated stress wave towards the other SA, which acts as receiver. The attenuation ratio of the stress wave propagating energy in soil is governed by the degree of soil compaction, so that the received wave properties of the smart aggregate sensor can be further characterized by using wavelet packet as an index to evaluate the soil compaction in real time. Integrated with remote sensing technologies, the proposed method has potential to be utilized as a real-time remote-sensing technology, which can offer a solution in the monitoring the degree of soil compaction.",
+  "references": [
+    {
+      "paperId": "8c519a1422de212c64400d54546913c1f8101899"
+    },
+    {
+      "paperId": "8cf0ace39617bbb12c78a828c98ddde04623ec65"
+    },
+    {
+      "paperId": "7716fb7512b2ca06f9d93de54db66240872bb483"
+    },
+    {
+      "paperId": "08d0edbb21f7e1bcc0102c695caccd66e9bf8f93"
+    },
+    {
+      "paperId": "ebbb3dcf0833884efb6319bfadfda5af4784afb2"
+    },
+    {
+      "paperId": "c1a53cb55a671155526b83346361693a40d5d3ba"
+    },
+    {
+      "paperId": "3cbdf42a5d69e82c5110c1ddf0b84015ee7321fd"
+    },
+    {
+      "paperId": "192c533b57ec96b26fd26c12f5a3ec669ca5cdf4"
+    },
+    {
+      "paperId": "94a6b23ccb2e25a7e3aee620e2708112d51cdc29"
+    },
+    {
+      "paperId": "def08eb9e9eb69dc3417468f0e82d87a15766c67"
+    },
+    {
+      "paperId": "cfe0092b66b57e61a8982558081ad7ad466db8a0"
+    },
+    {
+      "paperId": "25a129ce4be484c9af99aad05b504f424b471dcf"
+    },
+    {
+      "paperId": "59714c7b6f17f1619277e19866574679c6a820d3"
+    },
+    {
+      "paperId": "bc24199f9114ca251895361f253b066118d9ef4e"
+    },
+    {
+      "paperId": "669bc177fba389bb56ec420a42a4febfd643d3ea"
+    },
+    {
+      "paperId": "ee16924832c1db42fe500a481ffbc2e153ec4c90"
+    },
+    {
+      "paperId": "305f5ec83b51363de07dfcad19534b561d4a1a5e"
+    },
+    {
+      "paperId": "2ecdc9abdb6adb8b5a8db018ff1c688092a7d625"
+    },
+    {
+      "paperId": "db47affe86484e8e34124299c3f63141395ceb7e"
+    },
+    {
+      "paperId": "9fb6f357871baa5ad46cb4e5b467a3940f3c598a"
+    },
+    {
+      "paperId": "3a3e3e19c90002e6c0bf011d92d213687619d833"
+    },
+    {
+      "paperId": "4e4690ec170554c42ac033406685e4f8b0fb2291"
+    },
+    {
+      "paperId": "b78626ce1a562c05b1c06f9c805e839f9760b9ab"
+    },
+    {
+      "paperId": "a2ba5d09e18b667192e55996ac53bc69e60eabc5"
+    },
+    {
+      "paperId": "d4a74bd69119939d991345af555ee83a30ce8c42"
+    },
+    {
+      "paperId": "7b5d61c497679386c260ca41c2139374db32427d"
+    },
+    {
+      "paperId": "d160ef097fef993578ee776e2b263629fcfc1586"
+    },
+    {
+      "paperId": "84b41391ee8c7ea3afe1acd461ef76dceb6f7c5d"
+    },
+    {
+      "paperId": "8ca380ad53a190d492dd729859afb6a3939dd4e1"
+    },
+    {
+      "paperId": "5f6fee3d7b158dc5a7cf4863bd1590307fe87b41"
+    },
+    {
+      "paperId": "cb1de88c34f9a4e2c75c732b7e9eca4aad081d5a"
+    },
+    {
+      "paperId": "0c55204ae0bd872a5f59a2689c7aa3a13ebeb903"
+    },
+    {
+      "paperId": "98359adc0e23f0a4dcfb6fd864c6cd1b8c3f1edb"
+    },
+    {
+      "paperId": "3151eec811e1aa1603007b84d633b80cb29bd400"
+    },
+    {
+      "paperId": "24a7eda887ea4bfef11c77a043bc808d3a6a6609"
+    },
+    {
+      "paperId": "4353568b425756214f02df60e5df3b9da6f088ee"
+    },
+    {
+      "paperId": "751c289062a22daa6b5b44056d955b9d757cd77b"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

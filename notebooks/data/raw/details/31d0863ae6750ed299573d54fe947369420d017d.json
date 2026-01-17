@@ -1,0 +1,44 @@
+{
+  "paperId": "31d0863ae6750ed299573d54fe947369420d017d",
+  "externalIds": {
+    "DBLP": "conf/ic3ina/DiazCV19",
+    "MAG": "2998922689",
+    "DOI": "10.1109/IC3INA48034.2019.8949612",
+    "CorpusId": 209900796
+  },
+  "url": "https://www.semanticscholar.org/paper/31d0863ae6750ed299573d54fe947369420d017d",
+  "title": "Deep Learning for Plant Classification in Precision Agriculture",
+  "venue": "International Conference on Computer, Control, Informatics and its Applications",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IC3INA48034.2019.8949612?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IC3INA48034.2019.8949612, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2274114233",
+      "name": "Carlos A. Mamani Diaz"
+    },
+    {
+      "authorId": "2274113277",
+      "name": "Edgar E. Medina Castaneda"
+    },
+    {
+      "authorId": "2274113226",
+      "name": "Carlos Andrés Mugruza-Vassallo"
+    }
+  ],
+  "abstract": "Deep learning has emerged with big data technologies and high-performance computing to create new opportunities for data intensive science in the multidisciplinary agriculture technologies domain. In this research, we present a deep learning classification system of diverse plants, in order to enable precision agriculture applications. This classification problem was achieved thanks to the public dataset “Plant Seedlings Dataset”, which contains images of approximately 960 unique plants belonging to 12 species at several growth stages. The database has been from Aarhus University Flakkebjerg Research Station in collaboration between the University of Southern Denmark and Aarhus University. A classification comparison was used to determinate which of three pre-trained models; InceptionV3, VGG16 and Xception; reach the best accuracy performance for the database used in this work. Results determined that (1) Xception was the best model for plant classification obtaining 86.21%, overcoming other networks in 7.37% with a time processing around 741 seconds. (2) GPU hardware changes the classification model results impacting strongly in their accuracy score.",
+  "references": null
+}

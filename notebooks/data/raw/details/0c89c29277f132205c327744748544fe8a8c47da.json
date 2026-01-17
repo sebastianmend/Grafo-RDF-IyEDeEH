@@ -1,0 +1,63 @@
+{
+  "paperId": "0c89c29277f132205c327744748544fe8a8c47da",
+  "externalIds": {
+    "MAG": "2900324734",
+    "DOI": "10.1109/INES.2018.8523943",
+    "CorpusId": 53279558
+  },
+  "url": "https://www.semanticscholar.org/paper/0c89c29277f132205c327744748544fe8a8c47da",
+  "title": "Survey of Drones for Agriculture Automation from Planting to Harvest",
+  "venue": "International Conference on Intelligent Engineering Systems",
+  "year": 2018,
+  "citationCount": 84,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INES.2018.8523943?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INES.2018.8523943, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3043492",
+      "name": "Marek Kulbacki"
+    },
+    {
+      "authorId": "2554241",
+      "name": "J. Segen"
+    },
+    {
+      "authorId": "51919722",
+      "name": "Wojciech Kniec"
+    },
+    {
+      "authorId": "1747826",
+      "name": "R. Klempous"
+    },
+    {
+      "authorId": "3360806",
+      "name": "Konrad Kluwak"
+    },
+    {
+      "authorId": "1703285",
+      "name": "J. Nikodem"
+    },
+    {
+      "authorId": "3390638",
+      "name": "J. Kulbacka"
+    },
+    {
+      "authorId": "46828136",
+      "name": "Andrea Serester"
+    }
+  ],
+  "abstract": "Farmers explore the capabilities for applications of Robotic Process Automation (RPA) with image processing, pattern recognition and machine learning, so its logical to ask where best to apply this technology for maximum effect. Machines can do automated tasks better, cheaper and faster. One can use the camera from the sky and measure things on the earth especially on cropland from drones and satellites. Over time, drones have increased in capabilities and fallen in cost, and their use has greatly expanded especially in complex terrain. High quality remote sensing with spectral imaging using drones makes them interesting for regular use in Precision Agriculture (PA). Drones are often used in agriculture in ways that were highly controversial only a short time ago even there are no unified legislation on drones usage in agriculture. In this paper we address problem of Remote Sensing (RS) technologies combined with Unmanned Aerial System (UAS) platforms to support and develop selected agriculture operations like map or sensor-based Variable Rate Application (VRA).",
+  "references": null
+}

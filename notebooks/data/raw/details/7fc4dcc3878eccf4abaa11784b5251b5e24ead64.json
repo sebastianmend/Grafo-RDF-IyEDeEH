@@ -1,0 +1,273 @@
+{
+  "paperId": "7fc4dcc3878eccf4abaa11784b5251b5e24ead64",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/ZhuSHLLZYLLZLL19",
+    "MAG": "2981792938",
+    "DOI": "10.3390/rs11202456",
+    "CorpusId": 208224886
+  },
+  "url": "https://www.semanticscholar.org/paper/7fc4dcc3878eccf4abaa11784b5251b5e24ead64",
+  "title": "Improving Field-Scale Wheat LAI Retrieval Based on UAV Remote-Sensing Observations and Optimized VI-LUTs",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 46,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2456/pdf?version=1571747805",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202456?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202456, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2184463316",
+      "name": "Wanxue Zhu"
+    },
+    {
+      "authorId": "49576940",
+      "name": "Zhigang Sun"
+    },
+    {
+      "authorId": "46843845",
+      "name": "Yaohuan Huang"
+    },
+    {
+      "authorId": "32129076",
+      "name": "Jianbin Lai"
+    },
+    {
+      "authorId": "2152912838",
+      "name": "Jing Li"
+    },
+    {
+      "authorId": "2144127214",
+      "name": "Junqiang Zhang"
+    },
+    {
+      "authorId": "47677187",
+      "name": "Bin Yang"
+    },
+    {
+      "authorId": "2145530834",
+      "name": "Binbin Li"
+    },
+    {
+      "authorId": "2119690781",
+      "name": "Shiji Li"
+    },
+    {
+      "authorId": "2000344414",
+      "name": "Kangying Zhu"
+    },
+    {
+      "authorId": "98177814",
+      "name": "Y. Li"
+    },
+    {
+      "authorId": "34999493",
+      "name": "X. Liao"
+    }
+  ],
+  "abstract": "Leaf area index (LAI) is a key biophysical parameter for monitoring crop growth status, predicting crop yield, and quantifying crop variability in agronomic applications. Mapping the LAI at the field scale using multispectral cameras onboard unmanned aerial vehicles (UAVs) is a promising precision-agriculture application with specific requirements: The LAI retrieval method should be (1) robust so that crop LAI can be estimated with similar accuracy and (2) easy to use so that it can be applied to the adjustment of field management practices. In this study, three UAV remote-sensing missions (UAVs with Micasense RedEdge-M and Cubert S185 cameras) were carried out over six experimental plots from 2018 to 2019 to investigate the performance of reflectance-based lookup tables (LUTs) and vegetation index (VI)-based LUTs generated from the PROSAIL model for wheat LAI retrieval. The effects of the central wavelengths and bandwidths for the VI calculations on the LAI retrieval were further examined. We found that the VI-LUT strategy was more robust and accurate than the reflectance-LUT strategy. The differences in the LAI retrieval accuracy among the four VI-LUTs were small, although the improved modified chlorophyll absorption ratio index-lookup table (MCARI2-LUT) and normalized difference vegetation index-lookup table (NDVI-LUT) performed slightly better. We also found that both of the central wavelengths and bandwidths of the VIs had effects on the LAI retrieval. The VI-LUTs with optimized central wavelengths (red = 612 nm, near-infrared (NIR) = 756 nm) and narrow bandwidths (~4 nm) improved the wheat LAI retrieval accuracy (R2 ≥ 0.75). The results of this study provide an alternative method for retrieving crop LAI, which is robust and easy use for precision-agriculture applications and may be helpful for designing UAV multispectral cameras for agricultural monitoring.",
+  "references": [
+    {
+      "paperId": "15cc05b8306bb6b9c59df57741a5acd5f1aa01d5"
+    },
+    {
+      "paperId": "7e70e936193dd6f1f8be348bfb485a161accc571"
+    },
+    {
+      "paperId": "a6307254e5fc7e1f750e523fa0c2222774acdc40"
+    },
+    {
+      "paperId": "cc53960f671dcc75fbe6db04f963644048aa1a0c"
+    },
+    {
+      "paperId": "0674f3a3ef03797c5f862ee640739e607708c716"
+    },
+    {
+      "paperId": "1cfd24c85000da2f6c06bc554e46a9f31af1e026"
+    },
+    {
+      "paperId": "f003bde5b61c607e26f6ac848b36f2bca2c40775"
+    },
+    {
+      "paperId": "d7549cca72e82ac6ae845d98247a88ebc5fa4c96"
+    },
+    {
+      "paperId": "b1dfda2f9e0f401d2f05d0194cabb209b6c13d4a"
+    },
+    {
+      "paperId": "0a463f5c437d2aecc18064a7e47f07893343a198"
+    },
+    {
+      "paperId": "f382742f3e21f2686fcf002a89ab689b09034e9e"
+    },
+    {
+      "paperId": "d8e911dc55cdf5becad29c6768698f9924f017cb"
+    },
+    {
+      "paperId": "2cdd7508226414fb37b3e260d4c7a48c49962c25"
+    },
+    {
+      "paperId": "a1ac9521a5addf0d741829b4a60f77059cac3d61"
+    },
+    {
+      "paperId": "81bb26cb7d50aafeb68fc68019ab769f98c9d196"
+    },
+    {
+      "paperId": "d34601fae5e480a2e33299076fd9ad1710a1fbc4"
+    },
+    {
+      "paperId": "fbbc7ef33a03c88e54491116bb4d8cbf8c8933e6"
+    },
+    {
+      "paperId": "a994a005650b371ca23c2a3be3a0ae788d8de413"
+    },
+    {
+      "paperId": "698e0ed4d8cf10956a0d08b87fc21b2778cd4879"
+    },
+    {
+      "paperId": "3301e6fdc5f28223fb049d3cfd8bb5346c28dc72"
+    },
+    {
+      "paperId": "2b1667f61580deaf6dca19d2cb1066685e404eff"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "d659e7058a32f58db52cd44fd9ddc5c5f94bd0d7"
+    },
+    {
+      "paperId": "e22ecc54d016336ee3c7a8a99533b1136698727f"
+    },
+    {
+      "paperId": "65db433ec64a1dbd1da0b8f07441cb9705e3945d"
+    },
+    {
+      "paperId": "21c4abeab1ea0c925a659c7ab1fe6dd6d021ba96"
+    },
+    {
+      "paperId": "9d2a06758a8ce1272ee17e0e22f2576915a08938"
+    },
+    {
+      "paperId": "9d64edf18af7dc97adbb930f4577471cf751ec39"
+    },
+    {
+      "paperId": "00e76ace0c30a6dafb4f090fbea6aeb317ad48bb"
+    },
+    {
+      "paperId": "cd73e86ad7e451d7f7e96d72b6781764ad9a3eea"
+    },
+    {
+      "paperId": "fa30fa6e26302da0f38c794222eda0fe79666987"
+    },
+    {
+      "paperId": "ac2011cc8637639a81f04754c14398850c1cd6f3"
+    },
+    {
+      "paperId": "befb418f58475b7ebafd1826ba2e60d354eecc80"
+    },
+    {
+      "paperId": "6fd1d60b218ebd4108e859adf8901074afde8ec9"
+    },
+    {
+      "paperId": "d0837a98c6a706150f98a0e66dc6c221c724daf0"
+    },
+    {
+      "paperId": "84a95557712af4aee6044e6f32696b04d3bdb9ae"
+    },
+    {
+      "paperId": "c15707b4fc17445a8a3045ca3f9fef1013bc5802"
+    },
+    {
+      "paperId": "13988ca68be399bf9a7cd8b75da138807d2bb80e"
+    },
+    {
+      "paperId": "530d58c3b70f054f5cb13d03549d1b4eb102eadd"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "07530b54979e389e87ccb78bbd18a5bffdb770e6"
+    },
+    {
+      "paperId": "d8b133909221a23371cb032ad07636ad28b32c09"
+    },
+    {
+      "paperId": "1eb0061efcf216bfafd6e51e99fbf538631354f8"
+    },
+    {
+      "paperId": "9f94c6f69b52c7e88c97367a12d39de5f6a80cbe"
+    },
+    {
+      "paperId": "11a07f151b571f095e1d5e25855485c876fa25ef"
+    },
+    {
+      "paperId": "8d2e3f76ac54afacf41c569b53f3067e98b3ef5b"
+    },
+    {
+      "paperId": "6b31d9bd7dcc298139a49947d8ceeb3f4026a74f"
+    },
+    {
+      "paperId": "0cd5e1a479122f977f9792198446effd094c7478"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "79b84432a6f7f91926f3695a64f91225f343d697"
+    },
+    {
+      "paperId": "f4a3994b292292cd887295bcb5c42e70e9ed9708"
+    },
+    {
+      "paperId": "20532f8f932b48233a50e705d5a69922e64beb9d"
+    },
+    {
+      "paperId": "e220e73d20fca9aaed06bfbb10d1318eeb0ea4ca"
+    },
+    {
+      "paperId": "9f04fac6afb8adcbd74eda4f0479d8f62884e2be"
+    },
+    {
+      "paperId": "854127df9b99c4f6cb1bd373e4793a9761f2de02"
+    },
+    {
+      "paperId": "11084079ac17e3e2654e9ced7dfe222c1ccf9700"
+    },
+    {
+      "paperId": "e5c06f3c287f519f0e120bf72c810a0b643899a9"
+    },
+    {
+      "paperId": "d1a7eefa6af887ef8e8795387d0d9cb7d30c2b8c"
+    },
+    {
+      "paperId": "4327526642a98d339ff0dbd96bebf3b16067bf57"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": "cd02a6a0607d0b54061e41aaebf05137458a61d1"
+    },
+    {
+      "paperId": "7cd576bd2efbc2e4746ac074d1516da644e55e85"
+    },
+    {
+      "paperId": "17bbaf2bc96f8bcf75144485ff49b6a8c7c440ae"
+    },
+    {
+      "paperId": "12bf99c01916ac2fe5dee35e6ae54ffb616e2c2e"
+    }
+  ]
+}

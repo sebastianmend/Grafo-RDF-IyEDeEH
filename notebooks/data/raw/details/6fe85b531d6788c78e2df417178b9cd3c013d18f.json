@@ -1,0 +1,50 @@
+{
+  "paperId": "6fe85b531d6788c78e2df417178b9cd3c013d18f",
+  "externalIds": {
+    "MAG": "3049396541",
+    "DOI": "10.1109/ICST47872.2019.9166401",
+    "CorpusId": 221159837
+  },
+  "url": "https://www.semanticscholar.org/paper/6fe85b531d6788c78e2df417178b9cd3c013d18f",
+  "title": "Improved Time Series Prediction Using LSTM Neural Network for Smart Agriculture Application",
+  "venue": "International Conference on Information Control Systems & Technologies",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICST47872.2019.9166401?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICST47872.2019.9166401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2287447055",
+      "name": "Budi Cahyo"
+    },
+    {
+      "authorId": "2287131842",
+      "name": "Suryo Putro"
+    },
+    {
+      "authorId": "2171658489",
+      "name": "Wayan Mustika"
+    },
+    {
+      "authorId": "2287476336",
+      "name": "†. OyasWahyunggoro"
+    },
+    {
+      "authorId": "2287348577",
+      "name": "Hutomo Suryo"
+    }
+  ],
+  "abstract": "Smart Agriculture is a solution to achieve precision in agriculture to rapidly increase agricultural production. From the smart agriculture system, data on the environmental conditions of plants is monitored. Prediction systems have also been developed using the Backpropagation Algorithm. However, it is not known whether Backpropagation is quite good compared to the other algorithms. Research has been conducted in other cases and it is found that the LSTM algorithm is capable of producing predictions better than Backpropagation. This paper discusses about the improvement of the predictions using LSTM compared to backpropagation which yields RMSE value of 0.8 for LSTM and 0.10 for backpropagation in smart agriculture applications.",
+  "references": null
+}

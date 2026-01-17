@@ -1,0 +1,111 @@
+{
+  "paperId": "7403863bde02cadb4895ac6770128b4d306c87db",
+  "externalIds": {
+    "MAG": "2972514803",
+    "DBLP": "conf/ifip5-5/RodriguezCB19",
+    "DOI": "10.1007/978-3-030-28464-0_40",
+    "CorpusId": 202640310
+  },
+  "url": "https://www.semanticscholar.org/paper/7403863bde02cadb4895ac6770128b4d306c87db",
+  "title": "Big Data Transformation in Agriculture: From Precision Agriculture Towards Smart Farming",
+  "venue": "Working Conference on Virtual Enterprises",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-02478738/file/488341_1_En_40_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-28464-0_40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-28464-0_40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152817993",
+      "name": "María Angeles Rodríguez"
+    },
+    {
+      "authorId": "144732520",
+      "name": "L. Cuenca"
+    },
+    {
+      "authorId": "1781413",
+      "name": "Á. O. Bas"
+    }
+  ],
+  "abstract": "Big data is a concept that has changed the way to analyse data and information in different environments such as industry and recently, in agriculture. It is used to describe a large volume of data (structured or unstructured data), which are difficult to obtain, process or parse using conventional technologies and tools like relational databases or conventional statistics, in a reasonable time for their insight. However, Big Data is applied differently in each area to take advantage of its potential and capabilities. Specially in agriculture that presents more demanding conditions due to its inherent uncertainty, so Big Data methods and models from other environments cannot be used straight away in this area. In this paper, we present a review/update of term Big Data and analyse the evolution and the role of Big Data in agriculture outlined the element of collaboration.",
+  "references": [
+    {
+      "paperId": "08a3842902b829df8e8500eed86b9a771d927165"
+    },
+    {
+      "paperId": "18978d7914e8186faaf2a77ae6e6e129691873d4"
+    },
+    {
+      "paperId": "3fd50b098e190e755c0fe1b5bc0cbf8a3bf661ab"
+    },
+    {
+      "paperId": "eb85b64055217729d3fa474dd700c78c1cc52972"
+    },
+    {
+      "paperId": "a4c27e3817356699a81698c7474c89725aefc0db"
+    },
+    {
+      "paperId": "0b842f5d17165280687784ccf6b844242f7bfb7c"
+    },
+    {
+      "paperId": "9e27b5e066fcd27ce7fd8ef24d47285642a7955a"
+    },
+    {
+      "paperId": "6d5867465c55b2d8fda24591c3cb40af416de525"
+    },
+    {
+      "paperId": "e29b85ab2a15c9e2a8711b66806cbfa5bf1472bb"
+    },
+    {
+      "paperId": "2e43f53bf40ff29bab8b2ed79d1665551b656dbd"
+    },
+    {
+      "paperId": "a805dd0fb43b1f07d39a595d48806536ef2eada7"
+    },
+    {
+      "paperId": "9e62ba2a6919e547f4b2bc0aa5258a50439aaab1"
+    },
+    {
+      "paperId": "04321fea724f4b26e9edd4f7e9b74b4bd39d20f1"
+    },
+    {
+      "paperId": "b130e2597f953dba749c3be66ec1f07057a647cb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "169d9ec64c18ad15f9d0844ad2e2cd917d2e5c6c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "58d80394d8d875cd15294ddc49eb40e07a61174d"
+    },
+    {
+      "paperId": "506dcc4e8f68b4d8df24c6f9840747b9f1c679fb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "516a158ffd905ef1e4977913e9dfa5cc61ea60ad"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

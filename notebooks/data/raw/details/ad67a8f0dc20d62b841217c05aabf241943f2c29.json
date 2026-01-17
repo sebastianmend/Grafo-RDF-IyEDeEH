@@ -1,0 +1,52 @@
+{
+  "paperId": "ad67a8f0dc20d62b841217c05aabf241943f2c29",
+  "externalIds": {
+    "MAG": "2922500446",
+    "DBLP": "conf/icit/AgetanoPHOZ18",
+    "DOI": "10.1145/3301551.3301554",
+    "CorpusId": 75140173
+  },
+  "url": "https://www.semanticscholar.org/paper/ad67a8f0dc20d62b841217c05aabf241943f2c29",
+  "title": "Amaize: Automated Maize Seed Sowing Robot with Android Mobile Application",
+  "venue": "International Conference on Industrial Technology",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3301551.3301554?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3301551.3301554, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "84541856",
+      "name": "John Carlo Q. Agetano"
+    },
+    {
+      "authorId": "83400300",
+      "name": "Niña Angela T. Pamplona"
+    },
+    {
+      "authorId": "83370457",
+      "name": "Genoah Lee Hernia"
+    },
+    {
+      "authorId": "83693315",
+      "name": "Ingrid Carissa C. Obnial"
+    },
+    {
+      "authorId": "2324892914",
+      "name": "Eugenia R. Zhuo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

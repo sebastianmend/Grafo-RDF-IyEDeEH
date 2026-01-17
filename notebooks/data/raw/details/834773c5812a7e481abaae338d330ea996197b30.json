@@ -1,0 +1,64 @@
+{
+  "paperId": "834773c5812a7e481abaae338d330ea996197b30",
+  "externalIds": {
+    "MAG": "2942445877",
+    "DOI": "10.22314/2073-7599-2018-12-6-48-52",
+    "CorpusId": 201902305
+  },
+  "url": "https://www.semanticscholar.org/paper/834773c5812a7e481abaae338d330ea996197b30",
+  "title": "Development of Algorithms and Software Systems for Motion Control of a Robotic Tillage Unit",
+  "venue": "Agricultural Machinery and Technologies",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22314/2073-7599-2018-12-6-48-52",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22314/2073-7599-2018-12-6-48-52?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22314/2073-7599-2018-12-6-48-52, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "98822978",
+      "name": "Я. П. Лобачевский"
+    },
+    {
+      "authorId": "116044746",
+      "name": "С. Э. Лонин"
+    },
+    {
+      "authorId": "70596044",
+      "name": "И. С. Алексеев"
+    },
+    {
+      "authorId": "152974492",
+      "name": "Н. Т. Гончаров"
+    },
+    {
+      "authorId": "87464958",
+      "name": "И. И. Афонина"
+    },
+    {
+      "authorId": "101752687",
+      "name": "Е. Н. Ильченко"
+    }
+  ],
+  "abstract": "Abstract. Automation of agricultural machinery is aimed at solving specific practical tasks: control and maintenance of the technological process quality, increasing labor productivity as well as crop yields. The method of \"precision farming\" is economically expedient, since it is a direct saving of technological material, as well as it helps reducing the negative impact on the environment and farm produce. (Research purpose) The research purpose is to review and analyze the main aspects required to develop the algorithms and software for motion control systems for a robotic tillage unit. (Materials and methods) To implement process control, it is necessary to control the direction of travel along a specified path, change the speed of movement depending on the engine load, switching the transmission gears. Physical-and-mechanical characteristics of the unit are rather heterogeneous and depend on weather conditions. Therefore, the algorithm for controlling the power of the robotic mobile unit must take into account, as much as possible, variations in the external effects of drawbar properties and the motion resistance, as a random factor. (Results and discussion) The authors have developed an imitation model representing the movement of a robotic unit. For the simulation, use has been made of a cyclic trajectory of the unit movement, consisting of two types of sections: the rectilinear ones reflecting the soil tillage pattern, and the turn areas where the unit makes a turn along a curvilinear trajectory around a certain center. (Conclusions) The implementation of robotic technologies in agricultural production result in increased technical, technological, production and economic indicators of agricultural units in field work, increased labor productivity, reduced time required for fieldworks, more rational use of bioenergy resources, increased yields of agricultural crops and reduced environmental impacts.",
+  "references": [
+    {
+      "paperId": "5bfe291e5837109e9446c6417b03fdf39e931e25"
+    },
+    {
+      "paperId": "4578cc22fb998175cc44b992cb18ee18a7b85304"
+    },
+    {
+      "paperId": "dbae7e614bddd97bf84a1f8fcb8aafba02fb8a56"
+    }
+  ]
+}

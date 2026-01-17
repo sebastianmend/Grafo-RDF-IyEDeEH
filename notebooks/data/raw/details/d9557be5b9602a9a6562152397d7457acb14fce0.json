@@ -1,0 +1,281 @@
+{
+  "paperId": "d9557be5b9602a9a6562152397d7457acb14fce0",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/YinVQZXZLLL19",
+    "MAG": "2914993640",
+    "DOI": "10.3390/RS11030244",
+    "CorpusId": 85497615
+  },
+  "url": "https://www.semanticscholar.org/paper/d9557be5b9602a9a6562152397d7457acb14fce0",
+  "title": "Retrieval of High Spatiotemporal Resolution Leaf Area Index with Gaussian Processes, Wireless Sensor Network, and Satellite Data Fusion",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/3/244/pdf?version=1548336398",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11030244?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11030244, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3409018",
+      "name": "Gaofei Yin"
+    },
+    {
+      "authorId": "39703990",
+      "name": "A. Verger"
+    },
+    {
+      "authorId": "34281634",
+      "name": "Y. Qu"
+    },
+    {
+      "authorId": "40664154",
+      "name": "Wei Zhao"
+    },
+    {
+      "authorId": "3316452",
+      "name": "Baodong Xu"
+    },
+    {
+      "authorId": "3408633",
+      "name": "Yelu Zeng"
+    },
+    {
+      "authorId": "2152352252",
+      "name": "Ke Liu"
+    },
+    {
+      "authorId": "35729269",
+      "name": "Jing Li"
+    },
+    {
+      "authorId": "2109312657",
+      "name": "Qinhuo Liu"
+    }
+  ],
+  "abstract": "Many applications, including crop growth and yield monitoring, require accurate long-term time series of leaf area index (LAI) at high spatiotemporal resolution with a quantification of the associated uncertainties. We propose an LAI retrieval approach based on a combination of the LAINet observation system, the Consistent Adjustment of the Climatology to Actual Observations (CACAO) method, and Gaussian process regression (GPR). First, the LAINet wireless sensor network provides temporally continuous field measurements of LAI. Then, the CACAO approach generates synchronous reflectance data at high spatiotemporal resolution (30-m and 8-day) from the fusion of multitemporal MODIS and high spatial resolution Landsat satellite imagery. Finally, the GPR machine learning regression algorithm retrieves the LAI maps and their associated uncertainties. A case study in a cropland site in China showed that the accuracy of LAI retrievals is 0.36 (12.7%) in terms of root mean square error and R2 = 0.88 correlation with ground measurements as evaluated over the entire growing season. This paper demonstrates the potential of the joint use of newly developed software and hardware technologies in deriving concomitant LAI and uncertainty maps with high spatiotemporal resolution. It will contribute to precision agriculture, as well as to the retrieval and validation of LAI products.",
+  "references": [
+    {
+      "paperId": "9421e0348795931b9bfeb1905d03d450e9b0b6fd"
+    },
+    {
+      "paperId": "0a90a863b9acc8baa438f261ad7784e6c44dcbab"
+    },
+    {
+      "paperId": "eb34a804e9ff7388964a495ce4f6cd569f66186c"
+    },
+    {
+      "paperId": "0af59e302ce57813bb50d40d3675255ca58eca68"
+    },
+    {
+      "paperId": "70f4e8a2dfa0fc595b30f17ff513e378c1ae1c89"
+    },
+    {
+      "paperId": "595994ea3d6d5bce055c94a8dd8e030a91a57fdd"
+    },
+    {
+      "paperId": "eee8ee6b41abdb2d88655789993378a344ca43dc"
+    },
+    {
+      "paperId": "f953d6d06cd152d4f4affb25cb53b128d72e2edc"
+    },
+    {
+      "paperId": "ee791c704bbeee181f37488f031df906c061eee4"
+    },
+    {
+      "paperId": "5a0c254ade7b386585a01cbcc195408e9078f824"
+    },
+    {
+      "paperId": "deb9986b8641ef1ade6c76f3b01e65672f430778"
+    },
+    {
+      "paperId": "75d7f9f9e06614869bd5619bb13304f94e5b0282"
+    },
+    {
+      "paperId": "25876746000502168a6b8dbf175845ad22ec34b0"
+    },
+    {
+      "paperId": "76cf5c3e9e1d77300eb93ac11928d8c4c3457f50"
+    },
+    {
+      "paperId": "b557ea451d1310605d1f9157d3a8eae56d6902af"
+    },
+    {
+      "paperId": "68672b1df5542e4e9640eeedfb1e687276256965"
+    },
+    {
+      "paperId": "6a3f2efbd1dad0a780a1366d95c1219d3e957cd6"
+    },
+    {
+      "paperId": "5b8ff6af87f69899a0818b237f826006bdee7fa6"
+    },
+    {
+      "paperId": "4e4ffeab28aa414f5823e3602efb1c44a485d5c9"
+    },
+    {
+      "paperId": "1e5a897cc409019b5203cd4aa901a8eb75d88fe7"
+    },
+    {
+      "paperId": "b93c4b2003e0e05e1bc685892d2828907649614b"
+    },
+    {
+      "paperId": "0f771c331438779026d6ce69d4915ef8ee5d3479"
+    },
+    {
+      "paperId": "09c88785dfe47a9d44094c1879098f008636f9a8"
+    },
+    {
+      "paperId": "c486888508c0004b4c7622bd60bcd77ccfdafc30"
+    },
+    {
+      "paperId": "7c420b4e4ee5b9181c79b115115737f999ca727a"
+    },
+    {
+      "paperId": "8657dcaca35c9d81c2239e7a6fc25b34a7fa63b0"
+    },
+    {
+      "paperId": "3e44a615f3e8d52c5c3ea1b4899951d673623670"
+    },
+    {
+      "paperId": "582f3b7e2917a907300c60472b0eef96a14683b8"
+    },
+    {
+      "paperId": "171b4e2f84bca98c3e863dd5b6ae75d5981f1026"
+    },
+    {
+      "paperId": "c8b3911ad0e0662d8d328cd8563609a569988878"
+    },
+    {
+      "paperId": "430ae103ae6e8f5ec3fca5f9e452a93f510d540d"
+    },
+    {
+      "paperId": "2798ae83f419d56b1bd26789db50b98babcee800"
+    },
+    {
+      "paperId": "6940217fc181ea64ee1a870baeec09a069300be2"
+    },
+    {
+      "paperId": "c21a7285cdb20981c852392c4a29bf45dbed891a"
+    },
+    {
+      "paperId": "b81de94431f63d14b8559db1fbb9f52f6740d5fe"
+    },
+    {
+      "paperId": "51f620798baa29ad311f0c5964904162fa779106"
+    },
+    {
+      "paperId": "bf374a34587b9449af17f945251b0a3750f3819c"
+    },
+    {
+      "paperId": "dbcd5d671d1ff545d5d2c2081ba9f58be61752c4"
+    },
+    {
+      "paperId": "83666956bf0d90661b3e2972a157b73c50c6d266"
+    },
+    {
+      "paperId": "a0a8cba3585aa7e5c4c7465cf67332938ab663cb"
+    },
+    {
+      "paperId": "ac42e366548c5c57dac636051638a34ea2daf214"
+    },
+    {
+      "paperId": "5bb5247b75afb73d4b88cb9f2cb8201d00c4c8ca"
+    },
+    {
+      "paperId": "c4eaf9d250865a2521915d2869df54259aeddb52"
+    },
+    {
+      "paperId": "278ab92ab4780d281fe6e4a8fb4bd3c28aaaea02"
+    },
+    {
+      "paperId": "c7c831244004f9d4d69d82aba5dbff1a3c422fb1"
+    },
+    {
+      "paperId": "82cf7489cb03d336e1ac4702098aa20fb14110ab"
+    },
+    {
+      "paperId": "ce9086427f71d1b941796586998f0dca76c2736b"
+    },
+    {
+      "paperId": "16ce2c351d96b4eec142cf975e27f740c37f411e"
+    },
+    {
+      "paperId": "ec58e91145960beda9afe285e21f42e16303a2cb"
+    },
+    {
+      "paperId": "299301d593dae1aee797c840346c38436fa1b60e"
+    },
+    {
+      "paperId": "3e3bfbb3f6dbc83b98dc8e3c95c97039ef99837c"
+    },
+    {
+      "paperId": "04ed2c02b48636ffd4fee69d98c2e0f17afa8018"
+    },
+    {
+      "paperId": "7adf224368ea9710b21d67ca8332e13a5b661b16"
+    },
+    {
+      "paperId": "b7386221913f0ad679b88079226a63c9eea26e22"
+    },
+    {
+      "paperId": "5e2b5195665c1ded23e2107d69f290cf1098beb1"
+    },
+    {
+      "paperId": "5ee037c65be9f0c1b011875163afa2b4daff1527"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "32529762519f0cc15b28e05c62cb9d0a7853b504"
+    },
+    {
+      "paperId": "561f1909a2f06ea59bb2029049b9e9b83405d1ab"
+    },
+    {
+      "paperId": "17d6171106a2aa60ddbbcbb1036b1b0923fd6d18"
+    },
+    {
+      "paperId": "1dea6b94ad4ddec61147f26a7d3ecfcbb74c92db"
+    },
+    {
+      "paperId": "bdcd4d04ee10426569227061655108419731020d"
+    },
+    {
+      "paperId": "e1572e110026c4f61a58ac055a324683cc280a2e"
+    },
+    {
+      "paperId": "8b2fdf7dde9e884e6029f12b583cc06bbd9c1564"
+    },
+    {
+      "paperId": "13d8005fcea9f58a52758db5f73b9fdb0a2243f6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b5e1bf0b1d093f36c2ab28e7e149d9304e0433b3"
+    },
+    {
+      "paperId": "f92b509b41a5fee274c1b540153e965718c00b4c"
+    },
+    {
+      "paperId": "83c752626be7564bac6514c11afbb685e3c02b26"
+    },
+    {
+      "paperId": "3db07fd4b634c0d39c8f71981a74707b59723e88"
+    },
+    {
+      "paperId": "290a544987ab2e9f0ef6c1f7aee80ae8cb176264"
+    }
+  ]
+}

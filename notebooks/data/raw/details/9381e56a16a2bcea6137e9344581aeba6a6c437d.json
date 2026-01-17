@@ -1,0 +1,49 @@
+{
+  "paperId": "9381e56a16a2bcea6137e9344581aeba6a6c437d",
+  "externalIds": {
+    "MAG": "2981530128",
+    "DOI": "10.1088/1757-899X/611/1/012086",
+    "CorpusId": 210625541
+  },
+  "url": "https://www.semanticscholar.org/paper/9381e56a16a2bcea6137e9344581aeba6a6c437d",
+  "title": "Analysis of Vegetation Characteristics of Regional Soybean and Paddy Rice Fields Using UAV Images and Farm Maps",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/611/1/012086",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/611/1/012086?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/611/1/012086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2115475553",
+      "name": "Dongho Lee"
+    },
+    {
+      "authorId": "2109191555",
+      "name": "Jong-hwa Park"
+    }
+  ],
+  "abstract": "Remote sensing (RS) and GIS together provide an efficient and inexpensive way to assess vegetation characteristics and cultivated areas. Precision vegetation mapping provides important information for understanding crop conditions through the calculation of the vegetation index. In this study, a multispectral sensor was installed on an eBee (Sensefly), which is suitable for wide area photography taken by an unmanned aerial vehicle (UAV). UAV imagery acquisition was used to obtain spatial information on soybean and paddy rice cultivation areas in a wider region. The study area selected was Gimje, which is in the southwest of South Korea. Based on the designation of main areas according to the Ministry of Agriculture, Food, and Rural Affairs (MAFRA), the area was selected considering the cultivation area, production volume, number of farm households, and self-sufficiency ratio. The main producing areas are soybean cultivation areas defined as a city or county with a cultivation area of 30∼1500 ha or more, respectively. The identification of the cultivation area of soybeans was made based on images taken in early September, when the growth characteristics of soybeans were clearly distinguished from other crops. The accuracy of the soybean and paddy rice cultivation area identification was improved by using the farm map (FM) prepared by the MAFRA in South Korea. The NDVI was analyzed based on the two periods of high growth activity of soybean and paddy rice. The accuracy of the cultivated area was improved by using the UAV images and the FM prepared by the MAFRA. As a result, this study shows that UAV images can be used more effectively by linking GIS with the FM as a basic map.",
+  "references": [
+    {
+      "paperId": "2676135f9852d3f8ea071962188d216ca09c5d81"
+    },
+    {
+      "paperId": "c4bc5420964be0d36cd4ddedac0de28c4086bc36"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    }
+  ]
+}

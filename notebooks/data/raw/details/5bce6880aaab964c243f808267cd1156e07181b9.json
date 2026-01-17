@@ -1,0 +1,113 @@
+{
+  "paperId": "5bce6880aaab964c243f808267cd1156e07181b9",
+  "externalIds": {
+    "MAG": "2948951294",
+    "DOI": "10.5194/ISPRS-ARCHIVES-XLII-2-W13-1701-2019",
+    "CorpusId": 195506377
+  },
+  "url": "https://www.semanticscholar.org/paper/5bce6880aaab964c243f808267cd1156e07181b9",
+  "title": "RELIABILITY OF THE GEOMETRIC CALIBRATION OF AN HYPERSPECTRAL FRAME CAMERA",
+  "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5194/isprs-archives-xlii-2-w13-1701-2019",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRS-ARCHIVES-XLII-2-W13-1701-2019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRS-ARCHIVES-XLII-2-W13-1701-2019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "100748236",
+      "name": "M. Musci"
+    },
+    {
+      "authorId": "2068290",
+      "name": "I. Aicardi"
+    },
+    {
+      "authorId": "3439803",
+      "name": "P. Dabove"
+    },
+    {
+      "authorId": "39773098",
+      "name": "A. Lingua"
+    }
+  ],
+  "abstract": "Abstract. One of the main tools for high resolution remote sensing and photogrammetry is the lightweight hyperspectral frame camera, that is used in several application areas such as precision agriculture, forestry, and environmental monitoring. Among these types of sensors, the Rikola (which is based on a Fabry–Perot interferometer (FPI) and produced by Senop) is one of the latest innovations. Due to its internal geometry, there are several issues to be addressed for the appropriate definition and estimation of the inner orientation parameters (IOPs). The main problems concern the possibility to change every time the sequence of the bands and to assess the reliability of the IOPs. This work focuses the attention on the assessment of the IOPs definition for each sensor, considering the impact of environmental conditions (e.g., different time, exposure, brightness) and different configurations of the FPI camera, in order to rebuild an undistorted hypercube for image processing and object estimation. The aim of this work is to understand if the IOPs are stable over the time and if and which bands can be used as reference for the calculation of the inner parameters for each sensor, considering different environmental configurations and surveys, from terrestrial to aerial applications. Preliminary performed tests showed that the focal length percentage variation among the bands of different experiments is around 1%.\n",
+  "references": [
+    {
+      "paperId": "3723f4674f74e03e95eb766dffe73b3b9b3ddaab"
+    },
+    {
+      "paperId": "d35ed1fcab47cf98101dc745c42d3b51dace25eb"
+    },
+    {
+      "paperId": "6c0bbf56c111c5c4c0ed7ac740761eee1af0d142"
+    },
+    {
+      "paperId": "163e149ef925d0477b8d435f335a87c8389ef33a"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "0d2e3d3ada6cdd13d59278798eff0e8371d6339f"
+    },
+    {
+      "paperId": "d0764843957958394217ec02895c417d25f21ca7"
+    },
+    {
+      "paperId": "6bdacaf992b0394cc73ff94fcbf6b31483406286"
+    },
+    {
+      "paperId": "16e72f1c02ba873a42c5334b2712541141b76942"
+    },
+    {
+      "paperId": "60e42317d6a749e8e813dc5c9da0e7f8689f9d28"
+    },
+    {
+      "paperId": "0128272af5d7dc50634109e4e96ee30b21ce581d"
+    },
+    {
+      "paperId": "e6584ab83b86f8cd2ce654b448ce6a15c83962db"
+    },
+    {
+      "paperId": "00b42a7649ac10328fef1d45223484bf9653d995"
+    },
+    {
+      "paperId": "1150007b62a3c7dac99c2c8f85c63bfab74891af"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

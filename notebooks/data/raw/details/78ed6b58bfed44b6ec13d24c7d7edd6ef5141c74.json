@@ -1,0 +1,77 @@
+{
+  "paperId": "78ed6b58bfed44b6ec13d24c7d7edd6ef5141c74",
+  "externalIds": {
+    "ArXiv": "1909.12083",
+    "DBLP": "journals/corr/abs-1909-12083",
+    "MAG": "2975898511",
+    "CorpusId": 202889212
+  },
+  "url": "https://www.semanticscholar.org/paper/78ed6b58bfed44b6ec13d24c7d7edd6ef5141c74",
+  "title": "In-field grape berries counting for yield estimation using dilated CNNs",
+  "venue": "arXiv.org",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1909.12083, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1387885788",
+      "name": "L. Coviello"
+    },
+    {
+      "authorId": "2290918519",
+      "name": "M. Cristoforetti"
+    },
+    {
+      "authorId": "1680819",
+      "name": "Giuseppe Jurman"
+    },
+    {
+      "authorId": "1687584",
+      "name": "Cesare Furlanello"
+    }
+  ],
+  "abstract": "Digital technologies ignited a revolution in the agrifood domain known as precision agriculture: a main question for enabling precision agriculture at scale is if accurate product quality control can be made available at minimal cost, leveraging existing technologies and agronomists' skills. As a contribution along this direction we demonstrate a tool for accurate fruit yield estimation from smartphone cameras, by adapting Deep Learning algorithms originally developed for crowd counting.",
+  "references": [
+    {
+      "paperId": "52f9d72e1eb1ac509cf0005e81cc1aa47b082273"
+    },
+    {
+      "paperId": "1a964f13abb3cdc5675dbfd612fa0409608e28c7"
+    },
+    {
+      "paperId": "2dc3b3eff8ded8914c8b536d05ee713ff0cdf3cd"
+    },
+    {
+      "paperId": "3f20222cc6d2639e237c314099364c226a5a6c2c"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "f4c7ff4b8613f700aa9f89a2c0653b6ffcf658be"
+    },
+    {
+      "paperId": "d2c733e34d48784a37d717fe43d9e93277a8c53e"
+    },
+    {
+      "paperId": "0bb58fb71ad33441e573660bcd663b4caa46100c"
+    },
+    {
+      "paperId": "29c709d0b81a7af26c1918bf21eedef76f596bbe"
+    }
+  ]
+}

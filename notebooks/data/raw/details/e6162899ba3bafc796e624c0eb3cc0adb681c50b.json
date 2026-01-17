@@ -1,0 +1,41 @@
+{
+  "paperId": "e6162899ba3bafc796e624c0eb3cc0adb681c50b",
+  "externalIds": {
+    "MAG": "2974704016",
+    "DOI": "10.22214/ijraset.2019.5037",
+    "CorpusId": 204187594
+  },
+  "url": "https://www.semanticscholar.org/paper/e6162899ba3bafc796e624c0eb3cc0adb681c50b",
+  "title": "Pneumatic Operated Seed Sowing Machine",
+  "venue": "International Journal for Research in Applied Science and Engineering Technology",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22214/ijraset.2019.5037",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22214/ijraset.2019.5037?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22214/ijraset.2019.5037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2105525920",
+      "name": "A. Pawar"
+    }
+  ],
+  "abstract": "India's economic security continues to be predicted upon the agricultural sector. Agriculture supports 58% of Indian population. To meet the rapid growth and increased food demand automation is necessary in farms. By using conventional seed sowing methods, the seed wastage is enormous. By implementing our seed sowing system, the wastage is reduced up to 90%. By introducing automation to this process has become convenient. The biggest benefit of automation is that it saves labour, however, it is also used to save energy and materials & to improve quality, accuracy and precision. Some crops are required to grow saplings first before planting them in farm. These saplings are grown in a nursery. We've designed this system for nursery and poly house. The present review provides brief information about the various types of innovations done in seed sowing equipment. The basic objective of sowing operation is to put the seed and fertilizer in rows at desired depth and seed to seed spacing, cover the seeds with soil and provide proper compaction over the seed. The recommended row to row spacing, seed rate, seed to seed spacing and depth of seed placement vary from crop to crop and for different agro-climatic conditions to achieve optimum yields. Seed sowing devices plays a wide role in agriculture field.",
+  "references": [
+    {
+      "paperId": "4f5c011cf894c0a8619acd6beafb54fe48902191"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

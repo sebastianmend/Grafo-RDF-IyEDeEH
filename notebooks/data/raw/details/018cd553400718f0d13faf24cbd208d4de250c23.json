@@ -1,0 +1,148 @@
+{
+  "paperId": "018cd553400718f0d13faf24cbd208d4de250c23",
+  "externalIds": {
+    "MAG": "2945061049",
+    "DOI": "10.1088/1755-1315/275/1/012004",
+    "CorpusId": 182077895
+  },
+  "url": "https://www.semanticscholar.org/paper/018cd553400718f0d13faf24cbd208d4de250c23",
+  "title": "Exploring the impact of innovation adoption in agriculture: how and where Precision Agriculture Technologies can be suitable for the Italian farm system?",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 26,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/275/1/012004",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/275/1/012004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/275/1/012004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "117022122",
+      "name": "G. Bucci"
+    },
+    {
+      "authorId": "98470281",
+      "name": "D. Bentivoglio"
+    },
+    {
+      "authorId": "119229376",
+      "name": "A. Finco"
+    },
+    {
+      "authorId": "92632865",
+      "name": "M. Belletti"
+    }
+  ],
+  "abstract": "Starting from the twenty-first century, the digital paradigm has brought with it a new way of thinking about innovation within the firms through the introduction of the Internet of Things (IoT) and the Information and Communications Technology (ICT), keys factors of digital transformation technologies. In addition, the use of Precision Agriculture (PA) has created a new approach to farming practices, allowing farmers to reduce the inputs, while protecting natural resources. Today, also in Italy PA is starting to be an effective technological innovation potentially capable to improve farms efficiency and sustainability. Given these considerations, the present paper aims, firstly, to review the factors more affect the adoption of precision agriculture technologies (PATs); secondly, to investigate where the PATs could be convenient to apply in Italy. A multi-Criteria Decision Analysis method is performed to achieve this goal. The analysis shows that the geographical area more likely to use PATs in Italy is the North East territory. However, in Italy, the adoption of these technologies in agriculture meets various obstacles: the cultural barrier to innovation and a limited awareness of benefits; the reduced average size of farms, with the difficulty of investing in and appreciating the benefits of PATs.",
+  "references": [
+    {
+      "paperId": "898ff8d018aea308423c18998c54d9ec645c707a"
+    },
+    {
+      "paperId": "58564d30acebee7bac07dedff20bc4244f12e118"
+    },
+    {
+      "paperId": "3f586f97f9633589969ddedb881eaae767e6365b"
+    },
+    {
+      "paperId": "2791263f3ce9efee117581133f49a019f2727afc"
+    },
+    {
+      "paperId": "6021212cf49b7bbcf99069f13f0d95fe5ab5c720"
+    },
+    {
+      "paperId": "405d54776afd76fa81b52c442950f9046190f037"
+    },
+    {
+      "paperId": "863157d96a84a32cdd1d81a40da05ece1934d644"
+    },
+    {
+      "paperId": "f3195f24b009ce8afad531e9920200cc93a5fd17"
+    },
+    {
+      "paperId": "240748aa90eb07d1ca24904530e041b34883699d"
+    },
+    {
+      "paperId": "92687ff2be5f0da823f653aa6afa2cf7a0e940f1"
+    },
+    {
+      "paperId": "b688deae29fd81a7ae64a7ee560d148381acfa2f"
+    },
+    {
+      "paperId": "7fc0cd794ca1e480ba14cb5ee1a47b4f9de039d4"
+    },
+    {
+      "paperId": "89284d0935e9ce0b62463a8da5af2dfbd5f75c54"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "0deb9899813283f64fdb300e6b2493dc2b7c37bd"
+    },
+    {
+      "paperId": "ebb3c807c4d89c3a09a84507412a94336366d47b"
+    },
+    {
+      "paperId": "600d6f91c24dd9ecedaa649590bb3b9f13481ad2"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "da92a734d69ec8a54d036d4019e56ca37e9c4938"
+    },
+    {
+      "paperId": "7a2174050be6118b66fd4379cc2ebea6e94d374a"
+    },
+    {
+      "paperId": "a124ade22189b63c67e8c547be162e5f3824e94d"
+    },
+    {
+      "paperId": "e01f0dac58757cfd6f5dfeecdd230d4578411aef"
+    },
+    {
+      "paperId": "c789561d00488ce84042a4da753914ec0beabeed"
+    },
+    {
+      "paperId": "44f9d28536d162d022cc15139682fbe710e9a75f"
+    },
+    {
+      "paperId": "2a881e5b072a8b981c2914cec5f8d74a1cb0d672"
+    },
+    {
+      "paperId": "44467ad5d774178dce0957355e8402d78cf8c996"
+    },
+    {
+      "paperId": "a5edab80ab4ba69877aee36c9b23ed9b8d3dd8bb"
+    },
+    {
+      "paperId": "7fe390b1712380ff124654100ccbafcacfb89fc1"
+    },
+    {
+      "paperId": "505c0bc9473313b5f11b6d8792ea2c8c7b9a6d8f"
+    },
+    {
+      "paperId": "8fd4c02449e9ba1805253ca72234b44caba1fc10"
+    },
+    {
+      "paperId": "7e8f7e81fb07c8e4079e782c35980eff456467a5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

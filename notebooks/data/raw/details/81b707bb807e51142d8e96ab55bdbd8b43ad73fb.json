@@ -1,0 +1,67 @@
+{
+  "paperId": "81b707bb807e51142d8e96ab55bdbd8b43ad73fb",
+  "externalIds": {
+    "MAG": "2963538895",
+    "DOI": "10.1117/12.2536064",
+    "CorpusId": 200098315
+  },
+  "url": "https://www.semanticscholar.org/paper/81b707bb807e51142d8e96ab55bdbd8b43ad73fb",
+  "title": "SEOSAT/Ingenio: a high-resolution land imaging mission",
+  "venue": "International Conference on Space Optics",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11180/1118041/SEOSATIngenio-a-high-resolution-land-imaging-mission/10.1117/12.2536064.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2536064?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2536064, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "152213249",
+      "name": "A. Marini"
+    },
+    {
+      "authorId": "144554940",
+      "name": "F. Reina"
+    },
+    {
+      "authorId": "46767321",
+      "name": "A. Popescu"
+    },
+    {
+      "authorId": "145280934",
+      "name": "C. Castano"
+    },
+    {
+      "authorId": "146961367",
+      "name": "I. Cabeza"
+    },
+    {
+      "authorId": "2107106746",
+      "name": "C. Santos"
+    },
+    {
+      "authorId": "2970373",
+      "name": "C. Miravet"
+    },
+    {
+      "authorId": "71501023",
+      "name": "D. Zorita"
+    },
+    {
+      "authorId": "105070509",
+      "name": "Y. Delclaud"
+    }
+  ],
+  "abstract": "SEOSAT/Ingenio (Spanish Earth Observation SATellite) is a high-spatial-resolution optical mission procured by the European Space Agency on behalf of and funded through the Spanish program authority CDTI. The Seosat/Ingenio mission is part of the Spanish Earth Observation National Program for Satellites (PNOTS). The mission is devoted to provide land and coastal zone optical images (panchromatic and multispectral) for applications in cartography, land use and mapping, urban management, costal management, agriculture monitoring, precision agriculture, water management, environmental monitoring, risk management and security and is a potential contributor to the European Copernicus program. The SEOSAT/Ingenio satellite will operate from a polar-heliosynchronous orbit at 670 km of altitude and has an imaging capability up to 2.5 Mkm2 per day, with world-wide accessibility in less than 3 days and a design lifetime of 7 years. The satellite is based on an Astrobus-M platform architecture weighing about 800 kg and with 580 W installed power and is compatible with a launch with Vega. The Primary Payload is a push-broom imager, observing simultaneously in a Panchromatic band with 2.5 m resolution and in 4 multispectral bands (B,G,R and NIR) with 10 m resolution, over a swath of 55 km. Bands are co-registered at 1/10 of the pixel and geo-located at subpixel level in post-processing. The Optical design relies on two Korsch on-axis 250 mm aperture telescopes with intermediate imaging plane, in-field spectral separation and staggered-detectors focal planes. The detection system is based on CCD’s (with TDI operation for the PAN) and has MS color filters with direct deposition of the pass bands and masks on a single substrate. The Satellite flight model is undergoing final integration and testing after final characterization and calibration of the Primary Payload . The SEOSAT satellite is expected to be ready for launch by end 2019.",
+  "references": null
+}

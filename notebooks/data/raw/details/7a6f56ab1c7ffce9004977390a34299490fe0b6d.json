@@ -1,0 +1,44 @@
+{
+  "paperId": "7a6f56ab1c7ffce9004977390a34299490fe0b6d",
+  "externalIds": {
+    "MAG": "2948101246",
+    "CorpusId": 195481278
+  },
+  "url": "https://www.semanticscholar.org/paper/7a6f56ab1c7ffce9004977390a34299490fe0b6d",
+  "title": "A precíziós és a konvencionális szántóföldi növénytermesztés összehasonlító vizsgálata",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152316445",
+      "name": "A. Molnár"
+    },
+    {
+      "authorId": "2061148741",
+      "name": "A. Kiss"
+    },
+    {
+      "authorId": "121758692",
+      "name": "Ivett Illés"
+    },
+    {
+      "authorId": "103698539",
+      "name": "Ibolya Lámfalusi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

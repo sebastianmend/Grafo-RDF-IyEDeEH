@@ -1,0 +1,139 @@
+{
+  "paperId": "4abb3db338fb5ced964f92059ddebfeb2d21a532",
+  "externalIds": {
+    "MAG": "2805267014",
+    "DBLP": "journals/corr/abs-1806-03412",
+    "ArXiv": "1806.03412",
+    "DOI": "10.1109/LRA.2018.2846289",
+    "CorpusId": 47019353
+  },
+  "url": "https://www.semanticscholar.org/paper/4abb3db338fb5ced964f92059ddebfeb2d21a532",
+  "title": "Fully Convolutional Networks With Sequential Information for Robust Crop and Weed Detection in Precision Farming",
+  "venue": "IEEE Robotics and Automation Letters",
+  "year": 2018,
+  "citationCount": 211,
+  "influentialCitationCount": 21,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1806.03412",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1806.03412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3414541",
+      "name": "Philipp Lottes"
+    },
+    {
+      "authorId": "3350812",
+      "name": "Jens Behley"
+    },
+    {
+      "authorId": "26351048",
+      "name": "Andres Milioto"
+    },
+    {
+      "authorId": "1722062",
+      "name": "C. Stachniss"
+    }
+  ],
+  "abstract": "Reducing the use of agrochemicals is an important component toward sustainable agriculture. Robots that can perform targeted weed control offer the potential to contribute to this goal, for example, through specialized weeding actions such as selective spraying or mechanical weed removal. A prerequisite of such systems is a reliable and robust plant classification system that is able to distinguish crop and weed in the field. A major challenge in this context is the fact that different fields show a large variability. Thus, classification systems have to robustly cope with substantial environmental changes with respect to weed pressure and weed types, growth stages of the crop, visual appearance, and soil conditions. In this letter, we propose a novel crop-weed classification system that relies on a fully convolutional network with an encoder-decoder structure and incorporates spatial information by considering image sequences. Exploiting the crop arrangement information that is observable from the image sequences enables our system to robustly estimate a pixel-wise labeling of the images into crop and weed, i.e., a semantic segmentation. We provide a thorough experimental evaluation, which shows that our system generalizes well to previously unseen fields under varying environmental conditions—a key capability to actually use such systems in precision framing. We provide comparisons to other state-of-the-art approaches and show that our system substantially improves the accuracy of crop-weed classification without requiring a retraining of the model.",
+  "references": [
+    {
+      "paperId": "23b65a5cd20ce5499ac1a692549d5c5736bb126a"
+    },
+    {
+      "paperId": "a0cfaada6f2291bb83df4e202c4d81ff1695e89b"
+    },
+    {
+      "paperId": "b648d73edd1a533decd22eec2e7722b96746ceae"
+    },
+    {
+      "paperId": "73b320dac2e9288da15431228d96b168608e4428"
+    },
+    {
+      "paperId": "f9c0f2fc47da3caaf2769a8a54f9677634f34d48"
+    },
+    {
+      "paperId": "2c715466df5126429278c380f48de405688cf005"
+    },
+    {
+      "paperId": "754c27095a8fe310a0c22c82b515536734086ae3"
+    },
+    {
+      "paperId": "88a0c58dc2d79fc1f191bafebbcb1142791873d9"
+    },
+    {
+      "paperId": "896c33aa816426e1d1f5a595708d8f904684517a"
+    },
+    {
+      "paperId": "c746073cff709bb29dd53bf05324769ddb29d9a0"
+    },
+    {
+      "paperId": "ef0816ce5ec99ab4e2ad39df0017d463f9d4abcd"
+    },
+    {
+      "paperId": "1221818eab73702a085cdd9d69742da0050ccb04"
+    },
+    {
+      "paperId": "1d9df46f672b1e22b6f210343be8684f88c0ccca"
+    },
+    {
+      "paperId": "5694e46284460a648fe29117cbc55f6c9be3fa3c"
+    },
+    {
+      "paperId": "871603a2ed446e713d63ef5137d3c46b6ee52b28"
+    },
+    {
+      "paperId": "daf74c34f7da0695b154f645c8b78a7397a98f16"
+    },
+    {
+      "paperId": "5f5de869662a075da3b9998e7ff9206b3e502860"
+    },
+    {
+      "paperId": "cb1dbcdb586db56ebd60f91d52b949f148053abe"
+    },
+    {
+      "paperId": "f19284f6ab802c8a1fcde076fcb3fba195a71723"
+    },
+    {
+      "paperId": "23ffaa0fe06eae05817f527a47ac3291077f9e58"
+    },
+    {
+      "paperId": "b0c065cd43aa7280e766b5dcbcc7e26abce59330"
+    },
+    {
+      "paperId": "6364fdaa0a0eccd823a779fcdd489173f938e91a"
+    },
+    {
+      "paperId": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0"
+    },
+    {
+      "paperId": "848343ff72682995da16e18b56d54823ab177474"
+    },
+    {
+      "paperId": "7396b4abd8bb01a2020a4eca3dce2cec45ec19f2"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": "7a4ffc5f151d4697c52abe78f51e003212ca9bbd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d4840b918566d6dde25859f729cefaa69f0c7fef"
+    }
+  ]
+}

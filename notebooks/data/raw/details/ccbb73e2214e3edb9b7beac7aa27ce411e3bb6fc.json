@@ -1,0 +1,232 @@
+{
+  "paperId": "ccbb73e2214e3edb9b7beac7aa27ce411e3bb6fc",
+  "externalIds": {
+    "MAG": "2969011938",
+    "DBLP": "journals/remotesensing/KhabbazanVSAMVI19",
+    "DOI": "10.3390/RS11161887",
+    "CorpusId": 201803715
+  },
+  "url": "https://www.semanticscholar.org/paper/ccbb73e2214e3edb9b7beac7aa27ce411e3bb6fc",
+  "title": "Crop Monitoring Using Sentinel-1 Data: A Case Study from The Netherlands",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 165,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/16/1887/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11161887?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11161887, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51912835",
+      "name": "S. Khabbazan"
+    },
+    {
+      "authorId": "51938469",
+      "name": "P. Vermunt"
+    },
+    {
+      "authorId": "1402159471",
+      "name": "S. Steele‐Dunne"
+    },
+    {
+      "authorId": "51895570",
+      "name": "L. R. Arntz"
+    },
+    {
+      "authorId": "51915667",
+      "name": "C. Marinetti"
+    },
+    {
+      "authorId": "153176504",
+      "name": "D. Valk"
+    },
+    {
+      "authorId": "2417226",
+      "name": "L. Iannini"
+    },
+    {
+      "authorId": "8270045",
+      "name": "R. Molijn"
+    },
+    {
+      "authorId": "16146739",
+      "name": "K. Westerdijk"
+    },
+    {
+      "authorId": "48688296",
+      "name": "C. V. D. Sande"
+    }
+  ],
+  "abstract": "Agriculture is of huge economic significance in The Netherlands where the provision of real-time, reliable information on crop development is essential to support the transition towards precision agriculture. Optical imagery can provide invaluable insights into crop growth and development but is severely hampered by cloud cover. This case study in the Flevopolder illustrates the potential value of Sentinel-1 for monitoring five key crops in The Netherlands, namely sugar beet, potato, maize, wheat and English rye grass. Time series of radar backscatter from the European Space Agency’s Sentinel-1 Mission are analyzed and compared to ground measurements including phenological stage and height. Temporal variations in backscatter data reflect changes in water content and structure associated with phenological development. Emergence and closure dates are estimated from the backscatter time series and validated against a photo archive. Coherence data are compared to Normalized Difference Vegetation Index (NDVI) and ground data, illustrating that the sudden increase in coherence is a useful indicator of harvest. The results presented here demonstrate that Sentinel-1 data have significant potential value to monitor growth and development of key Dutch crops. Furthermore, the guaranteed availability of Sentinel-1 imagery in clouded conditions ensures the reliability of data to meet the monitoring needs of farmers, food producers and regulatory bodies.",
+  "references": [
+    {
+      "paperId": "f4ddfbd3dcf1815d0d2f16c9363401e80f335fa4"
+    },
+    {
+      "paperId": "84df4fc013b6cc79bf618223ce0422b8ec38050b"
+    },
+    {
+      "paperId": "aa33cc47997b93bac91014c9d37e351b1117a656"
+    },
+    {
+      "paperId": "0e1afaa46a7de223941dcc3771effe9ba9401eb7"
+    },
+    {
+      "paperId": "8e8e44ce27f1d918dbabda4d6528ab8aa40e1f89"
+    },
+    {
+      "paperId": "5fcc2b4cd7d2ff0149c1efae37b1cffc4315c36b"
+    },
+    {
+      "paperId": "7f19aed4f20f5a0aefec93559b92751278517753"
+    },
+    {
+      "paperId": "a5a2be90d12663567512ee2b61831a8e66e8b66c"
+    },
+    {
+      "paperId": "3c8fa05f8dd3a971bc4138b1b111a217c2ae3d14"
+    },
+    {
+      "paperId": "70dec015c4173546874c4c5c0c90970c0b735e87"
+    },
+    {
+      "paperId": "1aaa2c4e3c95abdcbc0fb7295f141cbde23c5e9a"
+    },
+    {
+      "paperId": "7a9e471e31ac156cf22a5e2a5c1463697df866ab"
+    },
+    {
+      "paperId": "e14c150f18a5ce54c93f55d0632ae64f032f2ac2"
+    },
+    {
+      "paperId": "eecb057f322dd031bc55d4fb852d21e3fb29298f"
+    },
+    {
+      "paperId": "eac53f9fc27ea4c9704627a9059064131a39041d"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "3349beb1d6778688a49a48c30a7b840aba081910"
+    },
+    {
+      "paperId": "6a5629b92379f44dd53b7f21762c6d3574592f34"
+    },
+    {
+      "paperId": "2673a9cbc1b805ef2b3b8f2aaccbf132c609f15e"
+    },
+    {
+      "paperId": "261f104d1af943f00436e8d21115f68ab6228d38"
+    },
+    {
+      "paperId": "f6965d50b49d5bd0976f01eeeb4f6c5fd38b4c3d"
+    },
+    {
+      "paperId": "172099edf7cfe6d1d12179e033d0950701e221c8"
+    },
+    {
+      "paperId": "335b4621ba1e988d6a59e9c3d8ed42eea9d4f167"
+    },
+    {
+      "paperId": "a0fefe14503a7dfcb2eedc01e70fe355074eaab3"
+    },
+    {
+      "paperId": "aa6034fcd2a31224adc8105135f006b4a50e8d8b"
+    },
+    {
+      "paperId": "701d09ca40647d26cfe7cce95a1a25ca6ca539a5"
+    },
+    {
+      "paperId": "0e8059f4663f751995759f7815d82c0da0d94b0c"
+    },
+    {
+      "paperId": "69ae45108cc593bb6313f67f7ce0388173428f7a"
+    },
+    {
+      "paperId": "6fe423b03e4911bf9cf3b1a583c6d6f0fe255585"
+    },
+    {
+      "paperId": "ec5e991a002c2b6f85d3e38d8bc152817ec3570a"
+    },
+    {
+      "paperId": "2289cc621b3911f0902ab05003e801403f009312"
+    },
+    {
+      "paperId": "9b99fe8e4ef66fdb33df3062322ac5c16b69ba06"
+    },
+    {
+      "paperId": "c33b8d7c75fc34d7b8ae96275458bfe5d5e2d786"
+    },
+    {
+      "paperId": "9bcbc14abd9aeaa02537fa9b84fad45e0f3e92a6"
+    },
+    {
+      "paperId": "29595ff30b5c8457da0f5f15e30e80c702164669"
+    },
+    {
+      "paperId": "9c9bdf8ad3304829b447d592b3285a0671fda661"
+    },
+    {
+      "paperId": "54d25ad7f32f49c8139b04d4aca3545236c2788a"
+    },
+    {
+      "paperId": "3e8ffd70ab0ffbc6ea5bb7d2ebeb20cc101b29b6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cd02a6a0607d0b54061e41aaebf05137458a61d1"
+    },
+    {
+      "paperId": "6cf33e28bd62c15d46a9318ec2ca41c035b738f3"
+    },
+    {
+      "paperId": "6424d789045e1e1f2b2dea8430bb3d24d81ea883"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ce31e5b417c02ff7b7e35a4c1b8ca609e8e036f1"
+    },
+    {
+      "paperId": "1760b853bab7f4d0d04c958add9467741d3ee66e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

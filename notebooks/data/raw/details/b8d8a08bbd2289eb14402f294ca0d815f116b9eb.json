@@ -1,0 +1,41 @@
+{
+  "paperId": "b8d8a08bbd2289eb14402f294ca0d815f116b9eb",
+  "externalIds": {
+    "DBLP": "conf/ccta/HammerX19",
+    "MAG": "2992618716",
+    "DOI": "10.1109/CCTA.2019.8920621",
+    "CorpusId": 208881720
+  },
+  "url": "https://www.semanticscholar.org/paper/b8d8a08bbd2289eb14402f294ca0d815f116b9eb",
+  "title": "Dynamic Inversion Based Navigation Algorithm for Furrow-Traversing Autonomous Crop Rover*",
+  "venue": "Conference on Control Technology and Applications",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCTA.2019.8920621?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCTA.2019.8920621, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1452348057",
+      "name": "J. Hammer"
+    },
+    {
+      "authorId": "145890135",
+      "name": "Chong Xu"
+    }
+  ],
+  "abstract": "In this paper, we present a dynamic-inversion based navigation algorithm to autonomously drive the horticulture rover used for precision agriculture purposes along a narrow furrow without damaging the crops. The horticulture rover traverses the furrow by aligning itself with the centerline with the assistance of a real-time kinematic (RTK)-capable GPS as the location sensor. The results of the simulation whose critical parameters are obtained experimentally from the real system have proved that, the rover is able to correct itself back to the centerline of the course within 1 m distance along the furrow and maintain at the centerline with a fluctuation of less than 3 cm even with system uncertainty and noise, after a disturbance causing a lateral offset of 16 cm and a leavingcenterline heading of 2 degrees.",
+  "references": null
+}

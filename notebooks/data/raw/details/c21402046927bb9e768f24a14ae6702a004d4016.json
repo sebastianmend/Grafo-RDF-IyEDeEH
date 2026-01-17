@@ -1,0 +1,51 @@
+{
+  "paperId": "c21402046927bb9e768f24a14ae6702a004d4016",
+  "externalIds": {
+    "MAG": "2900544287",
+    "DBLP": "conf/giots/TemprilhoNPGS18",
+    "DOI": "10.1109/GIOTS.2018.8534560",
+    "CorpusId": 53428417
+  },
+  "url": "https://www.semanticscholar.org/paper/c21402046927bb9e768f24a14ae6702a004d4016",
+  "title": "M2M Communication Stack for Intelligent Farming",
+  "venue": "Global Internet of Things Summit",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GIOTS.2018.8534560?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GIOTS.2018.8534560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "114605005",
+      "name": "Andre Temprilho"
+    },
+    {
+      "authorId": "144081771",
+      "name": "Luís Nóbrega"
+    },
+    {
+      "authorId": "1718252",
+      "name": "P. Pedreiras"
+    },
+    {
+      "authorId": "145493545",
+      "name": "Pedro Gonçalves"
+    },
+    {
+      "authorId": "2110832365",
+      "name": "Sergio Silva"
+    }
+  ],
+  "abstract": "IoT covers several application domains, each of them with different features, requirements and constraints. Precision agriculture is one of such domains, having very specific and rigid requirements, including typically a WSN, M2M communications and interaction with computational platforms available through the Internet. Despite its popularity, IP-based communication stacks are not suitable for many of these kind of applications, mainly because of the overhead associated. In this paper we propose a new M2M Communication Stack, designed to fit the Sheep IT project requirements, but developed with more generic applications in the area of intelligent farming in mind. Along with the stack definition, this paper also includes experimental results showing the feasibility of the proposed stack.",
+  "references": null
+}

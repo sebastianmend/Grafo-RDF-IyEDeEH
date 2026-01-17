@@ -1,0 +1,50 @@
+{
+  "paperId": "0ecf4679680b5e0f07051c67e502dfa8de1e22b9",
+  "externalIds": {
+    "MAG": "2902370811",
+    "DOI": "10.1109/ICIAS.2018.8540598",
+    "CorpusId": 53777878
+  },
+  "url": "https://www.semanticscholar.org/paper/0ecf4679680b5e0f07051c67e502dfa8de1e22b9",
+  "title": "LoRaWAN in Climate Monitoring in Advance Precision Agriculture System",
+  "venue": "International Conference on Intelligent and Advanced Systems",
+  "year": 2018,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIAS.2018.8540598?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIAS.2018.8540598, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52019679",
+      "name": "Nik Hisham Nik Ibrahim"
+    },
+    {
+      "authorId": "144915244",
+      "name": "Ahmad Rizan Ibrahim"
+    },
+    {
+      "authorId": "40170162",
+      "name": "I. Mat"
+    },
+    {
+      "authorId": "37345377",
+      "name": "A. N. Harun"
+    },
+    {
+      "authorId": "48157724",
+      "name": "G. Witjaksono"
+    }
+  ],
+  "abstract": "Consumption of mushrooms has been on rise over the past several years in the world. Costly and great market mushroom are insufficient in market. In that capacity, generation of such item should be quickened. Generation of mushroom is critical to take care of this appeal item. Generation of mushroom development is imperative because of its healthful esteem, restorative esteem, and business creation. Right now the mushroom development is simply being done in an exceptionally crude manner. As such it is vital to overhaul the overall processes to get better yields with optimum resources. One of the strategy is by controlling the atmosphere to speed up and quicken the development in mushroom growth. Smart Mushroom House (SMH) for shiitake growing is one of the solution to increase this expensive products. The framework created is to deal with the communication between devices such as between sensors and gateway. The framework uses Internet of Things innovation that comprises of sensor innovation with feedback framework to control the ambient in the mushroom house. Proper control of the ambient will produce better yields. LORAWAN plays role in the communication between sensor nodes and the gateway.",
+  "references": null
+}

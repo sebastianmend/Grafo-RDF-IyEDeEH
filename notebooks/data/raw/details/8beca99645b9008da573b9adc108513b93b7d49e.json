@@ -1,0 +1,42 @@
+{
+  "paperId": "8beca99645b9008da573b9adc108513b93b7d49e",
+  "externalIds": {
+    "MAG": "2939270974",
+    "DOI": "10.1016/J.EJA.2019.04.001",
+    "CorpusId": 145953522
+  },
+  "url": "https://www.semanticscholar.org/paper/8beca99645b9008da573b9adc108513b93b7d49e",
+  "title": "Improving productivity and increasing the efficiency of soil nutrient management on grassland farms in the UK and Ireland using precision agriculture technology",
+  "venue": "European Journal of Agronomy",
+  "year": 2019,
+  "citationCount": 77,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.EJA.2019.04.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.EJA.2019.04.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48683721",
+      "name": "S. Higgins"
+    },
+    {
+      "authorId": "2533518",
+      "name": "J. Schellberg"
+    },
+    {
+      "authorId": "49266604",
+      "name": "J. Bailey"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

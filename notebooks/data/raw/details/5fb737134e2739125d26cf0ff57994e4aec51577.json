@@ -1,0 +1,26 @@
+{
+  "paperId": "5fb737134e2739125d26cf0ff57994e4aec51577",
+  "externalIds": {
+    "DOI": "10.35940/ijitee.j9545.0881019",
+    "CorpusId": 242665789
+  },
+  "url": "https://www.semanticscholar.org/paper/5fb737134e2739125d26cf0ff57994e4aec51577",
+  "title": "IoT Implementation and Management for Smart Farming",
+  "venue": "VOLUME-8 ISSUE-10, AUGUST 2019, REGULAR ISSUE",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.35940/ijitee.j9545.0881019",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35940/ijitee.j9545.0881019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35940/ijitee.j9545.0881019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [],
+  "abstract": "Precision agriculture can enable the vision of smart agriculture, improves the crop productivity and increases profitability of yields. Utilization of water is also an important criterion for a good agriculture and high production. The new dimension of smart farming in agriculture is Internet of Things. The IoT is a best solution for smart agriculture due to the use of interoperable, pervasive, scalable and open technologies and gained momentum in the field of agriculture. The advanced growth in IoT technologies even made the dream come true with the connectivity reached to rural areas. The use of highly accurate IoT sensors can measure the environmental context of farms and helps in improving the accuracy of precision agriculture. This paper reviews the various applications of IoT motivated by a purpose to identify various areas with latest trends, architecture frameworks. Selected papers were clustered based on various domain and subdomains corresponding to the usage of sensors, actuators, communication technologies, energy controls, storage solutions, data analysis for decision making and visualization to the farmer through web applications.",
+  "references": []
+}

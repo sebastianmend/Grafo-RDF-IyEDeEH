@@ -1,0 +1,81 @@
+{
+  "paperId": "a7d373209d694ef30efc094e404343a96695754f",
+  "externalIds": {
+    "MAG": "2972135966",
+    "DOI": "10.1111/age.12836",
+    "CorpusId": 201715863,
+    "PubMed": "31475748"
+  },
+  "url": "https://www.semanticscholar.org/paper/a7d373209d694ef30efc094e404343a96695754f",
+  "title": "Genomic clues of the evolutionary history of Bos indicus cattle.",
+  "venue": "Animal Genetics",
+  "year": 2019,
+  "citationCount": 81,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/age.12836",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/age.12836?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/age.12836, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35371104",
+      "name": "Y. T. Utsunomiya"
+    },
+    {
+      "authorId": "35371104",
+      "name": "Y. T. Utsunomiya"
+    },
+    {
+      "authorId": "47657205",
+      "name": "M. Milanesi"
+    },
+    {
+      "authorId": "47657205",
+      "name": "M. Milanesi"
+    },
+    {
+      "authorId": "2113803204",
+      "name": "M. R. Fortes"
+    },
+    {
+      "authorId": "90728364",
+      "name": "L. Porto-Neto"
+    },
+    {
+      "authorId": "40520715",
+      "name": "A. Utsunomiya"
+    },
+    {
+      "authorId": "40520715",
+      "name": "A. Utsunomiya"
+    },
+    {
+      "authorId": "2111027543",
+      "name": "Marcos Vinícius Gualberto Barbosa da Silva"
+    },
+    {
+      "authorId": "1400136471",
+      "name": "José Fernando Garcia"
+    },
+    {
+      "authorId": "1400136471",
+      "name": "José Fernando Garcia"
+    },
+    {
+      "authorId": "1387512379",
+      "name": "P. Ajmone-Marsan"
+    }
+  ],
+  "abstract": "Together with their sister subspecies Bos taurus, zebu cattle (Bos indicus) have contributed to important socioeconomic changes that have shaped modern civilizations. Zebu cattle were domesticated in the Indus Valley 8000 years before present (YBP). From the domestication site, they expanded to Africa, East Asia, southwestern Asia and Europe between 4000 and 1300 YBP, intercrossing with B. taurus to form clinal variations of zebu ancestry across the landmass of Afro-Eurasia. In the past 150 years, zebu cattle reached the Americas and Oceania, where they have contributed to the prosperity of emerging economies. The zebu genome is characterized by two mitochondrial haplogroups (I1 and I2), one Y chromosome haplogroup (Y3) and three major autosomal ancestral groups (Indian-Pakistani, African and Chinese). Phenotypically, zebu animals are recognized by their hump, large ears and excess skin. They are rustic, resilient to parasites and capable of bearing the hot and humid climates of the tropics. Many resources are available to study the zebu genome, including commercial arrays of SNP, reference assemblies and publicly available genotypes and whole-genome sequences. Nevertheless, many of these resources were initially developed to support research and subsidize industrial applications in B. taurus, and therefore they can produce bias in data analysis. The combination of genomics with precision agriculture holds great promise for the identification of genetic variants affecting economically important traits such as tick resistance and heat tolerance, which were naturally selected for millennia and played a major role in the evolution of B. indicus cattle.",
+  "references": null
+}

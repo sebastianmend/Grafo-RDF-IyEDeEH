@@ -1,0 +1,45 @@
+{
+  "paperId": "a298c595d79394255a265bcef8fbf48b9767ba6e",
+  "externalIds": {
+    "DBLP": "journals/ral/AhnSD18",
+    "MAG": "2900111058",
+    "DOI": "10.1109/LRA.2018.2871803",
+    "CorpusId": 54165238
+  },
+  "url": "https://www.semanticscholar.org/paper/a298c595d79394255a265bcef8fbf48b9767ba6e",
+  "title": "Introduction to the Special Issue on Precision Agricultural Robotics and Autonomous Farming Technologies",
+  "venue": "IEEE Robotics Autom. Lett.",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://eprints.qut.edu.au/122855/1/122855.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LRA.2018.2871803?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LRA.2018.2871803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1929055",
+      "name": "H. Ahn"
+    },
+    {
+      "authorId": "1867220",
+      "name": "Inkyu Sa"
+    },
+    {
+      "authorId": "1757942",
+      "name": "Feras Dayoub"
+    }
+  ],
+  "abstract": "Growth in world population, increasing urbanization and changing consumption habits mean demand for food production is predicted to increase dramatically over the coming decades. This increased demand for food production must be achieved despite challenges such as climate change, a limited supply of new arable land and difficulties in sourcing skilled farm labour. Robotics and automation are likely to play a crucial role over the coming decades in meeting these challenges by helping to improve farm productivity. A vital component of these future autonomous agricultural systems is the development of robust and accurate perception systems for perceiving the agricultural environment.",
+  "references": null
+}

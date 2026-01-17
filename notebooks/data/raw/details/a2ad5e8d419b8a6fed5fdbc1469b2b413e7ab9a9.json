@@ -1,0 +1,304 @@
+{
+  "paperId": "a2ad5e8d419b8a6fed5fdbc1469b2b413e7ab9a9",
+  "externalIds": {
+    "MAG": "2922994724",
+    "PubMedCentral": "6367817",
+    "DOI": "10.1186/s40249-019-0521-0",
+    "CorpusId": 64328635,
+    "PubMed": "30732636"
+  },
+  "url": "https://www.semanticscholar.org/paper/a2ad5e8d419b8a6fed5fdbc1469b2b413e7ab9a9",
+  "title": "SWOT analysis on snail control measures applied in the national schistosomiasis control programme in the People’s Republic of China",
+  "venue": "Infectious Diseases of Poverty",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://idpjournal.biomedcentral.com/track/pdf/10.1186/s40249-019-0521-0",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6367817, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2109457890",
+      "name": "Xiao Yang"
+    },
+    {
+      "authorId": "49890766",
+      "name": "Yi Zhang"
+    },
+    {
+      "authorId": "7375030",
+      "name": "Qi-xiang Sun"
+    },
+    {
+      "authorId": "48128882",
+      "name": "Jinxing Zhou"
+    },
+    {
+      "authorId": "78289071",
+      "name": "Xiaonong Zhou"
+    }
+  ],
+  "abstract": "BackgroundSnail control is an important component in the national schistosomiasis control programme in China, by application of chemical molluscicides, forestry projects, agriculture projects and water conservancy projects in recent decades. However, there are still wide areas of snail inhabited in China which remains a great challenge to achieve the goal of schistosomiasis elimination by 2025. Therefore, a SWOT (strengths, weaknesses, opportunities and threats) analysis on snail control measures is required for precision schistosomiasis control.MethodsThe SWOT approach, which is a well-known structured analysis tool, was used to identify and evaluate the specific characteristics of four types of snail control measures in China, including chemical mollusciciding, forestry, agriculture, and water conservancy projects. The analysis were carried out based on the information collection from literature review, of research papers, books, annual report database of national schistosomiasis control programme in China, reports from the academic forums, and so on.ResultsFor chemical mollusciciding, application strategy needs to focus on specific local settings, such as stage of schistosomiasis control, environmental factors, and limitations from external policies and internal deficiencies. Regarding forestry projects, the optimal strategies are to cooperate with other national forestry programmes to share the investment costs and pay attention on wetland protection. In agriculture projects, it is necessary to develop related cash crop industries and combine with national farmland consolidation projects simultaneously to increase the total economic benefits. Concerning water conservancy projects, the main purpose is to control snail migration from snail area to snail-free areas nationwide.ConclusionsIntegrated strategies for various measures application and a top-level designed cooperation mechanism will be the necessary to eliminate snail and schistosomiasis in China.",
+  "references": [
+    {
+      "paperId": "0f33f9a8e4fc8bf7d05807721884978b41c06479"
+    },
+    {
+      "paperId": "ddc660a40699c4dc8cd5e3a33ca04d7df40a4825"
+    },
+    {
+      "paperId": "8c47f080d2ab60c3346d0d6a150e9e002b86e764"
+    },
+    {
+      "paperId": "4a6c376e76d5e775fcca6b965d1a5f939b094b3c"
+    },
+    {
+      "paperId": "3998eee96e2f08ea3e6c8b5436ed67b64c846e56"
+    },
+    {
+      "paperId": "b99ab24d0867ec02f73413efcd66df36b0d8a0e9"
+    },
+    {
+      "paperId": "820f3db8171d362166faa6b0febba4abd73eb842"
+    },
+    {
+      "paperId": "6fa4d60eca5509db8d9487a8b52e1ce8fd5cad99"
+    },
+    {
+      "paperId": "71c46b51b55fe5fa2dfa1ce23364f2287d4c708a"
+    },
+    {
+      "paperId": "48145accd70db72d7eaee583c5505c0210c1fcc3"
+    },
+    {
+      "paperId": "02eb5bfd18d9208a31e2bcff62a9d6dcbacaeef7"
+    },
+    {
+      "paperId": "eff346885de2250e35e3213fbdd12474bf242eff"
+    },
+    {
+      "paperId": "9d6aecff3a869a68d322c6b4b624d45c0b2027b9"
+    },
+    {
+      "paperId": "0f7fb3538d355fd9745ed4090dac0b2d9cbfd4e2"
+    },
+    {
+      "paperId": "a627db527989bf80ecf1f42b03f653e601b9d734"
+    },
+    {
+      "paperId": "0c0c9a98bd4708426749b932c1c9786d57f0d4f1"
+    },
+    {
+      "paperId": "6973a37366781ef66880899f4ea705b49edef55a"
+    },
+    {
+      "paperId": "848cfad8aad21da233ff8cbad00edb227aa279ad"
+    },
+    {
+      "paperId": "742e8accda3beab0ce12519c264991ca8525c7f7"
+    },
+    {
+      "paperId": "60702f92ecf64918163a5fee2f9c6698b609f92b"
+    },
+    {
+      "paperId": "40735bec904830e31da901c355ffc6fb9dfc9953"
+    },
+    {
+      "paperId": "fe9e96ef4b8b5f416c604fed65a726c7e2c0b544"
+    },
+    {
+      "paperId": "615c74c7bf2b0931dad0d16085398e5dd82e383a"
+    },
+    {
+      "paperId": "0a566e62c1d5d27fe6302c1bf16fd8147a665bf3"
+    },
+    {
+      "paperId": "bd428ec5b62809ba71c37c515258c48408dd4997"
+    },
+    {
+      "paperId": "020fa61956c6f2bcc17ca1b6e8c6671e954c4f88"
+    },
+    {
+      "paperId": "4454a2c58de8b60cd68d96cfa36a647100920510"
+    },
+    {
+      "paperId": "7b6fb0a7ae6bcc40df49bb2722fc962cfac33017"
+    },
+    {
+      "paperId": "53e8cd6751a918634041343cea682bfac34d6daf"
+    },
+    {
+      "paperId": "21729c052591988e63538d6da31aad44225a054d"
+    },
+    {
+      "paperId": "4957f2f663e031cc59e6584f97bebef388e11bae"
+    },
+    {
+      "paperId": "5bbc7c146518fddde83a1fd35c09b092178e42d3"
+    },
+    {
+      "paperId": "0b173a85528d7c3b92f1b6600a83bfe60db652e3"
+    },
+    {
+      "paperId": "3d9719c416ce511b24f3f6ebb907d22856826277"
+    },
+    {
+      "paperId": "41cdfc6f69ae29c2e8d7bea9fc285450f0562e9f"
+    },
+    {
+      "paperId": "01d21706a3d82646ccc1167480c4295d5a85a968"
+    },
+    {
+      "paperId": "2434c6d0b64b8e10b6be927a86876d25253faf32"
+    },
+    {
+      "paperId": "56f9086fc3e4e252ac29979cc9be1e9f603e4d56"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "358bff29319c143dfaebeabd94aac30505bfafe0"
+    },
+    {
+      "paperId": "34e2172e05f5a14042b8bf01d4ad96df1c341876"
+    },
+    {
+      "paperId": "5a588cc07835f4186cae6f794c6d518e43a495fd"
+    },
+    {
+      "paperId": "d05cf0fafa81bdcaba92398afc3b7cdc84ea66cb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1545e13abae3f0b7087290dbd6f4a171bce5251a"
+    },
+    {
+      "paperId": "c95f4b1e4b1ad99498cc73b0155339f3da31ffb7"
+    },
+    {
+      "paperId": "7083ccebfc174bb75c3697bf4fbe4946451e6e8c"
+    },
+    {
+      "paperId": "c6945d44be9649a339d8923133ba1492bf52df57"
+    },
+    {
+      "paperId": "b46741735004ec59766c5122bc45e9d1bcdf29cd"
+    },
+    {
+      "paperId": "d423562edc1acb816497b066ec40ccc5acdf2cac"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e24ba3bc092c1b5c0cc38ec2826be2bde1e44c28"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8530b343783a71201a69f7a69b5a3cabc2ef24ba"
+    },
+    {
+      "paperId": "f264ac22efccc7b3b4ab866e7b25ed38be9da55d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f1c2df8b7d609866ab30684e2df9d4cb10da3bf5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "971a524429f5138eb19ee53f3de10f41b809ec5d"
+    },
+    {
+      "paperId": "b7cf8888b46800c3b821d69fe02183ecc1efeeb7"
+    },
+    {
+      "paperId": "a3982a47757264f56ce4818600aa08d82d534794"
+    },
+    {
+      "paperId": "b08158801539af0e4a14f1bf6a7024259b7cbd1c"
+    },
+    {
+      "paperId": "d210ddc999d8b0f16209558f7b77a8aad49c5fe1"
+    },
+    {
+      "paperId": "d4eb9d229c28a88609a375d9e70b39fbc5c4ec7e"
+    },
+    {
+      "paperId": "ac803b37ccf3d8b8085a6601c9263a56cb8c388b"
+    }
+  ]
+}

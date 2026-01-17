@@ -1,0 +1,387 @@
+{
+  "paperId": "f20e6ff2efc2ab8d9286fb2911a8296c83bb55b1",
+  "externalIds": {
+    "MAG": "2803315948",
+    "DOI": "10.3390/AGRONOMY8050078",
+    "CorpusId": 90785986
+  },
+  "url": "https://www.semanticscholar.org/paper/f20e6ff2efc2ab8d9286fb2911a8296c83bb55b1",
+  "title": "Challenges in Using Precision Agriculture to Optimize Symbiotic Nitrogen Fixation in Legumes: Progress, Limitations, and Future Improvements Needed in Diagnostic Testing",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 38,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2073-4395/8/5/78/pdf?version=1526900516",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/AGRONOMY8050078?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/AGRONOMY8050078, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8286742",
+      "name": "M. S. Thilakarathna"
+    },
+    {
+      "authorId": "39463182",
+      "name": "M. Raizada"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) has been used for ≥25 years to optimize inputs, maximize profit, and minimize negative environmental impacts. Legumes play an important role in cropping systems, by associating with rhizobia microbes that convert plant-unavailable atmospheric nitrogen into usable nitrogen through symbiotic nitrogen fixation (SNF). However, there can be field-level spatial variability for SNF activity, as well as underlying soil factors that influence SNF (e.g., macro/micronutrients, pH, and rhizobia). There is a need for PA tools that can diagnose spatial variability in SNF activity, as well as the relevant environmental factors that influence SNF. Little information is available in the literature concerning the potential of PA to diagnose/optimize SNF. Here, we critically analyze SNF/soil diagnostic methods that hold promise as PA tools in the short–medium term. We also review the challenges facing additional diagnostics currently used for research, and describe the innovations needed to move them forward as PA tools. Our analysis suggests that the nitrogen difference method, isotope methods, and proximal and remote sensing techniques hold promise for diagnosing field-level variability in SNF. With respect to soil diagnostics, soil sensors and remote sensing techniques for nitrogen, phosphorus, pH, and salinity have short–medium term potential to optimize legume SNF under field conditions.",
+  "references": [
+    {
+      "paperId": "e3ab388470f13f14fb86a118e00aeb260f95f890"
+    },
+    {
+      "paperId": "89af73d10dcbe425199ebb5948d42aaf3b37feae"
+    },
+    {
+      "paperId": "86ef9fac86165f5d34d44cc5045bf12dced7a8e0"
+    },
+    {
+      "paperId": "ac1298cff3d37e6f5eaa6098372cac0af9395ee9"
+    },
+    {
+      "paperId": "8dbd90cf72747079de98b57c1f04d87936b20f86"
+    },
+    {
+      "paperId": "74f2acd3dc074e08b89109ced60a120b37c59585"
+    },
+    {
+      "paperId": "3c456d7e3f35e3812b4969135575507ccb3aa48e"
+    },
+    {
+      "paperId": "a0be8b474dbf84bf0fe0178dfbffb8b02ad150bc"
+    },
+    {
+      "paperId": "0ff4fd5b1062c933f0a16cf02950e6312f619027"
+    },
+    {
+      "paperId": "c591dae1b2cbddbc184bc80dfe13839b097e8acf"
+    },
+    {
+      "paperId": "d4b81f6e1f0296f1fbcc5bed9d9c9f87eba967ed"
+    },
+    {
+      "paperId": "04b02b849ce77065d760e56e3fc226c163a37ef8"
+    },
+    {
+      "paperId": "1c09d11d328ea64003467bb12d3ef027f1b9f4f9"
+    },
+    {
+      "paperId": "36bc9e221bd2650cfd7c4ef85f6f71698ef8943e"
+    },
+    {
+      "paperId": "18eccec2327876d2c52f9e11c5e7567e634e850f"
+    },
+    {
+      "paperId": "2bca1aaa91272db9e853cf6a2521af4277185f3f"
+    },
+    {
+      "paperId": "78cca22d748af1f876ff0ff1e8316545777ee951"
+    },
+    {
+      "paperId": "b15aadf646495c8d586337c7e5922439c8520d73"
+    },
+    {
+      "paperId": "75b7d901ebe87bad9286ecd9372b7fc51c3a259f"
+    },
+    {
+      "paperId": "8a59840d1457e31a46bd6d0912478b89d2847b7e"
+    },
+    {
+      "paperId": "4b37c9e525f7bde37d36bf7dc79226d4a7d1b6da"
+    },
+    {
+      "paperId": "9e5b6d048c53b5e4707b7d3aed898900f46d5bf8"
+    },
+    {
+      "paperId": "e3bb87e858bc752436c7a8da3fca68b2dacbf3e8"
+    },
+    {
+      "paperId": "9a7d6d452ca4fa8d3cdde48d4fba5bbaabcea4fa"
+    },
+    {
+      "paperId": "5a2d605271c18e8a2027f2e6216729992796aa3a"
+    },
+    {
+      "paperId": "3c660ed6412425bf68dccedd6f098fcf6c4a5820"
+    },
+    {
+      "paperId": "53c3240324a7ea4a19aa40d8388a4a51c605636d"
+    },
+    {
+      "paperId": "812be1b20658e0672129ea68772fd19a02eef830"
+    },
+    {
+      "paperId": "e81daafeb0634a44eacdf106dd2288c64e26f3d3"
+    },
+    {
+      "paperId": "2a2c0f7742980430604bd205b9376b3abd5b1cc0"
+    },
+    {
+      "paperId": "3bb8d1135fe928fb4fc3eb15a2818701fb3cf530"
+    },
+    {
+      "paperId": "5f958e32088e107e328cbf0f96c9c88ca986bda4"
+    },
+    {
+      "paperId": "ce71d7245427b185e11b485e69d1dab5478d12d4"
+    },
+    {
+      "paperId": "d6a7277da7a1321b3a245045dcfe68029b9863ad"
+    },
+    {
+      "paperId": "c0068dbf83f5a0a9377810740d89cbddaf8aaa33"
+    },
+    {
+      "paperId": "0f6a8fec039fb0bac4eff78cc1f3076f5bb1ba45"
+    },
+    {
+      "paperId": "f48d15a8d5500d101c4d2ec7d7b22100c066e46f"
+    },
+    {
+      "paperId": "9db02dc1eb0817f1fcd3a6cb21b0fee337dc5caf"
+    },
+    {
+      "paperId": "8df1914b2a3f436a0c98827e6fc4d5f1696931f1"
+    },
+    {
+      "paperId": "1a080bb6865d06b5d06e9bd584388194f7085a00"
+    },
+    {
+      "paperId": "c868f5ad32d3e1158a340f66e478d3449b3c0f49"
+    },
+    {
+      "paperId": "057c2c89187b876123469df2291cec03451e4017"
+    },
+    {
+      "paperId": "6a4c3f6fa10aaeea586633c00888cd5290c6e4c2"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "cff589ee836a0427e9c49e93998058c842215c06"
+    },
+    {
+      "paperId": "0368918cf05ac1937b841cf7ba5b2a6c15dab506"
+    },
+    {
+      "paperId": "ce91b7d9b5e1b5a73c2751c6c41dd51d5d6ff54d"
+    },
+    {
+      "paperId": "629948af4165626ef2c3472b8aec9fde2daa7687"
+    },
+    {
+      "paperId": "9e372fe10227abfd3cfc57bd9bddc5f5b5d55341"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "b1177c1c08decb7e05c923c7f10b51c6c034e83a"
+    },
+    {
+      "paperId": "534e41b6746312415a489cf0c91667d4572730d6"
+    },
+    {
+      "paperId": "adf274a51fdc038f6fa031bfa1d5ad1c3b864c10"
+    },
+    {
+      "paperId": "c43b24ea97731f241cdf83530af1284121651d9c"
+    },
+    {
+      "paperId": "12a5f7c100e5245387bdd44bf313a57c8294b46f"
+    },
+    {
+      "paperId": "7ae0717cd77df12916ce870e2adf6838df34d4df"
+    },
+    {
+      "paperId": "28cdebbae1b8979522d495e1ba1bbf1a2dd32a6e"
+    },
+    {
+      "paperId": "a5dcaab46098697d4027f7e01ff9d50eb4b8c532"
+    },
+    {
+      "paperId": "aeeeadf6e0db0db600447338a162f837ab6fee45"
+    },
+    {
+      "paperId": "9b01d0dc115811bf89c836ed527dae5ff7038bb8"
+    },
+    {
+      "paperId": "b0f8abd142b89340a073c386deca519f73a97619"
+    },
+    {
+      "paperId": "3c35522b7b5c4c35f2c0b70cd81a46ec5c99695d"
+    },
+    {
+      "paperId": "da21b7213c413e69b4078ab3ff39a1ca11869fe2"
+    },
+    {
+      "paperId": "ac41dfc1cdb8942e14649e4ced6e2fd5ac6b8a95"
+    },
+    {
+      "paperId": "349fc3889fc25d48cde4e0b31468a9360974d755"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "43604a844e1340718cd1355c54bab57e5a00eb96"
+    },
+    {
+      "paperId": "bf340a4968173953c851ffc98c7aa8cc3f5abcd1"
+    },
+    {
+      "paperId": "0ea3e80ce29e4b345b864793087c8f4a6d6a254b"
+    },
+    {
+      "paperId": "fa5bb0ba886af93ce0728b5050d626e69415687c"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "36577942e086b08907210901827f868636ea32ae"
+    },
+    {
+      "paperId": "6252bffa46f4ddd861d3c7401b65bb7541b744c5"
+    },
+    {
+      "paperId": "b801d9e70bb989d19561d806d95382ffcaadd129"
+    },
+    {
+      "paperId": "4f6ae31cbb10dc54ed86cb10cf456b9dec0e29a2"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "0f2244403e8a6b558f34a766486245cc76ef9337"
+    },
+    {
+      "paperId": "32dc45aa23c833dd692999f52376ab9935813729"
+    },
+    {
+      "paperId": "ce91fdd32ae60d49685d913f97a573c0757b9775"
+    },
+    {
+      "paperId": "6fbfdd1260208d253ef4530576dfeaa1f3f12fd0"
+    },
+    {
+      "paperId": "80493cf18ff5a88a5ce6e424d26a2530ffc704f7"
+    },
+    {
+      "paperId": "3c7121bde16d0d8c003f1d4787034d6e5f08bcab"
+    },
+    {
+      "paperId": "e2ae0da30430e5a0e422a1ecf99810a6bd078296"
+    },
+    {
+      "paperId": "334cc3662b2d34975ddc661d0a57fe25beaa0254"
+    },
+    {
+      "paperId": "69c3349603b763c3153290d5a8a28fea43617c00"
+    },
+    {
+      "paperId": "4b4eb7bdc2f60b3ab15691a475b9606c565e4c09"
+    },
+    {
+      "paperId": "4f8cf67a29e988199cf8a144f3111418afc826df"
+    },
+    {
+      "paperId": "2f25864854810587ac5c974942844f99bc1a727f"
+    },
+    {
+      "paperId": "0eca048573629936737972bfb62b4d5cb9c2bdee"
+    },
+    {
+      "paperId": "3335c7c470ad36f425734774bf16cd48470d7472"
+    },
+    {
+      "paperId": "655de84ce81264f751efcf0c3fd7654eb4b9801e"
+    },
+    {
+      "paperId": "d38ae420be22d8cf69d601d7027fca486923ac18"
+    },
+    {
+      "paperId": "a1624f9d61fb9e45bebec25f73a021b341c51da4"
+    },
+    {
+      "paperId": "e428e72c5a27db6f761840b6f06b15aa231d0f15"
+    },
+    {
+      "paperId": "bd34c2846d9964a17e1fe117ce99da37c6f4e27f"
+    },
+    {
+      "paperId": "3758ea0b292310f2062082cf887a72938df54883"
+    },
+    {
+      "paperId": "78560d06245f7dd901b8eff28aa2f945bfce0727"
+    },
+    {
+      "paperId": "16e41ab2baf4d38457507e813a688c2310786c65"
+    },
+    {
+      "paperId": "fff6bef71821e678f66d651209d0b0d970d133b4"
+    },
+    {
+      "paperId": "c11bd44ea73ea85982870b220113f2de1c5928ab"
+    },
+    {
+      "paperId": "8b9d85bfc5c09fc064f835d28e797c7b57a3bbde"
+    },
+    {
+      "paperId": "502f301424aa92be0fd271e39b255fab6edc4f85"
+    },
+    {
+      "paperId": "42ccb9e102a20d8580869c081b8b69faa16ea7c3"
+    },
+    {
+      "paperId": "2fa8d566a0363785954868df21799cd48fd7c1fc"
+    },
+    {
+      "paperId": "fea1fc790fa5a7b33e3b42eae8037f45de3b8765"
+    },
+    {
+      "paperId": "2fabd397bb00c5d1b141b39ad1e3d538e0b646c3"
+    },
+    {
+      "paperId": "8d93a3a3bd2abc5bcc7d0c2d2fe1fe2e8a3ca4c9"
+    },
+    {
+      "paperId": "fa1293749dff9b74cbd1139e9dd51b4a517dad75"
+    },
+    {
+      "paperId": "ef32ddf60167e2ffb41b1800d3be06ccaa17a393"
+    },
+    {
+      "paperId": "3fa013e8cc638fffa370af27c921eedea9764c9a"
+    },
+    {
+      "paperId": "d73304b4c7af98054c6fd1298cce1e885d1f525a"
+    },
+    {
+      "paperId": "44e2f0cdcc9f685864678d9bbaf1d5f529c0672c"
+    },
+    {
+      "paperId": "69dbb8b57c14499fcebf17f7cd9c14d3d810ed2e"
+    },
+    {
+      "paperId": "7e6022c279892a875e15d6921aa7c90b6fc4006f"
+    },
+    {
+      "paperId": "85a65e2204b0648e3b976e6dc25caf7a2480006c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "775c9ecdaa253383ab401abe0884e97d5fb970bf",
+  "externalIds": {
+    "DBLP": "conf/icvs/OliveiraAGFS19",
+    "MAG": "2990991536",
+    "DOI": "10.1007/978-3-030-34995-0_25",
+    "CorpusId": 208297412
+  },
+  "url": "https://www.semanticscholar.org/paper/775c9ecdaa253383ab401abe0884e97d5fb970bf",
+  "title": "Segmenting and Detecting Nematode in Coffee Crops Using Aerial Images",
+  "venue": "International Conference on Virtual Storytelling",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-34995-0_25?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-34995-0_25, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2119240644",
+      "name": "Alexandre J. Oliveira"
+    },
+    {
+      "authorId": "2058993500",
+      "name": "G. A. D. Assis"
+    },
+    {
+      "authorId": "9370721",
+      "name": "V. Guizilini"
+    },
+    {
+      "authorId": "1821547",
+      "name": "E. Faria"
+    },
+    {
+      "authorId": "2095013870",
+      "name": "Jefferson R. Souza"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

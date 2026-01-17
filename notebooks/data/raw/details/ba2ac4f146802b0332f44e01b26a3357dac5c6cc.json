@@ -1,0 +1,48 @@
+{
+  "paperId": "ba2ac4f146802b0332f44e01b26a3357dac5c6cc",
+  "externalIds": {
+    "MAG": "2933343809",
+    "DOI": "10.1002/jssc.201801193",
+    "CorpusId": 91189657,
+    "PubMed": "30938053"
+  },
+  "url": "https://www.semanticscholar.org/paper/ba2ac4f146802b0332f44e01b26a3357dac5c6cc",
+  "title": "Solidification of floating organic droplet microextraction for determination of seven insecticides in fruit juice, vegetables and agricultural runoff using gas chromatography with flame ionization and mass spectrometry detection.",
+  "venue": "Journal of Separation Science",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jssc.201801193?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jssc.201801193, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1470579783",
+      "name": "Watcharaporn Hoisang"
+    },
+    {
+      "authorId": "144231220",
+      "name": "D. Nacapricha"
+    },
+    {
+      "authorId": "152492712",
+      "name": "P. Wilairat"
+    },
+    {
+      "authorId": "4533330",
+      "name": "W. Tiyapongpattana"
+    }
+  ],
+  "abstract": "Liquid microextraction employing solidification of the floating organic droplet, with vortexing and heating to optimize extraction efficiency, was developed for the determination of seven insecticides in fruit juice, vegetables, and agricultural runoff water. The extracts were analyzed by gas chromatography with both flame ionization and mass spectrometry detection for the determination of chlorpyrifos, prothiofos, profenofos, ethion, λ-cyhalothrin, permethrin, and cypermethrin, respectively. Using 20 μL of 1-undecanol in 10 mL of aqueous solution containing 1% w/v sodium chloride provided preconcentration factor of 500. The enrichment factor of the analytes was in the range of 355 to 509 with extraction recovery >71%. The linearity ranges were 4-200 μg/kg for gas chromatography with flame ionization detection and 1-100 μg/kg for gas chromatography with mass spectrometry, with limits of detection ranging from 0.04 to 1.2 μg/kg, which are lower than the international maximum residue limits for vegetables and fruit juice. Intra-day and inter-day precisions are less than 5.4 and 7.0% relative standard deviation, respectively. The method was successfully applied to the determination of the seven insecticides in samples of vegetables, fruit juice and agricultural runoff, with recoveries ranging from 61.7 to 120.8%. The extraction method is simple, efficient and environmentally friendly.",
+  "references": null
+}

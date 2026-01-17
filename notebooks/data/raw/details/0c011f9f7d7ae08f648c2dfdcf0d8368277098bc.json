@@ -1,0 +1,36 @@
+{
+  "paperId": "0c011f9f7d7ae08f648c2dfdcf0d8368277098bc",
+  "externalIds": {
+    "MAG": "2891452764",
+    "CorpusId": 56125658
+  },
+  "url": "https://www.semanticscholar.org/paper/0c011f9f7d7ae08f648c2dfdcf0d8368277098bc",
+  "title": "New Breeding Techniques and Their Possible Regulation",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "81225546",
+      "name": "Esra Seyran"
+    },
+    {
+      "authorId": "49746795",
+      "name": "W. Craig"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,179 @@
+{
+  "paperId": "29d102ae845c16d88d5247a775bb6013407c60b3",
+  "externalIds": {
+    "PubMedCentral": "5943488",
+    "MAG": "2802505430",
+    "DOI": "10.3389/fchem.2018.00151",
+    "CorpusId": 13743711,
+    "PubMed": "29774211"
+  },
+  "url": "https://www.semanticscholar.org/paper/29d102ae845c16d88d5247a775bb6013407c60b3",
+  "title": "3D Printed e-Tongue",
+  "venue": "Frontiers in Chemistry",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fchem.2018.00151/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5943488, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2004352584",
+      "name": "Gabriel Gaál"
+    },
+    {
+      "authorId": "2142875043",
+      "name": "T. A. D. Da Silva"
+    },
+    {
+      "authorId": "41023008",
+      "name": "Vladimir Gaal"
+    },
+    {
+      "authorId": "41018064",
+      "name": "R. C. Hensel"
+    },
+    {
+      "authorId": "6817917",
+      "name": "L. R. Amaral"
+    },
+    {
+      "authorId": "46903596",
+      "name": "V. Rodrigues"
+    },
+    {
+      "authorId": "50752851",
+      "name": "A. Riul"
+    }
+  ],
+  "abstract": "Nowadays, one of the biggest issues addressed to electronic sensor fabrication is the build-up of efficient electrodes as an alternative way to the expensive, complex and multistage processes required by traditional techniques. Printed electronics arises as an interesting alternative to fulfill this task due to the simplicity and speed to stamp electrodes on various surfaces. Within this context, the Fused Deposition Modeling 3D printing is an emerging, cost-effective and alternative technology to fabricate complex structures that potentiates several fields with more creative ideas and new materials for a rapid prototyping of devices. We show here the fabrication of interdigitated electrodes using a standard home-made CoreXY 3D printer using transparent and graphene-based PLA filaments. Macro 3D printed electrodes were easily assembled within 6 min with outstanding reproducibility. The electrodes were also functionalized with different nanostructured thin films via dip-coating Layer-by-Layer technique to develop a 3D printed e-tongue setup. As a proof of concept, the printed e-tongue was applied to soil analysis. A control soil sample was enriched with several macro-nutrients to the plants (N, P, K, S, Mg, and Ca) and the discrimination was done by electrical impedance spectroscopy of water solution of the soil samples. The data was analyzed by Principal Component Analysis and the 3D printed sensor distinguished clearly all enriched samples despite the complexity of the soil chemical composition. The 3D printed e-tongue successfully used in soil analysis encourages further investments in developing new sensory tools for precision agriculture and other fields exploiting the simplicity and flexibility offered by the 3D printing techniques.",
+  "references": [
+    {
+      "paperId": "a65a5fb2ff5c490ba45422017a6774e68982c485"
+    },
+    {
+      "paperId": "43ec344279454d295c5d51a869a466e020624c94"
+    },
+    {
+      "paperId": "13ffb36e281de10eba5dad47fe5cd828839faaf9"
+    },
+    {
+      "paperId": "9570a7f2e01f5ec963945977c5858df4438b4bc1"
+    },
+    {
+      "paperId": "c6912d011bfc6cf9cbdee9d437e410f93bd8e72e"
+    },
+    {
+      "paperId": "bcd6f61cc09edd77150e3a220500264978d6a3bb"
+    },
+    {
+      "paperId": "f3dddb31fc52491241003817bfd0d4bff7b32f01"
+    },
+    {
+      "paperId": "0143fb1ea0c5b67130ed439044dcb2719779a025"
+    },
+    {
+      "paperId": "cc953f9eee18c70adfab6107f0504fd75a31e5db"
+    },
+    {
+      "paperId": "35395a3845e52df06a72f102c56894b538841837"
+    },
+    {
+      "paperId": "3f48c158c8cbed5c04b2c07dabb897a8c3f25c2d"
+    },
+    {
+      "paperId": "160e7fe582c0df5c7b8633f003e4314ddb7bc2f4"
+    },
+    {
+      "paperId": "5218f9d91b9b657e3275a85c9135c2fece2b405a"
+    },
+    {
+      "paperId": "59b199060aa799b7720c11892e9c77910672b1cf"
+    },
+    {
+      "paperId": "1a4f18eb35f11cde56e97ba0fd6234ebcdb5b2ba"
+    },
+    {
+      "paperId": "9ec3bacc15cbccce1efa6e0ef4f3b962c34bfbc8"
+    },
+    {
+      "paperId": "161cb83cbad104c1a70f618d3a3d2c185e626b88"
+    },
+    {
+      "paperId": "8478ac1fd3d5f8a9d5ca66ec37af8ec77dd0263a"
+    },
+    {
+      "paperId": "58a6c1fcb59de49f6ef06d90e145695c764fd520"
+    },
+    {
+      "paperId": "7838a13e2362cda4934d4bf46768a2b4bf7774fd"
+    },
+    {
+      "paperId": "a7a0f8fa1d030c121cb6ac0b59975139039be358"
+    },
+    {
+      "paperId": "448657aee3bedfe58548f729f61c31997082c369"
+    },
+    {
+      "paperId": "fefc9c0ccc5c832c9e81754e9c4b14dc12b7dba0"
+    },
+    {
+      "paperId": "fafbc6bc76306d35d481aae74471d6df5425590d"
+    },
+    {
+      "paperId": "45920a42abd0b187ea60e2e548317bf3214e7029"
+    },
+    {
+      "paperId": "bcc9c6382a1600177f103b4b004c87570a8f9bee"
+    },
+    {
+      "paperId": "cd3e2f3b53df15d2aee817a9585d2520a8b753a2"
+    },
+    {
+      "paperId": "3fc3d0041e112bf3c08472a0c355139ec74270d6"
+    },
+    {
+      "paperId": "c97140225b5641c73f9a6bcbf933d3e41564f569"
+    },
+    {
+      "paperId": "c2c3a0c5d9e2c9aed28b8b993dcd2bb6022ee207"
+    },
+    {
+      "paperId": "173692279a4e7a6d39111b252021741a79b0249c"
+    },
+    {
+      "paperId": "41b091868d5f2e038929dc56f1300e1c1e0af255"
+    },
+    {
+      "paperId": "fa3aa3ab5da4aec6d8525947d78cd3414fd3b141"
+    },
+    {
+      "paperId": "a67b7c4536d964c91db6577a10e736e4395687f7"
+    },
+    {
+      "paperId": "4567a79d89691088c6e415258b21a22437ff9d18"
+    },
+    {
+      "paperId": "2c19b29089f9da0ffc7c9fa2590881db3eb4e962"
+    },
+    {
+      "paperId": "bd03338c6ecb8c5513d9563548a16852c1c194c5"
+    },
+    {
+      "paperId": "b038110eeae50782b681c6adadbd6952e6885e0b"
+    },
+    {
+      "paperId": "a4f8b170d4808056283a4e3986fa08dc38c8379d"
+    }
+  ]
+}

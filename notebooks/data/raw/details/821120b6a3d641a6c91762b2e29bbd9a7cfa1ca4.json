@@ -1,0 +1,211 @@
+{
+  "paperId": "821120b6a3d641a6c91762b2e29bbd9a7cfa1ca4",
+  "externalIds": {
+    "MAG": "2793163548",
+    "DOI": "10.3390/AGRICULTURE8040047",
+    "CorpusId": 49378168
+  },
+  "url": "https://www.semanticscholar.org/paper/821120b6a3d641a6c91762b2e29bbd9a7cfa1ca4",
+  "title": "Smart Machines, Remote Sensing, Precision Farming, Processes, Mechatronic, Materials and Policies for Safety and Health Aspects",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2077-0472/8/4/47/pdf?version=1525344847",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/AGRICULTURE8040047?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/AGRICULTURE8040047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1702321",
+      "name": "A. Colantoni"
+    },
+    {
+      "authorId": "1689971",
+      "name": "D. Monarca"
+    },
+    {
+      "authorId": "90660111",
+      "name": "V. Laurendi"
+    },
+    {
+      "authorId": "11290896",
+      "name": "Mauro Villarini"
+    },
+    {
+      "authorId": "87707712",
+      "name": "F. Gambella"
+    },
+    {
+      "authorId": "3332010",
+      "name": "M. Cecchini"
+    }
+  ],
+  "abstract": "The purpose of this Special Issue is to publish high-quality research papers, as well as review articles, addressing recent advances on systems, processes, and materials for work safety, health, and environment. Original, high-quality contributions that have not yet been published, or that are not currently under review by other journals or peer-reviewed conferences, have been sought. The main topics have been the protection system aimed to agricultural health and safety especially applied to mechanization sector (harvester, chippers), often involved in accidents at work, in the context of Directive 2006/42/EC, and to other families of risk as the chemical one and issues pertinent to safety. Methodologies for gradual and sustainable safety improvements on farms have been investigated in the vision of preliminary applications. Furthermore, the application of technologies aimed to the improvement and facilitation of operations in the agriculture sector as monitoring, precision farming, internet of things, application of evolved networks and machines of new conception.",
+  "references": [
+    {
+      "paperId": "b9f88495a19f064946f8d39032fd86ef430baa6a"
+    },
+    {
+      "paperId": "7fb4155caa793057c0300f385056af3db080b879"
+    },
+    {
+      "paperId": "51d0b8a948c1db1757dcc2d5d8cff78cde135aca"
+    },
+    {
+      "paperId": "29f59c62690f54cc45c95b24dcf3f55ce01a85e4"
+    },
+    {
+      "paperId": "aef23a0cb9f01cb029a60a9189a5f30c8c430369"
+    },
+    {
+      "paperId": "5ca48d502c619cc178667bddc7a1645afaaddf71"
+    },
+    {
+      "paperId": "ad47dc4eeb56cdf4ac8bc3970ccf31da19cf1aa4"
+    },
+    {
+      "paperId": "72cf4726b4864f97f726017daf5764fd150cf058"
+    },
+    {
+      "paperId": "036dce250d4a92551e9e00f73fb894cbe5f9acae"
+    },
+    {
+      "paperId": "c9b2c816358dd127fba98b950ab7e179382acb14"
+    },
+    {
+      "paperId": "c6e0a462b51674f71311edb85d2237490c80583e"
+    },
+    {
+      "paperId": "4d4bcd673f1725722a1e030a12c59470c41730f0"
+    },
+    {
+      "paperId": "45f10041f2d8c9889941022a2ee6a356dbe06cbc"
+    },
+    {
+      "paperId": "2791263f3ce9efee117581133f49a019f2727afc"
+    },
+    {
+      "paperId": "ed3b8393a85a12c1acf046d2c130fbc643095618"
+    },
+    {
+      "paperId": "131113b1c201c3786e1d083e55321ee8f1dee9ae"
+    },
+    {
+      "paperId": "bd0fee104d5c7241d516375962af87d4bc890494"
+    },
+    {
+      "paperId": "0a9ab83ce3db3e76e0838b561269263e22a2521a"
+    },
+    {
+      "paperId": "579d9175cac3486c87a614ef931785b68749b834"
+    },
+    {
+      "paperId": "3f5ba2291586a7b4e83b02cc464baa13b76fe549"
+    },
+    {
+      "paperId": "cb3231054592c7e8a29606c33c5e14ca1c16082b"
+    },
+    {
+      "paperId": "d9cd603ca460c46b5c9aaa63f463645be620ff39"
+    },
+    {
+      "paperId": "3e9db6e7a28b34d5b1824d13848ef7181e835a9e"
+    },
+    {
+      "paperId": "75c05c6ccbc5fbc0639217744c35dbc7a7478d5f"
+    },
+    {
+      "paperId": "fda5378fcd2b55c7336a229115f59145c2ae8879"
+    },
+    {
+      "paperId": "5ae75267f8ab4cd292d55bcddb39ec2f22c93d73"
+    },
+    {
+      "paperId": "d384358e1508b42edda4948ece3676991c74c977"
+    },
+    {
+      "paperId": "2ba98428c1a18a26f913d634abd5637594dcb380"
+    },
+    {
+      "paperId": "73291d043baabba39cc2dccbbaa5c5e0379b0dca"
+    },
+    {
+      "paperId": "259ac1b7ae67a325bdcbad94c60d90b8982229ff"
+    },
+    {
+      "paperId": "f97e421877bde9e82f01ce234442c98fcf650630"
+    },
+    {
+      "paperId": "f4bb65d607f927c98511306d36e67641e1276304"
+    },
+    {
+      "paperId": "19888909c230025b9903429855a93a108941cf01"
+    },
+    {
+      "paperId": "c850c400478c2d9a1ab5d045102d8c28772069c8"
+    },
+    {
+      "paperId": "798469811f9c69421c8c13d2ff760661541737f9"
+    },
+    {
+      "paperId": "073b533c2d94569b4ccfa3630df542647d5923eb"
+    },
+    {
+      "paperId": "de0447441cab58b7afcbea1893bc7d08e58c2503"
+    },
+    {
+      "paperId": "44da592da93d67ef511bd62fb719d362d6002157"
+    },
+    {
+      "paperId": "588cfe410f76be62457547820978ae5ca3ede62b"
+    },
+    {
+      "paperId": "35940e42b88baf65199c36bc53017e801f162d19"
+    },
+    {
+      "paperId": "097215c1c9646896bad24ba3ec82743267f9d86e"
+    },
+    {
+      "paperId": "6b2d0ad8ff5e59a6d432af895fddbb69a9b65f70"
+    },
+    {
+      "paperId": "c454e38125b5f414a9d21ac3c4dbf682fb30a607"
+    },
+    {
+      "paperId": "f4e577e3bea341b73efcd867563ef211692a332c"
+    },
+    {
+      "paperId": "d13a14bb5ad26ef0892050c8c06c64af8164a62f"
+    },
+    {
+      "paperId": "d2fc375fc54b7f3baa253b05c999d55d3a13da70"
+    },
+    {
+      "paperId": "6fdaddebc76cf39e901e1716df3ea0cd1d749954"
+    },
+    {
+      "paperId": "fa8aea53cfb17957a0046135a80cd7e8f10695b5"
+    },
+    {
+      "paperId": "7b120237d6055672700761a03b710361d1c2e297"
+    },
+    {
+      "paperId": "7eba0f95ef6867da3984c579e0c06656979d9cf1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "paperId": "bc6cf8d81831afd2298400386b7f267041975f5d",
+  "externalIds": {
+    "PubMedCentral": "6879603",
+    "MAG": "2990775852",
+    "DOI": "10.1038/s41598-019-53426-5",
+    "CorpusId": 208279812,
+    "PubMed": "31772200"
+  },
+  "url": "https://www.semanticscholar.org/paper/bc6cf8d81831afd2298400386b7f267041975f5d",
+  "title": "Multivariate chemometrics as a key tool for prediction of K and Fe in a diverse German agricultural soil-set using EDXRF",
+  "venue": "Scientific Reports",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-019-53426-5.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6879603, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "93638601",
+      "name": "Dominique Büchele"
+    },
+    {
+      "authorId": "151108462",
+      "name": "Madlen Chao"
+    },
+    {
+      "authorId": "27312024",
+      "name": "M. Ostermann"
+    },
+    {
+      "authorId": "1388137651",
+      "name": "Matthias Leenen"
+    },
+    {
+      "authorId": "4501405",
+      "name": "I. Bald"
+    }
+  ],
+  "abstract": "Within the framework of precision agriculture, the determination of various soil properties is moving into focus, especially the demand for sensors suitable for in-situ measurements. Energy-dispersive X-ray fluorescence (EDXRF) can be a powerful tool for this purpose. In this study a huge diverse soil set (n = 598) from 12 different study sites in Germany was analysed with EDXRF. First, a principal component analysis (PCA) was performed to identify possible similarities among the sample set. Clustering was observed within the four texture classes clay, loam, silt and sand, as clay samples contain high and sandy soils low iron mass fractions. Furthermore, the potential of uni- and multivariate data evaluation with partial least squares regression (PLSR) was assessed for accurate determination of nutrients in German agricultural samples using two calibration sample sets. Potassium and iron were chosen for testing the performance of both models. Prediction of these nutrients in 598 German soil samples with EDXRF was more accurate using PLSR which is confirmed by a better overall averaged deviation and PLSR should therefore be preferred.",
+  "references": [
+    {
+      "paperId": "7641175ee7a0679fad4f24c8b56d7d19e9d15433"
+    },
+    {
+      "paperId": "8700b372850aae0a5f193ce017265dac84c8472c"
+    },
+    {
+      "paperId": "8f97d91a41944c3c8e915b2e2a9283b87df73b83"
+    },
+    {
+      "paperId": "b31e5b5785657df6358f9cef4b73c275a75dd59c"
+    },
+    {
+      "paperId": "250e001ce1bd1e10654547c9897872b1883b6231"
+    },
+    {
+      "paperId": "e916b6f55367710f28c58d2a0c87fb66e45c95a9"
+    },
+    {
+      "paperId": "7a88cf81b3f9a9cae07bf6617446a5dcc2a1a119"
+    },
+    {
+      "paperId": "393da4ac32deb5c3e927143bbb6b763388ffa9ee"
+    },
+    {
+      "paperId": "417faf128dc28d03e798979bbaba8569da93ecb7"
+    },
+    {
+      "paperId": "c7d25ca7569b9129b1d494de8c363a62eb7ae96c"
+    },
+    {
+      "paperId": "3e222e19d9295ac5def799cbc78924c625a3bc55"
+    },
+    {
+      "paperId": "386b9c12a7f67a0918e99d38f24705103f96c8ea"
+    },
+    {
+      "paperId": "edb5a12fb40a3ec37365a57fb8c564d007110e3b"
+    },
+    {
+      "paperId": "4b2c9bb2b40b438eb321cf1d3d8c2547e001b7ca"
+    },
+    {
+      "paperId": "34d46d5df0a47361426e07290bc950968133217b"
+    },
+    {
+      "paperId": "58802bb0720d17d8945c8d4794f2a6e0e2f92047"
+    },
+    {
+      "paperId": "cf21d1b34f11481f68d30c68d286cc9c6e2d39d3"
+    },
+    {
+      "paperId": "11ac9e8074fb38dbb9a7fc8811afc645d3f4230e"
+    },
+    {
+      "paperId": "09b9231dd495748f92b0752c518971fe607ed3d9"
+    },
+    {
+      "paperId": "7b5734f537d5419601e659c45eb9ed837c153bf3"
+    },
+    {
+      "paperId": "9bc84123b84bda2ee1c647ea8d5b58e64b3be5d7"
+    },
+    {
+      "paperId": "80d24bd1ae8ff98688d89997b94215d808a768e1"
+    },
+    {
+      "paperId": "dd7181bd9cd61ec9ed6c7ea290bb7017a662daaf"
+    },
+    {
+      "paperId": "8c6a8f5d3678fe2c9a71d782bafbe0f59f86ead4"
+    },
+    {
+      "paperId": "4f5fd50c3f99d83257b546cae15bfad4bb849877"
+    },
+    {
+      "paperId": "49318ae2b521aa8a093c26919b75f01d98967f09"
+    },
+    {
+      "paperId": "746703636c47529f6334fe9423593943906c65f6"
+    },
+    {
+      "paperId": "81c35243fb5f9636a86b293b1f555cff33a8b42a"
+    },
+    {
+      "paperId": "44ff57728cbc63adccebad6ec71ba6811e8ef684"
+    },
+    {
+      "paperId": "608b40ca026b98644c9bd55e4b10520530a2b219"
+    },
+    {
+      "paperId": "3e65b40559e985eba017fa3fe042d3a4ca0fd7dc"
+    },
+    {
+      "paperId": "912205507e643de8e2d2fb1c773d95f444dacef8"
+    },
+    {
+      "paperId": "9246ac9eeb215708728de38b2ad007e9dfa14247"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "f8395c2d084300e597f4fc7bfa21aa6843c9b132"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "126486cf09a7f76941cc95c7226159722e3e1362"
+    },
+    {
+      "paperId": "926fc3d947c6b67c49509f4eeac72741ea5ea054"
+    },
+    {
+      "paperId": "4e7235b7c89a12133c9aa94904cc1e36770a332c"
+    },
+    {
+      "paperId": "80fa1b10f54643b79efad23610f3ef0900c144da"
+    },
+    {
+      "paperId": "6a4c5f56de6d18d435b65cc2243901ac805bc961"
+    },
+    {
+      "paperId": "a22fac0a01d41c3fd31eaaa7a40dc5773284747a"
+    },
+    {
+      "paperId": "42114445603ac259b5370ea1760350b76e377cef"
+    },
+    {
+      "paperId": "506dcc4e8f68b4d8df24c6f9840747b9f1c679fb"
+    },
+    {
+      "paperId": "eff4e190281b08e505c5bcb801c43fab407442ed"
+    },
+    {
+      "paperId": "00a8da4fc821998c0b8c3144ae9f6b7911c211b5"
+    }
+  ]
+}

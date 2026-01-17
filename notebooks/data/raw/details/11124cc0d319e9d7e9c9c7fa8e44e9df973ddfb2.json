@@ -1,0 +1,250 @@
+{
+  "paperId": "11124cc0d319e9d7e9c9c7fa8e44e9df973ddfb2",
+  "externalIds": {
+    "MAG": "2802891591",
+    "DBLP": "journals/remotesensing/BianCLDHXL18",
+    "DOI": "10.3390/RS10050736",
+    "CorpusId": 51965558
+  },
+  "url": "https://www.semanticscholar.org/paper/11124cc0d319e9d7e9c9c7fa8e44e9df973ddfb2",
+  "title": "Modeling the Distributions of Brightness Temperatures of a Cropland Study Area Using a Model that Combines Fast Radiosity and Energy Budget Methods",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/5/736/pdf?version=1525940993",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10050736?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10050736, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3408636",
+      "name": "Z. Bian"
+    },
+    {
+      "authorId": "38745999",
+      "name": "Biao Cao"
+    },
+    {
+      "authorId": "2127040466",
+      "name": "Hua Li"
+    },
+    {
+      "authorId": "3199465",
+      "name": "Yongming Du"
+    },
+    {
+      "authorId": "40586344",
+      "name": "Huaguo Huang"
+    },
+    {
+      "authorId": "144280815",
+      "name": "Q. Xiao"
+    },
+    {
+      "authorId": "2109312657",
+      "name": "Qinhuo Liu"
+    }
+  ],
+  "abstract": "Land surface temperatures (LSTs) obtained from remote sensing data are crucial in monitoring the conditions of crops and urban heat islands. However, since retrieved LSTs represent only the average temperature states of pixels, the distributions of temperatures within individual pixels remain unknown. Such data cannot satisfy the requirements of applications such as precision agriculture. Therefore, in this paper, we propose a model that combines a fast radiosity model, the Radiosity Applicable to Porous IndiviDual Objects (RAPID) model, and energy budget methods to dynamically simulate brightness temperatures (BTs) over complex surfaces. This model represents a model-based tool that can be used to estimate temperature distributions using fine-scale visible as well as near-infrared (VNIR) data and temporal variations in meteorological conditions. The proposed model is tested over a study area in an artificial oasis in Northwestern China. The simulated BTs agree well with those measured with the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER). The results reflect root mean squared errors (RMSEs) less than 1.6 °C and coefficients of determination (R2) greater than 0.7. In addition, compared to the leaf area index (LAI), this model displays high sensitivity to wind speed during validation. Although simplifications may be adopted for use in specific simulations, this proposed model can be used to support in situ measurements and to provide reference data over heterogeneous vegetation surfaces.",
+  "references": [
+    {
+      "paperId": "fd89099a80df6effc7a1e9e2d1a87da754ac630e"
+    },
+    {
+      "paperId": "9910d4ea0cfe4ebdb18f389f91807147241c8d8a"
+    },
+    {
+      "paperId": "b357451f97c27c7b7aa2801af1ab05117bc5cb23"
+    },
+    {
+      "paperId": "49499dfd3b1d4f6f6368866b06f70bed81a90d46"
+    },
+    {
+      "paperId": "8caa074ffcd31538cbd439b061c0624796b840ca"
+    },
+    {
+      "paperId": "10cbc6a8566d0db58fb913c70ce03597c6481da4"
+    },
+    {
+      "paperId": "23f2253e4cc6daa435d0dfd8fa0f7fd0774f0265"
+    },
+    {
+      "paperId": "81a9c136d7576d4af319af1f7f8cba51deff7f13"
+    },
+    {
+      "paperId": "5632f1ce655e897fb41ed824454c5d627f05c612"
+    },
+    {
+      "paperId": "009ee879e5f1b11954f178c2127bf1ee59fd997e"
+    },
+    {
+      "paperId": "12af0c1cfc2e6ca63e7423e53d21584c68ebd5dd"
+    },
+    {
+      "paperId": "c6a39eabff576e43a6fc884d3acefc6d3771aba7"
+    },
+    {
+      "paperId": "dfdb3fa96a4e3230ca26a53781e6dfadad135145"
+    },
+    {
+      "paperId": "9e64fd2e02648c19396cc776df8d7c424202e51f"
+    },
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "ec167bf250e6c431ed5a5a36e7619c7716847317"
+    },
+    {
+      "paperId": "6210f945e9716195d18b9b454b0cf82f7b87f0f3"
+    },
+    {
+      "paperId": "4dfbdf1ef0af9b41ac7904e1d9ae3048e31c9d13"
+    },
+    {
+      "paperId": "35310bf504ed96239dc14ec622d6bdc8fb2b99dd"
+    },
+    {
+      "paperId": "93f48e8012707465e2c348c6294c29af38343b19"
+    },
+    {
+      "paperId": "799249a01b8c10226cc71cdd7447b27f95c564e7"
+    },
+    {
+      "paperId": "4de674a33f5e4fade7cb54c5d0898888c99d9d1d"
+    },
+    {
+      "paperId": "b2dd2c96156f23f6564626a3e8a38e5957282b6b"
+    },
+    {
+      "paperId": "ea644a5c2633fd276477a76f0c318893556f14eb"
+    },
+    {
+      "paperId": "d6b8a214e05c912b7a2ee817c9ac1e851d68c37f"
+    },
+    {
+      "paperId": "2e4c4094d5e5565ade88a9ded02cc8136c1f489a"
+    },
+    {
+      "paperId": "4d04213d48e154e045ee69517dbbd25a77262e8b"
+    },
+    {
+      "paperId": "1b65b1116a25065783ee3f798faef4ec6a63b510"
+    },
+    {
+      "paperId": "3064cd6f88d0f1f1f2ff83fb40cda2455edce857"
+    },
+    {
+      "paperId": "76e8aaef02046db879a3aaea43dceac0a7d88842"
+    },
+    {
+      "paperId": "80897221c77d2bfa2859ccf4ccbf58fc30aba1e0"
+    },
+    {
+      "paperId": "824409a72792fc59e9f6da759d7e1645345233ad"
+    },
+    {
+      "paperId": "c05d726e796a1730167e1e3199914b7c9728592b"
+    },
+    {
+      "paperId": "90468d1016950dfb2ac3dcecb247b9aad7df9262"
+    },
+    {
+      "paperId": "2d06664b81163079fea266989fcf6baec6975036"
+    },
+    {
+      "paperId": "101ae7cc613f9632279630049eb32f6eaff93687"
+    },
+    {
+      "paperId": "1b144a44ff2ff75ee86d5361a377919599e555b1"
+    },
+    {
+      "paperId": "2ca49f575cc221ec3cd35e0e42a0ca4407e9434d"
+    },
+    {
+      "paperId": "368e10ad06b58375c718849a42cfdbb591da953d"
+    },
+    {
+      "paperId": "27e45a2c7548dfcc1be022edfa597bada8c34000"
+    },
+    {
+      "paperId": "be5c099b43981c30d71de4a50ff193647bca4765"
+    },
+    {
+      "paperId": "4b6bc5b9c1a6be754442adfb6640e5f04495326f"
+    },
+    {
+      "paperId": "a914a7813807d9f2a3f39246f17d3d9ff1fa642e"
+    },
+    {
+      "paperId": "60fdc22631e8ee35fa2f6272e42f703b9110a6fb"
+    },
+    {
+      "paperId": "ecc4fab38f1957c7f70dbd816c7ade3b90b2dce8"
+    },
+    {
+      "paperId": "b8cd7dbcdc8a98dc6ffbd56c9b4debc908982f0b"
+    },
+    {
+      "paperId": "51f4b810996aae94bb559c27a15f2dd85061f432"
+    },
+    {
+      "paperId": "4ef7b8eee3441bb4cd2b8d8bd82478cf32f9a1ff"
+    },
+    {
+      "paperId": "6bfb50d212ff73cca479c41a3702cbcbe0d56c54"
+    },
+    {
+      "paperId": "9423d723291757c5497ec14e7470c711a72ba184"
+    },
+    {
+      "paperId": "fefb31334eafeb347441412de022aae02bc7e373"
+    },
+    {
+      "paperId": "08f55dca8cd19358b3892fa480375130d8e90d63"
+    },
+    {
+      "paperId": "4cca6a4574895f13bed94e23b46fe43c8bdd341b"
+    },
+    {
+      "paperId": "e8460c40632a857df5d28dabc48147b592f53196"
+    },
+    {
+      "paperId": "0fec9988d52faf3e9f29349be84d48abb4093730"
+    },
+    {
+      "paperId": "8ddfa89ee9cde728c8fd6c7bf9ed3e0aa21c2886"
+    },
+    {
+      "paperId": "81dd486a70f61cb0cee3e4fff942f6028fa78a88"
+    },
+    {
+      "paperId": "ee1ff63b167827f076f36a25aa6c536a7f234314"
+    },
+    {
+      "paperId": "2d1f54d28c81929fae6971be31f5f370d2e70ae7"
+    },
+    {
+      "paperId": "af70b12f6abc3dee863624abadd2224ea60951fe"
+    },
+    {
+      "paperId": "b9e284855c8f7bd7bd11457a6dbaaf0c614c596a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

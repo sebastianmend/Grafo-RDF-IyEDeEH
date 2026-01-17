@@ -1,0 +1,69 @@
+{
+  "paperId": "f2b3a61f647ceb7fcfb8bd54d572e1d6e67a143b",
+  "externalIds": {
+    "MAG": "2809014227",
+    "DOI": "10.1088/1742-6596/1044/1/012019",
+    "CorpusId": 133928738
+  },
+  "url": "https://www.semanticscholar.org/paper/f2b3a61f647ceb7fcfb8bd54d572e1d6e67a143b",
+  "title": "Design and development of a hyperspectral data measurement system used in precision agriculture",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1044/1/012019",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1044/1/012019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1044/1/012019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52041783",
+      "name": "M. Luculescu"
+    },
+    {
+      "authorId": "2285447697",
+      "name": "Luciana Cristea"
+    },
+    {
+      "authorId": "31220114",
+      "name": "S. Zamfira"
+    },
+    {
+      "authorId": "40601754",
+      "name": "A. L. Boer"
+    }
+  ],
+  "abstract": "The paper presents the design and development of a hyperspectral data acquisition system which provides high precision measurements for vegetation reflectance. The system was developed using four spectrometers, two of them for the visible domain and two for near-infrared. They measure the incident radiation and the reflected one simultaneously. In order to establish the optimal value of the integration time, an iterative algorithm was used for each spectrometer. A software platform was developed on the Raspberry Pi microcontroller system for data acquisition, data processing and remote control. The system provides real-time data processing and graphical representation of the acquired data.",
+  "references": [
+    {
+      "paperId": "6849e8c94e38a54d474296cbdbbc8f172d808c37"
+    },
+    {
+      "paperId": "32c4fea56d1a4f1be0928d32185ded8d23999ccf"
+    },
+    {
+      "paperId": "d637cffd4a3f3d354c9cc06dccbfee6dcb47f89b"
+    },
+    {
+      "paperId": "2139fc45fe2fa318338f0f071948f8213a517334"
+    },
+    {
+      "paperId": "40709f044c50b850f54980e95acbda9a0a9d4538"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "479bdb0223b4d2898e1776ef74eabbda532a7c15"
+    }
+  ]
+}

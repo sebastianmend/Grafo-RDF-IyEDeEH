@@ -1,0 +1,383 @@
+{
+  "paperId": "c790e5a29c069766dc9e81b603649788abb8d383",
+  "externalIds": {
+    "MAG": "2901672981",
+    "PubMedCentral": "6281989",
+    "DOI": "10.3389/fvets.2018.00301",
+    "CorpusId": 53830301,
+    "PubMed": "30555834"
+  },
+  "url": "https://www.semanticscholar.org/paper/c790e5a29c069766dc9e81b603649788abb8d383",
+  "title": "Persistent Spillback of Bovine Tuberculosis From White-Tailed Deer to Cattle in Michigan, USA: Status, Strategies, and Needs",
+  "venue": "Frontiers in Veterinary Science",
+  "year": 2018,
+  "citationCount": 51,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fvets.2018.00301/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6281989, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2906619",
+      "name": "K. Vercauteren"
+    },
+    {
+      "authorId": "8112049",
+      "name": "Michael J. Lavelle"
+    },
+    {
+      "authorId": "5202326",
+      "name": "H. Campa"
+    }
+  ],
+  "abstract": "Free-ranging white-tailed deer (Odocoileus virginianus) are believed to be a self-sustaining reservoir for bovine tuberculosis (bTB) in northeastern Lower Michigan, USA. Although a comprehensive control program is in place and on-farm mitigation strategies to curtail bTB transmission between cattle and deer have been implemented for over a decade, cattle and deer continue to become infected with the disease. Thus, renewed motivation to eradicate bTB is needed if that is truly the goal. Recurrent detection of bTB in cattle in the region is of mounting concern for state and federal agricultural agencies, producers, and wildlife managers. Current on-farm mitigation efforts include fencing and refined cattle feeding and watering practices. Liberal removal of antlerless deer through hunter harvest and disease control permits (DCPs) issued to cattle producers and agency sharp shooters have also been ongoing. Although these strategies have merit and efforts to reduce prevalence in deer and occurrence of positive farms are elevated, additional actions are needed. Heightened management actions to combat bTB in deer could include deer vaccination programs, strategic habitat manipulations to redistribute deer from farms, and precision removal of deer in proximity to high-risk farms. Foundational research to address development and delivery of vaccine to free-ranging deer is complete. Strategic management and habitat manipulation could reduce and disperse local concentrations of deer while better meeting wildlife, forestry, and agricultural goals. The responses of local deer populations to targeted removal of individuals are generally understood and there is potential to reduce deer activity around agricultural operations while allowing them to persist nearby on natural foods. We summarize the history and progress to date, discuss the realized merit of novel management strategies, and suggest options to rid deer and cattle in Michigan of bTB.",
+  "references": [
+    {
+      "paperId": "bd5704458b145d8a3be4549486f7cb893446d1f8"
+    },
+    {
+      "paperId": "7b5b41e864ab264eb7b83a532df073b66c98437a"
+    },
+    {
+      "paperId": "e11f3d38ebabd234b286ddabddc2934866ca5ff2"
+    },
+    {
+      "paperId": "1cdef082c2ca0ec4453bac4acd2212b7ad50f5b3"
+    },
+    {
+      "paperId": "19ed981d97a8f8d6196cf6aa1d79996fd929eade"
+    },
+    {
+      "paperId": "197eb39227d4647c9bd1e70fa2979b72e85ac057"
+    },
+    {
+      "paperId": "9f0556c3a587bca8c78bca976f6335fddb1b2c80"
+    },
+    {
+      "paperId": "0bbad5ab49826e2ddd7f74d3094680da4e0bea02"
+    },
+    {
+      "paperId": "6dd60f14497f8fca3d97e5733631224b2b1f219e"
+    },
+    {
+      "paperId": "0c5939904cb4f83abf71cd8ddc2256fa5c60549e"
+    },
+    {
+      "paperId": "14ff6c3cb25c615efbcc47d39e2b093964457f2d"
+    },
+    {
+      "paperId": "5f81a4a5016daaa4ae0dfe8f82ec7a1a68431b69"
+    },
+    {
+      "paperId": "267daa2346053b62ff59ebee40338be6d64f881a"
+    },
+    {
+      "paperId": "368cbe673832160175dcfc4aa42bae5c6fc4dc39"
+    },
+    {
+      "paperId": "64afb52c3e850e02bcb99318ebebe8f353575ea7"
+    },
+    {
+      "paperId": "077bf8f542b6bb9beeaac96a009e1cc0c8c9ce71"
+    },
+    {
+      "paperId": "45623a170d047ab11a50c2d32453c222a645e371"
+    },
+    {
+      "paperId": "379e848a3f51c93b1831ccf324e2e77e9ca34293"
+    },
+    {
+      "paperId": "0024bb9c763c4303bcf61e5b4c9d497e693b1267"
+    },
+    {
+      "paperId": "df47a3eeb6cf474716fd6ba87b7310714c0d0932"
+    },
+    {
+      "paperId": "a487cfd54573973b97874bad179168c82d59a228"
+    },
+    {
+      "paperId": "78078efa0f0368d89051c0a25c42747e7e551127"
+    },
+    {
+      "paperId": "adec40e5147fccc94db6217a9f059abb1849bd8a"
+    },
+    {
+      "paperId": "f601a5cc176e80d8c7509755a41e830c70d18000"
+    },
+    {
+      "paperId": "957b6301687da8cef6a871477abaf8c50769a722"
+    },
+    {
+      "paperId": "74f151cddb9569dc937cfdb54f14cfd65a0a3e17"
+    },
+    {
+      "paperId": "3462a721da83bfa41ef398c7a6ca2ad0f7b99dd5"
+    },
+    {
+      "paperId": "1d3deaf546007d2905b7bf579560e860d848291a"
+    },
+    {
+      "paperId": "42d0e3c8a4d4aa47ccece2ec9ebd8d9f42764f1d"
+    },
+    {
+      "paperId": "bcfdf594d373c76aba45bd5ed2a38d39987d6dac"
+    },
+    {
+      "paperId": "e222d9c6b0b80cd0fa9363de70745ad0b5a486e1"
+    },
+    {
+      "paperId": "9ee60fa54f158a505dc0c7d653ee86d6f50e9929"
+    },
+    {
+      "paperId": "730761e95d765ec4d991a9f5deb47948fca6055b"
+    },
+    {
+      "paperId": "a4d993be7445dce24876c8476684327576dd6155"
+    },
+    {
+      "paperId": "e4bf68e7f2ef281cb5d7b325a0faa8a637fcbb2f"
+    },
+    {
+      "paperId": "49912f57cc938f5757104c60d8b98ab19e46abcb"
+    },
+    {
+      "paperId": "c83b382c11d8e0acb84f672200be723c2dbabd15"
+    },
+    {
+      "paperId": "1cf203fd1f77c54d4cd1072f2782a8bb668b7ff6"
+    },
+    {
+      "paperId": "ca0b7e33a8e8b10e113b1d035db1612bd2578232"
+    },
+    {
+      "paperId": "6fe55c449596d3142fff57a2c39f07a03e2f56e2"
+    },
+    {
+      "paperId": "2b20605fd423841e3b0efb8e5f22cff6ee01849c"
+    },
+    {
+      "paperId": "1e34435375dcfc6381200ac6d23c48037b3fa5a9"
+    },
+    {
+      "paperId": "12526603106b9185f24ce271f14836aeb061c70a"
+    },
+    {
+      "paperId": "622692c8cea3b1dd0bd0628171ed8639aa4ee58d"
+    },
+    {
+      "paperId": "5a2a6627c24ebf9bf68757b0b7b85f111c225b29"
+    },
+    {
+      "paperId": "6e43a8cd638fdc65ac9c31159daf051080851a06"
+    },
+    {
+      "paperId": "ef311890f6a8655a931354fdeb35def6013845d4"
+    },
+    {
+      "paperId": "410237b6f8905efea6b0d153ab564d9d439d64c9"
+    },
+    {
+      "paperId": "cf17bd8798cd3fa1ec110b629e91caabc4a0140f"
+    },
+    {
+      "paperId": "442cb98b91185fdcd3e837f5fac278a034f7ca18"
+    },
+    {
+      "paperId": "e0a6fd1334a2597594786490e5cbe0c00bb1ba8a"
+    },
+    {
+      "paperId": "69f270c5283f80546a4d44feb0d3c56b763ce3d3"
+    },
+    {
+      "paperId": "eabc99f75cb26bbb767c7ba18462b65b0bc78841"
+    },
+    {
+      "paperId": "bf7e3efe287f391496a10fdce9f3d10414266986"
+    },
+    {
+      "paperId": "321d067de9028fb59455a6f1e9f491a23896eab7"
+    },
+    {
+      "paperId": "55de0f3a3bfca5fcc97d0034e36bd5e7b9432e07"
+    },
+    {
+      "paperId": "7f661cedb1d22e3a89a27a6d20e2cb411c039620"
+    },
+    {
+      "paperId": "7924903b2cb9a001804eac50aead0c07e27862e9"
+    },
+    {
+      "paperId": "46663cb0b93f4bac21ba7d6f7e6f6d0cdce455b4"
+    },
+    {
+      "paperId": "368a0e657297c29fbec3f5908fe552c1e43bdb7d"
+    },
+    {
+      "paperId": "b7d91ab5ac29a1129b041a3b538247dc26f43176"
+    },
+    {
+      "paperId": "846ef41e9928f38eb689863c87267900b2b6448b"
+    },
+    {
+      "paperId": "9f3c51e90773a35f10d618af0f08d229bbf0f83a"
+    },
+    {
+      "paperId": "41ec4c9b03da701ffdb4dbaed36bd2e2c50cbd69"
+    },
+    {
+      "paperId": "bfca28187283a71e3f5f0b8f3b3d4c0a2e2c8bcb"
+    },
+    {
+      "paperId": "17ae850780d3851606d54fadab599efdf9878feb"
+    },
+    {
+      "paperId": "5417064a4772377003a12056ccf6e964f911ab1b"
+    },
+    {
+      "paperId": "4de1650bf524e606ed28c7b4eb665857a264af9e"
+    },
+    {
+      "paperId": "ecc40b6a0dda0e34676c2af7cc40917b45f10ebf"
+    },
+    {
+      "paperId": "2c37a87b1b0fed0a4985a1d92e32ef7057b0cd3e"
+    },
+    {
+      "paperId": "ab5847dcaa1606ebb3a8e9724ed79e12f185cafb"
+    },
+    {
+      "paperId": "c81a4833daf3a4f607c67b5a126b4f610e118d22"
+    },
+    {
+      "paperId": "9f52be53c371325b8d6ee4c749e4ba36acac0d88"
+    },
+    {
+      "paperId": "64e5cfa4885143dea82b3b0c2264731a707f29b8"
+    },
+    {
+      "paperId": "0be9d723a1a51b6edd75712c5b9fb8080a5ca215"
+    },
+    {
+      "paperId": "f23f711c68ef4241045fda6b9f019c3165425b45"
+    },
+    {
+      "paperId": "8c14bb637786be10133124c3f66f8f93ad8579ea"
+    },
+    {
+      "paperId": "34e2d5cae994ef32ff5be26ac1bdbcf715a71f4f"
+    },
+    {
+      "paperId": "2bef0ae7ee9f9691989ea4c17d5e1cfb093a74b7"
+    },
+    {
+      "paperId": "c6773e362268e0c058e86b8a34e88269b9d3d619"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9e5e9b1b55ed4c1f50fe87bf109c2aa71aa555d4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4a1d3859b46d0a498007be7c5a1ca771194d51e8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a60033ebcf3474fd4123d9a73224cb9df68ac523"
+    },
+    {
+      "paperId": "738952843ae9e20fb16b362a008ab2ea5c4946ea"
+    },
+    {
+      "paperId": "2f983cc43e10a568a392f42d0ead02d1f45e8ab3"
+    },
+    {
+      "paperId": "de239619f57a072d8c8d622967179941515eb5d3"
+    },
+    {
+      "paperId": "d18fc78c51db33b2f57be2a42b90f0115a1054ba"
+    },
+    {
+      "paperId": "da5f600ab91b39e0a0b9c12d12c827f2f2724578"
+    },
+    {
+      "paperId": "e47dedd2bb7a4ea7fa6b7294e3603cd51f0c58ce"
+    },
+    {
+      "paperId": "2c65ffd091f111b77a9fadb794b1c944d7e4284c"
+    },
+    {
+      "paperId": "b71dd5b6ee267996cff71b08980b91fb1facbee5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ecd44e5918f4ed064b90829d0369805ddd31e3ef"
+    },
+    {
+      "paperId": "638107f8548d9daa72814748749a2d5881c93a66"
+    },
+    {
+      "paperId": "e162c483618b4cdae0dbaadd0a736ec5bddf771e"
+    },
+    {
+      "paperId": "35bfb4424d7d15ad13165e8c905c0202971c2c96"
+    },
+    {
+      "paperId": "16316ed6a788404666fc9b35160c3a780542d356"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "470e4f8c484f9dbf2ad17e99e384bc2f30b5ac10"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "964d6d5805f5feb66ce5c21b8b29b81e3148feee"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

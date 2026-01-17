@@ -1,0 +1,47 @@
+{
+  "paperId": "8c161e884a62188da8b23bdc90009f1fca1ee834",
+  "externalIds": {
+    "DBLP": "conf/rev/CosmaCZL19",
+    "MAG": "2959785838",
+    "DOI": "10.1007/978-3-030-23162-0_63",
+    "CorpusId": 199010658
+  },
+  "url": "https://www.semanticscholar.org/paper/8c161e884a62188da8b23bdc90009f1fca1ee834",
+  "title": "Work-in-Progress: Contemporary Barriers Faced by Precision Agriculture, New Paradigms and Proposals for Future Advance",
+  "venue": "The Review",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-23162-0_63?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-23162-0_63, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30983974",
+      "name": "Alin Cosma"
+    },
+    {
+      "authorId": "40134264",
+      "name": "L. Cristea"
+    },
+    {
+      "authorId": "90444108",
+      "name": "C. Zamfira"
+    },
+    {
+      "authorId": "52041783",
+      "name": "M. Luculescu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

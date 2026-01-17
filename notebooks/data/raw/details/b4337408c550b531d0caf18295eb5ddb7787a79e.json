@@ -1,0 +1,38 @@
+{
+  "paperId": "b4337408c550b531d0caf18295eb5ddb7787a79e",
+  "externalIds": {
+    "MAG": "2903768396",
+    "DOI": "10.1007/978-981-13-1882-5_30",
+    "CorpusId": 69283172
+  },
+  "url": "https://www.semanticscholar.org/paper/b4337408c550b531d0caf18295eb5ddb7787a79e",
+  "title": "Challenges and Applications of Wireless Sensor Networks in Smart Farming—A Survey",
+  "venue": "Advances in Intelligent Systems and Computing",
+  "year": 2018,
+  "citationCount": 41,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-1882-5_30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-1882-5_30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2073745422",
+      "name": "T. Rajasekaran"
+    },
+    {
+      "authorId": "3456810",
+      "name": "S. Anandamurugan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

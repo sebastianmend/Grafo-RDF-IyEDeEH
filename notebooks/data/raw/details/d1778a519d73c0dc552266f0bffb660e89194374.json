@@ -1,0 +1,37 @@
+{
+  "paperId": "d1778a519d73c0dc552266f0bffb660e89194374",
+  "externalIds": {
+    "MAG": "3025750960",
+    "DOI": "10.1097/JCP.0000000000001009",
+    "CorpusId": 73417687,
+    "PubMed": "30724761"
+  },
+  "url": "https://www.semanticscholar.org/paper/d1778a519d73c0dc552266f0bffb660e89194374",
+  "title": "Statistics Commentary Series: Commentary No. 31: The Uses and Misuses of the Analysis of Covariance.",
+  "venue": "Journal of Clinical Psychopharmacology",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/JCP.0000000000001009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/JCP.0000000000001009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Psychology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5426420",
+      "name": "D. Streiner"
+    }
+  ],
+  "abstract": "T he analysis of covariance (ANCOVA) was developed over 85 years ago by Ronald Fisher, arguably the father of modern statistics. Since that time, it has occupied a seemingly paradoxical position: vastly under-used in situations where it would be of great benefit in analyzing data, yet at the same time used all too frequently when it should not be. In this commentary, I will discuss both sides of this situation. Very briefly, ANCOVA attempts to account for baseline differences between groups for 1 or more “nuisance” variables, or covariates. Fisher introduced ANCOVA as an extension of the analysis of variance (ANOVA), which he also developed. It was designed to improve the precision of the estimate of the magnitude of treatment effects in a study by reducing the variability within each of the groups. It is important to understand the setting in which Fisher worked, because the techniques that arose from his research reflect the issues with which he was grappling. At the time, he was at the Rothamstead Experimental Station, which was devoted to improving the yield of agricultural crops. A typical study might involve splitting a plot of land in half, planting 1 type of seed in 1 part and a different type of seed in the other (hence the term “split-plot design,” still used for some ANOVAs). This helped control other, extraneous factors that might influence growth rate, such as the amount of rainfall or the composition of the soil. The important point to note is that ANCOVA was developed within the framework of an experiment or, as we would label it in medicine today, a randomized controlled trial (RCT). To understand why ANCOVA is so useful in RCTs but not with other types of designs, such as cohort studies, we have to consider 3 types of variables – the dependent variable (DV), the covariates, and the grouping factor (ie, whether the person is assigned to the experimental or comparison group) – and the correlations among them. In an RCT, the covariate (I’ll use the singular, but the argument also applies when there are 2 or more) is correlated with the DV but, due to random assignment, is independent of the grouping factor. Indeed, it is precisely because randomization removes – or at least reduces – the correlation between the covariate and group membership that the RCT is the preferred design when looking at the effectiveness of an intervention. On the other hand, because of the correlation between the covariate and the DV, the variance in the DV that is not related to the grouping factor is reduced. This then strengthens the relationship between the grouping factor and the DV, and thus increases the power of the test. The penalty is the loss of 1 degree of freedom (df) due to the covariate but, if the covariate is chosen wisely, this is more than offset by the gain in precision. This points to 1 part of the paradox: the under-use of ANCOVA. Covariate adjustment reduces variance in the DV even if the covariate does not differ between the groups. To illustrate this, let’s consider the data in Table 1. There are 3 variables: Group assignment, Age (the covariate), and the Score on some measure. The mean age in group 1 is 10.20 ± 1.48 years, and it is 10.10 ± 1.73 years in group 2; it’s hard to conceive of 2 groups being more similar on this variable and, needless to say, the P level is close to 0.9. If we run an ANOVA on the DV (yes, I know we can use a t-test, but then we couldn’t directly compare the results with the ANCOVA), the result for the Group factor is F(1,18) = 2.886, P = 0.107, and there is no reason to break out the wine and celebrate. But now, if we add in Age as a covariate, we would find that F(1,17) = 5.072, P = 0.038 (don’t forget that we lose 1 df because of the covariate). The reason for this increase in power is that we have reduced the variance in Score that is due to Age, thus improving the observed relationship between Score and Group. This also means that we should use a highly reliable measure of the covariate so that we don’t introduce noise due to its measurement. The important take-home message is that when the covariate is correlated with the DV (r = 0.58 in this case), including it in the analysis increases the likelihood of finding a difference, even when the groups do not differ with regard to the covariate. This also reinforces a",
+  "references": null
+}

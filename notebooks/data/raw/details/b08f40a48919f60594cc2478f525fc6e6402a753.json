@@ -1,0 +1,387 @@
+{
+  "paperId": "b08f40a48919f60594cc2478f525fc6e6402a753",
+  "externalIds": {
+    "MAG": "2963239614",
+    "DOI": "10.2134/JEQ2019.03.0131",
+    "CorpusId": 199649215,
+    "PubMed": "31589721"
+  },
+  "url": "https://www.semanticscholar.org/paper/b08f40a48919f60594cc2478f525fc6e6402a753",
+  "title": "A Global Perspective on Integrated Strategies to Manage Soil Phosphorus Status for Eutrophication Control without Limiting Land Productivity.",
+  "venue": "Journal of Environmental Quality",
+  "year": 2019,
+  "citationCount": 54,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.2134/jeq2019.03.0131",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2134/JEQ2019.03.0131?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/JEQ2019.03.0131, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34217820",
+      "name": "P. Withers"
+    },
+    {
+      "authorId": "47211841",
+      "name": "P. Vadas"
+    },
+    {
+      "authorId": "46262263",
+      "name": "Risto Uusitalo"
+    },
+    {
+      "authorId": "4817668",
+      "name": "K. Forber"
+    },
+    {
+      "authorId": "46766523",
+      "name": "M. Hart"
+    },
+    {
+      "authorId": "145256962",
+      "name": "R. Foy"
+    },
+    {
+      "authorId": "123306619",
+      "name": "A. Delgado"
+    },
+    {
+      "authorId": "47872114",
+      "name": "W. Dougherty"
+    },
+    {
+      "authorId": "46429739",
+      "name": "H. Lilja"
+    },
+    {
+      "authorId": "87476015",
+      "name": "L. Burkitt"
+    },
+    {
+      "authorId": "3785309",
+      "name": "G. Rubæk"
+    },
+    {
+      "authorId": "6256893",
+      "name": "D. Pote"
+    },
+    {
+      "authorId": "10328313",
+      "name": "K. Barlow"
+    },
+    {
+      "authorId": "4287738",
+      "name": "S. Rothwell"
+    },
+    {
+      "authorId": "90183017",
+      "name": "P. Owens"
+    }
+  ],
+  "abstract": "Unnecessary accumulation of phosphorus (P) in agricultural soils continues to degrade water quality and linked ecosystem services. Managing both soil loss and soil P fertility status is therefore crucial for eutrophication control, but the relative environmental benefits of these two mitigation measures, and the timescales over which they occur, remain unclear. To support policies toward reduced P loadings from agricultural soils, we examined the impact of soil conservation and lowering of soil test P (STP) in different regions with intensive farming (Europe, the United States, and Australia). Relationships between STP and soluble reactive P concentrations in land runoff suggested that eutrophication control targets would be more achievable if STP concentrations were kept at or below the current recommended threshold values for fertilizer response. Simulations using the Annual P Loss Estimator (APLE) model in three contrasting catchments predicted total P losses ranging from 0.52 to 0.88 kg ha depending on soil P buffering and erosion vulnerability. Drawing down STP in all catchment soils to the threshold optimum for productivity reduced catchment P loss by between 18 and 40%, but this would take between 30 and 40+ years. In one catchment, STP drawdown was more effective in reducing P loss than erosion control, but combining both strategies was always the most effective and more rapid than erosion control alone. By accounting for both soil P buffering interactions and erosion vulnerability, the APLE model quickly provided reliable information on the magnitude and time frame of P loss reduction that can be realistically expected from soil and STP management. Greater precision in the sampling, analysis, and interpretation of STP, and more technical innovation to lower agronomic optimum STP concentrations on farms, is needed to foster long-term sustainable management of soil P fertility in the future.",
+  "references": [
+    {
+      "paperId": "10bcd1a61033e486537a25a77ce9dfc76325f43e"
+    },
+    {
+      "paperId": "1a2766cf66c00c1fc0d65446d97a6d1e4b1523e0"
+    },
+    {
+      "paperId": "3848f2577d897575b8ad03e7b94ed4117902763b"
+    },
+    {
+      "paperId": "475dca86fe435b6298e2235b362d287ac9602104"
+    },
+    {
+      "paperId": "4e0901a5b3758c8d596a84b222bfa049167c2959"
+    },
+    {
+      "paperId": "9c647e317a7811729ba10008564a5c93ed1aeb24"
+    },
+    {
+      "paperId": "17860bc251a9c686ae1593e1a5601dc732e0ec7f"
+    },
+    {
+      "paperId": "5f79e79caf3a50bf8ebd56f82f32e11d1115aef3"
+    },
+    {
+      "paperId": "773f24db1158a64fb1c622b49a7cd40865d29c02"
+    },
+    {
+      "paperId": "5755cf8eabcff22cda3b779123522c4d017bb4f8"
+    },
+    {
+      "paperId": "e9a80fa80e4cf27a50f43566440d00c9da5ca49b"
+    },
+    {
+      "paperId": "4b89d802e1725c99bdd3685e6d67ae062a4a7bea"
+    },
+    {
+      "paperId": "e09ebe8360cb6363c7ae0653c4921a53843dcf90"
+    },
+    {
+      "paperId": "eedb41c40a0c92865bc388dfec955e42e36e15f6"
+    },
+    {
+      "paperId": "5197d4c12edde51e7439cc8461141ccb0762c92b"
+    },
+    {
+      "paperId": "a157bbf584c0fe3dc584ab71185859311ebe7db3"
+    },
+    {
+      "paperId": "b896d22122194c38e5d6b2612646a62f0290eeea"
+    },
+    {
+      "paperId": "0c845a4debe10c6136eea7450fadd8ebc255bf25"
+    },
+    {
+      "paperId": "b86ee58c9970826049ca74f37ac6421e30f02b1b"
+    },
+    {
+      "paperId": "3f161741d22b4f70d3e5de21d6e959be315044bc"
+    },
+    {
+      "paperId": "8c84a30edc296a3b444eae5498de24fe3d9d3c1d"
+    },
+    {
+      "paperId": "ca61d9539664d6f95b631498fb7da5c774675292"
+    },
+    {
+      "paperId": "7bd2a52ed7bce6dd99156435c907f07ca58205f2"
+    },
+    {
+      "paperId": "111a99ca5e7fb1c3675e4d1997c566363c11ac93"
+    },
+    {
+      "paperId": "3b33954bc64d171af19fd2fe1691980eb9884c51"
+    },
+    {
+      "paperId": "b83afeb570af26f7cc697e91d4c9f78f6892a519"
+    },
+    {
+      "paperId": "7de190d48e835a4b2851bb2fde7437946b1425e3"
+    },
+    {
+      "paperId": "bd244dd929cc0737728cbfca6a74eb85012d5b62"
+    },
+    {
+      "paperId": "249770651a009d2e88855115351fe9c3646bc425"
+    },
+    {
+      "paperId": "20eef6992c4770b8bfead740e3e003f0a4f0ac7f"
+    },
+    {
+      "paperId": "11d1875337ed0fbcba00d1a22cf31acb72191001"
+    },
+    {
+      "paperId": "91ced372aa660721508d879aa28e5521cf8d16dc"
+    },
+    {
+      "paperId": "08a667cc6e6e5937826e22435da576e030420dfc"
+    },
+    {
+      "paperId": "20b05b3742a8890fff51aea0b684d0855a163d48"
+    },
+    {
+      "paperId": "22989a84334de651433237a17ebbbcbf013c4878"
+    },
+    {
+      "paperId": "c84d6fe4022dfb8e597ad7098d74befff24d6857"
+    },
+    {
+      "paperId": "304303d17f5f8a2acb23b7c3f41e0f427da2ed81"
+    },
+    {
+      "paperId": "bd5bc3a72445723fb3441cd89a79499df616a832"
+    },
+    {
+      "paperId": "7d746c0426d4adef466a81ec5c380ced662c70ab"
+    },
+    {
+      "paperId": "6df4cd98e240382c6be1b7eeba84d57197fc8c91"
+    },
+    {
+      "paperId": "7fb88c5a1aabe008d2106042ec0a746534a18715"
+    },
+    {
+      "paperId": "99f7a0ebe0d9f2702afe09ad65682b429f90eb78"
+    },
+    {
+      "paperId": "67e1799345143576a7b64769bd33744048da55b7"
+    },
+    {
+      "paperId": "1aed8bfa826dc5988a268638b6cc1ebe86ee570c"
+    },
+    {
+      "paperId": "250f0044e56b9e162e2284d16a624b9f048bc088"
+    },
+    {
+      "paperId": "92cc3e37f69293e6dcddee18debe5861fb119eab"
+    },
+    {
+      "paperId": "0c2cc70d0f37fe5e0efd65cc30d7763b7425530f"
+    },
+    {
+      "paperId": "80c6aa915745df21c5a8cb2b978d0a838c78f3e9"
+    },
+    {
+      "paperId": "fe6ecf9ded943a931e8db8d7d57ffe199ccbdc9c"
+    },
+    {
+      "paperId": "de111148691c5c2e995251da95ea92b3f35d8a92"
+    },
+    {
+      "paperId": "4bc30ee83fb74b29d8edba7eff025d92de6a0985"
+    },
+    {
+      "paperId": "75cb86f827a1bb4945edb85803ddcac0fae03e23"
+    },
+    {
+      "paperId": "62f6820ec4b673ce9bf89bc3d9c3d39ff850a716"
+    },
+    {
+      "paperId": "01ce93896a1bfc8ffb9285621a29e0370bd7c513"
+    },
+    {
+      "paperId": "533d0dc8fb44714e4cd2d75c309759747ca67083"
+    },
+    {
+      "paperId": "3324230d25e3faeb624ac0290475b88db8d1b3c5"
+    },
+    {
+      "paperId": "6d23853312b205332d571629dcfcfc3246ad737f"
+    },
+    {
+      "paperId": "c1cd0a78b20135a89a23390a25a66104d482da1f"
+    },
+    {
+      "paperId": "2e14ab298f241605964b0e35e058615aa8bf9892"
+    },
+    {
+      "paperId": "e44ce4f1866b035be0590aebb158010dcda554db"
+    },
+    {
+      "paperId": "7126685d6dc60ea7bd839350fc6a6277ee0cc5f9"
+    },
+    {
+      "paperId": "f19158ae98be1c581473ad827003891af6ab1483"
+    },
+    {
+      "paperId": "dab75e2852c4710abce12b81418361ee316ebaad"
+    },
+    {
+      "paperId": "185d58959b29a6267da06db4b28b235de2ee34b7"
+    },
+    {
+      "paperId": "9f92eac8522b3d26ca24fad02c94f9f52bf4da04"
+    },
+    {
+      "paperId": "00577215a291546e141a32b3cbc268352fa06a91"
+    },
+    {
+      "paperId": "670611a98495f4415dd9bb6a2e391fee10b3e32e"
+    },
+    {
+      "paperId": "92227b97fdd912a7a79c2db1289129a84071fed2"
+    },
+    {
+      "paperId": "efe1615277f5b7377d85eefdc5e71fbffd336842"
+    },
+    {
+      "paperId": "6e9c73f7ad39212aeaefd003045c02d02202d367"
+    },
+    {
+      "paperId": "a66db685d68d706eb3345b0e8cc1145316a35258"
+    },
+    {
+      "paperId": "aa599568862ca2a294b54dcb13fa4246ce4d00d2"
+    },
+    {
+      "paperId": "50a42ed2f81b9fe150883a6c89194c88a9647106"
+    },
+    {
+      "paperId": "e149c236547ed383efe5c5fbf2a66d9290670315"
+    },
+    {
+      "paperId": "979717a6a6998f21cf4abaeeaaa6cc254f2e4a24"
+    },
+    {
+      "paperId": "34db7badf81c49515f22b58fb495f929ade261bb"
+    },
+    {
+      "paperId": "cd196492f7c072fd4cc71805ca0f890d82e00d50"
+    },
+    {
+      "paperId": "4703adb85833f0b6477cf2a19223ab216b4fa0b9"
+    },
+    {
+      "paperId": "54e02188ba0b3e070c483327fbdb376226fcfdad"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "13af5cadc81ea2e8d8729c77c3af96ace0cd40a9"
+    },
+    {
+      "paperId": "62039e0546cc8672e4e5c2d5664120bf52cad0cb"
+    },
+    {
+      "paperId": "e131a171d5e4ad6e064a8bdf7c2f6c05a651bb20"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b0608c40631b3250d84cff1728bec1293ad9387e"
+    },
+    {
+      "paperId": "24a4fbafdefce6baea8874a9cddc328a046e8152"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d064e0ebdde5b44ddd0374d068560ad13c67c589"
+    },
+    {
+      "paperId": "7ae74729f6b541495d11e7c9c62eec80cc2e0ba0"
+    },
+    {
+      "paperId": "bbb15a221c3d7a8b7c1f49366cf865bb9eb57750"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "74b7639b9cc7d78dfad824cb8450161c39edee2d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "681a42d80a5dd02d2917a7ec4af079916c576f29"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

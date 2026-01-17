@@ -1,0 +1,163 @@
+{
+  "paperId": "b1ffe089ffb212860b9c5cd0880f36e4d0758519",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-1908-04018",
+    "ArXiv": "1908.04018",
+    "MAG": "2968874090",
+    "DOI": "10.1109/ACCESS.2019.2940385",
+    "CorpusId": 199543822
+  },
+  "url": "https://www.semanticscholar.org/paper/b1ffe089ffb212860b9c5cd0880f36e4d0758519",
+  "title": "An Overlapping-Free Leaf Segmentation Method for Plant Point Clouds",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 38,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08830350.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1908.04018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109146686",
+      "name": "Dawei Li"
+    },
+    {
+      "authorId": "145867746",
+      "name": "Yan Cao"
+    },
+    {
+      "authorId": "48745357",
+      "name": "Guoliang Shi"
+    },
+    {
+      "authorId": "2149788082",
+      "name": "Xin Cai"
+    },
+    {
+      "authorId": "2144354538",
+      "name": "Yang Chen"
+    },
+    {
+      "authorId": "2143243742",
+      "name": "Sifan Wang"
+    },
+    {
+      "authorId": "2111431457",
+      "name": "Siyuan Yan"
+    }
+  ],
+  "abstract": "Automatic leaf segmentation, as well as identification and classification methods that built upon it, are able to provide immediate monitoring for plant growth status to guarantee the output. Although 3D plant point clouds contain abundant phenotypic features, plant leaves are usually distributed in clusters and are sometimes seriously overlapped in the canopy. Therefore, it is still a big challenge to automatically segment each individual leaf from a highly crowded plant canopy in 3D for plant phenotyping purposes. In this work, we propose an overlapping-free individual leaf segmentation method for plant point clouds using the 3D filtering and facet region growing. In order to separate leaves with different overlapping situations, we develop a new 3D joint filtering operator, which integrates a Radius-based Outlier Filter (RBOF) and a Surface Boundary Filter (SBF) to help to separate occluded leaves. By introducing the facet over-segmentation and facet-based region growing, the noise in segmentation is suppressed and labeled leaf centers can expand to their whole leaves, respectively. Our method can work on point clouds generated from three types of 3D imaging platforms, and also suitable for different kinds of plant species. In experiments, it obtains a point-level cover rate of 97% for Epipremnum aureum, 99% for Monstera deliciosa, 99% for Calathea makoyana, and 87% for Hedera nepalensis sample plants. At the leaf level, our method reaches an average Recall at 100.00%, a Precision at 99.33%, and an average F-measure at 99.66%, respectively. The proposed method can also facilitate the automatic traits estimation of each single leaf (such as the leaf area, length, and width), which has potential to become a highly effective tool for plant research and agricultural engineering.",
+  "references": [
+    {
+      "paperId": "03aeea87cfe8978e9b5dc1ae762b177419d6ac07"
+    },
+    {
+      "paperId": "a6f627cd03cc408d6f17ab1aa1bf8371d43f61d5"
+    },
+    {
+      "paperId": "4b83cc99bc91c1c498c82b58d397bd93b4e043bc"
+    },
+    {
+      "paperId": "2f5528d5a7adbcc2c969afcd7e77b71a2e3fcc4a"
+    },
+    {
+      "paperId": "8b8a0a86c715b81dbe27acff22d93a2e533b9e3d"
+    },
+    {
+      "paperId": "3f986198c7618a53518e1f0f122c0ea6b92f68c8"
+    },
+    {
+      "paperId": "3205f4e1ad2077bb9328638d2dc4f2976507c2fe"
+    },
+    {
+      "paperId": "c5252b07cc034b266942165a11001b166b7d017c"
+    },
+    {
+      "paperId": "4ba9bf54b01a540bff4775c12555e78d068e8944"
+    },
+    {
+      "paperId": "f16246e6c1ae4585c705acc8b918820aca742693"
+    },
+    {
+      "paperId": "57d4826b5d242da45000a0e230fdfc2b839cdcf0"
+    },
+    {
+      "paperId": "a398ae4a0c58d4c60fcaabdb32f468f83c93d912"
+    },
+    {
+      "paperId": "cb2cfc6fa9c42c223b1e4d151b7231dfe978ce17"
+    },
+    {
+      "paperId": "f33f52e605bb4c4fe47d8c5fea35fbbaac028df1"
+    },
+    {
+      "paperId": "95ec75e348bcb03e805f87630bf041fab430010a"
+    },
+    {
+      "paperId": "0adadadca682da7c16b266c4587d47bd4f572b58"
+    },
+    {
+      "paperId": "2e0f1d6349d30613a4079fdaca3b9099066ae810"
+    },
+    {
+      "paperId": "8fbd11d68ba451503db174f2c1a0aaf52f1101ef"
+    },
+    {
+      "paperId": "1282c021f488ce715dd9d2c65acc05f60b65d465"
+    },
+    {
+      "paperId": "90d124bbefc30f15f73d2d6467e95ae4d2f592eb"
+    },
+    {
+      "paperId": "2ebfd7bb5647bca0060171c699250bc92bc2fb64"
+    },
+    {
+      "paperId": "d45fc9db10925afa299a4459603651ca55556241"
+    },
+    {
+      "paperId": "4f1a6a3f8d53766299967eb1035d1e869e1e9268"
+    },
+    {
+      "paperId": "a0aaedd253249059252937b53d98b2c958a7ac3c"
+    },
+    {
+      "paperId": "5adbe7067ce196c52598836ef4b452e3268ae229"
+    },
+    {
+      "paperId": "dff5e1d5e3a323e43a3f68d29049ec0facdcbf08"
+    },
+    {
+      "paperId": "b3c785b99ec147049caa47f707f337b717705970"
+    },
+    {
+      "paperId": "87d8b4e5873079e9a71dd3d3fc7e8a219e442d76"
+    },
+    {
+      "paperId": "d9fdd707cedcc44e1bb840e303bf2f78a6386e7e"
+    },
+    {
+      "paperId": "5bc1d57c05e86c57797be7c221f3043fa05cb39e"
+    },
+    {
+      "paperId": "bb4354c7401a0e305d7a1803f39439b3ee4bfacb"
+    },
+    {
+      "paperId": "af7bc7c57d9662e354749979cc08bb0576ef684c"
+    },
+    {
+      "paperId": "e35a4e5a83e5a3f9142e72961ed700fd7bafcad0"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "17875946bd00cdff3a49cc842208fed483ce6118",
+  "externalIds": {
+    "MAG": "3025745903",
+    "DOI": "10.13227/j.hjkx.201712185",
+    "CorpusId": 52295864,
+    "PubMed": "30229617"
+  },
+  "url": "https://www.semanticscholar.org/paper/17875946bd00cdff3a49cc842208fed483ce6118",
+  "title": "[Spatial Interpolation Methods and Pollution Assessment of Heavy Metals of Soil in Typical Areas].",
+  "venue": "Huan jing ke xue= Huanjing kexue",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.13227/j.hjkx.201712185?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13227/j.hjkx.201712185, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51288015",
+      "name": "Hong-Hong Ma"
+    },
+    {
+      "authorId": "152278378",
+      "name": "T. Yu"
+    },
+    {
+      "authorId": "8387189",
+      "name": "Zhongfang Yang"
+    },
+    {
+      "authorId": "14820841",
+      "name": "Q. Hou"
+    },
+    {
+      "authorId": "2114308850",
+      "name": "Qing-Liang Zeng"
+    },
+    {
+      "authorId": "2151036414",
+      "name": "Rui Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

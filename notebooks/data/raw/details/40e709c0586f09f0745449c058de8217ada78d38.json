@@ -1,0 +1,46 @@
+{
+  "paperId": "40e709c0586f09f0745449c058de8217ada78d38",
+  "externalIds": {
+    "MAG": "2968730881",
+    "DOI": "10.1109/ICUAS.2019.8798188",
+    "CorpusId": 201066574
+  },
+  "url": "https://www.semanticscholar.org/paper/40e709c0586f09f0745449c058de8217ada78d38",
+  "title": "A UAV Resolution and Waveband Aware Path Planning for Onion Irrigation Treatments Inference",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2019,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2019.8798188?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2019.8798188, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "134071923",
+      "name": "Haoyu Niu"
+    },
+    {
+      "authorId": "3451909",
+      "name": "Tiebiao Zhao"
+    },
+    {
+      "authorId": "143987329",
+      "name": "Dong Wang"
+    },
+    {
+      "authorId": "50580551",
+      "name": "YangQuan Chen"
+    }
+  ],
+  "abstract": "In the past few years, unmanned aerial vehicles (UAVs), also called drones, have been widely used in precision agriculture applications, such as water stress estimation, pest monitoring, and crop yield estimation, because of the development of UAV technology and remote sensing sensors. However, how to collect data effectively can still be a big challenge. Many UAV tunable parameters can have significant impact on data quality and the data analysis, such as flight height, flight time, overlapping, and airspeed. And, little work has been done regarding to how to extract high-resolution multispectral or thermal images with limited ground-truth measurements. Therefore, in this paper, a UAV resolution and waveband aware design was conducted in order to optimally collecting remote sensing aerial images with drones. Then, the flight mission design was tested in an onion field at USDA (United States Department of Agriculture) during the growing season in 2017. Based on the research results, drones successfully provide farmers and researchers the fundamental knowledge of irrigation management to identify irrigation non-uniformity. Using multispectral and thermal images collected by drones, we are able to apply supervised learning methods to find the relationship between image features and onions irrigation treatments. It also found out that how drones flight height or resolution settings affect the accuracy of estimating onions irrigation treatment. Different spectral bands combination also has effect on onion irrigation treatment prediction.",
+  "references": null
+}

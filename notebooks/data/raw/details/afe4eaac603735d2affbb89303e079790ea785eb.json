@@ -1,0 +1,233 @@
+{
+  "paperId": "afe4eaac603735d2affbb89303e079790ea785eb",
+  "externalIds": {
+    "MAG": "2978634457",
+    "DOI": "10.4081/ija.2019.1367",
+    "CorpusId": 208603717
+  },
+  "url": "https://www.semanticscholar.org/paper/afe4eaac603735d2affbb89303e079790ea785eb",
+  "title": "Nanofertilisers. An outlook of crop nutrition in the fourth agricultural revolution",
+  "venue": "Italian Journal of Agronomy",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.agronomy.it/index.php/agro/article/download/1367/1109",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4081/ija.2019.1367?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4081/ija.2019.1367, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4471820",
+      "name": "L. Marchiol"
+    }
+  ],
+  "abstract": "With the world’s population expected to exceed nine billion by 2050, scientists are working to develop new ways to meet rising global demand for food, energy and water without increasing the strain on natural resources. Organisations including the World Bank and the U.N. Food and Agriculture Organisation are calling for more innovation to address the challenges of the agri-food sector. The wide use of synthetic fertilisers has led to negative impacts on the environment and on farmer economies. Innovative cost-effective and eco-compatible strategies are needed in the modern and in the future precision agriculture. This goal could be achieved by reducing the amount of fertilisers applied on crops, in particular, by finding new techniques to distribute the necessary plant nutrients taking into account water and land scarcity, climate change and ecosystems. Nanotechnology is one of six keyenabling technologies that contribute to smart, sustainable competitiveness and inclusive growth in many sectors. It is expected that properly designed nanostructures will allow controlled release of nutrients to synchronise the release with crops nutritional needs. However, the deliberate introduction of nano-sized materials in agricultural activities raises concerns over the possible implications for human health and the environment. The introduction of nanotechnologies in agriculture still need deepen basic and applied knowledge, however several promising results were achieved, so far. The paper presents an overview on the most recent insights and the perspectives of applied research.",
+  "references": [
+    {
+      "paperId": "8bdf535622c74dc94b61a3ac693def9679c662b5"
+    },
+    {
+      "paperId": "a6ebea78af088462a0e787a1d9fa2079095ae96a"
+    },
+    {
+      "paperId": "d82fff9eb4dbddd83ab9f27c9eb5efaf907e923c"
+    },
+    {
+      "paperId": "5aba504dd85498a8a4fba647918493554eaaff3a"
+    },
+    {
+      "paperId": "8b136ac8f8a5013fd24c12a518e28e0f24fcf01a"
+    },
+    {
+      "paperId": "7549f05630f8180d63fc86287650c34891908d7f"
+    },
+    {
+      "paperId": "46cbd0790712e111d70c7349063f79b5c83f6835"
+    },
+    {
+      "paperId": "09cd36b965c051b3e6d6cee76e70c9d12882f34d"
+    },
+    {
+      "paperId": "ca5822e6545679e3d3b3fb6b9e1f0ab00fab6e46"
+    },
+    {
+      "paperId": "a0e3a52ac9c831b5db371458f091997345e27183"
+    },
+    {
+      "paperId": "71d2213bb9cca537ba0d700c686b999e803861c6"
+    },
+    {
+      "paperId": "6922e41429998be9cf02a3e51ef85fa32f36bd34"
+    },
+    {
+      "paperId": "cd0191c14c2133c4ba97593437cd2752bd91ebb1"
+    },
+    {
+      "paperId": "275caeb289a624a1a7aacbe98b580fe6fa0ef8d7"
+    },
+    {
+      "paperId": "327db0bfef13369c03575aecd5e7757edee3aec1"
+    },
+    {
+      "paperId": "7634dd064e4da33f79891ffa51c604655b01ab5a"
+    },
+    {
+      "paperId": "5b4e37b219a25c81769ac01900ed9a99aa433c25"
+    },
+    {
+      "paperId": "bb5eb4ab53183e93fe92cea019b0a86ba427b087"
+    },
+    {
+      "paperId": "9aff68bfd6fee33fe5c55b011ba65f870c77ef89"
+    },
+    {
+      "paperId": "b10c0b6ffdf4a5542e34607ca6c7bfb82164a547"
+    },
+    {
+      "paperId": "49fe82c6e3c6bc0339c98527b76c58f009ab68d9"
+    },
+    {
+      "paperId": "addb54b04b17cafdd0838446117a79e650f09eac"
+    },
+    {
+      "paperId": "0b58c15ea5037b8f56bf5c0beb5777b2a019c2c6"
+    },
+    {
+      "paperId": "483648da6435982a8f517214a9750b2514be64d3"
+    },
+    {
+      "paperId": "cbb0479d398bb37d0ba393ed66aa3219286bcc52"
+    },
+    {
+      "paperId": "8d353b3f2c54666615a7a9c3d559c202e1a69155"
+    },
+    {
+      "paperId": "a775d824d3b22236118c9bf29e2a49276f956dfe"
+    },
+    {
+      "paperId": "24b9f1ead39580af7884f9b7e2be79851fbef2c2"
+    },
+    {
+      "paperId": "084766ad75ba26d52de06d09c68e150ce0fd1e08"
+    },
+    {
+      "paperId": "8c6cc96f2d928f928050e124788bfd05ec6c5c83"
+    },
+    {
+      "paperId": "304a2dfcd55ec84a60b7d97af84958f5def8ef42"
+    },
+    {
+      "paperId": "c61adc1388c0ab79e8006fe5693f828e2a7caa3a"
+    },
+    {
+      "paperId": "5604dde6ab19f7a18f5405967e910096350930e2"
+    },
+    {
+      "paperId": "21f88fb7a4209a13fe94c96cfd6ff09ef9ade65a"
+    },
+    {
+      "paperId": "688885a160758303b2c80f33c74686821de9ce57"
+    },
+    {
+      "paperId": "3e694397f245413b57cc5efdf8340ee9b566e7d7"
+    },
+    {
+      "paperId": "d20b43e6b7ada40dbd17e96d7afb11a7074f8142"
+    },
+    {
+      "paperId": "160b566e7e8a152654a8307e3530676120dff1fc"
+    },
+    {
+      "paperId": "7e422d22ae642e637ee3a403cfa99241f485038f"
+    },
+    {
+      "paperId": "23e77a3736ff86399c8223d71b142e0ea323f563"
+    },
+    {
+      "paperId": "5581ed8bcd71aca7d17cfadd1bccae2d64b2390c"
+    },
+    {
+      "paperId": "84ced1d62418491a9ba94f25cce6a43106dfbc2e"
+    },
+    {
+      "paperId": "46c1c772752f337c2d71615452fee2576b9c5061"
+    },
+    {
+      "paperId": "e7ba29fdfff1a464f91853d4f0a957fafa62cbde"
+    },
+    {
+      "paperId": "0b6d1df188c8f41ed54d6a5c7e56cbf22aa5a55f"
+    },
+    {
+      "paperId": "7065105c35f7b825366ccdbb22a4741510c9a66c"
+    },
+    {
+      "paperId": "db26953700b6c69faf17858dbce136cad505d2b0"
+    },
+    {
+      "paperId": "5d8d00ed36d06b3794e3c76a2cd40007951ba787"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cf331047bf49eb0d9e3029d739e3ac26cfb9c803"
+    },
+    {
+      "paperId": "c4db398aa323e6d420721402f2d53eee25157643"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2cadb6b00b243d0961ab32950276d1450b78334f"
+    },
+    {
+      "paperId": "547f4128d463d95a69377bad67a90836c305188a"
+    },
+    {
+      "paperId": "88d649ab41daf68ef5e94c6072beb370e6f725eb"
+    },
+    {
+      "paperId": "de6b4577286958a2c2e4b94a208f36051a2c233f"
+    },
+    {
+      "paperId": "c1be395abfc4d425c6b55b6dd807c418f55184dc"
+    },
+    {
+      "paperId": "2fe15ed8b8d87bf39284c32ab7e17f270851d2b7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e169d8560f05d02df87173f470adbc6f9edd2fe1"
+    },
+    {
+      "paperId": "d4094b16397b41dc2ea13020fb7f4c6d6b1599af"
+    },
+    {
+      "paperId": "236cf1e936039c600337ac5df26e455964abac4a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

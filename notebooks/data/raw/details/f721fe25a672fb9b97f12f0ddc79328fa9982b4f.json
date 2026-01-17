@@ -1,0 +1,42 @@
+{
+  "paperId": "f721fe25a672fb9b97f12f0ddc79328fa9982b4f",
+  "externalIds": {
+    "MAG": "2906992326",
+    "DOI": "10.1109/CCRA.2018.8588142",
+    "CorpusId": 57190696
+  },
+  "url": "https://www.semanticscholar.org/paper/f721fe25a672fb9b97f12f0ddc79328fa9982b4f",
+  "title": "Mobility Parameter Estimation for Seamless Indoor-Outdoor Localization Based on Heterogeneous Information Fusion for 4-wheel Vehicles",
+  "venue": "2018 IEEE 2nd Colombian Conference on Robotics and Automation (CCRA)",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCRA.2018.8588142?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCRA.2018.8588142, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "27787707",
+      "name": "Marco Terán"
+    },
+    {
+      "authorId": "145901699",
+      "name": "Henry Carrillo"
+    },
+    {
+      "authorId": "2056617276",
+      "name": "Carlos Parra"
+    }
+  ],
+  "abstract": "This paper presents the design and validation of a mobility parameter estimation system based on heterogeneous information fusion. The GNSS implementation in different fields and applications has increased in recent years, due to the high demand for integrated positioning for engineering solutions, such as precision agriculture, logistics, air vehicles, among others. The GNSS precision depends in turn on many factors and are not all related to the GNSS space segment. There is a tendency to improve the quality of location services by sensor fusion technologies, GPS and inertial navigation systems. Navigation systems implementing GPS and inertial information fusion require the implementation of non-linear filtering, like the Extended Kalman Filter, the Unscented Kalman Filter and the Particle Filter. This document presents a GNSS, BLE and inertial sensor fusion system for a wheeled car. A nonlinear model related and the implementation of three non-linear filters are proposed. The filtering results are comparing. The performance and complexity of the filters are analyzed.",
+  "references": null
+}

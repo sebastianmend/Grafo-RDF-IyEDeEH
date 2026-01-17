@@ -1,0 +1,39 @@
+{
+  "paperId": "5cd819f4bbb88ce3d49a61cada35fd1a00e800cf",
+  "externalIds": {
+    "MAG": "2971129549",
+    "DOI": "10.1108/mrjiam-11-2018-0883",
+    "CorpusId": 201487878
+  },
+  "url": "https://www.semanticscholar.org/paper/5cd819f4bbb88ce3d49a61cada35fd1a00e800cf",
+  "title": "Innovation obstacles in an emerging high tech sector",
+  "venue": "Management Research: Journal of the Iberoamerican Academy of Management",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1108/mrjiam-11-2018-0883?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/mrjiam-11-2018-0883, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Political Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "121917437",
+      "name": "Jeremias Lachman"
+    },
+    {
+      "authorId": "32330624",
+      "name": "A. López"
+    }
+  ],
+  "abstract": "PurposeThe purpose of this paper is to study the factors that act as innovation obstacles in precision agriculture (PA) technologies in Argentina, one of the world leading exporters of cereals and oilseeds. The focus of this study is on the supply side, i.e. the factors that are perceived by PA firms as obstacles for the expansion of their market.Design/methodology/approachBased on a survey to 67 firms that develop PA technologies in Argentina, this study examines the impact of different types of obstacles on firms’ growth and innovation activities. This analysis is complemented with the results that emerge from a series of interviews with different stakeholders (such as firms’ managers, policymakers and experts).FindingsIn this study, it was determined that market and cost factors negatively affect firms’ growth, while institutional obstacles reduce the amount of innovation efforts. In turn, knowledge barriers positively impact on the relevance firms assigned to R&D activities. This study helps identify different strategies that firms have put in place to overcome the barriers they face. Finally, policy implications of the results are discussed.Originality/valuePA technologies may contribute to greening agricultural production and offer an opportunity for the emergence of domestic suppliers of innovative equipment and services based on the use of data science, artificial intelligence and Internet of Things. To the bets of the authors’ knowledge, this is the first study that explores the obstacles that prevent growth and impact on innovation activities of PA firms. The insights from this study are valuable for both researchers and policymakers aiming to foster emergence of high-tech clusters in developing countries.",
+  "references": null
+}

@@ -1,0 +1,47 @@
+{
+  "paperId": "934228973f149bf58b540d284c38eb2046bc59ee",
+  "externalIds": {
+    "MAG": "2951128604",
+    "DBLP": "journals/jaihc/AgrawalDIC20",
+    "DOI": "10.1007/s12652-019-01359-2",
+    "CorpusId": 195250964
+  },
+  "url": "https://www.semanticscholar.org/paper/934228973f149bf58b540d284c38eb2046bc59ee",
+  "title": "An improved energy efficient system for IoT enabled precision agriculture",
+  "venue": "Journal of Ambient Intelligence and Humanized Computing",
+  "year": 2019,
+  "citationCount": 67,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12652-019-01359-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12652-019-01359-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50727189",
+      "name": "H. Agrawal"
+    },
+    {
+      "authorId": "65832351",
+      "name": "R. Dhall"
+    },
+    {
+      "authorId": "46292095",
+      "name": "K. Iyer"
+    },
+    {
+      "authorId": "47630941",
+      "name": "Vijayalakshmi Chetlapalli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

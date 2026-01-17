@@ -1,0 +1,52 @@
+{
+  "paperId": "4312dd693e6708254a724e9d78b090a320e58dd5",
+  "externalIds": {
+    "MAG": "2802852942",
+    "DBLP": "journals/aeog/CaminoGHSZ18",
+    "DOI": "10.1016/J.JAG.2018.04.013",
+    "CorpusId": 205658614
+  },
+  "url": "https://www.semanticscholar.org/paper/4312dd693e6708254a724e9d78b090a320e58dd5",
+  "title": "Improved nitrogen retrievals with airborne-derived fluorescence and plant traits quantified from VNIR-SWIR hyperspectral imagery in the context of precision agriculture",
+  "venue": "International Journal of Applied Earth Observation and Geoinformation",
+  "year": 2018,
+  "citationCount": 103,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JAG.2018.04.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JAG.2018.04.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143801464",
+      "name": "C. Camino"
+    },
+    {
+      "authorId": "1398285553",
+      "name": "V. González-Dugo"
+    },
+    {
+      "authorId": "143776192",
+      "name": "P. Hernández"
+    },
+    {
+      "authorId": "2394465668",
+      "name": "Josefina C. Sillero"
+    },
+    {
+      "authorId": "1402203033",
+      "name": "P. Zarco-Tejada"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

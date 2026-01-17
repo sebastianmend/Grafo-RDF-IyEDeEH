@@ -1,0 +1,43 @@
+{
+  "paperId": "6ab8fcaa80b173db460bd2985a43bed55016e489",
+  "externalIds": {
+    "MAG": "2969489627",
+    "DOI": "10.1109/IICITA.2019.8808839",
+    "CorpusId": 201621623
+  },
+  "url": "https://www.semanticscholar.org/paper/6ab8fcaa80b173db460bd2985a43bed55016e489",
+  "title": "Internet of Things in agriculture: A survey",
+  "venue": "IoT",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IICITA.2019.8808839?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IICITA.2019.8808839, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2055548438",
+      "name": "Mahmoud Abbasi"
+    },
+    {
+      "authorId": "31936866",
+      "name": "M. Yaghmaee"
+    },
+    {
+      "authorId": "94065102",
+      "name": "F. Rahnama"
+    }
+  ],
+  "abstract": "Increasing food consumption, asking for quality food, and environmental impacts of agriculture lead to has used information technology in the agriculture sector, which comes under the heading of precision agriculture. Internet of things (IOT) is a technology that is growing rapidly in recent years and brings numerous benefits with it for agriculture. Because of the heterogeneous and enormous amount of data collected by IoT devices, future of internet of things (IoT) agricultural applications depend on cloud computing. At the same time, microcontrollers will add new abilities to the internet of things (IoT). In this survey, the research trend, the concepts, fundamental components of IOT, the challenges, and IOT applications in agriculture are examined. Firstly, the numbers of published papers in this field reviewed. Secondly, IOT definition and IOT architecture together with its layers are introduced. Thirdly, some involved technologies in the IOT are compared; finally, the main challenges in IOT and precision agriculture (PA) are considered.",
+  "references": null
+}

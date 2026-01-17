@@ -1,0 +1,55 @@
+{
+  "paperId": "79d8b29fc657a23928e2d95fa6553cd4e1adceae",
+  "externalIds": {
+    "MAG": "2963740167",
+    "DBLP": "conf/wf-iot/KjellbyCFBJB19",
+    "DOI": "10.1109/WF-IoT.2019.8767196",
+    "CorpusId": 198144900
+  },
+  "url": "https://www.semanticscholar.org/paper/79d8b29fc657a23928e2d95fa6553cd4e1adceae",
+  "title": "Long-range & Self-powered IoT Devices for Agriculture & Aquaponics Based on Multi-hop Topology",
+  "venue": "World Forum on Internet of Things",
+  "year": 2019,
+  "citationCount": 43,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WF-IoT.2019.8767196?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WF-IoT.2019.8767196, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40882181",
+      "name": "Rolf Arne Kjellby"
+    },
+    {
+      "authorId": "1776092",
+      "name": "Linga Reddy Cenkeramaddi"
+    },
+    {
+      "authorId": "1409991391",
+      "name": "Anders Frøytlog"
+    },
+    {
+      "authorId": "1399017126",
+      "name": "B. Beferull-Lozano"
+    },
+    {
+      "authorId": "145826585",
+      "name": "J. Soumya"
+    },
+    {
+      "authorId": "2065601097",
+      "name": "Meghana Bhange"
+    }
+  ],
+  "abstract": "This article presents the prototype design and testing of a long-range, self-powered IoT devices for use in precision agriculture and aquaponics. The devices are designed using the ultra-low power nRF52840 microcontroller with Bluetooth 5 support and ambient energy harvesting. A power of 942µW is harvested in an indoor environment. The devices are therefore suitable for both indoor and outdoor use, as natural sunlight will provide far more energy compared to artificial indoor lights. A line-of-sight range of up to 1.8km is achieved with the use of coded transmissions. However, the coverage area and range can be extended significantly by deploying the devices in multi-hop network topology. The custom multi-hop protocol provides energy efficient communication from any device in a wireless sensor network to a gateway while consuming an average of 267µW with a transmission interval of 5 minutes. The sensor data is transmitted to a gateway, which then forwards it to a local server or cloud service, where the data can be analyzed to optimize the production in agriculture and aquaponics.",
+  "references": null
+}

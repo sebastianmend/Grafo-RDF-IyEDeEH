@@ -1,0 +1,39 @@
+{
+  "paperId": "eb4c5f3f72800be8629d8f27ca45381aafa2b8ef",
+  "externalIds": {
+    "DBLP": "journals/cys/DasD19",
+    "MAG": "2935497668",
+    "DOI": "10.13053/CYS-23-1-2815",
+    "CorpusId": 106407170
+  },
+  "url": "https://www.semanticscholar.org/paper/eb4c5f3f72800be8629d8f27ca45381aafa2b8ef",
+  "title": "Node Position Estimation for Efficient Coverage Hole-Detection in Wireless Sensor Network",
+  "venue": "Journal of Computacion y Sistemas",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.13053/CYS-23-1-2815?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13053/CYS-23-1-2815, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2143480130",
+      "name": "Smita Das"
+    },
+    {
+      "authorId": "9069676",
+      "name": "M. Debbarma"
+    }
+  ],
+  "abstract": "In recent times, Wireless Sensor Networks (WSNs) have active involvement in diverse applications such as: environment monitoring, security \\& surveillance, health care, precision agriculture, industrial applications and many more.  Generally, sensor nodes are deployed randomly in such applications. Therefore, estimation of node location is a legitimate problem in WSNs, due to the fact that uncovered region can result in coverage-holes in the network. One state-of-art solution of this problem is Global Positioning System (GPS) but GPS based solution to localize a node might not be worthy due to the cost of extra hardware and power requirements. Therefore, a low cost solution to this problem might be Computational Geometry based approach to localize a node. In this paper, we first find out distance between Anchor Node (AN) and Unknown Node (UN) based on RSSI Profiling. Subsequently, the node location is estimated using Trilateration. Finally, a Delaunay Triangle is constructed on the basis of node location information. Then the property of empty circle is used to recognize whether coverage hole is present or not in the given ROI. Correctness of the algorithm is checked based on the simulations and theoretical proofs.",
+  "references": null
+}

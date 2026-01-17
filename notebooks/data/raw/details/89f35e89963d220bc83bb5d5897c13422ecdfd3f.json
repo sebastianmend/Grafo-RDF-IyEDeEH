@@ -1,0 +1,38 @@
+{
+  "paperId": "89f35e89963d220bc83bb5d5897c13422ecdfd3f",
+  "externalIds": {
+    "MAG": "2312572076",
+    "DOI": "10.1117/12.2202333",
+    "CorpusId": 131335898
+  },
+  "url": "https://www.semanticscholar.org/paper/89f35e89963d220bc83bb5d5897c13422ecdfd3f",
+  "title": "Hyperspectral and multispectral high spatial resolution segmentation and classification in precision agriculture",
+  "venue": "International Conference on Intelligent Earth Observing and Applications 2015",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2202333?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2202333, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2373886",
+      "name": "A. Bannari"
+    },
+    {
+      "authorId": "46812094",
+      "name": "Yannick Lanthier"
+    }
+  ],
+  "abstract": "ABSTRACT This paper reports on a comparative study between supervised pixels and objects oriented classifications in precision agriculture context using hyperspectral and multispectral high spatial resolution images; which were acquired with the hyperspectral airborne Probe-1 and IKONOS sensors. These were acquired simultaneously with the same pixel size (4 m) over agricultural experimental site. The raw data were transformed to absolute ground reflectance using calibration coefficients and corrected atmospherically using MODTRAN-4. 2 radiative transfer code. As well, they were rectified geometrically. Then, pixels oriented classifications were carried out using the maximum likelihood algorithm, and objects oriented classifications with a hierarchical segmentation and nearest neighbor classifier. After segmentation, statistics comparison on the mean difference to neighbor objects confirmed that the segments had minimum mixing effects in respect to other segmentation levels and neighbor ing ground entities. Accuracy analysis has been done using a global and individual classes Kappa coefficients. The obtained results confirm that the objects oriented classification improve significantly (~ 8% ) the accuracy for individual crop classes comparatively to pixels oriented classification; also the global classification Kappa coefficient was improved with 5%, independently to the used sensor . Moreover, this study highlight the potential of hyperspectral data discrimination power for classification in precision agriculture generating unique spectral signatures, maximizing separability a nd distinguishing clearly among the considered classes. Key words: Segmentation, pixels and objects oriented classifications, hyperspectral, Probe-1 sensor, IKONOS high spatial resolution, mapping, precision agriculture.",
+  "references": null
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "ac443edc5830e99cddab8711cc5551320c6a9060",
+  "externalIds": {
+    "MAG": "3007574592",
+    "DBLP": "conf/iceis/0001ST19",
+    "DOI": "10.1007/978-3-030-40783-4_7",
+    "CorpusId": 212419728
+  },
+  "url": "https://www.semanticscholar.org/paper/ac443edc5830e99cddab8711cc5551320c6a9060",
+  "title": "Usage of Smart Contracts with FCG for Dynamic Robot Coalition Formation in Precision Farming",
+  "venue": "International Conference on Enterprise Information Systems",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-40783-4_7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-40783-4_7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145157171",
+      "name": "A. Smirnov"
+    },
+    {
+      "authorId": "144214373",
+      "name": "L. Sheremetov"
+    },
+    {
+      "authorId": "3137478",
+      "name": "N. Teslya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

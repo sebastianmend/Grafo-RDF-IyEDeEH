@@ -1,0 +1,39 @@
+{
+  "paperId": "b985e6fa6081d0dace1bf57f661f0d6155d69931",
+  "externalIds": {
+    "MAG": "2934996891",
+    "DBLP": "conf/conielecomp/TejedaC19",
+    "DOI": "10.1109/CONIELECOMP.2019.8673182",
+    "CorpusId": 102353514
+  },
+  "url": "https://www.semanticscholar.org/paper/b985e6fa6081d0dace1bf57f661f0d6155d69931",
+  "title": "Algorithm of Weed Detection in Crops by Computational Vision",
+  "venue": "International Conference on Electronics, Communications, and Computers",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CONIELECOMP.2019.8673182?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CONIELECOMP.2019.8673182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2053673817",
+      "name": "A. Tejeda"
+    },
+    {
+      "authorId": "2053180408",
+      "name": "R. C. Castro"
+    }
+  ],
+  "abstract": "This research has been based on the use of precision agriculture tools for the management of weeds in crops. It has focused on the creation of an image-processing algorithm to detect the existence of weeds in a specific site of crops. The main objective has been to obtain a formula so that a weed detection system can be developed through binary classifications. The initial step of image processing is the detection of green plants in order to eliminate all the soil in the image, reducing information that is not necessary. Then, it has focused on the vegetation by segmentation and eliminating unwanted information through medium and morphological filters. Finally, a labeling of objects has been made in the image so that weed detection can be done using a threshold based on the area of detection. This algorithm establishes an accurate monitoring of weeds and can be implemented in automated systems for the eradication of weeds in crops, either through the use of automated sprayers for specific site or a weed-cutting mechanism. In addition, it increases the performance of operational processes in crop management, reducing the time spent searching for weeds throughout a plot of land and focusing weed removal tasks on specific sites for effective control.",
+  "references": null
+}

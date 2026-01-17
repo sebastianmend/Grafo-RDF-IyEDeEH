@@ -1,0 +1,47 @@
+{
+  "paperId": "fbed87e4b6d624abce24d3c79053b80b68fac2ae",
+  "externalIds": {
+    "DBLP": "conf/wd/TropeaSPR19",
+    "MAG": "2951002863",
+    "DOI": "10.1109/WD.2019.8734209",
+    "CorpusId": 189824280
+  },
+  "url": "https://www.semanticscholar.org/paper/fbed87e4b6d624abce24d3c79053b80b68fac2ae",
+  "title": "Bio-Inspired Recruiting Protocol for FANET in Precision Agriculture Domains: Pheromone Parameters Tuning",
+  "venue": "Wireless Days",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WD.2019.8734209?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WD.2019.8734209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1805281",
+      "name": "M. Tropea"
+    },
+    {
+      "authorId": "9292304",
+      "name": "A. Santamaria"
+    },
+    {
+      "authorId": "27335189",
+      "name": "Giuseppe Potrino"
+    },
+    {
+      "authorId": "1721408",
+      "name": "F. Rango"
+    }
+  ],
+  "abstract": "Unmanned Aerial Vehicles (UAVs) are one of the most important areas of technological research thanks to its rapid development. They find application in many aspects of real world such as precision agriculture where they are able to give a ’big hand’ to the farmers’ issues. This paper deals with the use of UAVs, also called drones, in the precision agriculture domain in order to face parasites or sudden climate changes issues that can severely affect the agricultural products quality. These new technologies can support farmers to face the threats and, in the specific case, to kill parasites that can destroy plants in the cultivated field. In this work a recruiting protocol based on a bio-inspired approach is presented, showing the performance of the proposed mechanism varying different algorithm parameters in order to tune in appropriate way the algorithm implementation.",
+  "references": null
+}

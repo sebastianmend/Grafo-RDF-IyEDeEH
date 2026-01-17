@@ -1,0 +1,41 @@
+{
+  "paperId": "c1cbb62b99a1d4669b24bf64e51bfddbafd0708d",
+  "externalIds": {
+    "MAG": "2794407403",
+    "DOI": "10.1007/s11356-018-1738-3",
+    "CorpusId": 41032475,
+    "PubMed": "29569196"
+  },
+  "url": "https://www.semanticscholar.org/paper/c1cbb62b99a1d4669b24bf64e51bfddbafd0708d",
+  "title": "Environmental and human health issues related to pesticides: from usage and environmental fate to impact",
+  "venue": "Environmental science and pollution research international",
+  "year": 2018,
+  "citationCount": 50,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2Fs11356-018-1738-3.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-018-1738-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-018-1738-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Editorial",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "4831227",
+      "name": "H. Budzinski"
+    },
+    {
+      "authorId": "4390479",
+      "name": "M. Couderchet"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

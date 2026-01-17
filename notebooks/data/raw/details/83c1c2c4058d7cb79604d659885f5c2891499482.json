@@ -1,0 +1,97 @@
+{
+  "paperId": "83c1c2c4058d7cb79604d659885f5c2891499482",
+  "externalIds": {
+    "MAG": "2970878665",
+    "DOI": "10.4314/acsj.v27i3.14",
+    "CorpusId": 202846715
+  },
+  "url": "https://www.semanticscholar.org/paper/83c1c2c4058d7cb79604d659885f5c2891499482",
+  "title": "Revisiting application of statistics in Agricultural Research in sub-Saharan Africa: Entry points for improvement",
+  "venue": "African Crop Science Journal",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.4314/acsj.v27i3.14",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4314/acsj.v27i3.14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4314/acsj.v27i3.14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3572074",
+      "name": "T. Odong"
+    },
+    {
+      "authorId": "107725397",
+      "name": "J. Tenywa"
+    },
+    {
+      "authorId": "3729174",
+      "name": "M. Nabasirye"
+    }
+  ],
+  "abstract": "The importance of statistics in empowering the agricultural research process and sharpening interventions cannot be over-emphasized. Undocumented evidence points to misconceptions, misuse or underuse of statistics among agricultural researchers in sub-Saharan Africa (SSA); pointing to the possibility that the subject has been part of the causes the unfulfilled targets in the agricultural sector in the region. The objective of this study was to analyse and document weaknesses in statistical practice in agricultural research, with a view to identifying entry points for strengthening the performance of the sector for SSA to be able to achieve its set goals. A desk study involving 165 research articles published in the African Crop Science Journal over the period of 17 years (2000 to 2017) was conducted through a rigorous SWOT analysis for issues related to the use of statistics in the implementation of agricultural research in SSA. A checklist consisting of key elements related to study design; data collection, analysis and exploitation; and presentation, was used to guide the interrogation. Findings indicated that researchers generally made explicit description of treatment structures that fairly matched the study objectives and hypotheses (in the few cases where they were stated), with a few weaknesses in the description of factorial treatment structure. The Randomised Complete Block Design was most commonly used among the designs, with 3-4 replicates. However, there was hardly any justification for its use, as the blocking factors were never mentioned and thus their role in determining the precision of the results was difficult to determine. Analysis of Variance was the main method for data analysis, followed by correlations. The F-test and the associated P-values were the basis for decisions on treatment differences. Most researchers had problems with presentation and interpretation of P-values and significance level. Post adhoc tests mostly used the Least Significant Difference (LSD) for pairwise mean comparisons, with little consideration for the treatment structure, the number of treatments and the nature (qualitative or quantitative). Generally, estimates of treatment means were presented together with various measures of precision, in both tables and graphical forms. In several cases, LSD was used or misused interchangeably with standard error (SE) or standard error of difference (SED). Several statistical software were used for data analysis and presentation, with the main ones being SAS, Genstat and MSTAT-C. Key entry points for improvement heavily lie in human and infrastructural resource capacity improvement, most specifically in (i) periodic review of university and other tertiary institutions’ curricula to provide sufficient time allocation, physical space and relevant infrastructure for true hands on practice; (ii) more effective utilisation of the few statisticians available in the region, (iii) short term staff in-service retooling courses, (iv) sustained statistical service units wherever necessary, and (v) provision for periodic interactive statistician-researcher platforms (such as conferences and workshops) for sharing notes on challenges and achievements during implementation of their research programmes. Key words: Experimental design, P-values, SWOT analysis",
+  "references": [
+    {
+      "paperId": "2af3a80bb7c9330c50ae651b68842a7096588a0d"
+    },
+    {
+      "paperId": "7dcfb02575cfa12bedfabacf1848a539d5cf8f37"
+    },
+    {
+      "paperId": "1a6b1169ebe60ff25328f94e9fb03bf2ba916b53"
+    },
+    {
+      "paperId": "5c1c2049c5c56db5f2b572cfc1aca1d40e1b3d32"
+    },
+    {
+      "paperId": "76a4e95fa7985c7d5c1819ca7ab8965b36d8ac82"
+    },
+    {
+      "paperId": "81a65f23474ffceb2481836328608102950da979"
+    },
+    {
+      "paperId": "827748f982e0e913ead3b82e14bfae7289328dec"
+    },
+    {
+      "paperId": "08377926703172f2582557471e360561b56314e4"
+    },
+    {
+      "paperId": "9ae460a66d4a9f907caf57ba8c7dc235cda148e9"
+    },
+    {
+      "paperId": "abda258ba4032d224ebe250a7149c36346ff835d"
+    },
+    {
+      "paperId": "b6b1fc501f12b61227ee6599646061e095e82bb3"
+    },
+    {
+      "paperId": "0bf12b152ffb234c8c07557cd72b3f5ab38079b6"
+    },
+    {
+      "paperId": "714ba28a49a0804ad4009432590ce88537873db0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

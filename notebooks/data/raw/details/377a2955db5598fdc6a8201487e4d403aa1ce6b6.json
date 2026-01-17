@@ -1,0 +1,307 @@
+{
+  "paperId": "377a2955db5598fdc6a8201487e4d403aa1ce6b6",
+  "externalIds": {
+    "PubMedCentral": "6079234",
+    "MAG": "2809025269",
+    "DOI": "10.3389/fmicb.2018.01511",
+    "CorpusId": 51874222,
+    "PubMed": "30108550"
+  },
+  "url": "https://www.semanticscholar.org/paper/377a2955db5598fdc6a8201487e4d403aa1ce6b6",
+  "title": "Combinational Inhibitory Action of Hedychium spicatum L. Essential Oil and γ-Radiation on Growth Rate and Mycotoxins Content of Fusarium graminearum in Maize: Response Surface Methodology",
+  "venue": "Frontiers in Microbiology",
+  "year": 2018,
+  "citationCount": 21,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.01511/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6079234, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6971378",
+      "name": "N. K. Kalagatur"
+    },
+    {
+      "authorId": "51113105",
+      "name": "J. R. Kamasani"
+    },
+    {
+      "authorId": "4575790",
+      "name": "C. Siddaiah"
+    },
+    {
+      "authorId": "2110651217",
+      "name": "V. Gupta"
+    },
+    {
+      "authorId": "2064968334",
+      "name": "K. Krishna"
+    },
+    {
+      "authorId": "6867047",
+      "name": "Venkataramana Mudili"
+    }
+  ],
+  "abstract": "Nowadays, contamination of agricultural commodities with fungi and their mycotoxins is one of the most annoying with regard to food safety and pose serious health risk. Therefore, there is a requisite to propose suitable mitigation strategies to reduce the contamination of fungi and mycotoxins in agricultural commodities. In the present study, combinational inhibitory effect of Hedychium spicatum L. essential oil (HSEO) and radiation was established on growth rate, production of deoxynivalenol (DON) and zearalenone (ZEA) by Fusarium graminearum in maize grains. The HSEO was obtained from rhizomes by hydrodistillation technique and chemical composition was revealed by GC-MS analysis. A total of 48 compounds were identified and major compounds were 1,8-cineole (23.15%), linalool (12.82%), and β-pinene (10.06%). The discrete treatments of HSEO and radiation were effective in reducing the fungal growth rate and mycotoxins content, and the complete reduction was noticed at 3.15 mg/g of HSEO and 6 kGy of radiation. Response surface methodology (RSM) was applied to evaluate the combinational inhibitory effect of HSEO and radiation treatments on fungal growth rate and mycotoxins content. A total of 13 experiments were designed with distinct doses of HSEO and radiation by central composite design (CCD) of Stat-Ease Design-Expert software. In combinational approach, complete reductions of fungal growth, DON, and ZEA content were noticed at 1.89 mg/g of HSEO and 4.12 kGy of radiation treatments. The optimized design concluded that combinational treatments of HSEO and radiation were much more effective in reducing the fungal growth and mycotoxins content compared to their discrete treatments (p < 0.05). Responses of the design were assessed by second-order polynomial regression analysis and found that quadratic model was well fitted. The optimized design has larger F-value and adequate precision, smaller p-value, decent regression coefficients (R2) and found statistically significant (p < 0.05). In addition, correlation matrix, normal plot residuals, Box-Cox, and actual vs. predicted plots were endorsed that optimized design was accurate and appropriate. The proposed combinational decontamination technique could be highly applicable in agriculture and food industry to safeguard the food and feed products from fungi and mycotoxins.",
+  "references": [
+    {
+      "paperId": "ce3a2c7d2acbbe9760bf9025febf94ffa3f9ed19"
+    },
+    {
+      "paperId": "5df24f5dcb09a711c9dd4b83a517b940619002cb"
+    },
+    {
+      "paperId": "09650db440837cc3ae9ab15dd2235214816b371e"
+    },
+    {
+      "paperId": "bd9ae5a571df40d844186700c185e372f2840b06"
+    },
+    {
+      "paperId": "a25bc1cb3c65789087700de383ae1a3d236a94a9"
+    },
+    {
+      "paperId": "5ef4cdf60be90878825bd11439b4ce46bdbf4875"
+    },
+    {
+      "paperId": "0e6d0585c8e27587c23556cb1343a75d6aa2b61f"
+    },
+    {
+      "paperId": "8e9858b3f50a44728ffa786af0345eeb2b9a51b4"
+    },
+    {
+      "paperId": "7fbf3daaa3ade6725f927be33208ea67be450aaa"
+    },
+    {
+      "paperId": "3c69d63a60160f5da9cc11fcecc002c8333163fe"
+    },
+    {
+      "paperId": "30fa29cb2a50c7957d320b86d2f3ef48091a2319"
+    },
+    {
+      "paperId": "9bd133c1de74d6b434d91213b7cebee33465ea71"
+    },
+    {
+      "paperId": "2c192909300e9fa28c331bdcd7d4106bdc688444"
+    },
+    {
+      "paperId": "f53445bfdc880d928208218f790adfb9acd43727"
+    },
+    {
+      "paperId": "2789d472099701fc8f007e15b3ffc0e301cafbd1"
+    },
+    {
+      "paperId": "d3cae6f7f268c9802e56bb9e42564a72d8b650db"
+    },
+    {
+      "paperId": "d5e94658c697540a1cc91ff71e1e967f41357ed2"
+    },
+    {
+      "paperId": "b0bfb35823e7b5022adc4190fe909df2b42f7809"
+    },
+    {
+      "paperId": "a177e0bc8f445186e5cd23a25af49ea0b74d7cd3"
+    },
+    {
+      "paperId": "fbe9c7df0e6d080318d98e83413bf6521d605b5b"
+    },
+    {
+      "paperId": "cd796901d09136aff0004dcf103f4efb690568b8"
+    },
+    {
+      "paperId": "7914d223c3031138e7d392189426128385ae02d9"
+    },
+    {
+      "paperId": "3fcd97f04b74dc4cd4cb2fab5f477c5388f144ef"
+    },
+    {
+      "paperId": "bed73bbc675799f5a43764864c9b14fd8bb85c59"
+    },
+    {
+      "paperId": "d60382f501c855cb8488794d81549ed37ce41293"
+    },
+    {
+      "paperId": "174d6df2e9a6c1fe74e344c2b8ee779744c637f4"
+    },
+    {
+      "paperId": "f5174cb251587abec461478ee74b22ada33b3eeb"
+    },
+    {
+      "paperId": "93b2b0c493603dee5ea86a27e5e4b06c3ec30b92"
+    },
+    {
+      "paperId": "ce9ca6e919778cf9a45c43a47859ca73579e131f"
+    },
+    {
+      "paperId": "1d06cc1bb32d180b2694e6768e7d675e662c98f8"
+    },
+    {
+      "paperId": "3dbe1df939b84ff7b7f24066abc88e6a05c59618"
+    },
+    {
+      "paperId": "9db0c540092b8ccc4a2137c2713529dd61a73b04"
+    },
+    {
+      "paperId": "904201c1749e1ea1d76142915984a606214de22a"
+    },
+    {
+      "paperId": "ece9b84856a7c5f5f3d2e1550eb7e4599b061751"
+    },
+    {
+      "paperId": "7ebad46d537d8e6144e078c4e7bf0784037bdc52"
+    },
+    {
+      "paperId": "03739d340cc2559442027a46e7db720673a62015"
+    },
+    {
+      "paperId": "c8701990a9838b895a00292e04cb2a17cb164faa"
+    },
+    {
+      "paperId": "9a9fae6522d12d04cec8d674a5b1f43979fffbaa"
+    },
+    {
+      "paperId": "b44d4f04267b71efe41f0cd5f26b38ba541b5154"
+    },
+    {
+      "paperId": "e7a2e8c30868fa6b4f20f853cfd97644c2e6932a"
+    },
+    {
+      "paperId": "479983db1294bc32a5940446a213afc5ac95eb83"
+    },
+    {
+      "paperId": "5faa83d6f5b2cf9fb629216d095b8ddb6a34d9f1"
+    },
+    {
+      "paperId": "5bf2835157d33455eaff2850535baa8842d26f13"
+    },
+    {
+      "paperId": "b8f4985658970c23fe22f27433d16945644eb29d"
+    },
+    {
+      "paperId": "66906ca6414e4ff9eb4a4fb0a9473b07c9e4c18f"
+    },
+    {
+      "paperId": "bf9c0e5c95f5cae289d90849dc849269e95d0479"
+    },
+    {
+      "paperId": "503b6a0861ff1d7085114e28fbf3223be0caa5be"
+    },
+    {
+      "paperId": "e835af8cb77452684c123a23998b3ef81f5b7ebe"
+    },
+    {
+      "paperId": "95de52e114bc0d1a4ee052780097d869350fc187"
+    },
+    {
+      "paperId": "535eb1034ca1de88cec27293c8b5fd5387d9f823"
+    },
+    {
+      "paperId": "ab2f98c7c75d7376434311e5720d869f370d7e6f"
+    },
+    {
+      "paperId": "4d3c93f6140549ae16a7287148f54f14780408c0"
+    },
+    {
+      "paperId": "8bdcb60d610de16b36d27680ef13b85656dbd607"
+    },
+    {
+      "paperId": "94ad936c784b9bff893c223776f0a0a39221de16"
+    },
+    {
+      "paperId": "989a49c91cfbf438d246dfb4919dd99aed82db00"
+    },
+    {
+      "paperId": "03d7d21b898490c4887bbbfc19c5f5fba51a6380"
+    },
+    {
+      "paperId": "6a7d302f8fdbbb85ab322f59b1115acea142b478"
+    },
+    {
+      "paperId": "301715c772b224442548c9bec77407a967a7b64a"
+    },
+    {
+      "paperId": "abebc28edebd667a3e56ff99f73606ba6ab9c480"
+    },
+    {
+      "paperId": "1bfb16d5efac320a1e285562a31d24b8a406ea9e"
+    },
+    {
+      "paperId": "c83dcd9a497ea6ba78d4f620b3b1d69e54f8028b"
+    },
+    {
+      "paperId": "015d48141e996a17144dbe8f2398d742cf132bfe"
+    },
+    {
+      "paperId": "287af01fe8a9935eeee7ed00ea5413a20afb5640"
+    },
+    {
+      "paperId": "2ab296dcbe7bd356c7a5ceadcacc768135644a65"
+    },
+    {
+      "paperId": "dc247ecbdbda9ba596aed4aa9211dcc7e5bc6c4a"
+    },
+    {
+      "paperId": "6224fbe8e416a2c306598ad8a3a1792df79aa59b"
+    },
+    {
+      "paperId": "741bb8a8af756383f327eca7134761e4574d65d2"
+    },
+    {
+      "paperId": "df7115ba65063e362a5bbc4e261175b666df9c63"
+    },
+    {
+      "paperId": "65e18beb89b37f1df79fb7eeae2994027542375c"
+    },
+    {
+      "paperId": "11ff5157be15db50acc320985cecdf39b8e30cbc"
+    },
+    {
+      "paperId": "42274369a8029f692e308d365c58e66d0c72755d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a1d0c32332cb3d13aa445712c7adb17cdf949f54"
+    },
+    {
+      "paperId": "cc1feeb2db4b4a88cb794630ef930671548c18a6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "293efa3c95fc2eca0c9fdae1b66bd39a184f0c93"
+    },
+    {
+      "paperId": "6478e7dab6ed6e35482835bb15431c0aaa01f536"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2cb64de1bae6ae8d8698df6944fe00967d77a35c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

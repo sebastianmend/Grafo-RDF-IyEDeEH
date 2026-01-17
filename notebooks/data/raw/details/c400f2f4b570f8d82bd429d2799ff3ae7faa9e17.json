@@ -1,0 +1,224 @@
+{
+  "paperId": "c400f2f4b570f8d82bd429d2799ff3ae7faa9e17",
+  "externalIds": {
+    "MAG": "2967602407",
+    "DBLP": "journals/access/Cabral-PachecoV19",
+    "DOI": "10.1109/ACCESS.2019.2935307",
+    "CorpusId": 201651013
+  },
+  "url": "https://www.semanticscholar.org/paper/c400f2f4b570f8d82bd429d2799ff3ae7faa9e17",
+  "title": "Performance Analysis of Multi-Hop Broadcast Protocols for Distributed UAV Formation Control Applications",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08798624.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2935307?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2935307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1413765234",
+      "name": "E. G. Cabral-Pacheco"
+    },
+    {
+      "authorId": "1403274810",
+      "name": "S. Villarreal-Reyes"
+    },
+    {
+      "authorId": "1404335758",
+      "name": "A. Galaviz-Mosqueda"
+    },
+    {
+      "authorId": "2261102356",
+      "name": "Sergio Villarreal-Reyes"
+    },
+    {
+      "authorId": "1405283179",
+      "name": "R. Rivera-Rodríguez"
+    },
+    {
+      "authorId": "1411693702",
+      "name": "A. Perez-Ramos"
+    }
+  ],
+  "abstract": "Multi-unmanned aerial vehicle (multi-UAV) systems have become popular in applications such as precision agriculture, remote sensing, and pollution monitoring. Commonly, multi-UAV systems require to reach and maintain a specific flight formation during mission execution. This can be achieved by using a distributed UAV formation control strategy in which each UAV has a flight controller whose function is to calculate the control actions for the UAV actuators such that the UAV formation is maintained. To perform this task, the control strategy requires the reliable and timely exchange of information within the UAV formation. The information that is needed by the controller is commonly referred to as state information (SI). It has been assumed that SI can be properly disseminated by means of multi-hop communications, i.e., by deploying a flying ad-hoc network (FANET). In this sense, multi-hop broadcast protocols (MBPs) that were previously proposed for mobile and vehicular ad-hoc networks seem to be suited for this task. However, previous work dealing with distributed UAV formation control has made communication and networking assumptions that would be hard to fulfill in actual FANET deployments. Moreover, the efficiency of the MBPs to disseminate SI within a FANET remains unexplored. The goal of this paper is to analyze how the network performance offered by different MBPs impacts the effectiveness of distributed UAV formation control to maintain UAV formation. An evaluation framework to perform this task is proposed in this paper. The simulation results demonstrate the relevance of MBP performance in SI message dissemination and thus in the ability of the controller to maintain a formation.",
+  "references": [
+    {
+      "paperId": "4332b1785668df0533c40550968132d4fedd8039"
+    },
+    {
+      "paperId": "8787a43109cbe5decfd57cea63f7a25cbe400ff8"
+    },
+    {
+      "paperId": "f0ba52741da80afaf54fa08855469616766b13f4"
+    },
+    {
+      "paperId": "d9c14c0837d22dee448b8fbd8cd70e9f89d99fe4"
+    },
+    {
+      "paperId": "22c2e207fecc6160bd5f3ae969df862b3394461c"
+    },
+    {
+      "paperId": "bef9d9edd340eb09e2cda37cb7f4d4886a36fe66"
+    },
+    {
+      "paperId": "28782720478f925f3ab61c2ee80ac633a18865df"
+    },
+    {
+      "paperId": "3f83df80e1b5dc2397aa21d892b95181bf7307e9"
+    },
+    {
+      "paperId": "6f09c690a426dfc8fbe4ae3f57a806f62fb270f4"
+    },
+    {
+      "paperId": "24092d0cf11ac0d82669609e1d5d558c6fbd8ad1"
+    },
+    {
+      "paperId": "52a749aacfc4de71ba3646f99a97d990eb6c0faf"
+    },
+    {
+      "paperId": "33e5da927c1e9592917a025576275a00b45bae9b"
+    },
+    {
+      "paperId": "7bbb7830fff42877109576d20e3905a40a47b08e"
+    },
+    {
+      "paperId": "e022e57ec1877de91d9f129d31bbae4053d7983e"
+    },
+    {
+      "paperId": "e0cb07ef9086985c6a8bfec377f1ce1ff1eac5af"
+    },
+    {
+      "paperId": "360dcd0b5629477036e8e9972a83692788771d8f"
+    },
+    {
+      "paperId": "895d494e1639490a2bbd713580a35b0298ef62cf"
+    },
+    {
+      "paperId": "595d17423237d21f4b29f79e685fe1cce7e655ee"
+    },
+    {
+      "paperId": "239f19638e32ddf0af798052d3cfac8865ed3cbd"
+    },
+    {
+      "paperId": "252dfb07704abb2891882ce8adfbc0280e2fb3c7"
+    },
+    {
+      "paperId": "df7760c170c0014cf0e627b085a4e19f32b35487"
+    },
+    {
+      "paperId": "f0cc8df634e67956782ffc68afcabae3a219a4fd"
+    },
+    {
+      "paperId": "8cef6726d23844b367f7a7b5254f002a43aa32ba"
+    },
+    {
+      "paperId": "723e8f2b450824b19ea489541ad22df7c92ec4dc"
+    },
+    {
+      "paperId": "7ff64a577b28f6569554307ece8d9350a7398f25"
+    },
+    {
+      "paperId": "5c9e32d9d20107f309b39164c8617e9f1c73f803"
+    },
+    {
+      "paperId": "9c8ab8ce569cab9fa39945623471a083c9669399"
+    },
+    {
+      "paperId": "ed12a675c8cd250ae5a7834e6fb1efd11359d2d7"
+    },
+    {
+      "paperId": "9a3aa155c0a86631f6f09b75f4f4f7f7e533568b"
+    },
+    {
+      "paperId": "09b41fb47a4518d6cf3156721360d352c33ea9d9"
+    },
+    {
+      "paperId": "7a084b7be44a77738b691ddeb21d79eee9d44278"
+    },
+    {
+      "paperId": "ca2353417ba133e05cfa4119cfa53e2463ef3822"
+    },
+    {
+      "paperId": "1752099162bf2aec56088758c676e6983df85842"
+    },
+    {
+      "paperId": "27278ef28c9afff2b1bcb4332c6fcc6292824ac6"
+    },
+    {
+      "paperId": "b4eceb166de3f0c96ceae657975b8394c890a4f4"
+    },
+    {
+      "paperId": "2c533885e02b5de6bd4576cef39399ba4f4e5171"
+    },
+    {
+      "paperId": "d5569f144e20d96228d2ec4bee8e4d8fe8af24bf"
+    },
+    {
+      "paperId": "aa8f0066a0dccea00b9a8f0dddbed015c4c73e77"
+    },
+    {
+      "paperId": "b37c48807f0b17ea6fc3d0741438ebca34a6fd0a"
+    },
+    {
+      "paperId": "de540a11053b81093d6cfb1d5145abdf86b377a0"
+    },
+    {
+      "paperId": "406ba77b63bc8427e5d8ff40bead22a508bf11ea"
+    },
+    {
+      "paperId": "8f65fb9456b08e06c451bde0a1717db06a9e26cc"
+    },
+    {
+      "paperId": "f7167e9edf0a7ea6ee015c507a8b4794bc8966be"
+    },
+    {
+      "paperId": "4f026f6aac864f5bc07b0f065ec2036046f3d306"
+    },
+    {
+      "paperId": "7a1b76c5c7503cf4870f7e5a1740e2084022b317"
+    },
+    {
+      "paperId": "5612cefb2517c63168c38cea7a6e3a0e34a3a8de"
+    },
+    {
+      "paperId": "be872457bc5c6479d3c0331d9ec5407a156a9f42"
+    },
+    {
+      "paperId": "cc1458c88a2ae916634d1e3fb54f1ff555b3579c"
+    },
+    {
+      "paperId": "e305d8246288948148c7074a5b8234b99aacb2a4"
+    },
+    {
+      "paperId": "8ba948d6aff03c5139d8053c7b814295b7b0081d"
+    },
+    {
+      "paperId": "0fb81f90d80aef7ab0eda2252bd8f9a8011a4ac6"
+    },
+    {
+      "paperId": "2aa5c95eb1e41215d7bb947b06afbb267a67e626"
+    },
+    {
+      "paperId": "e5232a541b7a75b02bcf06d68876204ff2d9bf1e"
+    },
+    {
+      "paperId": "a3400e4ff173662721e3dd3b5afd5fb3b1f95858"
+    },
+    {
+      "paperId": "e0e9b22b2d677741f25cde495e14d9d4665cdd23"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

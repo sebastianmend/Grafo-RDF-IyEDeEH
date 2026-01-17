@@ -1,0 +1,195 @@
+{
+  "paperId": "b385f511727b5cd67c2f5069199842c36e4a91ed",
+  "externalIds": {
+    "MAG": "2907202852",
+    "DOI": "10.33440/J.IJPAA.20180101.0002",
+    "CorpusId": 134392345
+  },
+  "url": "https://www.semanticscholar.org/paper/b385f511727b5cd67c2f5069199842c36e4a91ed",
+  "title": "Current status and trends of plant protection UAV and its spraying technology in China",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 111,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "http://www.ijpaa.org/index.php/ijpaa/article/download/2/10",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33440/J.IJPAA.20180101.0002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33440/J.IJPAA.20180101.0002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "27388096",
+      "name": "Y. Lan"
+    },
+    {
+      "authorId": "1745235212",
+      "name": "Shengde Chen"
+    }
+  ],
+  "abstract": "Abstract: As one of the important components of agricultural aviation industry in China, plant protection unmanned aerial vehicles (UAVs) have been developed rapidly in recent years.  In order to understand the current development status and limitations of plant protection UAV and its spraying technologies in China, the Department of Agricultural Mechanization Management of the Ministry of Agriculture commissioned South China Agricultural University to perform a survey and generate a report on Analysis of the Development Situation and Policy Suggestion for Agricultural Plant Protection UAV in China in 2016.  Based on this report, this paper performed statistical analyses on the development and application of plant protection UAV in China.  First, the geographical distribution of operating plant protection UAVs in China was discussed.  Second, the current status of spraying technologies for plant protection UAVs were reviewed.  Key components in aerial spraying, including the effects of operating parameter of aerial spraying, aerial applied pesticide effect detection, and the promotion and application of aerial spraying technology.  Last, future perspectives of spraying technology for plant protection UAV was discussed.  This paper may inspire the innovation of precision agricultural aviation technology, the basic theory development of pesticide spraying technology, multi-aircraft cooperative technology and other supporting technologies for UAV-based aerial spraying for scientific research and application by research institutions and enterprises in China. Keywords: plant protection UAV, aerial spraying, application, spraying technology DOI: 10.33440/j.ijpaa.20180101.0002 Citation: Lan Y B, Chen S D.  Current status and trends of plant protection UAV and its spraying technology in China.  Int J Precis Agric Aviat, 2018; 1(1): 1–9.",
+  "references": [
+    {
+      "paperId": "baaffcb200b6ea5cfb6ac57b98e46c3fd243f469"
+    },
+    {
+      "paperId": "e7a0bfad0ce2c1e9a611fcb97fc2eab950cb8460"
+    },
+    {
+      "paperId": "56edc8852286a1ed80a5d76d33806abf6019ec82"
+    },
+    {
+      "paperId": "620211d816b0352c8936ca7fd58fa132eb0de2c7"
+    },
+    {
+      "paperId": "4f6228dd7ba205c1653e687553feb749b48a9827"
+    },
+    {
+      "paperId": "be2b616e619625a2b41a5e4625eb509f7ad5ad91"
+    },
+    {
+      "paperId": "eec298c04998b0fa44f7209b7a65e831ceb26dcf"
+    },
+    {
+      "paperId": "fc412599c0ed45327e487d35e03ea5fb538763ef"
+    },
+    {
+      "paperId": "1468a88fe6e3a9178373ee009e432734f04582ea"
+    },
+    {
+      "paperId": "294ed9d46e78caad849240e8a7990626000bc7f4"
+    },
+    {
+      "paperId": "1404f2ae12bcea373b17734e7a0825ca0530ebe4"
+    },
+    {
+      "paperId": "ab63d557aa06898a5a708649f12b33b21e5ad0d6"
+    },
+    {
+      "paperId": "a25ba78e901832649edb854f1debf05dabe1547a"
+    },
+    {
+      "paperId": "4294e8709546fb895ba5d38ac7ad582bbf68ed33"
+    },
+    {
+      "paperId": "1047908557f29b90aa6d72bb68a547ea8bdf2c65"
+    },
+    {
+      "paperId": "cf274036f05bec170965689d1cb552c6a8b851a6"
+    },
+    {
+      "paperId": "d57b1d1a39b5272e9e90735c106fe144ee77e487"
+    },
+    {
+      "paperId": "aaf81dedb1dbfe1e130fd09a80beae4d0543de49"
+    },
+    {
+      "paperId": "b1392105f583226c9fbc2254056aac93882534b0"
+    },
+    {
+      "paperId": "00970fefe63c6c3cbf657393671e269199b1641a"
+    },
+    {
+      "paperId": "288812cb48409c5b2f2358898b599cbabbfad5e1"
+    },
+    {
+      "paperId": "a81469b8a392803bcebed8f1276e932282193043"
+    },
+    {
+      "paperId": "87f849aa6f6142ac987ea537af3930bbea333c85"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

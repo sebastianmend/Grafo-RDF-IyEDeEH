@@ -1,0 +1,313 @@
+{
+  "paperId": "3be2396c7bc84a8b290830c64e86468b87106606",
+  "externalIds": {
+    "MAG": "2184794890",
+    "DOI": "10.17221/40/2013-PPS",
+    "CorpusId": 44516517
+  },
+  "url": "https://www.semanticscholar.org/paper/3be2396c7bc84a8b290830c64e86468b87106606",
+  "title": "Geostatistical Tools for the Study of Insect Spatial Distribution: Practical Implications in the Integrated Management of Orchard and Vineyard Pests",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 77,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.agriculturejournals.cz/publicFiles/40_2013-PPS.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17221/40/2013-PPS?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17221/40/2013-PPS, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "34894591",
+      "name": "A. Sciarretta"
+    },
+    {
+      "authorId": "4227305",
+      "name": "P. Trematerra"
+    }
+  ],
+  "abstract": "Sciarretta A., Trematerra P. (2014): Geostatistical tools for the study of insect spatial distribution: practical implications in the integrated management of orchard and vineyard pests. Plant Protect. Sci., 50: 97–110. Spatial heterogeneity in agricultural systems is recognised as an important source of variability to be investigated. In the evolution of Integrated Pest Management (IPM), patterns and processes that influence spatio-temporal dynamics in insect populations tend to assume more importance compared to the classical theory. Geostatistics represent a valuable tool to investigate the spatial pattern of insect populations and to support pest control. After an explana tion of the geostatistical analysis, in the present paper we provided an overview of practical applications in managing pests, focusing on fruit orchards and vineyards. The utility of geostatistical tools is illustrated with examples taken from field studies, with attention to the analysis of spatial patterns, monitoring schemes, use of traps, scale issues, precision targeting, and risk assessment maps. Potential approaches in the context of IPM are discussed in relation to future perspectives.",
+  "references": [
+    {
+      "paperId": "75124a2ca6e386e7f96dde341b19a88e5d1629c0"
+    },
+    {
+      "paperId": "ac8fd8600f7db783a16cdf97f6af4a89e6f98f90"
+    },
+    {
+      "paperId": "12823d3d5bffc565cc25f0d88c5f9c2b927a7e16"
+    },
+    {
+      "paperId": "aa1c99b0069c13195db4d1f2a7d86e7a75871cd7"
+    },
+    {
+      "paperId": "cd8dc2bee0d8ddd5c6759796a47223ef555c4f42"
+    },
+    {
+      "paperId": "6c1a492728419b733d88e019c35632c650d547e7"
+    },
+    {
+      "paperId": "567d779a6e3fa9821e767129b183abaff6c24cea"
+    },
+    {
+      "paperId": "1c436966b22025bf00fc52b6a24eae774fa9cd80"
+    },
+    {
+      "paperId": "56513305d20460f36cdab7d44f0aa96f137d6933"
+    },
+    {
+      "paperId": "388b36d3f002742fb73c5edc78a9564a0f17e5ae"
+    },
+    {
+      "paperId": "8ecfd4e22590fd67b15133f67afe7460af1530b6"
+    },
+    {
+      "paperId": "c6efe1f32aa7df7eddc5be2f9baf60f5c9f0c5ed"
+    },
+    {
+      "paperId": "179ce92d473c804bf0404db246d428598c60599e"
+    },
+    {
+      "paperId": "c25192c888b8598bc27c5fd086bd8b6bc5ee520b"
+    },
+    {
+      "paperId": "caa973f31a26d0e83ef1b82927cf280375c98e19"
+    },
+    {
+      "paperId": "8987cf48bd3d942755fb56f2540bc5d79454c6e8"
+    },
+    {
+      "paperId": "57e48c2947ed3227e7854dab98ae97f4f4e7d262"
+    },
+    {
+      "paperId": "cc5a01aaab6ab16cf44e7dab4208fcf09d3af070"
+    },
+    {
+      "paperId": "a0aca98c976f0b9d782743f5f37ddd972268efe8"
+    },
+    {
+      "paperId": "561bbf7555b6e9acc658b1c56db9c318b2592655"
+    },
+    {
+      "paperId": "4a1d80672b5b2667d1c0b5f22104b7d9ec8afc93"
+    },
+    {
+      "paperId": "29c39142714cff2dc44aa642101d182cade6c18e"
+    },
+    {
+      "paperId": "a6871ae4353ad695c5cb01cfba3aa855caecacda"
+    },
+    {
+      "paperId": "b6a81b59940f16749692fb742a2c064d129480a8"
+    },
+    {
+      "paperId": "3df5902c58062c80dd3bcf64f71974a10140ce6d"
+    },
+    {
+      "paperId": "596aba3a0eb22b4ab1f90237f9f568cea9abcccb"
+    },
+    {
+      "paperId": "38d6dde9bb6fc16c56266daaf39e8feb38b49962"
+    },
+    {
+      "paperId": "07f396c89aae810d0e06df89a836d832e126c023"
+    },
+    {
+      "paperId": "2ac31f4059140dcbad2f54a25aad174a613d239a"
+    },
+    {
+      "paperId": "661bc00a354cb9a8fd79d8b345ec50bd827c08d4"
+    },
+    {
+      "paperId": "ec9b98001fbfcbb1d1c7bdaf0927a7dcc496fbd1"
+    },
+    {
+      "paperId": "39e3b7440978ede7eb21d5be4a79e4eb1b0f6183"
+    },
+    {
+      "paperId": "36a3b83a2a668511874518490ba70021f63d1f42"
+    },
+    {
+      "paperId": "86a3926131996004a347b9d69e4b564f30deac95"
+    },
+    {
+      "paperId": "80e93b98fa173864b7e8b9f74f963718a0f121ee"
+    },
+    {
+      "paperId": "87141c1e55bcd9ebba89726a9385706a5736a8ac"
+    },
+    {
+      "paperId": "e99a189d4dc5157fc9321d91ef8d04ab9fa6de69"
+    },
+    {
+      "paperId": "7820ef166d0cd2de1dd751ad03bbfa1a69a7eac0"
+    },
+    {
+      "paperId": "37abdbc9fa98bd27fd20b18e37ba39a5073e90e0"
+    },
+    {
+      "paperId": "5e3888af3ba473e3fb6d8f0435ddcf3436b3534f"
+    },
+    {
+      "paperId": "149945b9a65ab6703ddae5c8b9690db2dec75abf"
+    },
+    {
+      "paperId": "b6cddcd34200b4d4af1066e2dff770bc5846b8e2"
+    },
+    {
+      "paperId": "846b5e839a0b6daf21334569534e3454c26d067e"
+    },
+    {
+      "paperId": "84316c7bc19f43acf1fefe0653d3e86bde02de74"
+    },
+    {
+      "paperId": "48033576085f0cbd03c189044eda8858aacad091"
+    },
+    {
+      "paperId": "d3ee70f9a1c06ef8f1318f91a7a74cf5a8c2c9d5"
+    },
+    {
+      "paperId": "1c40578827f7068f4bcd1b9b4c112a85a9add258"
+    },
+    {
+      "paperId": "f9c3ed7401706fb159405c4cbf39afc0bcb397b4"
+    },
+    {
+      "paperId": "0b06c523142c5d43d1b4a5d2bd729c74363c518d"
+    },
+    {
+      "paperId": "4aca64c43d20c19e5411b7f55c80f016107d8384"
+    },
+    {
+      "paperId": "c473167e4c49287b13a51035335f7993c3b102fc"
+    },
+    {
+      "paperId": "3f8a84c3f6710fa07b3ae68f1b2c02c12d7c91b2"
+    },
+    {
+      "paperId": "8844b68ea19132a590b0492813a6948a52f0b664"
+    },
+    {
+      "paperId": "1bb233ac716f0d772a8d297eef809340ff9afc01"
+    },
+    {
+      "paperId": "9b8c673ee704250a6d60583b65bd8565457b7e73"
+    },
+    {
+      "paperId": "ad23936929e3181630bc7806ad566d14b187bd96"
+    },
+    {
+      "paperId": "f80265f1180d2a28220aee6f10f4715c4f17b25f"
+    },
+    {
+      "paperId": "94385acc6f9df80db542f24523035277d5d7f2a2"
+    },
+    {
+      "paperId": "4178e9fce82854d7e26a796113a492fe005e1505"
+    },
+    {
+      "paperId": "dc30b168761fd50389c7114812873b92d03b7f68"
+    },
+    {
+      "paperId": "5090d69594a62677bb2f4bc6090d74181da1304d"
+    },
+    {
+      "paperId": "0ed7b1f516ea59273e547af67b5dd124716af2cf"
+    },
+    {
+      "paperId": "86123dec962431974292e44d2f0485c4bc8eea50"
+    },
+    {
+      "paperId": "987d7696e0a14356e702941fba93d24c73e7de3e"
+    },
+    {
+      "paperId": "9f7d5e7920529df816e9bacdda10d64f01ac38c4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5aa93cb82bfb92c975971e45166de9a924a2a76b"
+    },
+    {
+      "paperId": "b711f2013e9945892f0d9b1e0d204691ea836fad"
+    },
+    {
+      "paperId": "b2ad8207d58b28fc75e22925d3a275c03f0af969"
+    },
+    {
+      "paperId": "46e8051622e121c0aacb55adcaa6b39b007c2cd7"
+    },
+    {
+      "paperId": "f14e42468b45f70f43be3d7ff944c296ff123a2f"
+    },
+    {
+      "paperId": "556f2bbd66886080738d484a9bf31d9cb185e9e2"
+    },
+    {
+      "paperId": "bdaea3b94a668e9ab937fb679b4bd7993d97f31e"
+    },
+    {
+      "paperId": "9f83fe80b4d9783b06dc376b0727114241187aa6"
+    },
+    {
+      "paperId": "c83fbb7dcf22995678e9ba4363e4b753c40c3370"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "64ebb453274ae7415b99b669fa53859893fc8dc5"
+    },
+    {
+      "paperId": "6ea842f456a1f32698353cb83a0a1b8b00184785"
+    },
+    {
+      "paperId": "b99f3a4065620e5b7b4e29eec2600170c04c322a"
+    },
+    {
+      "paperId": "ca163ed0211efa1e218cf01c029e2269840a31b7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "551e69b4db1d80844ef5abeaa4fb2c74b3eeb27b"
+    },
+    {
+      "paperId": "d585c505637b3deca470714c77619db67f1f3fea"
+    },
+    {
+      "paperId": "24fd84b898ec2148344d15eeb4654426164b382f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d8eb3c498ab2c687113db7949f12cbdc446ec2c9"
+    },
+    {
+      "paperId": "010fcf3f697d233cced9ad8209a3c116d979e7bc"
+    },
+    {
+      "paperId": "6a2d6d600eb377326836f8aa7fa4927b88af868d"
+    },
+    {
+      "paperId": "2f9415f34575eabc05c24f1f63572b954339a99b"
+    },
+    {
+      "paperId": "b9f4d5235681f67fbf089485d4d7e0ca351b9f98"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

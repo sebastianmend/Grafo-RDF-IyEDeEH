@@ -1,0 +1,43 @@
+{
+  "paperId": "db73815d1100ffe28c05456605cf61119784d2a4",
+  "externalIds": {
+    "DBLP": "journals/tjs/KumarGS19",
+    "MAG": "2980697606",
+    "DOI": "10.1007/s11227-019-02999-z",
+    "CorpusId": 202762750
+  },
+  "url": "https://www.semanticscholar.org/paper/db73815d1100ffe28c05456605cf61119784d2a4",
+  "title": "Artificial bee colony-based fuzzy c means (ABC-FCM) segmentation algorithm and dimensionality reduction for leaf disease detection in bioinformatics",
+  "venue": "Journal of Supercomputing",
+  "year": 2019,
+  "citationCount": 21,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11227-019-02999-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11227-019-02999-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "120438555",
+      "name": "S. K. P. Kumar"
+    },
+    {
+      "authorId": "2946158",
+      "name": "Sumithra Manimegalai Govindan"
+    },
+    {
+      "authorId": "2140197646",
+      "name": "N. Saranya"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

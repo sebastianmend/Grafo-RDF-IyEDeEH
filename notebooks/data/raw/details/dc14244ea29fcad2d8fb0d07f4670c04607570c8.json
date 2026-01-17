@@ -1,0 +1,39 @@
+{
+  "paperId": "dc14244ea29fcad2d8fb0d07f4670c04607570c8",
+  "externalIds": {
+    "DOI": "10.56669/pbsz6342",
+    "CorpusId": 214707156
+  },
+  "url": "https://www.semanticscholar.org/paper/dc14244ea29fcad2d8fb0d07f4670c04607570c8",
+  "title": "A review of precision agriculture in rice production in Vietnam",
+  "venue": "ICT s for Precision Agriculture",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.56669/pbsz6342?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56669/pbsz6342, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "30800781",
+      "name": "N. Minh"
+    },
+    {
+      "authorId": "146551733",
+      "name": "Doãn Hoàng Sơn"
+    },
+    {
+      "authorId": "2395616392",
+      "name": "Mai Văn Trịnh"
+    }
+  ],
+  "abstract": "Precision Agriculture (PA) is a key component of the agricultural digitization and means to apply the exact and correct amount of inputs like water, fertilizers, pesticides etc. at the correct time to the crop for increasing its productivity and maximizing its yields. It provides farmers with information to build up a record of their farms, helps to make decisions, promotes traceability and provides better marketing of farm products. Finally, it enhances the quality of the product itself. Rice production plays an important role in food security, rural employment, and foreign exchange in Vietnam as rice contributes to around 50% of the gross production of food crops. However, the technology development in the rice production in Vietnam is still in its infancy stage. The digitalization has not reached Vietnam’s rice sector yet. Most of Vietnamese rice farmers still use their own experiences as well as recommendations from research and extension services to undertake activities in seed selection, land preparation, crop management, irrigation and harvest. They are also still using basic computers, standard internet information and basic information and communications technology in general. The recently integrated rice crop management systems or precision rice-farming system, which starts to be adapted to the social and economic conditions in Vietnam, are promising for effective input use, increased productivity and improved farm profits. A growing number of farmers are starting to adopt information technology/digital technology and data-driven innovations. The paper will highlight some results of agriculture precision application in rice production in Vietnam.",
+  "references": null
+}

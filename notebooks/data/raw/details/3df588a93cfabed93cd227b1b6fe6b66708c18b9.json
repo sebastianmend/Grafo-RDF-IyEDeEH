@@ -1,0 +1,208 @@
+{
+  "paperId": "3df588a93cfabed93cd227b1b6fe6b66708c18b9",
+  "externalIds": {
+    "MAG": "2935621369",
+    "PubMedCentral": "6480104",
+    "DOI": "10.3390/molecules24071330",
+    "CorpusId": 106406471,
+    "PubMed": "30987340"
+  },
+  "url": "https://www.semanticscholar.org/paper/3df588a93cfabed93cd227b1b6fe6b66708c18b9",
+  "title": "A Quantitative Tandem Mass Spectrometry and Scaled-Down QuEChERS Approach for Simultaneous Analysis of Pesticide Multiresidues in Human Urine",
+  "venue": "Molecules",
+  "year": 2019,
+  "citationCount": 30,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1420-3049/24/7/1330/pdf?version=1573730662",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6480104, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2533121",
+      "name": "Yongho Shin"
+    },
+    {
+      "authorId": "2108586193",
+      "name": "Jiho Lee"
+    },
+    {
+      "authorId": "12632824",
+      "name": "Eunyoung Park"
+    },
+    {
+      "authorId": "49685794",
+      "name": "Junghak Lee"
+    },
+    {
+      "authorId": "2143728220",
+      "name": "H. Lee"
+    },
+    {
+      "authorId": "89021328",
+      "name": "Jeong-Han Kim"
+    }
+  ],
+  "abstract": "Multiresidual pesticide determination in a biological sample is essential for an immediate decision and response related to various pesticide intoxications. A rapid and simultaneous analytical method for 260 pesticides in human urine was developed and validated using liquid chromatography-tandem mass spectrometry (LC-MS/MS). High speed positive/negative switching electrospray ionization (ESI) mode was used, and scheduled multiple reaction monitoring (MRM) was optimized. Three versions of scaled-down QuEChERS procedures were evaluated, and the procedure using non-buffer reagents (magnesium sulfate and sodium chloride) and excluding cleanup steps was selected for optimum pesticide extraction. The limit of quantitation (LOQ) in this methodology was 10 ng/mL for each target pesticide, and correlation coefficient (r2) values of calibration curves were ≥0.988 (linearity range; 10–250 ng/mL). In accuracy and precision tests, the relative error ranges were −18.4% to 19.5%, with relative standard deviation (RSD) 2.1%–19.9% at an LOQ level (10 ng/mL), and −14.7% to 14.9% (RSD; 0.6%–14.9%) at higher concentrations (50, 150, and 250 ng/mL). Recovery range was 54.2%–113.9% (RSD; 0.3%–20.0%), and the soft matrix effect (range; −20% to 20%) was observed in 75.4% of target pesticides. The established bioanalytical methods are sufficient for application to biomonitoring in agricultural exposures and applicable in the forensic and clinic.",
+  "references": [
+    {
+      "paperId": "7fb9ddc17e2bc633e7e45a6091dfc8b30b3003a4"
+    },
+    {
+      "paperId": "7f0726db7822e94f1732e1800372e0486d838666"
+    },
+    {
+      "paperId": "95aff894316e10554f93c47e7dbca8e54fac5c73"
+    },
+    {
+      "paperId": "b356fa070b50d689d37f415ba89b62d048142b97"
+    },
+    {
+      "paperId": "b286ced31bd07dbf0043119d3706ed06aef7623e"
+    },
+    {
+      "paperId": "a4545f4f057fce0651e2a9e9fbd9df1d6740dbf9"
+    },
+    {
+      "paperId": "b99577c5c57dbb68a5ce55ea7de5ac43f978d336"
+    },
+    {
+      "paperId": "458c571a9dce884fffad803295da40a38c131418"
+    },
+    {
+      "paperId": "e9eb5d932362ce5100663838ea38827947c8810f"
+    },
+    {
+      "paperId": "c3a08a31c7e4fe2fc72a3d8aa9b8c9815db814dd"
+    },
+    {
+      "paperId": "76756baf5e07ddaa089f277c9a2b469222988cf7"
+    },
+    {
+      "paperId": "1f53d847b73939ce32c2b18dc711df00b74e06fd"
+    },
+    {
+      "paperId": "af562704bfaee2d9b65c2f2d08d55fdfe9a588f7"
+    },
+    {
+      "paperId": "8c2b59acb1522b94bea873ae9c9a6f317e3752a1"
+    },
+    {
+      "paperId": "b1fb05c2a20d3e2845e67ac4127e3f81bf4f512b"
+    },
+    {
+      "paperId": "ba7adcbaa26702d96a980b89c9855a38f992b5a5"
+    },
+    {
+      "paperId": "9955579ca36ac93c9e53a3098c5f2ccb0d453fb7"
+    },
+    {
+      "paperId": "57e928ebca8eb3666d042ddac1deb904f2d41a83"
+    },
+    {
+      "paperId": "d0d18777e3393f4982fb3fe24337a8a8a807d819"
+    },
+    {
+      "paperId": "f2e1ca071b91a6c2f09474947c6a5f767fd12a36"
+    },
+    {
+      "paperId": "d4b89c3c6c562d9037264740567fd0aefddfade5"
+    },
+    {
+      "paperId": "6f39feb3b48ff30a88e004c95a89894470076a29"
+    },
+    {
+      "paperId": "64ade8d1215f335e96b2745181a085347f7b0367"
+    },
+    {
+      "paperId": "d51d0ad69b473d54490ca8b2f24337c7f8f90423"
+    },
+    {
+      "paperId": "f80dbc3045757b6b0ab05323e4fcb31c43bbe65a"
+    },
+    {
+      "paperId": "4c1d5d5ec2fe7881930fd958b7ba45073d65da48"
+    },
+    {
+      "paperId": "4f91e054a350ea358ecde8d86d9d834e31f43656"
+    },
+    {
+      "paperId": "63e78723f2921de5e2403eac167817de00360f69"
+    },
+    {
+      "paperId": "915a5588cea7a876120db4cc8abc2950c6b80f21"
+    },
+    {
+      "paperId": "388104c83f0afc3205af175f735d7671be607896"
+    },
+    {
+      "paperId": "8d4b6c4dbc8d9f38057e1ee968b476724e7ad450"
+    },
+    {
+      "paperId": "2e1e955140d1c727bcba509d5ac1cc254ab473b2"
+    },
+    {
+      "paperId": "45538dd11f89e68ea601e887b7ec8934c6a85dc6"
+    },
+    {
+      "paperId": "a7f8feb4f250fb67ef4a0efa042f405c08c6cc96"
+    },
+    {
+      "paperId": "b72319b0e6c04d4a83a245829632ffa52d92d88b"
+    },
+    {
+      "paperId": "271c779de79e54accb8c6e95337b8fc03e9806bd"
+    },
+    {
+      "paperId": "370213231074cef02720e2691a28b1e884af63e4"
+    },
+    {
+      "paperId": "dc49e58c09eaf718882db00acffc2f223598ba44"
+    },
+    {
+      "paperId": "bb9b75b3fc440076ec68110747d6ca7f03f6d7a1"
+    },
+    {
+      "paperId": "3f50d4e55f66ceb0f8021509ca2cb861cea6d000"
+    },
+    {
+      "paperId": "844ce3721476c3f35f32b91b718254856467e399"
+    },
+    {
+      "paperId": "cf32591613ee4a4ccffe07fb9f70caca42f1a374"
+    },
+    {
+      "paperId": "f587843e7234c7f33b81892571238b1b686821d3"
+    },
+    {
+      "paperId": "9a3830bdb920bf705fc55bfe6663e7a676401c7e"
+    },
+    {
+      "paperId": "84ebebccb6c6306c8b88abc980488c26163b2c96"
+    },
+    {
+      "paperId": "a2338bbb5acdd99d8590c94d0764915827b792db"
+    },
+    {
+      "paperId": "2ca813f371bdaaad0db4e832fa656d933797e0b9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

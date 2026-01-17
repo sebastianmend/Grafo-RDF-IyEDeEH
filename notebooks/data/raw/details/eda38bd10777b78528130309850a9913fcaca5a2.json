@@ -1,0 +1,38 @@
+{
+  "paperId": "eda38bd10777b78528130309850a9913fcaca5a2",
+  "externalIds": {
+    "MAG": "2921733647",
+    "DOI": "10.1109/ICSESS.2018.8663921",
+    "CorpusId": 77375580
+  },
+  "url": "https://www.semanticscholar.org/paper/eda38bd10777b78528130309850a9913fcaca5a2",
+  "title": "Research on Recommendation System of Agricultural Products E-Commerce Platform Based on Hadoop",
+  "venue": "2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSESS.2018.8663921?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSESS.2018.8663921, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2144543357",
+      "name": "Jiahuan Li"
+    },
+    {
+      "authorId": "46696753",
+      "name": "Liqing Zhou"
+    }
+  ],
+  "abstract": "In recent years, with the vigorous promotion of “Internet + Agriculture” in China, more and more agricultural products e-commerce platforms have emerged. Due to the shortage of personalized services on the existing agricultural products e-commerce platform, this paper studies Hadoop-based agricultural product e-commerce recommendation system. The Hadoop platform can not only solve the storage problem of massive data, but also quickly analyze the user's behavior data through distributed computing, thereby discovering their interests, providing personalized recommendation service for them, and achieving precision marketing of target users. At the same time, this paper provides a reference for the development of agricultural products e-commerce.",
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "79608ed06d15c15d6a0d72d9add80c4e9671fc53",
+  "externalIds": {
+    "DBLP": "journals/eetcs/SharmaV19",
+    "MAG": "2956307549",
+    "DOI": "10.4108/EAI.7-12-2018.159405",
+    "CorpusId": 199007333
+  },
+  "url": "https://www.semanticscholar.org/paper/79608ed06d15c15d6a0d72d9add80c4e9671fc53",
+  "title": "Predictive Analytics In Weather Forecasting Using Machine Learning Algorithms",
+  "venue": "EAI Endorsed Transactions on Cloud Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://eudl.eu/pdf/10.4108/eai.7-12-2018.159405",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4108/EAI.7-12-2018.159405?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4108/EAI.7-12-2018.159405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2367184449",
+      "name": "Aastha Sharma"
+    },
+    {
+      "authorId": "2265917563",
+      "name": "Vijayakumar V"
+    }
+  ],
+  "abstract": "Agriculture is the backbone of every economy. In a country like India, which has ever increasing demand of food due to rising population, advances in agriculture sector are required to meet the needs. To add to it, the present economic conditions and government policies of India are such that it necessitates the adoption of Precision farming or smart farming. It will enable the farmers to maximize their crop yields and minimize the input costs as well as the losses due to reasons like uncertain rainfall, droughts etc. from this model. For Predicting weather forecasting we will use machine learning Algorithms like Linear Regression, Decision tree.",
+  "references": [
+    {
+      "paperId": "1914801deeab3b5f07b0c2d51ab231695102ae6e"
+    },
+    {
+      "paperId": "ae390c9971dd18f9deafd3e18b9a35f6c7066891"
+    },
+    {
+      "paperId": "40ceb81b8e4af98df0c0ff8dd0a2e0961fd77865"
+    },
+    {
+      "paperId": "e2ed8aba53b4688808d57a0512496beb3548fc2c"
+    }
+  ]
+}

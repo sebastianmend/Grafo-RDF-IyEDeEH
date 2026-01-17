@@ -1,0 +1,114 @@
+{
+  "paperId": "43de3ccbd0223b19fa89c8f983d69804a164856d",
+  "externalIds": {
+    "PubMedCentral": "6487520",
+    "MAG": "2947108980",
+    "DOI": "10.1186/s13007-019-0422-z",
+    "CorpusId": 139108026,
+    "PubMed": "31168313"
+  },
+  "url": "https://www.semanticscholar.org/paper/43de3ccbd0223b19fa89c8f983d69804a164856d",
+  "title": "Bayesian optimization for seed germination",
+  "venue": "Plant Methods",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-019-0422-z",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6487520, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46364677",
+      "name": "Artyom Nikitin"
+    },
+    {
+      "authorId": "114063650",
+      "name": "Ilia Fastovets"
+    },
+    {
+      "authorId": "51069113",
+      "name": "Dmitrii G. Shadrin"
+    },
+    {
+      "authorId": "40862005",
+      "name": "M. Pukalchik"
+    },
+    {
+      "authorId": "1738205",
+      "name": "I. Oseledets"
+    }
+  ],
+  "abstract": "Efficient seed germination is a crucial task at the beginning of crop cultivation. Although boundaries of environmental parameters that should be maintained are well studied, fine-tuning can significantly improve the efficiency, which is infeasible to be done manually due to the high dimensionality of the parameter space. Traditionally seed germination is performed in climatic chambers with controlled environmental conditions. In this study, we perform a set of multiple-day seed germination experiments in the controllable environment. We use up to three climatic chambers to adjust humidity, temperature, water supply and apply machine learning algorithm called Bayesian optimization (BO) to find the parameters that improve seed germination. Experimental results show that our approach allows to increase the germination efficiency for different types of seeds compared to the initial expert knowledge-based guess. Our experiments demonstrated that BO could help to identify the values of the controllable parameters that increase seed germination efficiency. The proposed methodology is model-free, and we argue that it may be useful for a variety of optimization problems in precision agriculture. Further experimental studies are required to investigate the effectiveness of our approach for different seed cultures and controlled parameters.",
+  "references": [
+    {
+      "paperId": "c660728c629daadd8ba2bdb8b4020bd3e6c2fc6c"
+    },
+    {
+      "paperId": "c4b57fe0d8aa8fd976be9e3fb0d17a202c8a21aa"
+    },
+    {
+      "paperId": "1e7105ab13984aa8af3871291243f60b74f3e574"
+    },
+    {
+      "paperId": "b1582c01896f9d9de500610100172b879d3af4f3"
+    },
+    {
+      "paperId": "16b3c8f6f1dffd31271c59c11e17241e51377d68"
+    },
+    {
+      "paperId": "2e0e05796251a38ee811fd4e0719f92027953a81"
+    },
+    {
+      "paperId": "2e2089ae76fe914706e6fa90081a79c8fe01611e"
+    },
+    {
+      "paperId": "ea43add1837c0e074826ec8f18d0485e840639e7"
+    },
+    {
+      "paperId": "73ba830c8c26e939408245a8794a82cfb16b28ac"
+    },
+    {
+      "paperId": "7649af7bf6e9d277ed045930fc08d79247e02375"
+    },
+    {
+      "paperId": "167ad99e83c74c71ffbb5f31b59d191226d4f93b"
+    },
+    {
+      "paperId": "58708f14cb8d5112d459ee13b8de6751ab20d094"
+    },
+    {
+      "paperId": "01a54580a2e3e735549c823708a716e3a8106d3d"
+    },
+    {
+      "paperId": "5fa9b731cf010b32b9d9d308b4d5e37907f847af"
+    },
+    {
+      "paperId": "7f1dbcbff94ea18142ec10386114ad1db70cbec6"
+    },
+    {
+      "paperId": "0a2586e0a5f8bb4e35aa0763a6b8bca428af6bd2"
+    },
+    {
+      "paperId": "1cec7d8bac75f8ced326e783adaf36d04794c1a6"
+    },
+    {
+      "paperId": "a192879f7bb9b05142a4bc259879b065564bfcba"
+    },
+    {
+      "paperId": "307827ec09187e9c6935e8ff5fd43eeefb901320"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

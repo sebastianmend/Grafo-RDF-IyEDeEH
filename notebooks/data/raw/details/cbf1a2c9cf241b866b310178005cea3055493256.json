@@ -1,0 +1,49 @@
+{
+  "paperId": "cbf1a2c9cf241b866b310178005cea3055493256",
+  "externalIds": {
+    "MAG": "2883101075",
+    "DOI": "10.1007/s13205-018-1355-3",
+    "CorpusId": 51905362,
+    "PubMed": "30073121"
+  },
+  "url": "https://www.semanticscholar.org/paper/cbf1a2c9cf241b866b310178005cea3055493256",
+  "title": "New breeding technique “genome editing” for crop improvement: applications, potentials and challenges",
+  "venue": "3 Biotech",
+  "year": 2018,
+  "citationCount": 49,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13205-018-1355-3.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13205-018-1355-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13205-018-1355-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "7712493",
+      "name": "S. Aglawe"
+    },
+    {
+      "authorId": "6016152",
+      "name": "Kalyani M. Barbadikar"
+    },
+    {
+      "authorId": "4161641",
+      "name": "S. Mangrauthia"
+    },
+    {
+      "authorId": "2888591",
+      "name": "M. Madhav"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

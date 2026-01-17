@@ -1,0 +1,161 @@
+{
+  "paperId": "5c52bec242ac371c1c223f184e689871d2fab935",
+  "externalIds": {
+    "DBLP": "journals/ijgi/HanQCLWF19",
+    "MAG": "2917889582",
+    "DOI": "10.3390/IJGI8030103",
+    "CorpusId": 84835066
+  },
+  "url": "https://www.semanticscholar.org/paper/5c52bec242ac371c1c223f184e689871d2fab935",
+  "title": "Mr4Soil: A MapReduce-Based Framework Integrated with GIS for Soil Erosion Modelling",
+  "venue": "ISPRS Int. J. Geo Inf.",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2220-9964/8/3/103/pdf?version=1551251884",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/IJGI8030103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/IJGI8030103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1708590",
+      "name": "Zhigang Han"
+    },
+    {
+      "authorId": "46874221",
+      "name": "Fen Qin"
+    },
+    {
+      "authorId": "1891081",
+      "name": "Caihui Cui"
+    },
+    {
+      "authorId": "2108162393",
+      "name": "Yannan Liu"
+    },
+    {
+      "authorId": "2151979395",
+      "name": "Lingling Wang"
+    },
+    {
+      "authorId": "2872373",
+      "name": "Pinde Fu"
+    }
+  ],
+  "abstract": "A soil erosion model is used to evaluate the conditions of soil erosion and guide agricultural production. Recently, high spatial resolution data have been collected in new ways, such as three-dimensional laser scanning, providing the foundation for refined soil erosion modelling. However, serial computing cannot fully meet the computational requirements of massive data sets. Therefore, it is necessary to perform soil erosion modelling under a parallel computing framework. This paper focuses on a parallel computing framework for soil erosion modelling based on the Hadoop platform. The framework includes three layers: the methodology, algorithm, and application layers. In the methodology layer, two types of parallel strategies for data splitting are defined as row-oriented and sub-basin-oriented methods. The algorithms for six parallel calculation operators for local, focal and zonal computing tasks are designed in detail. These operators can be called to calculate the model factors and perform model calculations. We defined the key-value data structure of GeoCSV format for vector, row-based and cell-based rasters as the inputs for the algorithms. A geoprocessing toolbox is developed and integrated with the geographic information system (GIS) platform in the application layer. The performance of the framework is examined by taking the Gushanchuan basin as an example. The results show that the framework can perform calculations involving large data sets with high computational efficiency and GIS integration. This approach is easy to extend and use and provides essential support for applying high-precision data to refine soil erosion modelling.",
+  "references": [
+    {
+      "paperId": "cc4908cdcc4726a48402b9adeb8ac43a14000f23"
+    },
+    {
+      "paperId": "e4c45d3096bbc9636919c7be988298bc9344230d"
+    },
+    {
+      "paperId": "b206a0a4974a033cd5fa2ed086c35dd1037a8d67"
+    },
+    {
+      "paperId": "760f8fad5a2f4e01e85c0e600e58784e4a774004"
+    },
+    {
+      "paperId": "7dd2cc3e80c3109b3fcececca2c298d36212917e"
+    },
+    {
+      "paperId": "f0ead3f78052e64d75453bf33c89acddd4803415"
+    },
+    {
+      "paperId": "8f4ef7dc7b9fc1af2fe817cb5a4d7da1e1e6f843"
+    },
+    {
+      "paperId": "ab561667f87cd4726513d34061b1469b5772947d"
+    },
+    {
+      "paperId": "ffbc910d2a6766a548cb8cd98e15e7efcb7a4660"
+    },
+    {
+      "paperId": "a57a9ae2f3853ca56e5134ab4d92fe693ff3dcf2"
+    },
+    {
+      "paperId": "f46e70a903a46675637984661d85f86cc36bdee3"
+    },
+    {
+      "paperId": "2ab0225a8936ff083dcd1cea4e78e0730a0b493b"
+    },
+    {
+      "paperId": "a9dd24527ee71a47d6a62077aa8ae0b1cec48bbc"
+    },
+    {
+      "paperId": "e944d8337b685bc05b595f67cc2e5d9ace14d6d1"
+    },
+    {
+      "paperId": "d190c0486de433d05f4b295d758f5c4d7749616d"
+    },
+    {
+      "paperId": "8eb8034ac3dd17e6632a664e94a71fd98ea5240e"
+    },
+    {
+      "paperId": "4cb4af8e5bb1c4d9569a7920b2a419873540092d"
+    },
+    {
+      "paperId": "b568b4a9203d5d1074aa18880b6f9b271bc7f62a"
+    },
+    {
+      "paperId": "b871c72cf69282d6a5fcecc12ec666c71a8f9edb"
+    },
+    {
+      "paperId": "2adef4efcb4eae0aae2bdfa9ad55ba420162a9dc"
+    },
+    {
+      "paperId": "2bdb17f6f75e5fb8dc49de7cfdbdd891cc3c83a9"
+    },
+    {
+      "paperId": "3a834ef426674ea5b8a446141c2616f9b6c2d248"
+    },
+    {
+      "paperId": "accb464bac84b9f21b0d82781e7a9f4626873946"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "72b2100a453fa6df55fc8c5d6b172f59c6e12abf"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7339c20b5c5ab96260beb5162d38bcd8258461df"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ce8ffc4daf791f509fe8ab7d85401da253b87ab8"
+    },
+    {
+      "paperId": "22bdefcc265f40113bf5d2d590eefb7df8622a1a"
+    },
+    {
+      "paperId": "9e6db1b19ae32724ad07a7e8221099433266df41"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

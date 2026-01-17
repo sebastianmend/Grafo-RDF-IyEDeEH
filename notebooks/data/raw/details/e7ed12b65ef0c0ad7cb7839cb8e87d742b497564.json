@@ -1,0 +1,39 @@
+{
+  "paperId": "e7ed12b65ef0c0ad7cb7839cb8e87d742b497564",
+  "externalIds": {
+    "DBLP": "conf/imcl/MabeleM18",
+    "MAG": "2939013945",
+    "DOI": "10.1007/978-3-030-11434-3_29",
+    "CorpusId": 146075086
+  },
+  "url": "https://www.semanticscholar.org/paper/e7ed12b65ef0c0ad7cb7839cb8e87d742b497564",
+  "title": "Leveraging Low-Power Wide Area Networks for Precision Farming: Limabora - A Smart Farming Case Using LoRa Modules, Gateway, TTN and Firebase in Kenya",
+  "venue": "Conference on Interactive Mobile Communication Technologies and Learning",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-11434-3_29?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-11434-3_29, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "67040395",
+      "name": "Leonard Mabele"
+    },
+    {
+      "authorId": "20579196",
+      "name": "Lorna Mutegi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

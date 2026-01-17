@@ -1,0 +1,34 @@
+{
+  "paperId": "40364575086006638bcfb85d8350e0b644c631e3",
+  "externalIds": {
+    "DOI": "10.1088/1755-1315/335/1/011001",
+    "CorpusId": 241907533
+  },
+  "url": "https://www.semanticscholar.org/paper/40364575086006638bcfb85d8350e0b644c631e3",
+  "title": "Preface",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/335/1/011001/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/335/1/011001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/335/1/011001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2286140932",
+      "name": "September Bogor"
+    }
+  ],
+  "abstract": "The proceedings contain papers presented the in the International Conference on Digital Agriculture from Land to Consumers (ICDALC) 2018 in IPB University at Bogor City, West Java, Indonesia. The proceedings consist of 34 papers, which cover 5 themes: ‘Smart and Precision Agriculture Solutions’, ‘Traceability and Logistic System’, ‘Food Production and Surveillance Systems’, ‘Applications of IT for Food and Agroindustry’ and ‘Intelligent System and Deep Learning for Environmental and Natural Resources Management’. These proceedings is an effort to build a framework for the development of digital agriculture in the future. Digital agriculture (DA) is the use of new and advanced technologies, integrated into one system, to enable farmers and other stakeholders within the agriculture value chain from land to consumer (upstream to downstream) to improve food as well as agroindustrial products development, production and delivery. We would like to thank all authors for their efforts in preparing their papers. A great appreciation is also given to the reviewers for their assistance in reviewing the manuscripts. Special thanks to secretariat members for their assistance in formatting the layout of the proceedings. My Best Regards, Prof. Dr. Yandra Arkeman, M.Eng Chairman List of International Program Commitee, Organizing Commitee, Technical Editor Staff, Organizer and Supporters are available in this pdf.",
+  "references": []
+}

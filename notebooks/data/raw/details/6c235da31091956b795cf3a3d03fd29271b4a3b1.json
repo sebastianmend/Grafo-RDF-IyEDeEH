@@ -1,0 +1,73 @@
+{
+  "paperId": "6c235da31091956b795cf3a3d03fd29271b4a3b1",
+  "externalIds": {
+    "DBLP": "conf/fruct/VillaniCTSCMTTZ18",
+    "MAG": "2907971388",
+    "DOI": "10.23919/FRUCT.2018.8588079",
+    "CorpusId": 57191995
+  },
+  "url": "https://www.semanticscholar.org/paper/6c235da31091956b795cf3a3d03fd29271b4a3b1",
+  "title": "Soil Water Balance Model CRITERIA-ID in SWAMP Project: Proof of Concept",
+  "venue": "Conference of the Open Innovations Association",
+  "year": 2018,
+  "citationCount": 10,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://cris.unibo.it/bitstream/11585/668092/1/Articolo%20Open%20Acces.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/FRUCT.2018.8588079?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/FRUCT.2018.8588079, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145071337",
+      "name": "G. Villani"
+    },
+    {
+      "authorId": "145362527",
+      "name": "P. Castaldi"
+    },
+    {
+      "authorId": "12160822",
+      "name": "A. Toscano"
+    },
+    {
+      "authorId": "153659811",
+      "name": "C. Stanghellini"
+    },
+    {
+      "authorId": "2883114",
+      "name": "T. S. Cinotti"
+    },
+    {
+      "authorId": "3196763",
+      "name": "R. Maia"
+    },
+    {
+      "authorId": "66878357",
+      "name": "F. Tomei"
+    },
+    {
+      "authorId": "3233791",
+      "name": "Markus Taumberger"
+    },
+    {
+      "authorId": "47114757",
+      "name": "P. Zanetti"
+    },
+    {
+      "authorId": "67189966",
+      "name": "S. Panizzi"
+    }
+  ],
+  "abstract": "The aim of this work is to present the first results obtained by means of the new validation of the water balance and crop development model CRITERIA-ID, specifically set up for the SWAMP (Smart Water Management Platform) platform on one of the pilots, in the framework of the SWAMP project, aimed at providing support for precision irrigation in agriculture. The platform consists of an IoT solution for monitoring the farming and irrigation systems combined with data analytic solution to assess the irrigation need of plants, and support for irrigation planning and water distribution both at farm and district level. CRITERIA-ID has been tested on two test cases for the Italian pilot, located in the land reclamation and irrigation consortium of Emilia Centrale (North Italy). The comparison of crop irrigation water needs computed by CRITERIA-ID with actual irrigation performed by farmers has been carried out, together with a comparison of crop water stress. The analysis has shown that for both the test cases the two data series are comparable, but some differences have been highlighted: in some cases the farmer irrigation is not decided on the basis of the actual water needs of the crops but on farm management decisions. In addition, if the total annual volumes of irrigation of the two series are comparable, the scheduling is different, where the observed irrigation data bring the crop to too high (or too low) level of water stress. Thus, the present work has shown that the application of CRITERIA-ID simulation model is a valid tool to support irrigation management because it allows an optimal use of the resource avoiding crop yield losses with a rational irrigation scheduling. The reliability of these outcomes sets the conditions for further exploitation of the model in the future, firstly for its integration into the SWAMP platform.",
+  "references": null
+}

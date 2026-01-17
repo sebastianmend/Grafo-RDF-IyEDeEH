@@ -1,0 +1,48 @@
+{
+  "paperId": "600893e803751cac6e1252fd8e3afcf7b4a57a6b",
+  "externalIds": {
+    "MAG": "2962377129",
+    "DBLP": "conf/meco/GialelisTFK19",
+    "DOI": "10.1109/MECO.2019.8760147",
+    "CorpusId": 198145382
+  },
+  "url": "https://www.semanticscholar.org/paper/600893e803751cac6e1252fd8e3afcf7b4a57a6b",
+  "title": "An Integrated Low Cost IoT Node based on Discrete Components for Customized Smart Applications; Use case on Precision Agriculture",
+  "venue": "Mediterranean Conference on Embedded Computing",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MECO.2019.8760147?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MECO.2019.8760147, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1752391",
+      "name": "J. Gialelis"
+    },
+    {
+      "authorId": "151016959",
+      "name": "G. Theodorou"
+    },
+    {
+      "authorId": "151113188",
+      "name": "Maria Fokaeos"
+    },
+    {
+      "authorId": "2498324",
+      "name": "Dimitrios Karadimas"
+    }
+  ],
+  "abstract": "This work depicts the concept and methodology as well as the architecture and physical implementation of a low-cost Internet of Things (IoT) node for customized smart-applications. The presented node efficiently integrates state-of-the-art discrete electronic components able to support a variety of smart applications. The node comprises an ARM CortexM based microcontroller designed for low power wireless applications, a power management unit and several sensors for which special adapters have been implemented. The proposed IoT node is being validated in vineyard fields, in the framework of precision agriculture practice, with the aim of collecting critical environmental parameters, to be used as input to algorithmic models for the detection and subsequently prevention of related agricultural diseases.",
+  "references": null
+}

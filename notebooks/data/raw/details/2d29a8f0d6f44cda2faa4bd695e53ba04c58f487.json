@@ -1,0 +1,74 @@
+{
+  "paperId": "2d29a8f0d6f44cda2faa4bd695e53ba04c58f487",
+  "externalIds": {
+    "MAG": "2802541306",
+    "DOI": "10.22004/AG.ECON.273117",
+    "CorpusId": 211376592
+  },
+  "url": "https://www.semanticscholar.org/paper/2d29a8f0d6f44cda2faa4bd695e53ba04c58f487",
+  "title": "Precision agriculture in Hungary: assessment of perceptions and accounting records of FADN arable farms",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22004/AG.ECON.273117?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22004/AG.ECON.273117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46558757",
+      "name": "K. György"
+    },
+    {
+      "authorId": "2075583150",
+      "name": "Ibolya Lámfalusi"
+    },
+    {
+      "authorId": "47752731",
+      "name": "A. Molnár"
+    },
+    {
+      "authorId": "88219695",
+      "name": "D. Sulyok"
+    },
+    {
+      "authorId": "22921898",
+      "name": "M. Gaál"
+    },
+    {
+      "authorId": "47574729",
+      "name": "Z. Horváth"
+    },
+    {
+      "authorId": "100641510",
+      "name": "Csaba Domán"
+    },
+    {
+      "authorId": "2057522600",
+      "name": "Ivett Illés"
+    },
+    {
+      "authorId": "48095725",
+      "name": "A. Kiss"
+    },
+    {
+      "authorId": "2060450981",
+      "name": "K. Péter"
+    },
+    {
+      "authorId": "123511242",
+      "name": "G. Kemény"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

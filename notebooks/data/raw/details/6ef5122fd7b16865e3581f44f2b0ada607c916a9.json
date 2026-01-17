@@ -1,0 +1,47 @@
+{
+  "paperId": "6ef5122fd7b16865e3581f44f2b0ada607c916a9",
+  "externalIds": {
+    "DBLP": "journals/mva/DijkstraLSW19",
+    "MAG": "2884188838",
+    "DOI": "10.1007/s00138-018-0965-4",
+    "CorpusId": 51890444
+  },
+  "url": "https://www.semanticscholar.org/paper/6ef5122fd7b16865e3581f44f2b0ada607c916a9",
+  "title": "Hyperspectral demosaicking and crosstalk correction using deep learning",
+  "venue": "Machine Vision and Applications",
+  "year": 2018,
+  "citationCount": 42,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00138-018-0965-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00138-018-0965-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40109500",
+      "name": "K. Dijkstra"
+    },
+    {
+      "authorId": "41221290",
+      "name": "J. V. D. Loosdrecht"
+    },
+    {
+      "authorId": "1799278",
+      "name": "Lambert Schomaker"
+    },
+    {
+      "authorId": "32239759",
+      "name": "M. Wiering"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

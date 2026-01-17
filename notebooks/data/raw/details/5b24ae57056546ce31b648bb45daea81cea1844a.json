@@ -1,0 +1,266 @@
+{
+  "paperId": "5b24ae57056546ce31b648bb45daea81cea1844a",
+  "externalIds": {
+    "PubMedCentral": "6325135",
+    "MAG": "2910983903",
+    "DOI": "10.1038/s41467-018-07964-7",
+    "CorpusId": 57617569,
+    "PubMed": "30622266"
+  },
+  "url": "https://www.semanticscholar.org/paper/5b24ae57056546ce31b648bb45daea81cea1844a",
+  "title": "Transforming insect population control with precision guided sterile males with demonstration in flies",
+  "venue": "Nature Communications",
+  "year": 2019,
+  "citationCount": 204,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41467-018-07964-7.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6325135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Study"
+  ],
+  "authors": [
+    {
+      "authorId": "5632300",
+      "name": "Nikolay P. Kandul"
+    },
+    {
+      "authorId": "46701369",
+      "name": "Junru Liu"
+    },
+    {
+      "authorId": "17937456",
+      "name": "H. Sánchez C."
+    },
+    {
+      "authorId": "41133734",
+      "name": "Sean L. Wu"
+    },
+    {
+      "authorId": "69983523",
+      "name": "John M. Marshall"
+    },
+    {
+      "authorId": "6928917",
+      "name": "O. Akbari"
+    }
+  ],
+  "abstract": "The sterile insect technique (SIT) is an environmentally safe and proven technology to suppress wild populations. To further advance its utility, a novel CRISPR-based technology termed precision guided SIT (pgSIT) is described. PgSIT mechanistically relies on a dominant genetic technology that enables simultaneous sexing and sterilization, facilitating the release of eggs into the environment ensuring only sterile adult males emerge. Importantly, for field applications, the release of eggs will eliminate burdens of manually sexing and sterilizing males, thereby reducing overall effort and increasing scalability. Here, to demonstrate efficacy, we systematically engineer multiple pgSIT systems in Drosophila which consistently give rise to 100% sterile males. Importantly, we demonstrate that pgSIT-generated sterile males are fit and competitive. Using mathematical models, we predict pgSIT will induce substantially greater population suppression than can be achieved by currently-available self-limiting suppression technologies. Taken together, pgSIT offers to potentially transform our ability to control insect agricultural pests and disease vectors.Sterile Insect Technique (SIT) is used to suppress wild populations. Here the authors integrate CRISPR-based technology and SIT to develop a precision guided SIT (pgSIT), and demonstrate its proof-of-principle by generating 100% sterile males.",
+  "references": [
+    {
+      "paperId": "6e6460c98b6e6e967082ed83573900ff40abf854"
+    },
+    {
+      "paperId": "91edb92cc76163d09e98ee316a5f23ff28b53cfb"
+    },
+    {
+      "paperId": "6933cf5143051c057e3a5e10fd47224f162784f6"
+    },
+    {
+      "paperId": "3312af9fa93043dec15d4ed12e2dce46dd2986ef"
+    },
+    {
+      "paperId": "97f6a408f629c2fe0303898ed16bdbac767f0544"
+    },
+    {
+      "paperId": "3beb8cc8e61f00b4f001b271e5aa6639d1de8592"
+    },
+    {
+      "paperId": "ade9372d9bc62c0fd0e797ad0dba26b36310ddfc"
+    },
+    {
+      "paperId": "076c4f5e4af51606693d5bbde314a380fda6cce5"
+    },
+    {
+      "paperId": "2fa86ef86caf01f39c0499ebd9864ecde0ab023e"
+    },
+    {
+      "paperId": "18bb1ae8b46aa397e933078b9b17e132f45322b2"
+    },
+    {
+      "paperId": "1361f69739e29e80a01fbb313b301984199b70a2"
+    },
+    {
+      "paperId": "3626a379e326909604349496129b92a5094d58d3"
+    },
+    {
+      "paperId": "11feaf08ffc6feb1f8515c4d00921667c6086353"
+    },
+    {
+      "paperId": "3c9ec9acc84783213d22b597a2ae997eec5bd91c"
+    },
+    {
+      "paperId": "1852de866d87e0ac49148e43dc90358dd07cfe24"
+    },
+    {
+      "paperId": "fd25e176c47d014baa61a4e8d64f2ae11cf49bc3"
+    },
+    {
+      "paperId": "32f277eaf28f8838dd5748ad96323491eef80e04"
+    },
+    {
+      "paperId": "23c254c595745940e11ce5424de5aaea294fb981"
+    },
+    {
+      "paperId": "2267d543298d802ea013d2840c20b73a223b2059"
+    },
+    {
+      "paperId": "443e6b17f5294325f8294278789b8c69b8a6ef19"
+    },
+    {
+      "paperId": "c191900ecb5602c3f05d3c89ecc71f50c1ccf75a"
+    },
+    {
+      "paperId": "6d2847d42ac7dff4b4eac1c2d4b6873069b0d96e"
+    },
+    {
+      "paperId": "6663201e57b09d34359d0f23b7ffe187b2e80ea9"
+    },
+    {
+      "paperId": "e1ad31371a2246c23f6b97d207206e1d417a93af"
+    },
+    {
+      "paperId": "fe83d0bb8a9ca36a05ae18058d779b72a7afe627"
+    },
+    {
+      "paperId": "7fb736d1ab12cb9c6431248e19c1f45a39c2d096"
+    },
+    {
+      "paperId": "b3db012cd1546f435e9b4884bc14ef1f7f268788"
+    },
+    {
+      "paperId": "a2f1bf7bf30701e6519467fc8e57439729df1c3b"
+    },
+    {
+      "paperId": "07393caa1fa643ac5066fbeb0e8e9120e0de0207"
+    },
+    {
+      "paperId": "8566feef5fc343655cdadfde9fed4e7a2861ebe3"
+    },
+    {
+      "paperId": "762c6a54b72da1e45605b8fc04862f2f6effd1e4"
+    },
+    {
+      "paperId": "02169fd34b13949f81989d9479467e00dbb793ce"
+    },
+    {
+      "paperId": "1c463ea54417939132c3cb1666a197032cb0ebb0"
+    },
+    {
+      "paperId": "4096fb2845949152d4ac568fe275d730e46866c1"
+    },
+    {
+      "paperId": "7fb25c05590a380bc1ea74d1de50a89d877c46f6"
+    },
+    {
+      "paperId": "600d0285a8c21e5909a6fc31c5afe80d828c4ee1"
+    },
+    {
+      "paperId": "6f5bd322e529d7f27e4220b5fcd9522a4adadb3f"
+    },
+    {
+      "paperId": "218e2007b82d42964c4f7b03601dbf1e730a9f77"
+    },
+    {
+      "paperId": "aa10454b0442755287676aeb4cab25da017a0040"
+    },
+    {
+      "paperId": "b89568132eeb6216e2bf56cccdf503d7a5b4f35b"
+    },
+    {
+      "paperId": "b432aefe545ee5cc726b624fb60135f9a427ebe8"
+    },
+    {
+      "paperId": "f903462e19cd99ba2b0aa506b8afbc9be9a3a8cb"
+    },
+    {
+      "paperId": "922ebbb7ccf9bfcc0ebef3fd1ba42d23b48bdeca"
+    },
+    {
+      "paperId": "5df2c683c840cec35ccaff406d465be809a5cb62"
+    },
+    {
+      "paperId": "a53ffd0a8ffdcf869b7144ff6804b1c6b3247cfa"
+    },
+    {
+      "paperId": "9c34dcab0bfdf14dae90db536732eb7d54b56198"
+    },
+    {
+      "paperId": "719d9212b8a7d74d97bda0ee86484bc67ff0f216"
+    },
+    {
+      "paperId": "40b68abdb52d7227742b3d23fe809f384d608605"
+    },
+    {
+      "paperId": "b8b58878ec8167ceab621eebaf1af0e16a607299"
+    },
+    {
+      "paperId": "341b0aef389d399a66ada655eb40138596d8d8b1"
+    },
+    {
+      "paperId": "a47008fc760c01851a911f0a972efb5ae4651aa8"
+    },
+    {
+      "paperId": "e230a7b822e3f5730ccb90fc45b8f47c9f29f47a"
+    },
+    {
+      "paperId": "a25090f4c62138935be4ec265ebd7c2cd5ff5d92"
+    },
+    {
+      "paperId": "9d9ef3fa64eadf7bb29ed1379fac87dca3118a09"
+    },
+    {
+      "paperId": "c2ea7e3886dc03059b3f6ce63d3ad722518134b1"
+    },
+    {
+      "paperId": "ccb263b2c6f1bcebe3c03eec752ef4ebe4aca3c9"
+    },
+    {
+      "paperId": "1edc9aa5edc0f530b71825cf0accc57f650861d5"
+    },
+    {
+      "paperId": "1fa9d6e1e83dd1bf461f748ecedcb412dfdeccec"
+    },
+    {
+      "paperId": "580f5239f8b7cc690904cae8d4d7e67ad885f774"
+    },
+    {
+      "paperId": "5adccff5c8a61cdd6472039914ad553f0b56c12d"
+    },
+    {
+      "paperId": "eb734041496562348ed03c831dae829f35897158"
+    },
+    {
+      "paperId": "bed57299acaa4b9fe3e14562dd7a780b855e2451"
+    },
+    {
+      "paperId": "9f15a944622237baeb1db96b9294e26fc7ab5d21"
+    },
+    {
+      "paperId": "bc142dc36b556927155bcbd2e0401a5771d23f69"
+    },
+    {
+      "paperId": "dad44aaf1239dd48d91a49082affbdf7b033f299"
+    },
+    {
+      "paperId": "ab17ef99168f271c78ccc1cc70fb2b4994c84725"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c05b486a920ab39c8eea4d209f8ff97cbafc6662"
+    }
+  ]
+}

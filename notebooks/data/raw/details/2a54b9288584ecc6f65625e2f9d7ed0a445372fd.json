@@ -1,0 +1,52 @@
+{
+  "paperId": "2a54b9288584ecc6f65625e2f9d7ed0a445372fd",
+  "externalIds": {
+    "MAG": "2953525512",
+    "DBLP": "conf/paams/SkobelevLMSY19",
+    "DOI": "10.1007/978-3-030-24209-1_18",
+    "CorpusId": 195656304
+  },
+  "url": "https://www.semanticscholar.org/paper/2a54b9288584ecc6f65625e2f9d7ed0a445372fd",
+  "title": "Smart Farming - Open Multi-agent Platform and Eco-System of Smart Services for Precision Farming",
+  "venue": "Practical Applications of Agents and Multi-Agent Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-24209-1_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-24209-1_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1787944",
+      "name": "P. Skobelev"
+    },
+    {
+      "authorId": "148300154",
+      "name": "Vladimir Larukchin"
+    },
+    {
+      "authorId": "145832943",
+      "name": "I. Mayorov"
+    },
+    {
+      "authorId": "144198203",
+      "name": "E. Simonova"
+    },
+    {
+      "authorId": "87731260",
+      "name": "O. Yalovenko"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

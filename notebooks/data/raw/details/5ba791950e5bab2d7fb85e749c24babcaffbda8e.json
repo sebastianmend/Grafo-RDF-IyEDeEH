@@ -1,0 +1,56 @@
+{
+  "paperId": "5ba791950e5bab2d7fb85e749c24babcaffbda8e",
+  "externalIds": {
+    "MAG": "2915808390",
+    "DOI": "10.4315/0362-028X.JFP-18-366",
+    "CorpusId": 73512590,
+    "PubMed": "30810380"
+  },
+  "url": "https://www.semanticscholar.org/paper/5ba791950e5bab2d7fb85e749c24babcaffbda8e",
+  "title": "Comparative Performance Evaluation of Real-Time PCR and Dual-Labeled Fluorescence Resonance Energy Transfer Probe-Based Melt Peak Analysis for the Detection of Escherichia coli O157:H7 in Beef Products.",
+  "venue": "Journal of Food Protection",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.4315/0362-028x.jfp-18-366",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4315/0362-028X.JFP-18-366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4315/0362-028X.JFP-18-366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6886715",
+      "name": "J. Bosilevac"
+    },
+    {
+      "authorId": "6668031",
+      "name": "H. Dwivedi"
+    },
+    {
+      "authorId": "8892354",
+      "name": "P. Chablain"
+    },
+    {
+      "authorId": "4230375",
+      "name": "M. Ullery"
+    },
+    {
+      "authorId": "47754701",
+      "name": "J. S. Bailey"
+    },
+    {
+      "authorId": "8173992",
+      "name": "V. Dutta"
+    }
+  ],
+  "abstract": "Contaminated beef and beef products remain a frequent vehicle for the transmission of Escherichia coli O157:H7. The current U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS) regulatory testing for E. coli O157:H7 uses the method described in the USDA-FSIS Microbiology Laboratory Guidebook (MLG), chapter 5. At times, described presumptive test results are nonconfirmable, suggesting that recent PCR technological advancements and presumed enhanced sensitivity and specificity may offer beneficial changes. Here, we have evaluated the precision and sensitivity of a fluorescence resonance energy transfer-based real-time PCR assay called ECO for the detection of E. coli O157:H7. ECO detects the gene target specific to both E. coli O157:H7 and E. coli O157:non-H7 but distinguishes the two by using a melt curve analysis. A total of 3,113 O157:H7 and O157:non-H7 isolates were used to define this melting temperature-based criteria. The simulated comparative performance evaluation in the spiked beef samples indicated detection of 3 of 3 samples by ECO at <3.3 log CFU/mL, whereas MLG only detected 1 of 3 (<3.3 log CFU/mL). Using modified tryptic soy broth-enriched natural beef and veal product samples ( n = 452), the comparative sensitivity, specificity, false-positive rate, and false-negative rate against culture between MLG and ECO were 75 versus 92%, 91 versus 99%, 8.9 versus 0.77%, and 25 versus 8.3%, respectively. Positive predictive value, negative predictive value, and the overall accuracy were found to be 56 versus 94%, 96 versus 98%, and 88 versus 98%, for MLG and ECO, respectively. These data demonstrate that the ECO assay is comparable to MLG detection of E. coli O157:H7 and offers improved sensitivity.",
+  "references": null
+}

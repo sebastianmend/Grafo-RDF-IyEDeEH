@@ -1,0 +1,50 @@
+{
+  "paperId": "547a4052b743ff1a89e0314171b566f2e24c00c6",
+  "externalIds": {
+    "MAG": "2889821810",
+    "DOI": "10.1109/ICUAS.2018.8453426",
+    "CorpusId": 52166220
+  },
+  "url": "https://www.semanticscholar.org/paper/547a4052b743ff1a89e0314171b566f2e24c00c6",
+  "title": "Low-cost multispectral imaging system for crop monitoring",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2018,
+  "citationCount": 46,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2018.8453426?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2018.8453426, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30996038",
+      "name": "A. M. D. Oca"
+    },
+    {
+      "authorId": "121721410",
+      "name": "L. Arreola"
+    },
+    {
+      "authorId": "144052709",
+      "name": "A. Flores"
+    },
+    {
+      "authorId": "2210364444",
+      "name": "J. Sanchez"
+    },
+    {
+      "authorId": "2286141318",
+      "name": "Gerardo Flores"
+    }
+  ],
+  "abstract": "This work presents the design and development of a multispectral imaging system to precision agriculture tasks. The imaging system features two small digital cameras controlled by a microcomputer embedded in a drone. One of the cameras has been modified to be sensitive to near-infrared radiation reflected by the vegetation, whereas the other one remains as a common RGB camera. In order to determine the health status of the crop, the Normalized Difference Vegetation Index (NDVI) is computed in a developed software. Once the aerial imagery is obtained by the drone, it is processed to eliminate image distortions and insert specific metadata needed for generating the orthomosaics with the health information of the plant or soil of interest. Finally, the vegetation index will be computed from the visible and near-infrared orthomosaics for a better interpretation of the user. Experiments are presented to show the effectiveness of the system.",
+  "references": null
+}

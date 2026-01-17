@@ -1,0 +1,45 @@
+{
+  "paperId": "2bea66872dc842b0b38454eed15a08c1d0b4c619",
+  "externalIds": {
+    "MAG": "2802502990",
+    "DOI": "10.1002/rcm.8153",
+    "CorpusId": 19139462,
+    "PubMed": "29729057"
+  },
+  "url": "https://www.semanticscholar.org/paper/2bea66872dc842b0b38454eed15a08c1d0b4c619",
+  "title": "Determination of tebuconazole and penconazole fungicides in rat and human hair by liquid chromatography/tandem mass spectrometry.",
+  "venue": "Rapid Communications in Mass Spectrometry",
+  "year": 2018,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://air.unimi.it/bitstream/2434/576201/3/Polledri%20et%20al_REV_final.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rcm.8153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rcm.8153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15313344",
+      "name": "E. Polledri"
+    },
+    {
+      "authorId": "88647365",
+      "name": "R. Mercadante"
+    },
+    {
+      "authorId": "6092775",
+      "name": "S. Fustinoni"
+    }
+  ],
+  "abstract": "RATIONALE\nTebuconazole (TEB) and penconazole (PEN) are widely applied fungicides and environmental contaminants; their toxicological properties include possible effects to the unborn child, therefore, the evaluation of human exposure is relevant to risk assessment. Hair is a non-invasive specimen that incorporates pollutants allowing an extended exposure window to be surveyed. The aim of this work was to develop and validate an assay for the determination of TEB and PEN in human hair.\n\n\nMETHODS\nUnder optimised conditions, analytes were extracted by soaking hair in acetonitrile, in the presence of deuterated analogues, under heating and agitation. Chemical separation was achieved using a C18 reversed-phase chromatographic column and detection and quantification were performed, after positive electrospray ionization, by triple quadrupole mass spectrometry operating in selected reaction monitoring mode.\n\n\nRESULTS\nThe assay validation showed a linear dynamic range up to 5 μg/L or 200 pg/mg hair, inter- and intra-run precisions <6%, and accuracies within 5% of spiked concentrations. Limits of quantification were 0.001 μg/L or 1 pg/mg hair for both TEB and PEN. Matrix effect experiments showed that the isotope dilution approach allowed for the control of bias sources. TEB and PEN were determined in hair of rats exposed to a low dose of TEB and in hair of agricultural workers exposed to TEB and/or PEN during the application season, indicating that both chemicals are incorporated into the hair upon exposure.\n\n\nCONCLUSIONS\nThe results of this study indicate that the developed assay is useful to evaluate the exposure to TEB and PEN in humans.",
+  "references": null
+}

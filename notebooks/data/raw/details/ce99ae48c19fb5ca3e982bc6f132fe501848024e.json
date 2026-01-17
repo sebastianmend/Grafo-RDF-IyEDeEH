@@ -1,0 +1,54 @@
+{
+  "paperId": "ce99ae48c19fb5ca3e982bc6f132fe501848024e",
+  "externalIds": {
+    "MAG": "2982170977",
+    "DOI": "10.1007/978-3-030-33614-1_4",
+    "CorpusId": 208093977
+  },
+  "url": "https://www.semanticscholar.org/paper/ce99ae48c19fb5ca3e982bc6f132fe501848024e",
+  "title": "Image Analysis Based on Heterogeneous Architectures for Precision Agriculture: A Systematic Literature Review",
+  "venue": "Advances and Applications in Computer Science, Electronics and Industrial Engineering",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-33614-1_4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-33614-1_4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1417832084",
+      "name": "Marco Pusdá-Chulde"
+    },
+    {
+      "authorId": "1419479617",
+      "name": "F. Salazar-Fierro"
+    },
+    {
+      "authorId": "1417846312",
+      "name": "Lucía Sandoval-Pillajo"
+    },
+    {
+      "authorId": "1410144656",
+      "name": "Erick P. Herrera-Granda"
+    },
+    {
+      "authorId": "1410207107",
+      "name": "Iván D. García-Santillán"
+    },
+    {
+      "authorId": "46267017",
+      "name": "A. De Giusti"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,39 @@
+{
+  "paperId": "c07ecaef10dae101e2072328b1869ad6a78811d6",
+  "externalIds": {
+    "DOI": "10.33133/jres-3-2018-182",
+    "CorpusId": 269468721
+  },
+  "url": "https://www.semanticscholar.org/paper/c07ecaef10dae101e2072328b1869ad6a78811d6",
+  "title": "Internet de las cosas (IOT) en las ciencias agrícolas, propósito de una solución estándar para aplicaciones en Colombia",
+  "venue": "Journal of Research in Engineering Science- JRES",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://revistas.uniagraria.edu.co/index.php/jres/article/download/182/171",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.33133/jres-3-2018-182?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33133/jres-3-2018-182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "153842238",
+      "name": "C. Suárez"
+    },
+    {
+      "authorId": "147628219",
+      "name": "M. Villarreal"
+    },
+    {
+      "authorId": "134288768",
+      "name": "L. Castelblanco"
+    }
+  ],
+  "abstract": "The wireless sensor networks (WSN) are a technology that has been underway for several years with high potential in the Internet of Things (IoT) applied to agriculture. One of the main challenges is the construction of these systems. This article main objective is to show to design and implementation of full technological system that will aim to strengthen precision agriculture in Colombia, through the construction of a wireless sensor node with communication modules, capable of measuring the variability of the environment and the soil and how connect this devices to cloud computing, a system proposed motivated on the creation of an open source model of precision agriculture, based on the extraction and gathering of environmental data, from remote sensors. Furthermore, the paper explains the overall applications propose in the world and the current technological developments in the agricultural sector in Colombia, emphases on researching on the architecture and key technology of Internet of Things (IoT). Finally, the paper demonstrates the development of a technology-based project that offers an efficient solution and contributes to the welfare of a specific target population, the Agro of Colombia.",
+  "references": null
+}

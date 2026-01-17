@@ -1,0 +1,46 @@
+{
+  "paperId": "cc364a8a308b2b2abb26860de6372507089acd22",
+  "externalIds": {
+    "MAG": "2901585082",
+    "DOI": "10.1109/INTERCON.2018.8526414",
+    "CorpusId": 53286979
+  },
+  "url": "https://www.semanticscholar.org/paper/cc364a8a308b2b2abb26860de6372507089acd22",
+  "title": "PETEFA: Geographic Information System for Precision Agriculture",
+  "venue": "2018 IEEE XXV International Conference on Electronics, Electrical Engineering and Computing (INTERCON)",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INTERCON.2018.8526414?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INTERCON.2018.8526414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2098715368",
+      "name": "Walther Palomino"
+    },
+    {
+      "authorId": "51441246",
+      "name": "Giorgio Morales"
+    },
+    {
+      "authorId": "51450788",
+      "name": "Samuel G. Huamán"
+    },
+    {
+      "authorId": "46289213",
+      "name": "J. Telles"
+    }
+  ],
+  "abstract": "Providing timely information through remote sensing tools to the farmers and to the National Institute of Agrarian Innovation (INIA) is important to manage the production of yellow corn crops (Zea Mays) in the region of Lambayeque, Peru. This paper addresses three objectives by providing information in different levels: First, provide information about the Normalized Difference Vegetation Index (NDVI) from crops in their different stages during their lifecycle; secondly, provide georeferenced soil analysis information organized by parcels and, finally, provide information about evapotranspiration of each parcel calculated using weather station sensors, soil type, land uses and georefer-enced NDVI masks. All this information is provided through a Geographic Information System called Remote Sensing Platform for Agricultural Purposes (PETEFA), which is based on open source tools. In short, PETEFA is a monitoring tool that provides information through a computer or mobile device to the farmers or the INIA.",
+  "references": null
+}

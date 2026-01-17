@@ -1,0 +1,38 @@
+{
+  "paperId": "3948d53b9b5576f88514114fb28133e245189458",
+  "externalIds": {
+    "MAG": "2884251864",
+    "DOI": "10.1007/s11270-018-3905-z",
+    "CorpusId": 105569296
+  },
+  "url": "https://www.semanticscholar.org/paper/3948d53b9b5576f88514114fb28133e245189458",
+  "title": "Delocalization of Salt Solution in a Semiarid Farmland Topsoil",
+  "venue": "Water, Air and Soil Pollution",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11270-018-3905-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11270-018-3905-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145936882",
+      "name": "F. Cassel"
+    },
+    {
+      "authorId": "2109852790",
+      "name": "Shankar Sharma"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

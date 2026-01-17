@@ -1,0 +1,174 @@
+{
+  "paperId": "160229d387b2d067e78dbb54e2288e347eb40955",
+  "externalIds": {
+    "PubMedCentral": "6210438",
+    "DBLP": "journals/sensors/Goumopoulos18",
+    "MAG": "2897007284",
+    "DOI": "10.3390/s18103445",
+    "CorpusId": 52985838,
+    "PubMed": "30322164"
+  },
+  "url": "https://www.semanticscholar.org/paper/160229d387b2d067e78dbb54e2288e347eb40955",
+  "title": "A High Precision, Wireless Temperature Measurement System for Pervasive Computing Applications",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 29,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/10/3445/pdf?version=1539677642",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6210438, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1831678",
+      "name": "C. Goumopoulos"
+    }
+  ],
+  "abstract": "This paper describes the design and calibration of a highly accurate temperature measurement system for pervasive computing applications. A negative temperature coefficient (NTC) thermistor with high resistance tolerance is interfaced through a conditioning circuit to a 12-bit digital converter of a wireless microcontroller. The system is calibrated to minimize the effect of component uncertainties and achieves an accuracy of ±0.03 °C on average (±0.05 °C in worst cases) in a 5 °C to 45 °C range. The calibration process is based on a continuous temperature sweep, while calibration data are simultaneously logged to reduce the delays and cost of conventional calibration approaches. An uncertainty analysis is performed to support the validity of the reported performance results. The described approach for interfacing the thermistor to the hardware platform can be straightforwardly adjusted for different thermistors, temperature ranges/accuracy levels/resolutions, and voltage ranges. The low power communication combined with the energy consumption optimization adopted enable an operation to be autonomic for several months to years depending on the application’s measurement frequency requirements. The system cost is approximately $45 USD in components, while its design and compact size allow its integration with extended monitoring systems in various pervasive computing environments. The system has been thoroughly tested and validated in a field trial concerning a precision agriculture application and is currently used in a health monitoring application.",
+  "references": [
+    {
+      "paperId": "c0a27c3cf5300a45824079819f8aa392b3a2b7e6"
+    },
+    {
+      "paperId": "7b18d60e4e867251c96c462dc1979b4dc8902d01"
+    },
+    {
+      "paperId": "fcc775e2f465de30507da3753a3d634ac1a657f2"
+    },
+    {
+      "paperId": "800265429b66023678102020491c4fc4b61753d9"
+    },
+    {
+      "paperId": "60572e1208876fd1242786bc37bf7f657f48cddc"
+    },
+    {
+      "paperId": "424f00401ed4f9c188fde8e5d83d9ed0ea1aac78"
+    },
+    {
+      "paperId": "793153c4a89e7120eae3d4579e3144613750cee2"
+    },
+    {
+      "paperId": "b9ca81ed55556cdf00a1d7e28775ef12e205dd2e"
+    },
+    {
+      "paperId": "0a4c84500791359e7ea9fe01a651bb5cf9062d11"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "d131f6bb686cd0acd368e47006ff46efc392f40b"
+    },
+    {
+      "paperId": "3cf943cc86801302e27e6cf4c2278a2aee23bfe7"
+    },
+    {
+      "paperId": "df6846309f81dbf00d37c10a44a65258e8457cdc"
+    },
+    {
+      "paperId": "163c331e2212d7ed3b46d47428eeb1a17af19f34"
+    },
+    {
+      "paperId": "dcf7cfae03317b809b7d48e5e1edafaa3976c543"
+    },
+    {
+      "paperId": "b30ded53a6cc0f18fd27b376a2059c3be33dffc4"
+    },
+    {
+      "paperId": "875511c3c8823f13f6e8d7adf4d8597d9e8d8e47"
+    },
+    {
+      "paperId": "0eefaeda9616df00cf46cd946bff9e4c782d6402"
+    },
+    {
+      "paperId": "1cecfe828d2ed405ed77f1ff789afe8a9a2c203a"
+    },
+    {
+      "paperId": "b32b8bd64b9415a0093d4e2a7b63ae1db3a45fd7"
+    },
+    {
+      "paperId": "b4ecdfcc9e562fdf5913a233fbb2691635b4a008"
+    },
+    {
+      "paperId": "40340080ebc013fbda980d3046f055262aa8a7a9"
+    },
+    {
+      "paperId": "af1ce596fbeade488348d36291001c19bdf58642"
+    },
+    {
+      "paperId": "190be30d64c198733280a72d4565dbc92861ab96"
+    },
+    {
+      "paperId": "f78b50777ba2055d8916b7fddceee7a4119ad286"
+    },
+    {
+      "paperId": "458d25b285a0653612593097f0d22d3f65f579bf"
+    },
+    {
+      "paperId": "0200d9c9406e1ac387eff0f1f89d08bfad81433c"
+    },
+    {
+      "paperId": "856958549a2badd18ee507d4c31eba2e400db4ef"
+    },
+    {
+      "paperId": "296ccb5beb640766c1c2845c974f5f015817d580"
+    },
+    {
+      "paperId": "a663b8e35cba75eed19d3947c93dfb651366ed03"
+    },
+    {
+      "paperId": "e778a09e5c1aa5eb693c07f67bb63dbb378cb742"
+    },
+    {
+      "paperId": "04a184579905d89c54497a214c7d1fe200168000"
+    },
+    {
+      "paperId": "291b7a3b574f2bbea2f17ea00814e5b22156a88b"
+    },
+    {
+      "paperId": "6624c2b2aff63462b7e961628e566a6c974ce2cb"
+    },
+    {
+      "paperId": "beaf33422723a653ccb9d2269786254e8d379297"
+    },
+    {
+      "paperId": "8e0b9528049ab879687f17168b532ab410f2ee09"
+    },
+    {
+      "paperId": "a2ea97b99761f132a4433053f5a0c8c376bfca13"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bcfc0c19a7022ae3f5d909eddb9d768c2936a567"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "313ee307f6eb3f8dd46d6d6beb3dbe26c78ba3b0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

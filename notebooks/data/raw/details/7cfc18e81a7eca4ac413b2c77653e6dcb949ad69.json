@@ -1,0 +1,220 @@
+{
+  "paperId": "7cfc18e81a7eca4ac413b2c77653e6dcb949ad69",
+  "externalIds": {
+    "DBLP": "journals/sensors/Sosa-HerreraVAC19",
+    "PubMedCentral": "6864826",
+    "MAG": "2984115695",
+    "DOI": "10.3390/s19214817",
+    "CorpusId": 207944133,
+    "PubMed": "31694328"
+  },
+  "url": "https://www.semanticscholar.org/paper/7cfc18e81a7eca4ac413b2c77653e6dcb949ad69",
+  "title": "Geographic Object-Based Analysis of Airborne Multispectral Images for Health Assessment of Capsicum annuum L. Crops",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/21/4817/pdf?version=1573032934",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6864826, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1404259185",
+      "name": "Jesús A. Sosa-Herrera"
+    },
+    {
+      "authorId": "2384219320",
+      "name": "Moisés R. Vallejo-Pérez"
+    },
+    {
+      "authorId": "1404259173",
+      "name": "Nohemí Álvarez-Jarquín"
+    },
+    {
+      "authorId": "1403977231",
+      "name": "Néstor M. Cid-García"
+    },
+    {
+      "authorId": "1401686670",
+      "name": "D. López-Araujo"
+    }
+  ],
+  "abstract": "Vegetation health assessment by using airborne multispectral images throughout crop production cycles, among other precision agriculture technologies, is an important tool for modern agriculture practices. However, to really take advantage of crop fields imagery, specialized analysis techniques are needed. In this paper we present a geographic object-based image analysis (GEOBIA) approach to examine a set of very high resolution (VHR) multispectral images obtained by the use of small unmanned aerial vehicles (UAVs), to evaluate plant health states and to generate cropland maps for Capsicum annuum L. The scheme described here integrates machine learning methods with semi-automated training and validation, which allowed us to develop an algorithmic sequence for the evaluation of plant health conditions at individual sowing point clusters over an entire parcel. The features selected at the classification stages are based on phenotypic traits of plants with different health levels. Determination of areas without data dependencies for the algorithms employed allowed us to execute some of the calculations as parallel processes. Comparison with the standard normalized difference vegetation index (NDVI) and biological analyses were also performed. The classification obtained showed a precision level of about 95% in discerning between vegetation and non-vegetation objects, and clustering efficiency ranging from 79% to 89% for the evaluation of different vegetation health categories, which makes our approach suitable for being incorporated at C. annuum crop’s production systems, as well as to other similar crops. This methodology can be reproduced and adjusted as an on-the-go solution to get a georeferenced plant health estimation.",
+  "references": [
+    {
+      "paperId": "9b67987902496171a556ba3e0eb699cb94e4546c"
+    },
+    {
+      "paperId": "58b0df021f79fa32d916a1de047db9601eac0dc1"
+    },
+    {
+      "paperId": "5a372b8f8e41711a173ab91cef2be19a3ed0abc4"
+    },
+    {
+      "paperId": "388e192f1e5726fac53498979ff93fc1483cc201"
+    },
+    {
+      "paperId": "1b47a7e17a43169d36c649a8e9bde9e8a2f06e44"
+    },
+    {
+      "paperId": "3665cf56901a2f00e78930dfed7c7635e57e30bb"
+    },
+    {
+      "paperId": "106692287a9170963152ea3d2dcc942dcb2c4a09"
+    },
+    {
+      "paperId": "74edd360ed667f791b06f1222d967ac00eda3d0c"
+    },
+    {
+      "paperId": "bac5251b27d5927a44e597ec3b99df6519e0dcca"
+    },
+    {
+      "paperId": "86910eb5899610146f0ab5e43134c1aedb4a4c1f"
+    },
+    {
+      "paperId": "a8d9f6da310a3c6381e5e70e1133b6835cf06dc1"
+    },
+    {
+      "paperId": "95055cc569267037ac1e7e491adcd5e2f1a5b654"
+    },
+    {
+      "paperId": "9b884d5df3cb1ba9fcd404f8dd0b23557da0adbd"
+    },
+    {
+      "paperId": "1991d10ebbfaece3db22f268a92d9a2e8c51c414"
+    },
+    {
+      "paperId": "966b08ae8efc07838c02fb5005bcc173f978b51d"
+    },
+    {
+      "paperId": "3c660ed6412425bf68dccedd6f098fcf6c4a5820"
+    },
+    {
+      "paperId": "dd07237311d2adeee2f91b88650be02a013fadc0"
+    },
+    {
+      "paperId": "af0a27eaef1df2e571ab374810c849ad2da5c48f"
+    },
+    {
+      "paperId": "25a2304fd18e51ac16aac4317c7024fa46924e59"
+    },
+    {
+      "paperId": "8d7ba3f2c0479cdd49d736f95fffbb2eb1b6840a"
+    },
+    {
+      "paperId": "1f407ba997265fdd0d72432dcf8b5d39ad5f0540"
+    },
+    {
+      "paperId": "fda5bf06be504342c92dfb21f481c5ac6d7ef356"
+    },
+    {
+      "paperId": "3a02beb0ffb573c31a6be82565f62ba7abe98bc7"
+    },
+    {
+      "paperId": "3ed45144b9cca10dfd6d18389da088d94b5a2454"
+    },
+    {
+      "paperId": "b1d078818b190de7d54f151bbd98dedf36e3e293"
+    },
+    {
+      "paperId": "74f4ecc3e4e5b91fbb54330b285ed5214afe2001"
+    },
+    {
+      "paperId": "836c615090d181c57c83a8726ebb562950cd80ad"
+    },
+    {
+      "paperId": "174f4b6f9ce7f26a214861bd72b40b443d602bae"
+    },
+    {
+      "paperId": "f2c1830eedc095b92a78dc3afa39a36343ed81ad"
+    },
+    {
+      "paperId": "c82d5b41e1bc4ef9f00227d00422ddaa9e36c2da"
+    },
+    {
+      "paperId": "70775788414459393eb6ddcf5dce95aac68721d0"
+    },
+    {
+      "paperId": "7dcd4ac966093dc332e29811020b6a6cc3a53d75"
+    },
+    {
+      "paperId": "a546e4a3e64679b1559a1abd3a745ac2159e7523"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4555a5e132ce2ff3ddcfdafcf475c48277dfe27a"
+    },
+    {
+      "paperId": "dead328e3d0d4459786bb3adbb0c581100f9ff63"
+    },
+    {
+      "paperId": "7c83f0c67fb9dd27e6ea57989ff5d02e61e6ace0"
+    },
+    {
+      "paperId": "539c4dcb8cc3f2886f24c3bf0c1399e70e1196be"
+    },
+    {
+      "paperId": "5c58125494432dfa1f9c8c9e8f0d82282cbd2664"
+    },
+    {
+      "paperId": "4f3c86938ae1742ad8a1139c1d7dd8ca87ce667c"
+    },
+    {
+      "paperId": "ea67efe9866b245ea2b0bbb526239fbd7070f635"
+    },
+    {
+      "paperId": "704a00ab9941390b24f1af4951b89495dc9c0078"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e6abb255df6eb98bb178396cb3b1e489420ff3c5"
+    },
+    {
+      "paperId": "052cbe80c4e99e6070df432aa8e462a966f56e49"
+    },
+    {
+      "paperId": "506dcc4e8f68b4d8df24c6f9840747b9f1c679fb"
+    },
+    {
+      "paperId": "4ff2f547975497f16ef2c9056254c54d4e8a555e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "646194ebdada7ab3a6f5ff485cd2d7c3430a5fe9"
+    },
+    {
+      "paperId": "ea0d088835e68c5ef05556a03e8812e26a2d8380"
+    },
+    {
+      "paperId": "5a13934630a8ae8b311244fa7fd05d8bd936831d"
+    },
+    {
+      "paperId": "6708a1962fc91b7d1e7cab52890456013c2b8ff3"
+    },
+    {
+      "paperId": "252f1f8952bf61ba4a1574146ce0cc8cdbf964bc"
+    },
+    {
+      "paperId": "8629f98b570c72b38c10ddbc398ab54a8c41372f"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

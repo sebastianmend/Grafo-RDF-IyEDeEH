@@ -1,0 +1,116 @@
+{
+  "paperId": "62e3fe6d6e594cb33d74250b3d830541e4eee839",
+  "externalIds": {
+    "MAG": "3092427807",
+    "DBLP": "journals/corr/abs-1901-00761",
+    "ArXiv": "1901.00761",
+    "DOI": "10.20906/CPS/CBA2018-1357",
+    "CorpusId": 57375794
+  },
+  "url": "https://www.semanticscholar.org/paper/62e3fe6d6e594cb33d74250b3d830541e4eee839",
+  "title": "Robotic Tankette for Intelligent BioEnergy Agriculture: Design, Development and Field Tests",
+  "venue": "arXiv.org",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1901.00761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "66987900",
+      "name": "Marco F. S. Xaud"
+    },
+    {
+      "authorId": "27088096",
+      "name": "A. C. Leite"
+    },
+    {
+      "authorId": "66066618",
+      "name": "Evelyn S. Barbosa"
+    },
+    {
+      "authorId": "2062790733",
+      "name": "Henrique D. Faria"
+    },
+    {
+      "authorId": "2075259193",
+      "name": "Gabriel Loureiro"
+    },
+    {
+      "authorId": "2129087",
+      "name": "P. From"
+    }
+  ],
+  "abstract": "In recent years, the use of robots in agriculture has been increasing mainly due to the high demand of productivity, precision and efficiency, which follow the climate change effects and world population growth. Unlike conventional agriculture, sugarcane farms are usually regions with dense vegetation, gigantic areas, and subjected to extreme weather conditions, such as intense heat, moisture and rain. TIBA - Tankette for Intelligent BioEnergy Agriculture - is the first result of an R&D project which strives to develop an autonomous mobile robotic system for carrying out a number of agricultural tasks in sugarcane fields. The proposed concept consists of a semi-autonomous, low-cost, dust and waterproof tankette-type vehicle, capable of infiltrating dense vegetation in plantation tunnels and carry several sensing systems, in order to perform mapping of hard-to-access areas and collecting samples. This paper presents an overview of the robot mechanical design, the embedded electronics and software architecture, and the construction of a first prototype. Preliminary results obtained in field tests validate the proposed conceptual design and bring about several challenges and potential applications for robot autonomous navigation, as well as to build a new prototype with additional functionality.",
+  "references": [
+    {
+      "paperId": "a209dfd1e1d5216558cd782716ed260963202e93"
+    },
+    {
+      "paperId": "1546f521f0fe6864877f95ab451cee7297c195b3"
+    },
+    {
+      "paperId": "0b055df17c2e4956b6e45920e032183de31689f7"
+    },
+    {
+      "paperId": "ead783252da63aed824cf4da15b1fef916af043c"
+    },
+    {
+      "paperId": "7338edc0af83cf864fbe7d75abb2dc6a08995747"
+    },
+    {
+      "paperId": "a0aaedd253249059252937b53d98b2c958a7ac3c"
+    },
+    {
+      "paperId": "9fb2199c9592e04dfd28413494ec806707f44af3"
+    },
+    {
+      "paperId": "987da946b403dfd3c90f06b5c41e49863ce7af1e"
+    },
+    {
+      "paperId": "b5b9164b44f507da5b17632d54931e37aaa3c760"
+    },
+    {
+      "paperId": "653568b33a4da7ccbcef57e9789eaa6a699a4263"
+    },
+    {
+      "paperId": "adf8d87d9f8ab9ef88abb8fba563bbf5aa24537d"
+    },
+    {
+      "paperId": "0334da16ae957d8b20a4f9cf864b3e5aa0608804"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "59adf45809a35155fd73f76ae763782c78c49183"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0b11ef8232e16c5b67a30643880db1d7dbe57baa"
+    },
+    {
+      "paperId": "d45eaee8b2e047306329e5dbfc954e6dd318ca1e"
+    },
+    {
+      "paperId": "2495be878a9a4cb7508b647512cfafbae84278ba"
+    },
+    {
+      "paperId": "cdbea62835010dce767f0f75be1912a9798f1d4c"
+    }
+  ]
+}

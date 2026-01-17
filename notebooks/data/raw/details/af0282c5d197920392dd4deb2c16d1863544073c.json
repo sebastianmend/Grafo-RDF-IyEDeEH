@@ -1,0 +1,52 @@
+{
+  "paperId": "af0282c5d197920392dd4deb2c16d1863544073c",
+  "externalIds": {
+    "MAG": "2921623020",
+    "DOI": "10.1016/j.jenvman.2019.03.031",
+    "CorpusId": 83460591,
+    "PubMed": "30884290"
+  },
+  "url": "https://www.semanticscholar.org/paper/af0282c5d197920392dd4deb2c16d1863544073c",
+  "title": "Lessons learned from using a decision-support tool for precision placement of conservation practices in six agricultural watersheds in the US midwest.",
+  "venue": "Journal of Environmental Management",
+  "year": 2019,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2019.03.031?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2019.03.031, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50146462",
+      "name": "Pranay Ranjan"
+    },
+    {
+      "authorId": "122450006",
+      "name": "Ajay S. Singh"
+    },
+    {
+      "authorId": "9968184",
+      "name": "M. Tomer"
+    },
+    {
+      "authorId": "145572004",
+      "name": "A. Lewandowski"
+    },
+    {
+      "authorId": "7271858",
+      "name": "L. Prokopy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

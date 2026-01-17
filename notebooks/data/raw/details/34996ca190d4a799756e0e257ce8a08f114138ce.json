@@ -1,0 +1,56 @@
+{
+  "paperId": "34996ca190d4a799756e0e257ce8a08f114138ce",
+  "externalIds": {
+    "MAG": "2902949125",
+    "DOI": "10.1007/s00271-018-0613-9",
+    "CorpusId": 54444334,
+    "PubMed": "31031514"
+  },
+  "url": "https://www.semanticscholar.org/paper/34996ca190d4a799756e0e257ce8a08f114138ce",
+  "title": "Assessment of different methods for shadow detection in high-resolution optical imagery and evaluation of shadow impact on calculation of NDVI, and evapotranspiration",
+  "venue": "Irrigation science",
+  "year": 2018,
+  "citationCount": 56,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480411",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00271-018-0613-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00271-018-0613-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51295084",
+      "name": "M. Aboutalebi"
+    },
+    {
+      "authorId": "1401923045",
+      "name": "Alfonso F. Torres-Rua"
+    },
+    {
+      "authorId": "1801018",
+      "name": "W. Kustas"
+    },
+    {
+      "authorId": "145769781",
+      "name": "H. Nieto"
+    },
+    {
+      "authorId": "2277817",
+      "name": "C. Coopmans"
+    },
+    {
+      "authorId": "38543517",
+      "name": "M. McKee"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

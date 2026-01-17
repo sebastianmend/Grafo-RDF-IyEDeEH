@@ -1,0 +1,45 @@
+{
+  "paperId": "751181ee61bbc664f621bc3f5812fdcae5c918bd",
+  "externalIds": {
+    "MAG": "2891029169",
+    "DBLP": "conf/ictinnovations/LameskiZK18",
+    "DOI": "10.1007/978-3-030-00825-3_12",
+    "CorpusId": 57516978
+  },
+  "url": "https://www.semanticscholar.org/paper/751181ee61bbc664f621bc3f5812fdcae5c918bd",
+  "title": "Review of Automated Weed Control Approaches: An Environmental Impact Perspective",
+  "venue": "ICT Innovations",
+  "year": 2018,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-00825-3_12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-00825-3_12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1769456",
+      "name": "Petre Lameski"
+    },
+    {
+      "authorId": "2269444",
+      "name": "Eftim Zdravevski"
+    },
+    {
+      "authorId": "145404865",
+      "name": "A. Kulakov"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

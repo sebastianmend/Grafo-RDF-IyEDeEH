@@ -1,0 +1,49 @@
+{
+  "paperId": "7aca1ecbacb06bc896d1d7c9b245b588e6996177",
+  "externalIds": {
+    "MAG": "2972317413",
+    "DBLP": "conf/i2mtc/PasqualeGPT19",
+    "DOI": "10.1109/I2MTC.2019.8826962",
+    "CorpusId": 202158816
+  },
+  "url": "https://www.semanticscholar.org/paper/7aca1ecbacb06bc896d1d7c9b245b588e6996177",
+  "title": "“Paper”Based Sensor for Deformation Measurements",
+  "venue": "International Instrumentation and Measurement Technology Conference",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/I2MTC.2019.8826962?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I2MTC.2019.8826962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "39663816",
+      "name": "G. Pasquale"
+    },
+    {
+      "authorId": "3051106",
+      "name": "S. Graziani"
+    },
+    {
+      "authorId": "144090616",
+      "name": "A. Pollicino"
+    },
+    {
+      "authorId": "1868726",
+      "name": "C. Trigona"
+    }
+  ],
+  "abstract": "A key issue for the success of IoT, industry 4.0 and precision agriculture is the development of sensors based on new materials and technologies. In particular, sensors which are environmentally friendly and low cost are of interest. Cellulose is one of the most abundant material on the earth. Eventually, it is green, cheap and presents several intriguing mechanical and electrical properties. In this paper the sensing properties of an all-polymeric composite, realized by using bacterial cellulose, organic conductors and ionic liquids are investigated. More specifically, it is shown that this novel composite is capable of sensing flexural deformations and producing a corresponding electrical signal. The obtained results pave the road to the possibility of realizing a new class of deformation sensors that fits the requirements of more sustainable sensor technologies. The sensor has been conceived, realized and an experimental campaign with the characterization has been performed obtaining very intriguing results.",
+  "references": null
+}

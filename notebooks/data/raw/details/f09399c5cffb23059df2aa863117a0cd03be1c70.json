@@ -1,0 +1,32 @@
+{
+  "paperId": "f09399c5cffb23059df2aa863117a0cd03be1c70",
+  "externalIds": {
+    "MAG": "2896527876",
+    "CorpusId": 133898691
+  },
+  "url": "https://www.semanticscholar.org/paper/f09399c5cffb23059df2aa863117a0cd03be1c70",
+  "title": "Saskatchewan soil survey maps: application to agronomy and precision agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144534777",
+      "name": "L. Henry"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

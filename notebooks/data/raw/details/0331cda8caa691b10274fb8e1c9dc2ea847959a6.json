@@ -1,0 +1,47 @@
+{
+  "paperId": "0331cda8caa691b10274fb8e1c9dc2ea847959a6",
+  "externalIds": {
+    "DBLP": "journals/ral/WinterhalterFDB18",
+    "MAG": "2866175125",
+    "DOI": "10.1109/LRA.2018.2852841",
+    "CorpusId": 51361820
+  },
+  "url": "https://www.semanticscholar.org/paper/0331cda8caa691b10274fb8e1c9dc2ea847959a6",
+  "title": "Crop Row Detection on Tiny Plants With the Pattern Hough Transform",
+  "venue": "IEEE Robotics and Automation Letters",
+  "year": 2018,
+  "citationCount": 89,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LRA.2018.2852841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LRA.2018.2852841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2288929",
+      "name": "W. Winterhalter"
+    },
+    {
+      "authorId": "2601599",
+      "name": "F. Fleckenstein"
+    },
+    {
+      "authorId": "2573148",
+      "name": "C. Dornhege"
+    },
+    {
+      "authorId": "2106871731",
+      "name": "Wolfram Burgard"
+    }
+  ],
+  "abstract": "In sustainable farming, robotic solutions are in rising demand. Specifically robots for precision agriculture open up possibilities for new applications. Such applications typically require a high accuracy of the underlying navigation system. A cornerstone for reliable navigation is the robust detection of crop rows. However, detecting crops from vision or laser data is particularly challenging when the plants are either tiny or so large that individual plants cannot be distinguished easily. In this letter, we present a pipeline for reliable plant segmentation in any crop growth stage, as well as a novel algorithm for robust crop row detection that adapts the Hough transform for line detection to detect a pattern of parallel equidistant lines. Our algorithm is able to jointly estimate the angle, lateral offset and crop row spacing and is particularly suited for tiny plants. In extensive experiments using various real-world data sets from different kinds and sizes of crops we show that our algorithm provides reliable and accurate results.",
+  "references": null
+}

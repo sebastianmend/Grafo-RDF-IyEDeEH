@@ -1,0 +1,52 @@
+{
+  "paperId": "7cb2f13f1f8e666429aa928f9ae27d36d37665c8",
+  "externalIds": {
+    "MAG": "2889082242",
+    "DBLP": "conf/icfnds/ShehadehMYAY18",
+    "DOI": "10.1145/3231053.3231093",
+    "CorpusId": 52140668
+  },
+  "url": "https://www.semanticscholar.org/paper/7cb2f13f1f8e666429aa928f9ae27d36d37665c8",
+  "title": "\"Hop count\" dynamic double trickle timer algorithm use case: data aggregation in smart green house",
+  "venue": "International Conference on Future Networks and Distributed Systems",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3231053.3231093?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3231053.3231093, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51230388",
+      "name": "Haneen Shehadeh"
+    },
+    {
+      "authorId": "46663067",
+      "name": "W. Mardini"
+    },
+    {
+      "authorId": "1724614",
+      "name": "M. B. Yassein"
+    },
+    {
+      "authorId": "51230681",
+      "name": "Doaa Habeeb Allah"
+    },
+    {
+      "authorId": "51227765",
+      "name": "Waed Bani Yaseen"
+    }
+  ],
+  "abstract": "Most of modern agriculture control systems are using RPL routing protocol to transmit data within a Wireless Sensor Network (WSN) systems. WSN consist of a set of sensors that their task is sensing data and send it to a usually one root node. The higher the numbers of sensors, the more impact on the performance of this system will be placed. This is due to many reasons such as; overhead inside the network causing a loss in data, delay in time and the higher power consumption. In this paper, we proposed a new version of RPL that is based on elastic resource consumption. The technique is based on applying the proposed algorithm on precision agriculture especially on smart greenhouse in order to solve some of the degradation performance problems such as; a high-power consumption, a long convergence time and the lost data in WSN. We used Cooja simulator to test the performance of the proposed algorithm with Contiki OS. The results of these experiments showed a significant improvement in the performance of the algorithm in terms of energy consumption, time of convergence and PDR.",
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "ca969f3a53ec9a7bfee4d8198e7b1a36e474c63a",
+  "externalIds": {
+    "MAG": "2883338396",
+    "DOI": "10.1177/0960336018782035",
+    "CorpusId": 106044834
+  },
+  "url": "https://www.semanticscholar.org/paper/ca969f3a53ec9a7bfee4d8198e7b1a36e474c63a",
+  "title": "Integration of NIR on a multi-sensor platform to improve soil resource assessments",
+  "venue": "NIR news",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0960336018782035?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0960336018782035, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2630812",
+      "name": "M. Poggio"
+    },
+    {
+      "authorId": "144550913",
+      "name": "P. Roudier"
+    },
+    {
+      "authorId": "47167758",
+      "name": "M. Blaschek"
+    },
+    {
+      "authorId": "144540538",
+      "name": "C. Hedley"
+    }
+  ],
+  "abstract": "Soil is an intriguing and complex entity in terms of physics, chemistry and biology. It has solid, liquid and gas elements, mineral and organic parts and inert and living constituents. All these different components interact on multiple levels between themselves and with external factors such as weather and human activities. These interactions contribute ultimately to the large spatial and temporal variabilities in soil properties, which can be observed at different scales – from global to regional to even the individual field. The soil science community has made incredible progress over the last decades, but we are still far from fully understanding the dynamic complexity that governs soil attributes and processes. Harnessing soil variabilities, across space and time, is a critical step to the sustainable management of that resource. The precision agriculture paradigm provides an illustration of the value of such information: if sitespecific nutrient zones can be delineated in some way, then farmers have an evidence base to fine-tune their inputs (nutrients, water), and adapt these to the very local requirements of the crop. If erosion-prone areas can be identified, appropriate management and remediation procedures can be suggested. If the soils of a farm, or even of a field, can be split into contiguous zones according to their ability to hold onto water, sitespecific irrigation plans can be developed to optimise water use and minimise detrimental effects such as runoff or leaching. To do this, extensive soil sampling, at high temporal and spatial resolution, is required. The reference chemistry laboratory analyses used traditionally in soil science produce high-accuracy results but are not an appropriate solution due the detrimental costs in time and money. To overcome this issue, the soil science community started, years ago, to consider a trade-off of some degree of accuracy if that translates into more samples recorded.",
+  "references": null
+}

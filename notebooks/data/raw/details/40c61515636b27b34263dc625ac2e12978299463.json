@@ -1,0 +1,114 @@
+{
+  "paperId": "40c61515636b27b34263dc625ac2e12978299463",
+  "externalIds": {
+    "MAG": "3011818703",
+    "DBLP": "conf/ifipiot/NetoCMS19",
+    "DOI": "10.1007/978-3-030-43605-6_3",
+    "CorpusId": 212749580
+  },
+  "url": "https://www.semanticscholar.org/paper/40c61515636b27b34263dc625ac2e12978299463",
+  "title": "Toward Blockchain Technology in IoT Applications: An Analysis for E-health Applications",
+  "venue": "IFIP Internet of Things",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.inria.fr/hal-03371608/file/496697_1_En_3_Chapter.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-43605-6_3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-43605-6_3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51926615",
+      "name": "Mauricio Moreira Neto"
+    },
+    {
+      "authorId": "33178064",
+      "name": "E. Coutinho"
+    },
+    {
+      "authorId": "1838867",
+      "name": "L. O. Moreira"
+    },
+    {
+      "authorId": "2710352",
+      "name": "J. Souza"
+    }
+  ],
+  "abstract": "Research involving Blockchain technology has been growing due to its decentralization and immutability characteristics. Several applications from the most varied areas can benefit from the Blockchain, such as finance, logistics, and others. Internet of Things (IoT) is a new paradigm that has emerged to provide services to users through intelligent objects arranged in the day-to-day and provided various research, for example, smart buildings, smart cities, precision agriculture, and E-health. E-health applications can be considered as a set of computational solutions focused on the health area. This paper aims to study the introduction of Blockchain technology in an E-health approach. A Blockchain tool was used in conjunction with an E-health database and evaluated its performance. The results indicated that the transaction validation times are favorable for the characteristics of an E-health application.",
+  "references": [
+    {
+      "paperId": "e389423b8f8695533e4a52dfdd76ae88f265248e"
+    },
+    {
+      "paperId": "d6bc9123c87f60f6c7e2cfca962f64c4fe98363f"
+    },
+    {
+      "paperId": "305edd92f237f8e0c583a809504dcec7e204d632"
+    },
+    {
+      "paperId": "1da439a55ee688857c4425194880e4dde701dabd"
+    },
+    {
+      "paperId": "aeb6a16146f82b4e1c2a298efb666dc1a7f5521e"
+    },
+    {
+      "paperId": "3d0bb476f94f0cd0f00dbf58b8f0909125c800fd"
+    },
+    {
+      "paperId": "d896ac61146ea18ca42c4adf87122009a06d4ef4"
+    },
+    {
+      "paperId": "7571db5ef8417306a5072bcab37667a52c1ca004"
+    },
+    {
+      "paperId": "c419ee7315b9edfd8fc55bab16534fc55a564fcd"
+    },
+    {
+      "paperId": "2219e1142ff55e11b49d3cf7b6b7593840a8b373"
+    },
+    {
+      "paperId": "d9415b8564ef5e716d04f3499d1e3de7fd1e61fb"
+    },
+    {
+      "paperId": "310e677ce23004fdf0a549c2cfda2ef15420d6ec"
+    },
+    {
+      "paperId": "a9be11476fe0295bda6e3d177d2488fa66800154"
+    },
+    {
+      "paperId": "90dd764ac87f47a7df06c491a84389eef572c65b"
+    },
+    {
+      "paperId": "84f25ddd053e414f239b91552410dab0adbaedad"
+    },
+    {
+      "paperId": "569518638ad7ec69003a990dfc929efa91006e11"
+    },
+    {
+      "paperId": "008c85d8ffd4bf177fa07d79eb6d921feb73c811"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7e89195171c01dfa51da3d81229704e2c830e3bc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "249377e09f6da6eda933ed4f39b4dbe6aa74b592"
+    }
+  ]
+}

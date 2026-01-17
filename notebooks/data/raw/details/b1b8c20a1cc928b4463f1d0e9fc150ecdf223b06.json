@@ -1,0 +1,56 @@
+{
+  "paperId": "b1b8c20a1cc928b4463f1d0e9fc150ecdf223b06",
+  "externalIds": {
+    "DBLP": "conf/icmssp/ZhaoWWHLX19",
+    "MAG": "2954554574",
+    "DOI": "10.1145/3330393.3330423",
+    "CorpusId": 195776796
+  },
+  "url": "https://www.semanticscholar.org/paper/b1b8c20a1cc928b4463f1d0e9fc150ecdf223b06",
+  "title": "GMM and DRLSE Based Detection and Segmentation of Pests: A Case Study",
+  "venue": "ICMSSP",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3330393.3330423?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3330393.3330423, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book"
+  ],
+  "authors": [
+    {
+      "authorId": "3234288",
+      "name": "Yaochi Zhao"
+    },
+    {
+      "authorId": "47904703",
+      "name": "Yu Wang"
+    },
+    {
+      "authorId": "2110272172",
+      "name": "Jiaying Wang"
+    },
+    {
+      "authorId": "2493146",
+      "name": "Zhuhua Hu"
+    },
+    {
+      "authorId": "2113697624",
+      "name": "Fusheng Lin"
+    },
+    {
+      "authorId": "2110683825",
+      "name": "Mengyao Xu"
+    }
+  ],
+  "abstract": "The automatic detection and segmentation of pest based on the technology of image processing and computer vision can not only reduce the human effort and improve the detection precision for a better guideline in the prevention and control of agricultural pest, but also provide a method to capture and label the training samples for deep learning automatically. In this paper, we use a mobile robot car to automatically capture the scene image in field, and we propose a method to detect and segment the pests/diseases in the acquired image. Firstly, a Gaussian Mixture Model (GMM) is constructed for the pest/disease from only one template pest image, then we take use of the logarithm similarity to the GMM and Aggregation Dispersion Variance (ADV) based approach to detect the specified pest/disease in plant. It is likely to make a wrong judgment when the pest is close to the lens. In order to avoid such mistake, we also combine the mean and the area as the classifier. Further, we employ the distance regularization level set evolution (DRLSE) driven by the similarity to evolve the contour toward the actual pest/disease contour. Taking the pests belonging to Pyralidae as a case study, the result shows that our method could automatically identify the positive and negative samples of the specific pest from a large number of scene images, and the recognition accuracy was up to 95%. For the positive samples, our algorithm could also segment the pests accurately, which shows that our method can realize the real-time detection of the specific pest, and also provide a feasible scheme for the establishment of pests' data set.",
+  "references": null
+}

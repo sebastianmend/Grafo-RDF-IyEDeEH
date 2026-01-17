@@ -1,0 +1,48 @@
+{
+  "paperId": "b7d157107cabcdb716bf643e86a1ec770cb471c5",
+  "externalIds": {
+    "MAG": "2969227470",
+    "DBLP": "conf/caip/KerdegariRAR19",
+    "DOI": "10.1007/978-3-030-29888-3_45",
+    "CorpusId": 201616409
+  },
+  "url": "https://www.semanticscholar.org/paper/b7d157107cabcdb716bf643e86a1ec770cb471c5",
+  "title": "Smart Monitoring of Crops Using Generative Adversarial Networks",
+  "venue": "International Conference on Computer Analysis of Images and Patterns",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-29888-3_45?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-29888-3_45, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2733383",
+      "name": "H. Kerdegari"
+    },
+    {
+      "authorId": "2830453",
+      "name": "Manzoor Razaak"
+    },
+    {
+      "authorId": "2365231871",
+      "name": "Vasileios Argyriou"
+    },
+    {
+      "authorId": "1711669",
+      "name": "Paolo Remagnino"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

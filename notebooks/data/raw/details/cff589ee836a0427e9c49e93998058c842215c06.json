@@ -15,7 +15,7 @@
     "url": "https://hal.archives-ouvertes.fr/hal-00930513/file/hal-00930513.pdf",
     "status": "GREEN",
     "license": "other-oa",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-011-0041-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-011-0041-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-011-0041-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-011-0041-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Environmental Science"

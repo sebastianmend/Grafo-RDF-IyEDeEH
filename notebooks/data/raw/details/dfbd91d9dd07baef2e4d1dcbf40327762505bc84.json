@@ -1,0 +1,60 @@
+{
+  "paperId": "dfbd91d9dd07baef2e4d1dcbf40327762505bc84",
+  "externalIds": {
+    "DBLP": "conf/dcis/HorstrandGDMJLL19",
+    "MAG": "3000360440",
+    "DOI": "10.1109/DCIS201949030.2019.8959891",
+    "CorpusId": 210694060
+  },
+  "url": "https://www.semanticscholar.org/paper/dfbd91d9dd07baef2e4d1dcbf40327762505bc84",
+  "title": "A spectral imaging system for precision agriculture: From its inception till a pre-commercial prototype",
+  "venue": "Conference on Design of Circuits and Integrated Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCIS201949030.2019.8959891?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCIS201949030.2019.8959891, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2688374",
+      "name": "Pablo Horstrand"
+    },
+    {
+      "authorId": "38131459",
+      "name": "Raúl Guerra"
+    },
+    {
+      "authorId": "104149124",
+      "name": "María Díaz"
+    },
+    {
+      "authorId": "144974735",
+      "name": "Alejandro Morales"
+    },
+    {
+      "authorId": "84190402",
+      "name": "Adán Jiménez"
+    },
+    {
+      "authorId": "144705450",
+      "name": "S. López"
+    },
+    {
+      "authorId": "47889557",
+      "name": "J. López"
+    }
+  ],
+  "abstract": "New trends in the development of tools and strategies to optimize the productivity of agricultural fields have led to exciting opportunities based on a combination of two key technologies: Unmanned Aerial Vehicles (UAVs) and spectral sensors. Both of them come from different domains, the former playing a significant role mainly in military applications, and the latter in the space sector. UAVs and earth observation satellites represent the two extremes of monitoring systems in which airborne and High Altitude Pseudo Satellites (HAPS) are located in the middle range. From these four options, UAVs represent a good compromise between cost, performance and ease of operation in their numerous civil and environmental applications. However, they are also very challenging mainly due to the integration of specific payload which requires engineering experience in optics, electronics, physics and aerodynamics. In this paper, a hyperspectral UAV platform is presented, detailing every decision adopted since its inception for its use in precision agriculture, solving the problems encountered in its construction and developing an ad-hoc application to control the flight trajectory and manage data acquisition optimizing its battery limitations. The result is a robust autonomous system tested in a real scenario to monitor the health status of a vineyard in just a few minutes, based on different Vegetation Indices (VIs), reducing the time and efforts employed by traditional farmers and opening new avenues in the management of agricultural production and environmental respect.",
+  "references": null
+}

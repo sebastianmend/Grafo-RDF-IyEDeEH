@@ -1,0 +1,39 @@
+{
+  "paperId": "75c6144e3e266b75f22594c8602899e2ded53c10",
+  "externalIds": {
+    "MAG": "3006438305",
+    "DOI": "10.1109/ICEECCOT43722.2018.9001632",
+    "CorpusId": 211244715
+  },
+  "url": "https://www.semanticscholar.org/paper/75c6144e3e266b75f22594c8602899e2ded53c10",
+  "title": "Segmentation of Arecanut Bunches using HSV Color Model",
+  "venue": "2018 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT)",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEECCOT43722.2018.9001632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEECCOT43722.2018.9001632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2098184097",
+      "name": "R. Dhanesha"
+    },
+    {
+      "authorId": "1500661300",
+      "name": "Naika C. L. Shrinivasa"
+    }
+  ],
+  "abstract": "Arecanut is one of the commercial crop of south India. Arecanut maturity level decides its price in the market. To maximize the profitability, Farmer needs expertise to determine the maturity level of Arecanut. This lack of ability leads to low profit for their crops. Use of Image Processing and Computer Vision techniques in precision agriculture allowed farmers to take necessary steps to harvest by identifying the maturity level of fruits and vegetables. To identify maturity level segmentation of Arecanut bunches is required for automated expertise. In this paper, proposed a segmentation method to segment Arecanut bunches using HSV color model towards the view of identifying automatic maturity level of arecanut bunches. The results of experiment clarifies the proposed method effectiveness which is better to segment the arecanut bunches for future analysis.",
+  "references": null
+}

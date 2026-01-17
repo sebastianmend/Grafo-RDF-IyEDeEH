@@ -1,0 +1,52 @@
+{
+  "paperId": "a15abbb54325b6a2decc22ea9a2c2a350455a609",
+  "externalIds": {
+    "MAG": "3029456895",
+    "DBLP": "conf/icvisp/FarkhaniKCJK19",
+    "DOI": "10.1145/3387168.3387230",
+    "CorpusId": 218871524
+  },
+  "url": "https://www.semanticscholar.org/paper/a15abbb54325b6a2decc22ea9a2c2a350455a609",
+  "title": "Sparse-to-Dense Depth Completion in Precision Farming",
+  "venue": "International Conferences on Vision, Image and Signal Processing",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3387168.3387230?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3387168.3387230, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book"
+  ],
+  "authors": [
+    {
+      "authorId": "51170243",
+      "name": "Sadaf Farkhani"
+    },
+    {
+      "authorId": "40406527",
+      "name": "M. Kragh"
+    },
+    {
+      "authorId": "1379540482",
+      "name": "P. Christiansen"
+    },
+    {
+      "authorId": "1403488792",
+      "name": "R. Jørgensen"
+    },
+    {
+      "authorId": "2550309",
+      "name": "H. Karstoft"
+    }
+  ],
+  "abstract": "Autonomous driving in agriculture can be eased and be more safe if guided by dense depth maps, since dense depth maps outlines scene geometry. RGB monocular image has only naive information about depth and although LiDAR has accurate depth information, it can only provide sparse depth maps. By interpolating sparse LiDAR with aligned color image, reliable dense depth maps can be created. In this paper, we apply a deep regression model where an RGB monocular image was used for a sparse-to-dense LiDAR depth map completion. Our model is based on U-Net architecture presented in [9]. Training the model on the Fieldsafe dataset which is a multi-modal agricultural dataset, however, leads to overfitting. Therefore, we trained the model on the Kitti dataset with high image diversity and test it on the Fieldsafe. We produced an error map to analyze performance of the model for close or far distant objects in the Fieldsafe dataset. The error maps show the absolute difference between the depth ground truth and the predicted depth value. The model preforms 63.6% better on close distance objects than far objects in Fieldsafe. However, the model performs 10.96% better on far objects than close objects in the Kitti dataset.",
+  "references": null
+}

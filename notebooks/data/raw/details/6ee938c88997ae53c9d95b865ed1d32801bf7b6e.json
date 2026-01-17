@@ -1,0 +1,48 @@
+{
+  "paperId": "6ee938c88997ae53c9d95b865ed1d32801bf7b6e",
+  "externalIds": {
+    "DBLP": "conf/eit/El-magrousSHQ19",
+    "MAG": "2972663502",
+    "DOI": "10.1109/EIT.2019.8833811",
+    "CorpusId": 202561240
+  },
+  "url": "https://www.semanticscholar.org/paper/6ee938c88997ae53c9d95b865ed1d32801bf7b6e",
+  "title": "Internet of Things Based Weather-Soil Sensor Station for Precision Agriculture",
+  "venue": "IEEE International Conference on Electro/Information Technology",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EIT.2019.8833811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EIT.2019.8833811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1402972312",
+      "name": "Ahmed A. El-magrous"
+    },
+    {
+      "authorId": "94181477",
+      "name": "J. Sternhagen"
+    },
+    {
+      "authorId": "2073901145",
+      "name": "Gary Hatfield"
+    },
+    {
+      "authorId": "38955517",
+      "name": "Q. Qiao"
+    }
+  ],
+  "abstract": "This paper presents the design, development, and testing of a customizable and cost-effective Weather-Soil Sensor Station (W-SSS) for use in Precision Agriculture based on high accuracy sensors, wireless communication, cloud data storage, and computation technology. The W-SSSs operated from July 25, 2018, to September 15, 2018, using an off-grid power system, Arduino microcontroller, and Wi-Fi connection to the cloud. Sensor data quality was evaluated using several statistical techniques. The data obtained from the weather-soil stations illustrate the differences in weather and soil conditions both relative to the local weather station as well as those within a field. Knowledge of these differences would allow a farmer to vary planting densities relative to soil conditions, irrigation control, as well as pest/herbicide management.",
+  "references": null
+}

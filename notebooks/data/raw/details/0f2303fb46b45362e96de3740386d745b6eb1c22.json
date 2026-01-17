@@ -1,0 +1,432 @@
+{
+  "paperId": "0f2303fb46b45362e96de3740386d745b6eb1c22",
+  "externalIds": {
+    "PubMedCentral": "6680408",
+    "MAG": "2963552609",
+    "DOI": "10.3390/molecules24142659",
+    "CorpusId": 198497315,
+    "PubMed": "31340442"
+  },
+  "url": "https://www.semanticscholar.org/paper/0f2303fb46b45362e96de3740386d745b6eb1c22",
+  "title": "What are the Main Sensor Methods for Quantifying Pesticides in Agricultural Activities? A Review",
+  "venue": "Molecules",
+  "year": 2019,
+  "citationCount": 72,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1420-3049/24/14/2659/pdf?version=1563855985",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6680408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403414009",
+      "name": "Roy Zamora-Sequeira"
+    },
+    {
+      "authorId": "2379095133",
+      "name": "Ricardo Starbird-Pérez"
+    },
+    {
+      "authorId": "1403414018",
+      "name": "Oscar Rojas-Carillo"
+    },
+    {
+      "authorId": "1403413972",
+      "name": "Seiling Vargas-Villalobos"
+    }
+  ],
+  "abstract": "In recent years, there has been an increase in pesticide use to improve crop production due to the growth of agricultural activities. Consequently, various pesticides have been present in the environment for an extended period of time. This review presents a general description of recent advances in the development of methods for the quantification of pesticides used in agricultural activities. Current advances focus on improving sensitivity and selectivity through the use of nanomaterials in both sensor assemblies and new biosensors. In this study, we summarize the electrochemical, optical, nano-colorimetric, piezoelectric, chemo-luminescent and fluorescent techniques related to the determination of agricultural pesticides. A brief description of each method and its applications, detection limit, purpose—which is to efficiently determine pesticides—cost and precision are considered. The main crops that are assessed in this study are bananas, although other fruits and vegetables contaminated with pesticides are also mentioned. While many studies have assessed biosensors for the determination of pesticides, the research in this area needs to be expanded to allow for a balance between agricultural activities and environmental protection.",
+  "references": [
+    {
+      "paperId": "c7961d649ed032745a93aa5737e1b863cffa67d8"
+    },
+    {
+      "paperId": "a946dcdb8001d8bac738baaf985c4e0378b4f625"
+    },
+    {
+      "paperId": "64ab5ac4ad1937d870ea917e6fc51e4a493dace0"
+    },
+    {
+      "paperId": "5a7ae7eaf927ade5b6686a48b2043d20414d5306"
+    },
+    {
+      "paperId": "0e015f19fe102179551156aca4bb508894603503"
+    },
+    {
+      "paperId": "5b1140cd94b2dca84c7febf06836b4cf0cc8158e"
+    },
+    {
+      "paperId": "7880282c6dede0f345cb01cca18e40e1abf19cb1"
+    },
+    {
+      "paperId": "6b0afcc79a8ea7fe3497a29473bad61c5e0cf283"
+    },
+    {
+      "paperId": "a3ea92db5ea5dc6a4d45e2159a6b0c2d6cc2fbb6"
+    },
+    {
+      "paperId": "52717b809dacfde3eb8af57bcbd3035de5e840c8"
+    },
+    {
+      "paperId": "aacdec31b14b6fff7f9101d6be20e4f0fe501d52"
+    },
+    {
+      "paperId": "e7d5bcf3390714fb792b04b9ac09bf85df432b94"
+    },
+    {
+      "paperId": "adc76852b38dddffced62a629eaebec028b3ca52"
+    },
+    {
+      "paperId": "3db15e8982098444f6b25a6e47c8e7512aef1041"
+    },
+    {
+      "paperId": "19b0388bcf6c9e41d02327ad263329b0a08f2c57"
+    },
+    {
+      "paperId": "ee676b020ea79dea0622914418ca5e2a4d6c737b"
+    },
+    {
+      "paperId": "1e10c5f0cf2a3f48089108c5deccfe81aff9ad6b"
+    },
+    {
+      "paperId": "795061539bc82ddcedf102264718eb988d7b30d5"
+    },
+    {
+      "paperId": "c89eb2be8877cf677b0fb78a61a4653298389b7c"
+    },
+    {
+      "paperId": "c879247fd7bf1e5180b266e057dd47415972dac8"
+    },
+    {
+      "paperId": "ac634b38acfc02be199da63d11cd063aa71c28a5"
+    },
+    {
+      "paperId": "859c896e16179426a80beb51d107ce2cfdb9b4c8"
+    },
+    {
+      "paperId": "38975b945ba96f62ed4f205304f8c9bd53ec11d5"
+    },
+    {
+      "paperId": "6f5de83f890edf5550716745bc13e9578a038452"
+    },
+    {
+      "paperId": "fd907575242068b594133c66d5d8cc85e63d40f9"
+    },
+    {
+      "paperId": "25b1979c4a798ab980b217a60983e445ef678886"
+    },
+    {
+      "paperId": "621fcb528fd88d3961bf3f843934ca50c05b52dc"
+    },
+    {
+      "paperId": "f9d0614cd5adce715d7b5b3e15e982e1a32454fa"
+    },
+    {
+      "paperId": "83132159810c7f7a650bd09861d2173e1641804b"
+    },
+    {
+      "paperId": "7a00ee866f0f20f3bb615577598319fbd9b0f8fd"
+    },
+    {
+      "paperId": "6207dbccdc3d676e603efd6cb299cfa8263a217f"
+    },
+    {
+      "paperId": "8a8c80061729cfd0b9be69c65002ca101f62812b"
+    },
+    {
+      "paperId": "0d1b637e34e0a8d7b447be3f4881985897dbb9cf"
+    },
+    {
+      "paperId": "a3c645ece764eb5ab8d5e1381e1cbe18effa925d"
+    },
+    {
+      "paperId": "4803e2a5ea6e31b6daf16749cbdb6b9811897e14"
+    },
+    {
+      "paperId": "226cf64d792c5777476d29a0573ee047c74587df"
+    },
+    {
+      "paperId": "554f5dec4c195ae49c46504c75559523be297d7c"
+    },
+    {
+      "paperId": "cad78067a1a218a834517f738deef1ecca394ec6"
+    },
+    {
+      "paperId": "965ab076eb0cd6d489648d92518a8268ecccf33f"
+    },
+    {
+      "paperId": "f0cd4a9a3425be68115a78df8428b5dd70411bd6"
+    },
+    {
+      "paperId": "8b3941b261b13891f647eb8b1f7721f8245b6e12"
+    },
+    {
+      "paperId": "ebace490bab081e082ecf76c53872b7b10704359"
+    },
+    {
+      "paperId": "77c237b50a44e859109276edb29b696fedebb6e9"
+    },
+    {
+      "paperId": "63861c3e4b7dade75e9756d741fe99387a41d3f0"
+    },
+    {
+      "paperId": "b613af9e83a1772977169c495be6768d0b5e8f8f"
+    },
+    {
+      "paperId": "9a09c3408c019c553f6122a8f06a7ef36988baba"
+    },
+    {
+      "paperId": "ea29a49381c6289678da7278769a8d226491f0f9"
+    },
+    {
+      "paperId": "6efc58ebe116fdfba7814e19ebff30bd4e660d3f"
+    },
+    {
+      "paperId": "25732fff27802e4fc8174a38dfa2792899ccdeea"
+    },
+    {
+      "paperId": "7b9dc4f7b8e3dac7d4b7675eb5093507748c4cca"
+    },
+    {
+      "paperId": "e1c85e578a130d4bf88f7c9ac8f9719db6cd0fbf"
+    },
+    {
+      "paperId": "314866e0df8ba11779f33af2b800f95466a678ff"
+    },
+    {
+      "paperId": "9af032d181d611eefa0a46735c6527c12d5246d0"
+    },
+    {
+      "paperId": "a838999a49d0c3c2de9170248cd2a2e0e1cd2ddb"
+    },
+    {
+      "paperId": "d6e4defb8323a33a08f12fb1ca370784396fa452"
+    },
+    {
+      "paperId": "ecec3bfd7566d410f8ffe10ef53487730fcaf49c"
+    },
+    {
+      "paperId": "84a3007e61f49bce7729ca7fbb79d1ad5a1f5a94"
+    },
+    {
+      "paperId": "76f150bdf8a8b4323f2b786a203cb64de12f28c3"
+    },
+    {
+      "paperId": "5ea4f66398c91ac97f8e0e674319358e90bc62d9"
+    },
+    {
+      "paperId": "5195e182dd26202d9ca9416b7c83dd2fc74e5872"
+    },
+    {
+      "paperId": "e22618ff155a19badbb04031b7dc574624ba8fee"
+    },
+    {
+      "paperId": "b00c09466b6a5256501d02da6c4687fa8fe3c9a7"
+    },
+    {
+      "paperId": "e15b02832b24093de3339cc3a3c724d7cef72b7a"
+    },
+    {
+      "paperId": "1a9b0dcc337f5ce0afac07a6df594242cb0d9169"
+    },
+    {
+      "paperId": "9ed5b061b3d382e0d95149c0f67d4a5d5a5b68d8"
+    },
+    {
+      "paperId": "1968c24be00f5f6dbab679649474690d9a80ed93"
+    },
+    {
+      "paperId": "5233ac395fa8449b11e256f2e3ea7f611cb9e2b1"
+    },
+    {
+      "paperId": "27e03de2bfaca869f54b87d6a7bf17b2ba5c2767"
+    },
+    {
+      "paperId": "bbe554be2620adee9b165bdb02bbe033a2ddd8e4"
+    },
+    {
+      "paperId": "57f4d42d545604370ba6cb8cedfa42e0dc939be6"
+    },
+    {
+      "paperId": "c65551bce2c3d3430a8aaff4d52e3664dc2b8ef5"
+    },
+    {
+      "paperId": "54a46eec9decdd41b37ff9e896d684f8275bf57d"
+    },
+    {
+      "paperId": "4cdd1d5207c4d55b19a538562671e5e551685ee6"
+    },
+    {
+      "paperId": "7bb6fd46192cb51eeac293681da9a73c4ccf44d1"
+    },
+    {
+      "paperId": "16b6884d0bb10ffc5fba0aa229a8b92691d807b1"
+    },
+    {
+      "paperId": "0e603fd829a4124928357cba52e9e99bae4cba98"
+    },
+    {
+      "paperId": "a6056eae57d4c58f1cefcd08c018ad880ec214dd"
+    },
+    {
+      "paperId": "d44679d907bec4fde416e92c2cd6fd52ce6d6faa"
+    },
+    {
+      "paperId": "e7771e879bac068d1376eda5184dc0b3e292d16b"
+    },
+    {
+      "paperId": "06c4f4b51e0232ff87456080b9936f7cc3758660"
+    },
+    {
+      "paperId": "ba758b3976146222b3ad497979488a2c1512906c"
+    },
+    {
+      "paperId": "949c408f631cb12b64522556f1f5dc2a2d67474e"
+    },
+    {
+      "paperId": "ea110bfec25668e46614e04f81ea33c8a2f86700"
+    },
+    {
+      "paperId": "e93bb0b5b8b729c286797d47dee23b2d91bc158d"
+    },
+    {
+      "paperId": "67919c068c8dda8fef6f4924b96ceda4511eb727"
+    },
+    {
+      "paperId": "9f5c389718dcf20394689738d105683fd6115750"
+    },
+    {
+      "paperId": "995ef88f728a746fe3852d2f23b662a9557f5c13"
+    },
+    {
+      "paperId": "0634b4efa8f61fea676a02538cd8097ce045968f"
+    },
+    {
+      "paperId": "caa6905ce487a6a8f05ac7ef0459a6964670b6a3"
+    },
+    {
+      "paperId": "f9590daac3bfce2e8377095139d6666bf5f54f8c"
+    },
+    {
+      "paperId": "53258658dbc4ef9b037870602ab67a666b35467f"
+    },
+    {
+      "paperId": "968c973d996ea8f17e3884ab508a3721da81613c"
+    },
+    {
+      "paperId": "9e3019d31eb5769ab41deafe0b697d7d1442ce45"
+    },
+    {
+      "paperId": "fe8cfc82c245c588921bacf2d45691f6f60ebd81"
+    },
+    {
+      "paperId": "c4ebb560c5d2a98d839011a8b2b8d410768e9f0a"
+    },
+    {
+      "paperId": "e200bfd6322ef4259c38f188ff7e638e9523ff8e"
+    },
+    {
+      "paperId": "688eeb792c6031048b29ad0f845dcee2c4316542"
+    },
+    {
+      "paperId": "cd534956e27719f0620e50a3e6eccf689aa6a4d1"
+    },
+    {
+      "paperId": "dc0013f2ae7d07c27acab18bf7e45ce9327926ce"
+    },
+    {
+      "paperId": "e38b32f66399fe0fa5adef8daae8dfccfa6cb497"
+    },
+    {
+      "paperId": "788b17172d812fb0d201680d551cadc0312cbe03"
+    },
+    {
+      "paperId": "3435c352b1c64f31313c51d5a70a475a918820d9"
+    },
+    {
+      "paperId": "0a7902857890262ae0ea3d42c97f4b145c2c39b7"
+    },
+    {
+      "paperId": "fa81960ce2ec3d52b834816d0666605f9e619cbf"
+    },
+    {
+      "paperId": "e64187e45c71e9213760294e27c9ac10c45c895d"
+    },
+    {
+      "paperId": "ad6ac8d040592dbe761d9b21bf654d48cc644379"
+    },
+    {
+      "paperId": "974448e11277a2b5c2c4f7c46f15ab6ff1bcbbcf"
+    },
+    {
+      "paperId": "b56d900115206967981a4da3747dacce33a8ac5a"
+    },
+    {
+      "paperId": "282b35b1ee1a885cccd28d2d963a7977bc34fe25"
+    },
+    {
+      "paperId": "1983f3af925a9acd2bff34e6a30a0ac0f20f2108"
+    },
+    {
+      "paperId": "18bd5552189dcd06514ae3e9e9f7ab06301a24bd"
+    },
+    {
+      "paperId": "145f607bf2ebef2e173f8e903ae732fb41fd74a4"
+    },
+    {
+      "paperId": "a27e824d31b9b7286da748aebfda8f61807f589c"
+    },
+    {
+      "paperId": "adcff81ea6a368453bf767f238dd2433cc728058"
+    },
+    {
+      "paperId": "0ced7a6c1418ab29eac3fd2299a66dac4cdbd5ee"
+    },
+    {
+      "paperId": "b77923ec726f8e6f9b057d6ce96687581690be4f"
+    },
+    {
+      "paperId": "18f648aa749c60d90786b889971bd18be995cb5e"
+    },
+    {
+      "paperId": "34186386adf262cde7c565446f64c74a29252ad9"
+    },
+    {
+      "paperId": "1001ef3f52e6872fd4f2091fa8d67987c60ca3fd"
+    },
+    {
+      "paperId": "90f3a37b99e28dc3ec7e83ff436f9598ef5fc79f"
+    },
+    {
+      "paperId": "3e1ebab455a08d5a0112c2a601ceeffd45cbf827"
+    },
+    {
+      "paperId": "dc648a85e630c841832813733e298dae2f809e6b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1ec8cd9d0fff80ac1ec0ee09d90f517d2d67edf6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

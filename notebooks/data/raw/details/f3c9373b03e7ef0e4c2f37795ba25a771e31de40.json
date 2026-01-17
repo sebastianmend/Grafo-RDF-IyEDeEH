@@ -1,0 +1,40 @@
+{
+  "paperId": "f3c9373b03e7ef0e4c2f37795ba25a771e31de40",
+  "externalIds": {
+    "MAG": "2948289637",
+    "CorpusId": 195453345
+  },
+  "url": "https://www.semanticscholar.org/paper/f3c9373b03e7ef0e4c2f37795ba25a771e31de40",
+  "title": "Challenges and opportunities for adapting precision agriculture in Pakistan",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49143558",
+      "name": "F. Abbas"
+    },
+    {
+      "authorId": "1403123689",
+      "name": "C. Chan-Halbrendt"
+    },
+    {
+      "authorId": "144442843",
+      "name": "B. Sipes"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

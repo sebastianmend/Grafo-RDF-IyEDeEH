@@ -1,0 +1,59 @@
+{
+  "paperId": "aac22ec39c82c7367d7e4cc9b3c165093479dbd7",
+  "externalIds": {
+    "MAG": "2981927217",
+    "DBLP": "journals/jifs/DengWWHHDZ20",
+    "DOI": "10.3233/JIFS-179413",
+    "CorpusId": 209938306
+  },
+  "url": "https://www.semanticscholar.org/paper/aac22ec39c82c7367d7e4cc9b3c165093479dbd7",
+  "title": "Application of agricultural insect pest detection and control map based on image processing analysis",
+  "venue": "Journal of Intelligent & Fuzzy Systems",
+  "year": 2019,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/JIFS-179413?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/JIFS-179413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5228475",
+      "name": "Leilei Deng"
+    },
+    {
+      "authorId": "2145912080",
+      "name": "Zhenghao Wang"
+    },
+    {
+      "authorId": "2135363881",
+      "name": "Chuang Wang"
+    },
+    {
+      "authorId": "2145969866",
+      "name": "Yifan He"
+    },
+    {
+      "authorId": "2110812315",
+      "name": "Tao Huang"
+    },
+    {
+      "authorId": "2218391787",
+      "name": "Yujie Dong"
+    },
+    {
+      "authorId": "2190263783",
+      "name": "Xian Zhang"
+    }
+  ],
+  "abstract": "Image segmentation technology is a basic technology for image processing and analysis. As a typical interactive color image segmentation algorithm, grabbing segmentation has high precision, interactive operation and better segmentation effect in processing complex background segmentation, and has broad prospects in the field of agriculture. In this paper, the image segmentation algorithm of maize smut, Maize Head Smut and maize rust, which are three main diseases and insect pests, is studied by taking the high-yield crop Maize in Northeast China as an example. The image background in the static image editing is replaced by an improved one-time cutting algorithm. Through the adaptive combination of weights, the depth information and saliency information are combined into the grabbing color model. The improved image segmentation algorithm greatly improves the efficiency and accuracy of image segmentation, and achieves a good spot segmentation effect in the static image of corn pests and diseases, and has a high recognition. Do not rate. And it plays a predictive research effect in practical verification.",
+  "references": null
+}

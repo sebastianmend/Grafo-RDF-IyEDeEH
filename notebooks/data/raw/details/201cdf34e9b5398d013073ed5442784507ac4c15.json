@@ -1,0 +1,42 @@
+{
+  "paperId": "201cdf34e9b5398d013073ed5442784507ac4c15",
+  "externalIds": {
+    "MAG": "2907049590",
+    "DOI": "10.1109/ATC.2018.8587559",
+    "CorpusId": 57191328
+  },
+  "url": "https://www.semanticscholar.org/paper/201cdf34e9b5398d013073ed5442784507ac4c15",
+  "title": "Calibration of Conductivity Sensor using Combined Algorithm Selection and Hyperparameter Optimization: A Case Study",
+  "venue": "International Conference on Autonomic and Trusted Computing",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ATC.2018.8587559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ATC.2018.8587559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2642093",
+      "name": "Tien-Dung Nguyen"
+    },
+    {
+      "authorId": "66661891",
+      "name": "T. S. Sang Nguyen"
+    },
+    {
+      "authorId": "2075330360",
+      "name": "Nhat-Tan Le"
+    }
+  ],
+  "abstract": "The Industry 4.0 has created opportunities as well as challenges in precision agriculture. During transformation from traditional planting to smart planting, sensors in an agricultural IoT system have to produce similar results as traditional testing suites. In order to calibrate electrical conductivity (EC) sensors in the IoT system, finding a good regression method with its hyper-parameters is an expensive task. Although there are studies to investigate issues related to calibrating EC sensors, there does not exist a study to automatically find the best algorithm and hyper-parameters given constraints. In this paper, we propose a case study to calibrate EC sensors effectively using combined algorithm selection and hyper-parameter optimization (CASH). Experimental results show that the calibration model built based on CASH outperforms the ones built using default settings.",
+  "references": null
+}

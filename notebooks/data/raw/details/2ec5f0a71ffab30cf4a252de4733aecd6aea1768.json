@@ -1,0 +1,57 @@
+{
+  "paperId": "2ec5f0a71ffab30cf4a252de4733aecd6aea1768",
+  "externalIds": {
+    "MAG": "2955298860",
+    "DOI": "10.1002/jsfa.9912",
+    "CorpusId": 195806235,
+    "PubMed": "31273793"
+  },
+  "url": "https://www.semanticscholar.org/paper/2ec5f0a71ffab30cf4a252de4733aecd6aea1768",
+  "title": "A Review on blockchain applications in the agri-food sector.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2019,
+  "citationCount": 278,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.9912?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.9912, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49753151",
+      "name": "F. Antonucci"
+    },
+    {
+      "authorId": "3362957",
+      "name": "Simone Figorilli"
+    },
+    {
+      "authorId": "2098502",
+      "name": "C. Costa"
+    },
+    {
+      "authorId": "3379148",
+      "name": "F. Pallottino"
+    },
+    {
+      "authorId": "48469864",
+      "name": "Luciano Raso"
+    },
+    {
+      "authorId": "3363929",
+      "name": "P. Menesatti"
+    }
+  ],
+  "abstract": "Food security can benefit from the technology's transparency, relatively low transaction costs and instantaneous applications. A blockchain is a distributed database of records in the form of encrypted blocks, or a public ledger of all transactions or digital events that have been executed and shared among participating parties and can be verified at any time in the future. Generally, the robust and decentralized functionality of the blockchain is used for global financial systems, but it can easily be expanded to contracts and operations such as tracking of the global supply chain. In the precision agriculture context, Information and Communications Technology can be further implemented with a blockchain infrastructure to enable new farm systems and e-agriculture schemes. The purpose of this review is to show a panorama of the scientific studies (enriched by a terms mapping analysis) on the use of blockchain in the agri-food sector, from both an entirely computational and an applicative point of view. As evidenced by the network analysis, the reviewed studies mainly focused on software aspects (e.g., the architecture and smart contracts). However, some aspects regarding the different blockchain knots (computers always connected to the blockchain network) having the role to store and distribute an updated copy of each block in a food supply-chain, result of crucial importance. These technologies appear very promising and rich of great potential showing a good flexibility for applications in several sectors but still immature and hard to apply due to their complexity. This article is protected by copyright. All rights reserved.",
+  "references": null
+}

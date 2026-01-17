@@ -1,0 +1,32 @@
+{
+  "paperId": "d361647982b8348ab1b2ccb418b569f3d7a94166",
+  "externalIds": {
+    "DOI": "10.51470/er.2019.1.2.19",
+    "CorpusId": 281425342
+  },
+  "url": "https://www.semanticscholar.org/paper/d361647982b8348ab1b2ccb418b569f3d7a94166",
+  "title": "Plant Stress Detection via Geophysical Imaging: Electrical Resistivity and Other Non-Invasive Tools for Monitoring Drought Responses",
+  "venue": "Environmental Reports",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.51470/er.2019.1.2.19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51470/er.2019.1.2.19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2381379766",
+      "name": "Ekhlaque Ahmad"
+    }
+  ],
+  "abstract": "Drought stress is a major constraint to agricultural productivity and food security worldwide. Early detection of plant stress is essential for timely management interventions. Conventional physiological and biochemical methods provide useful information but are often invasive, labour-intensive, and spatially limited. Geophysical imaging methods, particularly electrical resistivity tomography (ERT), offer a non-invasive means of characterizing soil–plant–water interactions in situ. This review examines the principles and applications of ERT and complementary approaches such as ground-penetrating radar (GPR), electromagnetic induction (EMI), and infrared thermography for monitoring drought responses in plants. Methodological frameworks, case studies, and integration of these tools into precision agriculture are discussed. The review also outlines current limitations, calibration requirements, and potential directions for future research. Geophysical imaging provides a valuable set of tools for advancing plant stress monitoring and improving water management strategies under variable climatic conditions.",
+  "references": null
+}

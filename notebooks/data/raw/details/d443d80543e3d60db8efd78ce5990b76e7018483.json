@@ -1,0 +1,59 @@
+{
+  "paperId": "d443d80543e3d60db8efd78ce5990b76e7018483",
+  "externalIds": {
+    "MAG": "2906653317",
+    "DOI": "10.1088/1755-1315/208/1/012052",
+    "CorpusId": 134319271
+  },
+  "url": "https://www.semanticscholar.org/paper/d443d80543e3d60db8efd78ce5990b76e7018483",
+  "title": "Design of intelligent greenhouse environment monitoring system in Fanjing Mountain Area",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/208/1/012052",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/208/1/012052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/208/1/012052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "46762787",
+      "name": "Lina Yuan"
+    },
+    {
+      "authorId": "1729778",
+      "name": "Huajun Chen"
+    },
+    {
+      "authorId": "145116762",
+      "name": "Jing Gong"
+    }
+  ],
+  "abstract": "With the continuous development and extensive application of high and new technologies such as computer network technology, automatic control technology and wireless communication technology, and with the rapid development of agricultural technology, especially greenhouse, soilless cultivation, irrigation, factory farming and other technologies, agricultural production has become increasingly urgent for intelligent greenhouse environment monitoring technology. Intelligent greenhouse technology is a sophisticated technology of agricultural production, which combines high-precision and advanced technology in agricultural production with computer network control technology, and is the material basis for modern agricultural technology to carry out industrial transformation. This paper mainly designs the intelligent greenhouse environment monitoring system for the Fanjing mountain area.",
+  "references": [
+    {
+      "paperId": "ea0436dbab2846864e01b7a570c7286a55fb15a8"
+    },
+    {
+      "paperId": "619d2e43ddfeeac65a504c46b149f4a259b5e1c6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

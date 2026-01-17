@@ -1,0 +1,48 @@
+{
+  "paperId": "81259f824781669c25f13156b5269b1fd054d55d",
+  "externalIds": {
+    "MAG": "3043440016",
+    "CorpusId": 230860922
+  },
+  "url": "https://www.semanticscholar.org/paper/81259f824781669c25f13156b5269b1fd054d55d",
+  "title": "Remote sensing of vegetation from UAS platforms using RGB camera, lightweight multispectral and thermal imaging sensors",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "147859429",
+      "name": "P. Paridad"
+    },
+    {
+      "authorId": "2090656919",
+      "name": "Luciana Giuzio"
+    },
+    {
+      "authorId": "103746487",
+      "name": "S. D. Sasso"
+    },
+    {
+      "authorId": "48371938",
+      "name": "M. Fiorentino"
+    },
+    {
+      "authorId": "2503277",
+      "name": "S. Manfreda"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

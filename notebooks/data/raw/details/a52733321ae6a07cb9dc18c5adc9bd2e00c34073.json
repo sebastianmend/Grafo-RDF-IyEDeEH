@@ -1,0 +1,170 @@
+{
+  "paperId": "a52733321ae6a07cb9dc18c5adc9bd2e00c34073",
+  "externalIds": {
+    "DBLP": "journals/access/KamathBP19",
+    "MAG": "2938246551",
+    "DOI": "10.1109/ACCESS.2019.2908846",
+    "CorpusId": 116880901
+  },
+  "url": "https://www.semanticscholar.org/paper/a52733321ae6a07cb9dc18c5adc9bd2e00c34073",
+  "title": "Raspberry Pi as Visual Sensor Nodes in Precision Agriculture: A Study",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 72,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08684829.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2908846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2908846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "74438240",
+      "name": "Radhika Kamath"
+    },
+    {
+      "authorId": "2094546",
+      "name": "Mamatha Balachandra"
+    },
+    {
+      "authorId": "30468325",
+      "name": "S. Prabhu"
+    }
+  ],
+  "abstract": "Wireless sensor network applications in the agricultural sector are gaining popularity with the advancement of the Internet of Things technology. Predominantly, wireless sensor networks are used in agriculture to sense the important agricultural field parameters, such as temperature, humidity, soil moisture level, nitrite content in the soil, groundwater quality, and so on. These sensed parameters will be sent to a remote station, where it will be processed and analyzed to build a decision support system. This paper describes the implementation of a wireless visual sensor network for precision agriculture to monitor paddy crop for weeds using Raspberry Pi. Bluetooth 4.0 was used by visual sensor nodes to send the data to the base station. Base station forwarded the data to the remote station using IEEE 802.11 a/b/g/n standard. The solar cell battery was used to power up the sensor nodes and the base station. At the remote station, images were preprocessed to remove soil background and different shape features were extracted. Random forest and support vector machine classifiers were used to classify the paddy crop and weed based on the shape features. The results and observations obtained from the experimental setup of the system in a small paddy field are also reported. This system could be expected to enhance the crop production by giving timely advice to the crop producers about the presence of weeds so that steps can be taken to eradicate weeds.",
+  "references": [
+    {
+      "paperId": "3f27d310ea76aab0bccbf2a008836f9909d824c9"
+    },
+    {
+      "paperId": "2ffcfd94c912a2fb8314f531a624b2f5b6952596"
+    },
+    {
+      "paperId": "7d67e04d3eaea0f4cd9fd3661fbcb1fd6fc42676"
+    },
+    {
+      "paperId": "2040949e67ee603869788fd3caaf8d879746002c"
+    },
+    {
+      "paperId": "07628f14424980e27568ad49384d137682a6809d"
+    },
+    {
+      "paperId": "fac9e5b32c67b4c1008f258aac491d37a259a2ae"
+    },
+    {
+      "paperId": "95e588b62c9b526ea672089ea2a903be72b84951"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "656ebf96ea2db94ec429885998a061bb510717b8"
+    },
+    {
+      "paperId": "27340d3f71f9c17ac011c18478b50d0dd5fe40f7"
+    },
+    {
+      "paperId": "d104bdccdc431fbc56e460ecede614510e1fa1cf"
+    },
+    {
+      "paperId": "53d5764812fed5101be18b828074fe036453152d"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "9dca4e246c46b21beaf03725ed6e199efa37e839"
+    },
+    {
+      "paperId": "58a09b1351ddb447e6abdede7233a4794d538155"
+    },
+    {
+      "paperId": "dba1250ee492fe8b0f7e8c971b24ae541b965d5d"
+    },
+    {
+      "paperId": "8d4ee35b849b1a7a0a04a1f77aac73dc89764bc3"
+    },
+    {
+      "paperId": "a44b8c8cd94c5d9a3bbd1a487e65612ec93eabf3"
+    },
+    {
+      "paperId": "deda74df33a25692735ef760b4d3d183eb057375"
+    },
+    {
+      "paperId": "f7d5bd933f13f4329df236f068ec571aac5a8491"
+    },
+    {
+      "paperId": "b7b741d9677cd4176b6ec9af9a94b4fe9a25eea7"
+    },
+    {
+      "paperId": "ed352543c991bb7f469d84e3f5a6534c9a3814d9"
+    },
+    {
+      "paperId": "c11d0ba3e581e691f1bee0022dc0807ff4c428f2"
+    },
+    {
+      "paperId": "2891b5de1cc2cbd98886b483205f0e78d3fab02b"
+    },
+    {
+      "paperId": "31ae8863485062e8d08c80d55f68efe6203c237b"
+    },
+    {
+      "paperId": "cc021ed2fcc83a0cedab069ca537a40199c03252"
+    },
+    {
+      "paperId": "4aaa30769ca49875f45670970130c088136986d1"
+    },
+    {
+      "paperId": "7b1ee5497934bfe91de104f300584476f6ab18f8"
+    },
+    {
+      "paperId": "62cb41898d4bb889c796fdb1a96aff433e2fe065"
+    },
+    {
+      "paperId": "a863ebb44e4edb67d6edeeec6328b7edb6d35268"
+    },
+    {
+      "paperId": "c0d01b8f9fc128617598d896da5ae2e6196bfa8d"
+    },
+    {
+      "paperId": "ce1e3528047cd01937f6a8aa760640f6b3c8d531"
+    },
+    {
+      "paperId": "3b50880c35894665ff6f42974d6a0cfa65e54a76"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1cc944933b02bcbdb27fd2d94d3e983f2956c55e"
+    },
+    {
+      "paperId": "f44ec73aad360b8cac9f812edc77ac5a956c9ef8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e0cc28073d6ee9e999b38216deeeaeb46b2713b9"
+    },
+    {
+      "paperId": "f7da121cc6353003069e895dd655d79c38243cfb"
+    },
+    {
+      "paperId": "cdcb4cf0271a1049c8240ea70fd8579bdcdf0c97"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": "6818668fb895d95861a2eb9673ddc3a41e27b3b3"
+    }
+  ]
+}

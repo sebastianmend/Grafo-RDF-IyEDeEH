@@ -1,0 +1,116 @@
+{
+  "paperId": "8b0f76ab3f7971a87c21cbb94946641db30417c5",
+  "externalIds": {
+    "MAG": "3005995749",
+    "DOI": "10.36953/ecj.2018.191224",
+    "CorpusId": 201779915
+  },
+  "url": "https://www.semanticscholar.org/paper/8b0f76ab3f7971a87c21cbb94946641db30417c5",
+  "title": "A review on conjoint application of organic and chemical fertilizers on soil health and productivity of rice-wheat cropping system",
+  "venue": "Environment conservation journal",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.36953/ecj.2018.191224",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36953/ecj.2018.191224?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36953/ecj.2018.191224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2109937236",
+      "name": "Maneesh Kumar"
+    },
+    {
+      "authorId": "1492041928",
+      "name": "A. Rai"
+    },
+    {
+      "authorId": "2004652098",
+      "name": "Preeti Singh"
+    },
+    {
+      "authorId": "122424836",
+      "name": "N. Singh"
+    }
+  ],
+  "abstract": "Rice-wheat is the most predominant cropping system in India and covers an area of approximately, 10.5 million ha. However, the productivity of crops under this cropping-system has reached a plateau and in fact is showing a decreasing trend in many areas of India where this cropping system is being practiced for a long time. There are reports of declining factor productivity, i.e. increased rate of fertilizers are needed to maintain the current yield level which is cited as the evidence of unsustainability of the rice-wheat cropping system. The prime causes of low productivity of rice-wheat cropping system in IGP area are insufficient and unbalanced amount of macro and micro nutrient. In cultivation of rice, health and nutrient status of soil declined even in irrigated areas due to application of inadequate and unbalanced quantity of fertilizers. About half of the world’s population is alive today because of increased food production fueled by mineral fertilizers. Other sources of nutrients are organic fertilizers which are good source of plant nutrients such as N, P, K, Ca, Mg, Fe, etc. as well as other organic constituents. Therefore, continuous use of organic fertilizers reduces the nutrient requirement of the soil considerably. But, it is widely recognized that neither use of organic fertilizers alone nor chemical fertilizers can achieve the sustainability of the yield under the modern intensive farming. Contrary to detrimental effects of inorganic fertilizers, organic fertilizers are available indigenously which improve soil health resulting in enhanced crop yield. However, the use of organic manures alone might not meet the plant requirement due to presence of relatively low levels of nutrients. Therefore, in order to make the soil well supplied with all the plant nutrients in the readily available form and to maintain good soil health, it is necessary to use organic manures in conjunction with inorganic fertilizers to obtain optimum yields. To correct the deficiencies in the plant nutrient application methods requires development of precision fertilizer customized technology and hence there is need for application of these nutrients in balance quantity as a customized fertilizer (CF) with special reference to location/region specific for attaining optimum growth, development and enhancing the yield of rice. Keeping the above facts in the view, a review entitled “conjoint application of organic and chemical fertilizers on soil health and productivity of rice-wheat cropping system” has and been complied to present the current scenario of conjoint application of organic nutrients to meet the nutritional requirement of ricewheat system. Key word: Organic amendments, chemical fertilizers, customized fertilizers, soil health and ricewheat system Introduction In the whole world, chemicals based modern agriculture itself imparts a great role in degradation in soil health, whose priority is always only high crop productivity. In the Agricultural sphere, an extensive knowledge on soil degradation is already present. Consequently, the excessive use of synthetic fertilizers, the systematic deforestation, soil erosion due to high tillage and the action of rains or winds, loss of organic matter and several other factors brought about increasing desertification, the loss of millions of tons of fertile",
+  "references": [
+    {
+      "paperId": "1a93599ebe566875808423e355af90fc60614de6"
+    },
+    {
+      "paperId": "5958aaff5ed5f58c7dc01e66e818191e09a1871b"
+    },
+    {
+      "paperId": "d3d99ff1d4611136650b35114137cd53d6268100"
+    },
+    {
+      "paperId": "c285bef78af3f6e021bbd8138a5bf826de3a83a7"
+    },
+    {
+      "paperId": "ae7358f2df2e778cdb8ffb95e6c7ee98e095fce0"
+    },
+    {
+      "paperId": "3885d8662a74ea19aedb3b5c6419635147520296"
+    },
+    {
+      "paperId": "3affd20be6096217ce0faf4ecb531619fd9fc907"
+    },
+    {
+      "paperId": "542962f9402b6b5b33d74e541419d54fef207c9b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

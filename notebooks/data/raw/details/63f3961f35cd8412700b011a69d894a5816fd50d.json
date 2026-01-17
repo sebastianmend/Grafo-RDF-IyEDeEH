@@ -1,0 +1,152 @@
+{
+  "paperId": "63f3961f35cd8412700b011a69d894a5816fd50d",
+  "externalIds": {
+    "MAG": "2919030477",
+    "DOI": "10.21273/HORTTECH04214-18",
+    "CorpusId": 91402496
+  },
+  "url": "https://www.semanticscholar.org/paper/63f3961f35cd8412700b011a69d894a5816fd50d",
+  "title": "Perceptions of Precision Agriculture Technologies in the U.S. Fresh Apple Industry",
+  "venue": "Horttechnology",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.ashs.org/downloadpdf/journals/horttech/29/2/article-p151.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21273/HORTTECH04214-18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21273/HORTTECH04214-18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145280989",
+      "name": "R. Gallardo"
+    },
+    {
+      "authorId": "91275221",
+      "name": "Kara R. Grant"
+    },
+    {
+      "authorId": "2115443624",
+      "name": "David J. Brown"
+    },
+    {
+      "authorId": "4270442",
+      "name": "J. McFerson"
+    },
+    {
+      "authorId": "143760166",
+      "name": "Karen Lewis"
+    },
+    {
+      "authorId": "6485277",
+      "name": "T. Einhorn"
+    },
+    {
+      "authorId": "88575754",
+      "name": "M. M. Sazo"
+    }
+  ],
+  "abstract": "Advances in precision agriculture technologies provide opportunities to improve the efficiency of agricultural production systems, especially for high-value specialty crops such as fresh apples (Malus domestica). We distributed an online survey to apple growers in Washington, New York, and Michigan to elicit stakeholder perceptions of precision agriculture technologies. Findings from this study demonstrated that growers are willing to adopt precision agriculture technologies when they receive results from applied research projects and are engaged with active extension programs. The availability of customized services and purchasing and rental options may minimize the effects of the economies of size that create barriers to adopting increasing access to technologies. Finally, respondents deemed collaborative efforts between industry and academic institutions crucial for adapting the innovation to better address the needs of growers.",
+  "references": [
+    {
+      "paperId": "c101824fe59c39ea6516e3cc7f3345a542f5fae2"
+    },
+    {
+      "paperId": "3e9e078f2a5d4a8a03d935227982901d10a1724d"
+    },
+    {
+      "paperId": "d33e1282fb969651ddd1b1438d7bac76e41433c2"
+    },
+    {
+      "paperId": "284fa03a83a267bbcb90cdaf24a9ebc28c9a8aa9"
+    },
+    {
+      "paperId": "f9992e6071ef5b5d487a3d7f237244bbffb22795"
+    },
+    {
+      "paperId": "676f56efd2c14ce77ab7dfe4befc00e45bfd6a88"
+    },
+    {
+      "paperId": "312d9f6fd6016b2f4fb5914c6338e742df7336eb"
+    },
+    {
+      "paperId": "65b22999327c07a3f6366e5cc76d2f8c67b33437"
+    },
+    {
+      "paperId": "eb2318e696af3f05e1241616c5f201f583e5b9c3"
+    },
+    {
+      "paperId": "16f14293395ca9af0c715f52f532643ab03b89f4"
+    },
+    {
+      "paperId": "4d66e1f9d6114e83c7df1eea9f8bd3bdc695adb9"
+    },
+    {
+      "paperId": "f8e71d1d13969ec3498ddb5ca2b65563330098b8"
+    },
+    {
+      "paperId": "844e15cbfe0f6decaa8842fd2c136d958843b2b8"
+    },
+    {
+      "paperId": "e4d6534569ba74a9be42f8c4dd0cb247a7187c7d"
+    },
+    {
+      "paperId": "8dc6e5f57cf81ddd836b986b1d01087683e0391d"
+    },
+    {
+      "paperId": "5cd7a7e49d90c71e61c0884005ae93064f40eee3"
+    },
+    {
+      "paperId": "7f7a1a990ef57e85bacf04d1f7a5de3b77c02c52"
+    },
+    {
+      "paperId": "4dff3fd34f104b42dd5b26117758d971e431e0a7"
+    },
+    {
+      "paperId": "24a68217c21522a54a00cf4d513224c019dd409a"
+    },
+    {
+      "paperId": "7c14c6f1c8cc1955a9e9b9570e72aebe07471a85"
+    },
+    {
+      "paperId": "2c90a0fa2eeac0553757f146af816b0bf7a86e3c"
+    },
+    {
+      "paperId": "a5ff73068a9a93bd1b83208dd2b9e681aea994ee"
+    },
+    {
+      "paperId": "e3f2d3df57a69f50c3a8b3f41af65e139ba90097"
+    },
+    {
+      "paperId": "44467ad5d774178dce0957355e8402d78cf8c996"
+    },
+    {
+      "paperId": "8cbc466b11becd016227058eea96acf5533bb9d0"
+    },
+    {
+      "paperId": "d68f6700323aca92e32c9fbd222abd85a37db66e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

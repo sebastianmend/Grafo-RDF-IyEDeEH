@@ -1,0 +1,71 @@
+{
+  "paperId": "a9d1a11e42eb2cc617d8cd2d1c04ae43061d69d8",
+  "externalIds": {
+    "DBLP": "conf/igarss/MartiniLTJMSJAM19",
+    "MAG": "2988313228",
+    "DOI": "10.1109/IGARSS.2019.8900246",
+    "CorpusId": 208035958
+  },
+  "url": "https://www.semanticscholar.org/paper/a9d1a11e42eb2cc617d8cd2d1c04ae43061d69d8",
+  "title": "Machine Learning Applied to Uav Imagery in Precision Agriculture and Forest Monitoring in Brazililian Savanah",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8900246?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8900246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152238520",
+      "name": "David Robledo Di Martini"
+    },
+    {
+      "authorId": "2530664",
+      "name": "V. Liesenberg"
+    },
+    {
+      "authorId": "97632482",
+      "name": "E. Tetila"
+    },
+    {
+      "authorId": "70672707",
+      "name": "J. M. Junior"
+    },
+    {
+      "authorId": "2408711",
+      "name": "E. Matsubara"
+    },
+    {
+      "authorId": "152825460",
+      "name": "Henrique Lopes Siqueira"
+    },
+    {
+      "authorId": "2556411",
+      "name": "Amaury Antônio de Castro Junior"
+    },
+    {
+      "authorId": "147404433",
+      "name": "Márcio Santos Araújo"
+    },
+    {
+      "authorId": "2059233410",
+      "name": "Carlos Henrique Monteiro"
+    },
+    {
+      "authorId": "2061909",
+      "name": "H. Pistori"
+    }
+  ],
+  "abstract": "The Brazilian Savanah is one of the most important biomes of South America. It has an area of 2,036,448 km2 (around 22% of the country). Several endangered tree species are protected by law and recently are threatened in the last years. In addition, the country is the second major producer of soybean in the world. However, some insect species have been causing great economic damage in the soybean fields, and the Integrated Pest Management is a key factor for the attack control of different species. We design and implement an end-to-end observing system based on UAV (Unmanned Aerial Vehicle) to support precision agriculture and the forest monitoring. The current research is one of the projects approved by GRSS Grand Challenge, and is under development. It was developed two UAVs, one for each problem. Machine learning techniques were used and the best accuracy obtained performance reaching a classification rate of 99.04%. Others preliminary results in both precision farming and forest monitoring applications are described in this paper.",
+  "references": null
+}

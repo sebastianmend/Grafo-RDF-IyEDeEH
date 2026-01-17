@@ -1,0 +1,40 @@
+{
+  "paperId": "66dc4bc3e5c5eb1a45390252308a4cf11809a088",
+  "externalIds": {
+    "MAG": "2991104579",
+    "CorpusId": 212472636
+  },
+  "url": "https://www.semanticscholar.org/paper/66dc4bc3e5c5eb1a45390252308a4cf11809a088",
+  "title": "Smart Automation of Precision Fish Farming Using Internet Of Things (IoT)",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2332995874",
+      "name": "T. Awofolaju"
+    },
+    {
+      "authorId": "30757811",
+      "name": "K. Ogbeide"
+    },
+    {
+      "authorId": "34419150",
+      "name": "S. Adebayo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

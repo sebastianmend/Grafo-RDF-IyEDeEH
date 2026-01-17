@@ -1,0 +1,46 @@
+{
+  "paperId": "8c7fa9554883d5cec80ecc4d777dd7f49972c649",
+  "externalIds": {
+    "MAG": "2936861091",
+    "DOI": "10.31256/ukras19.34",
+    "CorpusId": 145907224
+  },
+  "url": "https://www.semanticscholar.org/paper/8c7fa9554883d5cec80ecc4d777dd7f49972c649",
+  "title": "The Intelligent Control Strategy and Verification for Precise Water-fertilizer Irrigation System",
+  "venue": "UK-RAS19 Conference: \"Embedded Intelligence: Enabling and Supporting RAS Technologies\" Proceedings",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.31256/ukras19.34",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.31256/ukras19.34?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31256/ukras19.34, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "72211238",
+      "name": "Zhan Yubin"
+    },
+    {
+      "authorId": "66581698",
+      "name": "W. Zhengying"
+    },
+    {
+      "authorId": "2113455828",
+      "name": "Zhang Lei"
+    },
+    {
+      "authorId": "10427774",
+      "name": "Jiang Weibing"
+    }
+  ],
+  "abstract": "Aim at the precision control problems of water and fertilizer concentration during agricultural fertilization and irrigation periods, designing a control technology that based on PID control technology, the application of conductivity value and pH value to develop precise water and fertilizer irrigation control system. The thesis also performed theoretical analysis and experiment of digital PID control of EC value, the results indicated that the PID control system has the advantages of high control precision, but the control performance is degradation when the fertilizer density changes greatly. The intelligent PID controller with EC value was designed by using open-loop step response, PID control technology and inaccurate-control technology. The test results show that it has PID parameter self-controlling ability, good control performance, the stable time within 3 minutes, precision degree is within ±0.15mS/cm, overshoot less than 15%. The improved intelligent PID controller control the pH value, through using open-loop step control and PID control, the test shows that the stability time within 3 minutes, the accuracy is within ± 0.15pH, overshoot less than 15%. Combine fuzzy PID with grey prediction, the grey prediction Fuzzy PID control of water and fertilizer concentration was developed, which has a fastest corresponding speed and better control stability. It owns a good control effective and have a better control quality Keywords—water-fertilizer irrigation, grey-fuzzy PID control, intelligent control strategy, precise irrigation, concentration detection",
+  "references": null
+}

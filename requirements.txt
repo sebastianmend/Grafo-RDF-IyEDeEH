@@ -19,3 +19,10 @@ nbconvert>=7.8.0
 networkx>=3.1
 numpy>=1.24.0
 
+
+# RDF
+rdflib>=6.0.0
+SPARQLWrapper>=2.0.0
+
+# Visualización adicional
+seaborn>=0.12.0

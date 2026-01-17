@@ -1,0 +1,70 @@
+{
+  "paperId": "7adaa99179dac7563601f58319c71cb595ea37cc",
+  "externalIds": {
+    "MAG": "2931618424",
+    "DOI": "10.1088/1755-1315/242/4/042001",
+    "CorpusId": 132936553
+  },
+  "url": "https://www.semanticscholar.org/paper/7adaa99179dac7563601f58319c71cb595ea37cc",
+  "title": "Analysis on Big Data Frame Design and Key Technology Application of Veterinary Drug Supervision",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/242/4/042001",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/242/4/042001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/242/4/042001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2752092",
+      "name": "Shuqing Han"
+    },
+    {
+      "authorId": "48541967",
+      "name": "Liwei Xing"
+    },
+    {
+      "authorId": "2155698640",
+      "name": "Jing Zhang"
+    },
+    {
+      "authorId": "2108880269",
+      "name": "Hongyu Zhang"
+    },
+    {
+      "authorId": "2200735839",
+      "name": "Jianzhai Wu"
+    }
+  ],
+  "abstract": "This paper introduces the construction technology of veterinary drug big data framework, veterinary drug big data collection and processing technology, veterinary drug big data storage and calculation technology, veterinary drug big data sharing and exchange technology and veterinary drug big data multi-dimensional analysis technology, and expounds the significance of big data in veterinary drug supervision work, such as whole industry chain information aggregation of veterinary drug big data, visualization of flow and direction of veterinary drugs, traceability of veterinary drug safety and prediction of animal diseases. The application of big data in veterinary drug supervision promotes standardization, intellectualization, refinement and precision of veterinary drug production and management, promotes the development of agricultural modernization in China, and inserts the wings of science and technology into the construction of agricultural modernization.",
+  "references": [
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "paperId": "4af0bdfff7398f4b4b8d6a142fac7560aba106d1",
+  "externalIds": {
+    "PubMedCentral": "6720519",
+    "MAG": "2969050845",
+    "DOI": "10.3390/antiox8080321",
+    "CorpusId": 201119039,
+    "PubMed": "31430991"
+  },
+  "url": "https://www.semanticscholar.org/paper/4af0bdfff7398f4b4b8d6a142fac7560aba106d1",
+  "title": "Optimization of an Ultrasound-Assisted Extraction for Simultaneous Determination of Antioxidants in Sesame with Response Surface Methodology",
+  "venue": "Antioxidants",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-3921/8/8/321/pdf?version=1566225761",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6720519, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2155682141",
+      "name": "Dandan Wang"
+    },
+    {
+      "authorId": "7559249",
+      "name": "Liangxiao Zhang"
+    },
+    {
+      "authorId": "2110803510",
+      "name": "Yueqing Xu"
+    },
+    {
+      "authorId": "2106761310",
+      "name": "Xin Qi"
+    },
+    {
+      "authorId": "48631372",
+      "name": "Xuefang Wang"
+    },
+    {
+      "authorId": "153315992",
+      "name": "Xiupin Wang"
+    },
+    {
+      "authorId": "28753576",
+      "name": "Qi Zhang"
+    },
+    {
+      "authorId": "33411144",
+      "name": "Peiwu Li"
+    }
+  ],
+  "abstract": "Sesame is a nutritional agricultural product with medicinal properties. Accurate determination of micronutrients is important for the improvement of sesame quality and nutrition assessments. Our previous study showed that 10 antioxidants—d-homoproline, vitamin B2, coniferyl aldehyde, hesperidin, phloretin, N-acetyl-l-leucine, l-hyoscyamine, ferulic acid, 5-methoxypsoralen, and 8-methoxypsoralen—in sesame were potential characteristic nutrients in sesame. Herein, simultaneous detection of 10 different types of antioxidants was developed by using ultrasound-assisted extraction coupled with liquid chromatography-tandem mass spectrometry (UAE-LC-MS/MS) with the help of response surface methodology. The significant variables and levels were screened and optimized by combining the single factor experiment, Plackett–Burman test, and Box–Behnken design. The optimal conditions for extraction of target antioxidants in sesame were methanol solution of 75.0%, liquid-to-material ratio of 20:1 (mL/g), extraction temperature of 50 °C, extraction power of 410.0 W, extraction time of 65 min. The total yield of targets was 21.74 μg/g under the optimized conditions. The mobile phase used was 0.1% formic acid in acetonitrile and 0.1% formic acid in water, and the column was a Thermo Syncronis C18 reverse phase column (100 mm × 2.1 mm, 3 μm). All targets required only one injection and could be quickly separated and assayed within 7 min. The limits of detection and limits of quantification for these 10 nutritional compounds ranged from 0.01 to 0.11 µg/kg and from 0.04 to 0.34 µg/kg, respectively. The validation results indicated that the method had reasonable linearity (R2 ≥ 0.9990), good recoveries (71.1%–118.3%), satisfactory intra-day precision (≤9.6%) and inter-day precision (≤12.9%), and negligible matrix effects (≤13.8%). This simultaneous quantification method was accurate, fast, and robust for the assessment of sesame nutrition.",
+  "references": [
+    {
+      "paperId": "3bd1dd944d1e579444051bdaaf977577c44c9907"
+    },
+    {
+      "paperId": "ae35308df17d7f667967e2769eab6a606ac802a7"
+    },
+    {
+      "paperId": "3ece63e88e3469058ec4609c18df685d8ab83906"
+    },
+    {
+      "paperId": "6565dbe591760509dd599c2ded4cba0dc3668af9"
+    },
+    {
+      "paperId": "eaa166c505c4a5be208f3c7e3248b49561277a24"
+    },
+    {
+      "paperId": "cacc38e9b2903115944bac77915a453596e7b557"
+    },
+    {
+      "paperId": "4b5110928312aaab48656e946b1d1b15d0ed0650"
+    },
+    {
+      "paperId": "b70d617d74ea6b178e7656ca6bf612009a01aac6"
+    },
+    {
+      "paperId": "0bd55015395a3aa645c9e6b7cb113d604bcd3238"
+    },
+    {
+      "paperId": "c3c410ddf8bc8c981bf49566105b03e271b0480f"
+    },
+    {
+      "paperId": "59a27e6688a399e406b0ffb51573fa3579dcb7a4"
+    },
+    {
+      "paperId": "0ec6a81e200c5e5b1230b49a62c200bdc1aac97b"
+    },
+    {
+      "paperId": "455e0b53771738a8c416aca12c3fcde64d657171"
+    },
+    {
+      "paperId": "c0c391af8d90e0d0c9d5a1383cae8983b6a7ed11"
+    },
+    {
+      "paperId": "31b32b50804a4e1916a27f44bc43210b102aa0c0"
+    },
+    {
+      "paperId": "2c091afde49a4a5717b4f3b377190439b875a65a"
+    },
+    {
+      "paperId": "5f4ebd3bcf8894efb7844ad701eddbfae4c40f0f"
+    },
+    {
+      "paperId": "44f1f2600be40d8ef1a738689d500a16d020a605"
+    },
+    {
+      "paperId": "e3595b2e6bbaf636c4c4f7cc5dff421335a1f66f"
+    },
+    {
+      "paperId": "32886bfb9ddc5c93381d35e78ad781ae7d946e34"
+    },
+    {
+      "paperId": "d1dee11e2e90214340033af4f813039778c2d15e"
+    },
+    {
+      "paperId": "a6251c33a15efd72ecb5687bee261ab49c1fcbbf"
+    },
+    {
+      "paperId": "ee0ad285f6e80dbe5bcf793364a5cd3812fd866b"
+    },
+    {
+      "paperId": "8c94842b5642c67a7875e7a41f6832afb9d82bb9"
+    },
+    {
+      "paperId": "452195d06b462af8608ef6631458462f0d348959"
+    },
+    {
+      "paperId": "abbd8f90bfa30b004037d9fa5562e96534dedad2"
+    },
+    {
+      "paperId": "2148bd2c3c038858a66817b6daba62c3368a3ffc"
+    },
+    {
+      "paperId": "c45179f2aae15bf5c878c5d7ce65ff67fff6cfa7"
+    },
+    {
+      "paperId": "d50618733371a85513773f9ec8a9cbf1522c5328"
+    },
+    {
+      "paperId": "21dc28a2d6d4ccd7eca945f14949a68d62db9842"
+    },
+    {
+      "paperId": "368e84ab7fefacecbe24259a0afd9e2ef219ddf8"
+    },
+    {
+      "paperId": "c2a2188ab52368dbc4a0e0d81bb3d3af898ca20b"
+    },
+    {
+      "paperId": "279ca6ac7fd73b7909fa2915aebf01871d655a81"
+    },
+    {
+      "paperId": "8df3fdf529531ebffcb92755defead320b866546"
+    },
+    {
+      "paperId": "f4e4ad59567d61650e4a7adce8336c7655f50c9d"
+    },
+    {
+      "paperId": "d00bdf0e005aa8b5029bc38c6f7bf574b836a55e"
+    },
+    {
+      "paperId": "1abf79cd211e22c46033590a9d62a85d2c0f01d8"
+    },
+    {
+      "paperId": "ddd4d73030475168fed53fe2f326f077e9703519"
+    },
+    {
+      "paperId": "20712ad8679cc07b3a39aaf0c7cce85e192aed01"
+    },
+    {
+      "paperId": "7299b29db61a02cde5685f1702a1c0fce172694b"
+    },
+    {
+      "paperId": "73e3267bde94a75ba5b266c8661d6a74d40b2362"
+    },
+    {
+      "paperId": "3dbd9d42407e5e715eec2c54631b5c6e1fc6ea9d"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

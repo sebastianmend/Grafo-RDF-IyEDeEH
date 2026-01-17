@@ -1,0 +1,360 @@
+{
+  "paperId": "73a76c393ea3a4f7275c4ba0fd6a98fa54db0825",
+  "externalIds": {
+    "MAG": "2945363277",
+    "DOI": "10.2134/AGRONJ2018.12.0779",
+    "CorpusId": 182858544
+  },
+  "url": "https://www.semanticscholar.org/paper/73a76c393ea3a4f7275c4ba0fd6a98fa54db0825",
+  "title": "Setting the Record Straight on Precision Agriculture Adoption",
+  "venue": "Agronomy Journal",
+  "year": 2019,
+  "citationCount": 281,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://hau.collections.crest.ac.uk/17408/1/James%20Lowenberg-DeBoer%20setting%20the%20record%20upload.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2134/AGRONJ2018.12.0779?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/AGRONJ2018.12.0779, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1399076388",
+      "name": "J. Lowenberg‐DeBoer"
+    },
+    {
+      "authorId": "96176899",
+      "name": "B. Erickson"
+    }
+  ],
+  "abstract": "There is a perception that adoption of precision agriculture (PA) has been slow. This study reviews the public data on farm level use of PA in crop production worldwide. It examines adoption estimates for PA from completed surveys that utilized random sampling procedures, as well as estimates of adoption using other survey methods, with an objective to document the national or regional level adoption patterns of PA using existing data. The analysis indicates that Global Navigation Satellite Systems (GNSS) guidance and associated automated technologies like sprayer boom control and planter row or section shutoffs have been adopted as fast as any major agricultural technology in history. The main reason for the perception that PA adoption is slow is because PA is often associated with variable rate technology (VRT)—just one of many PA technologies, one of the first adopted by many farmers, but that now rarely exceeds 20% of farms. This level of adoption suggests that farmers like the idea of VRT, but are not convinced of its value. VRT adoption estimates for niche groups of farmers may exceed 50%. The biggest gap in PA adoption is for medium and small farms in the developing world that do not use motorized mechanization.",
+  "references": [
+    {
+      "paperId": "7ccb7130c6f61f6d999c782708b76a080e6fdb16"
+    },
+    {
+      "paperId": "f5eb5e90e3aa9e3a494b38116e88e27ff9fada27"
+    },
+    {
+      "paperId": "0034f2a3a3c3f15aac059952a47ce0c1ea99af32"
+    },
+    {
+      "paperId": "7fb93e62b5c4cd2c673585f986fc3dda782fd12b"
+    },
+    {
+      "paperId": "257cc715b1677a69f9db1e0e03aaefb2260069e1"
+    },
+    {
+      "paperId": "ef198d7e7158e73ea6a0f56deeb95b55bc32122a"
+    },
+    {
+      "paperId": "916b76a3b4d988a44431b9a6175e11d5cde653fd"
+    },
+    {
+      "paperId": "ed8e9e1cff4face7f3f0150fc109a441d9d8b077"
+    },
+    {
+      "paperId": "bd21e6d064e7f0947648bc9a710de7557fcc431a"
+    },
+    {
+      "paperId": "5794f0005ab9830224a6222c44ee90d85d3339c5"
+    },
+    {
+      "paperId": "6c21b20e9d96acc44e3a6ec6ca0542355e2a2565"
+    },
+    {
+      "paperId": "474f60cd845d30689835ed418213d3d31a4cbb75"
+    },
+    {
+      "paperId": "6d14073d011d4d9b1ac1add55a19053eb1290058"
+    },
+    {
+      "paperId": "f617de7ab44aa130e7e6c1be0adbba7bca6ff3d2"
+    },
+    {
+      "paperId": "992fe86430affcd3e2c4752dff82ecb57c0e18ed"
+    },
+    {
+      "paperId": "9ad39637d4c8347fca58359c28b75b0d870c5340"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "b688deae29fd81a7ae64a7ee560d148381acfa2f"
+    },
+    {
+      "paperId": "e962a7a563b47780c8ad10ce83273b351c6390b4"
+    },
+    {
+      "paperId": "48fff09c57ffffdd00bff7e22040d45e26de850b"
+    },
+    {
+      "paperId": "1def16d421b377334dcf0d5dcb1d3eb1591dfa1e"
+    },
+    {
+      "paperId": "9a33560ec685ff2253f9e1c98a25bff59f086b04"
+    },
+    {
+      "paperId": "79042d52ce5a6c17df46d4d2468931d6beed0cfa"
+    },
+    {
+      "paperId": "48d628db45cf31e92769c5870a4c7eae0b8774fc"
+    },
+    {
+      "paperId": "24ad4c7ef82460646e350a0cb07479810d51a9dd"
+    },
+    {
+      "paperId": "30d474b4bb788c7cff57391fe79135598f48f991"
+    },
+    {
+      "paperId": "5d4da605752bb3928809c43d0878b13971bf9425"
+    },
+    {
+      "paperId": "626af711fe4ddca248b9e21d2f02c0e4aa12c03e"
+    },
+    {
+      "paperId": "0deb9899813283f64fdb300e6b2493dc2b7c37bd"
+    },
+    {
+      "paperId": "ebb3c807c4d89c3a09a84507412a94336366d47b"
+    },
+    {
+      "paperId": "abffa765ea815e75db29f7c37ca119f879075128"
+    },
+    {
+      "paperId": "e1c0a6a890d02e55bc4bca1130924267c8f0ce4b"
+    },
+    {
+      "paperId": "48b713b452a3bbee6655cdee259726c749a0a3e9"
+    },
+    {
+      "paperId": "bb818ab2e16d927d2417e84dcc812d49900fab69"
+    },
+    {
+      "paperId": "600d6f91c24dd9ecedaa649590bb3b9f13481ad2"
+    },
+    {
+      "paperId": "11775439574187f4f8dabef03aefc421480bf01c"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "40e3c5d75c476da96c8f20dd45fa6d4deb306f4e"
+    },
+    {
+      "paperId": "03d884cab892e0e0af0e8c85d25cda05ab9d3957"
+    },
+    {
+      "paperId": "5a3fb41422050320f33d9004184ca121982b53f3"
+    },
+    {
+      "paperId": "b2eb749bc781525239c8f83dfcecec580bcdcb31"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "3841d0fc8b40e7848e7ee4432980aa232332b8f2"
+    },
+    {
+      "paperId": "c3cd1ed63eadb74cfc14d08cdaa132968337e2cb"
+    },
+    {
+      "paperId": "5be54c2d84e051ad534f714240e53cd7e4d0c236"
+    },
+    {
+      "paperId": "a562b6f0a349ca21824c490dfdad5b2285a693c7"
+    },
+    {
+      "paperId": "3c47767514dc78d1076acf82ce154e0989728e88"
+    },
+    {
+      "paperId": "8c699a95a943df2e76a8f7f659c0b80b72c1de96"
+    },
+    {
+      "paperId": "c6cd925d1769f88e2c7822ebdc1279ece1e47972"
+    },
+    {
+      "paperId": "fd340cb13aea52087ef57600b84d2cf0ecf3f585"
+    },
+    {
+      "paperId": "ec4a86bde560f159896563178ddc022350dba227"
+    },
+    {
+      "paperId": "35e9331dfd69a64b3b31b4ec44faddba7dedac4c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1390dc9dd3a79ee9eaa0445c0a8d51cc13010862"
+    },
+    {
+      "paperId": "8bdb8bfca3a934a70efdc9b018342788dca9104b"
+    },
+    {
+      "paperId": "2e05127acfb4c0bc28d943c6a1bd7010ecea5e2c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "227f4c67ef4e835ddbb0e6a01ba7ae5b91741a44"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "44467ad5d774178dce0957355e8402d78cf8c996"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0bf4ba3320797d6f89dc350919a9e65ea990f838"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1239a8ee6aaa277800d4eb705bd01c821a6b08ac"
+    },
+    {
+      "paperId": "9267cf699ae99e1b056c83143bcb9b674303cfd1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "754289311b9ae3ad61a46c0ea49649268445c867"
+    },
+    {
+      "paperId": "10be797bd651bd1195a9d190a165a377d7bc30fe"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac097aa3bdeeda4320b37e64509e7899649bf018"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d73304b4c7af98054c6fd1298cce1e885d1f525a"
+    },
+    {
+      "paperId": "796f069542a832a8a3789bf9868d3517f41879ff"
+    },
+    {
+      "paperId": "0adf9c68c2dafa0c226a7420a80b62ccf422fa6d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "132daf4d3560ea96f56dca171fedcb031759c67c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "60f817b597b4b2d9175edf142704593209f2d9d0"
+    },
+    {
+      "paperId": "420403c1193b0f69f697aaa85dd82ca6cb71e03b"
+    },
+    {
+      "paperId": "889c591985b09e6e0c22d3a44d7ccc23f7776c9d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "90a0d5b0e1ab768ec67f638d27bf51ed0411a2ae"
+    },
+    {
+      "paperId": "9a7a829330ac52214fcacbd4ef93deb62c3dd0e6"
+    },
+    {
+      "paperId": "ee15f44edb6470f4f1c24a4000aba3c291603a35"
+    },
+    {
+      "paperId": "f95ce6fd1d0e9e21ab02fb28103c5eca5aa651b1"
+    },
+    {
+      "paperId": "42a399523d3418f25c98c35248c258c001ac5067"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

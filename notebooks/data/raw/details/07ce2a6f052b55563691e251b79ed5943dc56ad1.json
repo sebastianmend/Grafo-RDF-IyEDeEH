@@ -1,0 +1,29 @@
+{
+  "paperId": "07ce2a6f052b55563691e251b79ed5943dc56ad1",
+  "externalIds": {
+    "DOI": "10.1109/DSD.2019.00067",
+    "CorpusId": 204821550
+  },
+  "url": "https://www.semanticscholar.org/paper/07ce2a6f052b55563691e251b79ed5943dc56ad1",
+  "title": "Framework of Key Enabling Technologies for Safe and Autonomous Drones' Applications",
+  "venue": "Euromicro Symposium on Digital Systems Design",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DSD.2019.00067?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DSD.2019.00067, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [],
+  "abstract": null,
+  "references": null
+}

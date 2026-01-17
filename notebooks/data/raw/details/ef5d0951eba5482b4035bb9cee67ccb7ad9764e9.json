@@ -1,0 +1,92 @@
+{
+  "paperId": "ef5d0951eba5482b4035bb9cee67ccb7ad9764e9",
+  "externalIds": {
+    "MAG": "2904786997",
+    "DOI": "10.1088/1742-6596/1126/1/012022",
+    "CorpusId": 115995325
+  },
+  "url": "https://www.semanticscholar.org/paper/ef5d0951eba5482b4035bb9cee67ccb7ad9764e9",
+  "title": "Application of computer vision and low-cost artificial intelligence for the identification of phytopathogenic factors in the agro-industry sector",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1742-6596/1126/1/012022/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1126/1/012022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1126/1/012022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2286094739",
+      "name": "Julián Alberto"
+    },
+    {
+      "authorId": "2286131710",
+      "name": "Patiño Murillo"
+    },
+    {
+      "authorId": "1411363870",
+      "name": "J. J. Castro-Maldonado"
+    },
+    {
+      "authorId": "1405313153",
+      "name": "J. Patiño-Murillo"
+    },
+    {
+      "authorId": "1450786269",
+      "name": "A. E. Florian-Villa"
+    },
+    {
+      "authorId": "2286147618",
+      "name": "O. E. Guadrón-Guerrero"
+    }
+  ],
+  "abstract": "This work presents a perspective of the processes of phytosanitary control in crops, starting with traditional methods and strategies applied for precision agriculture and the use of artificial intelligence and computer vision in this area. Then, the article describes the approach for developing the proposed algorithm based on artificial intelligence and computer vision for phytopathogenic detection. The methodology for the development and validation stages is specifically discussed. Several tests were carried out with the different image processing algorithms studied. Results show how the selected method with Haar filters and Gradient-oriented Histograms performs effectively for identification of phytopathogenic factors, from both qualitative and quantitative analysis.",
+  "references": [
+    {
+      "paperId": "a6a1762f6b490d72086e0a20cc16110329a41f9b"
+    },
+    {
+      "paperId": "86bde2a448d5e5db2472a0a9ad0ba6a503a10b8d"
+    },
+    {
+      "paperId": "5eee0b498dc082b3e9ca74b55231fcadb6ea250d"
+    },
+    {
+      "paperId": "67cdd7b7d8413ce7b177a6b7e6199a575aa0b315"
+    },
+    {
+      "paperId": "00382a0e07fd557715f3150e0257f63d0c64fd0b"
+    },
+    {
+      "paperId": "1eb03c9e9287f4f7bc69e602e98d93275b2544eb"
+    },
+    {
+      "paperId": "67c63f6b3eeb0b619d6306fcf1c4b144710f79b0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a8be399144e0af6f09e83d423c793510bbd6cbd2"
+    },
+    {
+      "paperId": "ff5722451807a3f3ebbce9f8e4da297d0122780f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

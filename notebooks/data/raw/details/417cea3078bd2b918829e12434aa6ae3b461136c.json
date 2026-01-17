@@ -1,0 +1,41 @@
+{
+  "paperId": "417cea3078bd2b918829e12434aa6ae3b461136c",
+  "externalIds": {
+    "MAG": "2904027073",
+    "DOI": "10.1016/j.tplants.2018.11.007",
+    "CorpusId": 56169426,
+    "PubMed": "30558964"
+  },
+  "url": "https://www.semanticscholar.org/paper/417cea3078bd2b918829e12434aa6ae3b461136c",
+  "title": "Perspectives for Remote Sensing with Unmanned Aerial Vehicles in Precision Agriculture.",
+  "venue": "Trends in Plant Science",
+  "year": 2019,
+  "citationCount": 711,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.tplants.2018.11.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.tplants.2018.11.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39611239",
+      "name": "W. Maes"
+    },
+    {
+      "authorId": "4765721",
+      "name": "K. Steppe"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

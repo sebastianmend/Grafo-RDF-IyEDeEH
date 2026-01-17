@@ -1,0 +1,44 @@
+{
+  "paperId": "07a94a60b7bde45de33153f7333e1e5b749a9570",
+  "externalIds": {
+    "DBLP": "journals/nca/ElhosenyYG19",
+    "MAG": "2905301180",
+    "DOI": "10.1007/s00521-018-3926-y",
+    "CorpusId": 54466778
+  },
+  "url": "https://www.semanticscholar.org/paper/07a94a60b7bde45de33153f7333e1e5b749a9570",
+  "title": "Special issue on machine learning applications for self-organized wireless sensor networks",
+  "venue": "Neural computing & applications (Print)",
+  "year": 2018,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00521-018-3926-y.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00521-018-3926-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00521-018-3926-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49282672",
+      "name": "M. Elhoseny"
+    },
+    {
+      "authorId": "2115844515",
+      "name": "Xiaohui Yuan"
+    },
+    {
+      "authorId": "10148761",
+      "name": "Gunasekaran Manogaran"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "b4ce1a98eaf9fb04e79abe5381f342dd6c066067",
+  "externalIds": {
+    "DBLP": "conf/iccS/ViswanathSMN19",
+    "MAG": "2952614117",
+    "DOI": "10.1007/978-3-030-22741-8_15",
+    "CorpusId": 184483254
+  },
+  "url": "https://www.semanticscholar.org/paper/b4ce1a98eaf9fb04e79abe5381f342dd6c066067",
+  "title": "Deep Learning Based LSTM and SeqToSeq Models to Detect Monsoon Spells of India",
+  "venue": "International Conference on Conceptual Structures",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-22741-8_15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-22741-8_15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "148159813",
+      "name": "S. Viswanath"
+    },
+    {
+      "authorId": "2453548",
+      "name": "M. Saha"
+    },
+    {
+      "authorId": "144240262",
+      "name": "Pabitra Mitra"
+    },
+    {
+      "authorId": "91976841",
+      "name": "R. Nanjundiah"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

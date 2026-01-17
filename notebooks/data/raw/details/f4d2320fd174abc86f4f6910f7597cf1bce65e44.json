@@ -1,0 +1,45 @@
+{
+  "paperId": "f4d2320fd174abc86f4f6910f7597cf1bce65e44",
+  "externalIds": {
+    "MAG": "2921293103",
+    "DOI": "10.1002/jsfa.9693",
+    "CorpusId": 83461216,
+    "PubMed": "30883757"
+  },
+  "url": "https://www.semanticscholar.org/paper/f4d2320fd174abc86f4f6910f7597cf1bce65e44",
+  "title": "State-of-the-art technologies in precision agriculture: a systematic review.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2019,
+  "citationCount": 160,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.9693?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.9693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2937959",
+      "name": "Ishita Bhakta"
+    },
+    {
+      "authorId": "3223443",
+      "name": "S. Phadikar"
+    },
+    {
+      "authorId": "2793668",
+      "name": "K. Majumder"
+    }
+  ],
+  "abstract": "BACKGROUND\nThe socio-economic status of the countries is ever-changing due to the increasing population. 'Green Revolution', a paradigm shift towards technology driven agriculture, has ensured a good quality of life to some extent for this increasing population. However, it brings in several negative impacts on the environment, which poses a threat to the sustainability of agriculture and natural resources. Precision agriculture (PA) is a state-of-the-art concept of site-specific farm management that helps to overcome this threat in a smart way using modern information and communication technologies. It reduces the indecorous use of resources, pollution and hence improves quality of life, which in turn helps to achieve sustainable development goals.\n\n\nRESULTS\nThe objective of this systematic review is to understand the present status, benefits, and limitations of the state-of-the-art technologies used in PA. A total 67 articles are identified following the PRISMA guideline to inspect the technical innovations at different components of PA. The articles are examined based on the novelties, measured parameters, technologies, and field of applications.\n\n\nCONCLUSION\nThis analysis results in a significant understanding about the present knowledge gap and identification of the potential future research opportunities for sustainable agronomy. © 2019 Society of Chemical Industry.",
+  "references": null
+}

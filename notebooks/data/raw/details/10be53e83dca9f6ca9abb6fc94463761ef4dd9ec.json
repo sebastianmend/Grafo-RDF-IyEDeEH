@@ -1,0 +1,46 @@
+{
+  "paperId": "10be53e83dca9f6ca9abb6fc94463761ef4dd9ec",
+  "externalIds": {
+    "MAG": "2981516226",
+    "DOI": "10.1109/ICSCAN.2019.8878801",
+    "CorpusId": 204863921
+  },
+  "url": "https://www.semanticscholar.org/paper/10be53e83dca9f6ca9abb6fc94463761ef4dd9ec",
+  "title": "Smart Monitoring of Agricultural Field And Controlling of Water Pump Using Internet of Things",
+  "venue": "2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN)",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSCAN.2019.8878801?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSCAN.2019.8878801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "49829224",
+      "name": "M. Suresh"
+    },
+    {
+      "authorId": "1920368",
+      "name": "S. Ashok"
+    },
+    {
+      "authorId": "2157354935",
+      "name": "S.Arun kumar"
+    },
+    {
+      "authorId": "2094651649",
+      "name": "P. Sairam"
+    }
+  ],
+  "abstract": "In present days, we preferred automation in every sector. Automated systems are bendy to use. It offers with large precision and consistency with high term operation as fair the manual operated systems. The tribulations faced by the farmers in the agriculture method are anxiety in these days. Our effort is to make an achieve the mechanization implementation to manage electrical motor which is used in agricultural domain. It is a nature work hence the use of devices distributed sparely. In real time it is very complex for farmers to run and operate these devices. Our proposed system that enables us to power the devices over GSM base and can translate the signals from the associated sensors in the ground and electrical parameters that can send to the user. As GUI were elaborate for android devices and perform testing to switch ON and OFF of the motor propel and data collected from the sensors that can store in the user database.",
+  "references": null
+}

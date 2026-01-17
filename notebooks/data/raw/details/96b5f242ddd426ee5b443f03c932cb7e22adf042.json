@@ -1,0 +1,68 @@
+{
+  "paperId": "96b5f242ddd426ee5b443f03c932cb7e22adf042",
+  "externalIds": {
+    "MAG": "2909678485",
+    "DOI": "10.1039/c8an02473a",
+    "CorpusId": 73412455,
+    "PubMed": "30702090"
+  },
+  "url": "https://www.semanticscholar.org/paper/96b5f242ddd426ee5b443f03c932cb7e22adf042",
+  "title": "In situ colorimetric detection of glyphosate on plant tissues using cysteamine-modified gold nanoparticles.",
+  "venue": "In Analysis",
+  "year": 2019,
+  "citationCount": 43,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1039/c8an02473a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/c8an02473a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1724884",
+      "name": "Q. Tu"
+    },
+    {
+      "authorId": "15293982",
+      "name": "Tianxi Yang"
+    },
+    {
+      "authorId": "15511558",
+      "name": "Yanqi Qu"
+    },
+    {
+      "authorId": "14142788",
+      "name": "Siyue Gao"
+    },
+    {
+      "authorId": "50316244",
+      "name": "Zhiyun Zhang"
+    },
+    {
+      "authorId": "51258048",
+      "name": "Qingmiao Zhang"
+    },
+    {
+      "authorId": "2143444820",
+      "name": "Yilei Wang"
+    },
+    {
+      "authorId": "3276853",
+      "name": "Jinyi Wang"
+    },
+    {
+      "authorId": "1770208",
+      "name": "Lili He"
+    }
+  ],
+  "abstract": "Monitoring the levels of pesticides on plant tissues is important for achieving effective protection of crops after application, as well as ensuring low levels of residues during harvest. In this study, a simple, rapid, and fieldable colorimetric method for detecting the pesticide glyphosate (Gly) on the plant tissues in situ using cysteamine-modified gold nanoparticles (AuNPs-Cys) has been developed. The aggregation of AuNPs-Cys in the presence of Gly results in a consequent color change from red to blue (or purple), which could be observed visually on the surface of plant tissues. With the naked eye, we successfully detected Gly spiked on the surface of spinach, apple, and corn leaves in situ. Further verification and quantification were achieved using surface-enhanced Raman spectroscopy (SERS) which uses AuNPs-Cys as the substrate. Moreover, application of this method was demonstrated through the evaluation of the Gly distribution on plant tissues which could greatly facilitate the development of precision agriculture technology.",
+  "references": null
+}

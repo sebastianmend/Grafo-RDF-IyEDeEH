@@ -1,0 +1,39 @@
+{
+  "paperId": "031b20cfd5b455fc7601fe03817af245d555cd70",
+  "externalIds": {
+    "MAG": "2980876022",
+    "DOI": "10.1109/MILTECHS.2019.8870125",
+    "CorpusId": 204820877
+  },
+  "url": "https://www.semanticscholar.org/paper/031b20cfd5b455fc7601fe03817af245d555cd70",
+  "title": "Land Cover Classification Using Sentinel-1 SAR Data",
+  "venue": "International Conference on Model Transformation",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MILTECHS.2019.8870125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MILTECHS.2019.8870125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "105030548",
+      "name": "Lucie Orlíková"
+    },
+    {
+      "authorId": "48828181",
+      "name": "J. Horák"
+    }
+  ],
+  "abstract": "With the development of remote sensing techniques, optical images become more efficient compare to field survey. However, the quality of optical images would influenced by cloud. Radar is known to be very sensitive to vegetation physiognomy and biomass. The sensitivity of synthetic aperture radar (SAR) to the structural features of terrain leads to landcover classification into simple and easily interpreted structural classes. In this paper, the potential of using free of charge Sentinel-1 SAR imagery for land cover mapping in the Moravian-Silesian region, is investigated. The images recorded in 2018 were used for a per-pixel and object-based classification of agricultural land. The per-pixel classification was performed by the maximum likelihood algorithm, the object-based classification then using the support vector machine algorithm. The legend was taken from the Land Parcel Identification System (LPIS) and contained the following three classes – grassland, arable land and a class that involves hop fields, vineyards, and orchards. Post processing of the classification results has been done using the confusion matrix (also known as error matrix) and corresponding overall accuracy and Kappa coefficients of all the classification methods have been calculated. Significantly better results were achieved through object-oriented classification. In both areas of interest, the highest processing and user precision was achieved for the arable land class.",
+  "references": null
+}

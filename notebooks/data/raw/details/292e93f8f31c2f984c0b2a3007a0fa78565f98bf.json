@@ -1,0 +1,54 @@
+{
+  "paperId": "292e93f8f31c2f984c0b2a3007a0fa78565f98bf",
+  "externalIds": {
+    "MAG": "2952635548",
+    "DOI": "10.23919/URSIAP-RASC.2019.8738621",
+    "CorpusId": 195221591
+  },
+  "url": "https://www.semanticscholar.org/paper/292e93f8f31c2f984c0b2a3007a0fa78565f98bf",
+  "title": "Regional short-term forecasting model to predict ionospheric scintillation and TEC at low latitudes",
+  "venue": "URSI Asia-Pacific Radio Science Conference",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/URSIAP-RASC.2019.8738621?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/URSIAP-RASC.2019.8738621, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "107861987",
+      "name": "J. G. Damaceno"
+    },
+    {
+      "authorId": "13004557",
+      "name": "C. Cesaroni"
+    },
+    {
+      "authorId": "1958556",
+      "name": "L. Spogli"
+    },
+    {
+      "authorId": "70398335",
+      "name": "M. Grzesiak"
+    },
+    {
+      "authorId": "145702208",
+      "name": "G. Franceschi"
+    },
+    {
+      "authorId": "144867459",
+      "name": "M. Cafaro"
+    }
+  ],
+  "abstract": "The regular behavior of the electrodynamics of the low latitude ionosphere makes the scintillation on GNSS signals a daily phenomenon, occurring after the local sunset. The solar activity changes ionospheric conditions. In the specific, a solar storm hitting the Earth may change the ExB drift, leading to a suppression or to an intensification of the Equatorial Fountain. This result into a change in the mechanism regulating the formation of the plasma bubbles, and has strong dependence on the local time of the storm development. The regular and irregular behavior of the low latitude ionosphere in producing scintillation-effective irregularities pose then a challenge to model and predict the disruption of GNSS signals [1]. Mitigation of the degradation of the GNSS performance due to presence of ionospheric irregularities, i.e. the equatorial plasma bubbles, is of paramount importance for high-precision applications, such as precision agriculture.",
+  "references": null
+}

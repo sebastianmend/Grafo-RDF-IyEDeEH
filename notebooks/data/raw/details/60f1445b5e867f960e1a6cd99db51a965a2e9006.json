@@ -1,0 +1,392 @@
+{
+  "paperId": "60f1445b5e867f960e1a6cd99db51a965a2e9006",
+  "externalIds": {
+    "PubMedCentral": "6364421",
+    "MAG": "2920690311",
+    "DOI": "10.1186/s12879-019-3715-y",
+    "CorpusId": 64300508,
+    "PubMed": "30727964"
+  },
+  "url": "https://www.semanticscholar.org/paper/60f1445b5e867f960e1a6cd99db51a965a2e9006",
+  "title": "Precision public health to inhibit the contagion of disease and move toward a future in which microbes spread health",
+  "venue": "BMC Infectious Diseases",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-019-3715-y",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6364421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50189274",
+      "name": "D. Thaler"
+    },
+    {
+      "authorId": "34336795",
+      "name": "M. Head"
+    },
+    {
+      "authorId": "1736317",
+      "name": "A. Horsley"
+    }
+  ],
+  "abstract": "Antimicrobial resistance continues to outpace the development of new chemotherapeutics. Novel pathogens continue to evolve and emerge. Public health innovation has the potential to open a new front in the war of “our wits against their genes” (Joshua Lederberg). Dense sampling coupled to next generation sequencing can increase the spatial and temporal resolution of microbial characterization while sensor technologies precisely map physical parameters relevant to microbial survival and spread. Microbial, physical, and epidemiological big data could be combined to improve prospective risk identification. However, applied in the wrong way, these approaches may not realize their maximum potential benefits and could even do harm. Minimizing microbial-human interactions would be a mistake. There is evidence that microbes previously thought of at best “benign” may actually enhance human health. Benign and health-promoting microbiomes may, or may not, spread via mechanisms similar to pathogens. Infectious vaccines are approaching readiness to make enhanced contributions to herd immunity. The rigorously defined nature of infectious vaccines contrasts with indigenous “benign or health-promoting microbiomes” but they may converge. A “microbial Neolithic revolution” is a possible future in which human microbial-associations are understood and managed analogously to the macro-agriculture of plants and animals. Tradeoffs need to be framed in order to understand health-promoting potentials of benign, and/or health-promoting microbiomes and infectious vaccines while also discouraging pathogens. Super-spreaders are currently defined as individuals who play an outsized role in the contagion of infectious disease. A key unanswered question is whether the super-spreader concept may apply similarly to health-promoting microbes. The complex interactions of individual rights, community health, pathogen contagion, the spread of benign, and of health-promoting microbiomes including infectious vaccines require study. Advancing the detailed understanding of heterogeneity in microbial spread is very likely to yield important insights relevant to public health.",
+  "references": [
+    {
+      "paperId": "013cb9e740ab8e9946e1521e290770bc52e71e11"
+    },
+    {
+      "paperId": "625603a156db2431d9a460895f3fe91883797b35"
+    },
+    {
+      "paperId": "db05213a6158e6480227d234efb21a968fa85895"
+    },
+    {
+      "paperId": "8f89bb98f6f7929732e14c160613e3691475c984"
+    },
+    {
+      "paperId": "7875e7881370787b120ac25330c94fcb51fe07c0"
+    },
+    {
+      "paperId": "81d8d82fe1b79d6edd5f6ad9ecb92f00ede0d1f7"
+    },
+    {
+      "paperId": "62d3b87f15ff55b8924f03fc2824b473f9b4d737"
+    },
+    {
+      "paperId": "2d81ad593678c9895dbaf4a8d5b6b2d84fc526ca"
+    },
+    {
+      "paperId": "2e4e1127984ca2b42acd13fd48454a5174b92378"
+    },
+    {
+      "paperId": "5bf10790b7688da59c5b792471370cb7ec9582ea"
+    },
+    {
+      "paperId": "944f574a3d37e76e4d5a5d23c870733622b02dc9"
+    },
+    {
+      "paperId": "45ea799e26ee9c095b00b4d6d3b7ddad95688922"
+    },
+    {
+      "paperId": "0b72ed954dd39b896ca849b5412507a0166e3608"
+    },
+    {
+      "paperId": "df039a1efb908cc3909125d5750f26637b7db94b"
+    },
+    {
+      "paperId": "01d3fa3bf3732c64e080adbb804e3c07e619c993"
+    },
+    {
+      "paperId": "887f2047f03f01b2dfcdb7d96e4ca1f38cd566fb"
+    },
+    {
+      "paperId": "abd874e06b83b7446385e9f31dd98831295c0ead"
+    },
+    {
+      "paperId": "4533247f2cf6c48a4777ab88f52632a8c616e0fc"
+    },
+    {
+      "paperId": "b8042f5fd730d8a4a5cfac63e5574d27442b7b99"
+    },
+    {
+      "paperId": "4a45bc42762c07f2d9154a993d9456492eda5e5a"
+    },
+    {
+      "paperId": "e3ac2636cd663be2fd00646bb9cb744b7f6cd990"
+    },
+    {
+      "paperId": "3be596d8300e172bb4e3a4a890ebc9fffdc531a9"
+    },
+    {
+      "paperId": "2864fe24b2a4fa3eab880044ddc92e59e53a71a7"
+    },
+    {
+      "paperId": "2ac65a62aa7d4741a45c2c097b305c950691e914"
+    },
+    {
+      "paperId": "3ec92a4b29cd4435708c2ebcf7aab82c64d51523"
+    },
+    {
+      "paperId": "4c4eebd9ad5bbb884d634f393f39e887d5e8d9c1"
+    },
+    {
+      "paperId": "73879df391dafbb3ef38408f5f2a90df22d0231e"
+    },
+    {
+      "paperId": "657708100846576d50b329cac111d0f4cc847e10"
+    },
+    {
+      "paperId": "46c7447dc478ac7a56486f943cdcc3d7ca9c9228"
+    },
+    {
+      "paperId": "d0c069267d68108b9bf7eb50fb089815bf61432a"
+    },
+    {
+      "paperId": "a76c58d8a6bc6cd165c05253ba0894c73432f9d2"
+    },
+    {
+      "paperId": "b1beaa2edfe4f969acde393287eb3ddb460dbc1f"
+    },
+    {
+      "paperId": "e929cda31bb538dec26d3a1f1ee45bacf723003f"
+    },
+    {
+      "paperId": "d45a606de6d00c74b67582f1ab48db6687a0e8d6"
+    },
+    {
+      "paperId": "5a033f41ff94c4a7d94df9ddb5bb3bab26146395"
+    },
+    {
+      "paperId": "5764f1fa8f89d7c7df15fffab6faffed4a8e5729"
+    },
+    {
+      "paperId": "8b585ecfab65799a709794192f2bc4f1dd06f87f"
+    },
+    {
+      "paperId": "db9483665dcc327eaf262d1d2e788f0f047c2f6b"
+    },
+    {
+      "paperId": "ad01aabb67f99fc2441a854d8b131a6a1f094b49"
+    },
+    {
+      "paperId": "c90df891f76f68181655fe02d2e5a37fca0cd892"
+    },
+    {
+      "paperId": "5e50eb8ab524bab385a4ab9489c37f8e10e223f0"
+    },
+    {
+      "paperId": "7f8cce0e255153081dca68894b03248908f31010"
+    },
+    {
+      "paperId": "82272f23374c5424df2723bfb86b894433212563"
+    },
+    {
+      "paperId": "87135968acbe94e22fddee4f5b04fb3720fd45a9"
+    },
+    {
+      "paperId": "fc6edcb11c1824a97f864b2c0801ee3c58c25fbd"
+    },
+    {
+      "paperId": "0651bd88ae6b3ceffc3a9ca1ef122a7977ca4590"
+    },
+    {
+      "paperId": "7f2af10369f032f6bd8a4af87ba2c4d55f1df550"
+    },
+    {
+      "paperId": "6df2614c6a72e61414d551c383e7b5a2c0b62789"
+    },
+    {
+      "paperId": "25c8fc33612c4964dfbfaadcf9be0a2b991acdac"
+    },
+    {
+      "paperId": "3fc302531fda168d446533713a60318089672e27"
+    },
+    {
+      "paperId": "b1e270c426653b36a39ce75b35e9ae7acf0e59f7"
+    },
+    {
+      "paperId": "285e6c5caf9c80b95eb13b4a8cf4039a67296207"
+    },
+    {
+      "paperId": "ab73ed24cd8641d468169b22793147a8e29f6179"
+    },
+    {
+      "paperId": "3f29cbfa14c830212d614c8dd0af0bfb946b4aaf"
+    },
+    {
+      "paperId": "179131ae7b7f615622a6b1128908e5da2e16aea9"
+    },
+    {
+      "paperId": "4e7e9d12a3cb0f9fd77ae00fe7d4f16af5270894"
+    },
+    {
+      "paperId": "ccc1aadf5b6c4a60a7afdf2fd9034c5efab2f0bf"
+    },
+    {
+      "paperId": "fe41ec70ea632ebdca2f6678e4a6418751613e71"
+    },
+    {
+      "paperId": "3bb47a2d2beee82a63fd700d9b96b2c636262426"
+    },
+    {
+      "paperId": "b678e2a7e3af33451dfc5bc0826e9758c02be04c"
+    },
+    {
+      "paperId": "c3ffbbde20ebc0bec2a47f2e1f64307de42f8000"
+    },
+    {
+      "paperId": "0ebe25a0894080994860f7239c614c9c6ec7e13d"
+    },
+    {
+      "paperId": "50278cf5556e0c74130ea5c9d97c1a659bef3e96"
+    },
+    {
+      "paperId": "5b4ab501f19c2347540ef7da02f475c617f4710b"
+    },
+    {
+      "paperId": "20cee402854171d99a5cf342b4fb94eaefbae8d7"
+    },
+    {
+      "paperId": "5eeccfd0675a4c497029e46dc31a29a1b8da9644"
+    },
+    {
+      "paperId": "f300a846715b8bc49914ef7b43ece5bba452bb16"
+    },
+    {
+      "paperId": "1dc4f757f425b080168840089f1f4d29bac75f51"
+    },
+    {
+      "paperId": "27983d35af18207bd4ae29059ed8d4ae46f1f848"
+    },
+    {
+      "paperId": "330606e0d21ae27c749873a339eb7bc4f770c936"
+    },
+    {
+      "paperId": "51ff7e8377e041b7e5237d4b4ca85a87368ba2ea"
+    },
+    {
+      "paperId": "9b077a42bce2b73905d16639e9b13b1522112e5a"
+    },
+    {
+      "paperId": "69a3b6499c9df1f0f88a58764f45605b69584417"
+    },
+    {
+      "paperId": "52f168c6c4f42294c4c9f9305bc88b6d25ffec9a"
+    },
+    {
+      "paperId": "b14fabbcd56132581e9322d91427e3a371a7cd4d"
+    },
+    {
+      "paperId": "db45667093e4fa4f95bc402c10b460052119717f"
+    },
+    {
+      "paperId": "478c7629de74d84736589e44a58dee8171dfddc8"
+    },
+    {
+      "paperId": "8f4e44559e69faf954b3657b5cbe3f1eb3c9205d"
+    },
+    {
+      "paperId": "d9fa488e3bf35ee1882bbdf6e0b70794a5e0f624"
+    },
+    {
+      "paperId": "00ee03882643240027e407c20caef1cc650da26e"
+    },
+    {
+      "paperId": "422b68115ce86e87b8c54600f21631588fc4711d"
+    },
+    {
+      "paperId": "326f3e9cd0ace2deedd1d3f9ba1776a6280e47b9"
+    },
+    {
+      "paperId": "9a63be18a577461bc060782825c7f3422f8fa3d8"
+    },
+    {
+      "paperId": "c75924f4b15d041bbbb133863975fa2a50672e45"
+    },
+    {
+      "paperId": "d76b1a4e2768e8e6fce9c77870d42a42f16f0a26"
+    },
+    {
+      "paperId": "5ec75a44d31fc60bd2e6c2824e8dcfdb3b23717e"
+    },
+    {
+      "paperId": "74761568706e867c071a9ec25d3bba6497e55229"
+    },
+    {
+      "paperId": "fdd06fae01e6472601b698d9e66a57908e0d2f0b"
+    },
+    {
+      "paperId": "b5c11dbb6e5631be69e182b59d1fb48f9a8b35d0"
+    },
+    {
+      "paperId": "660f2c2e5ee2a62d8ffb00006e96f1f5eafcc2da"
+    },
+    {
+      "paperId": "42424fbf9eac600a513e67e5567a05037086ae08"
+    },
+    {
+      "paperId": "398a683fccbde2f61af6c40f97e2b91996f49633"
+    },
+    {
+      "paperId": "35be8020aa0030a91ba4bd6a224aaf26406b6d33"
+    },
+    {
+      "paperId": "5f6504b270e8fdd81095cb00f7ae4379be8a883c"
+    },
+    {
+      "paperId": "ed655f7042c6f43bbc0ff664ec87931defc9dc02"
+    },
+    {
+      "paperId": "03c84a0d8c1e1adeeacdf2c294a8bdb345b3445c"
+    },
+    {
+      "paperId": "81ae570a2f918efc8a0763490dc56086531076fc"
+    },
+    {
+      "paperId": "bc227f828a00459b0bd94d9ca896f84f35fed5f0"
+    },
+    {
+      "paperId": "94d908b78009ad45bff8f5633cdfc1bfac856dc6"
+    },
+    {
+      "paperId": "b72d24aa485bd2f74bbd83afe086f0718ad569fc"
+    },
+    {
+      "paperId": "469558ebb811fc612f2a3c6baed09880f5362d04"
+    },
+    {
+      "paperId": "603cad31baf69da8b4ef1d95cc1ac22061377b8d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e4bdcabc78d310b87fb9f61742c58d93481a52bd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "af1e5b63f2f0440deff06b07ea62cc3bbe2bd202"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "f26f6c2824706344de0a703702894bd7a04b3f3d",
+  "externalIds": {
+    "MAG": "2971703851",
+    "DBLP": "conf/secon/ChamarajnagarA19",
+    "DOI": "10.1109/SAHCN.2019.8824841",
+    "CorpusId": 201847042
+  },
+  "url": "https://www.semanticscholar.org/paper/f26f6c2824706344de0a703702894bd7a04b3f3d",
+  "title": "Integrity Threat Identification for Distributed IoT in Precision Agriculture",
+  "venue": "Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SAHCN.2019.8824841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SAHCN.2019.8824841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "73774051",
+      "name": "Ravishankar Chamarajnagar"
+    },
+    {
+      "authorId": "67057020",
+      "name": "A. Ashok"
+    }
+  ],
+  "abstract": "Internet-of-Things (IoT) paradigms have created, in addition to opportunities, a huge void in security. Although there are multiple works that explore security through device identification, cryptography and network security protocols, the question of can we trust the integrity of things to represent reality or precisely, can we trust the data and the metrics being sent by things, remains largely unanswered in distributed wireless scenarios. Given how nascent the domain is and the rapid pace at which IoT is being adopted, ensuring that the data from each of these devices is trustable is very challenging. Moreover, the problem becomes harder in wireless sensor network scenario, especially in harsh environments, due to the potential avenues for spoofing and physical attacks. To this end, this paper explores conditions or threat vectors under which a wireless network of devices may become unreliable in a fully distributed setting, and present an approach to identify potential integrity failures or threats. We present the effectiveness of our approach through a use–case analysis for precision agriculture applications. Through experimental and trace–based simulations, we show that threats can potentially be identified in real–time with 80% accuracy and at about 90% precision and recall.",
+  "references": null
+}

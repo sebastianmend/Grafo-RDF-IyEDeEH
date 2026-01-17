@@ -1,0 +1,43 @@
+{
+  "paperId": "a7bc85f43df4b2ef8dccd1fc493a7ea53e24fc64",
+  "externalIds": {
+    "DBLP": "conf/cec/SantosNZ18",
+    "MAG": "2896761810",
+    "DOI": "10.1109/CEC.2018.8477981",
+    "CorpusId": 52928545
+  },
+  "url": "https://www.semanticscholar.org/paper/a7bc85f43df4b2ef8dccd1fc493a7ea53e24fc64",
+  "title": "Multi-Objective Genetic Algorithm for Feature Selection in a Protein Function Prediction Context",
+  "venue": "IEEE Congress on Evolutionary Computation",
+  "year": 2018,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CEC.2018.8477981?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CEC.2018.8477981, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3220126",
+      "name": "B. C. Santos"
+    },
+    {
+      "authorId": "3345035",
+      "name": "C. Nobre"
+    },
+    {
+      "authorId": "1734430",
+      "name": "Luis E. Zárate"
+    }
+  ],
+  "abstract": "With the recent advances of genomic sequencing techniques, the number of protein sequences available for analysis has increased greatly. Wet-lab processes to predict the function of a protein are too high-cost to answer to this demand. However, knowing the function of a protein is extremely important in several fields such as medicine and agriculture. Therefore, it is necessary to find computational models able to predict protein function. That is an open research field in Bioinformatics, since the existing models don't perform well enough yet. The Sting DB database gathers relevant informations related to the proteins' physico-chemical characteristics, which have been considered in some researches, most of those limited to a few set of characteristics. In this work, we proposed a methodology utilizing a multi-objective genetic algorithm to find the ideal subset of characteristics to identify the classes of a dataset of enzymes. After the feature selection process, we performed a dataset enhancement by adding new variables, in order to construct a SVM classifier. The proposed methodology achieved 77.3% precision and 72.7% F-Measure averages.",
+  "references": null
+}

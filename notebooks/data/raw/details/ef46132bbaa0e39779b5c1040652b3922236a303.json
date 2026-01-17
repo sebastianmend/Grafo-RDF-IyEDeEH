@@ -1,0 +1,40 @@
+{
+  "paperId": "ef46132bbaa0e39779b5c1040652b3922236a303",
+  "externalIds": {
+    "MAG": "2978044663",
+    "CorpusId": 210780751
+  },
+  "url": "https://www.semanticscholar.org/paper/ef46132bbaa0e39779b5c1040652b3922236a303",
+  "title": "Environmental Issues Regarding Agriculture: Past, Present, and Future",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15000440",
+      "name": "A. McCloskey"
+    },
+    {
+      "authorId": "98093387",
+      "name": "A. Farooque"
+    },
+    {
+      "authorId": "115542648",
+      "name": "Melanie Bos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

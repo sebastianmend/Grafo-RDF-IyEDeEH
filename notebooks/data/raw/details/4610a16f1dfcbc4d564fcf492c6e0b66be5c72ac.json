@@ -1,0 +1,62 @@
+{
+  "paperId": "4610a16f1dfcbc4d564fcf492c6e0b66be5c72ac",
+  "externalIds": {
+    "MAG": "2805281210",
+    "DOI": "10.25165/IJABE.V11I3.4249",
+    "CorpusId": 55789067
+  },
+  "url": "https://www.semanticscholar.org/paper/4610a16f1dfcbc4d564fcf492c6e0b66be5c72ac",
+  "title": "Review of precision rice hill-drop drilling technology and machine for paddy",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 44,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25165/IJABE.V11I3.4249?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25165/IJABE.V11I3.4249, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48985294",
+      "name": "Minghua Zhang"
+    },
+    {
+      "authorId": "2243468203",
+      "name": "Zaiman Wang"
+    },
+    {
+      "authorId": "2472830",
+      "name": "Xiwen Luo"
+    },
+    {
+      "authorId": "49253468",
+      "name": "Ying Zang"
+    },
+    {
+      "authorId": "2025480309",
+      "name": "Yang Wenwu"
+    },
+    {
+      "authorId": "103961567",
+      "name": "Xingang He"
+    },
+    {
+      "authorId": "2248588498",
+      "name": "Baolong Wang"
+    },
+    {
+      "authorId": "2246113119",
+      "name": "Yizheng Dai"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

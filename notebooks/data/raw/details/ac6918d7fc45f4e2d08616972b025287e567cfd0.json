@@ -1,0 +1,41 @@
+{
+  "paperId": "ac6918d7fc45f4e2d08616972b025287e567cfd0",
+  "externalIds": {
+    "DBLP": "conf/icmv/BaculoR18",
+    "MAG": "2921724902",
+    "DOI": "10.1117/12.2522840",
+    "CorpusId": 88484952
+  },
+  "url": "https://www.semanticscholar.org/paper/ac6918d7fc45f4e2d08616972b025287e567cfd0",
+  "title": "Image-based classiﬁcation and segmentation of healthy and defective mangoes",
+  "venue": "International Conference on Machine Vision",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2522840?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2522840, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "29371562",
+      "name": "Maria Jeseca C. Baculo"
+    },
+    {
+      "authorId": "3100803",
+      "name": "Conrado R. Ruiz"
+    }
+  ],
+  "abstract": "The use of image processing and classification for agricultural applications has been widely studied and has led to work such as the automatic grading of fruit and vegetables, yield approximation and defect detection. Image segmentation is one of the first steps to identify the region of interest within an image. This paper presents an approach to automatic segmentation and classification of healthy and defective Carabao mangoes. K-means, range filtering and color-channel segmentation were utilized so that the varying texture and color of mangoes due to the surface defects can be considered. Results show that the proposed technique performs better than the classical K-means segmentation. The performance of segmentation step has a considerable influence on the precision of the classification model. Segmented and not segmented images were trained using KNN, SVM, MLP and CNN. The experiments showed that the models performed better when trained with segmented images.",
+  "references": null
+}

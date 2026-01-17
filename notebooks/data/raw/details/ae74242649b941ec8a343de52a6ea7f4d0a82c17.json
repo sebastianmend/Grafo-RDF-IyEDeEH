@@ -1,0 +1,176 @@
+{
+  "paperId": "ae74242649b941ec8a343de52a6ea7f4d0a82c17",
+  "externalIds": {
+    "MAG": "2980473340",
+    "DBLP": "journals/remotesensing/Mesas-Carrascosa19",
+    "DOI": "10.3390/rs11202413",
+    "CorpusId": 207924256
+  },
+  "url": "https://www.semanticscholar.org/paper/ae74242649b941ec8a343de52a6ea7f4d0a82c17",
+  "title": "Project-Based Learning Applied to Unmanned Aerial Systems and Remote Sensing",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2413/pdf?version=1571321823",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202413?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1401267545",
+      "name": "F. Mesas-Carrascosa"
+    },
+    {
+      "authorId": "49557640",
+      "name": "Fernando Pérez Porras"
+    },
+    {
+      "authorId": "1404757663",
+      "name": "Paula Triviño-Tarradas"
+    },
+    {
+      "authorId": "2436693",
+      "name": "José Emilio Meroño de Larriva"
+    },
+    {
+      "authorId": "1401260551",
+      "name": "A. García-Ferrer"
+    }
+  ],
+  "abstract": "The development of unmanned aerial vehicle (UAV) technology and the miniaturization of sensors have changed the way remote sensing (RS) is used, popularizing this geoscientific discipline in other fields, such as precision agriculture. This makes it necessary to implement the use of these technologies in teaching RS alongside the classical platforms (satellite and manned aircraft). This manuscript describes how The Higher Technical School of Agricultural Engineering at the University of Córdoba (Spain) has introduced UAV RS into the academic program by way of project-based learning (PBL). It also presents the basic characteristics of PBL, the design of the subject, the description of the teacher-guided and self-directed activities, as well as the degree of student satisfaction. The teaching and learning objectives of the subject are to learn how to determine the vigor, temperature, and water stress of a crop through the use of RGB, multispectral, and thermographic sensors onboard a UAV platform. From the onset, students are motivated, actively participate in the tasks related to the realization of UAV flights, and subsequent processing and analysis of the registered images. Students report that PBL is more engaging and allows them to develop a better understanding of RS.",
+  "references": [
+    {
+      "paperId": "417cea3078bd2b918829e12434aa6ae3b461136c"
+    },
+    {
+      "paperId": "e81e690b3ab1b382ca26aa03475db8bf58287411"
+    },
+    {
+      "paperId": "9aa412ab19fcbbfcd7db221a39ee27775dcd1ddb"
+    },
+    {
+      "paperId": "3c8fa05f8dd3a971bc4138b1b111a217c2ae3d14"
+    },
+    {
+      "paperId": "3645b697dcdac809438615e179ab6b24b3054bf2"
+    },
+    {
+      "paperId": "283e302fb1b0c80d6c8734d90425622b1e462523"
+    },
+    {
+      "paperId": "64dc31801d8ac13821291e8e41fd6fbaa30f3443"
+    },
+    {
+      "paperId": "5bae58aecce4471f38eafef1e9fd984be15abdef"
+    },
+    {
+      "paperId": "47b931b83465551ed1666d41c6a3dbf03d371cff"
+    },
+    {
+      "paperId": "360e1dbc5f9982446606d57cf11409351f82650c"
+    },
+    {
+      "paperId": "8d49fed80f75f325621d08c60ef6d12e7d3c2434"
+    },
+    {
+      "paperId": "dd5f1a757a0cdd121545d9f48eb56e3d4209b25e"
+    },
+    {
+      "paperId": "f2f499d4a55c182ff8dfa9f46a9b74bd5afaf3c2"
+    },
+    {
+      "paperId": "f3b5d0dde69a3b17994c07bdc5cb320a4162178c"
+    },
+    {
+      "paperId": "435984e70b5fdef90d3fb845c0ccb5387bcd850b"
+    },
+    {
+      "paperId": "485b15c77e5dd89a4134f5c771e4cde033ec2c13"
+    },
+    {
+      "paperId": "b1e7ee920047a93efc4c7b551234a6df24738249"
+    },
+    {
+      "paperId": "24a51888b120198880d772ae6920815220f4197e"
+    },
+    {
+      "paperId": "eca551f64180790a593a2db8497f0e94e2e05dab"
+    },
+    {
+      "paperId": "1ddf0f7374a444e758c0c9bda1909c413bbea320"
+    },
+    {
+      "paperId": "c21f8d77092aa054df56248b4d24391f940202ac"
+    },
+    {
+      "paperId": "a6053c8585fb46af70bd61f782503b37a7dddb6d"
+    },
+    {
+      "paperId": "49df6e07e1cfccf2611ffada673560201d5ead9d"
+    },
+    {
+      "paperId": "fe6a9cd3c51829c3ee59fe88ed2751f9db2caf37"
+    },
+    {
+      "paperId": "ac106f47331b242e179291b80b7f5fcf7bad9acb"
+    },
+    {
+      "paperId": "e08aa2fe113a9a9b3a3830655e23e7aa49f49d93"
+    },
+    {
+      "paperId": "e55ee894e8f11aaca180a29a77985da24b0333a6"
+    },
+    {
+      "paperId": "0af319d700809978b6b0c01b2fd4136f0f2d422f"
+    },
+    {
+      "paperId": "53b4b75c1efc57369f35c73d9f59b4ec7a02f08f"
+    },
+    {
+      "paperId": "50f511fcb842842f0744d4e0b4956b2c7546a7ee"
+    },
+    {
+      "paperId": "35eb45d51ae08fdbe2060f258fa05f8539d1aa8d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "40afb625043dd41503c2612e6c700a5124bbacb1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6f91c55f4f3fa0d70a0eb883ada9a718d566b28a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "502010f391d51a1f5f97235ba922324d168f07d6"
+    }
+  ]
+}

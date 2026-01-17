@@ -1,0 +1,48 @@
+{
+  "paperId": "7d2a8169b65bde90f93ee27fab5884cb9fdd22b5",
+  "externalIds": {
+    "MAG": "2889971928",
+    "DBLP": "journals/cea/Mazon-OlivoHMP18",
+    "DOI": "10.1016/j.compag.2018.09.013",
+    "CorpusId": 53034680
+  },
+  "url": "https://www.semanticscholar.org/paper/7d2a8169b65bde90f93ee27fab5884cb9fdd22b5",
+  "title": "Rules engine and complex event processor in the context of internet of things for precision agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "citationCount": 51,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2018.09.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2018.09.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1410802019",
+      "name": "Bertha Mazon-Olivo"
+    },
+    {
+      "authorId": "1410802843",
+      "name": "Dixys L. Hernández-Rojas"
+    },
+    {
+      "authorId": "1450822564",
+      "name": "José Maza-Salinas"
+    },
+    {
+      "authorId": "2064029262",
+      "name": "Alberto Pan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

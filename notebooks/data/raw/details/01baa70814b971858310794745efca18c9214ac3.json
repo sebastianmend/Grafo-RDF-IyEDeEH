@@ -1,0 +1,43 @@
+{
+  "paperId": "01baa70814b971858310794745efca18c9214ac3",
+  "externalIds": {
+    "DBLP": "journals/iotj/AhmedDH18",
+    "MAG": "2899776773",
+    "DOI": "10.1109/JIOT.2018.2879579",
+    "CorpusId": 56800257
+  },
+  "url": "https://www.semanticscholar.org/paper/01baa70814b971858310794745efca18c9214ac3",
+  "title": "Internet of Things (IoT) for Smart Precision Agriculture and Farming in Rural Areas",
+  "venue": "IEEE Internet of Things Journal",
+  "year": 2018,
+  "citationCount": 453,
+  "influentialCitationCount": 17,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2018.2879579?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2018.2879579, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2436462",
+      "name": "N. Ahmed"
+    },
+    {
+      "authorId": "102424067",
+      "name": "D. De"
+    },
+    {
+      "authorId": "2533312",
+      "name": "I. Hussain"
+    }
+  ],
+  "abstract": "Internet of Things (IoT) gives a new dimension in the area of smart farming and agriculture domain. With the use of fog computing and WiFi-based long distance network in IoT, it is possible to connect the agriculture and farming bases situated in rural areas efficiently. To focus on the specific requirements, we propose a scalable network architecture for monitoring and controlling agriculture and farms in rural areas. Compared to the existing IoT-based agriculture and farming solutions, the proposed solution reduces network latency up to a certain extent. In this, a cross-layer-based channel access and routing solution for sensing and actuating is proposed. We analyze the network structure based on coverage range, throughput, and latency.",
+  "references": null
+}

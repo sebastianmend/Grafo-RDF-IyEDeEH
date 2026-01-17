@@ -1,0 +1,245 @@
+{
+  "paperId": "ac9f4882278de0186b084c7468045485a560a6d6",
+  "externalIds": {
+    "PubMedCentral": "6631825",
+    "MAG": "2948920734",
+    "DOI": "10.3390/plants8060161",
+    "CorpusId": 184484844,
+    "PubMed": "31181770"
+  },
+  "url": "https://www.semanticscholar.org/paper/ac9f4882278de0186b084c7468045485a560a6d6",
+  "title": "Herbicide Resistance Management: Recent Developments and Trends",
+  "venue": "Plants",
+  "year": 2019,
+  "citationCount": 122,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2223-7747/8/6/161/pdf?version=1559985873",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6631825, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4107812",
+      "name": "H. Beckie"
+    },
+    {
+      "authorId": "14444993",
+      "name": "M. Ashworth"
+    },
+    {
+      "authorId": "40586555",
+      "name": "K. Flower"
+    }
+  ],
+  "abstract": "This review covers recent developments and trends in herbicide-resistant (HR) weed management in agronomic field crops. In countries where input-intensive agriculture is practiced, these developments and trends over the past decade include renewed efforts by the agrichemical industry in herbicide discovery, cultivation of crops with combined (stacked) HR traits, increasing reliance on preemergence vs. postemergence herbicides, breeding for weed-competitive crop cultivars, expansion of harvest weed seed control practices, and advances in site-specific or precision weed management. The unifying framework or strategy underlying these developments and trends is mitigation of viable weed seeds into the soil seed bank and maintaining low weed seed banks to minimize population proliferation, evolution of resistance to additional herbicidal sites of action, and spread. A key question going forward is: how much weed control is enough to consistently achieve the goal of low weed seed banks? The vision for future HR weed management programs must be sustained crop production and profitability with reduced herbicide (particularly glyphosate) dependency.",
+  "references": [
+    {
+      "paperId": "58280568ef793b1545dc77b5028eb09e2adbb933"
+    },
+    {
+      "paperId": "ab0d382ae75298195c8f4c63e3d2525f80bec200"
+    },
+    {
+      "paperId": "faaea431613a029fc67051f94ad21d121620b127"
+    },
+    {
+      "paperId": "358df48d3556f8c6f68bed71c07047af25d63812"
+    },
+    {
+      "paperId": "8ea92ac58aa79f10a6df3c15562ef2b65e833446"
+    },
+    {
+      "paperId": "9bf4c87c550834a3519a47e86b3d8dbd7858801f"
+    },
+    {
+      "paperId": "fe61dddb53cc38126bc48e7f00fba0f460e1ff32"
+    },
+    {
+      "paperId": "c425ff11456c94e5d56ddeb5b35f3bec1bf8ca78"
+    },
+    {
+      "paperId": "610a84f13d69743ef3270a9633266a7c7705937e"
+    },
+    {
+      "paperId": "12cfa7f97e29d9aed1e7ef9a0ff08bb80c5bfda9"
+    },
+    {
+      "paperId": "addf8ee3cefe4f463da9297592ef2417018dfc5a"
+    },
+    {
+      "paperId": "af95f3df081dfd80bc2cd4e914d0c65eedad215f"
+    },
+    {
+      "paperId": "29fb6c41469e98ab29a3a349fbbb0117ef343029"
+    },
+    {
+      "paperId": "6650e3a573f1e90895a8027351c7674856729620"
+    },
+    {
+      "paperId": "ceb0511e944a8ca5f9f3516f293877a01d772b0f"
+    },
+    {
+      "paperId": "602625c681d6faf63ab8206b57ab6a847dee7662"
+    },
+    {
+      "paperId": "0fa2d1884da5935fa851ff6810cca8569916e28a"
+    },
+    {
+      "paperId": "46eac223090a7a1ad4f5d86c14add10c91e2ed6a"
+    },
+    {
+      "paperId": "0ee21c8476ce368f0640adf4a598ec32b2e2923d"
+    },
+    {
+      "paperId": "879525a975d54c61eef4d39b0a482fe1f73f384e"
+    },
+    {
+      "paperId": "44d749f25715d4f838f942be697d7489458e173c"
+    },
+    {
+      "paperId": "f47ea62afc8c0fc9a6c6aecee5c60482758e8a87"
+    },
+    {
+      "paperId": "7bca1b4f9752961ec8dbe737ff462bacbd769f07"
+    },
+    {
+      "paperId": "1e045b309cbbc71063eb2828e2edb4bd7a6604b2"
+    },
+    {
+      "paperId": "17afae624eb65438f843ef64005b13d11ea99241"
+    },
+    {
+      "paperId": "6a99227019754e111bd45574eb1d34c2ae540d1f"
+    },
+    {
+      "paperId": "f106c99944f33af6f05ee2756912bd14d66e12a3"
+    },
+    {
+      "paperId": "608e12091b83b452275a292e1f6fc4d8a9a862ae"
+    },
+    {
+      "paperId": "40f1d63c3a07b284b62306e2346818b880d61840"
+    },
+    {
+      "paperId": "c151b5f4ba035195a322772875b42dad30a1bd15"
+    },
+    {
+      "paperId": "449d7c1de135809626f08af856cad02bca114d5b"
+    },
+    {
+      "paperId": "8ca443843b4247d424b393394c20b7dfdb6ac5e0"
+    },
+    {
+      "paperId": "0e81f56908b67f3595d7402ba25913e7ebd5ef6e"
+    },
+    {
+      "paperId": "533e3f22e332767814deaac230e7d1df265476a8"
+    },
+    {
+      "paperId": "8f2b76c2342db45f6a3de61766723d7312bf9663"
+    },
+    {
+      "paperId": "2015f75d1184cdc1b1ca3b031e17e18b86169718"
+    },
+    {
+      "paperId": "de7178c9fdc89d7369d1900616875a8ad946146a"
+    },
+    {
+      "paperId": "2d0cfb9affe9c033d13348da3b9f69751baa19d5"
+    },
+    {
+      "paperId": "4772d0e78c69d08544f7971e0df746c495fb97a1"
+    },
+    {
+      "paperId": "a0035d34171d2c03acba097ddd22918298c28f63"
+    },
+    {
+      "paperId": "61b50f6460ce5927e26e7ae6bc034bb9700a0e5d"
+    },
+    {
+      "paperId": "a24d59f5d1aad4a1ef528ae3457f853e5b30008e"
+    },
+    {
+      "paperId": "897c5e86670959679253cac5082df9180b413357"
+    },
+    {
+      "paperId": "ae6375101262d44ba1dc6c66154c416ad4de396d"
+    },
+    {
+      "paperId": "b1a9b81098291f93011649b63a84f26c4bcf2c8d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d6152bfe7486fba72093bd75adbe31594d004633"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6d6759113427e68a2262a484d0af839d5a4f1328"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e751c6b184c0e92d0574fbef2de8f3ba8284609"
+    },
+    {
+      "paperId": "706fb3ea06cd9f3b69a1fdcca5d0afb4906ed48a"
+    },
+    {
+      "paperId": "d936070b720a93470e677ee23daea453c305960b"
+    },
+    {
+      "paperId": "6e89a0bb2f9418088600c5acdcaf4fe545152233"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

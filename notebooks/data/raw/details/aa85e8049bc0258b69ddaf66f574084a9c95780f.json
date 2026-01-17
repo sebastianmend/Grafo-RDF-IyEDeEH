@@ -1,0 +1,214 @@
+{
+  "paperId": "aa85e8049bc0258b69ddaf66f574084a9c95780f",
+  "externalIds": {
+    "MAG": "2902842027",
+    "DOI": "10.1007/s11356-018-3690-7",
+    "CorpusId": 54488821,
+    "PubMed": "30506380"
+  },
+  "url": "https://www.semanticscholar.org/paper/aa85e8049bc0258b69ddaf66f574084a9c95780f",
+  "title": "Pyrethroid pesticide metabolite, 3-PBA, in soils: method development and application to real agricultural soils",
+  "venue": "Environmental science and pollution research international",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://recipp.ipp.pt/bitstream/10400.22/16390/1/ART_DELERUE_2019_34.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-018-3690-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-018-3690-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "121707432",
+      "name": "I. Bragança"
+    },
+    {
+      "authorId": "40534031",
+      "name": "P. Lemos"
+    },
+    {
+      "authorId": "1400773735",
+      "name": "C. Delerue-Matos"
+    },
+    {
+      "authorId": "6763545",
+      "name": "V. Domingues"
+    }
+  ],
+  "abstract": "Abstract3-Phenoxybenzoic acid (3-PBA) is a shared metabolite of several synthetic pyrethroid pesticides (SPs) resulting from environmental degradation of parent compounds and thus occurs frequently as a residue in samples. Hence, the importance of 3-PBA evaluation after pyrethroid application. There is a gap of analytical methods to determine 3-PBA in soil samples. Therefore, an analytical method that combines the solid-phase extraction (SPE) and gas chromatography–mass spectrometry (GC/MS) detection has been developed for the determination of 3-PBA in soil samples. The analytical method was validated in terms of linearity, sensitivity, intra- and inter-day batch precisions, recoveries, and quantification limits. An SPE method using a Strata X cartridge allows obtaining limits of detection and quantification equal to 4.0 and 13.3 ng g−1, respectively. Under optimized conditions, the method average recovery levels ranged from 70.3 to 93.5% with a relative standard deviation below 3.4%. Method intra- and inter-day precision was under 5.0 and 4.8%, respectively. The developed method was applied to 11 agricultural soil samples in the north of Portugal. The developed methodology allowed for the determination of the pyrethroid metabolite, 3-PBA, in agricultural soil samples at levels of few ng g−1.\n Graphical abstractᅟ",
+  "references": [
+    {
+      "paperId": "2e2929c40c1f045d0c33167916947ee88caf98e4"
+    },
+    {
+      "paperId": "d93a300b0c3eb5c30cfd67126229645b2207817e"
+    },
+    {
+      "paperId": "71864bfb61afd9b942b89af7a2e09eb2395b090d"
+    },
+    {
+      "paperId": "0422b249a918c6daf430b253527f8a12f1534691"
+    },
+    {
+      "paperId": "2890721bd4d73bd9cdafde3cc9a64ceeb13afb7a"
+    },
+    {
+      "paperId": "9eb95967a336a392e6acd9f37920108140cab814"
+    },
+    {
+      "paperId": "518585990c7d24a1a7b48690cd2ef2ab1f8a211d"
+    },
+    {
+      "paperId": "58027929d349880c1bd4a05ced464df537aa8fbe"
+    },
+    {
+      "paperId": "7247325836893d332a0550c82fd193b4f3761283"
+    },
+    {
+      "paperId": "bbce2a6c215ec23428a53d817922ae2e4c16de52"
+    },
+    {
+      "paperId": "b29f5c5b51708b98080e93b264f90474135d3682"
+    },
+    {
+      "paperId": "353ea2c14b2045564d12bdbaf525908b9c5376b2"
+    },
+    {
+      "paperId": "74514e42fd2ffee896ffebd5be201eabd581e2ab"
+    },
+    {
+      "paperId": "4c5bc99f81017b920776629e77fa425542770167"
+    },
+    {
+      "paperId": "cea9e90545530e53638c924903e222798ddee05f"
+    },
+    {
+      "paperId": "d52673a4062ff7bcbc19b781afff599c7fd88690"
+    },
+    {
+      "paperId": "bf365c1ca4b7c97f614d078689510a11e467dc27"
+    },
+    {
+      "paperId": "97b9a373d744f815fea134518911905c1cc1027f"
+    },
+    {
+      "paperId": "8082f3d08cedcb14ab1419a6f08723673cd2ddda"
+    },
+    {
+      "paperId": "15f9d322d6968805403f536bdb85a10f305a5777"
+    },
+    {
+      "paperId": "727f5bdc154ce3c0a4d288ba3c4cdb02e90e834a"
+    },
+    {
+      "paperId": "0ac0877d0ffee075283c42ee845baec6e3b63791"
+    },
+    {
+      "paperId": "534c7c42768f7c0c5084ab880cd1973a1fdf4238"
+    },
+    {
+      "paperId": "6869590f9fac9c7e3a649a23a2802a5f8c236642"
+    },
+    {
+      "paperId": "ef38356f7c21c5dfbd7a3aa0b443f62a5fe14a4f"
+    },
+    {
+      "paperId": "5638fae1cd2acc7301a3fe4455d70b011dd5b12b"
+    },
+    {
+      "paperId": "4e2b8fa0fdd720656dfaecbb53a64d992483f618"
+    },
+    {
+      "paperId": "2d507f98b612fafd6eb6119f3ca2fcc96d3b5ded"
+    },
+    {
+      "paperId": "2e0f76bca8265d47113caafabb71d0bd3e3adde0"
+    },
+    {
+      "paperId": "c69a332c1029b9087e32053b2ff99b6234fbd3f7"
+    },
+    {
+      "paperId": "0fbd56b2c40cdb3a47f5ac9461f1b2b25d9f2614"
+    },
+    {
+      "paperId": "6dfe2df5ee912616ac551d47250b5013b8f7d25c"
+    },
+    {
+      "paperId": "76f5560821ab463dd60fd9f257e93db01a1253f5"
+    },
+    {
+      "paperId": "3e866045a4821b1f3d43769b326c311ad237e98e"
+    },
+    {
+      "paperId": "9325d72d8e6cc0a3933d35bb65c62fe8dee120a4"
+    },
+    {
+      "paperId": "35230ec0216ce9fe099ffadca7320d413ed1d6ba"
+    },
+    {
+      "paperId": "2d1086abf149f3f50f267d0ba9b209253da7e0b4"
+    },
+    {
+      "paperId": "fd2ae4eeda583cb1a3d1f1cafce53fb39ea7cbe1"
+    },
+    {
+      "paperId": "f1714c7ddc287414393c0850952ca8f6624a096d"
+    },
+    {
+      "paperId": "9948006f9d27902611b9f81d869941dbc1a4f359"
+    },
+    {
+      "paperId": "86373c0a9982f3e85e2026db918415c4a826e86c"
+    },
+    {
+      "paperId": "d2e9994c3dae10a46b6c3e51d8bc7ea0a0c143a7"
+    },
+    {
+      "paperId": "fb95097f13cd8047d7cc8eab2e523c20dc2c5150"
+    },
+    {
+      "paperId": "b3ce618112c970e442877fc3b6f2ac96cd9129df"
+    },
+    {
+      "paperId": "ea842f918f3d5d0b08419fdc552b6e701eacf0d3"
+    },
+    {
+      "paperId": "56917417086add40aae0081ee3b088f5333e818e"
+    },
+    {
+      "paperId": "fad5c2867af2478c1cf21b1c39822a3455b03b86"
+    },
+    {
+      "paperId": "88b4a01d51600bddca07ac21d65e3d9baee21d08"
+    },
+    {
+      "paperId": "e4181a269f6176316226937db640dbfa3dcb4e32"
+    },
+    {
+      "paperId": "b472cb40bde9534ea8ad370db977649734487bd0"
+    },
+    {
+      "paperId": "64deda0e79fd179a1872ff5b9becd0a09cc42dc9"
+    },
+    {
+      "paperId": "c786622cefb74c3227b70f1ad2e1751f7fbda233"
+    },
+    {
+      "paperId": "3c6295914fbb58ee4b636ac53a06ab0cc1da2151"
+    },
+    {
+      "paperId": "6cd16fd1e021976c575ef16fd0f65cfdd020d722"
+    },
+    {
+      "paperId": "8e02a1f89c231c677073c48ad4e884603abae3ce"
+    }
+  ]
+}

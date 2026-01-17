@@ -1,0 +1,54 @@
+{
+  "paperId": "1c8dd212414820f470e64ab68f90d3e74fbf219e",
+  "externalIds": {
+    "MAG": "2964564332",
+    "DOI": "10.23919/CISTI.2019.8760852",
+    "CorpusId": 198964568
+  },
+  "url": "https://www.semanticscholar.org/paper/1c8dd212414820f470e64ab68f90d3e74fbf219e",
+  "title": "Energy Efficiency in a Wireless Sensor Network (WSN): Case Study in Precision Agricultures",
+  "venue": "Iberian Conference on Information Systems and Technologies",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/CISTI.2019.8760852?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/CISTI.2019.8760852, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1412431135",
+      "name": "Javier Guana-Mora"
+    },
+    {
+      "authorId": "1416323787",
+      "name": "Nelson Salgado–Reyes"
+    },
+    {
+      "authorId": "1416352844",
+      "name": "Gustavo Chafla-Altamirano"
+    },
+    {
+      "authorId": "2082094312",
+      "name": "Damian Nicolalde-Rodriguez"
+    },
+    {
+      "authorId": "1412417406",
+      "name": "Charles E. Escobar-Terán"
+    },
+    {
+      "authorId": "2083146942",
+      "name": "Edwin Quinatoa-Arequipa"
+    }
+  ],
+  "abstract": "The new technological applications and the advancement of communication have allowed the generation of new applications for sending and receiving data, using low power and reduced costs, thus achieving the implementation of the Wireless Sensor Network (WSN). These networks allow the generation of measurements and analysis of data of short, medium and high scale, for which they have been taken in this investigation, obtaining a communication and sending of information, based on the following levels that are: Beginning of data transmission, process of the sending and receiving of the information received by the Gateway, storage of information and visualization and generation of information reports. In the transmission of data from nodes one and two to the Gateway, it was analyzed that the energy consumption in each sensor is approximately 74.4% (node 1) and 86.8% (node 2) on a bi-monthly basis. that the sensor one needs to be charged 5 times a year, while node 2 needs to be charged 4 times.",
+  "references": null
+}

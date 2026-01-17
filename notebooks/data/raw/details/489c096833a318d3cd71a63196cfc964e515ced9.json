@@ -1,0 +1,36 @@
+{
+  "paperId": "489c096833a318d3cd71a63196cfc964e515ced9",
+  "externalIds": {
+    "MAG": "2810862219",
+    "CorpusId": 64788605
+  },
+  "url": "https://www.semanticscholar.org/paper/489c096833a318d3cd71a63196cfc964e515ced9",
+  "title": "A Survey Paper on Applications of Soft Computing Techniques in Agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2329285344",
+      "name": "E. Murali"
+    },
+    {
+      "authorId": "93379385",
+      "name": "V. Gopi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

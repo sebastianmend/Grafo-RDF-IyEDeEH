@@ -1,0 +1,52 @@
+{
+  "paperId": "2526e066a63d704f74ec4d7c517ea43f6fa8f6d2",
+  "externalIds": {
+    "MAG": "3004932966",
+    "DBLP": "conf/fruct/SkobelevGTGS19",
+    "DOI": "10.23919/FRUCT48121.2019.8981539",
+    "CorpusId": 211056879
+  },
+  "url": "https://www.semanticscholar.org/paper/2526e066a63d704f74ec4d7c517ea43f6fa8f6d2",
+  "title": "Determining Inhomogeneity Areas in Agricultural Fields Based on the Earth Remote Sensing Images",
+  "venue": "Conference of the Open Innovations Association",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/FRUCT48121.2019.8981539?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/FRUCT48121.2019.8981539, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1787944",
+      "name": "P. Skobelev"
+    },
+    {
+      "authorId": "89777465",
+      "name": "V. Galuzin"
+    },
+    {
+      "authorId": "145681654",
+      "name": "V. Travin"
+    },
+    {
+      "authorId": "90701097",
+      "name": "A. Galitskaya"
+    },
+    {
+      "authorId": "144198203",
+      "name": "E. Simonova"
+    }
+  ],
+  "abstract": "The paper focuses on the methodology for studying inhomogeneities in crop development based on the analysis of multispectral images obtained during the Earth remote sensing. The methodology is based on calculation of the Normalized Difference Vegetation Index (NDVI) and its analysis at different stages of agricultural production. The authors propose an original method and new algorithms for detecting inhomogeneities that take into account field zoning at various stages of the plant development cycle: preparing the field for sowing, emergence and development of seedlings, heading. A mathematical description of the agricultural field as an object of study is given, as well as characteristics of inhomogeneities at each stage of agricultural development. The developed algorithms are used in the Smart Farming system, designed to solve the problems of precision farming in the image processing software module. Comparative analysis of results obtained by the module and by similar systems has proven high efficiency of the developed methodology.",
+  "references": null
+}

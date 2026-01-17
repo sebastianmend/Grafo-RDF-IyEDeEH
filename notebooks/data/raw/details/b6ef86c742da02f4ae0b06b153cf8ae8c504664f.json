@@ -1,0 +1,36 @@
+{
+  "paperId": "b6ef86c742da02f4ae0b06b153cf8ae8c504664f",
+  "externalIds": {
+    "MAG": "2784941200",
+    "CorpusId": 56287674
+  },
+  "url": "https://www.semanticscholar.org/paper/b6ef86c742da02f4ae0b06b153cf8ae8c504664f",
+  "title": "Colombia Land of Opportunities to Apply Precision Agriculture: An Overview",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "133717668",
+      "name": "Beatriz Nathalia Serrato Panqueba"
+    },
+    {
+      "authorId": "2069252475",
+      "name": "C. C. Medina"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

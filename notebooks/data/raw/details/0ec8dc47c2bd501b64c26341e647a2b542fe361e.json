@@ -1,0 +1,223 @@
+{
+  "paperId": "0ec8dc47c2bd501b64c26341e647a2b542fe361e",
+  "externalIds": {
+    "DBLP": "journals/sensors/SerranoSSC18",
+    "PubMedCentral": "5855122",
+    "MAG": "2792980430",
+    "DOI": "10.3390/s18020570",
+    "CorpusId": 3325536,
+    "PubMed": "29438319"
+  },
+  "url": "https://www.semanticscholar.org/paper/0ec8dc47c2bd501b64c26341e647a2b542fe361e",
+  "title": "A Holistic Approach to the Evaluation of the Montado Ecosystem Using Proximal Sensors",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/2/570/pdf?version=1519297487",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5855122, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145055919",
+      "name": "J. Serrano"
+    },
+    {
+      "authorId": "5045178",
+      "name": "S. Shahidian"
+    },
+    {
+      "authorId": "2111422313",
+      "name": "José Marques da Silva"
+    },
+    {
+      "authorId": "48075649",
+      "name": "M. Carvalho"
+    }
+  ],
+  "abstract": "The Montado is a silvo-pastoral system characterized by open canopy woodlands with natural or cultivated grassland in the undercover and grazing animals. The aims of this study were to present several proximal sensors with potential to monitor relevant variables in the complex montado ecosystem and demonstrate their application in a case study designed to evaluate the effect of trees on the pasture. This work uses data collected between March and June 2016, at peak of dryland pasture production under typical Mediterranean conditions, in twenty four sampling points, half under tree canopy (UTC) and half outside tree canopy (OTC). Correlations were established between pasture biomass and capacitance measured by a commercial probe and between pasture quality and normalized difference vegetation index (NDVI) measured by a commercial active optical sensor. The interest of altimetric and apparent soil electrical conductivity maps as the first step in the implementation of precision agriculture projects was demonstrated. The use of proximal sensors to monitor soil moisture content, pasture photosynthetically active radiation and temperature helped to explain the influence of trees on pasture productivity and quality. The significant and strong correlations obtained between capacitance and pasture biomass and between NDVI and pasture nutritive value (in terms of crude protein, CP and neutral detergent fibre, NDF) can make an important contribution to determination of key components of pasture productivity and quality and implementation of site-specific pasture management. Animal tracking demonstrated its potential to be an important tool for understanding the interaction between various factors and components that interrelate in the montado ecosystem and to support grazing management decisions.",
+  "references": [
+    {
+      "paperId": "e4fe1531eaf184cfdc7a2c56505c62b94dda91f0"
+    },
+    {
+      "paperId": "89ab50151108ad1df74dbeac5f0172eafb3306d6"
+    },
+    {
+      "paperId": "e46e487aadcdd2954e072c46cb80d85d74d39069"
+    },
+    {
+      "paperId": "e673734a0346bacf11dbb659a10566b09b496ca8"
+    },
+    {
+      "paperId": "486e3bfebde7671094c4a1d8d51c68ded9ef232c"
+    },
+    {
+      "paperId": "b3c4e9bb16ab9a3aa7735509c7b0832e7e69b56d"
+    },
+    {
+      "paperId": "b32c3607b2577e3367265e3bf010799907f58c9e"
+    },
+    {
+      "paperId": "04802e385503c8db408163524f3b68c793d36a50"
+    },
+    {
+      "paperId": "bbf0d199728d104515f5ad6d403dd5ded1a4690c"
+    },
+    {
+      "paperId": "d7240d98a550e85402d637df6492329ae5479aa8"
+    },
+    {
+      "paperId": "64585242737c0cc8b9817f6eed2c8903a8ba0bf2"
+    },
+    {
+      "paperId": "1e6e28e5bf14bb3cefe32bc16169d19159efe172"
+    },
+    {
+      "paperId": "21608e9a3463c8e8e007fdfbe35d4336d08b75d7"
+    },
+    {
+      "paperId": "ac0679e4d37343b95cbe815c44fee2ed3ec5fe1e"
+    },
+    {
+      "paperId": "1f4210d955112511c142ff4f8d6200a132910963"
+    },
+    {
+      "paperId": "0846d67f73b2d1d4ae2ac93c021676468a981a11"
+    },
+    {
+      "paperId": "1284290a4a73800b6a1c8c7dddb9cf67903a3a08"
+    },
+    {
+      "paperId": "2a5a56999829db0a8f32191555d506f5a9073fb4"
+    },
+    {
+      "paperId": "923b0eb895d12a5f550db8130bce1979a6295156"
+    },
+    {
+      "paperId": "197a33eff2f5b06e3b3cc6e3ea757b10baebcf47"
+    },
+    {
+      "paperId": "119f81116482083e3f22fc483fbca4566c93e4a8"
+    },
+    {
+      "paperId": "27723271c57a08e388839be78df01511403ec251"
+    },
+    {
+      "paperId": "10f6f776dcd97d60e5f4840012ce2c3273584bcb"
+    },
+    {
+      "paperId": "5fbb671abb87faec69807557a5c2ee8f6e7c54fd"
+    },
+    {
+      "paperId": "84773ec77666e13138ba5f68f0fbb058ee92966a"
+    },
+    {
+      "paperId": "46dd671bad0affffd7b4d844cea5e948c959889e"
+    },
+    {
+      "paperId": "6a46c493bb3944e89ece06f53ea17b3eae5b6c96"
+    },
+    {
+      "paperId": "707660051f60b39b547e4b44567a90a0789b036c"
+    },
+    {
+      "paperId": "c4c10fa19f735c3a4d2c171a0d2f5c15d2bea000"
+    },
+    {
+      "paperId": "a9f86296e9317a362496f19cbe752c5008a12a81"
+    },
+    {
+      "paperId": "74104e2fc1ce5c494ee14cd0ecc1730e18e2e2c7"
+    },
+    {
+      "paperId": "213c21908893315c2218e1aff1e38f5e52285031"
+    },
+    {
+      "paperId": "65b2e7f317cbc9205a65141411aab7c63e096703"
+    },
+    {
+      "paperId": "50796b585da2f823a2ccef03fee4b44211f0d8ea"
+    },
+    {
+      "paperId": "a595cfe7c016644c3d2fe56d17f6fa1131e5fea2"
+    },
+    {
+      "paperId": "16dbcfdcc8c97aeab524888c1467b5db453c72e9"
+    },
+    {
+      "paperId": "9d51763b350f0f991c8ffe4e2f288beee45f0993"
+    },
+    {
+      "paperId": "e6a5477d9f5e3db854f178c1c7bc166976492815"
+    },
+    {
+      "paperId": "63cba282b9b08d9e667014cdc2ada55024fddc42"
+    },
+    {
+      "paperId": "af314b4b860439b8f64dd00dae72e1684f236e97"
+    },
+    {
+      "paperId": "35b308252eb2e68caa60fbcbd8b47c28fba7e6bb"
+    },
+    {
+      "paperId": "aa186dde05b5d8b6dfa74c6f7257495c40b530e2"
+    },
+    {
+      "paperId": "24a3520784f389f63014a947cb74ca194675bade"
+    },
+    {
+      "paperId": "0d34bc328d02c93c720d84e3c20a1b1572f1f13f"
+    },
+    {
+      "paperId": "554e24cbbc54ee707f222d3fcd1d74a0403bf1d2"
+    },
+    {
+      "paperId": "f9377a040116392b39599dd49f2b7e841cb14286"
+    },
+    {
+      "paperId": "e7da87efddb7cdf6db1cd21750519d843952a0bd"
+    },
+    {
+      "paperId": "3992e852c7ad47d1362f4afe15fe05918be122ab"
+    },
+    {
+      "paperId": "e0d953488e297e4516daa16231b30ff162105ffb"
+    },
+    {
+      "paperId": "1503ab65b6093e35a03e2890b81be9e7bfcaa5b6"
+    },
+    {
+      "paperId": "2097c4158c82b0c81a85ab96be976c9a41c34d34"
+    },
+    {
+      "paperId": "c42d9ca35929394afcdb2ee470906ccad414f98f"
+    },
+    {
+      "paperId": "d0e0ea026eb0c402a41ba64113f201abb9120b1e"
+    },
+    {
+      "paperId": "642a2b7702ff219e9bec66fc77b005a605e3235d"
+    },
+    {
+      "paperId": "1e1daeb42a1b999f34a738c69578078c052ba679"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

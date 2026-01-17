@@ -1,0 +1,44 @@
+{
+  "paperId": "78541fe206cb9aef0caff9197c8b54643e093882",
+  "externalIds": {
+    "MAG": "2785859493",
+    "DOI": "10.1007/s00604-018-2692-y",
+    "CorpusId": 4556156,
+    "PubMed": "29594491"
+  },
+  "url": "https://www.semanticscholar.org/paper/78541fe206cb9aef0caff9197c8b54643e093882",
+  "title": "Polypyrrole coated ZnO nanorods on platinum wire for solid-phase microextraction of amitraz and teflubenzuron pesticides prior to quantitation by GC-MS",
+  "venue": "Microchimica Acta",
+  "year": 2018,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00604-018-2692-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00604-018-2692-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "30054192",
+      "name": "R. Dargahi"
+    },
+    {
+      "authorId": "6437079",
+      "name": "H. Ebrahimzadeh"
+    },
+    {
+      "authorId": "145654281",
+      "name": "R. Alizadeh"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

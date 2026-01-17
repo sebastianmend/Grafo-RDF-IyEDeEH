@@ -1,0 +1,213 @@
+{
+  "paperId": "31f0b284a278c3a976482d61ddb666f79c0293f5",
+  "externalIds": {
+    "MAG": "2937598226",
+    "DBLP": "journals/access/LammieOCA19",
+    "DOI": "10.1109/ACCESS.2019.2911709",
+    "CorpusId": 139108518
+  },
+  "url": "https://www.semanticscholar.org/paper/31f0b284a278c3a976482d61ddb666f79c0293f5",
+  "title": "Low-Power and High-Speed Deep FPGA Inference Engines for Weed Classification at the Edge",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 70,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08693488.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2911709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2911709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51475856",
+      "name": "C. Lammie"
+    },
+    {
+      "authorId": "47274562",
+      "name": "A. Olsen"
+    },
+    {
+      "authorId": "112984413",
+      "name": "Tony Carrick"
+    },
+    {
+      "authorId": "8198052",
+      "name": "Mostafa Rahimi Azghadi"
+    }
+  ],
+  "abstract": "Deep neural networks (DNNs) have recently achieved remarkable performance in a myriad of applications, ranging from image recognition to language processing. Training such networks on graphics processing units (GPUs) currently offers unmatched levels of performance; however, GPUs are subject to large-power requirements. With recent advancements in high-level synthesis (HLS) techniques, new methods for accelerating deep networks using field programmable gate arrays (FPGAs) are emerging. FPGA-based DNNs present substantial advantages in energy efficiency over conventional CPU- and GPU-accelerated networks. Using the Intel FPGA software development kit (SDK) for OpenCL development environment, networks described using the high-level OpenCL framework can be accelerated targeting heterogeneous platforms including CPUs, GPUs, and FPGAs. These networks, if properly customized on GPUs and FPGAs, can be ideal candidates for learning and inference in resource-constrained portable devices such as robots and the Internet of Things (IoT) edge devices, where power is limited and performance is critical. Here, we introduce GPU- and FPGA-accelerated deterministically binarized DNNs, tailored toward weed species classification for robotic weed control. Our developed networks are trained and benchmarked using a publicly available weed species dataset, named DeepWeeds, which include close to 18 000 weed images. We demonstrate that our FPGA-accelerated binarized networks significantly outperform their GPU-accelerated counterparts, achieving a>7-fold decrease in power consumption, while performing inference on weed images 2.86 times faster compared to our best performing baseline full-precision GPU implementation. These significant benefits are gained whilst losing only 1.17% of validation accuracy. In this paper, this is a significant step toward enabling deep inference and learning on IoT edge devices, and smart portable machines such as agricultural robots, which is the target application.",
+  "references": [
+    {
+      "paperId": "b30413c7be914ed05132c70b1733f45152b70d55"
+    },
+    {
+      "paperId": "09d2e4741c85670c5db937b664b007b1e354bfc6"
+    },
+    {
+      "paperId": "c425ff11456c94e5d56ddeb5b35f3bec1bf8ca78"
+    },
+    {
+      "paperId": "af4e4ecd4e851e2c9a1938fc82fe26c5c0d30aa4"
+    },
+    {
+      "paperId": "e6a1d26b40b38ca59f9b594cc544e5432d76d5a3"
+    },
+    {
+      "paperId": "905743562695374643a15cbd3e980a799314e8f6"
+    },
+    {
+      "paperId": "07628f14424980e27568ad49384d137682a6809d"
+    },
+    {
+      "paperId": "39c958e3e72fdb488cf64e194bcf781b42d89e9b"
+    },
+    {
+      "paperId": "1f6c3f1def78919f06efe050e9403e85d5fa3ac9"
+    },
+    {
+      "paperId": "e10b86506d54280caff626ea83d6ed904ab71bb5"
+    },
+    {
+      "paperId": "b36a5bb1707bb9c70025294b3a310138aae8327a"
+    },
+    {
+      "paperId": "a0cfaada6f2291bb83df4e202c4d81ff1695e89b"
+    },
+    {
+      "paperId": "b648d73edd1a533decd22eec2e7722b96746ceae"
+    },
+    {
+      "paperId": "5edbccff8abdf1c4509e27cf9c626815b6ec75f0"
+    },
+    {
+      "paperId": "754c27095a8fe310a0c22c82b515536734086ae3"
+    },
+    {
+      "paperId": "9551a93a42e1ccf6c55291529e9faa566a1d605e"
+    },
+    {
+      "paperId": "a09f0b63a173f22641498a304d40d3e169e232b3"
+    },
+    {
+      "paperId": "0f259bf4986efd1849cab17df7fd307622452ecc"
+    },
+    {
+      "paperId": "61217d4ff122d567e85be00b97637d4ca87e1da9"
+    },
+    {
+      "paperId": "f69f005807bc97ed579cca9dab92cddce7cb2f78"
+    },
+    {
+      "paperId": "eee4cdec77b4f8ec3cf2b85f02130f7c54dabb46"
+    },
+    {
+      "paperId": "a04166adc56ba373c20ffd704ba5e141e8dc6489"
+    },
+    {
+      "paperId": "75dd30fde950bc8996b5105fff6f9fc3c1d2dbae"
+    },
+    {
+      "paperId": "d2e4147eecae6f914e9e1e9aece8fdd2eaed809f"
+    },
+    {
+      "paperId": "5694e46284460a648fe29117cbc55f6c9be3fa3c"
+    },
+    {
+      "paperId": "1c4e9156ca07705531e45960b7a919dc473abb51"
+    },
+    {
+      "paperId": "28a57b3b18d091b98b8230c4cdb0ff8445b9efd9"
+    },
+    {
+      "paperId": "b4eac8295c90dbfb7d8d22ba560e025621287c58"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "0a5d6a04deae65337e8d16cd2806868e965feba0"
+    },
+    {
+      "paperId": "29d6e028ea7a513b87687b538592743f60905e41"
+    },
+    {
+      "paperId": "f5ce3abf942cdd685fb0f290f3e741f7b4749f0a"
+    },
+    {
+      "paperId": "3a5d979ebbceedbc8c0c621b437150fef6240bf4"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "7c2bca9ff0d3728e5a547891a18ddfc4c6fdee8e"
+    },
+    {
+      "paperId": "5b07088abdc0d30518707029741dbf5173230443"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "2f01d2a293984d35b041d109609960b54c7379e3"
+    },
+    {
+      "paperId": "398c296d0cc7f9d180f84969f8937e6d3a413796"
+    },
+    {
+      "paperId": "260a7615bbffec052d67dffde5bcf9b4687b50ee"
+    },
+    {
+      "paperId": "4b11ed4f8af982d21434c3574009287bbfac3a9d"
+    },
+    {
+      "paperId": "ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649"
+    },
+    {
+      "paperId": "7396b4abd8bb01a2020a4eca3dce2cec45ec19f2"
+    },
+    {
+      "paperId": "ad387c258480af79bbc7b25177b544b755833713"
+    },
+    {
+      "paperId": "48f95f22d370fa20195d0ba8870b77863a16554a"
+    },
+    {
+      "paperId": "196b2611ea462ffbe4e0d9124656eeb6677e3312"
+    },
+    {
+      "paperId": "4e889f8e4390eae4fc71eb2cdce929bf47da4269"
+    },
+    {
+      "paperId": "28135fd3e80dda50a673cd556f10b9b972005d27"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086"
+    },
+    {
+      "paperId": "735d4220d5579cc6afe956d9f6ea501a96ae99e2"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    },
+    {
+      "paperId": "5a47ba057a858f8c024d2518cc3731fc7eb40de1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

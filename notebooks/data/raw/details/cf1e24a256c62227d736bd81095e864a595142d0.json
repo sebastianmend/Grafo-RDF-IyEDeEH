@@ -1,0 +1,39 @@
+{
+  "paperId": "cf1e24a256c62227d736bd81095e864a595142d0",
+  "externalIds": {
+    "MAG": "2984794341",
+    "DBLP": "conf/cvip/KhadangaJ18",
+    "DOI": "10.1007/978-981-32-9088-4_26",
+    "CorpusId": 207758779
+  },
+  "url": "https://www.semanticscholar.org/paper/cf1e24a256c62227d736bd81095e864a595142d0",
+  "title": "Agriculture Parcel Boundary Detection from Remotely Sensed Images",
+  "venue": "International Conference on Computer Vision and Image Processing",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-32-9088-4_26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-32-9088-4_26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "7645758",
+      "name": "Ganesh Khadanga"
+    },
+    {
+      "authorId": "2055618034",
+      "name": "K. Jain"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

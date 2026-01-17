@@ -1,0 +1,47 @@
+{
+  "paperId": "44f9df02405d826eb67c8f4a8d6a86c74fd4c041",
+  "externalIds": {
+    "MAG": "2998129584",
+    "DBLP": "conf/ae/DuboisTRV19",
+    "DOI": "10.1007/978-3-030-45715-0_15",
+    "CorpusId": 214256549
+  },
+  "url": "https://www.semanticscholar.org/paper/44f9df02405d826eb67c8f4a8d6a86c74fd4c041",
+  "title": "Automatic Calibration of a Farm Irrigation Model: A Multi-Modal Optimization Approach",
+  "venue": "Eä",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-45715-0_15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-45715-0_15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "153255181",
+      "name": "A. Dubois"
+    },
+    {
+      "authorId": "1752185",
+      "name": "F. Teytaud"
+    },
+    {
+      "authorId": "1974934",
+      "name": "É. Ramat"
+    },
+    {
+      "authorId": "1753815",
+      "name": "S. Vérel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

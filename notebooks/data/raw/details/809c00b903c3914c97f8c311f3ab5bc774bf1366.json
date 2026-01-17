@@ -1,0 +1,51 @@
+{
+  "paperId": "809c00b903c3914c97f8c311f3ab5bc774bf1366",
+  "externalIds": {
+    "MAG": "2898020091",
+    "DOI": "10.1117/12.2326268",
+    "CorpusId": 133865137
+  },
+  "url": "https://www.semanticscholar.org/paper/809c00b903c3914c97f8c311f3ab5bc774bf1366",
+  "title": "Mapping the spatial distribution of highland kimchi cabbage growth based on unmanned aerial vehicle",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2326268?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2326268, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "38557616",
+      "name": "Sang-il Na"
+    },
+    {
+      "authorId": "48976451",
+      "name": "Chanwon Park"
+    },
+    {
+      "authorId": "97486626",
+      "name": "K. So"
+    },
+    {
+      "authorId": "134044932",
+      "name": "H. Ahn"
+    },
+    {
+      "authorId": "5798061",
+      "name": "Kyungdo Lee"
+    }
+  ],
+  "abstract": "For more than 50 years, satellite images have been used to monitor crop growth. Currently, unmanned aerial vehicle (UAV) imagery are being assessed for analyzing within field spatial variability for agricultural precision management, because UAV imagery may be acquired quickly during critical periods of rapid crop growth. This study refers to the derivation of highland Kimchi cabbage growth prediction equation by using UAV derived normalized difference vegetation index (NDVI) and agro-meteorological factors. Anbandeok area in Gangneung, Gangwon-do, Korea is one of main producing district of highland Kimchi cabbage. UAV imagery was taken on the Anbandeok twelve times from early June to early September during the highland Kimchi cabbage growing season. Meanwhile, field reflectance spectra and three plant growth parameters, including plant height (P.H.), leaf height (L.H.) and leaf number (L.N.), were measured for about 40 plants (ten plants per plot) for each ground survey. The NDVIField for each of the 40 plants was measured using an active plant growth sensor (Crop CircleTM) at the same time. Six agro-meteorological factors include average temperature; maximum temperature; minimum temperature; accumulated temperature; rainfall and irradiation. The multiple linear regression models were suggested by using stepwise regression in the extraction of independent variables. Of the output independent variables of the stepwise regression, NDVIUAV performs best (r=0.933). And correlation coefficients of highland Kimchi cabbage growth parameters, accumulated temperature, irradiation and rainfall showed positive relationship; the results were respectively 0.931, 0.926, 0.893 (p<0.01). But minimum temperature had negative relationship; the results were respectively -0.789 (p<0.01). NDVIUAV and rainfall in the model explain 93% of the P.H. and L.H. with a root mean square error (RMSE) of 2.22, 1.90 cm. And NDVIUAV and accumulated temperature in the model explain 86% of the L.N. with a RMSE of 4.29. These lead to the result that the characteristics of variations in highland Kimchi cabbage growth according to NDVIUAV and other agro-meteorological factors were well reflected in the model. These results will also be useful in determining the UAV multi-spectral imagery necessary to estimate parameters of highland Kimchi cabbage.",
+  "references": null
+}

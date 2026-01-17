@@ -1,0 +1,61 @@
+{
+  "paperId": "b87ca30c04325d0f9c97b645f9df1d82f7c4ceda",
+  "externalIds": {
+    "MAG": "2887519314",
+    "DOI": "10.1002/jssc.201701349",
+    "CorpusId": 51905881,
+    "PubMed": "30074302"
+  },
+  "url": "https://www.semanticscholar.org/paper/b87ca30c04325d0f9c97b645f9df1d82f7c4ceda",
+  "title": "Simultaneous determination of enantiomers of carfentrazone-ethyl and its metabolite in eight matrices using high-performance liquid chromatography with tandem mass spectrometry.",
+  "venue": "Journal of Separation Science",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jssc.201701349?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jssc.201701349, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3243276",
+      "name": "Jinsheng Duan"
+    },
+    {
+      "authorId": "2112535407",
+      "name": "Xuan Dong"
+    },
+    {
+      "authorId": "2115436643",
+      "name": "Yang Shen"
+    },
+    {
+      "authorId": "4904301",
+      "name": "Beibei Gao"
+    },
+    {
+      "authorId": "14068904",
+      "name": "Zhaoxian Zhang"
+    },
+    {
+      "authorId": "7243393",
+      "name": "Tongchun Gao"
+    },
+    {
+      "authorId": "48958181",
+      "name": "Minghua Wang"
+    }
+  ],
+  "abstract": "A reversed-phase simultaneous determination method for the enantiomers of carfentrazone-ethyl and its metabolite carfentrazone in agricultural and environmental samples was established using high-performance liquid chromatography-tandem mass spectrometry. A complete enantioseparation of carfentrazone-ethyl and its chiral metabolite carfentrazone enantiomers was obtained using a chiral column. The absolute configuration and specific optical rotation of carfentrazone-ethyl and carfentrazone enantiomers were first confirmed as peaks 1, 2, 3, and 4: S-(+)-carfentrazone, R-(-)-carfentrazone, S-(-)-carfentrazone-ethyl, and R-(+)-carfentrazone-ethyl, respectively. The specificity, matrix effect, linearity, precision, accuracy, and stability were surveyed to evaluate the feasibility of the method. The mean recovery was in the range of 77.5-102.8% with relative standard deviations of 0.4-9.8% for the samples. The limits of detection of the enantiomers were evaluated as 0.7 to 6.0 μg/kg, and the limits of quantification were 2.5 to 20 μg/kg. The stereoselective degradation of carfentrazone-ethyl and carfentrazone in rice plant was investigated, and there was no clear enantioselectivity for carfentrazone-ethyl. As for carfentrazone, the enantiomer fractions value reached 0.85 at 7 days after spraying. The developed method was simple and reliable enough for the corresponding risk assessment of carfentrazone-ethyl and its metabolite enantiomers in crop plants, cereal grains, and soil samples.",
+  "references": null
+}

@@ -1,0 +1,270 @@
+{
+  "paperId": "04774891394a352b266e1d757655137518f42b62",
+  "externalIds": {
+    "MAG": "2803763306",
+    "PubMedCentral": "6016767",
+    "DOI": "10.1073/pnas.1721487115",
+    "CorpusId": 21720817,
+    "PubMed": "29769331"
+  },
+  "url": "https://www.semanticscholar.org/paper/04774891394a352b266e1d757655137518f42b62",
+  "title": "Temporal transcriptional logic of dynamic regulatory networks underlying nitrogen signaling and use in plants",
+  "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2018,
+  "citationCount": 173,
+  "influentialCitationCount": 14,
+  "openAccessPdf": {
+    "url": "https://www.pnas.org/content/pnas/115/25/6494.full.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6016767, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "5841926",
+      "name": "Kranthi Varala"
+    },
+    {
+      "authorId": "1401588496",
+      "name": "Amy Marshall-Colón"
+    },
+    {
+      "authorId": "50701878",
+      "name": "Jacopo Cirrone"
+    },
+    {
+      "authorId": "40041668",
+      "name": "Matthew Dakota Brooks"
+    },
+    {
+      "authorId": "41132025",
+      "name": "Angelo V. Pasquino"
+    },
+    {
+      "authorId": "6688406",
+      "name": "S. Léran"
+    },
+    {
+      "authorId": "5129436",
+      "name": "Shipra Mittal"
+    },
+    {
+      "authorId": "47500008",
+      "name": "Tara M. Rock"
+    },
+    {
+      "authorId": "34522976",
+      "name": "Molly B Edwards"
+    },
+    {
+      "authorId": "46814411",
+      "name": "Grace J. Kim"
+    },
+    {
+      "authorId": "5261795",
+      "name": "Sandrine Ruffel"
+    },
+    {
+      "authorId": "1924135577",
+      "name": "W. Mccombie"
+    },
+    {
+      "authorId": "1695878",
+      "name": "D. Shasha"
+    },
+    {
+      "authorId": "40021407",
+      "name": "G. Coruzzi"
+    }
+  ],
+  "abstract": "Significance Our study exploits time—the relatively unexplored fourth dimension of gene regulatory networks (GRNs)—to learn the temporal transcriptional logic underlying dynamic nitrogen (N) signaling in plants. We introduce several conceptual innovations to the analysis of time-series data in the area of predictive GRNs. Our resulting network now provides the “transcriptional logic” for transcription factor perturbations aimed at improving N-use efficiency, an important issue for global food production in marginal soils and for sustainable agriculture. More broadly, the combination of the time-based approaches we develop and deploy can be applied to uncover the temporal “transcriptional logic” for any response system in biology, agriculture, or medicine. This study exploits time, the relatively unexplored fourth dimension of gene regulatory networks (GRNs), to learn the temporal transcriptional logic underlying dynamic nitrogen (N) signaling in plants. Our “just-in-time” analysis of time-series transcriptome data uncovered a temporal cascade of cis elements underlying dynamic N signaling. To infer transcription factor (TF)-target edges in a GRN, we applied a time-based machine learning method to 2,174 dynamic N-responsive genes. We experimentally determined a network precision cutoff, using TF-regulated genome-wide targets of three TF hubs (CRF4, SNZ, and CDF1), used to “prune” the network to 155 TFs and 608 targets. This network precision was reconfirmed using genome-wide TF-target regulation data for four additional TFs (TGA1, HHO5/6, and PHL1) not used in network pruning. These higher-confidence edges in the GRN were further filtered by independent TF-target binding data, used to calculate a TF “N-specificity” index. This refined GRN identifies the temporal relationship of known/validated regulators of N signaling (NLP7/8, TGA1/4, NAC4, HRS1, and LBD37/38/39) and 146 additional regulators. Six TFs—CRF4, SNZ, CDF1, HHO5/6, and PHL1—validated herein regulate a significant number of genes in the dynamic N response, targeting 54% of N-uptake/assimilation pathway genes. Phenotypically, inducible overexpression of CRF4 in planta regulates genes resulting in altered biomass, root development, and 15NO3− uptake, specifically under low-N conditions. This dynamic N-signaling GRN now provides the temporal “transcriptional logic” for 155 candidate TFs to improve nitrogen use efficiency with potential agricultural applications. Broadly, these time-based approaches can uncover the temporal transcriptional logic for any biological response system in biology, agriculture, or medicine.",
+  "references": [
+    {
+      "paperId": "42c4b0b07e15515fb7e6e0d5b32a92a30674e911"
+    },
+    {
+      "paperId": "20aeb2357e9e215787c7e0d0acfe7a6b598c9103"
+    },
+    {
+      "paperId": "a22107cba0da00c397d47e13c73f4dc8372e16e2"
+    },
+    {
+      "paperId": "f9323aac9e785633dff62c82fb261596e1c8af3c"
+    },
+    {
+      "paperId": "0377c9115172b79014887aebe939a73bb7e6c35b"
+    },
+    {
+      "paperId": "69beb77dd848fa263420a6449cb3857a5af736a4"
+    },
+    {
+      "paperId": "464e7b83bf951dd1255093aae6f252e48bd7ee45"
+    },
+    {
+      "paperId": "4c9b15bd9344beef6f1f25217f86ba3f2284a850"
+    },
+    {
+      "paperId": "a2e519518b7b4ead1b05940cdef54408bba97412"
+    },
+    {
+      "paperId": "3e4f3ea33a0ee91c7da16bf5c6bbcafa8b2ec8c3"
+    },
+    {
+      "paperId": "03609d82181e3b0e2295ba71f390e665051a16dc"
+    },
+    {
+      "paperId": "3cc092dedd52f00866b080d7ef4a095a5540fe24"
+    },
+    {
+      "paperId": "4d709876e9a59751af8e0ac0e4a585c5be08d095"
+    },
+    {
+      "paperId": "3ee21f0bdb45fc8b409028e7dded1eebd4dcad73"
+    },
+    {
+      "paperId": "7ea22031c619ff8d278a693939321c5cfb2a4014"
+    },
+    {
+      "paperId": "c3cc5e1cb62435155f1206fbbf7f1f9f8b216a63"
+    },
+    {
+      "paperId": "dec7651c01d5c6c138943dc8f4e911c90ac80fad"
+    },
+    {
+      "paperId": "54566d9fdfad503f98c25a394ec50e1bb625b532"
+    },
+    {
+      "paperId": "d88bf8668d3262e0f6e4029bff21d5dadd02b076"
+    },
+    {
+      "paperId": "b8be9c92d23eb2c41b3c0f5dd843a2ed37bfe4ae"
+    },
+    {
+      "paperId": "7e6e1e00bc9c9f972d79533ecf21f9507dde3505"
+    },
+    {
+      "paperId": "dc8a3f45965e9e704fed2cb0bac33dc32bec12fd"
+    },
+    {
+      "paperId": "a992c8fd24587f12d41f48df84b29d847634c0e4"
+    },
+    {
+      "paperId": "759a590b42c4065456138610f362b881a4fa03b9"
+    },
+    {
+      "paperId": "0fd7d688ab5e5b271630145a82235f9c404dd9bc"
+    },
+    {
+      "paperId": "aa37cec16a6103b252a5cee5f2c9aaea15affda5"
+    },
+    {
+      "paperId": "ea42ae8b46724a259d04f176b3026d3d425d0802"
+    },
+    {
+      "paperId": "6d15e2c15bc075ae29cd9bd2fdefd0057fce5c24"
+    },
+    {
+      "paperId": "42aa7b1e692b497d597bd5df67ae8f0ae83f1a6a"
+    },
+    {
+      "paperId": "0c8dacf66498f7e73d73ceb508dd1d2af81b680e"
+    },
+    {
+      "paperId": "493a4ce0129f683b9fd554b83a15233d078cc4a4"
+    },
+    {
+      "paperId": "1e4edf7914a55c54006268c201ce7ea4b78d5219"
+    },
+    {
+      "paperId": "5b9c6a2785995d4aa944006b8b5d579aa4a39d96"
+    },
+    {
+      "paperId": "69fa4323e5a9cfb395608d0bd29294bd5797dbfc"
+    },
+    {
+      "paperId": "c27e16cf9b626e983ad6372a25e98e060053afcb"
+    },
+    {
+      "paperId": "1e7899b61722fe74b4001122146f3e607c5e366f"
+    },
+    {
+      "paperId": "6fca260e9a3c37e246cc15e7639d1a5fa2aed465"
+    },
+    {
+      "paperId": "f8b6268e0646366f5c5817b6d346776e2e265d1b"
+    },
+    {
+      "paperId": "311bee248406eae0137d72f7ffd68810132454cb"
+    },
+    {
+      "paperId": "fcbfcb5df2196bf03f4d7c8022300f92986c7d85"
+    },
+    {
+      "paperId": "631b72d4f83f86f4c8d271c736ed3087c5f7be6e"
+    },
+    {
+      "paperId": "ef46c8c6c7266e8d8c821e1f4e26d087a9a7ed1f"
+    },
+    {
+      "paperId": "3d54045ac0ac2fba0504ea02ab7a71da6f5e0238"
+    },
+    {
+      "paperId": "59bde7b3624469ed5913f6026b9c1a81985fe81d"
+    },
+    {
+      "paperId": "722125d18365c89a3112ca138ccdb6666daad345"
+    },
+    {
+      "paperId": "c1777a58c91099ac7bd3c0da44dc7c9ea6103209"
+    },
+    {
+      "paperId": "678d67db7b65b07b6d4b941cc138a33dcdf47b81"
+    },
+    {
+      "paperId": "8919132c5d31e0fe63030d615ee89430ece09116"
+    },
+    {
+      "paperId": "6531fdc0a4dd1667d08ccdd9578d8e17d4088790"
+    },
+    {
+      "paperId": "46481b4963c9982b43a76ab6ac83c6483a0c9819"
+    },
+    {
+      "paperId": "fc0b70f936ddeb1a0835e1d63910ced5033c8141"
+    },
+    {
+      "paperId": "fa386285624b0dafbd010f98b786b891f840a6c4"
+    },
+    {
+      "paperId": "16071f3e60760a032a90c5f8692ebe789f3cdded"
+    },
+    {
+      "paperId": "e4fba412a5bfedc508d7c33429b7fcc398e17a49"
+    },
+    {
+      "paperId": "a5188f3ae0e98ec26c0bf91cb8b495f1bc57b8ba"
+    },
+    {
+      "paperId": "2403bb1fb40eac7a5b8afa798e1751c89b8a6d33"
+    },
+    {
+      "paperId": "7463a45e234f30e683a1c509543d5cd5747231a7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "03a7169e8f5192df96e801b718af41be8cc63537"
+    },
+    {
+      "paperId": "9cfdf2fd6886b4b49e9d9a2a8b1048c2d2ddce9c"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "daff28e883802a678b7435630d7e726cefdad651",
+  "externalIds": {
+    "MAG": "2900576295",
+    "DOI": "10.1109/ICACCT.2018.8529524",
+    "CorpusId": 53281234
+  },
+  "url": "https://www.semanticscholar.org/paper/daff28e883802a678b7435630d7e726cefdad651",
+  "title": "Adaptive Sleep Scheduling for Cluster Based Wireless Sensor Networks for Precision Agriculture",
+  "venue": "2018 International Conference On Advances in Communication and Computing Technology (ICACCT)",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICACCT.2018.8529524?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICACCT.2018.8529524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1410662668",
+      "name": "S. S.ponde"
+    },
+    {
+      "authorId": "48422980",
+      "name": "S. Lomte"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

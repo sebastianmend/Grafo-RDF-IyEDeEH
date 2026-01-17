@@ -1,0 +1,56 @@
+{
+  "paperId": "0abf7a03c96f493f513fcbd75ef53e67a18635ad",
+  "externalIds": {
+    "MAG": "2914366678",
+    "DOI": "10.1002/pca.2822",
+    "CorpusId": 73446177,
+    "PubMed": "30762270"
+  },
+  "url": "https://www.semanticscholar.org/paper/0abf7a03c96f493f513fcbd75ef53e67a18635ad",
+  "title": "Evaluation of phenolic compounds from viroid-free and viroid-infected apples using HPLC-PDA-ESI-MS/MS.",
+  "venue": "Phytochemical Analysis",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/pca.2822?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/pca.2822, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "26668724",
+      "name": "Thi Phuong Duyen Vu"
+    },
+    {
+      "authorId": "2697809",
+      "name": "I. Cho"
+    },
+    {
+      "authorId": "2111835781",
+      "name": "K. Kim"
+    },
+    {
+      "authorId": "16111036",
+      "name": "Seo-Young Yang"
+    },
+    {
+      "authorId": "49171184",
+      "name": "Y. Kim"
+    },
+    {
+      "authorId": "144221604",
+      "name": "J. Kang"
+    }
+  ],
+  "abstract": "INTRODUCTION\nApples are the most consumed fruits in Korea and have played an economically important role in Korean agriculture. However, widespread viroid infection in apples had been reported in recent years.\n\n\nOBJECTIVES\nThe objective of this study was to clarify the relationships between viroid-disease resistance and phenols content of three apple cultivars: \"Fuji\", \"Gamhong\", and \"Hongro\". A model for distinguishing between viroid-free and viroid-infected apples was also developed.\n\n\nMETHODOLOGY\nPhenolic compounds in samples were detected using high-performance liquid chromatography photodiode array tandem mass spectrometry (HPLC-PDA-MS/MS) and quantified using an ultraviolet detector at 280 nm. A C18 -column and 0.5% aqueous acetic acid-methanol were used as the stationary and mobile phase. The HPLC method was validated with respect to linearity, precision, accuracy, and recovery. Multivariate analysis was performed using phenols content as variables to classify viroid-free and viroid-infected apples.\n\n\nRESULTS\nAn accurate method for identifying and quantifying phenol compounds in apple samples was developed and validated. In response to viroid infection, considerable increases in the content of dihydrochalcones (in all three cultivars), hydroxycinnamic acid (in \"Fuji\"), and flavonols (in \"Hongro\") were observed. The flavonols content in \"Fuji\" viroid-infected samples, however, decreased dramatically. An effective linear discriminant model, with 98.2% accuracy and 94.6% predictive ability, was achieved to discriminate between viroid-free and viroid-infected samples.\n\n\nCONCLUSION\nThe developed HPLC method is suitable to identify and quantify phenol compounds in viroid-free and viroid-infected apples. A hypothesis about the significance of these compounds in viroid-disease resistance was proposed. The linear discriminant model with high predictive ability is useful for identifying viroid-infected apples in the orchards.",
+  "references": null
+}

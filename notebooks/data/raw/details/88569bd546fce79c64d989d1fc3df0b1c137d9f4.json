@@ -1,0 +1,68 @@
+{
+  "paperId": "88569bd546fce79c64d989d1fc3df0b1c137d9f4",
+  "externalIds": {
+    "MAG": "2972142445",
+    "DOI": "10.17265/2162-5263/2019.02.001",
+    "CorpusId": 201696347
+  },
+  "url": "https://www.semanticscholar.org/paper/88569bd546fce79c64d989d1fc3df0b1c137d9f4",
+  "title": "Status of Water Quality in Mt. Elgon, Cherangany Forested Ecosystems and entire River Nzoia Catchment in Kenya",
+  "venue": "Journal of Environmental Science and Engineering B",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.17265/2162-5263/2019.02.001",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17265/2162-5263/2019.02.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17265/2162-5263/2019.02.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "5846556",
+      "name": "Stanley W. Nadir"
+    },
+    {
+      "authorId": "1395817920",
+      "name": "Victor Jaoko"
+    },
+    {
+      "authorId": "107748999",
+      "name": "P. Osano"
+    },
+    {
+      "authorId": "88575460",
+      "name": "P. Ongugo"
+    }
+  ],
+  "abstract": "Water availability for both domestic and industrial use is a major growing problem in the developing countries including Kenya. The situation is further worsened by increasing human population and climate change, probably the most complex environmental problem facing the world today. Mt. Elgon and Cherangany hills forest ecosystems in the River Nzoia Catchment are threatened by the increase in local population. This is causing environmental degradation and disruption in the catchment areas resulting in drying up of streams and rivers and both water and soil pollution. The objective of this study was to conduct a baseline survey to provide information on the status of water quality in the River Nzoia Catchment and an overview of pollution levels, sources and possible mitigation measures. The study was carried out in August 2017 during the short rains. Water and sediments from 26 spatially distributed sites on rivers in the catchment were sampled and analyzed. The water quality (physical and chemical) was assessed through analysis of water and sediments. Both water and sediments were analyzed following the standard analytical methods. All the rivers in the watersheds forming the River Nzoia catchment contained high levels of iron in water which exceeded permitted levels for drinking without treatment and for domestic uses in the environmental. In addition, the turbidity levels of water were beyond accepted limits set for drinking water and environmental water standards. There was little pollution of water from heavy metals. River Nzoia near Webuye town and Sigomre bridge were the most polluted waters with levels of nitrates, iron, copper, chromium, with BOD (Biological Oxygen Demand) and COD (Chemical Oxygen Demand) exceeding the accepted limits in the environment. For sediments, the contents of copper, magnesium and iron were high in the upper catchment of River Nzoia (foot slopes of Mt. Elgon). The levels of nitrates and phosphates in the sediments were high in the lower parts of the catchment. The recommended interventions to manage point or non-point pollution sources include: land and soil conservation to reduce erosion, precision in fertilizer usage, proper sewage and industrial effluent treatment and disposal. The mitigation measures should be at the sub-catchment level to reduce land, soil and water pollution. Technologies for soil and water conservation including afforestation on bare lands, control of overland flow, reduction on river bank cultivation and conservation agriculture practices will reduce pollution and conserve the environment.",
+  "references": [
+    {
+      "paperId": "9f9866f46a3616bc037ccc80ac3b49efd73da273"
+    },
+    {
+      "paperId": "0c8158f2319b323f829c6007d8ed41908b98d7cb"
+    },
+    {
+      "paperId": "eb509a72c807f572827146d6a74f7c1a1b071a9d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

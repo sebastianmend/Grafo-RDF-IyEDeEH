@@ -1,0 +1,282 @@
+{
+  "paperId": "632527c1bd6e041c46e8179fefb7cd955b926c5d",
+  "externalIds": {
+    "PubMedCentral": "6925167",
+    "MAG": "2968082803",
+    "DOI": "10.1002/mbo3.913",
+    "CorpusId": 199504201,
+    "PubMed": "31392846"
+  },
+  "url": "https://www.semanticscholar.org/paper/632527c1bd6e041c46e8179fefb7cd955b926c5d",
+  "title": "Production of single cell protein from manure as animal feed by using photosynthetic bacteria",
+  "venue": "MicrobiologyOpen",
+  "year": 2019,
+  "citationCount": 34,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc6925167?pdf=render",
+    "status": "GREEN",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6925167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "95528884",
+      "name": "Sirada Patthawaro"
+    },
+    {
+      "authorId": "13025204",
+      "name": "C. Saejung"
+    }
+  ],
+  "abstract": "To reduce the cost of protein feedstock for animal feed, the use of single cell protein (SCP) produced from waste of animal agriculture is an interesting choice. This study reveals that chicken manure was the best substrate for SCP production by submerged fermentation using photosynthetic bacteria compared to swine, cow, and buffalo manure. Regression analysis showed that the productions were found to be significantly influenced by chicken manure content, inoculum size, and cultivation time. Response surface methodology based on central composite design generated the optimal condition (15% chicken manure, 30% inoculum size and cultivation time for 14 days) at which biomass, protein, and carotenoid productions were increased by 92.3%, 21.6%, and 18.2%, respectively. The percentage of error between the predicted and actual values for biomass, protein, and carotenoid productions were 1.56%, 2.64%, and 2.09%, respectively, which indicates the precision of the model. To verify the quality of SCP, the bacterium was cultured in a photobioreactor to investigate amino acid composition, protein, and nucleic acid contents. The SCP yielded 62.7% protein with essential amino acids including lysine, methionine, threonine, phenylalanine, leucine, isoleucine, valine, histidine, and low nucleic acid content of 4.52%. This study suggests an alternative SCP production for animal feed as well as the strategy for animal waste management.",
+  "references": [
+    {
+      "paperId": "19b64d4fe05d7fbcc2537edae0d328bd8a95da79"
+    },
+    {
+      "paperId": "dbb4afc49e1e8c03f9e349aeb905e4b2f55a555e"
+    },
+    {
+      "paperId": "3e738c42d420595c2fb95044a4260393108a6454"
+    },
+    {
+      "paperId": "0d408c7c63cdda99ff3f1b85ceb2c643079e5975"
+    },
+    {
+      "paperId": "b6c4155f0e54383801516654b2dbb0414e9d43ce"
+    },
+    {
+      "paperId": "4fb315815464fd09b45d81055e9b758fefdaf000"
+    },
+    {
+      "paperId": "09e6281b5303a9ee4ad84fa90b407165f4893838"
+    },
+    {
+      "paperId": "c6cd5a5c743aefaa0f1cba6bbc6b1707e10a95f6"
+    },
+    {
+      "paperId": "69b3596d5b0882110f45252a17dc206b2144313b"
+    },
+    {
+      "paperId": "9e830d7d610df8bb8f0c83c69fb90e4811cfa623"
+    },
+    {
+      "paperId": "e67ac62e410504bac3306fcb6a8d663e0d665dfb"
+    },
+    {
+      "paperId": "78fc991eab1f12d156e7a1e760d7d725412be6b6"
+    },
+    {
+      "paperId": "3b59d21897a56f363dcf5f81de30a8e68bf5bd45"
+    },
+    {
+      "paperId": "3679be7462480d057b6192e760aa80f4bf6bed21"
+    },
+    {
+      "paperId": "dc3b8b747a6c2f2645c39db91edd8abe7eb520aa"
+    },
+    {
+      "paperId": "4b977a6dfc45431bb868aeb6fb4fe1ba3edf2c09"
+    },
+    {
+      "paperId": "8c5649e7ba9d2395a7792584b24e1962f2712bf6"
+    },
+    {
+      "paperId": "4718cc9325af922c44454b55c38bab51f17ad8ea"
+    },
+    {
+      "paperId": "03899b91999504b2c95a31f91e7ef32ae5ef79cf"
+    },
+    {
+      "paperId": "cb6ef005b7160fecaec6023e94ae2d46dbc06861"
+    },
+    {
+      "paperId": "b278e0b41d9bf75fadb0a72a9bb8bbccfa8c1bb6"
+    },
+    {
+      "paperId": "1193fdb570c7b161ebf5523944521c9871b2f5c5"
+    },
+    {
+      "paperId": "3a595ea2f10519ace31c3d67434a5262e602e5ac"
+    },
+    {
+      "paperId": "6ffab7ba37ef993fa772c326ac22c9c1e7e79d79"
+    },
+    {
+      "paperId": "dd7b70e478b2f3f326e4c21943905d6cd78e2d26"
+    },
+    {
+      "paperId": "7881af4819e042b0247b75cd6a068dd14887c24e"
+    },
+    {
+      "paperId": "a01491d0530b1fd2633b7db822e325123a922c6d"
+    },
+    {
+      "paperId": "95e0e622f449a32d77dd058a57981c5f2f41734c"
+    },
+    {
+      "paperId": "a87f63efa167ae22828f75c529ca9394f991c594"
+    },
+    {
+      "paperId": "df38e652b511217a2806da737944745fa9cb8633"
+    },
+    {
+      "paperId": "f8508556e4e715ec9302a8bf6561311c38f96bc9"
+    },
+    {
+      "paperId": "2341d6dadd2ce228d16b34e75b76271e3acb15f6"
+    },
+    {
+      "paperId": "cb1c0e2a8ad850cbd209f0212b8d761e5a1b5666"
+    },
+    {
+      "paperId": "ae938cd73d59d04dd65d0c833719ebb996af345e"
+    },
+    {
+      "paperId": "0e8fa28ee6f374aed2702a2bda7c43387ef9a283"
+    },
+    {
+      "paperId": "3d567abf8acf164a935bb994b5380f45574b86eb"
+    },
+    {
+      "paperId": "0611fdf49c2ac3e83dad3d3a9441354f68c19f61"
+    },
+    {
+      "paperId": "c62d52a62e93ecc1123ffcec95406adc31e28673"
+    },
+    {
+      "paperId": "ede9019284c5f4c7cee1beff36a78c3edf63656f"
+    },
+    {
+      "paperId": "288bc6b850e145091cb477865532218bc3bd415d"
+    },
+    {
+      "paperId": "ab05e367af6402b67cc9d91a7a6b2b70ba3611ef"
+    },
+    {
+      "paperId": "1d1aa7bb6ee7a992499f0ded129ebc6be7b070a2"
+    },
+    {
+      "paperId": "3a571a8500bb50500515f62d9266baf62e4bd1bb"
+    },
+    {
+      "paperId": "76590bc9daed6393feb78a28551643aef6ff0fb3"
+    },
+    {
+      "paperId": "3e2c69345946b05ed2797b492b1d7e1b09bf1c99"
+    },
+    {
+      "paperId": "217475d6d6ac90084785079a1155264d6c523a76"
+    },
+    {
+      "paperId": "3a2dd3cd750fbc003d76983fa3f84333ca72f159"
+    },
+    {
+      "paperId": "cefc5b27607fd1fb0dbec0fcd1b11accf5c50342"
+    },
+    {
+      "paperId": "c1b42c9495162db59d4c427d753d033ecc4055d0"
+    },
+    {
+      "paperId": "f35a385cca95cd791523f93b79fc40697ee768b0"
+    },
+    {
+      "paperId": "d2d6c44b733d67df196224f4316bd0641c12b637"
+    },
+    {
+      "paperId": "d6ccd0df2ab0b3e5479aa98a4d020d673e9858d0"
+    },
+    {
+      "paperId": "f8fdba57d2fc1db638a38a9e45201c806b0b2ee7"
+    },
+    {
+      "paperId": "96e6352158ea1a6a458495c2ee015704f0b9a673"
+    },
+    {
+      "paperId": "9c69a99da259445c188fd5f99c4b966bb7c9ef3b"
+    },
+    {
+      "paperId": "f5b3be652c863863d3d01ec8991c29e23765e256"
+    },
+    {
+      "paperId": "a7894883ea4bfe59b20489e9aae484fd83059162"
+    },
+    {
+      "paperId": "39a94365087e4d2f2f146e541d947de7fbcfce28"
+    },
+    {
+      "paperId": "0f538cb0f54646575e7e8e875fbc9f91d8b4729e"
+    },
+    {
+      "paperId": "2b3c5f08fb4f755e30c7dbf2f3b8e9c57b949f99"
+    },
+    {
+      "paperId": "0c1ea8c6d1abc8d41f3bc9be781940b0e1d26634"
+    },
+    {
+      "paperId": "c8e01244c7b394aea0a013cb87aab8087143df8e"
+    },
+    {
+      "paperId": "b4675caabc68ffbff9d5b37aa4cd4160c0d6a218"
+    },
+    {
+      "paperId": "5d8a984f29b8e72dd40a133d51d9e74132518ba6"
+    },
+    {
+      "paperId": "ebd18710aac14efe1feef0bcb7d6735e1523dc28"
+    },
+    {
+      "paperId": "126b68605e5f5e1b148f984e3cfc72edbdf21711"
+    },
+    {
+      "paperId": "bc3931a598a3aba2d8f5a04ce852f3648927ea11"
+    },
+    {
+      "paperId": "6c8668cc917cb0ea7e7ef2f90dc8a2373f3ac760"
+    },
+    {
+      "paperId": "d66773108fb207ce3b63141881ad95e6cc21504a"
+    },
+    {
+      "paperId": "3cc19ffd419b5612cbca8f01378380333128a9ba"
+    },
+    {
+      "paperId": "c02ff71d53a6ea82689269ad3aa4a1b54bdeacb9"
+    },
+    {
+      "paperId": "d406afc5c5257489e310f6a80430b391bb47dbc0"
+    },
+    {
+      "paperId": "296173db4c5012caa29912eff6cd3909ec4e182d"
+    },
+    {
+      "paperId": "1555ca5316a619ef6ca9905faa50ee7b5a1f9559"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

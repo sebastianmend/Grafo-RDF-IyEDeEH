@@ -1,0 +1,188 @@
+{
+  "paperId": "118e8d7ec916e17443ac63e5d8abc68cb08a792f",
+  "externalIds": {
+    "MAG": "2915594101",
+    "DBLP": "journals/sensors/ZhengKJWSZ19",
+    "PubMedCentral": "6427818",
+    "DOI": "10.3390/s19051058",
+    "CorpusId": 73493006,
+    "PubMed": "30832283"
+  },
+  "url": "https://www.semanticscholar.org/paper/118e8d7ec916e17443ac63e5d8abc68cb08a792f",
+  "title": "CropDeep: The Crop Vision Dataset for Deep-Learning-Based Classification and Detection in Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 368,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/5/1058/pdf?version=1551697535",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6427818, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31124338",
+      "name": "Yang-Yang Zheng"
+    },
+    {
+      "authorId": "26434105",
+      "name": "Jianlei Kong"
+    },
+    {
+      "authorId": "40430910",
+      "name": "Xue-bo Jin"
+    },
+    {
+      "authorId": "2118774822",
+      "name": "Xiaoyi Wang"
+    },
+    {
+      "authorId": "2847804",
+      "name": "Tingli Su"
+    },
+    {
+      "authorId": "48304150",
+      "name": "Min Zuo"
+    }
+  ],
+  "abstract": "Intelligence has been considered as the major challenge in promoting economic potential and production efficiency of precision agriculture. In order to apply advanced deep-learning technology to complete various agricultural tasks in online and offline ways, a large number of crop vision datasets with domain-specific annotation are urgently needed. To encourage further progress in challenging realistic agricultural conditions, we present the CropDeep species classification and detection dataset, consisting of 31,147 images with over 49,000 annotated instances from 31 different classes. In contrast to existing vision datasets, images were collected with different cameras and equipment in greenhouses, captured in a wide variety of situations. It features visually similar species and periodic changes with more representative annotations, which have supported a stronger benchmark for deep-learning-based classification and detection. To further verify the application prospect, we provide extensive baseline experiments using state-of-the-art deep-learning classification and detection models. Results show that current deep-learning-based methods achieve well performance in classification accuracy over 99%. While current deep-learning methods achieve only 92% detection accuracy, illustrating the difficulty of the dataset and improvement room of state-of-the-art deep-learning models when applied to crops production and management. Specifically, we suggest that the YOLOv3 network has good potential application in agricultural detection tasks.",
+  "references": [
+    {
+      "paperId": "24696daab4cf7795fea37000108051ea6d9cab23"
+    },
+    {
+      "paperId": "e7ca7706f1ac982fa60c7b1dc706c311d9ddbb50"
+    },
+    {
+      "paperId": "ebc96892b9bcbf007be9a1d7844e4b09fde9d961"
+    },
+    {
+      "paperId": "a057cc41f543be2bfbbcf78692d5e811fdec4177"
+    },
+    {
+      "paperId": "ff772950f66ac6a57f4201ce1f02f0013ccdc1bb"
+    },
+    {
+      "paperId": "4feef0fd284feb1233399b400eb897f59ec92755"
+    },
+    {
+      "paperId": "e8e662e45e39249756d2b0090782434a5cf1f4aa"
+    },
+    {
+      "paperId": "886674a5abae3c9bfd262006c67d4ba078e1462b"
+    },
+    {
+      "paperId": "79cfb51a51fc093f66aac8e858afe2e14d4a1f20"
+    },
+    {
+      "paperId": "05eb6eb4ea7d2b332295dfa5aeb64d5f47c1e628"
+    },
+    {
+      "paperId": "3dc522a6576c3475e4a166377cbbf4ba389c041f"
+    },
+    {
+      "paperId": "7d39d69b23424446f0400ef603b2e3e22d0309d6"
+    },
+    {
+      "paperId": "5694e46284460a648fe29117cbc55f6c9be3fa3c"
+    },
+    {
+      "paperId": "35b49cb775c1810720fbc5ee6f4cb9ecf3d45271"
+    },
+    {
+      "paperId": "5723267d971430924264047e7f8acd8e733daf84"
+    },
+    {
+      "paperId": "592d2e65489f23ebd993dbdc0c84eda9ac8aadbe"
+    },
+    {
+      "paperId": "b5c26ab8767d046cb6e32d959fdf726aee89bb62"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "4d7a9197433acbfb24ef0e9d0f33ed1699e4a5b0"
+    },
+    {
+      "paperId": "4e6d882a4d2e6351cdf3013f0f7785941e3efd00"
+    },
+    {
+      "paperId": "09fa039433bca45e96fc2562adef5f667721f155"
+    },
+    {
+      "paperId": "9bde654683e57cbb8b8ac6eb90bb0342e72c1ecc"
+    },
+    {
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270"
+    },
+    {
+      "paperId": "7ffdbc358b63378f07311e883dddacc9faeeaf4b"
+    },
+    {
+      "paperId": "caccc069e658ea397c9faf673e74c959c734ff53"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd"
+    },
+    {
+      "paperId": "ca736f2c509631b7226957dbab2188f842468c8f"
+    },
+    {
+      "paperId": "71b7178df5d2b112d07e45038cb5637208659ff7"
+    },
+    {
+      "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "2f01d2a293984d35b041d109609960b54c7379e3"
+    },
+    {
+      "paperId": "72c4d8b64a9959ea45677ca1955d3491ef0f1c62"
+    },
+    {
+      "paperId": "c069629a51f6c1c301eb20ed77bc6b586c24ce32"
+    },
+    {
+      "paperId": "e9dd235240904627b12782653b66318712780703"
+    },
+    {
+      "paperId": "0b02189d15ef82c23cc4305f4fceabc72807131e"
+    },
+    {
+      "paperId": "851ff0e763b5f9f1ea52ec7272568cde4306b94f"
+    },
+    {
+      "paperId": "a84ccaecfd0199f5c7910fd34aa832ee7db4c406"
+    },
+    {
+      "paperId": "431adac4c78f66ef57b9610501070de60799d6f1"
+    },
+    {
+      "paperId": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

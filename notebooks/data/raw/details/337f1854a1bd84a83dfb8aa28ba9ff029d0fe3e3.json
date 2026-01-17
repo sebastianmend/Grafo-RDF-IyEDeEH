@@ -1,0 +1,120 @@
+{
+  "paperId": "337f1854a1bd84a83dfb8aa28ba9ff029d0fe3e3",
+  "externalIds": {
+    "MAG": "2901911775",
+    "DBLP": "journals/information/MohsinSWZ18",
+    "DOI": "10.3390/INFO9110291",
+    "CorpusId": 56483087
+  },
+  "url": "https://www.semanticscholar.org/paper/337f1854a1bd84a83dfb8aa28ba9ff029d0fe3e3",
+  "title": "A Ranking Method for User Recommendation Based on Fuzzy Preference Relations in the Nature Reserve of Dangshan Pear Germplasm Resources",
+  "venue": "Inf.",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/9/11/291/pdf?version=1542785626",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/INFO9110291?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/INFO9110291, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46258289",
+      "name": "Ali Mohsin"
+    },
+    {
+      "authorId": "2069022648",
+      "name": "Qiong Shen"
+    },
+    {
+      "authorId": "2115554170",
+      "name": "Xinyu Wang"
+    },
+    {
+      "authorId": "2115308169",
+      "name": "Xiaoming Zhang"
+    }
+  ],
+  "abstract": "Precision orchard management is an important avenue of investigation in agricultural technology and is an urgently needed part of information development in the fruit industry. Precision management based on a precision agricultural technology system involves many factors and results in users being unable to make accurate judgments. To improve user decision-making accuracy and the level of precision management, we used user preferences to achieve the recommendation function. In this paper, a ranking method based on fuzzy preference relations for user recommendation is proposed. We selected the Nature Reserve of Dangshan Pear Germplasm Resources as the research location and invited experts and representatives of different roles (government, farmers, and tourists) to give the fuzzy preference relation coefficients. Then, an optimization model was proposed based on the fuzzy preference relation. We solved the proposed model by constructing a Lagrangian function, and obtained the ranking values of the user preference recommendation function. Finally, we ranked the order of the given roles and implemented the fuzzy preference recommendation. The experimental results show that the proposed method is effective and can be conveniently applied to other problems related to user preference relations.",
+  "references": [
+    {
+      "paperId": "e29eea8de99cb5a008d773450b514760cb1a0946"
+    },
+    {
+      "paperId": "7ca4fa47ecfd53b8bb0b969b9b492bbaecbe0cfd"
+    },
+    {
+      "paperId": "cbbf12c5e1a9417c7346f1ea4bb4ac06669b898b"
+    },
+    {
+      "paperId": "c351d3391a27ea50c4787ff706a3cf63991eaa8e"
+    },
+    {
+      "paperId": "fb8a25428bfea1484d1472b7f2991d5d90eb853a"
+    },
+    {
+      "paperId": "9f65fed8ec7a63afc2100f647e92858b188f1ddd"
+    },
+    {
+      "paperId": "71731effc1caf4bc6b0f49cc14c9766f89a0f8d3"
+    },
+    {
+      "paperId": "125ae99d7d7a0984539fac47a845b115af2b4b74"
+    },
+    {
+      "paperId": "e1462de257ee0b4ca0aa6559025c9a78e2298d33"
+    },
+    {
+      "paperId": "00e6ecb4c27d5b65348e0dc8371de0fa4bd0e680"
+    },
+    {
+      "paperId": "3e9fdd99f483cdaca3d8255fa35373f4c03e72ab"
+    },
+    {
+      "paperId": "fb0f48b5f5d1019f5d7ac64de46512692be5cd58"
+    },
+    {
+      "paperId": "22645330a124eb4b7fb78417a05a91f09946b5df"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "ce583eca7b4ec66a141d9573046da224ca33a7f3"
+    },
+    {
+      "paperId": "2afb8a1c85b7daeeccece20ff2a021abf40a0afd"
+    },
+    {
+      "paperId": "bcae808bf88ca402e744717a628360e19c5b11f0"
+    },
+    {
+      "paperId": "48db608ac62b3518de5c8e74cec161c07985648e"
+    },
+    {
+      "paperId": "65f8f2027632168086504f553fc94758f33f47c7"
+    },
+    {
+      "paperId": "afccc829cf12f26412903fc44859905b98740f32"
+    },
+    {
+      "paperId": "50f425242259a5aad574625767721b696c953d43"
+    },
+    {
+      "paperId": "70d8ce1e85cf161dd32a718c0562676d4413965d"
+    },
+    {
+      "paperId": "1bfffafb239bf83f8ee608d3d9998ac0c97c0932"
+    },
+    {
+      "paperId": "5ea58eb6734b8a718096484deb40702eb9f8a339"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "d5ecf4a995a6ec1a0c2fae684d706fbcc5b4ad34",
+  "externalIds": {
+    "DBLP": "conf/ecai2/RadescuD19",
+    "MAG": "3018902797",
+    "DOI": "10.1109/ECAI46879.2019.9042120",
+    "CorpusId": 216103574
+  },
+  "url": "https://www.semanticscholar.org/paper/d5ecf4a995a6ec1a0c2fae684d706fbcc5b4ad34",
+  "title": "Automatic Analysis of Potential Hazard Events Using Unmanned Aerial Vehicles",
+  "venue": "European Conference on Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ECAI46879.2019.9042120?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ECAI46879.2019.9042120, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50340467",
+      "name": "R. Radescu"
+    },
+    {
+      "authorId": "41093232",
+      "name": "M. Dragu"
+    }
+  ],
+  "abstract": "This paper is motivated by the possibility of developing a wide variety of applications and domains in which Unmanned Aerial Vehicles (UAVs) can be used globally for various purposes. UAVs are currently used by public administrations and security forces such as police, fire brigades, civil protection, research institutions, construction, and agriculture entities. The purpose of this paper is to facilitate the handling of UAVs to retrieve various data from the environment. The drone (UAV) visits some points to collect data (image and/or video input) from sensors like GPS, camera, gyroscope, and accelerometer. GPS sensor coordinates are used to compare the data taken with subsequent results through processing with specialized software. The drone is used as an access gate with built-in sensors. Certain hazard events (fires, floods, avalanches, landslides) are not limited to narrow geographical areas, but can impact the environment by triggering negative chain events. 3D modeling offers a wide range of possibilities to prevent potential hazard events, or, if such an event has occurred, makes it possible to monitor the affected area and assess the damage by comparing the area in the pre-event configuration with the after-event one. After image processing and data acquisition, a report is generated that includes the map and the 3D model of the analyzed object. A hazard is an agent that has the potential to cause damage to a particular target. Terms such as risk or danger can be used in similar contexts. TensorFlow is an open source software library in high-performance computing. Flexible architecture allows easy deployment of computing on a variety of platforms (CPU, GPU, TPU), from desktop to server or mobile devices. We used the learning transfer: at first we used a model that was already prepared for another problem, and then we re-qualified it on a similar problem. Deep learning from scratch can take several days, but learning transfer can be done shortly. We applied Python along with TensorFlow to train an image classifier and classify images with it. We formed a consistent set of training pictures, using three labels: fire, flood (detectable hazards) and nature (non-hazard images). We then re-qualified an efficient, small-sized neural network by (re)training the image set in order to get the best results in the hazards prediction selection process with a progressive higher accuracy as (re) training evolves at optimal rating. With Python and OpenCV technologies, we used four decision algorithms to generate prediction of hazard: Support Vector Machine, Naive Bayes, Logistic Regression, and Decision Tree Classifier. Each generated report includes precision, recall, f1-score, and support indices, depending on the class and intervals used. We also used the confusion matrix as an alternative method to evaluate the classification accuracy. Analyzing the 4 algorithms we noticed that they behave differently. Training using TensorFlow generated better results than the other methods. For the main classes tested hazard is recognized up to 99%.",
+  "references": null
+}

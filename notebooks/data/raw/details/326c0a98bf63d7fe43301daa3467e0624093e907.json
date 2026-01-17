@@ -1,0 +1,38 @@
+{
+  "paperId": "326c0a98bf63d7fe43301daa3467e0624093e907",
+  "externalIds": {
+    "MAG": "2904746169",
+    "DOI": "10.2495/SDP180301",
+    "CorpusId": 134516935
+  },
+  "url": "https://www.semanticscholar.org/paper/326c0a98bf63d7fe43301daa3467e0624093e907",
+  "title": "ADOPTION OF PRECISION AGRICULTURE TO REDUCE INPUTS, ENHANCE SUSTAINABILTIY AND INCREASE FOOD PRODUCTION: A STUDY OF SOUTHERN ALBERTA, CANADA",
+  "venue": "Sustainable Development and Planning X",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.witpress.com/Secure/elibrary/papers/SDP18/SDP18030FU1.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2495/SDP180301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2495/SDP180301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47431088",
+      "name": "L. Nicol"
+    },
+    {
+      "authorId": "47795762",
+      "name": "C. Nicol"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) identifies variability in fields. This allows greater accuracy in targeting the correct amount of inputs, at the correct time, and in the correct location compared to conventional agricultural methods. As such, precision agriculture has significant potential to reduce agricultural inputs, enhance agricultural sustainability, and increase production in order to meet the growing worldwide demand for food. This study focuses on southern Alberta, the largest, most fertile and productive agricultural region in Canada. Given the high concentration of agriculture in this region, the potential benefits of precision agriculture could be significant. A greater understanding of the adoption of precision agriculture is therefore warranted. Based on a survey of farmers, the study finds the region is actively advancing PA technologies and the findings indicate PA technologies tend to be spread across all land and crop types; the technologies are applied to both dryland and irrigated farms and across cereals, oilseeds and speciality crops. Farmers are highly satisfied with precision agriculture and intend to continue adoption of precision agriculture technologies. Further, some non-adopters intend to become adopters. If there are limits to adoption it is because some farms are too small to warrant the adoption of precision agriculture and the attendant high investment costs.",
+  "references": null
+}

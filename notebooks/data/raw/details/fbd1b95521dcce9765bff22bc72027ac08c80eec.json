@@ -1,0 +1,84 @@
+{
+  "paperId": "fbd1b95521dcce9765bff22bc72027ac08c80eec",
+  "externalIds": {
+    "MAG": "2782283905",
+    "DOI": "10.30536/J.IJRESES.2017.V14.A2677",
+    "CorpusId": 89611408
+  },
+  "url": "https://www.semanticscholar.org/paper/fbd1b95521dcce9765bff22bc72027ac08c80eec",
+  "title": "CAN THE PEAT THICKNESS CLASSES BE ESTIMATED FROM LAND COVER TYPE APPROACH",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://jurnal.lapan.go.id/index.php/ijreses/article/download/2677/2296",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30536/J.IJRESES.2017.V14.A2677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30536/J.IJRESES.2017.V14.A2677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "70075896",
+      "name": "B. Trisakti"
+    },
+    {
+      "authorId": "69961584",
+      "name": "A. Julzarika"
+    },
+    {
+      "authorId": "107955168",
+      "name": "U. C. Nugroho"
+    },
+    {
+      "authorId": "2082567713",
+      "name": "D. Yudhatama"
+    },
+    {
+      "authorId": "108032359",
+      "name": "Yudi Lasmana"
+    }
+  ],
+  "abstract": "Indonesia has been known as a home of the tropical peatlands. The peatlands are mainly in Sumatera, Kalimantan and Papua Islands. Spatial information on peatland depth is needed for the planning of agricultural land extensification. The research objective was to develop a preliminary estimation model of peat thickness classes based on land cover approach and analyse its applicability using Landsat 8 image. Ground data, including land cover, location and thickness of peat, were obtained from various surveys and peatlands potential map (Geology Map and Wetlands Peat Map). The land cover types were derived from Landsat 8 image. All data were used to build an initial model for estimating peat thickness classes in Merauke Regency. A table of relationships among land cover types, peat potential areas and peat thickness classes were made using ground survey data and peatlands potential maps of that were best suited to ground survey data. Furthermore, the table was used to determine peat thickness classes using land cover information produced from Landsat 8 image. The results showed that the estimated peat thickness classes in Merauke Regency consist of two classes, i.e., very shallow peatlands and shallow peatlands. Shallow peatlands were distributed at the upper part of Merauke Regency with mainly covered by forest. In comparison with Indonesia Peatlands Map, the number of classes was the two classes. The spatial distribution of shallow peatlands was relatively similar for its precision and accuracy, but the estimated area of shallow peatlands was greater than the area of shallow peatlands from Indonesia Peatlands Map. This research answered the question that peat thickness classes could be estimated by the land cover approach qualitatively. The precise estimation of peat thickness could not be done due to the limitation of insitu data.",
+  "references": [
+    {
+      "paperId": "82b2534f17859ba9069264fdf35eb854dcf9eae3"
+    },
+    {
+      "paperId": "4130abed8a7002e88c411028bbecdfc71cb3620f"
+    },
+    {
+      "paperId": "e3177e4d5b09d12de1f134cca82257499f3e49ce"
+    },
+    {
+      "paperId": "9a33351ca4ce59045e87e0408c30156c1f2b4798"
+    },
+    {
+      "paperId": "152f5112c3aab19eed0dba017346148360ba18ec"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

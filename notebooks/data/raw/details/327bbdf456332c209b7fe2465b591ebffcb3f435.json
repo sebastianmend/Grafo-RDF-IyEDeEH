@@ -1,0 +1,59 @@
+{
+  "paperId": "327bbdf456332c209b7fe2465b591ebffcb3f435",
+  "externalIds": {
+    "MAG": "2808077623",
+    "DBLP": "journals/ijaeis/LuizWCMGSP18",
+    "DOI": "10.4018/IJAEIS.2018070102",
+    "CorpusId": 51905930
+  },
+  "url": "https://www.semanticscholar.org/paper/327bbdf456332c209b7fe2465b591ebffcb3f435",
+  "title": "Computational System to Support Bovine Nutritional Behavior",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4018/IJAEIS.2018070102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/IJAEIS.2018070102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51141565",
+      "name": "Olavo J. Luiz"
+    },
+    {
+      "authorId": "51139501",
+      "name": "V. Weber"
+    },
+    {
+      "authorId": "2772554",
+      "name": "M. Cagnin"
+    },
+    {
+      "authorId": "2072353393",
+      "name": "S. R. Medeiros"
+    },
+    {
+      "authorId": "2055492464",
+      "name": "Rodrigo da Costa Gomes"
+    },
+    {
+      "authorId": "14796903",
+      "name": "L. C. Souza"
+    },
+    {
+      "authorId": "1778647",
+      "name": "D. M. B. Paiva"
+    }
+  ],
+  "abstract": "Computational methodologies and techniques are increasingly being used for agricultural purposes in recent years. This article presents a computational system composed of hardware and software elements that can be used in the Precision Livestock area. The objective is to support the management of the operation of providing nutritional supplements: a hardware module identifies the visits of the animals to the troughs and transmits the data to a software module, which processes them and generates reports to support decision-making. A case study indicated the viability of the solution and advantages of the system: portability and flexibility in the expansion of the functionalities through modularization, for less than one tenth of the cost of the current solutions available.",
+  "references": null
+}

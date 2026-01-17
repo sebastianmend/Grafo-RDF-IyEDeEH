@@ -1,0 +1,49 @@
+{
+  "paperId": "1c644dee5cede4db5ed173d17989463dc0e2440e",
+  "externalIds": {
+    "MAG": "2953889296",
+    "DBLP": "conf/gecco/IsraeliELS19",
+    "DOI": "10.1145/3321707.3321809",
+    "CorpusId": 195795330
+  },
+  "url": "https://www.semanticscholar.org/paper/1c644dee5cede4db5ed173d17989463dc0e2440e",
+  "title": "Statistical learning in soil sampling design aided by pareto optimization",
+  "venue": "Annual Conference on Genetic and Evolutionary Computation",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3321707.3321809?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3321707.3321809, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "150016774",
+      "name": "A. Israeli"
+    },
+    {
+      "authorId": "2211040",
+      "name": "M. Emmerich"
+    },
+    {
+      "authorId": "7029271",
+      "name": "M. Litaor"
+    },
+    {
+      "authorId": "2742958",
+      "name": "O. M. Shir"
+    }
+  ],
+  "abstract": "Effective soil-sampling is essential for the construction of prescription maps used in Precision Agriculture for Variable Rate Application of nutrients. In practice, designing a field sampling plan is subject to hard limitations, merely due to the associated expenses, where only a few sample points are taken for evaluation. The accuracy of constructed maps is affected by the number of sampling points, their geographical dispersion and their coverage of the feature space. To improve the accuracy, ancillary data in the form of low-cost, high-resolution field scans could be used for inferring statistical measures for devising the high-cost sampling plan. The current study targets algorithmically-guided sampling plans using available ancillary data. We propose possible models for quantifying spatial coverage and diversity concerning the ancillary data. We investigate models as objective functions, devise Pareto optimization problems and solve them using NSGA-II. We analyzed the obtained sampling plans in an agricultural field, and suggest statistical tools for sample-size determination and plans' ranking according to additional information criteria. We argue that our approach is successful in attaining a practical sampling plan, constituting a fine trade-off between objectives, and possessing no discrepancies.",
+  "references": null
+}

@@ -1,0 +1,280 @@
+{
+  "paperId": "000f4079fb3f5463ce7f5e566b541fec68a91f02",
+  "externalIds": {
+    "MAG": "2945831990",
+    "DBLP": "journals/bigdatasociety/Miles19",
+    "DOI": "10.1177/2053951719849444",
+    "CorpusId": 182647856
+  },
+  "url": "https://www.semanticscholar.org/paper/000f4079fb3f5463ce7f5e566b541fec68a91f02",
+  "title": "The combine will tell the truth: On precision agriculture and algorithmic rationality",
+  "venue": "Big Data & Society",
+  "year": 2019,
+  "citationCount": 130,
+  "influentialCitationCount": 11,
+  "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/2053951719849444",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/2053951719849444?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/2053951719849444, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48512538",
+      "name": "Christopher Miles"
+    }
+  ],
+  "abstract": "Recent technological and methodological changes in farming have led to an emerging set of claims about the role of digital technology in food production. Known as precision agriculture, the integration of digital management and surveillance technologies in farming is normatively presented as a revolutionary transformation. Proponents contend that machine learning, Big Data, and automation will create more accurate, efficient, transparent, and environmentally friendly food production, staving off both food insecurity and ecological ruin. This article contributes a critique of these rhetorical and discursive claims to a growing body of critical literature on precision agriculture. It argues precision agriculture is less a revolution than an evolution, an effort to shore up and intensify the conventional farming system responsible for generating many of the social and environmental problems precision agriculture is presented as solving. While precision agriculture advocates portray it as a radical, even democratic epistemological break with the past, this paper locates truth claims surrounding datafication and algorithmic control in farming within deeper historical contexts of the capitalist rationalization of production and efforts to quantify and automate physical and mental labor. Abjuring the growing cultural tendency to treat algorithmic systems as revolutionary in favor of social and historical dimensions of precision agriculture, can help re-frame the discussion about its design and use around real, socially and ecologically oriented change in farming, and so ensure that the possibilities and benefits of precision agriculture are as evenly and effectively shared as possible.",
+  "references": [
+    {
+      "paperId": "a9f359bc263cf8d7b77db705c674e427953c195b"
+    },
+    {
+      "paperId": "056d833935c8fd24a925cd3267dc14541a9607f5"
+    },
+    {
+      "paperId": "0a829289a16ae48837cc2905635435db98bacc76"
+    },
+    {
+      "paperId": "c5f21b9b0853d662615bd2ff5679f487a9200c64"
+    },
+    {
+      "paperId": "72c1de5c4a8f787b0d1dc3f9eba17c2104379d23"
+    },
+    {
+      "paperId": "c94454bd0eb0924a7cc09bf616a87306db335ef7"
+    },
+    {
+      "paperId": "e5a51c3e42fef964c8bef208098b84de5f2b60e5"
+    },
+    {
+      "paperId": "f562ddbeb44a56df1f9fc6e9d6ca4e9604d2b0c7"
+    },
+    {
+      "paperId": "760dc80315523aa619eaf91c9a192910aaa11cad"
+    },
+    {
+      "paperId": "61696125c1ba0621d94ed0bab8b0560af927490e"
+    },
+    {
+      "paperId": "e585b73022fde7dec8f8718d9c0172a78f22e94a"
+    },
+    {
+      "paperId": "e6730abdb4e05408821141cf95f5dc9509781bec"
+    },
+    {
+      "paperId": "25e41aefac68b248bb781aed7ae9cac6723ee04b"
+    },
+    {
+      "paperId": "a83771dfc9671bd1df04d957aba2ea836ef2bbd1"
+    },
+    {
+      "paperId": "242dc9cf92967143b345e7d907e337a942b5578c"
+    },
+    {
+      "paperId": "fb7aa89a499a0c3736a1b73594d073d48b287b51"
+    },
+    {
+      "paperId": "3a813b7141aec4d67045aa69da863b7969ed1bb2"
+    },
+    {
+      "paperId": "264d8f561610ec380f7d304d05faab03d000b136"
+    },
+    {
+      "paperId": "be2745d3a246ce9ae19972bc033aeb184fe0974a"
+    },
+    {
+      "paperId": "cfcf53decb78324b4e6f533dec6715850dacf12b"
+    },
+    {
+      "paperId": "6dd2dbd89b99708b7fb4b66f221fd5152c4af0ff"
+    },
+    {
+      "paperId": "9d25fe34bcc9ebd549002f5e2741e1154193f1e9"
+    },
+    {
+      "paperId": "4a32712674651fd200e1de8e41e9685f21a163b4"
+    },
+    {
+      "paperId": "2cbc1cea80cdf9e0bd819040f480841ea09ab406"
+    },
+    {
+      "paperId": "862d3b09a951fcdafa27e0435d48bf42795fc982"
+    },
+    {
+      "paperId": "976a1e712623238900abdb72a200dd6bc23c4ec3"
+    },
+    {
+      "paperId": "8042ba01f103bcc0e872732cb15913af79156b8f"
+    },
+    {
+      "paperId": "7ae7caf06d21a6990e0f289c09d880b2e84416d6"
+    },
+    {
+      "paperId": "dfa4c3f0a62126b985c508cfcf24740dba8f23ba"
+    },
+    {
+      "paperId": "12c0f085a040bb36fb0523da4ab32c36a3748857"
+    },
+    {
+      "paperId": "bb9cf6e99ab5802530bc8c7c7dce0678d81ed80e"
+    },
+    {
+      "paperId": "be3cfc99af7d7cffcaeae7dfab0657528864e428"
+    },
+    {
+      "paperId": "3de7ef924efc0bcbab375e97537ecd3cc55aae4d"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "d47d4874e374e18b72aca1abd1a92667e2834b9b"
+    },
+    {
+      "paperId": "407f28becd89ad0ee0792c46c516cc38f1b135b3"
+    },
+    {
+      "paperId": "734e4e25d588ae3e76afeffa6d8a6b60621fed9a"
+    },
+    {
+      "paperId": "4e6bba65f7636a655c778a3e54cc58e148468963"
+    },
+    {
+      "paperId": "3c77d682a7212ee816172bece1d72e00180fdd25"
+    },
+    {
+      "paperId": "57ccad3f2075195b56b68e150a5587d846980851"
+    },
+    {
+      "paperId": "2da317a88bfeaf45ee899e939b4467a69bfde375"
+    },
+    {
+      "paperId": "729c6a5a3350c2bd4cdab23c906f2be7ff03a306"
+    },
+    {
+      "paperId": "088ab0cb6416c57ab2bb37817df851b03dcf9568"
+    },
+    {
+      "paperId": "55d3c442fa6d5d04eb2aa0a0d45976c15172b31c"
+    },
+    {
+      "paperId": "d7b493b796dea2cf8b81fbf8e0982c289028b0f0"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "3758b64602788b39b5a9fcdd77c3bd2f3f78ce35"
+    },
+    {
+      "paperId": "b08c6e565827c413c1dcf174391819ae03958845"
+    },
+    {
+      "paperId": "4a57fb370b83ac3d1a886a3fae479e45e5fe156d"
+    },
+    {
+      "paperId": "5e28564e9d359ec6b177fdd8001c663c9a001f7e"
+    },
+    {
+      "paperId": "9ef8302a9768dc8d3e85e927581ec0ada2c98da3"
+    },
+    {
+      "paperId": "1194330fb0ea111ae39566ed83edc6486a729238"
+    },
+    {
+      "paperId": "6c5b672f056f30172eed16428fb781d91142273e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3a8326f7f9390b2150d4dd44c9b52ea2845f0e6b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "44467ad5d774178dce0957355e8402d78cf8c996"
+    },
+    {
+      "paperId": "bd83092a66acb87feea08d76966ccb1f059452d8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "06808d647e7b424bd489471d4fbfdbaf5daa1c0c"
+    },
+    {
+      "paperId": "b9cbf211aa7b86bd5408ed53ec49620077bae56f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "24bbf34de9f8ca30debd6c6cb0af608e4777740d"
+    },
+    {
+      "paperId": "de55d5aae61a18818aef3dd56e4fad6873284ee0"
+    },
+    {
+      "paperId": "da1539c7efd566d60f6f2c8116b748962afff708"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "8e070ead51881c1bd49f13d4c9d37c4a83a2fdb9",
+  "externalIds": {
+    "MAG": "3044856159",
+    "DOI": "10.1007/978-3-030-43469-4_24",
+    "CorpusId": 226851175
+  },
+  "url": "https://www.semanticscholar.org/paper/8e070ead51881c1bd49f13d4c9d37c4a83a2fdb9",
+  "title": "Modeling Household Food Insecurity with a Polytomous Rasch Model",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-43469-4_24?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-43469-4_24, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Psychology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "81205693",
+      "name": "Victoria T. Tanaka"
+    },
+    {
+      "authorId": "2669392",
+      "name": "G. Engelhard"
+    },
+    {
+      "authorId": "17107627",
+      "name": "M. Rabbitt"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

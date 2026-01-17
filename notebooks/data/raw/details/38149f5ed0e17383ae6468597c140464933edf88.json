@@ -1,0 +1,38 @@
+{
+  "paperId": "38149f5ed0e17383ae6468597c140464933edf88",
+  "externalIds": {
+    "MAG": "2919354478",
+    "DOI": "10.1109/I-SMAC.2018.8653749",
+    "CorpusId": 67876618
+  },
+  "url": "https://www.semanticscholar.org/paper/38149f5ed0e17383ae6468597c140464933edf88",
+  "title": "IoT Based Low-cost Weather Station and Monitoring System for Precision Agriculture in India",
+  "venue": "2018 2nd International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC), 2018 2nd International Conference on",
+  "year": 2018,
+  "citationCount": 64,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/I-SMAC.2018.8653749?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I-SMAC.2018.8653749, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31344236",
+      "name": "R. K. Math"
+    },
+    {
+      "authorId": "1794853",
+      "name": "Dr. Nagaraj V. Dharwadkar"
+    }
+  ],
+  "abstract": "In recent times it is seen that the climatic and weather conditions not only in India but also in other countries have become uncertain and unpredictable, which may have devastating effects on the agriculture production. India being an agricultural country, most of the farmers largely rely on monsoons and agricultural production is weather dependent. The environmental factors like temperature, humidity, moisture, precipitation and many other parameters keep on changing rapidly and unpredictably. This unpredictable nature, variability of climatic or weather conditions makes the life of farmers quite miserable as they are unable to take proper decisions at the right time. Thus, it is the need of the hour to have a real-time, local weather station which would keep the farmers informed well in advance about the prevailing weather conditions so that they can take appropriate decisions at the right time and save their crops from loss. Precision Agriculture (PA) is an art of using the latest available technologies in the agriculture domain so as to make traditional agriculture more profitable and sustainable while reducing the wastage of resources. The penetration of internet into India is very deep and very fast, especially due to the Jio mania by Reliance Jio Infocomm Limited last year, high speed internet is now possible even in rural areas. This paper proposes a IoT based real-time local weather station for PA, that would provide farmers a means of automizing their agricultural practices (irrigation, fertilization, harvesting) at the right time. The proposed system would also aid the farmers to carry out the agricultural tasks on real-time bases, which in turn helps them to use the agricultural resources in efficient way and at the time when needed by the crops. The proposed weather system is a small step towards the development of PA system considering the Indian scenarios.",
+  "references": null
+}

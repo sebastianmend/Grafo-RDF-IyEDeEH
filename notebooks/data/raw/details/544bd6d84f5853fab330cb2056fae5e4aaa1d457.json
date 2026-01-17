@@ -1,0 +1,82 @@
+{
+  "paperId": "544bd6d84f5853fab330cb2056fae5e4aaa1d457",
+  "externalIds": {
+    "MAG": "2970059662",
+    "DOI": "10.15159/AR.19.133",
+    "CorpusId": 202924138
+  },
+  "url": "https://www.semanticscholar.org/paper/544bd6d84f5853fab330cb2056fae5e4aaa1d457",
+  "title": "Review: Soil compaction and controlled traffic farming in arable and grass cropping systems",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 40,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15159/AR.19.133?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15159/AR.19.133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7656160",
+      "name": "D. Antille"
+    },
+    {
+      "authorId": "48047587",
+      "name": "S. Peets"
+    },
+    {
+      "authorId": "70291845",
+      "name": "J. Galambošová"
+    },
+    {
+      "authorId": "143853103",
+      "name": "G. Botta"
+    },
+    {
+      "authorId": "92283891",
+      "name": "V. Rataj"
+    },
+    {
+      "authorId": "152956104",
+      "name": "M. Macák"
+    },
+    {
+      "authorId": "7375434",
+      "name": "J. Tullberg"
+    },
+    {
+      "authorId": "65979687",
+      "name": "W. Chamen"
+    },
+    {
+      "authorId": "145274232",
+      "name": "D. White"
+    },
+    {
+      "authorId": "66364640",
+      "name": "P. Misiewicz"
+    },
+    {
+      "authorId": "1392659453",
+      "name": "P. Hargreaves"
+    },
+    {
+      "authorId": "108024778",
+      "name": "J. Bienvenido"
+    },
+    {
+      "authorId": "46315564",
+      "name": "R. Godwin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

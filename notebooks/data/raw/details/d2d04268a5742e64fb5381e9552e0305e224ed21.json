@@ -1,0 +1,36 @@
+{
+  "paperId": "d2d04268a5742e64fb5381e9552e0305e224ed21",
+  "externalIds": {
+    "MAG": "2911500129",
+    "CorpusId": 91263110
+  },
+  "url": "https://www.semanticscholar.org/paper/d2d04268a5742e64fb5381e9552e0305e224ed21",
+  "title": "An Intensive Study on Precision Agriculture: Crop Yield Prediction",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "73036662",
+      "name": "P. Suvithavani"
+    },
+    {
+      "authorId": "66521395",
+      "name": "S. Rathi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

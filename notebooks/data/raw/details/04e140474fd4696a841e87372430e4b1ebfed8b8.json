@@ -1,0 +1,56 @@
+{
+  "paperId": "04e140474fd4696a841e87372430e4b1ebfed8b8",
+  "externalIds": {
+    "DBLP": "conf/metroi/PasqualeGLNPT19",
+    "MAG": "2967170231",
+    "DOI": "10.1109/METROI4.2019.8792875",
+    "CorpusId": 199541367
+  },
+  "url": "https://www.semanticscholar.org/paper/04e140474fd4696a841e87372430e4b1ebfed8b8",
+  "title": "Geometrical Analysis of a Bacterial Cellulose-Based Sensing Element",
+  "venue": "Workshop on Metrology for Industry 4.0 and IoT",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/METROI4.2019.8792875?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/METROI4.2019.8792875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39663816",
+      "name": "G. Pasquale"
+    },
+    {
+      "authorId": "3051106",
+      "name": "S. Graziani"
+    },
+    {
+      "authorId": "11506922",
+      "name": "A. Licciulli"
+    },
+    {
+      "authorId": "49328986",
+      "name": "R. Nisi"
+    },
+    {
+      "authorId": "144090616",
+      "name": "A. Pollicino"
+    },
+    {
+      "authorId": "1868726",
+      "name": "C. Trigona"
+    }
+  ],
+  "abstract": "With the advent of IoT, industry 4.0 and precision agriculture an increasing interest has been devoted to sensors and transducers based on new materials and eco-friendly technologies. Recently, Bacterial Cellulose (BC) has been investigated as an intriguing solution for the realization of green devices and electronics. BC has excellent mechanical properties, it is fully biodegradable and greener then classical plant-derived cellulose. In this paper we investigate the influence of the geometry of BC based compounds on their mechano-eletrical transduction capability. An experimental campaign has been addressed obtaining very intriguing results.",
+  "references": null
+}

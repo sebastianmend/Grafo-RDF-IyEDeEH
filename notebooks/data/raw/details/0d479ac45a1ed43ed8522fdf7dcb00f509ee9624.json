@@ -1,0 +1,52 @@
+{
+  "paperId": "0d479ac45a1ed43ed8522fdf7dcb00f509ee9624",
+  "externalIds": {
+    "DBLP": "conf/racs/SuhJWSS18",
+    "MAG": "2896702192",
+    "DOI": "10.1145/3264746.3264791",
+    "CorpusId": 52961917
+  },
+  "url": "https://www.semanticscholar.org/paper/0d479ac45a1ed43ed8522fdf7dcb00f509ee9624",
+  "title": "Development of vegetation mapping with deep convolutional neural network",
+  "venue": "Research in Adaptive and Convergent Systems",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3264746.3264791?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3264746.3264791, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "81099504",
+      "name": "Sae-Han Suh"
+    },
+    {
+      "authorId": "79590308",
+      "name": "Ji-Eun Jhang"
+    },
+    {
+      "authorId": "81714805",
+      "name": "Kwanghee Won"
+    },
+    {
+      "authorId": "2110848884",
+      "name": "Sung Y. Shin"
+    },
+    {
+      "authorId": "2265056",
+      "name": "C. Sung"
+    }
+  ],
+  "abstract": "The Precision Agriculture (PA) plays a crucial part in the agricultural industry about improving the decision-making process. It aims to optimally allocate the resources to maintain the sustainable productivity of farmland and reduce the use of chemical compounds. [17] However, the on-site inspection of vegetations often falls to researchers' trained eye and experience, when it deals with the identification of the non-crop vegetations. Deep Convolution Neural Network (CNN) can be deployed to mitigate the cost of manual classification. Although CNN outperforms the other traditional classifiers, such as Support Vector Machine, it is still in question whether CNN can be deployable in an industrial environment. In this paper, we conducted a study on the feasibility of CNN for Vegetation Mapping on lawn inspection for weeds. We would like to study the possibility of expanding the concept to the on-site, near realtime, crop site inspections, by evaluating the generated results.",
+  "references": null
+}

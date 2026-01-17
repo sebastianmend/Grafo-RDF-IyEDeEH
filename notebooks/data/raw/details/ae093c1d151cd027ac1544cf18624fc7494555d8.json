@@ -1,0 +1,76 @@
+{
+  "paperId": "ae093c1d151cd027ac1544cf18624fc7494555d8",
+  "externalIds": {
+    "MAG": "2790166143",
+    "CorpusId": 55351945
+  },
+  "url": "https://www.semanticscholar.org/paper/ae093c1d151cd027ac1544cf18624fc7494555d8",
+  "title": "Improving Rice-wheat cropping system through precision nitrogen management: A review",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "120438377",
+      "name": "Sunil Kumar"
+    },
+    {
+      "authorId": "145824131",
+      "name": "A. Panwar"
+    },
+    {
+      "authorId": "145435134",
+      "name": "R. Naresh"
+    },
+    {
+      "authorId": "2109206057",
+      "name": "P. Singh"
+    },
+    {
+      "authorId": "32350227",
+      "name": "N. C. Mahajan"
+    },
+    {
+      "authorId": "2094559893",
+      "name": "Udita Chowdhary"
+    },
+    {
+      "authorId": "2110208856",
+      "name": "Sudhir Kumar"
+    },
+    {
+      "authorId": "1571405032",
+      "name": "M. Malik"
+    },
+    {
+      "authorId": "1663949842",
+      "name": "A. Meena"
+    },
+    {
+      "authorId": "1665815248",
+      "name": "PC Ghashal"
+    },
+    {
+      "authorId": "46730204",
+      "name": "L. Meena"
+    },
+    {
+      "authorId": "1665601327",
+      "name": "Jairam Chowdhary"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

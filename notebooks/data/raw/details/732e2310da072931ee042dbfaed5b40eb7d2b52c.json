@@ -1,0 +1,49 @@
+{
+  "paperId": "732e2310da072931ee042dbfaed5b40eb7d2b52c",
+  "externalIds": {
+    "MAG": "2981682119",
+    "DBLP": "conf/expat/RamosNB019",
+    "DOI": "10.1109/EXPAT.2019.8876479",
+    "CorpusId": 204821956
+  },
+  "url": "https://www.semanticscholar.org/paper/732e2310da072931ee042dbfaed5b40eb7d2b52c",
+  "title": "Experimental NFT hydroponics system with lower energy consumption",
+  "venue": "Experiment@ International Conference",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EXPAT.2019.8876479?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EXPAT.2019.8876479, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145215535",
+      "name": "C. Ramos"
+    },
+    {
+      "authorId": "2014925",
+      "name": "Leonel Nóbrega"
+    },
+    {
+      "authorId": "2322412",
+      "name": "Karolina Baras"
+    },
+    {
+      "authorId": "2053026675",
+      "name": "Luís Gomes"
+    }
+  ],
+  "abstract": "Precision agriculture nowadays has great importance as it brings together the knowledge acquired through traditional cultivation techniques with precision and technological automation. One of the inherent techniques of precision agriculture is hydroponics, with plants growing using aqueous solutions and without soil availability. Although NFT (Nutrient Film Technique) systems are already well-developed systems, there is a big difference between home projects and highly automated processes, which in turn require high investment values. Among other things, in this work, the aim was to study and developed algorithms that allow the efficient recirculation of water, allowing electricity savings to be around 40% compared to more traditional systems.",
+  "references": null
+}

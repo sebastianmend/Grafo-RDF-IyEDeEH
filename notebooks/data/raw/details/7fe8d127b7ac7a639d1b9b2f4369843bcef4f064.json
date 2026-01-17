@@ -1,0 +1,228 @@
+{
+  "paperId": "7fe8d127b7ac7a639d1b9b2f4369843bcef4f064",
+  "externalIds": {
+    "MAG": "2972403142",
+    "DBLP": "journals/sensors/LuZWLMHD19",
+    "PubMedCentral": "6766904",
+    "DOI": "10.3390/s19183918",
+    "CorpusId": 202569341,
+    "PubMed": "31514382"
+  },
+  "url": "https://www.semanticscholar.org/paper/7fe8d127b7ac7a639d1b9b2f4369843bcef4f064",
+  "title": "Navigation Algorithm Based on the Boundary Line of Tillage Soil Combined with Guided Filtering and Improved Anti-Noise Morphology",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/18/3918/pdf?version=1568200037",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6766904, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39634859",
+      "name": "W. Lu"
+    },
+    {
+      "authorId": "30913775",
+      "name": "Mengjie Zeng"
+    },
+    {
+      "authorId": "2151978130",
+      "name": "Ling Wang"
+    },
+    {
+      "authorId": "48541896",
+      "name": "Hui Luo"
+    },
+    {
+      "authorId": "2302633",
+      "name": "Subrata Mukherjee"
+    },
+    {
+      "authorId": "1941367469",
+      "name": "Xuhui Huang"
+    },
+    {
+      "authorId": "2281298985",
+      "name": "Yiming Deng"
+    }
+  ],
+  "abstract": "An improved anti-noise morphology vision navigation algorithm is proposed for intelligent tractor tillage in a complex agricultural field environment. At first, the two key steps of guided filtering and improved anti-noise morphology navigation line extraction were addressed in detail. Then, the experiments were carried out in order to verify the effectiveness and advancement of the presented algorithm. Finally, the optimal template and its application condition were studied for improving the image-processing speed. The comparison experiment results show that the YCbCr color space has minimum time consumption of 0.094 s in comparison with HSV, HIS, and 2R-G-B color spaces. The guided filtering method can effectively distinguish the boundary between the tillage soil compared to other competing vanilla methods such as Tarel, multi-scale retinex, wavelet-based retinex, and homomorphic filtering in spite of having the fastest processing speed of 0.113 s. The extracted soil boundary line of the improved anti-noise morphology algorithm has the best precision and speed compared to other operators such as Sobel, Roberts, Prewitt, and Log. After comparing different sizes of image templates, the optimal template with the size of 140 × 260 pixels could achieve high-precision vision navigation while the course deviation angle was not more than 7.5°. The maximum tractor speed of the optimal template and global template were 51.41 km/h and 27.47 km/h, respectively, which can meet the real-time vision navigation requirement of the smart tractor tillage operation in the field. The experimental vision navigation results demonstrated the feasibility of the autonomous vision navigation for tractor tillage operation in the field using the tillage soil boundary line extracted by the proposed improved anti-noise morphology algorithm, which has broad application prospect.",
+  "references": [
+    {
+      "paperId": "f171ffb941d9c5a9f2ae7c338be3f8f4c7bd872e"
+    },
+    {
+      "paperId": "eeb7b095931ddde21f0c4b42959568304ed7db43"
+    },
+    {
+      "paperId": "56728c7c5f40219c5a9838e89ed96252e176b914"
+    },
+    {
+      "paperId": "dcabdc8c2714181cb99e84c3818aace4aca5e898"
+    },
+    {
+      "paperId": "a934f039fc0c630b23f978a5c2673c80d9d69f3c"
+    },
+    {
+      "paperId": "e185f9955ba65cdb6a86311817bda476b174e17d"
+    },
+    {
+      "paperId": "f941dac74137bfd060544cc7dfd53a7099e2a0d8"
+    },
+    {
+      "paperId": "af5978b35161757cfcc3c70e3da7d59096ed7eaa"
+    },
+    {
+      "paperId": "907b5221cc78754254ef17378638e3f435bed2f2"
+    },
+    {
+      "paperId": "48c3203ee8184394fde7871ceac59b5d10defd03"
+    },
+    {
+      "paperId": "de53ef57c1c0ec838799ff3f4fa29923e779f587"
+    },
+    {
+      "paperId": "b6703c3f168371fe8fba3590686e24b502cf61d6"
+    },
+    {
+      "paperId": "a562d58169281d6543f842ad8c1ba66602c89cd2"
+    },
+    {
+      "paperId": "f2f6c019acfb2e4cc4eb951ca58282e9342a52cc"
+    },
+    {
+      "paperId": "295e515ca0b2374baaad28f9abec7b9ed0ad6928"
+    },
+    {
+      "paperId": "614c0a9b63d53943f981610dc2e588519688492d"
+    },
+    {
+      "paperId": "a206f1ffad10c93c13fc5b85a49b86f233e554c0"
+    },
+    {
+      "paperId": "34dedd57547114f47d7a6950a015b8721962cfd6"
+    },
+    {
+      "paperId": "fd919724f87b69ac8f05b4cbdd7cf74772aea178"
+    },
+    {
+      "paperId": "ad5fa74f60053e9aaaf0474031bf5ea827f99973"
+    },
+    {
+      "paperId": "7c2de49022e8c2db98fc6a3982e65cfdfd7b74d4"
+    },
+    {
+      "paperId": "a75f451e916454775bb0c4517213b5ad8c5a7422"
+    },
+    {
+      "paperId": "e66a3ac72ffacb72b7f5aa72ca7dcbafe43ac73c"
+    },
+    {
+      "paperId": "934562326a8c71400b531bfb9619b206c430e025"
+    },
+    {
+      "paperId": "e0bf892ab0ec1bc1b3098d39e396357646fc02c9"
+    },
+    {
+      "paperId": "97c356cde9cae19553d7ee1299e7b3ddda581953"
+    },
+    {
+      "paperId": "464a7ba446c5e2ddf5d1fad819c430628adcbb37"
+    },
+    {
+      "paperId": "7b0b87a4e4238634a8d4e8d9c6847dcd67a385cf"
+    },
+    {
+      "paperId": "9bd4567e9261a19272d8d070f666c364cbf7d1a6"
+    },
+    {
+      "paperId": "018421baa34ddecc7ab77bcf07dee0458bbf9639"
+    },
+    {
+      "paperId": "d9ae05b12392fd17c438b3bd20c5a4b4c6d42411"
+    },
+    {
+      "paperId": "c50b1e17f885cd5684ea613f728f2a63d235309e"
+    },
+    {
+      "paperId": "d322f2d31ab49c25298ad2a28906483e59c74ad0"
+    },
+    {
+      "paperId": "7d0baa35163fa8734dd5b70c4e81e94b956feae0"
+    },
+    {
+      "paperId": "f95f91094fd8e7ab41d9392882b75c3feea2f280"
+    },
+    {
+      "paperId": "1b7fc36dc56a400f7a7f4c75e53550bbb6a0a4d8"
+    },
+    {
+      "paperId": "1908aedf0a5a7f27ac1e5009be083b28ef53f4af"
+    },
+    {
+      "paperId": "943059e2553c555baa992be7375c5c51d603aa58"
+    },
+    {
+      "paperId": "558a2ce911718d72358129a644c635143b352daf"
+    },
+    {
+      "paperId": "c3d03e5f03c6a4f98e17a5a93fd5facf73e1eeba"
+    },
+    {
+      "paperId": "1f11376a1956dc7d01f7d3b406ff6a012fdb8c97"
+    },
+    {
+      "paperId": "19cc4e9aa4da4cab63438b552abf5540a1bc8628"
+    },
+    {
+      "paperId": "d96d10a73c60c0af3c88cff118328ddc45f7c50a"
+    },
+    {
+      "paperId": "2c9176564e670bd11e28e109dbc25b7c031852cf"
+    },
+    {
+      "paperId": "0260c7fe1332a30823a315564db3a01a1edafdd4"
+    },
+    {
+      "paperId": "924e7bb58a13c0331343931bc69fc4d3175f27a2"
+    },
+    {
+      "paperId": "b57ef16567386eb0bf7b5f4f28e0f3f5541b1dd3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6d5d63ef980fe86c2ad7c460ee12e5427a243289"
+    },
+    {
+      "paperId": "d2a1b8f90d0f83aa3c420918857535d5a48c825d"
+    },
+    {
+      "paperId": "5a7d206fa5a6eb4205964a0c015ab200928fe8df"
+    },
+    {
+      "paperId": "a27181cdf76ccf89665d280e75d10500e90cf220"
+    },
+    {
+      "paperId": "2e086bd759dd1c31040b1d2bc0427b1bdc353c71"
+    },
+    {
+      "paperId": "99962f81b54f67866469eae6c83d48957c75d003"
+    }
+  ]
+}

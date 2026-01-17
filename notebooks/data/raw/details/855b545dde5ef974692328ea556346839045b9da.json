@@ -1,0 +1,38 @@
+{
+  "paperId": "855b545dde5ef974692328ea556346839045b9da",
+  "externalIds": {
+    "MAG": "2788972498",
+    "DOI": "10.1017/wet.2017.118",
+    "CorpusId": 89702638
+  },
+  "url": "https://www.semanticscholar.org/paper/855b545dde5ef974692328ea556346839045b9da",
+  "title": "Geographic Information System for Pigweed Distribution in the US Southeast",
+  "venue": "Weed technology",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/wet.2017.118?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/wet.2017.118, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2579149",
+      "name": "R. Fletcher"
+    },
+    {
+      "authorId": "143869811",
+      "name": "K. N. Reddy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

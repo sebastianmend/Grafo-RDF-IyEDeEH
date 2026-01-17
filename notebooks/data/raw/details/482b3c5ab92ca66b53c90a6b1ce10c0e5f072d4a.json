@@ -1,0 +1,72 @@
+{
+  "paperId": "482b3c5ab92ca66b53c90a6b1ce10c0e5f072d4a",
+  "externalIds": {
+    "DBLP": "conf/case/TsengWCMSVVCOG18",
+    "MAG": "2904453310",
+    "DOI": "10.1109/COASE.2018.8560431",
+    "CorpusId": 54454739
+  },
+  "url": "https://www.semanticscholar.org/paper/482b3c5ab92ca66b53c90a6b1ce10c0e5f072d4a",
+  "title": "Towards Automating Precision Irrigation: Deep Learning to Infer Local Soil Moisture Conditions from Synthetic Aerial Agricultural Images",
+  "venue": "2018 IEEE 14th International Conference on Automation Science and Engineering (CASE)",
+  "year": 2018,
+  "citationCount": 27,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COASE.2018.8560431?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COASE.2018.8560431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2064527961",
+      "name": "David Tseng"
+    },
+    {
+      "authorId": "2111256745",
+      "name": "David Wang"
+    },
+    {
+      "authorId": "26650171",
+      "name": "Carolyn L. Chen"
+    },
+    {
+      "authorId": "2113312120",
+      "name": "Lauren Miller"
+    },
+    {
+      "authorId": "2107484384",
+      "name": "W. Song"
+    },
+    {
+      "authorId": "3025646",
+      "name": "J. Viers"
+    },
+    {
+      "authorId": "2108240",
+      "name": "S. Vougioukas"
+    },
+    {
+      "authorId": "2930283",
+      "name": "Stefano Carpin"
+    },
+    {
+      "authorId": "32027425",
+      "name": "J. A. Ojea"
+    },
+    {
+      "authorId": "144344283",
+      "name": "Ken Goldberg"
+    }
+  ],
+  "abstract": "Recent advances in unmanned aerial vehicles suggest that collecting aerial agricultural images can be cost-efficient, which can subsequently support automated precision irrigation. To study the potential for machine learning to learn local soil moisture conditions directly from such images, we developed a very fast, linear discrete-time simulation of plant growth based on the Richards equation. We use the simulator to generate large datasets of synthetic aerial images of a vineyard with known moisture conditions and then compare seven methods for inferring moisture conditions from images, in which the “uncorrelated plant” methods look at individual plants and the “correlated field” methods look at the entire vineyard: 1) constant prediction baseline, 2) linear Support Vector Machines (SVM), 3) Random Forests Uncorrelated Plant (RFUP), 4) Random Forests Correlated Field (RFCF), 5) two-layer Neural Networks (NN), 6) Deep Convolutional Neural Networks Uncorrelated Plant (CNNUP), and 7) Deep Convolutional Neural Networks Correlated Field (CNNCF). Experiments on held-out test images show that a globally-connected CNN performs best with normalized mean absolute error of 3.4%. Sensitivity experiments suggest that learned global CNNs are robust to injected noise in both the simulator and generated images as well as in the size of the training sets. In simulation, we compare the agricultural standard of flood irrigation to a proportional precision irrigation controller using the output of the global CNN and find that the latter can reduce water consumption by up to 52% and is also robust to errors in irrigation level, location, and timing. The first-order plant simulator and datasets are available at https://github.com/BerkeleyAutomation/RAPID.",
+  "references": null
+}

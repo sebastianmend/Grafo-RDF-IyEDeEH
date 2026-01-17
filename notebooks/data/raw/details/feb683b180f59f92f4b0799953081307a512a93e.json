@@ -1,0 +1,50 @@
+{
+  "paperId": "feb683b180f59f92f4b0799953081307a512a93e",
+  "externalIds": {
+    "MAG": "2964168416",
+    "DOI": "10.33965/IS2019_201905C007",
+    "CorpusId": 199578645
+  },
+  "url": "https://www.semanticscholar.org/paper/feb683b180f59f92f4b0799953081307a512a93e",
+  "title": "INNOVATION AND KNOWLEDGE MANAGEMENT IN PRECISION FARMING",
+  "venue": "12th IADIS International Conference Information Systems 2019",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.33965/is2019_201905c007",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.33965/IS2019_201905C007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33965/IS2019_201905C007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3254725",
+      "name": "N. Bakhtadze"
+    },
+    {
+      "authorId": "52069471",
+      "name": "E. Maximov"
+    },
+    {
+      "authorId": "1394509410",
+      "name": "D. Donchan"
+    },
+    {
+      "authorId": "2124752670",
+      "name": "Lamara N. Kozlovskaya"
+    },
+    {
+      "authorId": "40074195",
+      "name": "N. Maximova"
+    }
+  ],
+  "abstract": "This paper is devoted to the development of information systems for precision farming, which make it possible to use fertilizer and fuel more efficiently on the basis of information technologies and intelligent predictive models, which reduces the cost of production and increases the efficiency of agricultural production. In addition, a long-term agronomic and ecological effect can be achieved due to more careful tillage and reduced use of nitrogen fertilizers. Description of the creating a knowledge base and models of grain yield depending on the mode of mineral fertilizer application based on intelligent associative search algorithms describes.",
+  "references": null
+}

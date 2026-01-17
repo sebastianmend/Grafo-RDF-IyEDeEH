@@ -1,0 +1,81 @@
+{
+  "paperId": "9acea6ffa36165a8bc41e26700f8c091ce06755f",
+  "externalIds": {
+    "MAG": "2806897755",
+    "DOI": "10.18517/IJASEIT.8.3.2415",
+    "CorpusId": 56209773
+  },
+  "url": "https://www.semanticscholar.org/paper/9acea6ffa36165a8bc41e26700f8c091ce06755f",
+  "title": "Oil-Palm Plantation Identification from Satellite Images Using Google Earth Engine",
+  "venue": "International Journal on Advanced Science, Engineering and Information Technology",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.insightsociety.org/ojaseit/index.php/ijaseit/article/download/2415/1463",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18517/IJASEIT.8.3.2415?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18517/IJASEIT.8.3.2415, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3364814",
+      "name": "Supattra Puttinaovarat"
+    },
+    {
+      "authorId": "3343817",
+      "name": "Paramate Horkaew"
+    }
+  ],
+  "abstract": "Oil - palm plantation is a crucial determinant for land-use planning and agricultural studies . Remote sensing techniques have elevated limitations of the on - site survey as computerized imaging is much efficient and economical. This paper presents a ubiquitous application of Gabor analysis for extracting oil - palm plantation from satellite images . The proposed system was built on the cloud-based Google Earth Engine . Herein, THEOS images were convoluted with Gabor kernels, and both K-Means and SVM then learned their responses for comparison. Experimental results showed that SVM could better identify the plantation areas with precision, recall, and accuracy of 92.98 % , 88 . 96 % , and 94 . 24 % respectively.",
+  "references": [
+    {
+      "paperId": "6906bf57ca00ec6df03e5b4c4d8127e943ccc17d"
+    },
+    {
+      "paperId": "e8c836775296a3c15e2a659a81633a203d03a627"
+    },
+    {
+      "paperId": "593883bba3dcd08cb65243df40fd5803fae28349"
+    },
+    {
+      "paperId": "53208db1830376179ab4b87ff0964afd3696b56a"
+    },
+    {
+      "paperId": "730d35269687e01b857574ebad541d233bd0df0b"
+    },
+    {
+      "paperId": "a1c36db9b1defb811f980bf410409f2fd8547608"
+    },
+    {
+      "paperId": "37d9a698c6bbdc36aaa7b38bc16aab0cb56eeb1f"
+    },
+    {
+      "paperId": "0d8f6d798b94c09ff32fdcca29aea498a71651cc"
+    },
+    {
+      "paperId": "1a4f0e5a9e6d856623c18f93383b9a9a6844acb6"
+    },
+    {
+      "paperId": "5c1b2c78ed1fd41f104ec834a92d0e23c9b84baf"
+    },
+    {
+      "paperId": "270c25cea7ba9c8068a24861764470e809731c5f"
+    },
+    {
+      "paperId": "14e9768039f85a516f0b359c66812ea9248194b4"
+    },
+    {
+      "paperId": "160a2d896bf5ea3422565477c90f98d46632cd4a"
+    },
+    {
+      "paperId": "5d4d4fc07a750b0c067e4909e23cd737b2632a1b"
+    }
+  ]
+}

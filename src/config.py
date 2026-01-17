@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 from pathlib import Path
 
-# Buscar .env en el directorio raíz del proyecto (no solo en el cwd)
+# Buscar .env en el directorio raíz del proyecto
 project_root = Path(__file__).parent.parent
 env_path = project_root / ".env"
 load_dotenv(dotenv_path=env_path)

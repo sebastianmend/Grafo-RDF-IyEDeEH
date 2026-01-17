@@ -1,0 +1,39 @@
+{
+  "paperId": "e95b069306122e24317500dc6a4a3a6f98d9a938",
+  "externalIds": {
+    "DBLP": "journals/elektrik/TurkogluH19",
+    "MAG": "2946016983",
+    "DOI": "10.3906/ELK-1809-181",
+    "CorpusId": 181837399
+  },
+  "url": "https://www.semanticscholar.org/paper/e95b069306122e24317500dc6a4a3a6f98d9a938",
+  "title": "Plant disease and pest detection using deep learning-based features",
+  "venue": "Turkish J. Electr. Eng. Comput. Sci.",
+  "year": 2019,
+  "citationCount": 215,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.3906/elk-1809-181",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3906/ELK-1809-181?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3906/ELK-1809-181, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1948182772",
+      "name": "Muammer Turkoglu"
+    },
+    {
+      "authorId": "2641969",
+      "name": "Davut Hanbay"
+    }
+  ],
+  "abstract": "The timely and accurate diagnosis of plant diseases plays an important role in preventing the loss of productivity and loss or reduced quantity of agricultural products. In order to solve such problems, methods based on machine learning can be used. In recent years, deep learning, which is especially widely used in image processing, offers many new applications related to precision agriculture. In this study, we evaluated the performance results using different approaches of nine powerful architectures of deep neural networks for plant disease detection. Transfer learning and deep feature extraction methods are used, which adapt these deep learning models to the problem at hand. The utilized pretrained deep models are considered in the presented work for feature extraction and for further fine-tuning. The obtained features using deep feature extraction are then classified by support vector machine (SVM), extreme learning machine (ELM), and K-nearest neighbor (KNN) methods. The experiments are carried out using data consisting of real disease and pest images from Turkey. The accuracy, sensitivity, specificity, and F1-score are all calculated for performance evaluation. The evaluation results show that deep feature extraction and SVM/ELM classification produced better results than transfer learning. In addition, the fc6 layers of the AlexNet, VGG16, and VGG19 models produced better accuracy scores when compared to the other layers.",
+  "references": null
+}

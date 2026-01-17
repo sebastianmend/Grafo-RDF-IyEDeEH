@@ -1,0 +1,90 @@
+{
+  "paperId": "47611592033fa661a291665544490243fa99dd34",
+  "externalIds": {
+    "MAG": "2794590039",
+    "DOI": "10.3390/D10020019",
+    "CorpusId": 73565257
+  },
+  "url": "https://www.semanticscholar.org/paper/47611592033fa661a291665544490243fa99dd34",
+  "title": "Special Issue: Plant Genetics and Biotechnology in Biodiversity",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-2818/10/2/19/pdf?version=1525345325",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/D10020019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/D10020019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "34662664",
+      "name": "G. Corrado"
+    },
+    {
+      "authorId": "144828339",
+      "name": "R. Rao"
+    }
+  ],
+  "abstract": "The rapid progress and increasing affordability of novel investigation tools in plant genetics and biotechnology offer previously inaccessible opportunities for the exploitation of plant genetic diversity in agriculture. The Special Issue was lunched to highlight how new technologies are improving both genotyping and phenotyping methods, thus allowing us to uncover crop diversity and use genetic variability for plant breeding with remarkable precision and speed. Three thematic reviews report on scientific, technological, and legal advances in plant diversity and agriculture. Three contributions provide specific examples of the exploitation of different kinds of genetic resources, ranging from landraces to mutant populations. Six research articles are illustrative examples of the study of molecular and/or phenotypic diversity to address basic or applied questions in different plant species. Finally, this SI was also launched to honor the memory of Prof. Gian Tommaso Scarascia Mugnozza and a dedicated Editorial acknowledges his work in plant breeding and biodiversity protection.",
+  "references": [
+    {
+      "paperId": "4a89136ccd2d15b8ac5fc6d03616ba24d99ab608"
+    },
+    {
+      "paperId": "11a1a47ce608a27ee5d93adfd0d760d158fb2e2e"
+    },
+    {
+      "paperId": "d18eb5cd2862ce117a903dfb35552195b37913e4"
+    },
+    {
+      "paperId": "5a8db62994fa078d733de2d733f151de124b787c"
+    },
+    {
+      "paperId": "b83006481144545dc04f8d457d58ade6b8cecf3e"
+    },
+    {
+      "paperId": "d4b48c3bb159b554f8e05c3354f16b28469a2b98"
+    },
+    {
+      "paperId": "ae889434603212e995e26ab02b83f0510217c384"
+    },
+    {
+      "paperId": "8cfdcc3053adede66affb36a13f12340fa42de7f"
+    },
+    {
+      "paperId": "4f8a058d8bd0a7deb82ec5f4af635a2f6815cfcd"
+    },
+    {
+      "paperId": "340a90f0967085b6caa67b1928a80fcfbb4ac5bd"
+    },
+    {
+      "paperId": "5a24eb85a17a0eb81b1205bd5013aa59029a8b75"
+    },
+    {
+      "paperId": "c5e5cd32d4375a24f588072b16cf23cee11d2db0"
+    },
+    {
+      "paperId": "2c3f4a4892fc2e6663376b4e77422c5fb34bfc6b"
+    },
+    {
+      "paperId": "d60f337025f67823b3549f4cf6e02048885d0761"
+    },
+    {
+      "paperId": "c2bdb3db74a55d740f56bf0cfb8925aa68ba2367"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

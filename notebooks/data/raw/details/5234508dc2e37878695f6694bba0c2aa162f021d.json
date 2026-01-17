@@ -1,0 +1,114 @@
+{
+  "paperId": "5234508dc2e37878695f6694bba0c2aa162f021d",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-1908-07047",
+    "MAG": "2969560231",
+    "ArXiv": "1908.07047",
+    "CorpusId": 201103695
+  },
+  "url": "https://www.semanticscholar.org/paper/5234508dc2e37878695f6694bba0c2aa162f021d",
+  "title": "Mobile community sensing with smallholder farmers in a developing nation; A scaled pilot for crop health monitoring",
+  "venue": "arXiv.org",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1908.07047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "50881107",
+      "name": "Daniel Mutembesa"
+    },
+    {
+      "authorId": "1955809",
+      "name": "Ernest Mwebaze"
+    },
+    {
+      "authorId": "151504436",
+      "name": "Solomon Nsumba"
+    },
+    {
+      "authorId": "7310107",
+      "name": "C. Omongo"
+    },
+    {
+      "authorId": "1389606929",
+      "name": "Humphrey Mutaasa"
+    }
+  ],
+  "abstract": "Previously, crowdsourcing experiments in surveillance of crop diseases and pest have been trialed as small scale community sensing campaigns with select cohort of smallholder farmers, extension and experts. While those pilots have demonstrated the viability of community sensing with mobile phones to collect massive amounts of real-time data all year round, to compliment low-resourced agricultural expert surveys, they are limited in generalising ideas for scaled implementations of a community sensing system with farmer communities. This work presents a case of scaled deployment of the mobile ad hoc surveillance for crowdsourcing real-time surveillance data on cassava from over 175 smallholder farmers across Uganda. This paper describes a modified mobile ad hoc surveillance ecosystem to suite smallholder farmer agents, a communication model and data collection model designed to cover the spatial interests for the scale of surveillance, a deployment plan, the training methodology and incentives structure. The paper also presents very early results of contributions from farmer agents, that could be usable in monitoring the movement of planting materials between districts, mapping cassava varieties, multiplication sites, and communities with little or no access to agricultural extension services, and possibly guide precision expert surveys in areas of high disease incidence.",
+  "references": [
+    {
+      "paperId": "f9b4ed964a81cd6662c4a6df83b97ab51be0e8f9"
+    },
+    {
+      "paperId": "eb6b1099f11a308456df8ff2769a9188462fb841"
+    },
+    {
+      "paperId": "968969944142fa34bfa57927c78c71cb5162d03b"
+    },
+    {
+      "paperId": "d8dd9debaf61c049316ef93ddafcd7a347afa71c"
+    },
+    {
+      "paperId": "14098ff362cfb4ef6985f8cd9f92e7ed1b3f959c"
+    },
+    {
+      "paperId": "77d899375144a418dea1f6a7bb9abacdb58e4c37"
+    },
+    {
+      "paperId": "74d67d2b4c6fdc9f6498ac546b9685a14a9c02ee"
+    },
+    {
+      "paperId": "6916a7308452083997ae6105f91a6f49c7ea192d"
+    },
+    {
+      "paperId": "99dc3568a9eed97868098ddadd085e501dd91cbe"
+    },
+    {
+      "paperId": "944c1c39fe581214dcc44e8008c9901d8c5d7cfe"
+    },
+    {
+      "paperId": "8f3132d839987765d40fa2948e2d0cee035fc5f4"
+    },
+    {
+      "paperId": "d153edfedadd1df29f799243f6720de7ea5f1634"
+    },
+    {
+      "paperId": "25bc4c77eaa168c7140e1098936ccd599bf34edb"
+    },
+    {
+      "paperId": "45a23651bcc5a6cc993d722e71b0d301a6dc9dee"
+    },
+    {
+      "paperId": "43789305e5d2212da05f9c16b148e84aae5614b2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f48113f05108f5774a3d1f0ae518b08f42284040"
+    },
+    {
+      "paperId": "08a2fe30e9a484e8abc639b66e750a168559bba5"
+    },
+    {
+      "paperId": "fb8fbc4b645a3f8cf303f253b46bed3caef7da3c"
+    },
+    {
+      "paperId": "a84b9a223725c5dc2260873d955269beabbd2469"
+    }
+  ]
+}

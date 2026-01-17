@@ -1,0 +1,36 @@
+{
+  "paperId": "3f44a02da82117a8c47afc93f09bd145dce72a40",
+  "externalIds": {
+    "MAG": "2887832699",
+    "CorpusId": 50777164
+  },
+  "url": "https://www.semanticscholar.org/paper/3f44a02da82117a8c47afc93f09bd145dce72a40",
+  "title": "Factors Impacting the Design of a Mobile Application for Soil Management: A Case Study of the Eastern Cape Crops",
+  "venue": "IST-Africa Week Conference",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "79993471",
+      "name": "S. Botha"
+    },
+    {
+      "authorId": "9085865",
+      "name": "Darelle van Greunen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

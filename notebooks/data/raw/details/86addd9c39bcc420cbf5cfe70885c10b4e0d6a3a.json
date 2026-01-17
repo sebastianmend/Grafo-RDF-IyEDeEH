@@ -1,0 +1,47 @@
+{
+  "paperId": "86addd9c39bcc420cbf5cfe70885c10b4e0d6a3a",
+  "externalIds": {
+    "DBLP": "conf/taros/MillardRGC19",
+    "MAG": "2957700486",
+    "DOI": "10.1007/978-3-030-25332-5_40",
+    "CorpusId": 197418453
+  },
+  "url": "https://www.semanticscholar.org/paper/86addd9c39bcc420cbf5cfe70885c10b4e0d6a3a",
+  "title": "Towards a Swarm Robotic System for Autonomous Cereal Harvesting",
+  "venue": "Towards Autonomous Robotic Systems",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://eprints.whiterose.ac.uk/145448/1/TAROS2019_089_final.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-25332-5_40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-25332-5_40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3000407",
+      "name": "Alan G. Millard"
+    },
+    {
+      "authorId": "151192409",
+      "name": "Roopika Ravikanna"
+    },
+    {
+      "authorId": "6586246",
+      "name": "R. Groß"
+    },
+    {
+      "authorId": "2036303",
+      "name": "D. Chesmore"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,189 @@
+{
+  "paperId": "77038e36e5c503bb191b9cfce7cc20c3f11e3d74",
+  "externalIds": {
+    "MAG": "2803704803",
+    "DBLP": "journals/corr/abs-1805-08946",
+    "ArXiv": "1805.08946",
+    "DOI": "10.1109/JSTARS.2018.2835377",
+    "CorpusId": 43919692
+  },
+  "url": "https://www.semanticscholar.org/paper/77038e36e5c503bb191b9cfce7cc20c3f11e3d74",
+  "title": "Building Extraction at Scale Using Convolutional Neural Network: Mapping of the United States",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2018,
+  "citationCount": 183,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "http://arxiv.org/pdf/1805.08946",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.08946, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109429957",
+      "name": "Hsiuhan Lexie Yang"
+    },
+    {
+      "authorId": "40369622",
+      "name": "Jiangye Yuan"
+    },
+    {
+      "authorId": "2190549",
+      "name": "D. Lunga"
+    },
+    {
+      "authorId": "51224901",
+      "name": "M. Laverdiere"
+    },
+    {
+      "authorId": "32289074",
+      "name": "A. Rose"
+    },
+    {
+      "authorId": "2474060",
+      "name": "B. Bhaduri"
+    }
+  ],
+  "abstract": "Establishing up-to-date large scale building maps is essential to understand the urban dynamics, such as estimating population, urban planning, and many other applications. Although many computer vision tasks have been successfully carried out with deep convolutional neural networks, there is a growing need to understand their large scale impact on building mapping with remote sensing imagery. Taking advantage of the scalability of convolutional neural networks (CNNs) and using only few areas with the abundance of building footprints, for the first time we conduct a comparative analysis of four state-of-the-art CNNs for extracting building footprints across the entire continental United States. The four CNN architectures namely: Branch-out CNN, fully convolutional network (FCN), conditional random field as recurrent neural network (CRFasRNN), and SegNet, support semantic pixelwise labeling and focus on capturing textural information at multiscale. We use 1-meter resolution aerial images from National Agriculture Imagery Program as the test-bed, and compare the extraction results across the four methods. In addition, we propose to combine signed-distance labels with SegNet, the preferred CNN architecture identified by our extensive evaluations, to advance building extraction results to instance level. We further demonstrate the usefulness of fusing additional near IR information into the building extraction framework. Large scale experimental evaluations are conducted and reported using metrics that include: Precision, recall rate, intersection over union, and the number of buildings extracted. With the improved CNN model and no requirement of further postprocessing, we have generated building maps for the United States with an average processing time less than one minute for an area of size  $\\sim {\\text{56}}$  $\\text{km}^2$. The quality of extracted buildings and processing time demonstrated that the proposed CNN based framework fits the need of building extraction at scale.",
+  "references": [
+    {
+      "paperId": "937b269a73545cd4d84177865212b2b611af8c2c"
+    },
+    {
+      "paperId": "99d88e01ecad58e2fd4da58f097407d22b5c4a53"
+    },
+    {
+      "paperId": "194a01e5b3ca11130b7dc30cf1318ed060eb206e"
+    },
+    {
+      "paperId": "8607c1a6669f26c6a2b517603eeb7897160335ca"
+    },
+    {
+      "paperId": "d8097b6f11e1b99c6ab0fcde2fa759fae00cd681"
+    },
+    {
+      "paperId": "313eb4364283dc25a9454eee5ea038c61caedd59"
+    },
+    {
+      "paperId": "c020809d0d7fa65358a053d102382c70902a7bb7"
+    },
+    {
+      "paperId": "ef500cd3c401cd0632656c9fddccb1655c6659f9"
+    },
+    {
+      "paperId": "6755b01e14b2e7ee39aef0b6bf573769a39eabfe"
+    },
+    {
+      "paperId": "5ee0b4b878da0611952f227d718922f4e4f97352"
+    },
+    {
+      "paperId": "976607cb623e9502fdcf30a67b34a1639bbc143b"
+    },
+    {
+      "paperId": "036f6ef27d7167d83bc57766dd7fc3e667a09c9e"
+    },
+    {
+      "paperId": "83ef7de2669bb2827208fd3a64ac910e276fbdb4"
+    },
+    {
+      "paperId": "ccdc50de7a0602d3df5ed9bd9782565bbff2a8eb"
+    },
+    {
+      "paperId": "83942b3853af599e6e4fc1abfc3f2a95a1129d1f"
+    },
+    {
+      "paperId": "8388f1be26329fa45e5807e968a641ce170ea078"
+    },
+    {
+      "paperId": "b0c065cd43aa7280e766b5dcbcc7e26abce59330"
+    },
+    {
+      "paperId": "4f9b916ae1c38b991f39b6ebd6e0a92f88ece698"
+    },
+    {
+      "paperId": "aeb05dea0e1c203437f30f0ac84d4e026889e0b1"
+    },
+    {
+      "paperId": "8da55e685a7bef9c897788ab519a8710c695c419"
+    },
+    {
+      "paperId": "8ef763cb4f13f8dc9d4376b5ad8f377331e8572d"
+    },
+    {
+      "paperId": "161fcf9ec61fc02660879a6d1a4834581dca9f54"
+    },
+    {
+      "paperId": "ca5c766b2d31a1f5ce8896a0a42b40a2bff9323a"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0"
+    },
+    {
+      "paperId": "081651b38ff7533550a3adfc1c00da333a8fe86c"
+    },
+    {
+      "paperId": "969f6c7dfa20da0d6e5432056e5dcbef3c889928"
+    },
+    {
+      "paperId": "e15cf50aa89fee8535703b9f9512fca5bfc43327"
+    },
+    {
+      "paperId": "f7ef3e21f66b28ffa83510b234880f80535ebdce"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "6d4c9c923e9f145d1c01a2de2afc38ec23c44253"
+    },
+    {
+      "paperId": "c08f5fa876181fc040d76c75fe2433eee3c9b001"
+    },
+    {
+      "paperId": "7995538060cb19d121ab2473c00e688436d67c18"
+    },
+    {
+      "paperId": "7d1e9bd95b07a0faec777e715f46ce95906d63d7"
+    },
+    {
+      "paperId": "c525dd154edf7c99983894db7db55e0936a65195"
+    },
+    {
+      "paperId": "3cd54e96c90c03f7538338a693d976006663e2e1"
+    },
+    {
+      "paperId": "ccf415df5a83b343dae261286d29a40e8b80e6c6"
+    },
+    {
+      "paperId": "c62043a7d2537bbf40a84b9913957452a47fdb83"
+    },
+    {
+      "paperId": "acd13b907c9acf16c6bf7c0a1cff0d7f2402c669"
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": "5497ca35680b8d46f4f7f95fc39626392b79f4a5"
+    },
+    {
+      "paperId": "6eabf6e67c29778265bc9fef3b58b2756c739c83"
+    },
+    {
+      "paperId": "0d040308f3c812fefe00f2be32859b0cee23f2d7"
+    },
+    {
+      "paperId": "314a025e7b9034fa98c81e016e169b270943823d"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    }
+  ]
+}

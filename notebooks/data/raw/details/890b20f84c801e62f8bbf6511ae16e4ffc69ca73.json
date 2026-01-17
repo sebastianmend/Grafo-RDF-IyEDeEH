@@ -1,0 +1,42 @@
+{
+  "paperId": "890b20f84c801e62f8bbf6511ae16e4ffc69ca73",
+  "externalIds": {
+    "MAG": "2974294544",
+    "DOI": "10.1109/ELTECH.2019.8839480",
+    "CorpusId": 202700810
+  },
+  "url": "https://www.semanticscholar.org/paper/890b20f84c801e62f8bbf6511ae16e4ffc69ca73",
+  "title": "The Design and Implementation of Smart Agricultural Management Platform Based on UAV and Wireless Sensor Network",
+  "venue": "International Conference on Emerging Technologies",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ELTECH.2019.8839480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ELTECH.2019.8839480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1384501548",
+      "name": "Anqi Rao"
+    },
+    {
+      "authorId": "34648463",
+      "name": "Hanqin Shao"
+    },
+    {
+      "authorId": "152379310",
+      "name": "Xiaotong Yang"
+    }
+  ],
+  "abstract": "Traditional agricultural monitoring systems generally use static sinks to collect data that are often accompanied with some problems such as high construction costs, low precision, poor maintainability and so on. In this paper, we design and implement a smart agricultural management platform that can be divided into three layers: perception layer, network layer and application layer. In perception layer, a large number of ZigBee sensor nodes (SNs) are deployed to build ZigBee networks. In network layer, a mobile sink (MS) that consists of a gateway carried by an unmanned aerial vehicle (UAV) is used to gather data from the perception layer and send it to application layer. Besides, we deploy a full-featured web application in application layer to provide various kinds of services for users. The advice module of the web application is designed to provide users with countermeasures that ensure humidity and temperature are within the ideal range for plant growth. The experimental results show that an MS can gather data from a large number of lands in a short time, with excellent scalability and stable operability. These advantages allow the platform to apply very well to certain areas of particular terrain and it also alleviate the “energy hole” problem in the wireless sensor networks that use static sinks.",
+  "references": null
+}

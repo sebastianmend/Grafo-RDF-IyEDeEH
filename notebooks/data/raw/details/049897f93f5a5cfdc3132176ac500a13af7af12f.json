@@ -1,0 +1,53 @@
+{
+  "paperId": "049897f93f5a5cfdc3132176ac500a13af7af12f",
+  "externalIds": {
+    "DBLP": "conf/ahs/Brubeck-Hernandez19",
+    "MAG": "2968310857",
+    "DOI": "10.1109/AHS.2019.00006",
+    "CorpusId": 199540963
+  },
+  "url": "https://www.semanticscholar.org/paper/049897f93f5a5cfdc3132176ac500a13af7af12f",
+  "title": "Zone Management in Precision Agriculture Using Satellite Imagery",
+  "venue": "NASA/ESA Conference on Adaptive Hardware and Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AHS.2019.00006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AHS.2019.00006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1415388733",
+      "name": "Felipe Brubeck-Hernandez"
+    },
+    {
+      "authorId": "145501243",
+      "name": "T. Vladimirova"
+    },
+    {
+      "authorId": "1415388406",
+      "name": "M. Pooley"
+    },
+    {
+      "authorId": "2115704758",
+      "name": "Robin Thompson"
+    },
+    {
+      "authorId": "2065661325",
+      "name": "B. Knight"
+    }
+  ],
+  "abstract": "This paper presents a novel approach to biomass variability assessment within a crop field, and to zone management in Precision Agriculture. The k-means clustering and the fuzzy c-means clustering algorithms are used to create homogeneous management zones in a crop field based on within-field biomass variation, acquired from multispectral data and processed using a vegetation index. To test the accuracy of the delineation of management zones, the segmented maps are compared against an application plan based on approved agricultural models and expert knowledge used as a reference. It is shown that the k-means clustering algorithm is a viable approach to highlighting biomass variability and defining management zones. The proposed zoning functionality is aimed to be added as an extra module to an existing Fertiliser Assessment tool in a plug-and-play principle to enhance its functionality.",
+  "references": null
+}

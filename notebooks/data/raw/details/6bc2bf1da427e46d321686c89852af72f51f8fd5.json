@@ -1,0 +1,49 @@
+{
+  "paperId": "6bc2bf1da427e46d321686c89852af72f51f8fd5",
+  "externalIds": {
+    "MAG": "2829539914",
+    "DBLP": "conf/siu/YuzugulluESH18",
+    "DOI": "10.1109/SIU.2018.8404582",
+    "CorpusId": 49657492
+  },
+  "url": "https://www.semanticscholar.org/paper/6bc2bf1da427e46d321686c89852af72f51f8fd5",
+  "title": "Determination of rice plant morphology by stochastic optimization using X-band polsar data",
+  "venue": "Signal Processing and Communications Applications Conference",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SIU.2018.8404582?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SIU.2018.8404582, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2949461",
+      "name": "O. Yuzugullu"
+    },
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "153836758",
+      "name": "Z. M. Sahin"
+    },
+    {
+      "authorId": "3320229",
+      "name": "I. Hajnsek"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

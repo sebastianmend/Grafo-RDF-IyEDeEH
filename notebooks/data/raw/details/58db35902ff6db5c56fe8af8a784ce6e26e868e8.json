@@ -1,0 +1,56 @@
+{
+  "paperId": "58db35902ff6db5c56fe8af8a784ce6e26e868e8",
+  "externalIds": {
+    "MAG": "2946137108",
+    "DBLP": "conf/wisnet/PalazziGVAMR19",
+    "DOI": "10.1109/WISNET.2019.8711808",
+    "CorpusId": 155108918
+  },
+  "url": "https://www.semanticscholar.org/paper/58db35902ff6db5c56fe8af8a784ce6e26e868e8",
+  "title": "Leaf-Compatible Autonomous RFID-Based Wireless Temperature Sensors for Precision Agriculture",
+  "venue": "Topical Conference on Wireless Sensors and Sensor Networks",
+  "year": 2019,
+  "citationCount": 35,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WISNET.2019.8711808?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WISNET.2019.8711808, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "8885851",
+      "name": "V. Palazzi"
+    },
+    {
+      "authorId": "123210223",
+      "name": "F. Gelati"
+    },
+    {
+      "authorId": "122451205",
+      "name": "U. Vaglioni"
+    },
+    {
+      "authorId": "3192243",
+      "name": "F. Alimenti"
+    },
+    {
+      "authorId": "3223031",
+      "name": "P. Mezzanotte"
+    },
+    {
+      "authorId": "2124830",
+      "name": "L. Roselli"
+    }
+  ],
+  "abstract": "This work presents an RFID-based autonomous leaf-compatible temperature sensing system for precision agriculture. The wireless transponders are based on the EM4325 chip by EM Microelectronic, which features an integrated temperature sensor. The chip is made to operate in semi-active mode and the required energy is supplied by a flexible commercial solar cell. The antenna is manufactured on a PLA substrate by adopting the adhesive copper tape technology and the layout is optimized to obtain a compact transponder, suitable for being applied to leaves. A field test demonstrates that the sensors can be successfully deployed to monitor leaf temperature and, through the analysis of the leaf-to-air temperature differential, they can be used to check the water stress status of crops.",
+  "references": null
+}

@@ -1,0 +1,297 @@
+{
+  "paperId": "27efc22b4ab3c7e87ed1b820cd028d6805bc2706",
+  "externalIds": {
+    "MAG": "2945405950",
+    "PubMedCentral": "6572486",
+    "DOI": "10.3390/ijerph16101744",
+    "CorpusId": 160012933,
+    "PubMed": "31108838"
+  },
+  "url": "https://www.semanticscholar.org/paper/27efc22b4ab3c7e87ed1b820cd028d6805bc2706",
+  "title": "Path Loss Determination Using Linear and Cubic Regression Inside a Classic Tomato Greenhouse",
+  "venue": "International Journal of Environmental Research and Public Health",
+  "year": 2019,
+  "citationCount": 36,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1660-4601/16/10/1744/pdf?version=1558065772",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6572486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1429731687",
+      "name": "Dora Cama-Pinto"
+    },
+    {
+      "authorId": "144399500",
+      "name": "M. Damas"
+    },
+    {
+      "authorId": "1403179720",
+      "name": "J. A. Holgado-Terriza"
+    },
+    {
+      "authorId": "2075968317",
+      "name": "Francisco Gómez-Mula"
+    },
+    {
+      "authorId": "1397585224",
+      "name": "Alejandro Cama-Pinto"
+    }
+  ],
+  "abstract": "The production of tomatoes in greenhouses, in addition to its relevance in nutrition and health, is an activity of the agroindustry with high economic importance in Spain, the first exporter in Europe of this vegetable. The technological updating with precision agriculture, implemented in order to ensure adequate production, leads to a deployment planning of wireless sensors with limited coverage by the attenuation of radio waves in the presence of vegetation. The well-known propagation models FSPL (Free-Space Path Loss), two-ray, COST235, Weissberger, ITU-R (International Telecommunications Union—Radiocommunication Sector), FITU-R (Fitted ITU-R), offer values with an error percentage higher than 30% in the 2.4 GHz band in relation to those measured in field tests. As a substantial improvement, we have developed optimized propagation models, with an error estimate of less than 9% in the worst-case scenario for the later benefit of farmers, consumers and the economic chain in the production of tomatoes.",
+  "references": [
+    {
+      "paperId": "4715a7daaf37aef053371401a48f7ca87ef1bb18"
+    },
+    {
+      "paperId": "7a7c590a359ae539c67346e00a337c2b6e5edd05"
+    },
+    {
+      "paperId": "77f2af2c2fd2ff1315aeee4c229617bbbfbc5206"
+    },
+    {
+      "paperId": "f1ac11eeb72bd221bc3214be4b02b1c6675e628a"
+    },
+    {
+      "paperId": "c7d243d0d1efee259ce533fd394d3d53e27e8c8a"
+    },
+    {
+      "paperId": "56a096fbead548ff3a838bfe5b9956eca5bd4f7c"
+    },
+    {
+      "paperId": "b1cfd58c2017a91a85bc712c84dededdd301fd0a"
+    },
+    {
+      "paperId": "3346946fe104dfb4bae166bee0b6847175e4ee9b"
+    },
+    {
+      "paperId": "a5dad581ab6eb6134046c6cc3bd750823027350d"
+    },
+    {
+      "paperId": "807cba271c8d147c4179dbde3a6f050765ad44f7"
+    },
+    {
+      "paperId": "f0fe4bf92383b759ab12b35321aec5d8d52f44ba"
+    },
+    {
+      "paperId": "97ab7d9533b8a9bb8bb460366224116f7adc8aae"
+    },
+    {
+      "paperId": "94f7274884cbb455fde92f26c4dce8c4c2832f66"
+    },
+    {
+      "paperId": "d34c3f6fac1487b723a8b8a8779242659fc3d056"
+    },
+    {
+      "paperId": "77e6a73a0f3e4cddecb1554de94bfe1d9a3c9cf4"
+    },
+    {
+      "paperId": "4434447c62532cafc1bf9fb607454ed30fdfa4a4"
+    },
+    {
+      "paperId": "7d4433c252e2f136391aaa12d09ba24ba3089f90"
+    },
+    {
+      "paperId": "ac70677a21cee42490638502d9e6b8f220b41268"
+    },
+    {
+      "paperId": "15604a377253a7f0461858af96b8837447837115"
+    },
+    {
+      "paperId": "abbb64d02da6ccb84a276a6e47dad933df32dbea"
+    },
+    {
+      "paperId": "6cdc7deda3b547208c45e2a538eb6c937128c4f8"
+    },
+    {
+      "paperId": "546bd6b4b0ece57a003471033167a89052cc7bb7"
+    },
+    {
+      "paperId": "8a0c6b88f4387ee05101e743923914bb8504f44e"
+    },
+    {
+      "paperId": "baef41e2062a141a738e2d0b61083634c7905a12"
+    },
+    {
+      "paperId": "bd96de42de481dc7954f6b7673bab38e8737781d"
+    },
+    {
+      "paperId": "1dbf25367633264b68309baea58dc81316f065c2"
+    },
+    {
+      "paperId": "11ba7d48b74237aecc7c91b525cfd9f9186f7669"
+    },
+    {
+      "paperId": "832d0e1d8f9609a0c1cb4b14b194e34c557c14d0"
+    },
+    {
+      "paperId": "45747433891f8553877d496648a0c52e0dfc11a6"
+    },
+    {
+      "paperId": "aece79ff552c47c1bd1535e7b7b7bac1ba0ca969"
+    },
+    {
+      "paperId": "fcbd2286f5ae7f277bc4a361d5ae6a751c7a744e"
+    },
+    {
+      "paperId": "03ac748d09bf3c37e67935c434ced867699ed53f"
+    },
+    {
+      "paperId": "1835c79a63ae0cab195eed962903f1ac22772e74"
+    },
+    {
+      "paperId": "1260bb2f2751b7ebb76039378690abaef07bbbbb"
+    },
+    {
+      "paperId": "8adbe92ca199e2e5e5ad83cf785a0feb698c4298"
+    },
+    {
+      "paperId": "3579dc080fbbd24ba6ec3f4a4349cdcd5bab82b0"
+    },
+    {
+      "paperId": "a7a37b3137e43d1818568d6e162c0adb5a719a31"
+    },
+    {
+      "paperId": "a48d2532e6310316ea8b65791d1cd4447a89d447"
+    },
+    {
+      "paperId": "ba3fe711523ac8c4f09403a9cd455738030a1e28"
+    },
+    {
+      "paperId": "459efcbbddd777bf600595dcd0403f4310e7abcb"
+    },
+    {
+      "paperId": "eb72348e935914d78d98b935ac47eaa7733e1051"
+    },
+    {
+      "paperId": "2cafd0d4ca49d9a69c460fceea3bcfca6d5dbe66"
+    },
+    {
+      "paperId": "0e50916c478f8f06e7c2ff106e3b159dd667ed53"
+    },
+    {
+      "paperId": "aeca0c25083e2b58ce2784994fa6482e36aa2d8f"
+    },
+    {
+      "paperId": "7a1f425fe2d6c0f1a6a90c05c5622ab718fd1645"
+    },
+    {
+      "paperId": "2028ab70ac268871928704ff66aec344b1fbbd9e"
+    },
+    {
+      "paperId": "7277f8928efda66cc5bbfeb620f5edc3581eaa11"
+    },
+    {
+      "paperId": "7247cdff20e55c14c00bdd6079b28054bded5aad"
+    },
+    {
+      "paperId": "d3499bbeb0e13a08da71bc3c5a3c280489d0066d"
+    },
+    {
+      "paperId": "edf81c4030f45f464efffb0dc15a7b06074d001b"
+    },
+    {
+      "paperId": "9668bb8f59e622e4fbb177964e3fb34a398c6242"
+    },
+    {
+      "paperId": "02b7004b9c794ffad83ecce2bab751620283d255"
+    },
+    {
+      "paperId": "3f246be56c8dbf6d2aaa496ce2f22e0256580e46"
+    },
+    {
+      "paperId": "d1d0eebd97d98f15f20a1dd16fc41015dd469ca1"
+    },
+    {
+      "paperId": "897b93e8620c9731b0b268b1ec0a294fc43914c8"
+    },
+    {
+      "paperId": "e804526f5367f49fcb48e14e5f61e52c00639281"
+    },
+    {
+      "paperId": "0e8273f6a0b4fc99ef1ed9795ce0095f49f79cfd"
+    },
+    {
+      "paperId": "bd08f27fdfa1b491ad7cba5e7ad91a626d43ce20"
+    },
+    {
+      "paperId": "cc6773d579e905f413020d57e4d08da494951464"
+    },
+    {
+      "paperId": "9087537e8472c245e1993b0e598e0282f4928499"
+    },
+    {
+      "paperId": "a4c4243445999835478c0177c2b7f96055a46731"
+    },
+    {
+      "paperId": "e3465de8b10e06d3a80ddd72b53672976c78242d"
+    },
+    {
+      "paperId": "349fe3f1d9b1d32d0b23bbb35a06a420d96de837"
+    },
+    {
+      "paperId": "0a59582fe6fe253f82cc60c0ef2b056edf6384c8"
+    },
+    {
+      "paperId": "60e0d3af319cce4331ca17e27484c34e5be92451"
+    },
+    {
+      "paperId": "186b0549b0f77cbbf0cf8da6f90d577b181b896b"
+    },
+    {
+      "paperId": "48a9997cd9a838aaed5bfb94b8237d1e7c6c7546"
+    },
+    {
+      "paperId": "d8ec88646e4324f859a3fff2d50dd150f4c2aeab"
+    },
+    {
+      "paperId": "269ddee28f11e3387d60b7f0b4b64fd1c26719c5"
+    },
+    {
+      "paperId": "66fb8dacdd365cceabc4cec2f228f7879b1aab54"
+    },
+    {
+      "paperId": "a3dd77a7e3df49accce76fe25f8c2268f332bd05"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d093b2581ccea934e280417ee7e5f33d646d7203"
+    },
+    {
+      "paperId": "fd91a30041b812ffc2ed7406670e983f56ec5894"
+    },
+    {
+      "paperId": "9a2f075a6b7146f8ad6c3ad17cf04c3a6f587f5b"
+    },
+    {
+      "paperId": "bbca0cdbf9341e7b867c343b6b5b9c765dd99286"
+    },
+    {
+      "paperId": "d0f466edf43efd0a7daa02674c34e8981afcb198"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

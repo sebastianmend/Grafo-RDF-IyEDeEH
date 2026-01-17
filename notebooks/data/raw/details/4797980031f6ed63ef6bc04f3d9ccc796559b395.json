@@ -1,0 +1,50 @@
+{
+  "paperId": "4797980031f6ed63ef6bc04f3d9ccc796559b395",
+  "externalIds": {
+    "MAG": "2803688966",
+    "DOI": "10.1007/s11119-018-9582-5",
+    "CorpusId": 46964529
+  },
+  "url": "https://www.semanticscholar.org/paper/4797980031f6ed63ef6bc04f3d9ccc796559b395",
+  "title": "Integration of hydrogeophysical datasets and empirical orthogonal functions for improved irrigation water management",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 35,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1557&context=biosysengfacpub",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9582-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9582-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46192905",
+      "name": "C. Finkenbiner"
+    },
+    {
+      "authorId": "79615655",
+      "name": "T. Franz"
+    },
+    {
+      "authorId": "145239836",
+      "name": "Justin Gibson"
+    },
+    {
+      "authorId": "4680655",
+      "name": "D. Heeren"
+    },
+    {
+      "authorId": "32154996",
+      "name": "J. Luck"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

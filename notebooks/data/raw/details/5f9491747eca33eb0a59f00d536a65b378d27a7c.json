@@ -1,0 +1,171 @@
+{
+  "paperId": "5f9491747eca33eb0a59f00d536a65b378d27a7c",
+  "externalIds": {
+    "PubMedCentral": "6330294",
+    "MAG": "2903707524",
+    "DOI": "10.3389/fpls.2018.01933",
+    "CorpusId": 57572699,
+    "PubMed": "30666264"
+  },
+  "url": "https://www.semanticscholar.org/paper/5f9491747eca33eb0a59f00d536a65b378d27a7c",
+  "title": "Plant Phenotyping Research Trends, a Science Mapping Approach",
+  "venue": "Frontiers in Plant Science",
+  "year": 2019,
+  "citationCount": 138,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2018.01933/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6330294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Geography"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2098502",
+      "name": "C. Costa"
+    },
+    {
+      "authorId": "1954964",
+      "name": "U. Schurr"
+    },
+    {
+      "authorId": "2026088",
+      "name": "F. Loreto"
+    },
+    {
+      "authorId": "3363929",
+      "name": "P. Menesatti"
+    },
+    {
+      "authorId": "2444772",
+      "name": "S. Carpentier"
+    }
+  ],
+  "abstract": "Modern plant phenotyping, often using non-invasive technologies and digital technologies, is an emerging science and provides essential information on how genetics, epigenetics, environmental pressures, and crop management (farming) can guide selection toward productive plants suitable for their environment. Thus, phenotyping is at the forefront of future plant breeding. Bibliometric science mapping is a quantitative method that analyzes scientific publications throughout the terms present in their title, abstract, and keywords. The aim of this mapping exercise is to observe trends and identify research opportunities. This allows us to analyze the evolution of phenotyping research and to predict emerging topics of this discipline. A total of 1,827 scientific publications fitted our search method over the last 20 years. During the period 1997–2006, the total number of publications was only around 6.1%. The number of publications increased more steeply after 2010, boosted by the overcoming of technological bias and by a set of key developments at hard and software level (image analysis and data storage management, automation and robotics). Cluster analysis evidenced three main groups linked to genetics, physiology, and imaging. Mainly the model plant “Arabidopsis thaliana” and the crops “rice” and “triticum” species were investigated in the literature. The last two species were studied when addressing “plant breeding,” and “genomic selection.” However, currently the trend goes toward a higher diversity of phenotyped crops and research in the field. The application of plant phenotyping in the field is still under rapid development and this application has strong linkages with precision agriculture. EU co-authors were involved in 41.8% of the analyzed papers, followed by USA (15.4%), Australia (6.0%), and India (5.6%). Within the EU, coauthors were mainly affiliated in Germany (35.8%), France (23.7%), and United Kingdom (18.4%). Time seems right for new opportunities to incentivize research on more crops, in real field conditions, and to spread knowledge toward more countries, including emerging economies. Science mapping offers the possibility to get insights into a wide amount of bibliographic information, making them more manageable, attractive, and easy to serve science policy makers, stakeholders, and research managers.",
+  "references": [
+    {
+      "paperId": "0e495044628827abf46907cc5d1c48d34c09c66f"
+    },
+    {
+      "paperId": "a619e6e1cc30358f5dbcfe2c3c425f54512b2437"
+    },
+    {
+      "paperId": "ecf6f4bf2640288f0e554a87d314a830d7db830d"
+    },
+    {
+      "paperId": "ce89fd34661d609e49fee0a5dcc518569891634c"
+    },
+    {
+      "paperId": "d4ef9c54ec34e73edd08a4d483a62a23a48fa414"
+    },
+    {
+      "paperId": "a059418ba24f3038f9e2d62c87a7e7a3db548a9c"
+    },
+    {
+      "paperId": "a0aaedd253249059252937b53d98b2c958a7ac3c"
+    },
+    {
+      "paperId": "cc26e1b37fc8f482ca3da25b74919d2660ec6f94"
+    },
+    {
+      "paperId": "a5edb0f0dd23c7bd8ce6007202fc032c816cfa5f"
+    },
+    {
+      "paperId": "589c3bc81af17918b5145ad042d189b19b83502d"
+    },
+    {
+      "paperId": "daa6b5a5d3f03a884b0c60216f9e36e25586b69b"
+    },
+    {
+      "paperId": "dd5282b7736411bc88ae9d5f81c30bc7d8ddc158"
+    },
+    {
+      "paperId": "d304b4120f41a0ce1e41aef7cef42582bc1ccda0"
+    },
+    {
+      "paperId": "9e6e9e3b64022c0fef14fb297ec829e1e3998dc0"
+    },
+    {
+      "paperId": "0057bd76b2c1a210d6ce8802df8e7b5fad8823b7"
+    },
+    {
+      "paperId": "7bb37e47c8fbfb27260ac6730803cc3a909088c1"
+    },
+    {
+      "paperId": "eebd8c9e1dce3656de1d6a2c92fa26d82087447e"
+    },
+    {
+      "paperId": "a3861ddd4d6ebe559a6965439205e792fb002dd4"
+    },
+    {
+      "paperId": "5fcfcd0127bb83285aa0cc4e3337ee171db99687"
+    },
+    {
+      "paperId": "2de59af2cea2690cb02ccaaaa446fda77017b6ea"
+    },
+    {
+      "paperId": "4cc88668b7419aebafd0076051ce96acce5f2d9c"
+    },
+    {
+      "paperId": "475b0c8ad1a7f6e9e9e12cacbff585654a07caec"
+    },
+    {
+      "paperId": "7e1e283c4371d890815d2fac6ecf0c6e6dc8cabf"
+    },
+    {
+      "paperId": "35ae0fed98f86464db10e0f1fccf92d9842024cb"
+    },
+    {
+      "paperId": "edea882e8294537c76e16339ce32c2dd96753025"
+    },
+    {
+      "paperId": "1adda5f3fff294c6e2352912af3535b761786937"
+    },
+    {
+      "paperId": "28bb1af75b9a8cd50a4ceec31e37e3f9e9af612d"
+    },
+    {
+      "paperId": "25ab1b263d840a8c3b7bfac11f50e63824ffc360"
+    },
+    {
+      "paperId": "3a920c40f0e9b82aa998fbcbde59d75721aaa727"
+    },
+    {
+      "paperId": "a5cf0b0d52696094dc324eb0e98b84d29ca7e21a"
+    },
+    {
+      "paperId": "2d247cd5d0790b3d1fc9c2c36822d0a2f3b49950"
+    },
+    {
+      "paperId": "afd5014cfb7653a0bb004a2075077c4241c0689b"
+    },
+    {
+      "paperId": "702b7ed24a6d0ae85c3e9660dbb15367b87a2650"
+    },
+    {
+      "paperId": "979633c162662f00a01e8bb75ef8636935fb1324"
+    },
+    {
+      "paperId": "0be426317b9001813ece55e91c77281e9bd48205"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

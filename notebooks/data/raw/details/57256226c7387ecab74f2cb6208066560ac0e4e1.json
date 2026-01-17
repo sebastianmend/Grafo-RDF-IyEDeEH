@@ -1,0 +1,141 @@
+{
+  "paperId": "57256226c7387ecab74f2cb6208066560ac0e4e1",
+  "externalIds": {
+    "MAG": "2969705216",
+    "DOI": "10.26483/IJARCS.V10I4.6441",
+    "CorpusId": 201877345
+  },
+  "url": "https://www.semanticscholar.org/paper/57256226c7387ecab74f2cb6208066560ac0e4e1",
+  "title": "AN ANALYSIS OF VARIOUS FUNCTION IN WIRELESS SENSOR NETWORK APPLIED IN PRECISION AGRICULTURE",
+  "venue": "International Journal of Advanced Research in Computer Science",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.26483/ijarcs.v10i4.6441",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26483/IJARCS.V10I4.6441?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26483/IJARCS.V10I4.6441, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "91007933",
+      "name": "Arindam Roy"
+    },
+    {
+      "authorId": "97268141",
+      "name": "A. Jana"
+    }
+  ],
+  "abstract": "Precision Agriculture is the idea of instantaneous observation of environmental and field parameters like soil moisture, humidity, temperature, soil PH etc. and transfer of the values of those parameters to the remote central server, which on the basis of these values, takes appropriate action to control the use of different resources like pesticides, water, fertilizer etc. in an optimized way in order to maximize the crop yield in terms of both quality and quantity. In Precision Agriculture, the farmers monitor and analyze the values of the field parameters in real time by using the Wireless Sensor Network (WSN) technology with the help of a varied range of sensors. This information further helps in making the exact judgment for controlling the resource allocation. This survey paper explores different existing methods, communication technologies and protocols related to sensor based data collection, monitoring and control system. It also reviews the application of WSN in Precision Agriculture environment and successfully points out the future scope of the work in this domain.",
+  "references": [
+    {
+      "paperId": "77e90ca32477d993a0dc6f96c8c8925b49d7aa3d"
+    },
+    {
+      "paperId": "ff241aa40f5aa270abb6ac5bc101120d18147473"
+    },
+    {
+      "paperId": "9631181da28866cce98d6c609a8fe9d7e957c9f1"
+    },
+    {
+      "paperId": "fe5a8f57d0911f9026b6cc2479006cf0f369df27"
+    },
+    {
+      "paperId": "e0027d4a2bf44d2fa448066d0be7d371399e2da6"
+    },
+    {
+      "paperId": "40802cc758de00a9815fb23ddef4c43c1338a031"
+    },
+    {
+      "paperId": "ff8f5368f37b7f6e305b19f6da23e8dfd19b83ec"
+    },
+    {
+      "paperId": "c73935a71f05c4c82152189fde40815bb6d9e1b5"
+    },
+    {
+      "paperId": "5507fcd3cb0de23a0881a74d58d45fad5aa68715"
+    },
+    {
+      "paperId": "f266647cb4680685ddeb2620b4285e1937606779"
+    },
+    {
+      "paperId": "7ed31a09bb5d3507b8b515afb25b26d4d949426f"
+    },
+    {
+      "paperId": "ee94c32bb669d7dd8280b7f405b638ef53431c82"
+    },
+    {
+      "paperId": "07764ad033addea96b2dc0629b47dc2b4c5ba15c"
+    },
+    {
+      "paperId": "2accceeb495a1fbd71c024d69fddc6691857b444"
+    },
+    {
+      "paperId": "20437dff3576f8d9d4d2115e2ff073213006833b"
+    },
+    {
+      "paperId": "8fbbd977d7b5b95ed03a098e605a5d4233edef0d"
+    },
+    {
+      "paperId": "96fa94382601198455ef403ac431de19fa155278"
+    },
+    {
+      "paperId": "30db71579aa4ae9646643479e4ff4aa48b1b5d66"
+    },
+    {
+      "paperId": "c979ff6d6efc27368ad2bd4154cbd2c7452ec86b"
+    },
+    {
+      "paperId": "13974c88a0c4d055f78897bdbbf9cc54f89ea046"
+    },
+    {
+      "paperId": "e85b85c5e2d43b68f34a8541e37706fd26fec222"
+    },
+    {
+      "paperId": "701592f30e9fe41158a07ba09236d316bb392ddd"
+    },
+    {
+      "paperId": "8075c73fd8b13fa9663230a383f5712bf210ebcf"
+    },
+    {
+      "paperId": "856958549a2badd18ee507d4c31eba2e400db4ef"
+    },
+    {
+      "paperId": "409529abb182a906b6e6a62c174879c573bc0311"
+    },
+    {
+      "paperId": "db66fc19fc0560e62e362b18094de6caf867e491"
+    },
+    {
+      "paperId": "b52dc53b2067e788dbd68da709367bace47ebd9f"
+    },
+    {
+      "paperId": "76fd4a48bb91b4723f4cf5b37cf9d3a6080b6ea2"
+    },
+    {
+      "paperId": "bb7da53c0cc951202f4d3da550eb38fc13e51e1d"
+    },
+    {
+      "paperId": "86d3cca38bf18a4cbccf08b9bc58ba27f98e8649"
+    },
+    {
+      "paperId": "63d32d837225a56b8acfa8f66999aecdc1a038fb"
+    },
+    {
+      "paperId": "97644de3e1986fb3d4a447d9c7e3d0f648785b2f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

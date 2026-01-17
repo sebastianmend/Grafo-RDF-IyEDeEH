@@ -1,0 +1,216 @@
+{
+  "paperId": "a929fae0aa33e5d311810db96c37bb7b3f988089",
+  "externalIds": {
+    "DBLP": "journals/sensors/OrtuaniSRMF19",
+    "PubMedCentral": "6767316",
+    "MAG": "2972952529",
+    "DOI": "10.3390/s19183974",
+    "CorpusId": 202711865,
+    "PubMed": "31540098"
+  },
+  "url": "https://www.semanticscholar.org/paper/a929fae0aa33e5d311810db96c37bb7b3f988089",
+  "title": "Integrating Geophysical and Multispectral Data to Delineate Homogeneous Management Zones within a Vineyard in Northern Italy",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/18/3974/pdf?version=1568454071",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6767316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3008023",
+      "name": "B. Ortuani"
+    },
+    {
+      "authorId": "2690635",
+      "name": "G. Sona"
+    },
+    {
+      "authorId": "1382695760",
+      "name": "Giulia Ronchetti"
+    },
+    {
+      "authorId": "1379485095",
+      "name": "A. Mayer"
+    },
+    {
+      "authorId": "3180942",
+      "name": "A. Facchi"
+    }
+  ],
+  "abstract": "Soil electrical conductivity (EC) maps obtained through proximal soil sensing (i.e., geophysical data) are usually considered to delineate homogeneous site-specific management zones (SSMZ), used in Precision Agriculture to improve crop production. The recent literature recommends the integration of geophysical soil monitoring data with crop information acquired through multispectral (VIS-NIR) imagery. In non-flat areas, where topography can influence the soil water conditions and consequently the crop water status and the crop yield, considering topography data together with soil and crop data may improve the SSMZ delineation. The objective of this study was the fusion of EC and VIS-NIR data to delineate SSMZs in a rain-fed vineyard located in Northern Italy (Franciacorta), and the assessment of the obtained SSMZ map through the comparison with data acquired by a thermal infrared (TIR) survey carried out during a hot and dry period of the 2017 agricultural season. Data integration is performed by applying multivariate statistical methods (i.e., Principal Component Analysis). The results show that the combined use of soil, topography and crop information improves the SSMZ delineation. Indeed, the correspondence between the SSMZ map and the CWSI map derived from TIR imagery was enhanced by including the NDVI information.",
+  "references": [
+    {
+      "paperId": "d41263e9edef305655a57da87ad88c7805ac96d3"
+    },
+    {
+      "paperId": "cd144db963464df67a9317def6a4789c2ba533a7"
+    },
+    {
+      "paperId": "85b0116f6ea0ec625a865015b9276cad9859be42"
+    },
+    {
+      "paperId": "37cfaa1d2854444df0830c08e16f68c00015d705"
+    },
+    {
+      "paperId": "aa8b2cc63b86c12dec0e222b2c7a9fdccb183a7e"
+    },
+    {
+      "paperId": "3c9d7f557341a0604ec3b62f1e63c5b02c573bab"
+    },
+    {
+      "paperId": "cd16379cb9c6b65eb134d26f65631ad000eed785"
+    },
+    {
+      "paperId": "23bb5d4e08f0f65e998b9c9c440eb6ad45be2279"
+    },
+    {
+      "paperId": "0270ff00abaa8dd3f439d5e034ccdb48e34a14fc"
+    },
+    {
+      "paperId": "e46e487aadcdd2954e072c46cb80d85d74d39069"
+    },
+    {
+      "paperId": "e673734a0346bacf11dbb659a10566b09b496ca8"
+    },
+    {
+      "paperId": "c932b3cfbc94895078f2c468800cd70da968f9d6"
+    },
+    {
+      "paperId": "046ace47f1776ced74f5fa22ce3fab6b7488b39f"
+    },
+    {
+      "paperId": "cdd6d83a3cc88470805cd51f568bfaa5948e8f1e"
+    },
+    {
+      "paperId": "029171105a6ae8a2b5e1ed32a7fdefad8cb2ac71"
+    },
+    {
+      "paperId": "f617de7ab44aa130e7e6c1be0adbba7bca6ff3d2"
+    },
+    {
+      "paperId": "7349f4b985495bf8b36e568998a61a1bc41f8a04"
+    },
+    {
+      "paperId": "732841726687933a9de3e6cdd8e1a5e461dfae02"
+    },
+    {
+      "paperId": "df106faf3ecaf76a7963a55ca55ff1b39bd231b5"
+    },
+    {
+      "paperId": "8c15dc8a75047f4688d51ec098efd68b8aa224e7"
+    },
+    {
+      "paperId": "88d8735f31ce444236b64a67801db38dad1cea88"
+    },
+    {
+      "paperId": "9e6c8205dc8eef3a6c55b28efc60545b259440b6"
+    },
+    {
+      "paperId": "4a66922fba3c9faf450b8e16fd7ead0360bdaa92"
+    },
+    {
+      "paperId": "948f37d377f2d9856ba8c9b3131dca643bc1108b"
+    },
+    {
+      "paperId": "0b470d07914cab09c2407fe03868b829413bd797"
+    },
+    {
+      "paperId": "17bd2243e2dbd9164cec74d069cf5142294d3fb8"
+    },
+    {
+      "paperId": "529317413d31dd603545d4f88b5867be5c4cbe4c"
+    },
+    {
+      "paperId": "f9e18a355c60fd5831b9ee085462c19cd8894bd6"
+    },
+    {
+      "paperId": "f366babd2033f347c9ff1fb53103662df2c6fd46"
+    },
+    {
+      "paperId": "37f7c71f65c149fc384209e61b76c6197e40130c"
+    },
+    {
+      "paperId": "4cb16ba2b2cfcab8352301c9f1ba3243b2000bc6"
+    },
+    {
+      "paperId": "16c22a9aa06b3df83f8e60b4ac749d771fcab7a7"
+    },
+    {
+      "paperId": "4522653738f125f6ace1006d872aed61cb2f6c6a"
+    },
+    {
+      "paperId": "a1cad28776a704f8fe9beca753a16c71a8c991b2"
+    },
+    {
+      "paperId": "24109cc6591c0e67539de9fb6a7a9c76d2c13bbb"
+    },
+    {
+      "paperId": "42d93cfdc235fd3c341ff93b9bb34170a19a48de"
+    },
+    {
+      "paperId": "3757454916a29018b8b23b54646d7516924bda74"
+    },
+    {
+      "paperId": "6fdbd35fbe2882c7bbd456fbacb112e5f7975416"
+    },
+    {
+      "paperId": "1f27bf9add2951998672bd3dfa5add1ca0e52d56"
+    },
+    {
+      "paperId": "a4c64d4fed677fb3ac23fae4e16e35b042a8a0a9"
+    },
+    {
+      "paperId": "bee8a0ecca51ece1952444280087f1b9f3a1949f"
+    },
+    {
+      "paperId": "ecf7d8b665600dff1968501700dfb6979c781122"
+    },
+    {
+      "paperId": "fe5f0ca3d44360d03c2ae0a0f9727a9d6b52cc2c"
+    },
+    {
+      "paperId": "10438a104e102b63c6a610b095f49e461fad2400"
+    },
+    {
+      "paperId": "642a2b7702ff219e9bec66fc77b005a605e3235d"
+    },
+    {
+      "paperId": "546107628db1dd74328c2bd64288ac0b789d644d"
+    },
+    {
+      "paperId": "d7ddea8c5d2c2b6700a811f4835ad05c83cd0ef0"
+    },
+    {
+      "paperId": "318cf9ee36ef519e450144a6a494dfb09a1be8eb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "50f35f9f20428f1551f1d8fd54f27d9e080862e4",
+  "externalIds": {
+    "MAG": "2990575827",
+    "DBLP": "conf/icvs/BadekaKTNVMPP19",
+    "DOI": "10.1007/978-3-030-34995-0_9",
+    "CorpusId": 208297419
+  },
+  "url": "https://www.semanticscholar.org/paper/50f35f9f20428f1551f1d8fd54f27d9e080862e4",
+  "title": "Grapes Visual Segmentation for Harvesting Robots Using Local Texture Descriptors",
+  "venue": "International Conference on Virtual Storytelling",
+  "year": 2019,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-34995-0_9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-34995-0_9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1431723310",
+      "name": "E. Badeka"
+    },
+    {
+      "authorId": "1726113556",
+      "name": "T. Kalampokas"
+    },
+    {
+      "authorId": "1431725892",
+      "name": "K. Tziridis"
+    },
+    {
+      "authorId": "146143908",
+      "name": "Alexander Nicolaou"
+    },
+    {
+      "authorId": "2280221",
+      "name": "Eleni Vrochidou"
+    },
+    {
+      "authorId": "39516370",
+      "name": "Efthimia Mavridou"
+    },
+    {
+      "authorId": "2947691",
+      "name": "G. Papakostas"
+    },
+    {
+      "authorId": "2602891",
+      "name": "T. Pachidis"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

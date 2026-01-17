@@ -1,0 +1,42 @@
+{
+  "paperId": "7d968820a47048e80e166d83b06dc9547fb97132",
+  "externalIds": {
+    "MAG": "2946043053",
+    "DOI": "10.3233/JCM-191043",
+    "CorpusId": 182312521
+  },
+  "url": "https://www.semanticscholar.org/paper/7d968820a47048e80e166d83b06dc9547fb97132",
+  "title": "Research on pavement segmentation algorithm of high resolution remote sensing image",
+  "venue": "Journal of Computational Methods in Sciences and Engineering",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3233/JCM-191043?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/JCM-191043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108824249",
+      "name": "Yuzhen Wang"
+    },
+    {
+      "authorId": "2117952625",
+      "name": "Jinhui Li"
+    },
+    {
+      "authorId": "122024799",
+      "name": "Xinyuan Wang"
+    }
+  ],
+  "abstract": "As an important way to obtain ground information, high resolution remote sensing images have been widely used in many fields, such as urban planning, base map updating, cadastre investigation, and precision agriculture. Because the application of remote sensing images on different occasions puts forward different requirements for remote sensing image processing, the important link in image processing–image classification, becomes even more important. This paper begins with image segmentation, combines algorithm of patch purification, region growing and superpixel segmentation, to implement semi-supervised classification using a small number of labeled sample points to obtain higher-accuracy classification results.",
+  "references": null
+}

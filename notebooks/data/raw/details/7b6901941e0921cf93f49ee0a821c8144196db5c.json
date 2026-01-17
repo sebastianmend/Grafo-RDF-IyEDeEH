@@ -1,0 +1,199 @@
+{
+  "paperId": "7b6901941e0921cf93f49ee0a821c8144196db5c",
+  "externalIds": {
+    "DBLP": "journals/access/HuXCLLWLW19",
+    "MAG": "2953592496",
+    "DOI": "10.1109/ACCESS.2019.2924917",
+    "CorpusId": 198147210
+  },
+  "url": "https://www.semanticscholar.org/paper/7b6901941e0921cf93f49ee0a821c8144196db5c",
+  "title": "Application of Non-Orthogonal Multiple Access in Wireless Sensor Networks for Smart Agriculture",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 58,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08746124.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2924917?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2924917, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2110751081",
+      "name": "Zeng Hu"
+    },
+    {
+      "authorId": "1763313",
+      "name": "Longqin Xu"
+    },
+    {
+      "authorId": "2107083795",
+      "name": "Liang Cao"
+    },
+    {
+      "authorId": "1753307",
+      "name": "Shuangyin Liu"
+    },
+    {
+      "authorId": "49386677",
+      "name": "Zhijie Luo"
+    },
+    {
+      "authorId": "2152448464",
+      "name": "Jing Wang"
+    },
+    {
+      "authorId": "2108567526",
+      "name": "Xiangli Li"
+    },
+    {
+      "authorId": "2153517990",
+      "name": "Lu Wang"
+    }
+  ],
+  "abstract": "Agriculture is one of the main economic industries of a country. Application of information technologies in agriculture, smart agriculture, aims to realize precision control of irrigation, fertilizer, diseases, and insect pests prevention in the growing of crops. For the sake of obtaining the interest data, wireless sensor networks (WSNs) are used to collect the interest data in the farm field and send the obtained data to the servers via wireless communication. Since the WSNs usually operate in the unlicensed spectrum, the available resource elements (REs) are scarce especially when a large number of sensor nodes are deployed in the farm field. To accommodate more sensor nodes and prolong the lifetime of the WSNs in agriculture, relay-aided non-orthogonal multiple access is introduced into the uplink transmission stage of the direct transmission from the sensor nodes to the sink node. Non-orthogonal multiple access (NOMA) can transmit multiple symbols simultaneously on the same RE by splitting them in the power domain and distinguish them according to diverse power levels of different symbols. The average sum data rate and outage probability of the relay-aided NOMA in uplink transmission are theoretically analyzed. The numerical simulation results show that the WSNs with relay-aided NOMA outperforms the traditional OMA scheme in uplink transmission in WSNs in agriculture.",
+  "references": [
+    {
+      "paperId": "67d18381b63849af7811fd787db91394115db502"
+    },
+    {
+      "paperId": "b90371723c2fc6ae085b8ac0054b4c1e0aa7c42b"
+    },
+    {
+      "paperId": "83ed060560ad572fba9d6f6369726e73a53b3aaf"
+    },
+    {
+      "paperId": "01baa70814b971858310794745efca18c9214ac3"
+    },
+    {
+      "paperId": "deac35cde89a1c1923d3d46a50ca325ecc88080b"
+    },
+    {
+      "paperId": "a1cd1c2f1aa5eed3f06352659d6f43e328e8b121"
+    },
+    {
+      "paperId": "de9308bcf1550c8153f25548d8c2a4582bbc9204"
+    },
+    {
+      "paperId": "101b29b2a69cb1f2df5fcc4999e61a26c716ace4"
+    },
+    {
+      "paperId": "b8955a008b55b854ba8c4a6a6355630c2ec0ff2f"
+    },
+    {
+      "paperId": "f3bd2c4a6fd6f031d429221dc6e86b63c3a81ce2"
+    },
+    {
+      "paperId": "73dc15572cc91a81eb73c82b6c046b40cb23c90b"
+    },
+    {
+      "paperId": "84ffa9e482194ff92eda58637a84be398940f3d5"
+    },
+    {
+      "paperId": "65c888d63d8069ed4a686c5e10ba6ee9278c18be"
+    },
+    {
+      "paperId": "4f836672eb2c060c8eef0023f220a1e940032a33"
+    },
+    {
+      "paperId": "9a603b9ab7f3d98b65537cec48ad28a170717e5b"
+    },
+    {
+      "paperId": "82df3a91231034d978e067370ce02bc9ced952c8"
+    },
+    {
+      "paperId": "2a028bef4fa8437d00a21b4ae99f9a6d1d202a2b"
+    },
+    {
+      "paperId": "66dc619eee6ef3755a083526f0ba0af212bcfaaf"
+    },
+    {
+      "paperId": "f4bd54dc505949ec216d68ffdfe5cb90e59772ad"
+    },
+    {
+      "paperId": "656ebf96ea2db94ec429885998a061bb510717b8"
+    },
+    {
+      "paperId": "dbdde2755e570cbe2c1ce8492c48460fab1f7073"
+    },
+    {
+      "paperId": "776a39ab39f492b8bee17a35a719810446eb819d"
+    },
+    {
+      "paperId": "8a431a2451f6d37fa5d6843ba2f4e629acf35223"
+    },
+    {
+      "paperId": "3b49da4951d85e97f2bf6dd4e2796533bd45a9cf"
+    },
+    {
+      "paperId": "710f48e132ec81db95ff292183d607f50d558a79"
+    },
+    {
+      "paperId": "5f600f58bee7e7f433a068759257ef078d6eab54"
+    },
+    {
+      "paperId": "c4e819adf4221be6ac4eb0862e5762ce34a38106"
+    },
+    {
+      "paperId": "44eb7b0263a02f9b49fcf520f0c01e1def9f6bce"
+    },
+    {
+      "paperId": "09763d7d2a121c154d10554c0d2bc6ad099bc1ae"
+    },
+    {
+      "paperId": "a3e63505ca23129f6e6c6d33fc92fab29a0ae1a9"
+    },
+    {
+      "paperId": "ea70e3bfbaf289bca960fcd27fc5b11f3aac145d"
+    },
+    {
+      "paperId": "3cb80b8887fd4d4d7e09e198c2628b12b9d8c831"
+    },
+    {
+      "paperId": "93b91f9b1dd25a1cfa629f39c3acdc06066675ee"
+    },
+    {
+      "paperId": "14949a73f167de08473c1f68ef9419cab475a1ca"
+    },
+    {
+      "paperId": "2c61c3c86ebe3e8a134240a2e673ec2e07fe8fc5"
+    },
+    {
+      "paperId": "e0dbf97a5a9cd43a196111c3aab250a0e7c9d47c"
+    },
+    {
+      "paperId": "837933abefafbfa64b41bbbe8f4ba9bb1c7f40e0"
+    },
+    {
+      "paperId": "7b48f7184e76ce87f7bcc78f432c402665e83073"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "bb32028fe4a198a49de6e5297f62211e7f224daf"
+    },
+    {
+      "paperId": "d480edd6ef61940a177c0491c96ac5cce0716feb"
+    },
+    {
+      "paperId": "4f87628dc87db9255456a11c605a336ef0f08dab"
+    },
+    {
+      "paperId": "fdf8596e40d75833f1597a42394eee37182a6e1d"
+    },
+    {
+      "paperId": "8fb7233ade62b95016991ec0857997fe38db51ce"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

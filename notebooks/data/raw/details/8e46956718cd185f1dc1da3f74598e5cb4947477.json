@@ -1,0 +1,54 @@
+{
+  "paperId": "8e46956718cd185f1dc1da3f74598e5cb4947477",
+  "externalIds": {
+    "MAG": "2908582027",
+    "DOI": "10.5539/JAS.V11N2P477",
+    "CorpusId": 91666702
+  },
+  "url": "https://www.semanticscholar.org/paper/8e46956718cd185f1dc1da3f74598e5cb4947477",
+  "title": "Mapping of Winter Crops and Second-Crop Corn in the Paraná State-Brazil, Using Multitemporal Images From MODIS Sensor",
+  "venue": "Journal of Agricultural Sciences",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5539/jas.v11n2p477",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5539/JAS.V11N2P477?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5539/JAS.V11N2P477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2107106532",
+      "name": "R. N. Santos"
+    },
+    {
+      "authorId": "88086944",
+      "name": "E. Mercante"
+    },
+    {
+      "authorId": "72073627",
+      "name": "J. Johann"
+    },
+    {
+      "authorId": "30628210",
+      "name": "C. H. E. D. Souza"
+    },
+    {
+      "authorId": "49853845",
+      "name": "C. Cattani"
+    },
+    {
+      "authorId": "88286233",
+      "name": "A. Paludo"
+    }
+  ],
+  "abstract": "The use of effective technologies for the monitoring of agricultural crops should seek methodologies that provide information regarding crop development, preferably before harvesting. The study of the monitoring and/or estimation of areas using vegetation indices derived from multitemporal data from MODIS sensors is being studied in the search for greater objectivity of the generated values. In this context, the objective of this study was to map areas with winter and second-crop corn using EVI/MODIS time series from the Terra and Aqua satellites, for the seasons from 2012 to 2014 in the Paraná state of Brazil. Accuracy analysis of the mappings was performed in spatial resolution images of 30 m (LISS-III and Landsat-8), to identify and validate the masks the crops of interest. The accuracy of the mapping obtained values of global precision 87.5%, 79.5%, and 82.0%, with Kappa index of 0.81, 0.69, and 0.73, in the 2012, 2013, and 2014 harvests, respectively. Comparing with data from the Brazilian Institute of Geography and Statistics (IBGE), the areas obtained by the mappings were underestimated for the second-crop corn in the 2012 and 2013 seasons and overestimated in 2014. The winter crops were overestimated for the three seasons investigated. The use of remote sensing data and techniques can contribute to a quick estimation of crop area information, and can assist in the surveys conducted by official institutions.",
+  "references": []
+}

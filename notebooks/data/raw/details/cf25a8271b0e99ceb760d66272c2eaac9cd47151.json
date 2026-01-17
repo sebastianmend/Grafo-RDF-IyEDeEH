@@ -1,0 +1,47 @@
+{
+  "paperId": "cf25a8271b0e99ceb760d66272c2eaac9cd47151",
+  "externalIds": {
+    "MAG": "2968213197",
+    "DBLP": "conf/cec/PeerlinckSPM19",
+    "DOI": "10.1109/CEC.2019.8790267",
+    "CorpusId": 197621907
+  },
+  "url": "https://www.semanticscholar.org/paper/cf25a8271b0e99ceb760d66272c2eaac9cd47151",
+  "title": "Optimal Design of Experiments for Precision Agriculture Using a Genetic Algorithm",
+  "venue": "IEEE Congress on Evolutionary Computation",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CEC.2019.8790267?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CEC.2019.8790267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "151480933",
+      "name": "A. Peerlinck"
+    },
+    {
+      "authorId": "145465944",
+      "name": "John W. Sheppard"
+    },
+    {
+      "authorId": "11825988",
+      "name": "J. Pastorino"
+    },
+    {
+      "authorId": "6242701",
+      "name": "B. Maxwell"
+    }
+  ],
+  "abstract": "Variable Rate Application (VRA) is a popular technique in Precision Agriculture used to decrease the amount of fertilizer applied to a specific field while increasing profitability, effectively also reducing environmental impact. VRA tries to determine the rate of fertilizer to apply to different parts of a field based on a variety of factors, such as precipitation, elevation, and previous years’ yield. To determine the appropriate variable nitrogen application rate for a field, experiments have to be conducted that provide data on how certain parts of the field react to specific nitrogen rates. In this research, a VRA of nitrogen is applied to fields of winter wheat in Montana where these experiments require the creation of a prescription map, which creates a grid of the field. The goal of the experiments is to vary nitrogen rate application, to determine how these nitrogen rates affect yield and protein production. However, when creating these prescription maps large jumps between consecutive cells’ nitrogen rates often occur, putting strain on the farming equipment. To reduce the number of jumps while maintaining even distribution of nitrogen rates across different yield and protein bins, a Genetic Algorithm (GA) is used for optimization. The GA uses a multi-objective fitness function aiming to minimize jumps and maintain stratification. The results show that the GA is effective in meeting these goals for the fields studied.",
+  "references": null
+}

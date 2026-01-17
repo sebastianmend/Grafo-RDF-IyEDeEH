@@ -1,0 +1,139 @@
+{
+  "paperId": "273d3f3bbc07120c895a87d5df378ff233e5b1b7",
+  "externalIds": {
+    "MAG": "2980024223",
+    "PubMedCentral": "6843287",
+    "DOI": "10.3390/ijerph16203893",
+    "CorpusId": 204739725,
+    "PubMed": "31615109"
+  },
+  "url": "https://www.semanticscholar.org/paper/273d3f3bbc07120c895a87d5df378ff233e5b1b7",
+  "title": "Sustainable Agriculture by Increasing Nitrogen Fertilizer Efficiency Using Low-Resolution Camera Mounted on Unmanned Aerial Vehicles",
+  "venue": "International Journal of Environmental Research and Public Health",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1660-4601/16/20/3893/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6843287, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2145138639",
+      "name": "Dong-Wook Kim"
+    },
+    {
+      "authorId": "48756800",
+      "name": "T. Min"
+    },
+    {
+      "authorId": "2127186679",
+      "name": "Yoonha Kim"
+    },
+    {
+      "authorId": "48759772",
+      "name": "R. R. Silva"
+    },
+    {
+      "authorId": "48634382",
+      "name": "H. Hyun"
+    },
+    {
+      "authorId": "120086189",
+      "name": "Ju-Sung Kim"
+    },
+    {
+      "authorId": "2109350279",
+      "name": "Kyung-Hwan Kim"
+    },
+    {
+      "authorId": "2145454192",
+      "name": "Hak-Jin Kim"
+    },
+    {
+      "authorId": "5161030",
+      "name": "Yong Suk Chung"
+    }
+  ],
+  "abstract": "Nitrogen use efficiency in modern agriculture is very low. It means that a lot of synthetic chemicals are wasted rather than utilized by crops. This can cause more problems where the soil surface is thin and rocky like Jeju Island in the Republic of Korea. This is because overly used nitrogen fertilizer can be washed into the underground water and pollute it. Thus, it would be important to monitor the nitrogen deficiency of crops in the field to provide the right amount of nitrogen in a timely manner so that nitrogen waste can be limited. To achieve this, the normalized difference vegetation index (NDVI) was used to monitor chlorophyll content, which is tightly associated with nitrogen content in the buckwheat field. The NDVI was calculated with the data obtained by a low-resolution camera mounted on an unmanned aerial vehicle. The results showed that the NDVI can estimate the chlorophyll content of buckwheat. These simple but clear results imply that precision agriculture could be achieved even with a low-resolution camera in a cost-effective manner to reduce the pollution of underground water.",
+  "references": [
+    {
+      "paperId": "c3dba707c579e7a80e895aff17ff58f7a98f22fe"
+    },
+    {
+      "paperId": "433261e784e58cfa38444519b5d04eaa249d83fe"
+    },
+    {
+      "paperId": "5aa0df5e864c1817c99cc06582e4598516b35f5f"
+    },
+    {
+      "paperId": "8e9c732f0b03fb0b789eebf64ce1783b0dcea7a2"
+    },
+    {
+      "paperId": "68e79689a28c38dec0470c566713bdcebb473ca5"
+    },
+    {
+      "paperId": "eecc0f8c4232f2bd78bb6b36220f9c1c38d8ae87"
+    },
+    {
+      "paperId": "c43b24ea97731f241cdf83530af1284121651d9c"
+    },
+    {
+      "paperId": "9aa2acaefa6e93a734892a8a8571b5a9dba334ef"
+    },
+    {
+      "paperId": "2a84166d9f20828f45cd087221f3b99f0cfa9ede"
+    },
+    {
+      "paperId": "1f816b782d2729b2a91f52ffb1c2c651ebc9355e"
+    },
+    {
+      "paperId": "b2d715aa4f6e48a6c5e63bcc99418c101a64d737"
+    },
+    {
+      "paperId": "5acbb1bee79d3384dceab74c66ba9b25306ab6f5"
+    },
+    {
+      "paperId": "cffe5d9d79b21a399fc09f89e936df902e823cda"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "fc10401783d6e646eb4707ffff98c4cfc73ca225"
+    },
+    {
+      "paperId": "ca08e78e055228fd3a81d4e3ccf5292c5ea5c79f"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "6b7cdd306d200c648dcbf5a637176b7f16642199"
+    },
+    {
+      "paperId": "429773542d18cd99464ed8f564268b67ff19cf9b"
+    },
+    {
+      "paperId": "51e3e3d1c0298714fb7b0ec9479bdd140bb0b5b2"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    }
+  ]
+}

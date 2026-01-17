@@ -1,0 +1,38 @@
+{
+  "paperId": "8ed288d9ebe7739a2407e896c5f84e42ff35516f",
+  "externalIds": {
+    "MAG": "2893232868",
+    "DOI": "10.1109/IMCEC.2018.8469507",
+    "CorpusId": 52894959
+  },
+  "url": "https://www.semanticscholar.org/paper/8ed288d9ebe7739a2407e896c5f84e42ff35516f",
+  "title": "Design of the Auto-Variable Spraying System Based on ARM9&Linux",
+  "venue": "IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IMCEC.2018.8469507?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IMCEC.2018.8469507, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2157358533",
+      "name": "J. Yang"
+    },
+    {
+      "authorId": "73431217",
+      "name": "Meng-xia Gu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

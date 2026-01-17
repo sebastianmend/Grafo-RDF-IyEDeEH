@@ -15,7 +15,7 @@
     "url": "http://www.agrophysical.eu/ojs/index.php/eajournal/article/download/10/44",
     "status": "BRONZE",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.17830/J.EAJ.2014.01.063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17830/J.EAJ.2014.01.063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.17830/J.EAJ.2014.01.063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17830/J.EAJ.2014.01.063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Engineering"

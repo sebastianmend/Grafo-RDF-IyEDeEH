@@ -1,0 +1,38 @@
+{
+  "paperId": "86faec473f6d55c73b3ca82d7a8f99a040d203e7",
+  "externalIds": {
+    "MAG": "2945402251",
+    "DOI": "10.1109/ICUAS.2019.8797879",
+    "CorpusId": 182217583
+  },
+  "url": "https://www.semanticscholar.org/paper/86faec473f6d55c73b3ca82d7a8f99a040d203e7",
+  "title": "Communication technology for Unmanned Aerial Vehicles: a qualitative assessment and application to Precision Agriculture",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://hal.archives-ouvertes.fr/hal-02129442/file/icuas%20neji%202019%20final.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2019.8797879?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2019.8797879, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1889601",
+      "name": "Najett Neji"
+    },
+    {
+      "authorId": "148222872",
+      "name": "Tumader Mostfa"
+    }
+  ],
+  "abstract": "In this paper, we develop a generic approach to determine the best technology to carry the communication between an Unmanned Aerial Vehicle (UAV) and a ground control station (GCS). For this, we consider that the UAV is performing its task under nominal conditions. Based on related work, we select the most relevant criteria of interest. Then, we compare technologies performances in the 2.4 GHz and 5.8 GHz ISM bands, using a multi-criteria analysis. Technology assessment results depend on the use-case and the UAV scenario. In this work, we are focused on the precise agriculture (PA) use case, and we present the assessment results in both Visual Line of Sight (VLOS), Extended Visual Line of Sight (EVLOS), as well as Beyond Line of Sight (BVLOS) scenarios. The latter is very interesting because the communication UAV - GCS becomes of critical importance.",
+  "references": null
+}

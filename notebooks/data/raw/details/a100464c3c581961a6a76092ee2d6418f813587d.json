@@ -1,0 +1,35 @@
+{
+  "paperId": "a100464c3c581961a6a76092ee2d6418f813587d",
+  "externalIds": {
+    "DOI": "10.14341/dm8265-1334",
+    "CorpusId": 18683496
+  },
+  "url": "https://www.semanticscholar.org/paper/a100464c3c581961a6a76092ee2d6418f813587d",
+  "title": "Cover letter",
+  "venue": "International Conference on Communications, Signal Processing, and their Applications",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=1203&context=jper",
+    "status": "CLOSED",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.14341/dm8265-1334?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14341/dm8265-1334, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics"
+  ],
+  "publicationTypes": [
+    "LettersAndComments",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2190664506",
+      "name": "Harvey Humphrey"
+    }
+  ],
+  "abstract": "Dr. Pramaditya Wicaksono, M.Sc. Chief Organizer of ICoSIA 2020 Universitas Gadjah Mada, Yogyakarta – Indonesia December 4th, 2020 Dear IOP Conference Proceeding Coordinators, We wish to submit our conference papers in International Conference of Smart and Innovative Agriculture (ICoSIA 2020) for publication IOP Conference Series: Earth and Environmental Science. All papers have passed the peer-review process and formatted following the IOP guidance. Through this submission, we send 59 conference paper in total. In detail, there are 13 conference papers in the topic Agricultural Economics and Marketing; 21 papers in the topic Environmental Management; 5 papers in the topic Precision Nutrition Technology; 12 papers in the topic Smart and Precision Farming; 8 papers in the topic Sustainable Food Production; and 4 papers from keynote speakers. Thank you for your consideration of those conference papers to be published in the IOP. Sincerely, Dr. Pramaditya Wicaksono, M.Sc.",
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "330e0badae8d6aa773bef2e5ad497aed7437118f",
+  "externalIds": {
+    "MAG": "2981308619",
+    "DOI": "10.1109/APWC.2019.8870568",
+    "CorpusId": 204823296
+  },
+  "url": "https://www.semanticscholar.org/paper/330e0badae8d6aa773bef2e5ad497aed7437118f",
+  "title": "Low Cost Ambient Backscatter for Agricultural Applications",
+  "venue": "Topical Conference on Antennas and Propagation in Wireless Communications",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/APWC.2019.8870568?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/APWC.2019.8870568, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "39247489",
+      "name": "S. Daskalakis"
+    },
+    {
+      "authorId": "2086966",
+      "name": "A. Georgiadis"
+    },
+    {
+      "authorId": "145354878",
+      "name": "G. Goussetis"
+    },
+    {
+      "authorId": "9450966",
+      "name": "M. Tentzeris"
+    }
+  ],
+  "abstract": "In our days, the massive growth of Internet-of-Things related applications has required the design and fabrication of low-cost and low-power wireless sensors. The last decade, backscatter communication has been introduced as a cutting-edge technology that could address the above limitations. In high precision agricultural applications, the monitoring of plant-water-stress (PWS) is of high importance for smart sensing. Instead of the traditional ground soil moisture sensing, leaf sensing is an old technology, which is used for the detection of PWS. Considering the above topics, this work aims to mention the development of a novel sensor node/tag for environmental leaf sensing which uses backscattering communication over ambient frequency modulated signals (FM music signals). The work is based on our previous works [1], [2] and it is described how ambient backscatter technology could be exploited for the “one sensor/plant” concept in precision agriculture applications.",
+  "references": null
+}

@@ -1,0 +1,60 @@
+{
+  "paperId": "f1c8da173e799dfcda448afa6f57e974806e98f8",
+  "externalIds": {
+    "MAG": "2793036521",
+    "DOI": "10.1111/1750-3841.14103",
+    "CorpusId": 4928101,
+    "PubMed": "29538797"
+  },
+  "url": "https://www.semanticscholar.org/paper/f1c8da173e799dfcda448afa6f57e974806e98f8",
+  "title": "Fast and Quantitative Analysis of Ediphenphos Residue in Rice Using Surface-Enhanced Raman Spectroscopy.",
+  "venue": "Journal of Food Science",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1750-3841.14103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1750-3841.14103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "13891905",
+      "name": "Shizhuang Weng"
+    },
+    {
+      "authorId": "144752581",
+      "name": "F. Wang"
+    },
+    {
+      "authorId": "11001842",
+      "name": "Ronglu Dong"
+    },
+    {
+      "authorId": "39014930",
+      "name": "Mengqing Qiu"
+    },
+    {
+      "authorId": "46509021",
+      "name": "Jinling Zhao"
+    },
+    {
+      "authorId": "2070741",
+      "name": "Linsheng Huang"
+    },
+    {
+      "authorId": "47845039",
+      "name": "Dongyan Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

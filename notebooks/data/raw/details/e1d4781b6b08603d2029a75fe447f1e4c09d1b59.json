@@ -1,0 +1,31 @@
+{
+  "paperId": "e1d4781b6b08603d2029a75fe447f1e4c09d1b59",
+  "externalIds": {
+    "DOI": "10.70729/ijser183",
+    "CorpusId": 220705445
+  },
+  "url": "https://www.semanticscholar.org/paper/e1d4781b6b08603d2029a75fe447f1e4c09d1b59",
+  "title": "Agricultural Monitoring System: A Study on Agricultural Monitoring System with Zigbee Mesh Implementation",
+  "venue": "International journal of scientific engineering and research",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.70729/ijser183?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70729/ijser183, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "122293629",
+      "name": "S. Dash"
+    }
+  ],
+  "abstract": ": Today energy resources are becoming scarcer and therefore more valuable. In conjunction with the population growth over last century, the need for finding new, more efficient, and sustainable methods of agricultural cultivation and food production has become more critical. To facilitate this process, we are designing, building, and evaluating a system for precision agriculture which provides farmers with useful data about the soil, the water supply, and the general condition of their fields in a user friendly, easily accessible manner. Our system aims to make cultivation and irrigation more efficient as the farmer is able to make better informed decisions and thus save time and resources. The diversity of location and climatic effects upon agricultural cultivation, along with other environmental parameters over time makes the farmer’s decision-making process more complicated and requires additional empirical knowledge. Applying wireless sensor networks for monitoring environmental parameters and combining this information with a user-customized web service may enable farmers to exploit their knowledge in an efficient way in order to extract the best results from their agricultural cultivation. The system can scale based on each farmer’s demands and the resulting ensemble of collected information may represent a valuable resource for future use, in addition to its use for real-time decision making. The design of the precision agriculture system contains a prototype solution regarding the sensor platform and a customizable service that can be utilized in different ways and by several entities. The main objective of the thesis is to develop a smart wireless sensor network (WSN) for an agricultural environment. Monitoring agricultural environment for various factors such as temperature, gas and humidity along with other factors can be of significance. A traditional approach to measure these factors in an agricultural environment meant individuals manually taking measurements and checking them at various times. This thesis investigates a remote monitoring system using Zigbee which is comprised with X-CTU software with the help of Arduino circuit board. These nodes send data wirelessly to a central server, which collects the data, stores it and will allow it to be analyzed then displayed as needed and can also be sent to the client mobile.",
+  "references": null
+}

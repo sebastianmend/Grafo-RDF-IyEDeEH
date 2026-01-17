@@ -1,0 +1,55 @@
+{
+  "paperId": "b249a7b8489ef6cc2e1fcd65ed05d85b4cea9a34",
+  "externalIds": {
+    "DBLP": "conf/igarss/FangWZLZZ19",
+    "MAG": "2988726954",
+    "DOI": "10.1109/IGARSS.2019.8900057",
+    "CorpusId": 208038232
+  },
+  "url": "https://www.semanticscholar.org/paper/b249a7b8489ef6cc2e1fcd65ed05d85b4cea9a34",
+  "title": "A Novel Mosaic Method for UAV-Based Hyperspectral Images",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8900057?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8900057, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47470082",
+      "name": "Jun-yong Fang"
+    },
+    {
+      "authorId": "2118449603",
+      "name": "Xiao Wang"
+    },
+    {
+      "authorId": "134816353",
+      "name": "T. Zhu"
+    },
+    {
+      "authorId": "2151059808",
+      "name": "Xue Liu"
+    },
+    {
+      "authorId": "2145563476",
+      "name": "Xiaohong Zhang"
+    },
+    {
+      "authorId": "2110996226",
+      "name": "Dong Zhao"
+    }
+  ],
+  "abstract": "In recent years, the rapid development of light remote sensing platforms and remote sensing load has brought unprecedented opportunities for remote sensing of Unmanned Aerial Vehicle (UAV). In order to meet the high requirements of remote sensing applications such as precision agriculture, forestry monitoring and environmental protection etc., we designed and integrated a UAV-based hyperspectral imaging system. This paper briefly introduced the composition of the system, and discussed the geometric processing of hyperspectral data. ASpline function mosaic method based onSparse Bundle Adjustment (SSBA) is proposed for rapid flight strip images stitching. Hyperspectral data is collected by the UAV imaging system, and the stitching results indicate that our method can obtain better results than SURF.",
+  "references": null
+}

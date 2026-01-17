@@ -1,0 +1,171 @@
+{
+  "paperId": "c48b7b60b264ba7516d8eb2b85e503ccdd6b4313",
+  "externalIds": {
+    "PubMedCentral": "5851000",
+    "MAG": "2800741685",
+    "DOI": "10.1186/s13007-018-0287-6",
+    "CorpusId": 3936050,
+    "PubMed": "29563961"
+  },
+  "url": "https://www.semanticscholar.org/paper/c48b7b60b264ba7516d8eb2b85e503ccdd6b4313",
+  "title": "Estimation of vegetation indices for high-throughput phenotyping of wheat using aerial imaging",
+  "venue": "Plant Methods",
+  "year": 2018,
+  "citationCount": 95,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-018-0287-6",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5851000, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144824659",
+      "name": "Zohaib Khan"
+    },
+    {
+      "authorId": "1438316347",
+      "name": "V. Rahimi-Eichi"
+    },
+    {
+      "authorId": "4638055",
+      "name": "S. Haefele"
+    },
+    {
+      "authorId": "3673061",
+      "name": "Trevor Garnett"
+    },
+    {
+      "authorId": "1922308",
+      "name": "S. Miklavcic"
+    }
+  ],
+  "abstract": "Unmanned aerial vehicles offer the opportunity for precision agriculture to efficiently monitor agricultural land. A vegetation index (VI) derived from an aerially observed multispectral image (MSI) can quantify crop health, moisture and nutrient content. However, due to the high cost of multispectral sensors, alternate, low-cost solutions have lately received great interest. We present a novel method for model-based estimation of a VI using RGB color images. The non-linear spatio-spectral relationship between the RGB image of vegetation and the index computed by its corresponding MSI is learned through deep neural networks. The learned models can be used to estimate VI of a crop segment. Analysis of images obtained in wheat breeding trials show that the aerially observed VI was highly correlated with ground-measured VI. In addition, VI estimates based on RGB images were highly correlated with VI deduced from MSIs. Spatial, spectral and temporal information of images contributed to estimation of VI. Both intra-variety and inter-variety differences were preserved by estimated VI. However, VI estimates were reliable until just before significant appearance of senescence. The proposed approach validates that it is reasonable to accurately estimate VI using deep neural networks. The results prove that RGB images contain sufficient information for VI estimation. It demonstrates that low-cost VI measurement is possible with standard RGB cameras.",
+  "references": [
+    {
+      "paperId": "ac6f1d972ce1cbd0c2aeb8418207afa2fea2e48b"
+    },
+    {
+      "paperId": "0dc2bb7ce5867bf03c9e6eeaf8248a09ea1b7380"
+    },
+    {
+      "paperId": "3b4ad6b789837a6a878f33c0b7ddb1b1fc7daaf8"
+    },
+    {
+      "paperId": "3636d78ce97ed95188cd94f1e4d72f7e315023ec"
+    },
+    {
+      "paperId": "eb7003134427464be2a3cff3cac178c16813787e"
+    },
+    {
+      "paperId": "502beb74301256879f8d534fa3098ef528e56691"
+    },
+    {
+      "paperId": "39bc14bda0e5b2887aa5cf9512d8dcb2b160fa66"
+    },
+    {
+      "paperId": "33ef644ef5085237b4f529251d6c895d32d6052f"
+    },
+    {
+      "paperId": "7349bc3834f4399db09815ad28f03da84862766c"
+    },
+    {
+      "paperId": "a350469acb7f1ab4d5168eb39d4c3e147f5049d2"
+    },
+    {
+      "paperId": "36f5fbc59d903baa6f77737fce59e51f06f0a14e"
+    },
+    {
+      "paperId": "439d225c99024ce3b281e65c100e7b721d4c0cb6"
+    },
+    {
+      "paperId": "64b20f863dc1baf587fb7b5b2c057cbd463112cf"
+    },
+    {
+      "paperId": "e30d9b8ce108d982169621b88a5e3fb69fec70e1"
+    },
+    {
+      "paperId": "10d710c01acb10c4aea702926d21697935656c3d"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "3d9241f9c910379b27d71c8c8436c9c65eb85579"
+    },
+    {
+      "paperId": "08a6fd43347f4ef1e9845c3cd6631c1509546519"
+    },
+    {
+      "paperId": "b8073ab3c4dc03e343806d5697b06873c9874f37"
+    },
+    {
+      "paperId": "af2f8e70617bf6fdfbbf3bedd941ac30c29cea21"
+    },
+    {
+      "paperId": "e15cf50aa89fee8535703b9f9512fca5bfc43327"
+    },
+    {
+      "paperId": "6bdb186ec4726e00a8051119636d4df3b94043b5"
+    },
+    {
+      "paperId": "193edd20cae92c6759c18ce93eeea96afd9528eb"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "c694d3cc565c997e04375b85cbcd909661e136f4"
+    },
+    {
+      "paperId": "fb61f0871307ecf73fcc87bb80b8ac0e5e802d4c"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "6564345f6efd3d339398126f141c659f95166c2f"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "cc0e6b96bdf42cbfdbfcb8a1219dc1de66ae8b8e"
+    },
+    {
+      "paperId": "a4330888e3f120f7baf1cabe166fada2adc3e7ab"
+    },
+    {
+      "paperId": "21a8aaceb8984952950f3ebdd4bfd445813419c8"
+    },
+    {
+      "paperId": "bdcd4d04ee10426569227061655108419731020d"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "7832155f3c96bc3b4020e2c3612878b9ef3c8071"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "9819b600a828a57e1cde047bbe710d3446b30da5"
+    },
+    {
+      "paperId": "2ac37d664fe5aee29cf26896268f2b4b1b6652e6"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "paperId": "6cbb899fe9db03e2e335ed3d3d6f8e74dce95d33",
+  "externalIds": {
+    "MAG": "2984964331",
+    "DBLP": "conf/igarss/LeeSP19",
+    "DOI": "10.1109/IGARSS.2019.8899801",
+    "CorpusId": 208038489
+  },
+  "url": "https://www.semanticscholar.org/paper/6cbb899fe9db03e2e335ed3d3d6f8e74dce95d33",
+  "title": "Identification of Precision Vegetation Variations of Chinese Cabbage Using UAV and Sensors",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8899801?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8899801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2115475079",
+      "name": "Dong-Ho Lee"
+    },
+    {
+      "authorId": "2330160440",
+      "name": "Heong-Sup Shin"
+    },
+    {
+      "authorId": "2109191555",
+      "name": "Jong-hwa Park"
+    }
+  ],
+  "abstract": "Kimchi is one of the most important dishes in Korean cuisine. One of the main ingredients of Kimchi is Chinese cabbage. The production of Chinese cabbage has a great influence on the consumer price of South Korea. Therefore, it is very important to accurately grasp the harvest of Chinese cabbage. Unmanned aerial vehicles (UAVs) and sensors have the advantage of accurately and quickly acquiring information on agricultural sites where crops are grown. Therefore, various methods have been examined to find a way to precisely apply UAV and field sensor to agricultural field. First, we tried to find a way to improve the accuracy of the UAV by applying the GPS-RTK method and to minimize the error between the images taken in time series. Secondly, a comparative method to analyze errors and differences between UAV, portable field survey equipment and stationary observation equipment was adopted and examined. In this study, the vegetation index was examined by adopting the most commonly used Normalized Difference Vegetation Index (NDVI). The purpose of this study was to investigate the correlation between the UAV system and the portable spectro-radiometer (ASD) which can periodically observe the cabbage cultivation testbed.",
+  "references": null
+}

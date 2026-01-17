@@ -1,0 +1,230 @@
+{
+  "paperId": "207f7b545a1c3367a175db858f1302be1b1b2572",
+  "externalIds": {
+    "PubMedCentral": "6397826",
+    "MAG": "2915418588",
+    "DOI": "10.3389/fbioe.2019.00021",
+    "CorpusId": 67876853,
+    "PubMed": "30859099"
+  },
+  "url": "https://www.semanticscholar.org/paper/207f7b545a1c3367a175db858f1302be1b1b2572",
+  "title": "National and Transnational Security Implications of Asymmetric Access to and Use of Biological Data",
+  "venue": "Frontiers in Bioengineering and Biotechnology",
+  "year": 2019,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2019.00021/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6397826, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "22784439",
+      "name": "Kavita M. Berger"
+    },
+    {
+      "authorId": "39905496",
+      "name": "Phyllis A. Schneck"
+    }
+  ],
+  "abstract": "Biology and biotechnology have changed dramatically during the past 20 years, in part because of increases in computational capabilities and use of engineering principles to study biology. The advances in supercomputing, data storage capacity, and cloud platforms enable scientists throughout the world to generate, analyze, share, and store vast amounts of data, some of which are biological and much of which may be used to understand the human condition, agricultural systems, evolution, and environmental ecosystems. These advances and applications have enabled: (1) the emergence of data science, which involves the development of new algorithms to analyze and visualize data; and (2) the use of engineering approaches to manipulate or create new biological organisms that have specific functions, such as production of industrial chemical precursors and development of environmental bio-based sensors. Several biological sciences fields harness the capabilities of computer, data, and engineering sciences, including synthetic biology, precision medicine, precision agriculture, and systems biology. These advances and applications are not limited to one country. This capability has economic and physical consequences, but is vulnerable to unauthorized intervention. Healthcare and genomic information of patients, information about pharmaceutical and biotechnology products in development, and results of scientific research have been stolen by state and non-state actors through infiltration of databases and computer systems containing this information. Countries have developed their own policies for governing data generation, access, and sharing with foreign entities, resulting in asymmetry of data sharing. This paper describes security implications of asymmetric access to and use of biological data.",
+  "references": [
+    {
+      "paperId": "2bd52565dcb7a65c97f9c91de65651df86aff459"
+    },
+    {
+      "paperId": "12759e44cc4f69655f0a1a797db3a981406de1e8"
+    },
+    {
+      "paperId": "e8fda24e92b4c088d0fa5361ec2a6eb44fdf5ce9"
+    },
+    {
+      "paperId": "a87255235b30c3bfa6959e0bffc2275ef1ac9fb4"
+    },
+    {
+      "paperId": "493663540ef8ba807c3e83b864e2130c3e78d7f9"
+    },
+    {
+      "paperId": "06e65606f92ae0fccbe0f59e3ddca5ad57b0e901"
+    },
+    {
+      "paperId": "17f0683169eb5b8424d6ea521dc3f30c612e7894"
+    },
+    {
+      "paperId": "d34bbadaf0436342aa6c1b84ec9c481edcc156ea"
+    },
+    {
+      "paperId": "c6a7b1b42cfc0069222010b83e49a44563d84d63"
+    },
+    {
+      "paperId": "cba54a4aff7633295e2b95ea8288d3a32b3d550b"
+    },
+    {
+      "paperId": "51d2e26755eba8b3600101fa0ec48275c809d1b6"
+    },
+    {
+      "paperId": "1aee58bd797a7108e25b9b82ac8c68249963aa14"
+    },
+    {
+      "paperId": "bee588b570e3d2413df0f3861ab0f7ec14e196bf"
+    },
+    {
+      "paperId": "b59f64aeb46ed0d52c62e6b299043f864d5dcb24"
+    },
+    {
+      "paperId": "05ffae56b3fe6da9ca9ff6cc608d4f06866fa0fb"
+    },
+    {
+      "paperId": "b88417d72f9387be4045e3d9f4a9347d71ef7bc8"
+    },
+    {
+      "paperId": "65399ddf922446d7ed504b4458f272a0f20cedfc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "beddfaa88e296c3edb4c9e4d22b6cbe28f94c6b2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

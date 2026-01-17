@@ -1,0 +1,52 @@
+{
+  "paperId": "0309a6bd173aa85f245e995b39fcd4c98dba7cef",
+  "externalIds": {
+    "DBLP": "conf/compsac/BritoSGFT19",
+    "MAG": "2961783434",
+    "DOI": "10.1109/COMPSAC.2019.00131",
+    "CorpusId": 199003316
+  },
+  "url": "https://www.semanticscholar.org/paper/0309a6bd173aa85f245e995b39fcd4c98dba7cef",
+  "title": "Optimized Division of Exploration Areas in Multi-robot Systems Considering Static and Dynamic Charging Stations",
+  "venue": "Annual International Computer Software and Applications Conference",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPSAC.2019.00131?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPSAC.2019.00131, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "16538287",
+      "name": "Robison Cris Brito"
+    },
+    {
+      "authorId": "151368545",
+      "name": "Nicollas Saque"
+    },
+    {
+      "authorId": "36322374",
+      "name": "D. A. Gonçalves"
+    },
+    {
+      "authorId": "3354821",
+      "name": "F. Favarim"
+    },
+    {
+      "authorId": "3160652",
+      "name": "E. Todt"
+    }
+  ],
+  "abstract": "The mobile robots popularization, in terrestrial, aerial or aquatic context, opens the possibility of a new research niche: the use of these robots for activities such as monitoring, search/rescue, cleaning services, as well their use in precision agriculture. As many times the area of operation of these robots is very large, it becomes unfeasible the fulfillment of the activity using a single robot, but even using many robots, there is the limitation of the battery autonomy. With the popularization of autonomous robots use, the search for mechanisms to make these robots recharge their battery autonomously are impulsed, however, the choice of the best place to insert the charging stations considering the displacement time saved and use of battery to move the robots is a challenge. The present work shows a Java Desktop graphical application that makes use of the JST library that requests data to the user, such as the map of the place to be explored, quantity of charging stations, if these stations must be in static places, perhaps due to electrical outlet locations restriction, or if they could be dynamically placed. Based on these data an optimal solution to insert the charging stations as well as the definition of each robot activity area are presented. Algorithms such as Voronoi, Viktor Grabarchuk and Centroid position are used in this process. The Voronoi Algorithm allowed the balanced division of the action area into a group of robots considering static recharge positions. The combination of the Viktor Grabarchk and Centroid Position algorithms allowed a balanced division of the operating area for different robots, and also, the definition of a central position to allocate the bases of recharges, which reduces the time of displacement of the robot to the base when necessary.",
+  "references": null
+}

@@ -1,0 +1,34 @@
+{
+  "paperId": "6c36479595383ad2cef0eeec6bcea518b9f33a12",
+  "externalIds": {
+    "MAG": "2806437248",
+    "DOI": "10.12731/2227-930x-2018-1-11-26",
+    "CorpusId": 196158513
+  },
+  "url": "https://www.semanticscholar.org/paper/6c36479595383ad2cef0eeec6bcea518b9f33a12",
+  "title": "МЕТОДЫ МАШИННОГО ОБУЧЕНИЯ В ЦИФРОВОМ СЕЛЬСКОМ ХОЗЯЙСТВЕ: АЛГОРИТМЫ И КЕЙСЫ",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.12731/2227-930x-2018-1-11-26",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12731/2227-930x-2018-1-11-26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12731/2227-930x-2018-1-11-26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2078956182",
+      "name": "A. V. Koshkarov"
+    }
+  ],
+  "abstract": "Ensuring food security is a major challenge in many countries. With a growing global population, the issues of improving the efficiency of agriculture have become most relevant. Farmers are looking for new ways to increase yields, and governments of different countries are developing new programs to support agriculture. This contributes to a more active implementation of digital technologies in agriculture, helping farmers to make better decisions, increase yields and take care of the environment. The central point is the collection and analysis of data. In the industry of agriculture, data can be collected from different sources and may contain useful patterns that identify potential problems or opportunities. Data should be analyzed using machine learning algorithms to extract useful insights. Such methods of precision farming allow the farmer to monitor individual parts of the field, optimize the consumption of water and chemicals, and identify problems quickly. Purpose: to make an overview of the machine learning algorithms used for data analysis in agriculture. Methodology: an overview of the relevant literature; a survey of farmers. Results: relevant algorithms of machine learning for the analysis of data in agriculture at various levels were identified: soil analysis (soil assessment, soil classification, soil fertility predictions), weather forecast (simulation of climate change, temperature and precipitation prediction), and analysis of vegetation (weed identification, vegetation classification, plant disease identification, crop forecasting). Practical implications: agriculture, crop production.",
+  "references": []
+}

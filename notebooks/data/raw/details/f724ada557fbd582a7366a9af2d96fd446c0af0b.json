@@ -1,0 +1,62 @@
+{
+  "paperId": "f724ada557fbd582a7366a9af2d96fd446c0af0b",
+  "externalIds": {
+    "MAG": "2920807706",
+    "DOI": "10.9734/JEAI/2019/V31I630090",
+    "CorpusId": 126718407
+  },
+  "url": "https://www.semanticscholar.org/paper/f724ada557fbd582a7366a9af2d96fd446c0af0b",
+  "title": "Optimum Size and Shape of Experimental Units for Cassava Cropping",
+  "venue": "Journal of Experimental Agriculture International",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.journaljeai.com/index.php/JEAI/article/download/30090/56585",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/JEAI/2019/V31I630090?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/JEAI/2019/V31I630090, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "87437936",
+      "name": "Janilson Pinheiro de Assis"
+    },
+    {
+      "authorId": "88364807",
+      "name": "R. P. Sousa"
+    },
+    {
+      "authorId": "2090318284",
+      "name": "W. M. Rodrigues"
+    },
+    {
+      "authorId": "15049085",
+      "name": "Paulo César Ferreira Linhares"
+    },
+    {
+      "authorId": "87814519",
+      "name": "Eudes de Almeida Cardoso"
+    },
+    {
+      "authorId": "123422272",
+      "name": "Maria Francisca Soares Pereira"
+    },
+    {
+      "authorId": "87030051",
+      "name": "J. Paula"
+    },
+    {
+      "authorId": "2116158860",
+      "name": "Ariana da Mota Oliveira"
+    }
+  ],
+  "abstract": "In agricultural experimentation, the right size and shape of experimental units increase the precision of the experiment. This study determines the optimum size and shape of the experimental unit for field experimentation with cassava. For this, we carried out a uniformity test in Pacajús, Ceará, under dry conditions, with the cultivar 'Mastruço' planted at a spacing of 1.00 m x 0.60 m. The root yields were collected in 15 rows with 40 plants each, comprising 31 types of experimental units of 23 different pre-established sizes. The optimum size of the experimental unit was estimated by the Hatheway method, and the shape was determined by the relative information method. The Hatheway method indicated several optimum sizes of experimental units, many of which were applicable for evaluation experiments of cassava cultivars. The 15 x 1 rectangular experimental unit (15 rows with one plant and 9.00 m² of useful area) was considered the ideal shape for assessment of cassava production, which was smaller than the size suggested in surveys with of cassava cropping. There was a continuous nonlinear reduction of the coefficient of variation with the increase in plot size.",
+  "references": null
+}

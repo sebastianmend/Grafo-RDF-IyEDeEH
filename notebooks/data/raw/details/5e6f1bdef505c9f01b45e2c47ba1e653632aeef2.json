@@ -1,0 +1,39 @@
+{
+  "paperId": "5e6f1bdef505c9f01b45e2c47ba1e653632aeef2",
+  "externalIds": {
+    "MAG": "2944177303",
+    "DBLP": "conf/adhip/AiZ18",
+    "DOI": "10.1007/978-3-030-19086-6_36",
+    "CorpusId": 152283821
+  },
+  "url": "https://www.semanticscholar.org/paper/5e6f1bdef505c9f01b45e2c47ba1e653632aeef2",
+  "title": "Modeling Analysis of Intelligent Logistics Distribution Path of Agricultural Products Under Internet of Things Environment",
+  "venue": "International Conference on Advanced Hybrid Information Processing",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-19086-6_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-19086-6_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3267104",
+      "name": "Xiaoyan Ai"
+    },
+    {
+      "authorId": "2108171309",
+      "name": "Yong-heng Zhang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

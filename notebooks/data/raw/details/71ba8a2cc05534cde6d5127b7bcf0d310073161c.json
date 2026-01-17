@@ -1,0 +1,215 @@
+{
+  "paperId": "71ba8a2cc05534cde6d5127b7bcf0d310073161c",
+  "externalIds": {
+    "MAG": "2796150704",
+    "DBLP": "journals/cii/BosiljDC18",
+    "PubMedCentral": "6034449",
+    "DOI": "10.1016/j.compind.2018.02.003",
+    "CorpusId": 13853340,
+    "PubMed": "29997405"
+  },
+  "url": "https://www.semanticscholar.org/paper/71ba8a2cc05534cde6d5127b7bcf0d310073161c",
+  "title": "Connected attribute morphology for unified vegetation segmentation and classification in precision agriculture",
+  "venue": "Computers in industry (Print)",
+  "year": 2018,
+  "citationCount": 35,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.compind.2018.02.003",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6034449, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1849511",
+      "name": "Petra Bosilj"
+    },
+    {
+      "authorId": "1793716",
+      "name": "T. Duckett"
+    },
+    {
+      "authorId": "2763480",
+      "name": "Grzegorz Cielniak"
+    }
+  ],
+  "abstract": null,
+  "references": [
+    {
+      "paperId": "2c715466df5126429278c380f48de405688cf005"
+    },
+    {
+      "paperId": "acea647cb93b6e9b9846c2b712b1916e692fb34f"
+    },
+    {
+      "paperId": "88a0c58dc2d79fc1f191bafebbcb1142791873d9"
+    },
+    {
+      "paperId": "d3b3572d1337dc514bd522c8cd50a032fda1b1e7"
+    },
+    {
+      "paperId": "cd40bed83a5c1c434cda26368b5bc05590dc579e"
+    },
+    {
+      "paperId": "5f41c6ba54527a472f89b5f0e3483838f6d8f1be"
+    },
+    {
+      "paperId": "625b47efe463898ff1ad7579a4ae45532aa9aaa1"
+    },
+    {
+      "paperId": "cb1dbcdb586db56ebd60f91d52b949f148053abe"
+    },
+    {
+      "paperId": "3074e09acc84a8604464f6e65c5063758ab3dbb8"
+    },
+    {
+      "paperId": "3a001b7137c54a76259b36f0bd9a0b385ecd2274"
+    },
+    {
+      "paperId": "d9020502e0a1e6d5a213d93bcb198ff822cdad39"
+    },
+    {
+      "paperId": "213af1d6460fc8b1ad8d0fa9cc0722bd2a03a744"
+    },
+    {
+      "paperId": "5a2e79d33dc27e805464b29c6096ca921c69346f"
+    },
+    {
+      "paperId": "ddd36240847955f4dd71d50299dd8b4bc87cf2c1"
+    },
+    {
+      "paperId": "848343ff72682995da16e18b56d54823ab177474"
+    },
+    {
+      "paperId": "0197e215347eb1a33a11a01d03b6942dc04f24ec"
+    },
+    {
+      "paperId": "ea9a1ae087cfab8bf4b38bd66e43bf11e16e5838"
+    },
+    {
+      "paperId": "ed605bebf07e1859951e5836e1ffbf6f63221199"
+    },
+    {
+      "paperId": "b5b4905e2fc9427387c728504d38c63b379e5056"
+    },
+    {
+      "paperId": "2145f5cbac48df8ed9f7695606c34e98b26cf5a9"
+    },
+    {
+      "paperId": "45176a3d0bc156318f3e43052868421674845a8f"
+    },
+    {
+      "paperId": "41a0270bdd5b79c58340007f67876b38cf914ae6"
+    },
+    {
+      "paperId": "d5758261a6d820a4c844f1ed6eb3a23d1ed9ee20"
+    },
+    {
+      "paperId": "e744bf80eeb5d25274ff2667cc3cef5e4133f69a"
+    },
+    {
+      "paperId": "0da968d64678b62fe02deb73bd2b6db38dd815b4"
+    },
+    {
+      "paperId": "9acdf1c30580f2899fafc6dd72f672047788839d"
+    },
+    {
+      "paperId": "c79a502b49f24597f818b08a3c67ec3100a36bcb"
+    },
+    {
+      "paperId": "f0dd0e013d9d084c9287744b6f754599f1957d70"
+    },
+    {
+      "paperId": "a86abffc64ab3150441c9cb0bfb43dc6392843a6"
+    },
+    {
+      "paperId": "30178ea1e3e675391fceb377d3bf0bdd28eefb94"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "e8b12467bdc20bde976750b8a28decdb33246d1d"
+    },
+    {
+      "paperId": "9d5ea177c7fcaf88ec6f56cbeb3e9b74c08e98a3"
+    },
+    {
+      "paperId": "ccf6643490d69a52a7cb507a1a14b16c33afc544"
+    },
+    {
+      "paperId": "0f4e05823e8dd1c1def6dc8574242df80a4ca2e0"
+    },
+    {
+      "paperId": "13c2b5560806c1708707737f506c211e01a63aa8"
+    },
+    {
+      "paperId": "f9f836d28f52ad260213d32224a6d227f8e8849a"
+    },
+    {
+      "paperId": "3d8a12c69a0b8c4f60fad0bdb8ee9c421fe4dd34"
+    },
+    {
+      "paperId": "fd50e914a3fdb130cd861b167ebf8c7c7235bcea"
+    },
+    {
+      "paperId": "37a802d37e1bc2aa4870d3ca9f58eac328b98c35"
+    },
+    {
+      "paperId": "1312e70ab2658caccf0cd5efdbec5b23613cdaa8"
+    },
+    {
+      "paperId": "96a4edea3d373d2267ee7a6304e8aab698aeb992"
+    },
+    {
+      "paperId": "5f6c27133488f33a2a92a1709ea9fc035b401dc0"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "8ae9fc1e08c790f737d52c4ab6e20234aa269faa"
+    },
+    {
+      "paperId": "5a370c4685f03d333592a293eacc46ae57941262"
+    },
+    {
+      "paperId": "8737272b3d867ba7203570dafb12c4fe45307b43"
+    },
+    {
+      "paperId": "b32e67cb154a30ba70f1fff5895aff7b92c1303f"
+    },
+    {
+      "paperId": "b9c8cc989558e6f464ac184743c67ccccad9bb12"
+    },
+    {
+      "paperId": "ce1e3528047cd01937f6a8aa760640f6b3c8d531"
+    },
+    {
+      "paperId": "6c6e0384f31ac6c58672596907551f64a22ed73d"
+    },
+    {
+      "paperId": "24e6cf0796237f21c780a3f0c996817f57b3a1bd"
+    },
+    {
+      "paperId": "442c48540b4cf9f36b7e69e38de5c1eb65f161d0"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "b338c405f8f7713bdfaa4b8db99063d50c91e367"
+    }
+  ]
+}

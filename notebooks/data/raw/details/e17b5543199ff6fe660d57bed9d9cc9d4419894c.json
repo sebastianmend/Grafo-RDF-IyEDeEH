@@ -1,0 +1,82 @@
+{
+  "paperId": "e17b5543199ff6fe660d57bed9d9cc9d4419894c",
+  "externalIds": {
+    "MAG": "2949772052",
+    "DOI": "10.1088/1755-1315/277/1/012023",
+    "CorpusId": 197367980
+  },
+  "url": "https://www.semanticscholar.org/paper/e17b5543199ff6fe660d57bed9d9cc9d4419894c",
+  "title": "Determination of carbamate insecticide in soil by SPE reversed-phase high-performance liquid chromatography (RP-HPLC)",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/277/1/012023",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/277/1/012023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/277/1/012023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2251821663",
+      "name": "R. T. Rosmalina"
+    },
+    {
+      "authorId": "13942076",
+      "name": "A. E. Persulessy"
+    }
+  ],
+  "abstract": "Carbamate pesticides usages in agriculture are increasing significantly compared with other organohalogen pesticides, due to carbamate compounds have been considered to be stable compounds in the environment in term of their application for preventing leaves and fruits from plant disease. A rapid multiresidue method had been developed for detecting carbofuran and carbaryl, types of carbamate insecticide, in agriculture soil. This method was based on shaking extraction followed by solid phase extraction (SPE) of soil samples. Residue content of this carbamate insecticide was analyzed by using reversed-phase high-performance liquid chromatography with UV detection. Carbofuran and carbaryl were separated by using a C-18 column and acetonitrile-water as the mobile phase. In this study, soil samples were taken from three locations (Pangalengan, Lembang and Cisarua) for detecting the content of carbamate insecticide. Precision test of Pengalengan soil sample in wet season for carbofuran and carbaryl were obtained at 5.42% and 6.75%, respectively. Recovery testing was carried out by using the fortification technique in which respectively 0.5 and 1.0 mg/kg content of carbofuran and carbaryl were spiked into the samples. The average recovery was in the range of 80.53 to 82.06 % and the standard deviation was between 3.78 and 4.51% for carbofuran and carbaryl, respectively. The calibration curve provided linear results in the concentration range of 0.05 to 10 μg/mL and 0.025 to 11.2 μg/mL with a correlation coefficient of 0.9999 and 0.9999 for carbofuran and carbaryl, respectively. On average, carbofuran and carbaryl in the soil were detected at 0.3350 and 0.2958 μg/g, respectively, for both samples from Pangalengan and Lembang during dry season while neither of these compounds was detected in Cisarua and Pangalengan during the wet season. This shows that carbamate insecticides had been washed out form soil by rainwater during the wet season or through degradation pathways in the environment.",
+  "references": [
+    {
+      "paperId": "e883a380196c03e1fd8f5b438fe74ce5778dda2d"
+    },
+    {
+      "paperId": "83607330f9f5807013984121aaabb8a182effeb0"
+    },
+    {
+      "paperId": "20d2b33c0595ba8507e378f8b11bb5f9ea7dd2ee"
+    },
+    {
+      "paperId": "c39699fb8bf5e28898808451abdeb71524f7b877"
+    },
+    {
+      "paperId": "7b20f7282a1a817707f2912594eaa9513ce8302f"
+    },
+    {
+      "paperId": "e35142719da19147cbb877102472459362355247"
+    },
+    {
+      "paperId": "25e5f0f57ea18e974d7d619e642cd5817b93c34f"
+    },
+    {
+      "paperId": "631a502a09142227e0db3f6d6a809d06992765c8"
+    },
+    {
+      "paperId": "8f5ee830909da0c8aadf4416a9313695943cf9a2"
+    },
+    {
+      "paperId": "891696bbb808edcad0898e040d68d6d40678a09d"
+    },
+    {
+      "paperId": "650eb20c947eda39141d1aaf7c4649ec7b4a6b38"
+    },
+    {
+      "paperId": "03fd08575b98a33e94b332ebf956d8ad0d7ab303"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

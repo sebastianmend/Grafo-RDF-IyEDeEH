@@ -1,0 +1,38 @@
+{
+  "paperId": "6768d1dccf4ceb0897718d9fe1a4c9ad7d48f23f",
+  "externalIds": {
+    "MAG": "2794190571",
+    "DOI": "10.1007/s13593-018-0488-4",
+    "CorpusId": 3810283
+  },
+  "url": "https://www.semanticscholar.org/paper/6768d1dccf4ceb0897718d9fe1a4c9ad7d48f23f",
+  "title": "Edge-biased distributions of insects. A review",
+  "venue": "Agronomy for Sustainable Development",
+  "year": 2018,
+  "citationCount": 68,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13593-018-0488-4.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13593-018-0488-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13593-018-0488-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1478882754",
+      "name": "H. Nguyen"
+    },
+    {
+      "authorId": "2384980",
+      "name": "C. Nansen"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,34 @@
+{
+  "paperId": "d4b633449605df5a59f4ef3e388993e0b1a7b667",
+  "externalIds": {
+    "MAG": "2945867728",
+    "DOI": "10.1109/ENT.2019.00027",
+    "CorpusId": 155108486
+  },
+  "url": "https://www.semanticscholar.org/paper/d4b633449605df5a59f4ef3e388993e0b1a7b667",
+  "title": "Development of Innovative Technologies in Russian Agro-Industry",
+  "venue": "2019 International Conference on Engineering Technologies and Computer Science (EnT)",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ENT.2019.00027?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ENT.2019.00027, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "13208743",
+      "name": "O. Elina"
+    }
+  ],
+  "abstract": "This paper analyses the application of scientific and technological innovations to Russian agroindustry. This process was successfully launched by the 'machinery revolution' of the 1920s, the use of protophytotrons and inductive mutagenesis in plant breeding in the 1930s, and the adoption of radionuclides method for agricultural monitoring in the 1940s. The development of this trend was then delayed by the spread of Lysenkoism in the 1940–1960s. However, from the 1980s, a global strategy of 'precision agriculture' (PA) evolved, which was related to the ecological and energy-saving approaches towards agroindustry practice. These approaches relied heavily on space agricultural technologies in the USSR in the 1970–1980s. PA strategy is based on the use of global positioning systems, geographic information systems, as well as sensors for remote measurements and onboard sensors that command agricultural machinery. This paper discusses the contribution of the Soviet scientists and engineers to the development of technological innovations, including PA, as well as obstacles to, and issues with, their application in Russia.",
+  "references": null
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "d0b6dbb5049998daad926d6edfbc6e105d5f410d",
+  "externalIds": {
+    "MAG": "2811087006",
+    "DBLP": "conf/sac/SouzaEA18",
+    "DOI": "10.1145/3167132.3167158",
+    "CorpusId": 49561747
+  },
+  "url": "https://www.semanticscholar.org/paper/d0b6dbb5049998daad926d6edfbc6e105d5f410d",
+  "title": "A curve completion algorithm for agricultural planning",
+  "venue": "ACM Symposium on Applied Computing",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3167132.3167158?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3167132.3167158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book"
+  ],
+  "authors": [
+    {
+      "authorId": "152907292",
+      "name": "Iuri R. Souza"
+    },
+    {
+      "authorId": "2209079",
+      "name": "M. Escarpinati"
+    },
+    {
+      "authorId": "1995500",
+      "name": "D. Abdala"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

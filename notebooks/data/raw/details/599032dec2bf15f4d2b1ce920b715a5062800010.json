@@ -1,0 +1,64 @@
+{
+  "paperId": "599032dec2bf15f4d2b1ce920b715a5062800010",
+  "externalIds": {
+    "MAG": "2891682150",
+    "DBLP": "journals/tgrs/JinSWPGHLG19",
+    "DOI": "10.1109/TGRS.2018.2866056",
+    "CorpusId": 67872555
+  },
+  "url": "https://www.semanticscholar.org/paper/599032dec2bf15f4d2b1ce920b715a5062800010",
+  "title": "Stem–Leaf Segmentation and Phenotypic Trait Extraction of Individual Maize Using Terrestrial LiDAR Data",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2019,
+  "citationCount": 136,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGRS.2018.2866056?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGRS.2018.2866056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "71663535",
+      "name": "Shichao Jin"
+    },
+    {
+      "authorId": "50087485",
+      "name": "Yanjun Su"
+    },
+    {
+      "authorId": "7363734",
+      "name": "Fangfang Wu"
+    },
+    {
+      "authorId": "17696878",
+      "name": "Shuxin Pang"
+    },
+    {
+      "authorId": "145369990",
+      "name": "Shang Gao"
+    },
+    {
+      "authorId": "51129003",
+      "name": "T. Hu"
+    },
+    {
+      "authorId": "2108457924",
+      "name": "Jin Liu"
+    },
+    {
+      "authorId": "153683053",
+      "name": "Q. Guo"
+    }
+  ],
+  "abstract": "Accurate and high throughput extraction of crop phenotypic traits, as a crucial step of molecular breeding, is of great importance for yield increasing. However, automatic stem–leaf segmentation as a prerequisite of many precise phenotypic trait extractions is still a big challenge. Current works focus on the study of the 2-D image-based segmentation, which are sensitive to illumination and occlusion. Light detection and ranging (LiDAR) can obtain accurate 3-D information with its active laser scanning and strong penetration ability, which breaks through phenotyping from 2-D to 3-D. However, few researches have addressed the problem of the LiDAR-based stem–leaf segmentation. In this paper, we proposed a median normalized-vector growth (MNVG) algorithm, which can segment stem and leaf with four steps, i.e., preprocessing, stem growth, leaf growth, and postprocessing. The MNVG method was tested by 30 maize samples with different heights, compactness, leaf numbers, and densities from three growing stages. Moreover, phenotypic traits at leaf, stem, and individual levels were extracted with the truly segmented instances. The mean accuracy of segmentation at point level in terms of the recall, precision, F-score, and overall accuracy were 0.92, 0.93, 0.92, and 0.93, respectively. The accuracy of phenotypic trait extraction in leaf, stem, and individual levels ranged from 0.81 to 0.95, 0.64 to 0.97, and 0.96 to 1, respectively. To our knowledge, this paper proposed the first LiDAR-based stem–leaf segmentation and phenotypic trait extraction method in agriculture field, which may contribute to the study of LiDAR-based plant phonemics and precise agriculture.",
+  "references": null
+}

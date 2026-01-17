@@ -1,0 +1,52 @@
+{
+  "paperId": "b8ecf50ea4aaae15bc5e8c2d5b219a130e233937",
+  "externalIds": {
+    "DBLP": "conf/ieeesensors/LozoyaEEMR19",
+    "MAG": "2998867110",
+    "DOI": "10.1109/SENSORS43011.2019.8956911",
+    "CorpusId": 210693445
+  },
+  "url": "https://www.semanticscholar.org/paper/b8ecf50ea4aaae15bc5e8c2d5b219a130e233937",
+  "title": "Spectral Vegetation Index Sensor Evaluation for Greenhouse Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SENSORS43011.2019.8956911?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SENSORS43011.2019.8956911, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145377564",
+      "name": "C. Lozoya"
+    },
+    {
+      "authorId": "1486423561",
+      "name": "Esier Eyzaguirre"
+    },
+    {
+      "authorId": "144243945",
+      "name": "J. Espinoza"
+    },
+    {
+      "authorId": "1422218700",
+      "name": "S. L. Montes-Fonseca"
+    },
+    {
+      "authorId": "1486423684",
+      "name": "Gildardo Rosas-Perez"
+    }
+  ],
+  "abstract": "Automated greenhouses provide a controlled environment to improve crop yield and resource efficiency, and represent an interesting alternative to implement precision agriculture based on sensing technology and data-driven management. While current automated greenhouses focus on controlling and monitoring environmental and soil variables, direct vegetation data is not usually available. The Normalized Difference Vegetation Index (NDVI) is a standardized indicator for crop healthiness, that uses direct plant spectral measurements of the difference between the reflected near-infrared and red light. This paper evaluates two different types of NDVI measurement instruments and analyzes how they can be integrated into a greenhouse ecosystem to control environmental and soil variables based on the plant healthiness. The automated greenhouse has been implemented for academic purposes to create an active learning environment where students can develop disciplinary and transversal competencies.",
+  "references": null
+}

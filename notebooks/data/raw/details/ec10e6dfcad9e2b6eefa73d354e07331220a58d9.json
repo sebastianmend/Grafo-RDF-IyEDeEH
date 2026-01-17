@@ -1,0 +1,70 @@
+{
+  "paperId": "ec10e6dfcad9e2b6eefa73d354e07331220a58d9",
+  "externalIds": {
+    "MAG": "2889904252",
+    "DOI": "10.1109/ICUAS.2018.8453445",
+    "CorpusId": 52166355
+  },
+  "url": "https://www.semanticscholar.org/paper/ec10e6dfcad9e2b6eefa73d354e07331220a58d9",
+  "title": "Lessons Learned from UAV-Based Remote Sensing for Precision Agriculture *",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2018.8453445?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2018.8453445, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "25335448",
+      "name": "S. Bhandari"
+    },
+    {
+      "authorId": "40391090",
+      "name": "A. Raheja"
+    },
+    {
+      "authorId": "51247390",
+      "name": "M. Chaichi"
+    },
+    {
+      "authorId": "49414107",
+      "name": "R. Green"
+    },
+    {
+      "authorId": "2061058135",
+      "name": "Dat Do"
+    },
+    {
+      "authorId": "49903720",
+      "name": "Frank Pham"
+    },
+    {
+      "authorId": "51249450",
+      "name": "M. Ansari"
+    },
+    {
+      "authorId": "2069457581",
+      "name": "Joseph Wolf"
+    },
+    {
+      "authorId": "49784895",
+      "name": "Tristan Sherman"
+    },
+    {
+      "authorId": "51238422",
+      "name": "Antonio Espinas"
+    }
+  ],
+  "abstract": "This paper presents the lessons learned from the ongoing investigation at Cal Poly Pomona on the effectiveness of UAV-based remote sensing technology in detecting plant stresses due to water and nutrients. UAVs equipped with multispectral/hyperspectral sensors and RGB cameras were flown over lettuce and citrus plants at Cal Poly Pomona’s Spadra farm. The spectral sensor data were used in the determination of various vegetation indices that provide information on the water and nitrogen stresses of the plants. Proximal sensors that were used for the verification of remote sensing data included water potential meter, chlorophyll meter, and handheld spectroradiometer. The paper shows the relationship between the remote sensing and proximal sensor data. The paper also discusses the flight test procedures, data collection methods, and lessons learned so far.",
+  "references": null
+}

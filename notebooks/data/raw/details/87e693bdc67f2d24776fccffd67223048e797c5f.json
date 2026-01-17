@@ -1,0 +1,48 @@
+{
+  "paperId": "87e693bdc67f2d24776fccffd67223048e797c5f",
+  "externalIds": {
+    "DBLP": "conf/iot/KrintzWGB18",
+    "MAG": "2896662979",
+    "DOI": "10.1145/3277593.3277607",
+    "CorpusId": 51902469
+  },
+  "url": "https://www.semanticscholar.org/paper/87e693bdc67f2d24776fccffd67223048e797c5f",
+  "title": "Estimating outdoor temperature from CPU temperature for IoT applications in agriculture",
+  "venue": "IoT",
+  "year": 2018,
+  "citationCount": 21,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3277593.3277607?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3277593.3277607, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book"
+  ],
+  "authors": [
+    {
+      "authorId": "1713536",
+      "name": "C. Krintz"
+    },
+    {
+      "authorId": "1682591",
+      "name": "R. Wolski"
+    },
+    {
+      "authorId": "6654501",
+      "name": "Nevena Golubovic"
+    },
+    {
+      "authorId": "2083413149",
+      "name": "F. Bakir"
+    }
+  ],
+  "abstract": "In the paper, we investigate using CPU temperature from small, low cost, single-board computers to predict out-door temperature in IoT-based precision agricultural settings. Temperature is a key metric in these settings that is used to inform and actuate farm operations such as irrigation scheduling, frost damage mitigation, and greenhouse management. Using cheap single-board computers as temperature sensors can drive down the cost of sensing in these applications and make it possible to monitor a large number of micro-climates concurrently. We have developed a system in which devices communicate their CPU measurements to an on-farm edge cloud. The edge cloud uses a combination of calibration, smoothing (noise removal), and linear regression to make predictions of the outdoor temperature at each device. We evaluate the accuracy of this approach for different temperature sensors, devices, and locations, as well as different training and calibration durations.",
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "a4aadc04d5eb6ab96e4da9bac4b8555ace6e9cdf",
+  "externalIds": {
+    "MAG": "2900557600",
+    "DBLP": "conf/ictc/AdrianoMMFR18",
+    "DOI": "10.1109/ICTC.2018.8539713",
+    "CorpusId": 53715772
+  },
+  "url": "https://www.semanticscholar.org/paper/a4aadc04d5eb6ab96e4da9bac4b8555ace6e9cdf",
+  "title": "An IoT Sensor Mote for Precision Agriculture with Several MAC Layer Protocols Support",
+  "venue": "Information and Communication Technology Convergence",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICTC.2018.8539713?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICTC.2018.8539713, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52016246",
+      "name": "Jose D. Adriano"
+    },
+    {
+      "authorId": "52000879",
+      "name": "Yara C. T. Mendes"
+    },
+    {
+      "authorId": "145533267",
+      "name": "G. Marcondes"
+    },
+    {
+      "authorId": "1766601",
+      "name": "Vasco Furtado"
+    },
+    {
+      "authorId": "152171655",
+      "name": "J. Rodrigues"
+    }
+  ],
+  "abstract": "The use of Internet of Things (IoT) in precision agriculture brings opportunities for cost reduction, saving natural resources, and greater efficiency. For this, it is necessary making feasible the installation of sensor networks in the crop to harvest data for control and decision support systems. This work proposes a multi-sensor device for collecting microclimate data inside the plantation (soil moisture, leaf wetness, temperature, and humidity) that supports LoRa, Sigfox, IEEE 802.15.4, and WiFi protocols. The performance evaluation, demonstration, and validation of the sensors of leaf wetness and soil moisture are presented and the results are very promising for real deployment.",
+  "references": null
+}

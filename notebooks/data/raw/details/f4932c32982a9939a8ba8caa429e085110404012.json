@@ -1,0 +1,50 @@
+{
+  "paperId": "f4932c32982a9939a8ba8caa429e085110404012",
+  "externalIds": {
+    "MAG": "2980000160",
+    "DOI": "10.22214/ijraset.2019.7063",
+    "CorpusId": 210293360
+  },
+  "url": "https://www.semanticscholar.org/paper/f4932c32982a9939a8ba8caa429e085110404012",
+  "title": "Testing and Monitoring Agricultural Soil using Precision Farming",
+  "venue": "International Journal for Research in Applied Science and Engineering Technology",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22214/ijraset.2019.7063",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22214/ijraset.2019.7063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22214/ijraset.2019.7063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1483738043",
+      "name": "Priyanka Chandrakant Shelake"
+    }
+  ],
+  "abstract": ": Agriculture is the revolutionary part of our country. In spite of over all these development, the agriculture methods that Indians use are too much old. The previous method is collecting the soil sample and it has been tested in the laboratories. The tested result will be getting after few days. The problem due to this agriculture field is that the farmers are suffering much to get the farm survey reports quickly. Due to lack of facility to choose fertilizers for the chosen crop. Lab testing method is not able to detect the soil gaseous parameters for the live monitoring. The aim of this paper is to provide the soil testing services at the farmer’s land by determining all the soil parameters such as gases present in soil like Ammonia, hydrogen, nitrogen, Methane, soil moisture level, nitrogen, potassium, phosphorus contents and recommending fertilizer nutrients for the soil. Live updating of this helps the farmers to get to know the current status of soil .We can suggesting the crops to the farmers based on the soil fertility and climatic conditions. As a result, the project will produce the survey report which contains NPK values and gases value, related crops and fertilizers for the soil.",
+  "references": [
+    {
+      "paperId": "1847db603cbd7bbb8d494dede7be097d1fa7c910"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

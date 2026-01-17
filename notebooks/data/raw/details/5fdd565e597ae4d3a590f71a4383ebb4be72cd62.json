@@ -1,0 +1,154 @@
+{
+  "paperId": "5fdd565e597ae4d3a590f71a4383ebb4be72cd62",
+  "externalIds": {
+    "MAG": "2945702961",
+    "DOI": "10.1088/1755-1315/275/1/012021",
+    "CorpusId": 181644049
+  },
+  "url": "https://www.semanticscholar.org/paper/5fdd565e597ae4d3a590f71a4383ebb4be72cd62",
+  "title": "Setting of a precision farming robotic laboratory for cropping system sustainability and food safety and security: preliminary results",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/275/1/012021",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/275/1/012021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/275/1/012021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "88633775",
+      "name": "R. Orsini"
+    },
+    {
+      "authorId": "46227590",
+      "name": "D. Basili"
+    },
+    {
+      "authorId": "92632865",
+      "name": "M. Belletti"
+    },
+    {
+      "authorId": "98470281",
+      "name": "D. Bentivoglio"
+    },
+    {
+      "authorId": "16860125",
+      "name": "C. A. Bozzi"
+    },
+    {
+      "authorId": "2389851228",
+      "name": "S. Chiappini"
+    },
+    {
+      "authorId": "80436037",
+      "name": "C. Conti"
+    },
+    {
+      "authorId": "2053199940",
+      "name": "A. Galli"
+    },
+    {
+      "authorId": "145104492",
+      "name": "E. Giorgini"
+    },
+    {
+      "authorId": "39724175",
+      "name": "M. Fiorentini"
+    },
+    {
+      "authorId": "2116718",
+      "name": "E. Malinverni"
+    },
+    {
+      "authorId": "152786950",
+      "name": "A. Mancini"
+    },
+    {
+      "authorId": "5065338",
+      "name": "L. Mazzanti"
+    },
+    {
+      "authorId": "13794160",
+      "name": "E. Monaci"
+    },
+    {
+      "authorId": "92313696",
+      "name": "G. Passerini"
+    },
+    {
+      "authorId": "1387468156",
+      "name": "C. Pro"
+    },
+    {
+      "authorId": "16329770",
+      "name": "R. Santilocchi"
+    },
+    {
+      "authorId": "5671299",
+      "name": "A. Vignini"
+    },
+    {
+      "authorId": "1411541119",
+      "name": "S. Zenobi"
+    },
+    {
+      "authorId": "1695800",
+      "name": "P. Zingaretti"
+    }
+  ],
+  "abstract": "The acceleration of Digital Agriculture is evident through the increased adoption of digital technologies on farms including smart machines, sensors and cloud computing. In this paper we present the preliminary results of the research project funded by Università Politecnica delle Marche in 2018 “PFRLab: Setting of a precision farming robotic laboratory for cropping system sustainability and food safety and security”, which is still underway. In this context, as first result, an interdepartmental Research and Services Center called “Smart Farming” has been set up with the aim to strengthen multidisciplinary collaborations in the fields of Agriculture and Forestry, Geomatics, ICT and Robotics. Regarding field activities the SPAD 502 as well as Normalized Difference Vegetation Index (NDVI) provide a good estimate of the Chlorophylla+b content in durum wheat leaves so can be used to predict in a quickly and non-destructively way, the crop greenness status and to identify any nutritional deficiencies in real time. Future research activities are certainly needed to fully explore the potentialities of conservation agriculture and precision farming, and to drive the transition process from conventional agriculture to modern conservation agriculture and precision farming techniques. In-depth studies are planned on the combined effect of nitrogen fertilization and soil management on the main production variables of durum wheat in order to evaluate whether specific tools for precision agriculture applications can find significant diffusion even in Mediterranean cereal based cropping systems.",
+  "references": [
+    {
+      "paperId": "acf15d0ef09c370c7980ff65d555ff59374dd139"
+    },
+    {
+      "paperId": "553d3d1fc02c5e75477054187a194b93b005030c"
+    },
+    {
+      "paperId": "df2f6f00d610ba4379ac25d2a995224a7c99791a"
+    },
+    {
+      "paperId": "25e41aefac68b248bb781aed7ae9cac6723ee04b"
+    },
+    {
+      "paperId": "0521c9f95e01894774f8620fdd8aad6298403f31"
+    },
+    {
+      "paperId": "be2745d3a246ce9ae19972bc033aeb184fe0974a"
+    },
+    {
+      "paperId": "97543c7a7d01b00c9b5668f86661457f9244f956"
+    },
+    {
+      "paperId": "fca767ae1339f1a25e3fa56cf29a893d5a61e591"
+    },
+    {
+      "paperId": "68ec673f80a6b6ec27241840906af4bc78918005"
+    },
+    {
+      "paperId": "3c040cd0d730dd2656cefe2cffb547b9a4cf3839"
+    },
+    {
+      "paperId": "1c4e8c93fe459a3529c398fa2d64dda6ac01bef2"
+    },
+    {
+      "paperId": "d2a153ed36c82eb539c8c3baf39d1741e6cf1242"
+    },
+    {
+      "paperId": "fb6199c61ece60afb48f6155c3df70d44024a9b2"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

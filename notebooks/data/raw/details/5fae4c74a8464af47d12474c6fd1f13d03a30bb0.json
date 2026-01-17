@@ -1,0 +1,42 @@
+{
+  "paperId": "5fae4c74a8464af47d12474c6fd1f13d03a30bb0",
+  "externalIds": {
+    "MAG": "2902117961",
+    "DOI": "10.1109/ICOEI.2018.8553866",
+    "CorpusId": 54441355
+  },
+  "url": "https://www.semanticscholar.org/paper/5fae4c74a8464af47d12474c6fd1f13d03a30bb0",
+  "title": "Precision Agriculture Monitoring System Using Green Internet of Things (G-IoT)",
+  "venue": "2018 2nd International Conference on Trends in Electronics and Informatics (ICOEI)",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOEI.2018.8553866?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOEI.2018.8553866, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52223895",
+      "name": "T. A. Ali"
+    },
+    {
+      "authorId": "52228716",
+      "name": "Viraj Choksi"
+    },
+    {
+      "authorId": "2286965038",
+      "name": "Dr. M B Potdar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

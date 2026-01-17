@@ -1,0 +1,44 @@
+{
+  "paperId": "505b727a826ebb4585c9a34f006788462f2cf713",
+  "externalIds": {
+    "MAG": "2923747055",
+    "DBLP": "conf/worldcist/ParraMG19",
+    "DOI": "10.1007/978-3-030-16181-1_76",
+    "CorpusId": 93001164
+  },
+  "url": "https://www.semanticscholar.org/paper/505b727a826ebb4585c9a34f006788462f2cf713",
+  "title": "Multiphase CFD Simulation of Photogrammetry 3D Model for UAV Crop Spraying",
+  "venue": "WorldCIST",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-16181-1_76?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-16181-1_76, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145896683",
+      "name": "H. G. Parra"
+    },
+    {
+      "authorId": "92538213",
+      "name": "V. A. Morales"
+    },
+    {
+      "authorId": "1409232886",
+      "name": "E. Gaona-García"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

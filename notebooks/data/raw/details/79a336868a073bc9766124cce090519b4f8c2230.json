@@ -1,0 +1,256 @@
+{
+  "paperId": "79a336868a073bc9766124cce090519b4f8c2230",
+  "externalIds": {
+    "DBLP": "journals/jfr/MalyutaBHSSB20",
+    "MAG": "3099138983",
+    "ArXiv": "1908.06381",
+    "DOI": "10.1002/rob.21898",
+    "CorpusId": 201070507
+  },
+  "url": "https://www.semanticscholar.org/paper/79a336868a073bc9766124cce090519b4f8c2230",
+  "title": "Long‐duration fully autonomous operation of rotorcraft unmanned aerial systems for remote‐sensing data acquisition",
+  "venue": "J. Field Robotics",
+  "year": 2019,
+  "citationCount": 53,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.21898",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1908.06381, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51501289",
+      "name": "Danylo Malyuta"
+    },
+    {
+      "authorId": "80601989",
+      "name": "Christian Brommer"
+    },
+    {
+      "authorId": "51455459",
+      "name": "Daniel Hentzen"
+    },
+    {
+      "authorId": "2709732",
+      "name": "Thomas Stastny"
+    },
+    {
+      "authorId": "1720483",
+      "name": "R. Siegwart"
+    },
+    {
+      "authorId": "2910129",
+      "name": "R. Brockers"
+    }
+  ],
+  "abstract": "Recent applications of unmanned aerial systems (UAS) to precision agriculture have shown increased ease and efficiency in data collection at precise remote locations. However, further enhancement of the field requires operation over long periods of time, for example, days or weeks. This has so far been impractical due to the limited flight times of such platforms and the requirement of humans in the loop for operation. To overcome these limitations, we propose a fully autonomous rotorcraft UAS that is capable of performing repeated flights for long‐term observation missions without any human intervention. We address two key technologies that are critical for such a system: full platform autonomy to enable mission execution independently from human operators and the ability of vision‐based precision landing on a recharging station for automated energy replenishment. High‐level autonomous decision making is implemented as a hierarchy of master and slave state machines. Vision‐based precision landing is enabled by estimating the landing pad's pose using a bundle of AprilTag fiducials configured for detection from a wide range of altitudes. We provide an extensive evaluation of the landing pad pose estimation accuracy as a function of the bundle's geometry. The functionality of the complete system is demonstrated through two indoor experiments with duration of 11 and 10.6 hr, and one outdoor experiment with a duration of 4 hr. The UAS executed 16, 48, and 22 flights, respectively, during these experiments. In the outdoor experiment, the ratio between flying to collect data and charging was 1–10, which is similar to past work in this domain. All flights were fully autonomous with no human in the loop. To our best knowledge, this is the first research publication about the long‐term outdoor operation of a quadrotor system with no human interaction.",
+  "references": [
+    {
+      "paperId": "c43ecbb517013e916225e03ae6233b6e77a869d5"
+    },
+    {
+      "paperId": "8cb663dd89fc1af1f5cfb9c0b8cad212e718fe02"
+    },
+    {
+      "paperId": "e35a3d824094bf441dec0e8fffaf8445540eed34"
+    },
+    {
+      "paperId": "4ece98ee82c6913298c669dd8898beec80a4b33a"
+    },
+    {
+      "paperId": "86871e539b10cd0f46891b82064891816e55c8dc"
+    },
+    {
+      "paperId": "773f448639766fa98e71e733fab5564466acfafa"
+    },
+    {
+      "paperId": "a993f18e2ec2a8d56cd6e61de6ee627eaf0fa580"
+    },
+    {
+      "paperId": "ed4919a061ddfff5ec63a6469437b11289249df7"
+    },
+    {
+      "paperId": "c72312462569ea61dfbe4d2dbf8d509a4c9f6b78"
+    },
+    {
+      "paperId": "b0730c78644d50648052419e1a3b97441ee1515c"
+    },
+    {
+      "paperId": "8cacd9f2ac5d9ec520ce078a98b2360a07cb9260"
+    },
+    {
+      "paperId": "85db0fddb7648ed96c2657890689d8e6b00dba92"
+    },
+    {
+      "paperId": "a0cdee6eabd3b0e179ce60b9639411ca82256423"
+    },
+    {
+      "paperId": "ceedc7d1b765c7db87bcec6846153ff7caadbda0"
+    },
+    {
+      "paperId": "c0ac5039e683b2556d67e010a68b255826047890"
+    },
+    {
+      "paperId": "88bd5ca6c39ededa92eb4f27d895e5e951560ed2"
+    },
+    {
+      "paperId": "87f2803d2b3e772ddb749af06c1b51b6db6ed4d3"
+    },
+    {
+      "paperId": "3108106f67863914aacbb74b75208f63f0e0dfdb"
+    },
+    {
+      "paperId": "f9511970f9ab6a21ba939befcc45661b6367e5d5"
+    },
+    {
+      "paperId": "30b0baee14e9b0e9f9e6afa972912eb4a3e593ba"
+    },
+    {
+      "paperId": "0e6ecd419e6728b97871fb3113a895694e9952c4"
+    },
+    {
+      "paperId": "301123c11d344d303ad25451ab8c86180247dc26"
+    },
+    {
+      "paperId": "035c0a712e7d153cc138efea14f85e3bb98e11c7"
+    },
+    {
+      "paperId": "b562b5a97fc85c574d6baaa803122e35686e047e"
+    },
+    {
+      "paperId": "af68399b005d1fcf6806d4ce0dd978e000cd3142"
+    },
+    {
+      "paperId": "055c5e8675f79b526bce05bd398840bf4527fa00"
+    },
+    {
+      "paperId": "9fe1ea1ab91a0d11394a4e811b2097b451b5f00e"
+    },
+    {
+      "paperId": "1a0190a9a5bd95604cf0664befed7635c38d6e9d"
+    },
+    {
+      "paperId": "c7f3a872875a2578bf60382023fcdfc32a701079"
+    },
+    {
+      "paperId": "4deae6e8096b29f8e8d4ab23c27ec265c41f2dcf"
+    },
+    {
+      "paperId": "c860d86e20e46574b5e0f482f5d0b7400f195825"
+    },
+    {
+      "paperId": "1cff639adf465b5db834d2d0ddbc7ccd6ae42f5a"
+    },
+    {
+      "paperId": "976e29fe6c9baeb39732bca0e35f66f84d5bdd90"
+    },
+    {
+      "paperId": "1b519d55be4ecf123cc6821071da6af9bdc59f7d"
+    },
+    {
+      "paperId": "6d902fa877437c2a562e4311e396da3bc89f031e"
+    },
+    {
+      "paperId": "b07938d9a0b6a34fe72c2df1b604c0f07fb2a4ca"
+    },
+    {
+      "paperId": "dde571ebb5e0f3307ac606b24e176fce49426358"
+    },
+    {
+      "paperId": "26a3ce7ab62cbf961d5e41e400d38d67e78377a3"
+    },
+    {
+      "paperId": "84e48463a332503dd0aa973992f9091d52e4a0a9"
+    },
+    {
+      "paperId": "57e777afe2a6efbf9e7728ed565c0271581b4800"
+    },
+    {
+      "paperId": "59a2793b12cc05533468dba546a28c5f7f98bbca"
+    },
+    {
+      "paperId": "829fbe148ed5d831c7ea7d00b7bbfe119f973e89"
+    },
+    {
+      "paperId": "0b4e1a14e0bdea7a89cc2fddc61112c2dd0dcad1"
+    },
+    {
+      "paperId": "2c497e0774f0b776ed0dc4a8747386d2fbafa6b6"
+    },
+    {
+      "paperId": "99b2bbd739dd9be39c5d9e07378650ffd4a3fb77"
+    },
+    {
+      "paperId": "df0295715f8b43a8cbaa19f74a3dceb06e610eaf"
+    },
+    {
+      "paperId": "01afb5172323bf54096b9f4bf90fdc349b16a577"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fa420f02f21cf07905b2f546314c6c428acd59fd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "153d1115a660d18050a46d33d5d9eed6c72d3061"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8e34725322be1ce1805b40692af11ace7ef7a7c3"
+    },
+    {
+      "paperId": "26e8aafe2c746d167090726f8cec19b4797b3b55"
+    },
+    {
+      "paperId": "591217bd5382ba3819f9ec129d4d2942c3e53b01"
+    },
+    {
+      "paperId": "37c9b31dc4cfccf04db86d7fb1316bdb9606f1a4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5c7bd1600ad8acd5737f4eb034fbdb407ee27061"
+    },
+    {
+      "paperId": "7772af81a6939826d48cac470819bddb90963b3e"
+    },
+    {
+      "paperId": "962c64c07a09c21af0bbb917af58764fe9befd65"
+    },
+    {
+      "paperId": "81bcdbf186ef3d31f929ed9ced0ef270226c843b"
+    },
+    {
+      "paperId": "d7b064e6cb859db734fa0eb18da0c7df17cce416"
+    }
+  ]
+}

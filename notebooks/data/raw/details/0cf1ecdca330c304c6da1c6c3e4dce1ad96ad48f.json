@@ -1,0 +1,44 @@
+{
+  "paperId": "0cf1ecdca330c304c6da1c6c3e4dce1ad96ad48f",
+  "externalIds": {
+    "MAG": "2978511665",
+    "DBLP": "conf/ijcnn/PeerlinckSS19",
+    "DOI": "10.1109/IJCNN.2019.8851976",
+    "CorpusId": 197644150
+  },
+  "url": "https://www.semanticscholar.org/paper/0cf1ecdca330c304c6da1c6c3e4dce1ad96ad48f",
+  "title": "AdaBoost with Neural Networks for Yield and Protein Prediction in Precision Agriculture",
+  "venue": "IEEE International Joint Conference on Neural Network",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IJCNN.2019.8851976?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IJCNN.2019.8851976, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "151480933",
+      "name": "A. Peerlinck"
+    },
+    {
+      "authorId": "145465944",
+      "name": "John W. Sheppard"
+    },
+    {
+      "authorId": "51003815",
+      "name": "Jacob J. Senecal"
+    }
+  ],
+  "abstract": "Adaptive Boosting, or AdaBoost, is an algorithm aimed at improving the performance of ensembles of weak learners by weighing the data itself as well as the learners. Two versions of AdaBoost—AdaBoost-R2 and AdaBoost R∆—are applied in this project, as well as a third novel algorithm combining ideas of these two methods, to the problem of predicting crop yield and protein content in support of precision agriculture. All three algorithms use Feedforward Neural Networks (FFNN) trained with backpropagation as the weak model. Data from four different fields were gathered as a result of on-farm experiments of different nitrogen rate applications using randomly stratified trials based on previous years’ yield and protein. The three AdaBoost algorithms are compared to a simple FFNN with a single hidden layer. The results confirm previous findings in different fields, where ensemble methods outperform single models. The results are improved by 3 to 10 units for yield prediction, and by a small percentage for protein prediction.",
+  "references": null
+}

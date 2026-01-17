@@ -1,0 +1,145 @@
+{
+  "paperId": "78779eddb621a4de03ac8f0a6734237677cdb185",
+  "externalIds": {
+    "PubMedCentral": "6359728",
+    "MAG": "2910307221",
+    "DBLP": "journals/sensors/GaoZZNA19",
+    "DOI": "10.3390/s19020313",
+    "CorpusId": 58653324,
+    "PubMed": "30646586"
+  },
+  "url": "https://www.semanticscholar.org/paper/78779eddb621a4de03ac8f0a6734237677cdb185",
+  "title": "Development of a Recognition System for Spraying Areas from Unmanned Aerial Vehicles Using a Machine Learning Approach",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 34,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/2/313/pdf?version=1547532602",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6359728, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2097574840",
+      "name": "Pengbo Gao"
+    },
+    {
+      "authorId": "36124320",
+      "name": "Yan Zhang"
+    },
+    {
+      "authorId": "2381452163",
+      "name": "Linhuan Zhang"
+    },
+    {
+      "authorId": "48678658",
+      "name": "R. Noguchi"
+    },
+    {
+      "authorId": "3487291",
+      "name": "T. Ahamed"
+    }
+  ],
+  "abstract": "Unmanned aerial vehicle (UAV)-based spraying systems have recently become important for the precision application of pesticides, using machine learning approaches. Therefore, the objective of this research was to develop a machine learning system that has the advantages of high computational speed and good accuracy for recognizing spray and non-spray areas for UAV-based sprayers. A machine learning system was developed by using the mutual subspace method (MSM) for images collected from a UAV. Two target lands: agricultural croplands and orchard areas, were considered in building two classifiers for distinguishing spray and non-spray areas. The field experiments were conducted in target areas to train and test the system by using a commercial UAV (DJI Phantom 3 Pro) with an onboard 4K camera. The images were collected from low (5 m) and high (15 m) altitudes for croplands and orchards, respectively. The recognition system was divided into offline and online systems. In the offline recognition system, 74.4% accuracy was obtained for the classifiers in recognizing spray and non-spray areas for croplands. In the case of orchards, the average classifier recognition accuracy of spray and non-spray areas was 77%. On the other hand, the online recognition system performance had an average accuracy of 65.1% for croplands, and 75.1% for orchards. The computational time for the online recognition system was minimal, with an average of 0.0031 s for classifier recognition. The developed machine learning system had an average recognition accuracy of 70%, which can be implemented in an autonomous UAV spray system for recognizing spray and non-spray areas for real-time applications.",
+  "references": [
+    {
+      "paperId": "43f42887bad00613022bd2a51c3d5578bfa51781"
+    },
+    {
+      "paperId": "d9640feb87189663ed4f37d8c511220bf2b0919e"
+    },
+    {
+      "paperId": "7d67e04d3eaea0f4cd9fd3661fbcb1fd6fc42676"
+    },
+    {
+      "paperId": "c3fa8c1338bd9e42652aa64c395c4e26d5719650"
+    },
+    {
+      "paperId": "02c3d1c42682a61270cecc434f5d1588fb851ff7"
+    },
+    {
+      "paperId": "7d8b3efb13a5a89ce44ae9d97de5a1fcc256e8d1"
+    },
+    {
+      "paperId": "c34dcc548ed14f355541a67d4141c5c17929df1d"
+    },
+    {
+      "paperId": "58eb6ed4667dd044698d70e127577655c227ba19"
+    },
+    {
+      "paperId": "57e256e9413d2c289ff95080e13c0ec67f05d59a"
+    },
+    {
+      "paperId": "be287ccbb496881d7b834983c75c259d60c8d729"
+    },
+    {
+      "paperId": "4c7d24a0cc343e298390cd2bed7883f22d76b842"
+    },
+    {
+      "paperId": "2521644e4045bb422ca85a246a312ac3758012f1"
+    },
+    {
+      "paperId": "7655bfca3552d2b4a69225befa9d1d6528d1b9f7"
+    },
+    {
+      "paperId": "35f3bd597d081a06208f190ec677722f1680f2b0"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "8a2fe9a13239625833845d31bcec0e4ad48c95d3"
+    },
+    {
+      "paperId": "71120b6d5bac5cd1b2aebe51b5dbda27001f20d3"
+    },
+    {
+      "paperId": "fff5d723f26cb7dfcd4d1d3efe19aab7b35c842a"
+    },
+    {
+      "paperId": "447c930095b9600a4749ea73d81e4d5a3d069001"
+    },
+    {
+      "paperId": "646a36bdf081c51c8e90ab9ab35009a8e0d1715c"
+    },
+    {
+      "paperId": "3f600e6c6cf93e78c9e6e690443d6d22c4bf18b9"
+    },
+    {
+      "paperId": "ab157ed033d25355870943d38475f6be18ca9ce6"
+    },
+    {
+      "paperId": "cfbb228a8bfde00ec07a58bbffe708e034c6aaa6"
+    },
+    {
+      "paperId": "8f489efba33a435f84dd95c317adfa42814ee0b1"
+    },
+    {
+      "paperId": "41e484a1da2dd13357273888429d8eb338ee3724"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a7a6eb53bee5e2224f2ecd56a14e3a5a717e55b9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ec159c99b9e57ca33e9864802fa987378180f87c"
+    },
+    {
+      "paperId": "95ed254ca6c74102e1b24507b3ea7b9fa2754838"
+    }
+  ]
+}

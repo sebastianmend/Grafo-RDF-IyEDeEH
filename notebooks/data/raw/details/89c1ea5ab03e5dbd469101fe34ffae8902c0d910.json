@@ -1,0 +1,46 @@
+{
+  "paperId": "89c1ea5ab03e5dbd469101fe34ffae8902c0d910",
+  "externalIds": {
+    "MAG": "3011241008",
+    "DOI": "10.1007/978-3-030-39299-4_4",
+    "CorpusId": 216464540
+  },
+  "url": "https://www.semanticscholar.org/paper/89c1ea5ab03e5dbd469101fe34ffae8902c0d910",
+  "title": "On the Description of Soil Variability Through EMI Sensors and Traditional Soil Surveys in Precision Agriculture",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-39299-4_4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-39299-4_4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3008023",
+      "name": "B. Ortuani"
+    },
+    {
+      "authorId": "48232576",
+      "name": "E. Casati"
+    },
+    {
+      "authorId": "123119718",
+      "name": "C. Negri"
+    },
+    {
+      "authorId": "3180942",
+      "name": "A. Facchi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

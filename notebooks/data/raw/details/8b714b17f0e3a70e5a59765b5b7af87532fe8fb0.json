@@ -1,0 +1,244 @@
+{
+  "paperId": "8b714b17f0e3a70e5a59765b5b7af87532fe8fb0",
+  "externalIds": {
+    "MAG": "2901223758",
+    "PubMedCentral": "6244040",
+    "DOI": "10.3389/fpls.2018.01638",
+    "CorpusId": 53284033,
+    "PubMed": "30483291"
+  },
+  "url": "https://www.semanticscholar.org/paper/8b714b17f0e3a70e5a59765b5b7af87532fe8fb0",
+  "title": "Clustering Field-Based Maize Phenotyping of Plant-Height Growth and Canopy Spectral Dynamics Using a UAV Remote-Sensing Approach",
+  "venue": "Frontiers in Plant Science",
+  "year": 2018,
+  "citationCount": 107,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2018.01638/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6244040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118502414",
+      "name": "Liang Han"
+    },
+    {
+      "authorId": "34831475",
+      "name": "Guijun Yang"
+    },
+    {
+      "authorId": "2115537296",
+      "name": "Hao Yang"
+    },
+    {
+      "authorId": "143778544",
+      "name": "Bo Xu"
+    },
+    {
+      "authorId": "48458509",
+      "name": "Zhenhai Li"
+    },
+    {
+      "authorId": "2115881391",
+      "name": "Xiaodong Yang"
+    }
+  ],
+  "abstract": "Phenotyping under field environmental conditions is often considered as a bottleneck in crop breeding. Unmanned aerial vehicle high throughput phenotypic platform (UAV-HTPP) mounted with multi-sensors offers an efficiency, non-invasive, flexible and low-cost solution in large-scale breeding programs compared to ground investigation, especially where measurements are time-sensitive. This study was conducted at the research station of the Xiao Tangshan National Precision Agriculture Research Center of China. Using the UAV-HTPP, RGB and multispectral images were acquired during four critical growth stages of maize. We present a method of extracting plant height (PH) at the plot scale using UAV-HTPP based on the spatial structure of the maize canopy. The core steps of this method are segmentation and spatial Kriging interpolation based on multiple neighboring maximum pixels from multiple plants in a plot. Then, the relationships between the PH extracted from imagery collected using UAV-HTPP and the ground truth were examined. We developed a semi-automated pipeline for extracting, analyzing and evaluating multiple phenotypic traits: canopy cover (CC), normalized vegetation index (NDVI), PH, average growth rate of plant height (AGRPH), and contribution rate of plant height (CRPH). For these traits, we identify genotypic differences and analyze and evaluate dynamics and development trends during different maize growth stages. Furthermore, we introduce a time series data clustering analysis method into breeding programs as a tool to obtain a novel representative trait: typical curve. We classified and named nine types of typical curves of these traits based on curve morphological features. We found that typical curves can detect differences in the genetic background of traits. For the best results, the recognition rate of an NDVI typical curve is 59%, far less than the 82.3% of the CRPH typical curve. Our study provides evidence that the PH trait is among the most heritable and the NDVI trait is among the most easily affected by the external environment in maize.",
+  "references": [
+    {
+      "paperId": "67aa43d31b34b6b783827dcccf6318e68d621b69"
+    },
+    {
+      "paperId": "ce656e42ee294a286306505b3882802c1438b67c"
+    },
+    {
+      "paperId": "0554012a9863fccde9efc03f6d27d60e5a4ee0f5"
+    },
+    {
+      "paperId": "514c3cb9ab44942cafeca46ceee31d1f1e046457"
+    },
+    {
+      "paperId": "698e0ed4d8cf10956a0d08b87fc21b2778cd4879"
+    },
+    {
+      "paperId": "aa5d6fc459c87d3931ce9af81296d192c8db7481"
+    },
+    {
+      "paperId": "077cbb6d036b579d947149ec2c8ee82a2ef39305"
+    },
+    {
+      "paperId": "1fd4ea46d7b7213c6bfd57cc11f535dc698c3e7d"
+    },
+    {
+      "paperId": "418ad3a5092cdf1ed4ad652a4de581957f969303"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "e95c50b61f833244707191fbd653563a688a078d"
+    },
+    {
+      "paperId": "8d9f602ba3116af1956b5896da192f37896d3893"
+    },
+    {
+      "paperId": "e957776b28d2a64f5851b1cefd829c8b410f51d2"
+    },
+    {
+      "paperId": "8f6b6ace94830f7a6288107e69cae3c740f2302b"
+    },
+    {
+      "paperId": "12951ab55fc1647afaa8a9fe8176cb9349bf9211"
+    },
+    {
+      "paperId": "3efc0409976f260ca3d341490fdfc0f5c1b61c70"
+    },
+    {
+      "paperId": "51a854aa61da35b024d0f0e15e2fb7caced09fe1"
+    },
+    {
+      "paperId": "36f5fbc59d903baa6f77737fce59e51f06f0a14e"
+    },
+    {
+      "paperId": "439d225c99024ce3b281e65c100e7b721d4c0cb6"
+    },
+    {
+      "paperId": "3c789b9783bc7f4717dda15c077b82d8a2ed9eaf"
+    },
+    {
+      "paperId": "3ee072944ab23b73bf3daa6f2ffb045ec6fcedc6"
+    },
+    {
+      "paperId": "dbd3e25f41498e1d41322cd0c87935404f7c3478"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "8278ca04c4ffafef80abfbe0ce3c6cfc07b2792d"
+    },
+    {
+      "paperId": "914f0026dec81f5f6992ea4f030ff96a4ecefdc1"
+    },
+    {
+      "paperId": "a059418ba24f3038f9e2d62c87a7e7a3db548a9c"
+    },
+    {
+      "paperId": "7c46c99ceaa21c2c370e0f1432b0401bf27389da"
+    },
+    {
+      "paperId": "b9dae6c7efd2bbad35490044614987f58a4ad8e3"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "befb418f58475b7ebafd1826ba2e60d354eecc80"
+    },
+    {
+      "paperId": "ad79b7021a8b1f60e193748aed511dce04627617"
+    },
+    {
+      "paperId": "76bf7313ece31c3867ffba00e36668f128232124"
+    },
+    {
+      "paperId": "8c9192c37bd4dc05319724246e23d8754e4a7ec6"
+    },
+    {
+      "paperId": "1aa8c2f2c267c9c72d2f37e18f7a40bcd5515339"
+    },
+    {
+      "paperId": "513753df2ae193264c91b7cdd9baeedd0d4ccf12"
+    },
+    {
+      "paperId": "9308b27baf24b4f389fb54e17b629c21e263e1b5"
+    },
+    {
+      "paperId": "3a81113cb14a4b2d437cc9e3e51134889eea9561"
+    },
+    {
+      "paperId": "3677e40cda2f6f27f1ea3c5dd718dd38374b8cd7"
+    },
+    {
+      "paperId": "ce3a1082adb980c98acddc38fef5b99cec940460"
+    },
+    {
+      "paperId": "9eca0ea5717419385fa20cf69d09da25da3fcaba"
+    },
+    {
+      "paperId": "f29e5d71974ad92ddb79834555bd8dd231c6bd3a"
+    },
+    {
+      "paperId": "d1003fcb8a3938cc976642cd21730888fb6703d6"
+    },
+    {
+      "paperId": "cd9b8f9bf21e8594cbba3223c43d600f5b057db1"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "bd719b93e80c2e7cbed786e748432a34a9bfa1d8"
+    },
+    {
+      "paperId": "2700de3995c9271e7d2a6b76a8732530e75116df"
+    },
+    {
+      "paperId": "957ff5d6cd1c5c262238bb9217900ca081c05bf2"
+    },
+    {
+      "paperId": "daeb49976a69f255fd90041cd39691211b4ab913"
+    },
+    {
+      "paperId": "a7c3647d3396fa63756a721218aeb3331ea55489"
+    },
+    {
+      "paperId": "723d063248ac896fe63325d4c88d750162d10bfc"
+    },
+    {
+      "paperId": "f567df5c467b269a593874bcb5519ba4298b1e9e"
+    },
+    {
+      "paperId": "aba9077fa336cbd43e62ab9d7767a777f93a1ac8"
+    },
+    {
+      "paperId": "a46ec863bbf3e179de4e7ccedd205a96ab1ca64f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "229f87832bc93cc4a4ba9a228e33135799dcf4bf"
+    },
+    {
+      "paperId": "732b67d721614e92d3b52002d27b03ae51cb339a"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "9d4b2e8a2b39974484bfa946b3c64d8794b7f2b9"
+    },
+    {
+      "paperId": "331376f7be988c47b367093e90fdc12aeb21d7e1"
+    },
+    {
+      "paperId": "df77caab27d37a6c5f6810b5fdcf16f461c05d1e"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

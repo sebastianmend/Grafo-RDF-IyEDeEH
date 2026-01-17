@@ -1,0 +1,48 @@
+{
+  "paperId": "a929e2a5da98b4f84dd45b66f34ea1c5ad34ba5e",
+  "externalIds": {
+    "DBLP": "conf/wf-iot/VuranSWI18",
+    "MAG": "2785699893",
+    "DOI": "10.1109/WF-IoT.2018.8355096",
+    "CorpusId": 19129731
+  },
+  "url": "https://www.semanticscholar.org/paper/a929e2a5da98b4f84dd45b66f34ea1c5ad34ba5e",
+  "title": "Internet of underground things: Sensing and communications on the field for precision agriculture",
+  "venue": "World Forum on Internet of Things",
+  "year": 2018,
+  "citationCount": 72,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WF-IoT.2018.8355096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WF-IoT.2018.8355096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "29777554",
+      "name": "M. Vuran"
+    },
+    {
+      "authorId": "37785838",
+      "name": "Abdul Salam"
+    },
+    {
+      "authorId": "30717447",
+      "name": "Rigoberto Wong"
+    },
+    {
+      "authorId": "2684806",
+      "name": "S. Irmak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

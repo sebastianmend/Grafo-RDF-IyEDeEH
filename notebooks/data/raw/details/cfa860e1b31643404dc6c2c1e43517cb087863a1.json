@@ -1,0 +1,57 @@
+{
+  "paperId": "cfa860e1b31643404dc6c2c1e43517cb087863a1",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/CulluTMTBB19",
+    "MAG": "2971812882",
+    "DOI": "10.1109/Agro-Geoinformatics.2019.8820527",
+    "CorpusId": 201832591
+  },
+  "url": "https://www.semanticscholar.org/paper/cfa860e1b31643404dc6c2c1e43517cb087863a1",
+  "title": "Integration And Importance Of Soil Mapping Results In The Precision Agriculture",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Agro-Geoinformatics.2019.8820527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Agro-Geoinformatics.2019.8820527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31388298",
+      "name": "M. A. Çullu"
+    },
+    {
+      "authorId": "2230494",
+      "name": "Mustafa Teke"
+    },
+    {
+      "authorId": "2089163449",
+      "name": "N. Mutlu"
+    },
+    {
+      "authorId": "88127419",
+      "name": "U. Türker"
+    },
+    {
+      "authorId": "50195434",
+      "name": "A. Bilgili"
+    },
+    {
+      "authorId": "2083422067",
+      "name": "Fatih Bozgeyik"
+    }
+  ],
+  "abstract": "Agricultural productivity and yield quantity are depended on climate, soil characteristics, and use of the factors of production. Agricultural inputs such as fertilizers, irrigation, seeds, pesticides, and farmers’ skills also influence farm productivity. Precision agriculture is a new farming management approach, where farmers capture and analyze data in order to optimize inputs and practices for best outcomes. This data then guides decisions on which crop to plant or when and where to apply fertilizer, agrochemicals, or water. As a result, farmers can optimize the use of inputs, making maximum use of the little resources they have. Improving the production capacity of agriculture in Turkey through productivity increases is an important policy goal where agriculture represents an essential sector in the economy. In recent years, projects and research is focused on the precision agriculture sectors in order to increase farmer’s income. Research supported by GAP regional development administration is conducting at the South Eastern Anatolia Region for extensification of precision agricultural applications. In the research, spatial and remote sensing data were integrated in order to analysis field. Spatial variation of soil properties is most important in precision agriculture that affecting the crop yields. In the project, detailed soil mapping, at 1:10.000 scale, was completed containing all soil characteristics and productivity map in GIS.",
+  "references": null
+}

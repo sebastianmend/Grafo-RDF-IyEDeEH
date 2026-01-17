@@ -1,0 +1,44 @@
+{
+  "paperId": "6c353d6add8a8f1f646bad1c22d48829ab8330cf",
+  "externalIds": {
+    "DBLP": "conf/isr2/LanganVX18",
+    "MAG": "2901328793",
+    "DOI": "10.1109/IISR.2018.8535837",
+    "CorpusId": 53424498
+  },
+  "url": "https://www.semanticscholar.org/paper/6c353d6add8a8f1f646bad1c22d48829ab8330cf",
+  "title": "Machine-Vision Based Location Detection Solutions for Autonomous Horticulture Rover During Early Growth Season",
+  "venue": "International Symposium on Robotics",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IISR.2018.8535837?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IISR.2018.8535837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2074656144",
+      "name": "D. Langan"
+    },
+    {
+      "authorId": "51883425",
+      "name": "Ryan Vraa"
+    },
+    {
+      "authorId": "145890135",
+      "name": "Chong Xu"
+    }
+  ],
+  "abstract": "In this paper, we present a complete set of solutions to detect the location of the autonomous horticulture rover used for precision agriculture purposes during the early growth stage of the crops. The horticulture rover autonomously traverses the furrow by aligning itself with the centerline using the dynamic inversion navigation algorithm. The navigation algorithm takes the cross-track error and heading error of the rover deviating from the centerline as the location input, and outputs the desired left and right track speeds to the control system to correct the rover course. The rover has been using the real time kinematic (RTK) -based global position system (GPS) as the sensor to detect the location of the rover, but satellite signals can suffer from sporadic loss, and the geographical characteristics of the environment need to be accurately mapped beforehand. These limits of RTK GPS drastically increase the work load of the operators and decrease the location detection accuracy of the rover. The proposed easy-to-implement machine-vision based location detection solution set accepts the raw pictures taken by the camera mounted on the rover as input and calculate the cross-track and heading errors of the rover as outputs. It neither requires the usage of GPS, nor acquisition of environmental geographical information beforehand. Our test results indicate that the proposed machine-vision based solution set is able to outperform the RTK GPS by providing the cross-track location and heading information of the rover with an error less than 20% of that achieved by a RTK GPS, when the rover is within the furrow during the early growth stage.",
+  "references": null
+}

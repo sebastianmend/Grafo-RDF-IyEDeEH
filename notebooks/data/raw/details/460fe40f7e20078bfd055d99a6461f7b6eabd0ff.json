@@ -1,0 +1,45 @@
+{
+  "paperId": "460fe40f7e20078bfd055d99a6461f7b6eabd0ff",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/0003SL19",
+    "MAG": "2971869526",
+    "DOI": "10.1109/Agro-Geoinformatics.2019.8820504",
+    "CorpusId": 201832435
+  },
+  "url": "https://www.semanticscholar.org/paper/460fe40f7e20078bfd055d99a6461f7b6eabd0ff",
+  "title": "Fine mapping of key soil nutrient content using high resolution remote sensing image to support precision agriculture in Northwest China",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Agro-Geoinformatics.2019.8820504?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Agro-Geoinformatics.2019.8820504, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "143701631",
+      "name": "Wen Dong"
+    },
+    {
+      "authorId": "46676395",
+      "name": "Yingwei Sun"
+    },
+    {
+      "authorId": "1762091",
+      "name": "Jiancheng Luo"
+    }
+  ],
+  "abstract": "The rapid development of industrialized agriculture has leads to the problems of soil pollution and water pollution. In order to solve these problems, precision agriculture (PA) has been applied to achieve precise management of agricultural water and fertilizer. In PA process, fine mapping of soil nutrient is an effective technology to acquire accurate water and fertilizer distribution information and make agricultural decision. A significant progress has been made in digital soil mapping (DSM) of soil nutrient content over the past 20 years. However, the accuracy of grid-based DSM cannot meet the practical application needs of PA. This paper proposed a fine DSM method of soil nutrient content using high resolution remote sensing images and multi-scale auxiliary data for PA application. Three key technologies were studied for the implementation of this method. The automatic extraction of fine mapping units was the basis of this method. We designed different automatic extraction methods based on high resolution remote sensing images for agricultural production units in plains and mountainous areas. The auxiliary variables in different scales were chosen and converted to construct fine-scale soil nutrient-environment relationship model. Finally, machine learning methods were used to map the spatial distribution of soil nutrients. We chose Zhongning County, Ningxia Province as the study area, which includes typical plain and mountainous agriculture. The proposed method and technologies were applied for typical soil nutrients mapping. A common grid-based spatial interpolation method was implemented with the same soil sample dataset to evaluate the effect of the proposed method. The result showed that this method could reduce the number of prediction units and effectively improve the prediction efficiency in both plain and mountainous areas for fine soil mapping and precision agriculture application. This study was an attempt to realize fine soil mapping based on PA application unit in different environments. The high-resolution remote sensing images provide basic data for the realization of this idea, and the conversion technology of multi-scale data provides better support for the spatial inference of fine soil attribute information. In the future, we will carry out experiments in larger areas to further improve the efficiency of application, and plan to expand this study to consider three-dimensional soil property prediction.",
+  "references": null
+}

@@ -1,0 +1,68 @@
+{
+  "paperId": "12d310588dc22bc5cea64b20fc95df64994cdc86",
+  "externalIds": {
+    "DBLP": "conf/mocast/ArabyEMSAADFM19",
+    "MAG": "2952264173",
+    "DOI": "10.1109/MOCAST.2019.8741794",
+    "CorpusId": 195224223
+  },
+  "url": "https://www.semanticscholar.org/paper/12d310588dc22bc5cea64b20fc95df64994cdc86",
+  "title": "Smart IoT Monitoring System for Agriculture with Predictive Analysis",
+  "venue": "International Conference on Modern Circuits and Systems Technologies",
+  "year": 2019,
+  "citationCount": 57,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MOCAST.2019.8741794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MOCAST.2019.8741794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2287448834",
+      "name": "Alaa Adel Araby"
+    },
+    {
+      "authorId": "2287406269",
+      "name": "Mai Mohamed Abd Elhameed"
+    },
+    {
+      "authorId": "2287377058",
+      "name": "Nada Mohamed Magdy"
+    },
+    {
+      "authorId": "2287393740",
+      "name": "Loa'a Ahmed Said"
+    },
+    {
+      "authorId": "77277195",
+      "name": "N. Abdelaal"
+    },
+    {
+      "authorId": "2287401584",
+      "name": "Yomna Tarek Abd Allah"
+    },
+    {
+      "authorId": "2263509191",
+      "name": "M. S. Darweesh"
+    },
+    {
+      "authorId": "2287417594",
+      "name": "Mohamed Ali Fahim"
+    },
+    {
+      "authorId": "1762358",
+      "name": "H. Mostafa"
+    }
+  ],
+  "abstract": "The Internet of Things (IoT) technology has the means to shape the future of many industries. Data is the language of the communication between different nodes through the network; the networks are the communication channel. The cloud is the home and destination of the data which adds intelligence through data analytics software, Precision agriculture uses the IoT features to help in managing crops production, by optimizing the quality of the crops through applying required nutrients and reduce the harmful impacts on the environment due to the application of excess pesticides. In this paper, we deployed a sensing network to gather the field data of some crops (Potatoes, Tomatoes, etc.), then fed these data to a machine learning algorithm to get a warning message finally displaying both the data and the warning message through a Graphical User Interface (GUI).",
+  "references": null
+}

@@ -1,0 +1,36 @@
+{
+  "paperId": "2df460ebb97420c090427e2446b811d074c6ce94",
+  "externalIds": {
+    "MAG": "2995063858",
+    "CorpusId": 208207070
+  },
+  "url": "https://www.semanticscholar.org/paper/2df460ebb97420c090427e2446b811d074c6ce94",
+  "title": "Isolines in 3D Radar Images for Remote Sensing Applications",
+  "venue": "European Radar Conference",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "35375904",
+      "name": "D. Henry"
+    },
+    {
+      "authorId": "1968586",
+      "name": "H. Aubert"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

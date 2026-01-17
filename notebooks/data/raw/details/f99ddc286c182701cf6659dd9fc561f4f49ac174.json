@@ -1,0 +1,143 @@
+{
+  "paperId": "f99ddc286c182701cf6659dd9fc561f4f49ac174",
+  "externalIds": {
+    "MAG": "2938754934",
+    "DBLP": "journals/information/MylonasVS19",
+    "DOI": "10.3390/INFO10040149",
+    "CorpusId": 145918049
+  },
+  "url": "https://www.semanticscholar.org/paper/f99ddc286c182701cf6659dd9fc561f4f49ac174",
+  "title": "A Collaborative Pilot Platform for Data Annotation and Enrichment in Viticulture",
+  "venue": "Inf.",
+  "year": 2019,
+  "citationCount": 19,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/10/4/149/pdf?version=1555995200",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/INFO10040149?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/INFO10040149, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1684455",
+      "name": "Phivos Mylonas"
+    },
+    {
+      "authorId": "32213005",
+      "name": "Yorghos Voutos"
+    },
+    {
+      "authorId": "46590453",
+      "name": "Anastasia Sofou"
+    }
+  ],
+  "abstract": "It took some time indeed, but the research evolution and transformations that occurred in the smart agriculture field over the recent years tend to constitute the latter as the main topic of interest in the so-called Internet of Things (IoT) domain. Undoubtedly, our era is characterized by the mass production of huge amounts of data, information and content deriving from many different sources, mostly IoT devices and sensors, but also from environmentalists, agronomists, winemakers, or plain farmers and interested stakeholders themselves. Being an emerging field, only a small part of this rich content has been aggregated so far in digital platforms that serve as cross-domain hubs. The latter offer typically limited usability and accessibility of the actual content itself due to problems dealing with insufficient data and metadata availability, as well as their quality. Over our recent involvement within a precision viticulture environment and in an effort to make the notion of smart agriculture in the winery domain more accessible to and reusable from the general public, we introduce herein the model of an aggregation platform that provides enhanced services and enables human-computer collaboration for agricultural data annotations and enrichment. In principle, the proposed architecture goes beyond existing digital content aggregation platforms by advancing digital data through the combination of artificial intelligence automation and creative user engagement, thus facilitating its accessibility, visibility, and re-use. In particular, by using image and free text analysis methodologies for automatic metadata enrichment, in accordance to the human expertise for enrichment, it offers a cornerstone for future researchers focusing on improving the quality of digital agricultural information analysis and its presentation, thus establishing new ways for its efficient exploitation in a larger scale with benefits both for the agricultural and the consumer domains.",
+  "references": [
+    {
+      "paperId": "83ed060560ad572fba9d6f6369726e73a53b3aaf"
+    },
+    {
+      "paperId": "a68f69ad865b28598d0fae3b9827c118e9847307"
+    },
+    {
+      "paperId": "dd1dab636043dae7234d94bb5b1de88f5eeea7ad"
+    },
+    {
+      "paperId": "f4484ddfe3ae7f759583e49e04c236c57734c10d"
+    },
+    {
+      "paperId": "6e23398447a022fb9495c44fa80e9de593a574bc"
+    },
+    {
+      "paperId": "b728b32379735ef08f0cc5a14e5c8af136683fd3"
+    },
+    {
+      "paperId": "efdb1da7d56203e8ed11694440a488356690f501"
+    },
+    {
+      "paperId": "97fdb09c840f8503b8c50a2f769302024a643bf2"
+    },
+    {
+      "paperId": "e5e1e2ca688f6c05680c7a7a648d117bd0adc634"
+    },
+    {
+      "paperId": "74edd360ed667f791b06f1222d967ac00eda3d0c"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "7d57d79e9900e9525e1dfbf11d73621a412ae372"
+    },
+    {
+      "paperId": "ce2d4f87ecd11983a01e1215b1288f71990da1ec"
+    },
+    {
+      "paperId": "4ea97bd239f5f4a7ea4c4acdf23d3b5553e04fe4"
+    },
+    {
+      "paperId": "845c7b82e79d6ddaa450011ff63d1ce96cf008bc"
+    },
+    {
+      "paperId": "8edc19d3ae017420b4e208bc643e974898d0274f"
+    },
+    {
+      "paperId": "fcf25c3acb14264473133554c7478c6dd910cd60"
+    },
+    {
+      "paperId": "d47cfaf38daa230e6595b4ecb8f62d4f006bbf39"
+    },
+    {
+      "paperId": "4361139c1d308254c803ad952da3be887dd065bd"
+    },
+    {
+      "paperId": "b0b8c61c97c07a2702eee1761c3141a1c8e2bb64"
+    },
+    {
+      "paperId": "101943bbe96a4e34d617566ec04fc54619803d4e"
+    },
+    {
+      "paperId": "ed88ee32848a40c897723c504e7541ecd376bbd9"
+    },
+    {
+      "paperId": "fb76df7b3e0fb9353b5d8aabb2a1e1468f6d2878"
+    },
+    {
+      "paperId": "d3171e9797fad981c3c62452cb0bf2735bf32c04"
+    },
+    {
+      "paperId": "f783d23551e52b8375d72ef5447180f2db82e72a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7f3f606131e5d1387c27be683697fe2b0e21d8b5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "72d905475e7b822e90b02b96b89db42259615812"
+    },
+    {
+      "paperId": "50c8fdb2aff836fe6d7198bdc9292f2a3cea5ad1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "paperId": "93270f45924ee7c7fd6eb6ec534216dc75789736",
+  "externalIds": {
+    "MAG": "2890011456",
+    "DBLP": "journals/remotesensing/WanLCZYWZSZH18",
+    "DOI": "10.3390/RS10091484",
+    "CorpusId": 52934901
+  },
+  "url": "https://www.semanticscholar.org/paper/93270f45924ee7c7fd6eb6ec534216dc75789736",
+  "title": "Combining UAV-Based Vegetation Indices and Image Classification to Estimate Flower Number in Oilseed Rape",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 127,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/9/1484/pdf?version=1537194458",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10091484?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10091484, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144869987",
+      "name": "Liang Wan"
+    },
+    {
+      "authorId": "2110511961",
+      "name": "Yijian Li"
+    },
+    {
+      "authorId": "50762136",
+      "name": "Haiyan Cen"
+    },
+    {
+      "authorId": "51440675",
+      "name": "Jiangpeng Zhu"
+    },
+    {
+      "authorId": "21114514",
+      "name": "Wenxin Yin"
+    },
+    {
+      "authorId": "2110588610",
+      "name": "Weikang Wu"
+    },
+    {
+      "authorId": "152270352",
+      "name": "Hongyan Zhu"
+    },
+    {
+      "authorId": "2125607453",
+      "name": "Dawei Sun"
+    },
+    {
+      "authorId": "1687903",
+      "name": "Weijun Zhou"
+    },
+    {
+      "authorId": "72277943",
+      "name": "Yong He"
+    }
+  ],
+  "abstract": "Remote estimation of flower number in oilseed rape under different nitrogen (N) treatments is imperative in precision agriculture and field remote sensing, which can help to predict the yield of oilseed rape. In this study, an unmanned aerial vehicle (UAV) equipped with Red Green Blue (RGB) and multispectral cameras was used to acquire a series of field images at the flowering stage, and the flower number was manually counted as a reference. Images of the rape field were first classified using K-means method based on Commission Internationale de l’Éclairage (CIE) L*a*b* space, and the result showed that classified flower coverage area (FCA) possessed a high correlation with the flower number (r2 = 0.89). The relationships between ten commonly used vegetation indices (VIs) extracted from UAV-based RGB and multispectral images and the flower number were investigated, and the VIs of Normalized Green Red Difference Index (NGRDI), Red Green Ratio Index (RGRI) and Modified Green Red Vegetation Index (MGRVI) exhibited the highest correlation to the flower number with the absolute correlation coefficient (r) of 0.91. Random forest (RF) model was developed to predict the flower number, and a good performance was achieved with all UAV variables (r2 = 0.93 and RMSEP = 16.18), while the optimal subset regression (OSR) model was further proposed to simplify the RF model, and a better result with r2 = 0.95 and RMSEP = 14.13 was obtained with the variable combination of RGRI, normalized difference spectral index (NDSI (944, 758)) and FCA. Our findings suggest that combining VIs and image classification from UAV-based RGB and multispectral images possesses the potential of estimating flower number in oilseed rape.",
+  "references": [
+    {
+      "paperId": "5b1d337a844b8937af534983e6da20e7b30ca1e5"
+    },
+    {
+      "paperId": "0fcb1938fa94a92c3f4450bfdb76b8349fca751e"
+    },
+    {
+      "paperId": "36b3e856c2f964f52fcfbbf719be69c52fde6409"
+    },
+    {
+      "paperId": "c333ab6d4020685fe4fc0b5e1ecad6d5054ba629"
+    },
+    {
+      "paperId": "dc559f819e39c53441a5a0a1b7436f4c0387f6eb"
+    },
+    {
+      "paperId": "0825d6b23cc993c2d9741b9e02af3eeb6b35c083"
+    },
+    {
+      "paperId": "1fd4ea46d7b7213c6bfd57cc11f535dc698c3e7d"
+    },
+    {
+      "paperId": "c932b3cfbc94895078f2c468800cd70da968f9d6"
+    },
+    {
+      "paperId": "4830bc502c4b84ecc9674a7ed95dac5b934b1eaa"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "a63814ed699602d630f3c255569f3aecec9398d3"
+    },
+    {
+      "paperId": "60db10114a2ad9eacf0eb8ca59ef43f95d6b5680"
+    },
+    {
+      "paperId": "354b2f592603a2d0a81de44e4172f67a3685991f"
+    },
+    {
+      "paperId": "24fd5a1aaff1a6868520aefbc8fd5890f279ece6"
+    },
+    {
+      "paperId": "339cc7345e2d0abd6be67c6b030a8be077759af1"
+    },
+    {
+      "paperId": "439d225c99024ce3b281e65c100e7b721d4c0cb6"
+    },
+    {
+      "paperId": "29e596503d6a514c2f5d5715ae551ddcea73d828"
+    },
+    {
+      "paperId": "e74d28ff193929cf613423bfe93e8ff9a4a22abf"
+    },
+    {
+      "paperId": "9d64edf18af7dc97adbb930f4577471cf751ec39"
+    },
+    {
+      "paperId": "68e79689a28c38dec0470c566713bdcebb473ca5"
+    },
+    {
+      "paperId": "91d9cbda9f8e43015cd3f404d3bb0e4511ff1bdc"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "1895b2feaf0e8541789e51994851d4bd63cd553d"
+    },
+    {
+      "paperId": "0dae8c8aeeb0c8dcfd64c49e2d470a97bb94d0e4"
+    },
+    {
+      "paperId": "d0837a98c6a706150f98a0e66dc6c221c724daf0"
+    },
+    {
+      "paperId": "a4c13ffca7399417037a6fde6d9f9a37d566e2ad"
+    },
+    {
+      "paperId": "a14280872980bd4d0d9c05615677aa86a4129e64"
+    },
+    {
+      "paperId": "84a95557712af4aee6044e6f32696b04d3bdb9ae"
+    },
+    {
+      "paperId": "3e270106c9233df0963ce695b07a13ab8defe1b5"
+    },
+    {
+      "paperId": "fab0a33c7aef9f85c013c2db511b3dc9a7ea9e94"
+    },
+    {
+      "paperId": "3151517fd2695fc7f0228464ef187dfe2e7b0c7c"
+    },
+    {
+      "paperId": "155876fb17dae8dd70eeee85cdf7972a4c1e2eba"
+    },
+    {
+      "paperId": "45c625597fb70f457f63ed4c96dca90f24a83e23"
+    },
+    {
+      "paperId": "f3baf27de77f36470ad54a6dd8526acd789a7a36"
+    },
+    {
+      "paperId": "d34af77559146a250cdefb59a6ce0bdb44dcadd3"
+    },
+    {
+      "paperId": "532a070b8bf33ccbff28301bb8939677c33209aa"
+    },
+    {
+      "paperId": "6a13d0571818af07ff24da03ca3b2235dba6fa44"
+    },
+    {
+      "paperId": "f34729f8d5b95cb30f69a027f87eb588dbfed3f6"
+    },
+    {
+      "paperId": "d53c65fc3dbd9d3457d3a306951511157154ff07"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "6223ca525d821eb291fd8b801f83ee55061e7ade"
+    },
+    {
+      "paperId": "0f4e05823e8dd1c1def6dc8574242df80a4ca2e0"
+    },
+    {
+      "paperId": "34ca3972f2760232a98bc9dba4ec98b75c852403"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "feb315ebb61cd1658dfe3d7ecbad933de9057b00"
+    },
+    {
+      "paperId": "9241ea3d8cb85633d314ecb74b31567b8e73f6af"
+    },
+    {
+      "paperId": "939c99e00bef5f9b10f2c4f5c726a17f710e7f85"
+    },
+    {
+      "paperId": "cffef57761766a51fcd6a4139c3d1c3926a77565"
+    },
+    {
+      "paperId": "d7493ccdc79a606f9cbd88ea88e883b3531b335a"
+    },
+    {
+      "paperId": "9484240b4dfe10a40b80037d6869c4b035615be9"
+    },
+    {
+      "paperId": "f5eb1448913e33ccd22348fa551504674baf89a2"
+    },
+    {
+      "paperId": "91f975f59f509c232d4f3e203d709f1dd7b7cf54"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

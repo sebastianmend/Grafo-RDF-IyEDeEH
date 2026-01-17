@@ -1,0 +1,184 @@
+{
+  "paperId": "51c8138e8a9685176345d57523e4c5fa6c4ba43d",
+  "externalIds": {
+    "MAG": "2985179740",
+    "DBLP": "journals/remotesensing/MyersKDR19",
+    "DOI": "10.3390/rs11212558",
+    "CorpusId": 207822172
+  },
+  "url": "https://www.semanticscholar.org/paper/51c8138e8a9685176345d57523e4c5fa6c4ba43d",
+  "title": "Assessing the Impact of Satellite Revisit Rate on Estimation of Corn Phenological Transition Timing through Shape Model Fitting",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/21/2558/pdf?version=1572507443",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11212558?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11212558, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "121470720",
+      "name": "E. Myers"
+    },
+    {
+      "authorId": "145147556",
+      "name": "J. Kerekes"
+    },
+    {
+      "authorId": "2529128",
+      "name": "C. Daughtry"
+    },
+    {
+      "authorId": "39883919",
+      "name": "A. Russ"
+    }
+  ],
+  "abstract": "Agricultural monitoring is an important application of earth-observing satellite systems. In particular, image time-series data are often fit to functions called shape models that are used to derive phenological transition dates or predict yield. This paper aimed to investigate the impact of imaging frequency on model fitting and estimation of corn phenological transition timing. Images (PlanetScope 4-band surface reflectance) and in situ measurements (Soil Plant Analysis Development (SPAD) and leaf area index (LAI)) were collected over a corn field in the mid-Atlantic during the 2018 growing season. Correlation was performed between candidate vegetation indices and SPAD and LAI measurements. The Normalized Difference Vegetation Index (NDVI) was chosen for shape model fitting based on the ground truth correlation and initial fitting results. Plot-average NDVI time-series were cleaned and fit to an asymmetric double sigmoid function, from which the day of year (DOY) of six different function parameters were extracted. These points were related to ground-measured phenological stages. New time-series were then created by removing images from the original time-series, so that average temporal spacing between images ranged from 3 to 24 days. Fitting was performed on the resampled time-series, and phenological transition dates were recalculated. Average range of estimated dates increased by 1 day and average absolute deviation between dates estimated from original and resampled time-series data increased by 1/3 of a day for every day of increase in average revisit interval. In the context of this study, higher imaging frequency led to greater precision in estimates of shape model fitting parameters used to estimate corn phenological transition timing.",
+  "references": [
+    {
+      "paperId": "c047ab486e0346e695104a7ecf73c5badf07e678"
+    },
+    {
+      "paperId": "288872b14c096de05f5d13eeda2ca14e9e753778"
+    },
+    {
+      "paperId": "b5c0c5ede426a4802054d16c3b8a0b135d868377"
+    },
+    {
+      "paperId": "cc0e8d157c552f3b23aaf9c3c03a9d9b4719799f"
+    },
+    {
+      "paperId": "a8c4c4ef01f69c10f0d81f32bb17031dd6e10c96"
+    },
+    {
+      "paperId": "a5a2be90d12663567512ee2b61831a8e66e8b66c"
+    },
+    {
+      "paperId": "a2088bf05fe427b1b548e5c4c3e44c4034c6db12"
+    },
+    {
+      "paperId": "7d0f50de4f6c3b20c5f6a69c3737798a1bbcceae"
+    },
+    {
+      "paperId": "c27e0b588046b06cd0cdeea4466d8c64b27f5362"
+    },
+    {
+      "paperId": "20bd52b893eb22b57af996a2e6639c94f2976d55"
+    },
+    {
+      "paperId": "cfa2bdbe1cc29a99c63a79fbaa0e46eb15c66310"
+    },
+    {
+      "paperId": "452c5d41dd859da7c7280b38c1161863f31a59d9"
+    },
+    {
+      "paperId": "fc6c16cf861d40637e483dd79c828f61c1936c35"
+    },
+    {
+      "paperId": "6d6b7fae7218fd211d39f7e0d1a22356c306928c"
+    },
+    {
+      "paperId": "11782ca751803a5efe2a9addc07cace2eb1ec32e"
+    },
+    {
+      "paperId": "ba772ad41fc4b91ac795b3cd737fbcf1c26efe21"
+    },
+    {
+      "paperId": "b2f0f3d487f3580fb0a22d5e55377f54a0de0522"
+    },
+    {
+      "paperId": "dfeb5008b4021571b8a2226dc5a9ff66d3e5a48b"
+    },
+    {
+      "paperId": "329965558fab9b2d2d6566c34894760e5cb33e45"
+    },
+    {
+      "paperId": "222ecf9fa3dc08b09b3ef6b3d6cb8a6c7c745da3"
+    },
+    {
+      "paperId": "401d9035e6456b85b96e922513ed95e0eccc3fda"
+    },
+    {
+      "paperId": "6e201459b793d2bdaf3e4af87f40254c45358dd4"
+    },
+    {
+      "paperId": "f475191d07a5a6b5e809ad339624f786946dd6ef"
+    },
+    {
+      "paperId": "930dadaa8c4c0b2069420b92e01f9cf4b116f8d2"
+    },
+    {
+      "paperId": "8d2e3f76ac54afacf41c569b53f3067e98b3ef5b"
+    },
+    {
+      "paperId": "a22b2714cd5fe27b4a7eb6cdbef6214c069861ea"
+    },
+    {
+      "paperId": "5d7c4b1414bd97f189b361c32016c60ac4fea6a1"
+    },
+    {
+      "paperId": "a5626016960d7f8ad1225084f98900e887b907cb"
+    },
+    {
+      "paperId": "7eb9aa1681d8e198874a6a466f9227bb518f5d5f"
+    },
+    {
+      "paperId": "fda8bc006adebafd113a657c891040d7100a5c14"
+    },
+    {
+      "paperId": "828f753c38841dbf640d53bdd03473999690049c"
+    },
+    {
+      "paperId": "bdcd4d04ee10426569227061655108419731020d"
+    },
+    {
+      "paperId": "11084079ac17e3e2654e9ced7dfe222c1ccf9700"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bc07b7fa08c047d477cc858a6bad77c311ec2fdc"
+    },
+    {
+      "paperId": "5b973c24e7eecbc1e82bad2b0220a281135fdb5e"
+    },
+    {
+      "paperId": "17bbaf2bc96f8bcf75144485ff49b6a8c7c440ae"
+    },
+    {
+      "paperId": "67c49aee50f16c5266affb501d717580878a2e6a"
+    },
+    {
+      "paperId": "aef80c000ed32d6558c63ef9d962046e6fb5f226"
+    },
+    {
+      "paperId": "321030a4e96b23d226f0c4d283e0b5fc344d4ed7"
+    },
+    {
+      "paperId": "818612a50b26390c4a802b2f547b3a4aa5ff0127"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "f76d66149f35cfc868419063babd63d459eab405"
+    }
+  ]
+}

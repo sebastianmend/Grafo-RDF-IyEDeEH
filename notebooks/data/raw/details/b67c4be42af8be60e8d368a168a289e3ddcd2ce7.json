@@ -1,0 +1,53 @@
+{
+  "paperId": "b67c4be42af8be60e8d368a168a289e3ddcd2ce7",
+  "externalIds": {
+    "MAG": "2889400155",
+    "DOI": "10.1146/annurev-phyto-080417-050100",
+    "CorpusId": 52096158,
+    "PubMed": "30149790"
+  },
+  "url": "https://www.semanticscholar.org/paper/b67c4be42af8be60e8d368a168a289e3ddcd2ce7",
+  "title": "Hyperspectral Sensors and Imaging Technologies in Phytopathology: State of the Art.",
+  "venue": "Annual Review of Phytopathology",
+  "year": 2018,
+  "citationCount": 256,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-phyto-080417-050100?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-phyto-080417-050100, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2205695012",
+      "name": "Anne‐Katrin Mahlein"
+    },
+    {
+      "authorId": "7022516",
+      "name": "M. Kuska"
+    },
+    {
+      "authorId": "2895826",
+      "name": "J. Behmann"
+    },
+    {
+      "authorId": "3103340",
+      "name": "G. Polder"
+    },
+    {
+      "authorId": "2119140504",
+      "name": "Achim Walter"
+    }
+  ],
+  "abstract": "Plant disease detection represents a tremendous challenge for research and practical applications. Visual assessment by human raters is time-consuming, expensive, and error prone. Disease rating and plant protection need new and innovative techniques to address forthcoming challenges and trends in agricultural production that require more precision than ever before. Within this context, hyperspectral sensors and imaging techniques-intrinsically tied to efficient data analysis approaches-have shown an enormous potential to provide new insights into plant-pathogen interactions and for the detection of plant diseases. This article provides an overview of hyperspectral sensors and imaging technologies for assessing compatible and incompatible plant-pathogen interactions. Within the progress of digital technologies, the vision, which is increasingly discussed in the society and industry, includes smart and intuitive solutions for assessing plant features in plant phenotyping or for making decisions on plant protection measures in the context of precision agriculture.",
+  "references": null
+}

@@ -1,0 +1,142 @@
+{
+  "paperId": "459fb34df48133ef56e9a035ec7bffa5f5a92dac",
+  "externalIds": {
+    "PubMedCentral": "8387886",
+    "DOI": "10.2196/15864",
+    "CorpusId": 236997073,
+    "PubMed": "34383679"
+  },
+  "url": "https://www.semanticscholar.org/paper/459fb34df48133ef56e9a035ec7bffa5f5a92dac",
+  "title": "Health Impacts of Perchlorate and Pesticide Exposure: Protocol for Community-Engaged Research to Evaluate Environmental Toxicants in a US Border Community",
+  "venue": "JMIR Research Protocols",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.researchprotocols.org/2021/8/e15864/PDF",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8387886, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "79969758",
+      "name": "Robert T Trotter Ii"
+    },
+    {
+      "authorId": "40509560",
+      "name": "J. Baldwin"
+    },
+    {
+      "authorId": "145092693",
+      "name": "C. Buck"
+    },
+    {
+      "authorId": "10064590",
+      "name": "Mark Remiker"
+    },
+    {
+      "authorId": "2054215226",
+      "name": "Amanda Aguirre"
+    },
+    {
+      "authorId": "12387041",
+      "name": "Trudie Milner"
+    },
+    {
+      "authorId": "117361113",
+      "name": "Emma Torres"
+    },
+    {
+      "authorId": "6662188",
+      "name": "F. V. von Hippel"
+    }
+  ],
+  "abstract": "Background The Northern Arizona University (NAU) Center for Health Equity Research (CHER) is conducting community-engaged health research involving “environmental scans” in Yuma County in collaboration with community health stakeholders, including the Yuma Regional Medical Center (YRMC), Regional Center for Border Health, Inc. (RCBH), Campesinos Sin Fronteras (CSF), Yuma County Public Health District, and government agencies and nongovernmental organizations (NGOs) working on border health issues. The purpose of these efforts is to address community-generated environmental health hazards identified through ongoing coalitions among NAU, and local health care and research institutions. Objective We are undertaking joint community/university efforts to examine human exposures to perchlorate and agricultural pesticides. This project also includes the parallel development of a new animal model for investigating the mechanisms of toxicity following a “one health” approach. The ultimate goal of this community-engaged effort is to develop interventions to reduce exposures and health impacts of contaminants in Yuma populations. Methods All participants completed the informed consent process, which included information on the purpose of the study, a request for access to health histories and medical records, and interviews. The interview included questions related to (1) demographics, (2) social determinants of health, (3) health screening, (4) occupational and environmental exposures to perchlorate and pesticides, and (5) access to health services. Each participant provided a hair sample for quantifying the metals used in pesticides, urine sample for perchlorate quantification, and blood sample for endocrine assays. Modeling will examine the relationships between the concentrations of contaminants and hormones, demographics and social determinants of health, and health status of the study population, including health markers known to be impacted by perchlorate and pesticides. Results We recruited 323 adults residing in Yuma County during a 1-year pilot/feasibility study. Among these, 147 residents were patients from either YRMC or RCBH with a primary diagnosis of thyroid disease, including hyperthyroidism, hypothyroidism, thyroid cancer, or goiter. The remaining 176 participants were from the general population but with no history of thyroid disorder. The pilot study confirmed the feasibility of using the identified community-engaged protocol to recruit, consent, and collect data from a difficult-to-access, vulnerable population. The demographics of the pilot study population and positive feedback on the success of the community-engaged approach indicate that the project can be scaled up to a broader study with replicable population health findings. Conclusions Using a community-engaged approach, the research protocol provided substantial evidence regarding the effectiveness of designing and implementing culturally relevant recruitment and dissemination processes that combine laboratory findings and public health information. Future findings will elucidate the mechanisms of toxicity and the population health effects of the contaminants of concern, as well as provide a new animal model to develop precision medicine capabilities for the population. International Registered Report Identifier (IRRID) DERR1-10.2196/15864",
+  "references": [
+    {
+      "paperId": "b46e51c7def57f582112451e9066ddec6bc59049"
+    },
+    {
+      "paperId": "2029878b827294f1639d73575783c79c72007c40"
+    },
+    {
+      "paperId": "ce45d8abc2820631379a15251c7630bce2282b6a"
+    },
+    {
+      "paperId": "1edbb84d91f32906dcbf1fed49b62266e7618a82"
+    },
+    {
+      "paperId": "f4d5d1cd7e86b6916b1b4fb499ff7677357c6745"
+    },
+    {
+      "paperId": "69c6a6b65433d613cd7680ce45fccb561d0a8580"
+    },
+    {
+      "paperId": "2c1d88d6e585bc44d2260cb8292c1cddaf6bb42c"
+    },
+    {
+      "paperId": "be1b5628882aac0f3195e40fa45a6c14f203e407"
+    },
+    {
+      "paperId": "a295bebcb765f43d52f66339e805b6abc661de10"
+    },
+    {
+      "paperId": "1421c1f62011959737effe69d99958839f96812e"
+    },
+    {
+      "paperId": "791c9926cfc37287cafe1042372db7c582e89a8d"
+    },
+    {
+      "paperId": "2dcfda9a4af8ed4103ffccf1b4094f9cd8e6d1d0"
+    },
+    {
+      "paperId": "285e1564498897776a756b0e3effab43ee6dadb5"
+    },
+    {
+      "paperId": "52eb02ef5a65e1dbd1e33972a7b854b1a46210c1"
+    },
+    {
+      "paperId": "a10ef07391d2ef77e9b9e6b6c0a845d72e20e224"
+    },
+    {
+      "paperId": "022232377863cc5db0b5b5e0ecced0f78b51a89f"
+    },
+    {
+      "paperId": "ffb451151d67b9b108cdfb90be57b8bc2aa35f13"
+    },
+    {
+      "paperId": "9b31b687a38b26cd1ad908feb814125c749ab7f6"
+    },
+    {
+      "paperId": "850208bdf3f0e5cf3b9fc89f3606723c9b549da1"
+    },
+    {
+      "paperId": "bec675130ce154325458b5198589c8ba82829022"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6faedf43b2bb3e1eb94367b9623ed0374cd6c1af"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cd6120b3c986a75880ab32543a5e5cdef6a19f9e"
+    },
+    {
+      "paperId": "13ba2fffcc97722a1cfb4dd3e91d7d1ecfcb6655"
+    },
+    {
+      "paperId": "cac84061cd3a5d0eb109683c11a9ebd5cfae122a"
+    }
+  ]
+}

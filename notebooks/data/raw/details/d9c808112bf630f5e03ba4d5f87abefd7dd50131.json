@@ -1,0 +1,329 @@
+{
+  "paperId": "d9c808112bf630f5e03ba4d5f87abefd7dd50131",
+  "externalIds": {
+    "MAG": "2965666581",
+    "DOI": "10.1007/s40789-019-00264-5",
+    "CorpusId": 201314110
+  },
+  "url": "https://www.semanticscholar.org/paper/d9c808112bf630f5e03ba4d5f87abefd7dd50131",
+  "title": "A review of UAV monitoring in mining areas: current status and future perspectives",
+  "venue": "International Journal of Coal Science & Technology",
+  "year": 2019,
+  "citationCount": 290,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s40789-019-00264-5.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40789-019-00264-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40789-019-00264-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2114294020",
+      "name": "H. Ren"
+    },
+    {
+      "authorId": "2109767056",
+      "name": "Yanling Zhao"
+    },
+    {
+      "authorId": "1626859631",
+      "name": "Wu Xiao"
+    },
+    {
+      "authorId": "9240502",
+      "name": "Zhenqi Hu"
+    }
+  ],
+  "abstract": "With the emergence and development of unmanned aerial vehicles (UAVs), different sensors have become more miniaturized and intelligent. UAVs equipped with various sensors are now an important approach for acquiring spatial data. Many advantages, such as low cost, short revisiting cycle, flexibility and high precision, have made UAVs powerful tools in geological, agricultural, ecological and forestry growth monitoring, as well as evaluation. Now, UAVs are a hotspot in scientific research. Their application in mining areas (MA), although still in its infancy, is developing rapidly in terms of speed, scale and service scope. This research examines aspects such as UAV platforms, different sensors and their application fields, as well as reviewing the advances of scientific research in MA at the present time. By combining current research and the functions of multiple sensors, an application framework for UAV monitoring in MA is constructed. Finally, the challenge and prospects for the development of UAVs and sensors are also considered. This research hopes to provide a technical reference, expanding the knowledge and recognition of UAV monitoring in MA, as well as an assessment of applications in mining, reclamation and environment.",
+  "references": [
+    {
+      "paperId": "b5dedebb73de4fd4540628b6fed489027163a6f7"
+    },
+    {
+      "paperId": "bada986da1baebbf1c77f0543b7175b3958cc90e"
+    },
+    {
+      "paperId": "90690331fe5ec758834cb15aa6f494de6cf8cc41"
+    },
+    {
+      "paperId": "37eb8f2f1c2461716e431ab449c58ad7cd954190"
+    },
+    {
+      "paperId": "fe32ff08dd9e18b24b1f2ce21da4107c18422fb4"
+    },
+    {
+      "paperId": "2cadafabdd0746b148a381654f1a07373ecbbd22"
+    },
+    {
+      "paperId": "e6ae94d1af64cd44363fab896674a2a58737dbaa"
+    },
+    {
+      "paperId": "8e693f649446eb629d112795111c8a1febdfac59"
+    },
+    {
+      "paperId": "0a43761e5489d4b8d85020c3eaf37729fd11d244"
+    },
+    {
+      "paperId": "36b3e856c2f964f52fcfbbf719be69c52fde6409"
+    },
+    {
+      "paperId": "6305970d0c40302db481112846ec9031c48b47a2"
+    },
+    {
+      "paperId": "9903319098b26d0c1f02f51f6321f938fcfb8eda"
+    },
+    {
+      "paperId": "310337b6ce1a1e492505f247c7071b7d555e7ef7"
+    },
+    {
+      "paperId": "5eae8a5739b3f25f513c1d9c6e45330a6ae93a91"
+    },
+    {
+      "paperId": "dc2d0552bb260ab5a5fa92e6702ee54b38615934"
+    },
+    {
+      "paperId": "53af4553dd9c5321a09bd5b06c56d0380d4355e4"
+    },
+    {
+      "paperId": "52489d82250e3f37bfb9a45fa58db7dc037b2588"
+    },
+    {
+      "paperId": "1c310d3878656f67c127de2ca9d243f85d4d1dac"
+    },
+    {
+      "paperId": "daf5cfc86c5ab357b265baf675144635507deeb0"
+    },
+    {
+      "paperId": "771dc22911ac447e26d77b339491c2cba2955d0c"
+    },
+    {
+      "paperId": "b23335af2b262bf44746d088626bfa07eef538c5"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "e2926df2b30a9ff7b105547657d88201ff3db06a"
+    },
+    {
+      "paperId": "b7bf4775bb490c31e2179c5674d34093161c1413"
+    },
+    {
+      "paperId": "06bdaf2da1c54f26a9ce00c270dc9f7552b2ffb8"
+    },
+    {
+      "paperId": "f34505a61fe8b77ea47b7206e2582c98e1d986c2"
+    },
+    {
+      "paperId": "6b6f7ed1e8f6491b4c73c1ff8c0db2461ae97cc4"
+    },
+    {
+      "paperId": "2929bf3e7c5d6a2f36ba578e53767b5352578a2d"
+    },
+    {
+      "paperId": "dfdf1c54c1e9c3fbc195f197a22c81ae9935c6b2"
+    },
+    {
+      "paperId": "ad5074353f2740000c1a8a936ef2a909d4493feb"
+    },
+    {
+      "paperId": "4c6477092e523783dab3b798e192423c11f191ea"
+    },
+    {
+      "paperId": "2a5f01665d215a5ad8066c478e236da8ab35d672"
+    },
+    {
+      "paperId": "a799dc3b932471792edcc6f0bfaa336ad29f926c"
+    },
+    {
+      "paperId": "cb183603f50702f240188a51746edbd1ef00c663"
+    },
+    {
+      "paperId": "fce28416473a498aca40c53916fabce579ed543a"
+    },
+    {
+      "paperId": "93ef029d246ca2ade109f94d4f1e7fc68d7bc73e"
+    },
+    {
+      "paperId": "e87358ad6b98d6155bb40188681af64d6dacae38"
+    },
+    {
+      "paperId": "143b5ed8be2fbfa4edd35e7cd91f018ff3f4a780"
+    },
+    {
+      "paperId": "d883718e17a305bd7a32bdf8ad139c96b293284e"
+    },
+    {
+      "paperId": "ec2593b5fb85f322dcb72f84ae168662965b41d8"
+    },
+    {
+      "paperId": "56b5bf25d943681addb77f100f6b99e4890b5857"
+    },
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "1e775a0224afd12e4380db4ca20fc2b2eb50f652"
+    },
+    {
+      "paperId": "4c5f2ca09d9faf07ab0fef6335d613aea1b5e3e2"
+    },
+    {
+      "paperId": "febf4d663e9d09f676a7cd1f31537fdf95c61f8c"
+    },
+    {
+      "paperId": "0dc57dda2db979a0af675d999cbe72b3dacc0820"
+    },
+    {
+      "paperId": "a583e66c8feae6cd32b4ab9f76f7895ec348784f"
+    },
+    {
+      "paperId": "08a6fd43347f4ef1e9845c3cd6631c1509546519"
+    },
+    {
+      "paperId": "9783a6468a7c8eeece05a228594c15bbc25fef02"
+    },
+    {
+      "paperId": "c1e299e8d2e1b61b9d3548a7b9814cd742a8cd5d"
+    },
+    {
+      "paperId": "b8073ab3c4dc03e343806d5697b06873c9874f37"
+    },
+    {
+      "paperId": "d5073d01c1eb59d1d5b718c6c7459674091a7674"
+    },
+    {
+      "paperId": "969dd1cfbbd878d743285979969c07602b944d5f"
+    },
+    {
+      "paperId": "1b481d45f70ad0996567970c5aaac973a59f4055"
+    },
+    {
+      "paperId": "89bcc9b615787658210d068845eaedb730027b27"
+    },
+    {
+      "paperId": "1228b0b28f22bc73cc0007849ee3b4f5447d0913"
+    },
+    {
+      "paperId": "af2f8e70617bf6fdfbbf3bedd941ac30c29cea21"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "01d52c3ec420c23591dd0c2149c585032da185c1"
+    },
+    {
+      "paperId": "5229efd72f8dd9bea7e22e8aca4b302317416a97"
+    },
+    {
+      "paperId": "dbecee3804d05110c683795ca9d9c3e821944144"
+    },
+    {
+      "paperId": "97b6a2201e72d90fbdd8068a414647c55ee6d361"
+    },
+    {
+      "paperId": "1412038353759873231408b2bbce0f91b4dc53b2"
+    },
+    {
+      "paperId": "5a34c46e86389a8a914e5177287e862a11caa655"
+    },
+    {
+      "paperId": "570b3b7891737927220bf7d1e723f3772c3636f4"
+    },
+    {
+      "paperId": "6e80dabc624463144ec0fa8addc2c8c9ab394d7d"
+    },
+    {
+      "paperId": "5257f84889b05254a21c700817620f6082d45f7d"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "5c3e2828b585b2de6ee4049d3522f1b55576146a"
+    },
+    {
+      "paperId": "7eb64b928d26d3c73122c1bd3f612cdbdb363a3a"
+    },
+    {
+      "paperId": "9e372fe10227abfd3cfc57bd9bddc5f5b5d55341"
+    },
+    {
+      "paperId": "c802e26bba7f6e281f963f20f2ce3aec1824aa55"
+    },
+    {
+      "paperId": "ca5071f6cbdeb4fb915759995b60cb449d201eaf"
+    },
+    {
+      "paperId": "83bf19df5ee3d4abdcb679eac12e94a376fb5268"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "e97ea9ae6272a52b1359a8fd5e419d005421ee46"
+    },
+    {
+      "paperId": "1903c8b9dc5a32646f2b7aec3c96bb9aca09c805"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "81e105c57b38cb01869669eb9b467f734404aa53"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "22a7a4414dfa0f7e0a3db434825e4c3a0944c156"
+    },
+    {
+      "paperId": "bc29dbf4874f96b4c5e405ed4c891f239976d0cf"
+    },
+    {
+      "paperId": "d35dab48eb67b9f1e529e7801e778e184cb3168f"
+    },
+    {
+      "paperId": "db80050ca03aed6118bf8dea7a213c1042a48213"
+    },
+    {
+      "paperId": "bd90a0dc592d6ea6d6456461677dda4e9536f2db"
+    },
+    {
+      "paperId": "508bd638960ae56ece12d5c107c511286e28aea5"
+    },
+    {
+      "paperId": "e39741b5c1b7c6b0bd5e9b685a87954065aa28fd"
+    },
+    {
+      "paperId": "f7e5f19d53949ca8afab6f4f5d28d67112d09b02"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

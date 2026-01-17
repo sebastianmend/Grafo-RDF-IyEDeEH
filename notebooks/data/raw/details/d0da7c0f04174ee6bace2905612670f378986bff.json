@@ -1,0 +1,39 @@
+{
+  "paperId": "d0da7c0f04174ee6bace2905612670f378986bff",
+  "externalIds": {
+    "DBLP": "journals/nca/HamoudaM19",
+    "MAG": "2793501178",
+    "DOI": "10.1007/s00521-018-3386-4",
+    "CorpusId": 3553719
+  },
+  "url": "https://www.semanticscholar.org/paper/d0da7c0f04174ee6bace2905612670f378986bff",
+  "title": "Smart heterogeneous precision agriculture using wireless sensor network based on extended Kalman filter",
+  "venue": "Neural computing & applications (Print)",
+  "year": 2018,
+  "citationCount": 27,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00521-018-3386-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00521-018-3386-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2747685",
+      "name": "Yousef E. M. Hamouda"
+    },
+    {
+      "authorId": null,
+      "name": "Mohammed M. Msallam"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

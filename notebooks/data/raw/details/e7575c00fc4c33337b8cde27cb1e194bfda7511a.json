@@ -1,0 +1,96 @@
+{
+  "paperId": "e7575c00fc4c33337b8cde27cb1e194bfda7511a",
+  "externalIds": {
+    "MAG": "2969585530",
+    "DOI": "10.22214/IJRASET.2019.2049",
+    "CorpusId": 115146090
+  },
+  "url": "https://www.semanticscholar.org/paper/e7575c00fc4c33337b8cde27cb1e194bfda7511a",
+  "title": "A Survey on Deep Learning Based IoT Approach for Precision Crop Suggestion",
+  "venue": "International Journal for Research in Applied Science and Engineering Technology",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22214/ijraset.2019.2049",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22214/IJRASET.2019.2049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22214/IJRASET.2019.2049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2375920779",
+      "name": "P. K. Priya"
+    },
+    {
+      "authorId": "2265543029",
+      "name": "Dr. N. Yuvaraj"
+    }
+  ],
+  "abstract": ": Agriculture plays the main role in a country's economic development. In the recent agricultural practices, the variation in climatic phenomena affects the weather conditions in different regions and based on that the soil characteristics may also vary. This influences the crop to be sown for getting a better yield. In agriculture with the advent of new technology, farming practices are now converted into precision farming. It includes the use of modern technology such as the Internet of Things (IoT) and Data Analytics for optimal crop health and crop productivity. This improves the growth rate of the crops, but the problem among farmers is they are not choosing the right crop at right time. Although several algorithms are there the Deep Learning based Artificial Neural Networks is found to be more effective for prediction and modeling. The algorithm accuracy and the prediction level vary based on the type of parameters chosen. The proposed system helps the farmers by gathering information about the basic characteristics of their soil such as soil moisture level, temperature, pH, and humidity. In addition, the sensor provides valuable information about crops such as sowing time, fertilizer suggestion and real-time monitoring. These data can be collected using sensors and with the help of that data, the Deep Learning technique such as Deep Neural Network (DNN) which is an Artificial Neural Network (ANN) can be applied to end up with valuable decision making.",
+  "references": [
+    {
+      "paperId": "ba0fda45e98d79f5999db32b3fac59c729b3b90d"
+    },
+    {
+      "paperId": "c648cb350bd7f9dc97a89567cb3cd669e9d1fe60"
+    },
+    {
+      "paperId": "4760219e186796f1685011415e988d1d5f51212a"
+    },
+    {
+      "paperId": "53c0992208e854d9f0b816103739a8182a476c71"
+    },
+    {
+      "paperId": "31d1d5c6bf0164df704c0dca23f1e51983f6652b"
+    },
+    {
+      "paperId": "660fd781ae12278461ff3d1427f7615b306e64c5"
+    },
+    {
+      "paperId": "c8cc8c538334a1ed0b0f3b27faa5019c121362c0"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "e7893b131d13d997777330a091c324d9108c43f8"
+    },
+    {
+      "paperId": "9e071cb707693313622988347ba9daea8ee6066a"
+    },
+    {
+      "paperId": "788d1262bc33da9d169c3469e5a1fa04ff8a9679"
+    },
+    {
+      "paperId": "c1292c23fa3e013d36c0510592b9eb3af3ec9b57"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a64c8a9185d5ebed4dc7bdb1f26293d7bee82c5c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b2aea0ebc8316eda484f585f4be6859245fa376f"
+    }
+  ]
+}

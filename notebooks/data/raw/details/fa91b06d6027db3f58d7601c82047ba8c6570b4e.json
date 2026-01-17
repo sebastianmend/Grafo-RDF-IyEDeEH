@@ -1,0 +1,113 @@
+{
+  "paperId": "fa91b06d6027db3f58d7601c82047ba8c6570b4e",
+  "externalIds": {
+    "MAG": "2954743256",
+    "DOI": "10.12792/ICIAE2019.048",
+    "CorpusId": 198403501
+  },
+  "url": "https://www.semanticscholar.org/paper/fa91b06d6027db3f58d7601c82047ba8c6570b4e",
+  "title": "Environmental Measurement in Greenhouse by Mobile Robot using ROS",
+  "venue": "Proceedings of The 7th IIAE International Conference on Industrial Application Engineering 2019",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www2.ia-engineers.org/conference/index.php/iciae/iciae2019/paper/download/2052/1314",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12792/ICIAE2019.048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12792/ICIAE2019.048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2042545331",
+      "name": "Hikaru Kumamoto"
+    },
+    {
+      "authorId": "23538456",
+      "name": "K. Iida"
+    },
+    {
+      "authorId": "8140467",
+      "name": "Shigeto Nakamura"
+    },
+    {
+      "authorId": "35874282",
+      "name": "E. Ueda"
+    }
+  ],
+  "abstract": "The environmental information in the greenhouse is one of the essential items in precision agriculture for improving the productivity of crops. In many cases of environmental measurement in the greenhouse, a fixed sensor can measure near the installation location. However, to estimate the distribution of the environmental information in the whole greenhouse, it is necessary to install many sensors, which increases the cost. Therefore, in this study, to acquire more the detailed environmental information, we propose the system to measure the environmental information in the greenhouse by the mobile robot using ROS. The proposed mobile robot consists of the CO2 sensor, the temperature sensor, the humidity sensor and LRF for environmental sensing. In this paper, we confirmed the usefulness of the proposed system from the verification experiment using a prototype mobile robot.",
+  "references": [
+    {
+      "paperId": "bb1f9eabec4ea712695044564bebd138b8848d38"
+    },
+    {
+      "paperId": "f9566977cc9160371ca437b376dc4b6691dcd4ab"
+    },
+    {
+      "paperId": "6e865d9f7259e6c046bf41b8b8d62e55f0a3b9fb"
+    },
+    {
+      "paperId": "8c1f15d2c49ae41cc797150fe7db18b6e50cc5f0"
+    },
+    {
+      "paperId": "6139d8a60ec3c5ea7657e7a910e98b567b66bc73"
+    },
+    {
+      "paperId": "76526b854b65e0f429c54358adfcc8aa044e81f4"
+    },
+    {
+      "paperId": "7a5484028fb2ebae8050aabc79dc59c1a227dc65"
+    },
+    {
+      "paperId": "49b5e2aec8ba2082c8fb77593af4ae88747989d0"
+    },
+    {
+      "paperId": "3759af6ed9e02cef20e5436039506de70483241e"
+    },
+    {
+      "paperId": "690ea8018eb1cecaa3c88bb190046dbe18508fbd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8d3120beadb634bb9de175520021a4c9ce61baa0"
+    },
+    {
+      "paperId": "671c2559bdbe6239f63034816ec96a87f5140660"
+    },
+    {
+      "paperId": "1cc944933b02bcbdb27fd2d94d3e983f2956c55e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "63392d4f179e1fb946e0833773610a448ff7ca10"
+    },
+    {
+      "paperId": "c5ec3905fbe9a3588da87c83e86b403b7b03aecc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "20aa9b02051ba26ca98f630c326e9d65b7585675"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

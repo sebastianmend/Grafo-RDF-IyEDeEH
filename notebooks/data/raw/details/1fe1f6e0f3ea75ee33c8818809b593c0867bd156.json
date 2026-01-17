@@ -1,0 +1,64 @@
+{
+  "paperId": "1fe1f6e0f3ea75ee33c8818809b593c0867bd156",
+  "externalIds": {
+    "MAG": "2988197090",
+    "DOI": "10.1177/0033354919881650",
+    "CorpusId": 207888989,
+    "PubMed": "31682558"
+  },
+  "url": "https://www.semanticscholar.org/paper/1fe1f6e0f3ea75ee33c8818809b593c0867bd156",
+  "title": "PulseNet and the Changing Paradigm of Laboratory-Based Surveillance for Foodborne Diseases",
+  "venue": "Public health reports (1974)",
+  "year": 2019,
+  "citationCount": 44,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/0033354919881650",
+    "status": "HYBRID",
+    "license": "public-domain",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0033354919881650?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0033354919881650, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "CaseReport",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "20096603",
+      "name": "K. Kubota"
+    },
+    {
+      "authorId": "134877358",
+      "name": "William J. Wolfgang"
+    },
+    {
+      "authorId": "32339709",
+      "name": "Deborah J. Baker"
+    },
+    {
+      "authorId": "4045240",
+      "name": "D. Boxrud"
+    },
+    {
+      "authorId": "144309427",
+      "name": "L. Turner"
+    },
+    {
+      "authorId": "6233271",
+      "name": "E. Trees"
+    },
+    {
+      "authorId": "4005276",
+      "name": "H. Carleton"
+    },
+    {
+      "authorId": "1398959473",
+      "name": "P. Gerner-Smidt"
+    }
+  ],
+  "abstract": "PulseNet, the National Molecular Subtyping Network for Foodborne Disease Surveillance, was established in 1996 through a collaboration with the Centers for Disease Control and Prevention; the US Department of Agriculture, Food Safety and Inspection Service; the US Food and Drug Administration; 4 state public health laboratories; and the Association of Public Health Laboratories. The network has since expanded to include 83 state, local, and food regulatory public health laboratories. In 2016, PulseNet was estimated to be helping prevent an estimated 270 000 foodborne illnesses annually. PulseNet is undergoing a transformation toward whole-genome sequencing (WGS), which provides better discriminatory power and precision than pulsed-field gel electrophoresis (PFGE). WGS improves the detection of outbreak clusters and could replace many traditional reference identification and characterization methods. This article highlights the contributions made by public health laboratories in transforming PulseNet’s surveillance and describes how the transformation is changing local and national surveillance practices. Our data show that WGS is better at identifying clusters than PFGE, especially for clonal organisms such as Salmonella Enteritidis. The need to develop prioritization schemes for cluster follow-up and additional resources for both public health laboratory and epidemiology departments will be critical as PulseNet implements WGS for foodborne disease surveillance in the United States.",
+  "references": null
+}

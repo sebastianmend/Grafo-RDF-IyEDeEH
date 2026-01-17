@@ -1,0 +1,179 @@
+{
+  "paperId": "824a1898e3bde3856b07e1cde2c64ca933e97e94",
+  "externalIds": {
+    "DBLP": "journals/sensors/MartiradonnaPB19",
+    "MAG": "2964082093",
+    "PubMedCentral": "6679516",
+    "DOI": "10.3390/s19143237",
+    "CorpusId": 198491299,
+    "PubMed": "31340521"
+  },
+  "url": "https://www.semanticscholar.org/paper/824a1898e3bde3856b07e1cde2c64ca933e97e94",
+  "title": "On the Evaluation of the NB-IoT Random Access Procedure in Monitoring Infrastructures",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 33,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/14/3237/pdf?version=1563873125",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6679516, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "90085979",
+      "name": "Sergio Martiradonna"
+    },
+    {
+      "authorId": "9723126",
+      "name": "G. Piro"
+    },
+    {
+      "authorId": "1685466",
+      "name": "G. Boggia"
+    }
+  ],
+  "abstract": "NarrowBand IoT (NB-IoT) is emerging as a promising communication technology offering a reliable wireless connection to a large number of devices employed in pervasive monitoring scenarios, such as Smart City, Precision Agriculture, and Industry 4.0. Since most of the NB-IoT transmissions occur in the uplink, the random access channel (that is the primary interface between devices and the base station) may usually become the main bottleneck of the entire system. For this reason, analytical models and simulation tools able to investigate its behavior in different scenarios are of the utmost importance for driving current and future research activities. Unfortunately, scientific literature partially addresses the current open issues by means of simplified and, in many cases, not standard-compliant approaches. To provide a significant step forward in this direction, the contribution of this paper is three-folded. First, it presents a flexible, open-source, and 3GPP-compliant implementation of the NB-IoT random access procedure. Second, it formulates an analytical model capturing both collision and success probabilities associated with the aforementioned procedure. Third, it presents the cross-validation of both the analytical model and the simulation tool, by taking into account reference applications scenarios of sensor networks enabling periodic reporting in monitoring infrastructures. Obtained results prove the remarkable accuracy, demonstrating a well-calibrated instrument, which will be also useful for future research activities.",
+  "references": [
+    {
+      "paperId": "8f4f72bb25fbe297b80eb29fb1d844ce8b78ed34"
+    },
+    {
+      "paperId": "ec3f09006a98687cb0df6bc2aa757639a59274dd"
+    },
+    {
+      "paperId": "b870e55dd37bc3b1626d53a8eb075baee819233e"
+    },
+    {
+      "paperId": "90dd5d56829bc0a2213646607c73f555e9922eec"
+    },
+    {
+      "paperId": "861a996439e726dd86e024226aa1e0fd035acc96"
+    },
+    {
+      "paperId": "f43f50351cf4ec0837ede04a90a9430f2131ee9b"
+    },
+    {
+      "paperId": "f3ce88ce3bc03e26c9da0277604d2614b7b937a8"
+    },
+    {
+      "paperId": "fadc934d52cafc4b1671bb871303f78faf5904c9"
+    },
+    {
+      "paperId": "e3fac0de713ee5f16e28d3e0aca84cfb31ada92d"
+    },
+    {
+      "paperId": "8e1f96752780a660bd5cbcd643bcfa354ed6919d"
+    },
+    {
+      "paperId": "e87bd4a55a34d5ad00e39e62d8e0721df407647d"
+    },
+    {
+      "paperId": "f6646378bd51a3a276bcf0a8bf964d1c5dcfd485"
+    },
+    {
+      "paperId": "61ac15cc5d8d7f560dbd4f609a30f27a52ec8ff3"
+    },
+    {
+      "paperId": "c9e974a0af2ad4004fb60dddb66e4ff450e9fa26"
+    },
+    {
+      "paperId": "b50d4f08f84a89cd66fcd472c3d4541127c2f751"
+    },
+    {
+      "paperId": "fad5c7bdc910a0388d5ed10535e7b9a2554f6c34"
+    },
+    {
+      "paperId": "81d49f2146e9df8d9c3444029d4ca35399262683"
+    },
+    {
+      "paperId": "64ddaae6b81e40b1ef2f842952a4a548798e528f"
+    },
+    {
+      "paperId": "b7cfc144c9ae067e0a9054d19faac22a7764a928"
+    },
+    {
+      "paperId": "dabba3df1966fabd1952035f0a923ab95a4a2d86"
+    },
+    {
+      "paperId": "81f47ac001f7ca941516fa9c682105357efe2414"
+    },
+    {
+      "paperId": "1a634033e5d7619a329568f9921dc309db7d17e4"
+    },
+    {
+      "paperId": "b895d46b20d0e9778e328370e5b1ecc03146fbb9"
+    },
+    {
+      "paperId": "6e2adb1b382fec787396e540b5d53c86589f39ee"
+    },
+    {
+      "paperId": "f1b9e556da35d427df036ae07b3ae6cb6462f42f"
+    },
+    {
+      "paperId": "de489313fc6d844c1f42a71f6db8013ffd34dd43"
+    },
+    {
+      "paperId": "6f05bf53a3426a5787ec543b81ceb6c42cd5fe36"
+    },
+    {
+      "paperId": "f8af2d37dec6f421fd35fcce6cf19fe4e310630d"
+    },
+    {
+      "paperId": "0862b2365616a8f97f5caacb017b5431630be3cc"
+    },
+    {
+      "paperId": "e0fca63aac1bfe400d2d0afcb584f420119818c4"
+    },
+    {
+      "paperId": "9ac5843db25e5859b77d90cba929bbe4fb2bec50"
+    },
+    {
+      "paperId": "7e78f4d96a9c27d0ae6f3685999c3c4470cab1f1"
+    },
+    {
+      "paperId": "b74483e4ef7ba45af25a627a87884019ad9585bb"
+    },
+    {
+      "paperId": "19f765676bc6757b7c7a333f0f354e6a1f6bc1fd"
+    },
+    {
+      "paperId": "72718da9909e0d596da1e5de40fe53fac4706c7a"
+    },
+    {
+      "paperId": "587bb3c87044d3bc3671eefefb4021fd8d861a35"
+    },
+    {
+      "paperId": "eb350bb222ba09570f15245e46959551d6d36d70"
+    },
+    {
+      "paperId": "2441e05dbaf5bff5e5d10c925d682a2d13282809"
+    },
+    {
+      "paperId": "3e4b5655534c9e2683c66660aac9fa32716b0dd8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

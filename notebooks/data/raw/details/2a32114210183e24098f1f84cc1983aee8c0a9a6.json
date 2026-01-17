@@ -1,0 +1,181 @@
+{
+  "paperId": "2a32114210183e24098f1f84cc1983aee8c0a9a6",
+  "externalIds": {
+    "MAG": "2893241181",
+    "DBLP": "journals/remotesensing/TuPJR18",
+    "DOI": "10.3390/rs10111684",
+    "CorpusId": 56481703
+  },
+  "url": "https://www.semanticscholar.org/paper/2a32114210183e24098f1f84cc1983aee8c0a9a6",
+  "title": "Assessing Radiometric Correction Approaches for Multi-Spectral UAS Imagery for Horticultural Applications",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 69,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/11/1684/pdf?version=1540455462",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs10111684?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs10111684, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2236226",
+      "name": "Yu-Hsuan Tu"
+    },
+    {
+      "authorId": "1994963",
+      "name": "S. Phinn"
+    },
+    {
+      "authorId": "145118138",
+      "name": "K. Johansen"
+    },
+    {
+      "authorId": "32194191",
+      "name": "A. Robson"
+    }
+  ],
+  "abstract": "Multi-spectral imagery captured from unmanned aerial systems (UAS) is becoming increasingly popular for the improved monitoring and managing of various horticultural crops. However, for UAS-based data to be used as an industry standard for assessing tree structure and condition as well as production parameters, it is imperative that the appropriate data collection and pre-processing protocols are established to enable multi-temporal comparison. There are several UAS-based radiometric correction methods commonly used for precision agricultural purposes. However, their relative accuracies have not been assessed for data acquired in complex horticultural environments. This study assessed the variations in estimated surface reflectance values of different radiometric corrections applied to multi-spectral UAS imagery acquired in both avocado and banana orchards. We found that inaccurate calibration panel measurements, inaccurate signal-to-reflectance conversion, and high variation in geometry between illumination, surface, and sensor viewing produced significant radiometric variations in at-surface reflectance estimates. Potential solutions to address these limitations included appropriate panel deployment, site-specific sensor calibration, and appropriate bidirectional reflectance distribution function (BRDF) correction. Future UAS-based horticultural crop monitoring can benefit from the proposed solutions to radiometric corrections to ensure they are using comparable image-based maps of multi-temporal biophysical properties.",
+  "references": [
+    {
+      "paperId": "f67b42eee295579ef191e1a5bc15612d76989dba"
+    },
+    {
+      "paperId": "ca8d7ca6dae9c2c73f7ea408c26935e89f95df76"
+    },
+    {
+      "paperId": "ac737f02c281d452e9b7477b9fdde76cf04719b1"
+    },
+    {
+      "paperId": "51712713c97e3a3cbfb431781103eb7ee86eba2a"
+    },
+    {
+      "paperId": "38059d6d1b122cef1e3324fa516ec5376061b32a"
+    },
+    {
+      "paperId": "8bb554743b12e74cf0e58b07cab4b63a6d2319f1"
+    },
+    {
+      "paperId": "e50d54b759739eea7e5061d7d54b027739b13d75"
+    },
+    {
+      "paperId": "9d64edf18af7dc97adbb930f4577471cf751ec39"
+    },
+    {
+      "paperId": "68db75f1ca92e41edc8005c1968c0197d18a4fe5"
+    },
+    {
+      "paperId": "13619a5b10810832bb1d6cab3370bcd04be48a22"
+    },
+    {
+      "paperId": "6c5ce8bf382948bb27a9cc33b700a2402877bb64"
+    },
+    {
+      "paperId": "7cee3de7c28d6d95bea9b27322f01fb50952af37"
+    },
+    {
+      "paperId": "e58a698b537f1dceafa0f89b1c7cc0c6e03ecae1"
+    },
+    {
+      "paperId": "17407bf89feaee612fcfd09a0b76cbd5550e6cb5"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "f8b3934c5a02a565257bbf74ad5449e874a7bd9e"
+    },
+    {
+      "paperId": "ac8d047ec1e33844ec82251c2ded517c990cad7a"
+    },
+    {
+      "paperId": "87546dc04c6bc771656bf54c3695fd6862873cad"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "0d2e3d3ada6cdd13d59278798eff0e8371d6339f"
+    },
+    {
+      "paperId": "102ae43f8f775519c28892a2c0de0d000bde9c7a"
+    },
+    {
+      "paperId": "83263a33498057d4e870b5954502bb24ab9d15dc"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "fff39e7b9f2d34a98a21ee11f06660d535f2bf3d"
+    },
+    {
+      "paperId": "ac4b8f746a5dfbc3d9765a24cb72bf8c61dc87e1"
+    },
+    {
+      "paperId": "848270b8e8ba466d2139a635367271dd352860e2"
+    },
+    {
+      "paperId": "b209d237bdb706f7e8929d1e161ce5e2cc5d3dc5"
+    },
+    {
+      "paperId": "bb8af8d675001b2c4802fa15a553ae2461823c6e"
+    },
+    {
+      "paperId": "5ffffaafd94e8123c59d18b874dbbeaf76299775"
+    },
+    {
+      "paperId": "73b22afd5a15b3a3f0e6dfe65608f7ac57c503c9"
+    },
+    {
+      "paperId": "e3072d47c12af1d8c4101bb78fd599a2268a5fa6"
+    },
+    {
+      "paperId": "e9731d12fcd4c06606025b70dd46776944bedbff"
+    },
+    {
+      "paperId": "e7ddb60b10d98094d68961d48a16c350e8f58d2b"
+    },
+    {
+      "paperId": "cb9cb8362352fd3048a21a25cee9bbbb7a6c5e92"
+    },
+    {
+      "paperId": "8158a95dae3cc35a511a95499a33e2158ba171c9"
+    },
+    {
+      "paperId": "6dde9ac29d2e9cfe777c78a16f1006e12b295841"
+    },
+    {
+      "paperId": "f36fb87e3dfd95d50f5f813b2d0983155cf9d587"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a541a601bf3ce56f8f4f6264374c2c5349dc09bb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

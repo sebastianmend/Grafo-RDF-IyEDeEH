@@ -1,0 +1,54 @@
+{
+  "paperId": "df1aa8bfea70698a793529803f69cc84086ce7a6",
+  "externalIds": {
+    "MAG": "3011178611",
+    "DOI": "10.1007/978-3-030-39299-4_94",
+    "CorpusId": 216226749
+  },
+  "url": "https://www.semanticscholar.org/paper/df1aa8bfea70698a793529803f69cc84086ce7a6",
+  "title": "Monitoring Onion Crops Using UAV Multispectral and Thermal Imagery: Preliminary Results",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-39299-4_94?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-39299-4_94, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "30369230",
+      "name": "G. Messina"
+    },
+    {
+      "authorId": "1924199",
+      "name": "S. Praticò"
+    },
+    {
+      "authorId": "1658810624",
+      "name": "B. Siciliani"
+    },
+    {
+      "authorId": "144073308",
+      "name": "Antonio Curcio"
+    },
+    {
+      "authorId": "2058747847",
+      "name": "S. D. Fazio"
+    },
+    {
+      "authorId": "152879064",
+      "name": "G. Modica"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

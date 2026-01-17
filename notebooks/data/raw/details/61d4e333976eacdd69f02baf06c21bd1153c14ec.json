@@ -1,0 +1,44 @@
+{
+  "paperId": "61d4e333976eacdd69f02baf06c21bd1153c14ec",
+  "externalIds": {
+    "MAG": "2911676263",
+    "CorpusId": 169462172
+  },
+  "url": "https://www.semanticscholar.org/paper/61d4e333976eacdd69f02baf06c21bd1153c14ec",
+  "title": "A survey on precision agriculture using effective crop monitoring with enhanced farming",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "134270801",
+      "name": "Kandula Syamu"
+    },
+    {
+      "authorId": "2186011",
+      "name": "Vaishali Maheshkar"
+    },
+    {
+      "authorId": "2111282229",
+      "name": "Bhupendra Singh"
+    },
+    {
+      "authorId": "37140717",
+      "name": "T. Ravi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

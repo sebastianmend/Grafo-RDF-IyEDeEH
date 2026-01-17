@@ -1,0 +1,47 @@
+{
+  "paperId": "88ca90a9ad0e1ad932dafa22f1f1b581a2ec5843",
+  "externalIds": {
+    "MAG": "2947357852",
+    "DOI": "10.1088/1755-1315/284/1/012003",
+    "CorpusId": 189962897
+  },
+  "url": "https://www.semanticscholar.org/paper/88ca90a9ad0e1ad932dafa22f1f1b581a2ec5843",
+  "title": "Analysis of aerial photo for estimating tree numbers in oil palm plantation",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/284/1/012003/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/284/1/012003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/284/1/012003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "146174319",
+      "name": "Aidil P P Rizky"
+    },
+    {
+      "authorId": "1884792",
+      "name": "Liyantono"
+    },
+    {
+      "authorId": "52089976",
+      "name": "M. Solahudin"
+    }
+  ],
+  "abstract": "Oil palm is one of the many plant species in Indonesia as a large-scale plantation commodity. In precision agriculture, detecting the vegetation in plantation was a first and crucial step prior to addressing further objectives such as counting plants for monitoring or detecting canopy diameter of the tree for yield estimation. Monitoring and census covering the number of trees and tree conditions in the oil palm plantation is always carried out periodically, which takes time and the number of workers in the area of palm oil plantation. In this study focused on the development of methods that can be applied to accelerate the process of calculating palm trees in plantations using image processing, Unmanned Aerial Vehicle (UAV) and Graphic User Interface (GUI) technology. The planned process of program development is composed of four steps: (1) shooting the aerial picture of the plantation by UAV, (2) User interface for trees counting development, (3) validation result on the program. The procedure of data analysis is mainly focused on separating several image objects with different color compositions for separation into the object label form through the process of erosion, deletion, deletion until calculations can be made directly from the user interface program. Calculation evaluation of the results obtained from the program that has been develop obtained the success tree detection compared with number of tree actual data from the program rate of 96.13% and the accuracy of tree recognition that shown the correction tree detection from the program of 95.5%. Trials on several trees for diameter estimation with different plant ages resulted in Root Mean Square Error (RMSE) of 2.2917 cm and Mean Absolute Percentage Error (MAPE) of 0.1796%.",
+  "references": [
+    {
+      "paperId": "e632f1b676c6cabbe8b0324b263914e47a3042dd"
+    }
+  ]
+}

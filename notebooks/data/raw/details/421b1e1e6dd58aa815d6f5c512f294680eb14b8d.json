@@ -1,0 +1,275 @@
+{
+  "paperId": "421b1e1e6dd58aa815d6f5c512f294680eb14b8d",
+  "externalIds": {
+    "MAG": "2969502613",
+    "DBLP": "journals/remotesensing/WangJQLW19",
+    "DOI": "10.3390/RS11161946",
+    "CorpusId": 201713680
+  },
+  "url": "https://www.semanticscholar.org/paper/421b1e1e6dd58aa815d6f5c512f294680eb14b8d",
+  "title": "Remote Sensing-Guided Sampling Design with Both Good Spatial Coverage and Feature Space Coverage for Accurate Farm Field-Level Soil Mapping",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/16/1946/pdf?version=1566296005",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11161946?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11161946, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108096719",
+      "name": "Yongji Wang"
+    },
+    {
+      "authorId": "144835072",
+      "name": "Lili Jiang"
+    },
+    {
+      "authorId": "143632338",
+      "name": "Q. Qi"
+    },
+    {
+      "authorId": "49421136",
+      "name": "Y. Liu"
+    },
+    {
+      "authorId": "2152809928",
+      "name": "Jun Wang"
+    }
+  ],
+  "abstract": "With the increasing requirements of precision agriculture for massive and various kinds of data, remote sensing technology has become indispensable in acquiring the necessary data for precision agriculture. Understanding the spatial variability of a target soil variable (i.e., soil mapping) is a critical issue in solving many agricultural problems. Field sampling is one of the most commonly used technologies for soil mapping, but sample sizes are restricted by resources, such as field labor, soil physicochemical analysis, and funding. In this paper, we proposed a sampling design method with both good spatial coverage and feature space coverage to achieve more precise spatial variability of farm field-level target soil variables for limited sample sizes. The proposed method used the super-grid to achieve good spatial coverage, and it took advantage of remote sensing products that were highly correlated with the target soil property (SOM content) to achieve good feature space coverage. For the experiments, we employed the ordinary kriging (OK) method to map the soil organic matter (SOM) content. The different sized super-grid comparison experiments showed that the 400 × 400 m2 super-grid had the highest SOM content mapping accuracy. Then, we compared the proposed method to regular grid sampling (good spatial coverage) and k-means sampling (good feature space coverage), and the experimental results indicated that the proposed method had greater potential in the selection of representative samples that could improve the SOM content mapping accuracy.",
+  "references": [
+    {
+      "paperId": "841f3d75100e58c9fe53bf81a6a091f7ec603a37"
+    },
+    {
+      "paperId": "055f854eb4e834bea8360d637be71fa8b233c9b3"
+    },
+    {
+      "paperId": "340a9e8cebadba12f364e7c06d248f2167c41ab0"
+    },
+    {
+      "paperId": "8560f00ce2e9c0ea2be47f08b66ffa8f3890dd1c"
+    },
+    {
+      "paperId": "5b3eada5346a5b059e87970cad7c8d5e03a7c5a0"
+    },
+    {
+      "paperId": "e66da0bec2b0a8aa6a86d1e7f7b2d5f0c058e5ae"
+    },
+    {
+      "paperId": "ffc6bc356f7ed58309885f820e689fffb68a472b"
+    },
+    {
+      "paperId": "a866848204bfa776b9666dcfc5efc614738badd5"
+    },
+    {
+      "paperId": "084ec1f48be9038a05d5d9337dca976935c92c4e"
+    },
+    {
+      "paperId": "87e5a79cf76df35b44878ff684429998ebeadc73"
+    },
+    {
+      "paperId": "a360e17f573282c2e18d6b456b624a061a265f10"
+    },
+    {
+      "paperId": "8a70f8203443d47996aac57f84f249004890696d"
+    },
+    {
+      "paperId": "c8f9a5a2f6da022a08b1b0c5b7c4d311fcb1ce34"
+    },
+    {
+      "paperId": "71ff5989ea59cc2fc26f06766669c7784542c0fc"
+    },
+    {
+      "paperId": "e1c0059bebae3ec7739121e51b40d1b75dca99ce"
+    },
+    {
+      "paperId": "ad2307f0c23a64522ee0f687b2047b29f6e6f769"
+    },
+    {
+      "paperId": "c25f15e2e83cbb17d7854fe1691a5a926258f83a"
+    },
+    {
+      "paperId": "9f472deb0d602322f1235f51012fafd175116ad8"
+    },
+    {
+      "paperId": "62d17edc0f9fc3c115c0140525885e137770a068"
+    },
+    {
+      "paperId": "d22ce62ff399d9949523f41b34e144436a50d275"
+    },
+    {
+      "paperId": "d89ec096bb366101f2d359a6195f19edcccbc38f"
+    },
+    {
+      "paperId": "27239ddfc421ea0ddce74f6bcba58aeb1ff60cb4"
+    },
+    {
+      "paperId": "54a9bf7f97a2e5b45517cbb1bc1c2f5578c16eb2"
+    },
+    {
+      "paperId": "67d6744f7f7a1b9936ffd61df49243ef90522cf3"
+    },
+    {
+      "paperId": "2a9ef98194cc60f234f53bedf63ded22a1dfd2cf"
+    },
+    {
+      "paperId": "3c873d82b91fbf14f6a5a9e0c5deaf1ba4d09cfd"
+    },
+    {
+      "paperId": "59bb69b387e224f32362286b904ebbffbc19c9f4"
+    },
+    {
+      "paperId": "63ee52bb8962afebff9f3bc372641d29ec6ccd55"
+    },
+    {
+      "paperId": "87c5da72e32c5978698ce8be2079af5e9cd39af6"
+    },
+    {
+      "paperId": "c85620be71f04b71617d4dc2844700ca8f64c06a"
+    },
+    {
+      "paperId": "49ddec39e80e7eb2c651732a16d5aa8b61cb4a10"
+    },
+    {
+      "paperId": "dffb8d68fee32975c08db65c8727ee7acfb33a4d"
+    },
+    {
+      "paperId": "cb28ee05d32cce8f8d83ffb5db6d8d83736154d7"
+    },
+    {
+      "paperId": "074b182e60be3b754753132b0c34b96ea2527b99"
+    },
+    {
+      "paperId": "9e3f44445e70a119044b16da6b57cb6de946c9e0"
+    },
+    {
+      "paperId": "78ba681e7c68eaf58d3cbb0ae3527dccecaf86cd"
+    },
+    {
+      "paperId": "45eb6c3e9edeb929b336cc02fdfd798eb7f453fa"
+    },
+    {
+      "paperId": "8718458456c503af4b047b0de84dd49e6282a120"
+    },
+    {
+      "paperId": "f90cf05eca1d6cc1cecd7643072ce35d1ce270cd"
+    },
+    {
+      "paperId": "5141b01e9563d7185ff0144a6831d27d28aab683"
+    },
+    {
+      "paperId": "a20a1ecf33b3466c0e86ca5e7fd24cfac9263325"
+    },
+    {
+      "paperId": "e6753f83e6a51da70ed7a3b2494c8dc0d61f6932"
+    },
+    {
+      "paperId": "e71d0f5848c07cf7194cd00fae11aa93ae88b3f1"
+    },
+    {
+      "paperId": "36c278124d9751b5597e7fbb6bdab14358330b12"
+    },
+    {
+      "paperId": "950548a866ec1227a293bc76740c27cddaab7ee3"
+    },
+    {
+      "paperId": "cecfb8d74ad85811c84e468c4ec8945fa486621d"
+    },
+    {
+      "paperId": "1a05100cd9aabeaac216189166c63eede78f2e99"
+    },
+    {
+      "paperId": "3cde2027f4d51a17257357d8a8f12eb61ba4d830"
+    },
+    {
+      "paperId": "9d5e2439d8b45e00a59619543e707981f8224680"
+    },
+    {
+      "paperId": "2211b7ded6437b9dcc6947b81bffc9cc1bd15767"
+    },
+    {
+      "paperId": "3a5e78d571f8d6ff27105aacdb7e8ee413541c04"
+    },
+    {
+      "paperId": "fb06b644e6dd7d88262d6e767bb76542346bec44"
+    },
+    {
+      "paperId": "2fc2f6f30954d71057e48c9bb03c6b50551e4207"
+    },
+    {
+      "paperId": "8a7b39dcb46cdfbcac6f2aa5a6bffe7c797be127"
+    },
+    {
+      "paperId": "578b3997d883af871bc3c51bbc6c3294ce4d04cb"
+    },
+    {
+      "paperId": "7236227369184e095db5263abb8f38d547bb00ef"
+    },
+    {
+      "paperId": "391561cf45d9138a94bf0f2e17910dd1fe3df00b"
+    },
+    {
+      "paperId": "cbbf25f4a2419f69774baadba07b23437ba4dc49"
+    },
+    {
+      "paperId": "94cf3b4318ac83b8cbad842d240b79f5953eaf9a"
+    },
+    {
+      "paperId": "09e7ca9bf0fa2e212457fc433e535644fc84a29e"
+    },
+    {
+      "paperId": "e0c928287b4a748df31cc6bf2c0fdf53b39946c6"
+    },
+    {
+      "paperId": "68ddced5034e269e42d927fd38bbd1278e584f89"
+    },
+    {
+      "paperId": "457cb559041fddf5b8fb3c197671862b969f3faf"
+    },
+    {
+      "paperId": "73a020fbb93f4d50e88a9e8f4efe2894310149d1"
+    },
+    {
+      "paperId": "65e18beb89b37f1df79fb7eeae2994027542375c"
+    },
+    {
+      "paperId": "42c7091332810da2e7f0e57c2f6a24ba4415ee47"
+    },
+    {
+      "paperId": "35726e634b41fbaddfab1e0ac68ca9d23b255574"
+    },
+    {
+      "paperId": "9241ea3d8cb85633d314ecb74b31567b8e73f6af"
+    },
+    {
+      "paperId": "f4b5fbc4ab86fb106dbadba1689a59378ccdfbcb"
+    },
+    {
+      "paperId": "8ea0c43c29ae4248b3a20bf37ec9a0c4d07baa14"
+    },
+    {
+      "paperId": "fd2e47b2c291e88ed97f6d6714682104cb8865f1"
+    },
+    {
+      "paperId": "83ed05776d1d569e7d0ead0070ec7a8db5ceeb64"
+    },
+    {
+      "paperId": "68580ae020cf9798d3f9b8dcd00883b3669c1a76"
+    },
+    {
+      "paperId": "1097121d3c1853ce552d649cdab935d6abe88b75"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "paperId": "74c1290164e6f3379a19c5739d8d0b068f1bdfeb",
+  "externalIds": {
+    "MAG": "2949733345",
+    "CorpusId": 197505237
+  },
+  "url": "https://www.semanticscholar.org/paper/74c1290164e6f3379a19c5739d8d0b068f1bdfeb",
+  "title": "Construcción de un correntómetro utilizando el principio del tubo de Pitot para el aforo de caudales en canales abiertos.",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "151234435",
+      "name": "Tenezaca Medina"
+    },
+    {
+      "authorId": "120177438",
+      "name": "J. Alfredo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

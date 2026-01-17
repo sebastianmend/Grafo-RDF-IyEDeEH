@@ -1,0 +1,171 @@
+{
+  "paperId": "43093ad9773f74f6748ef5f071c175fbfece124c",
+  "externalIds": {
+    "PubMedCentral": "5958142",
+    "MAG": "2804708908",
+    "DOI": "10.1038/s41598-018-25197-y",
+    "CorpusId": 21690780,
+    "PubMed": "29773873"
+  },
+  "url": "https://www.semanticscholar.org/paper/43093ad9773f74f6748ef5f071c175fbfece124c",
+  "title": "Therapeutic nanoparticles penetrate leaves and deliver nutrients to agricultural crops",
+  "venue": "Scientific Reports",
+  "year": 2018,
+  "citationCount": 157,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-018-25197-y.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5958142, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48165910",
+      "name": "Avishai Karny"
+    },
+    {
+      "authorId": "150036858",
+      "name": "Assaf Zinger"
+    },
+    {
+      "authorId": "8674953",
+      "name": "Ashima Kajal"
+    },
+    {
+      "authorId": "1402464137",
+      "name": "Janna Shainsky‐Roitman"
+    },
+    {
+      "authorId": "2809291",
+      "name": "Avi Schroeder"
+    }
+  ],
+  "abstract": "As the world population grows, there is a need for efficient agricultural technologies to provide global food requirements and reduce environmental toll. In medicine, nanoscale drug delivery systems grant improved therapeutic precision by overcoming biological barriers and enhancing drug targeting to diseased tissues. Here, we loaded nanoscale drug-delivery systems with agricultural nutrients, and applied them to the leaves of tomato plants. We show that the nanoparticles – liposomes composed of plant-derived lipids, penetrate the leaf and translocate in a bidirectional manner, distributing to other leaves and to the roots. The liposomes were then internalized by the plant cells, where they released their active ingredient. Up to 33% of the applied nanoparticles penetrated the leaf, compared to less than one percent of free-molecules applied in a similar manner. In our study, tomato plants treated with liposomes loaded with Fe and Mg overcame acute nutrient deficiency which was not treatable using ordinary agricultural nutrients. Furthermore, to address regulatory concerns regarding airborne nanoparticles, we rationally designed liposomes that were stable only over short spraying distances (less than 2 meters), while the liposomes disintegrated into safe molecular building blocks (phospholipids) over longer airborne distances. These findings support expanding the implementation of nanotechnology for delivering micronutrients to agricultural crops for increasing yield.",
+  "references": [
+    {
+      "paperId": "1406d72ab144329ff69600e3c92fa8b12b7e81f4"
+    },
+    {
+      "paperId": "a0b7f89857e268e0066b34461183b3a4d2cad499"
+    },
+    {
+      "paperId": "6fc98990231f273a443eb5e71c4ab585a436545c"
+    },
+    {
+      "paperId": "6fb2f846073ae74d1c32c364cf29da91385abd03"
+    },
+    {
+      "paperId": "c954edafc880de49bec43c344e03414b404f3ba3"
+    },
+    {
+      "paperId": "9aff68bfd6fee33fe5c55b011ba65f870c77ef89"
+    },
+    {
+      "paperId": "b6f04064b737d33be2b47696be2292f2b49c5eba"
+    },
+    {
+      "paperId": "6f34133c910fef3ba2f95ef31a3d98485a22ba52"
+    },
+    {
+      "paperId": "4e0549b57b8a8af319e9baf0a7bac5f41cd9b32b"
+    },
+    {
+      "paperId": "50a63e6774b99428d4bc99091040ca26915413ea"
+    },
+    {
+      "paperId": "198a2e92968f82204f941f83dfd2e702459dcd63"
+    },
+    {
+      "paperId": "1c2a304e33bb5e49489a4575e2726c0937f1aac7"
+    },
+    {
+      "paperId": "0535b1b5879f15344d2dba832563a01bd25662c9"
+    },
+    {
+      "paperId": "22caec7bd22e1bd8e5f38c62964741ab9dc64003"
+    },
+    {
+      "paperId": "a2e3dd875e3921aac870aa425019584caf823e20"
+    },
+    {
+      "paperId": "26b3252ad6f6a75aedbb543d773de709677a362d"
+    },
+    {
+      "paperId": "3ce7c0a98376475fd26396b369ef6d64ce133b8b"
+    },
+    {
+      "paperId": "1ccc7ca840085b8a1efccf8d6e0942f494711e8f"
+    },
+    {
+      "paperId": "67a50f7a7d1272eb2bad4c1aab1721793ae3490e"
+    },
+    {
+      "paperId": "8beea6cac12de610ae02e72eb17a816a3f8bd24d"
+    },
+    {
+      "paperId": "b42261f1995eaa0cf19fc16979e7e296c6fedd15"
+    },
+    {
+      "paperId": "ab0cfb0d9e84b9aae1de70a27ad887c561b8579d"
+    },
+    {
+      "paperId": "1ef43dc8a7e3bfef8f35346cee1497b8dc2a34a1"
+    },
+    {
+      "paperId": "c5a211ab466bc04e235af1c2ffe48c2f05444ea6"
+    },
+    {
+      "paperId": "bec9b07baaeaeb63bbda1c2237d06d7608648eab"
+    },
+    {
+      "paperId": "26ef752b7112c3b4c982274fb4216c8a46f90cf2"
+    },
+    {
+      "paperId": "490af1266844e31461addb94bce633016536a18a"
+    },
+    {
+      "paperId": "8178b1cc97cca36dbfd217d664990b6950ab272d"
+    },
+    {
+      "paperId": "5284aee1f8e9ad67b7396de0befae3abd7d6bfb2"
+    },
+    {
+      "paperId": "8ed8f5f1d1bbcfd688a455189f29715b8654368a"
+    },
+    {
+      "paperId": "a4b620c1b08b8d8f3e8a64ba24ef161b5b2cca0e"
+    },
+    {
+      "paperId": "c9ddc8456b25a1abdd515c30ea7b0dd08270fd59"
+    },
+    {
+      "paperId": "1558c7b76c10f8ced07bf9fbcb54a8afe493d4fb"
+    },
+    {
+      "paperId": "74e2a7fe1200b373a8ef4a7b8b05ecd82c966832"
+    },
+    {
+      "paperId": "ea19d3e816895289b194ca912a3e416881f08b33"
+    },
+    {
+      "paperId": "294c832e41c40ab2f2d46e5e29825543d21712e8"
+    },
+    {
+      "paperId": "aaa6cd828271555ee0a07dcac1c9efaf8258688f"
+    },
+    {
+      "paperId": "947d842b02ce335b3581df45c1bc69445dc690c2"
+    },
+    {
+      "paperId": "a8a312aa2b55b571d752f7d00138673fa495a5e9"
+    }
+  ]
+}

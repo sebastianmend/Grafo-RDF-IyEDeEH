@@ -1,0 +1,312 @@
+{
+  "paperId": "e762af178ff2636fcd67151ef393e34d1e843949",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/HeWCJLY19",
+    "MAG": "2919877096",
+    "DOI": "10.3390/rs11050535",
+    "CorpusId": 84833796
+  },
+  "url": "https://www.semanticscholar.org/paper/e762af178ff2636fcd67151ef393e34d1e843949",
+  "title": "Feature Comparison and Optimization for 30-M Winter Wheat Mapping Based on Landsat-8 and Sentinel-2 Data Using Random Forest Algorithm",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 32,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/5/535/pdf?version=1552295082",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11050535?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11050535, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152990564",
+      "name": "Yuanhuizi He"
+    },
+    {
+      "authorId": "2320399",
+      "name": "Changlin Wang"
+    },
+    {
+      "authorId": "2149500724",
+      "name": "Fang Chen"
+    },
+    {
+      "authorId": "2189999",
+      "name": "Huicong Jia"
+    },
+    {
+      "authorId": "2087749667",
+      "name": "Dong Liang"
+    },
+    {
+      "authorId": "40274245",
+      "name": "Aqiang Yang"
+    }
+  ],
+  "abstract": "Winter wheat cropland is one of the most important agricultural land-cover types affected by the global climate and human activity. Mapping 30-m winter wheat cropland can provide beneficial reference information that is necessary for understanding food security. To date, machine learning algorithms have become an effective tool for the rapid identification of winter wheat at regional scales. Algorithm implementation is based on constructing and selecting many features, which makes feature set optimization an important issue worthy of discussion. In this study, the accurate mapping of winter wheat at 30-m resolution was realized using Landsat-8 Operational Land Imager (OLI), Sentinel-2 Multispectral Imager (MSI) data, and a random forest algorithm. This paper also discusses the optimal combination of features suitable for cropland extraction. The results revealed that: (1) the random forest algorithm provided robust performance using multi-features (MFs), multi-feature subsets (MFSs), and multi-patterns (MPs) as input parameters. Moreover, the highest accuracy (94%) for winter wheat extraction occurred in three zones, including: pure farmland, urban mixed areas, and forest areas. (2) Spectral reflectance and the crop growth period were the most essential features for crop extraction. The MFSs combined with the three to four feature types enabled the high-precision extraction of 30-m winter wheat plots. (3) The extraction accuracy of winter wheat in three zones with multiple geographical environments was affected by certain dominant features, including spectral bands (B), spectral indices (S), and time-phase characteristics (D). Therefore, we can improve the winter wheat mapping accuracy of the three regional types by improving the spectral resolution, constructing effective spectral indices, and enriching vegetation information. The results of this paper can help effectively construct feature sets using the random forest algorithm, thus simplifying the feature construction workload and ensuring high-precision extraction results in future winter wheat mapping research.",
+  "references": [
+    {
+      "paperId": "004d6bc2ede3cce795cc0d679dbeb85d6db21c1c"
+    },
+    {
+      "paperId": "64f410b938ca953579f4c4d798b49e77661ee070"
+    },
+    {
+      "paperId": "2b6ef7399d3d2a2079129f563337f77ec89b5810"
+    },
+    {
+      "paperId": "be474ff68b234464627ceeb32e5220bf5a9c15ea"
+    },
+    {
+      "paperId": "0fd9af8e60e59900a5d230bd5fac9eb33a36c5f5"
+    },
+    {
+      "paperId": "9b27301aa884d02dc13b5ae77f2a864d75ea161a"
+    },
+    {
+      "paperId": "da461768d9a1fc859d3200a11b458591a79bd67b"
+    },
+    {
+      "paperId": "870d401412e572ddf56aadfeec312290b43ede25"
+    },
+    {
+      "paperId": "c7e6d9f7164b87ee3c80f516e7c8aeab59390a5b"
+    },
+    {
+      "paperId": "c392831b926e2d224cd5c5f712fda49f2182aa91"
+    },
+    {
+      "paperId": "5ca37f8d746f0c023238b75a4f3d42d806365083"
+    },
+    {
+      "paperId": "60119658af638693f6de23d8466968e60c428ac7"
+    },
+    {
+      "paperId": "c5a1e155aedfa1460eda33346e68eec3dbf290eb"
+    },
+    {
+      "paperId": "1c3d407a8f0689f7f2844db7bcbce1bb6dabd33f"
+    },
+    {
+      "paperId": "3ad4bfa90024759fccb2b8001e5802cab05c061b"
+    },
+    {
+      "paperId": "d600dd875bb5462aa4fb20e403aa0e5b6e8b23d7"
+    },
+    {
+      "paperId": "efd87536f1b25f2100e96376a070c1444d0b0432"
+    },
+    {
+      "paperId": "8f3ef2bd72026bd2b948dbd677c67234cfe5f2ef"
+    },
+    {
+      "paperId": "3295d62b0d7aff81c2cfd12bbb45d27b6e6c9406"
+    },
+    {
+      "paperId": "abc7a7710bb0bf0965d16fbdeac503ec5369846a"
+    },
+    {
+      "paperId": "a5295c9910fba51321d08d2b95645a0889ad5bd0"
+    },
+    {
+      "paperId": "d5dce74c5685aee22e6b673dd708fff76eab01cd"
+    },
+    {
+      "paperId": "9ce5619f5587a15b3e4ccada538d03c7c56b0137"
+    },
+    {
+      "paperId": "a5693b0d242e29cf08cee2f18ea271b98646e32b"
+    },
+    {
+      "paperId": "489d10611564b606d76528ccfc6c3e2a4861c9c0"
+    },
+    {
+      "paperId": "71b6660fe593955664bc1ceb14dc3c0382655485"
+    },
+    {
+      "paperId": "3b7c97e217a9ac4dfc33054e2026539c96aa6132"
+    },
+    {
+      "paperId": "19b9f003ac06ac98e5680efd5b4bb23d231cd0e2"
+    },
+    {
+      "paperId": "65d8b387528bb8eb18bd4f5e330b801a55e8c652"
+    },
+    {
+      "paperId": "97087767553859ed5a24500cdf6be62527ac40e3"
+    },
+    {
+      "paperId": "5923f330569d21567922631332e7ceb34ec645cc"
+    },
+    {
+      "paperId": "2e37205d9d699622a505d4f02cb3a07365a73d53"
+    },
+    {
+      "paperId": "49d56034568ee3fdb923156eb3ed74b77c39c5bf"
+    },
+    {
+      "paperId": "2b71b4db4132cdc99ed0d88cf2bd4b90c1f072dd"
+    },
+    {
+      "paperId": "60f04e0e4f99dcc5234dfb42bcf47419260b148e"
+    },
+    {
+      "paperId": "02f3525534a672e78b6c0e525d1ece4290ecc551"
+    },
+    {
+      "paperId": "a9d3e039e7645eb3c1e1586077fae34e7bbea396"
+    },
+    {
+      "paperId": "9a7ef86ad80457b32773b09323db89163bdd1259"
+    },
+    {
+      "paperId": "3fd685a307a513956fa373ba9ae8ff177bd08b72"
+    },
+    {
+      "paperId": "2471ed9df5df3998720c67812538528def656f63"
+    },
+    {
+      "paperId": "68570d37e535f0ac3ae6667ce054914bb27b19cb"
+    },
+    {
+      "paperId": "fc8b5280630996a90c4ca613ef1c29fed1fc0171"
+    },
+    {
+      "paperId": "1d838db4da727eade00907ffb1b697f1487a6f58"
+    },
+    {
+      "paperId": "9a1b554bf4b20cc9238f1a47144a04cfc766ada9"
+    },
+    {
+      "paperId": "dbf6a3bcc2e9fd6c990e3a2ca562a995ed977dbc"
+    },
+    {
+      "paperId": "a15ea48b0d27b8208bb2adb4da14f00e5d143aab"
+    },
+    {
+      "paperId": "9fc8a16a777f6bf9b7b06ef9fff8408f980f512d"
+    },
+    {
+      "paperId": "f3e9643726b6fbf46946eb59facee9c12575da75"
+    },
+    {
+      "paperId": "089eea2b975ed457d5e16327bf74067f0ecb0869"
+    },
+    {
+      "paperId": "a3c941d63143b865bf27731d1b3aa2f2479aa647"
+    },
+    {
+      "paperId": "5860a8d1dce5aab845c7d3539fd5bcf020cc444e"
+    },
+    {
+      "paperId": "3c412571bcbbca7161361e9d83b68230dade5999"
+    },
+    {
+      "paperId": "663ff805959e6e54030ed49638f2278e070dcdeb"
+    },
+    {
+      "paperId": "7ad785d8cd5d45ee07a82a2c0d7d4c733b1251d5"
+    },
+    {
+      "paperId": "32d0811032d46ae6a35bf5fbbe545661f6e2bd4a"
+    },
+    {
+      "paperId": "1ca7bbe601d1ca3b90cd5a6182cbf13ea86996ba"
+    },
+    {
+      "paperId": "bdcd4d04ee10426569227061655108419731020d"
+    },
+    {
+      "paperId": "31cd41071b146a07b735aeb6ed710b0c849a6b37"
+    },
+    {
+      "paperId": "45310c3ace403329b1fce03cb973830412bf7307"
+    },
+    {
+      "paperId": "d1ee87290fa827f1217b8fa2bccb3485da1a300e"
+    },
+    {
+      "paperId": "aafb99a59b654beb182870fc727775940da49fff"
+    },
+    {
+      "paperId": "8da73cd155713723e9235794f3bca5d4b01f164d"
+    },
+    {
+      "paperId": "d7bed062683df1fd6723fb9c0c1d26feddc8c133"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "1fdb62555eb650662dbe2a6f3985d390861597c2"
+    },
+    {
+      "paperId": "6709c32d3763548f67737e02e8331cacf189dd2f"
+    },
+    {
+      "paperId": "9e463eefadbcd336c69270a299666e4104d50159"
+    },
+    {
+      "paperId": "04baae037052fbeb4b52ea18c4efa425b21c0389"
+    },
+    {
+      "paperId": "28282c78d102a0d2ee726f68f0cf6655674119c4"
+    },
+    {
+      "paperId": "0419991c637df3bf13a688817dc11b67416e981f"
+    },
+    {
+      "paperId": "ebe2fc9d34de9ed9b703a550eb7b4e8c5d092e79"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cdf40883faf1b5a7851eb0f4908bb76853065c10"
+    },
+    {
+      "paperId": "3dfa4504aac83d05fa352bdb1a3529a5ae7c39cf"
+    },
+    {
+      "paperId": "308d85d43a62ff79c89dd49b80ffd3d40f9858dc"
+    },
+    {
+      "paperId": "13dd43463710f0b5039fb93f7a9eda29d2d72f89"
+    },
+    {
+      "paperId": "31ed0043b801311b9f1d3418a8c46c01edefd1f0"
+    },
+    {
+      "paperId": "eebed0813eaf632939298116c5e5ee8bfd3cd7f0"
+    },
+    {
+      "paperId": "1c9f2a5b2773bee3d846eb2c584815268a29c4f3"
+    },
+    {
+      "paperId": "879410f07c1e118b0ab9b39b54fd398ae571b0b1"
+    },
+    {
+      "paperId": "2d8240909487807e362b0ab7653b932c5f5b3e1e"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": "a2733bf0e604d06b11d519cc7c1e13fb6bdbef07"
+    },
+    {
+      "paperId": "7fdd8c2ea8ecd753fdff5707f709111023cef1e1"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    }
+  ]
+}

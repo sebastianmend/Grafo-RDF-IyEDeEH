@@ -1,0 +1,54 @@
+{
+  "paperId": "259b6bebdcd71a94542134fd6326680a009303eb",
+  "externalIds": {
+    "MAG": "2980945546",
+    "DOI": "10.1109/CLEOE-EQEC.2019.8872954",
+    "CorpusId": 204817241
+  },
+  "url": "https://www.semanticscholar.org/paper/259b6bebdcd71a94542134fd6326680a009303eb",
+  "title": "Terahertz Spectroscopy of Different Phenotypes of Arabidopsis Thaliana",
+  "venue": "2019 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC)",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CLEOE-EQEC.2019.8872954?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CLEOE-EQEC.2019.8872954, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Materials Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "153866177",
+      "name": "Khushboo Singh"
+    },
+    {
+      "authorId": "1380419008",
+      "name": "D. Garg"
+    },
+    {
+      "authorId": "88513829",
+      "name": "Arpana Katiyar"
+    },
+    {
+      "authorId": "5227810",
+      "name": "Y. Mudgil"
+    },
+    {
+      "authorId": "21468988",
+      "name": "A. Bandyopadhyay"
+    },
+    {
+      "authorId": "50005779",
+      "name": "A. Sengupta"
+    }
+  ],
+  "abstract": "The recent surge in ‘Precision agriculture’ is fueled by the acute need of food security felt worldwide to feed the global burgeoning population. To this effect, various optical techniques have recently been employed to characterize the biochemical processes in various parts of the plants [1]. Terahertz (THz) region (0.3–10 THz) has gathered momentum in this field as it is biologically safe, can penetrate food packaging and most importantly, has fingerprinting ability of various organic and inorganic molecules due to active rotational and vibrational modes [2]. Moreover, unlike other optical spectroscopic techniques, THz time domain spectroscopic (THz-TDS) technique records the information in form of THz electric field; which once converted to frequency domain provides both amplitude and phase information [3]. Additionally, THz waves are highly absorbed by water which in turn can be utilized for quantitative water status monitoring in plants [4].",
+  "references": null
+}

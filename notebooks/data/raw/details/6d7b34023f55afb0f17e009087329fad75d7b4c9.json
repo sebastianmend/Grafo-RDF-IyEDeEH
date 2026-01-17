@@ -1,0 +1,180 @@
+{
+  "paperId": "6d7b34023f55afb0f17e009087329fad75d7b4c9",
+  "externalIds": {
+    "DBLP": "journals/sensors/DellAcquaITM18",
+    "MAG": "2781390468",
+    "PubMedCentral": "5855010",
+    "DOI": "10.3390/s18020591",
+    "CorpusId": 3791830,
+    "PubMed": "29443919"
+  },
+  "url": "https://www.semanticscholar.org/paper/6d7b34023f55afb0f17e009087329fad75d7b4c9",
+  "title": "A Novel Strategy for Very-Large-Scale Cash-Crop Mapping in the Context of Weather-Related Risk Assessment, Combining Global Satellite Multispectral Datasets, Environmental Constraints, and In Situ Acquisition of Geospatial Data",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/2/591/pdf?version=1518625828",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5855010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1397207814",
+      "name": "F. Dell’acqua"
+    },
+    {
+      "authorId": "1885445",
+      "name": "G. Iannelli"
+    },
+    {
+      "authorId": "121199394",
+      "name": "Marco A. Torres"
+    },
+    {
+      "authorId": "40587128",
+      "name": "M. Martina"
+    }
+  ],
+  "abstract": "Cash crops are agricultural crops intended to be sold for profit as opposed to subsistence crops, meant to support the producer, or to support livestock. Since cash crops are intended for future sale, they translate into large financial value when considered on a wide geographical scale, so their production directly involves financial risk. At a national level, extreme weather events including destructive rain or hail, as well as drought, can have a significant impact on the overall economic balance. It is thus important to map such crops in order to set up insurance and mitigation strategies. Using locally generated data—such as municipality-level records of crop seeding—for mapping purposes implies facing a series of issues like data availability, quality, homogeneity, etc. We thus opted for a different approach relying on global datasets. Global datasets ensure homogeneity and availability of data, although sometimes at the expense of precision and accuracy. A typical global approach makes use of spaceborne remote sensing, for which different land cover classification strategies are available in literature at different levels of cost and accuracy. We selected the optimal strategy in the perspective of a global processing chain. Thanks to a specifically developed strategy for fusing unsupervised classification results with environmental constraints and other geospatial inputs including ground-based data, we managed to obtain good classification results despite the constraints placed. The overall production process was composed using “good-enough\" algorithms at each step, ensuring that the precision, accuracy, and data-hunger of each algorithm was commensurate to the precision, accuracy, and amount of data available. This paper describes the tailored strategy developed on the occasion as a cooperation among different groups with diverse backgrounds, a strategy which is believed to be profitably reusable in other, similar contexts. The paper presents the problem, the constraints and the adopted solutions; it then summarizes the main findings including that efforts and costs can be saved on the side of Earth Observation data processing when additional ground-based data are available to support the mapping task.",
+  "references": [
+    {
+      "paperId": "dff0d73eb636ded4a4b5ada5dc9fa1139e27f296"
+    },
+    {
+      "paperId": "efe589526a5bd62e333694f3c5b693e064867409"
+    },
+    {
+      "paperId": "4e92a53db8762a9d851ca172e9c98977cec39aef"
+    },
+    {
+      "paperId": "b6189c09836d9b0c53de7f6979346c65fa2ff6bf"
+    },
+    {
+      "paperId": "bb4e5352d2a8511cc9412401995ba0f82acdf937"
+    },
+    {
+      "paperId": "fd511845b635314581e970224dbf30a2b46d7591"
+    },
+    {
+      "paperId": "c5fb8b264f1f335ef5ff3d136ed6927f2c748c7a"
+    },
+    {
+      "paperId": "9bd99022d60992913491697dbfffc0416041b266"
+    },
+    {
+      "paperId": "1f468dca120054de66974f635e9ad4e979f92b6d"
+    },
+    {
+      "paperId": "1bddcf9d4a1542176db50c121d3e9877ff9dec74"
+    },
+    {
+      "paperId": "81f180e6290d6d9c5b3fb6a06470618eb2bb701e"
+    },
+    {
+      "paperId": "dc9422fbe1a635713db8ade89f745a10f2276ee2"
+    },
+    {
+      "paperId": "318d7ba70fc4df864aee671aa536e1dd0c3dd15a"
+    },
+    {
+      "paperId": "f5ae932d3485f319115b379c29cb4a16c1b62fa8"
+    },
+    {
+      "paperId": "d72a53e1350c78dc6950e3fa50c5ced281a976a1"
+    },
+    {
+      "paperId": "2eda37ac08c5c2ee78b855414aa7e5ae31a5f9d2"
+    },
+    {
+      "paperId": "8b52b92fdb9160b1b36280f3e5283c12f4a9a90e"
+    },
+    {
+      "paperId": "bf95786ffae5a70d8b0a8c5255938700874c1c57"
+    },
+    {
+      "paperId": "56cbfcc97269fc5e6c80869cb8c56471fc8f199b"
+    },
+    {
+      "paperId": "5f937d3a75985fec1143f110bfd5e0b4985b28ac"
+    },
+    {
+      "paperId": "3daf711f505768aa34cb4d757ac2182ba762ba63"
+    },
+    {
+      "paperId": "62ae165a9794a7c273d6d5fd14cd1bfbaed7275b"
+    },
+    {
+      "paperId": "43f2923d380a02f98be9f7e3389918b7d1e331d6"
+    },
+    {
+      "paperId": "7b88f060026fa673baf0cce5bbec0480361964cd"
+    },
+    {
+      "paperId": "dc3e57dadea569feb567291be297fe7b69ab319d"
+    },
+    {
+      "paperId": "420c8b668c4116ffb21978b08b60143e6174208b"
+    },
+    {
+      "paperId": "8726faf2d2d8b67fa91505263e995a6350ede83a"
+    },
+    {
+      "paperId": "d2272dd9ff850edc448f7fde86eef6bcd57af2cc"
+    },
+    {
+      "paperId": "bc9a56506372eb2f8de1cdb57fe19fc8a4f9ca62"
+    },
+    {
+      "paperId": "05801d98dfaf497212163a60d3a1e5917727b5b1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "73afe4b6164eb088f070179379fae2d2826e065e"
+    },
+    {
+      "paperId": "09132329762a0c3aae02d6fbfb5fdb6d32959b52"
+    },
+    {
+      "paperId": "8a732c1ce0db12089e59f750a8c4d65d809f6524"
+    },
+    {
+      "paperId": "f802a767f7d095797a1aed12c4b738a67dd3b314"
+    },
+    {
+      "paperId": "95bcb5593a8916440df60caf5730640d766046d6"
+    },
+    {
+      "paperId": "87b88908e09f054e4cce19891061d75521e55844"
+    },
+    {
+      "paperId": "53bf950c6a351afa927df410dd607c618b0ff02e"
+    },
+    {
+      "paperId": "580bd3e5eddc09e80579b63a76bc876481af702c"
+    },
+    {
+      "paperId": "228bfcd90dbe4600ed1e8e9d4267444f2435329e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

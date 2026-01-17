@@ -1,0 +1,47 @@
+{
+  "paperId": "053a03dad97cf7c3545ab1bfb363df343a59dba3",
+  "externalIds": {
+    "DBLP": "journals/jfr/BosiljADC20",
+    "MAG": "2930246464",
+    "DOI": "10.1002/rob.21869",
+    "CorpusId": 132053681
+  },
+  "url": "https://www.semanticscholar.org/paper/053a03dad97cf7c3545ab1bfb363df343a59dba3",
+  "title": "Transfer learning between crop types for semantic segmentation of crops versus weeds in precision agriculture",
+  "venue": "J. Field Robotics",
+  "year": 2019,
+  "citationCount": 141,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rob.21869?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rob.21869, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1849511",
+      "name": "Petra Bosilj"
+    },
+    {
+      "authorId": "3171826",
+      "name": "E. Aptoula"
+    },
+    {
+      "authorId": "1793716",
+      "name": "T. Duckett"
+    },
+    {
+      "authorId": "2763480",
+      "name": "Grzegorz Cielniak"
+    }
+  ],
+  "abstract": "Agricultural robots rely on semantic segmentation for distinguishing between crops and weeds to perform selective treatments and increase yield and crop health while reducing the amount of chemicals used. Deep‐learning approaches have recently achieved both excellent classification performance and real‐time execution. However, these techniques also rely on a large amount of training data, requiring a substantial labeling effort, both of which are scarce in precision agriculture. Additional design efforts are required to achieve commercially viable performance levels under varying environmental conditions and crop growth stages. In this paper, we explore the role of knowledge transfer between deep‐learning‐based classifiers for different crop types, with the goal of reducing the retraining time and labeling efforts required for a new crop. We examine the classification performance on three datasets with different crop types and containing a variety of weeds and compare the performance and retraining efforts required when using data labeled at pixel level with partially labeled data obtained through a less time‐consuming procedure of annotating the segmentation output. We show that transfer learning between different crop types is possible and reduces training times for up to 80%. Furthermore, we show that even when the data used for retraining are imperfectly annotated, the classification performance is within 2% of that of networks trained with laboriously annotated pixel‐precision data.",
+  "references": null
+}

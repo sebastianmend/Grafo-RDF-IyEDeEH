@@ -1,0 +1,50 @@
+{
+  "paperId": "12028db132e2fe5b1db13504b974c946de93f93a",
+  "externalIds": {
+    "MAG": "2937599210",
+    "DOI": "10.1109/ICRAMET.2018.8683934",
+    "CorpusId": 106411234
+  },
+  "url": "https://www.semanticscholar.org/paper/12028db132e2fe5b1db13504b974c946de93f93a",
+  "title": "Development of Precision Farming Using Modular Multi Node Sensor",
+  "venue": "2018 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET)",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICRAMET.2018.8683934?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICRAMET.2018.8683934, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "96753632",
+      "name": "Yaya Suleman"
+    },
+    {
+      "authorId": "12974156",
+      "name": "R. V. Manurung"
+    },
+    {
+      "authorId": "9383519",
+      "name": "D. Kurniawan"
+    },
+    {
+      "authorId": "95052373",
+      "name": "I Dewa Putu Hermida"
+    },
+    {
+      "authorId": "31381402",
+      "name": "A. Heryana"
+    }
+  ],
+  "abstract": "Integration between Wireless Sensor Network (WSN) and the Internet of Things (IoT) is widely used in many application to build a support system to overcome any problem. Indonesia as an agriculture country which needs that technology to solve agriculture problem such as land monitoring, water treatment, etc. Precision farming based on WSN and IoT is described in detail especially in multi-node sensor configuration and the master station. In this research, the WSN system consists of the multi-node sensor which contains several sensors for each node, a controller and wireless module. A master station is built with raspberry pi 3 (RPi3) as the main computer. All data from node sensor will be displayed to a graphical user interface (GUI) and saving data into internal databases. Communication between the master station and each node sensor through a wireless network based on X-bee board. The software operated in closed loop control to activate water treatment based threshold value from the sensor. The sensor data also displayed in server station based on the website and can be accessed in everywhere through an internet connection. A farmer can monitor updated sensor data using android application where installed in an android mobile phone.",
+  "references": null
+}

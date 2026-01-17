@@ -1,0 +1,65 @@
+{
+  "paperId": "c0b888e0b7713934ce45fdfa4e425affe1e360fc",
+  "externalIds": {
+    "MAG": "2895320008",
+    "DOI": "10.1088/1757-899X/420/1/012076",
+    "CorpusId": 187727127
+  },
+  "url": "https://www.semanticscholar.org/paper/c0b888e0b7713934ce45fdfa4e425affe1e360fc",
+  "title": "Influence of North Sumatra Maize (Zea mays L.) monocultuure on soil properties using free Sentinel 2 imagery",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1757-899X/420/1/012076/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/420/1/012076?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/420/1/012076, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2106223744",
+      "name": "V. Novak"
+    },
+    {
+      "authorId": "4866786",
+      "name": "K. Křížová"
+    },
+    {
+      "authorId": "100563616",
+      "name": "R. Napitupulu"
+    }
+  ],
+  "abstract": "Nowadays, soil degradation is a very discussed global problem. Since the population grows while the space for primary production remains limited, it is necessary to modify agricultural practice to fulfill all population needs. The concept of precision agriculture aims to utilize modern technologies to make the agriculture more effective. Maize is one of the crucial crops worldwide. However, its cultivation has a negative influence on the soil, because it depletes the nutrients and since the sewing distance is relatively high, the soil is also endangered by water or wind erosion. This study aimed to evaluate a 1.6 agricultural plot in North Sumatra, Indonesia, where there is maize cultivated in a very intensive mode. The influence of degraded soil on maize yield was the main issue. Soil sampling showed that there is only slightly lower amount of copper, otherwise the soil nutrients content are on optimal levels. Since there were no yield data evaluated, yield was estimated by calculating Normalized Difference Vegetation Index derived from free Sentinel-2 satellite imagery. Four growing season were evaluated. Mean values of NDVI did not show any trend (0.579; 0.667; 0.621; 0.572). Four vegetation seasons seem to be a very short period to observe any significant results. Thus, this paper may be understood as a study with preliminary results that may be repeated in future to see potential influence of intensive maize cultivation on soil properties.",
+  "references": [
+    {
+      "paperId": "d2bd2402ba15adb6c5c616de90a15733300737cf"
+    },
+    {
+      "paperId": "b9a37db556e36cddc95bbfe477a75ca5708c314e"
+    },
+    {
+      "paperId": "3f647206c70bb1c4b10137e29206cae7b0c2b984"
+    },
+    {
+      "paperId": "9222b66745f34d3dc087ba2645801643fe97b485"
+    },
+    {
+      "paperId": "86ba0a706f82904546923b86ea1c63cae78e6cab"
+    },
+    {
+      "paperId": "0b700209d68ac5688df592eec1340d1bfc2295a5"
+    },
+    {
+      "paperId": "709bc9e243d89d912a9bb1b10719c300dd0ac577"
+    }
+  ]
+}

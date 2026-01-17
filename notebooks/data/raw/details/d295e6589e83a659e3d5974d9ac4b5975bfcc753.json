@@ -1,0 +1,55 @@
+{
+  "paperId": "d295e6589e83a659e3d5974d9ac4b5975bfcc753",
+  "externalIds": {
+    "MAG": "2950801009",
+    "DOI": "10.23919/URSIAP-RASC.2019.8738736",
+    "CorpusId": 195224669
+  },
+  "url": "https://www.semanticscholar.org/paper/d295e6589e83a659e3d5974d9ac4b5975bfcc753",
+  "title": "Preliminary Results on the Performance of Cost-effective GNSS Receivers for RTK",
+  "venue": "URSI Asia-Pacific Radio Science Conference",
+  "year": 2019,
+  "citationCount": 36,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/URSIAP-RASC.2019.8738736?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/URSIAP-RASC.2019.8738736, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49423162",
+      "name": "S. Mahato"
+    },
+    {
+      "authorId": "21085540",
+      "name": "Atanu Santra"
+    },
+    {
+      "authorId": "51347409",
+      "name": "Sukabya Dan"
+    },
+    {
+      "authorId": "2127046121",
+      "name": "Partha Rakshit"
+    },
+    {
+      "authorId": "52211302",
+      "name": "P. Banerjee"
+    },
+    {
+      "authorId": "48501666",
+      "name": "A. Bose"
+    }
+  ],
+  "abstract": "Global navigation satellite systems (GNSSs) is currently used in myriads of applications and at the same time internet-based applications are also growing. In case of GNSS, stand-alone, single receiver-based position solution accuracy may not be enough in many applications like automated transporting service, unmanned air vehicle, Geodesy and agriculture etc and GNSS mass market needs low cost high accurate position solution. Carrier phase measurement-based position solution is more precise than code-based measurement, but phase ambiguity is a problem in carrier phase-based measurement. Real time Kinematic (RTK) technique is a method where precise position solution can be obtained using Network Transfer of RTCM message through IP (NTRIP) protocol; here multiple signal messages (MSM) are also sent from the GNSS base station to the rover and Carrier ambiguity can be resolved. This research work focuses on the RTK performance of geodetic, survey-grade receivers and low-cost receivers and analysis on their comparative performances. Geodetic receiver uses its own algorithm to calculate RTK solution and for the low-cost receivers, an open-source GNSS data processing software, RTKLib has been used. A static survey is made and found that low cost receivers can provide sub meter level precision in RTK operation which may help in GNSS mass market application and solution development.",
+  "references": null
+}

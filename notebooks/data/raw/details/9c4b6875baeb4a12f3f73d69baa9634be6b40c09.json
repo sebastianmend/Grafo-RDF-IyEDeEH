@@ -1,0 +1,54 @@
+{
+  "paperId": "9c4b6875baeb4a12f3f73d69baa9634be6b40c09",
+  "externalIds": {
+    "MAG": "2899841749",
+    "DOI": "10.1109/CCE.2018.8465723",
+    "CorpusId": 53283367
+  },
+  "url": "https://www.semanticscholar.org/paper/9c4b6875baeb4a12f3f73d69baa9634be6b40c09",
+  "title": "Water and Energy-Efficient Irrigation based on Markov Decision Model for Precision Agriculture",
+  "venue": "IEEE International Conference on Consumer Electronics",
+  "year": 2018,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCE.2018.8465723?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCE.2018.8465723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30117692",
+      "name": "Truong Thu Huong"
+    },
+    {
+      "authorId": "30866714",
+      "name": "Nguyen Huu Thanh"
+    },
+    {
+      "authorId": "2070553189",
+      "name": "Nguyen Thi Van"
+    },
+    {
+      "authorId": "2305723881",
+      "name": "Nguyen Tien Dat"
+    },
+    {
+      "authorId": "26633278",
+      "name": "N. Long"
+    },
+    {
+      "authorId": "2054944480",
+      "name": "Alan Marshall"
+    }
+  ],
+  "abstract": "Nowadays, water has become an increasingly scarce and valuable resource, yet, by far the largest demand for the world’s water comes from agriculture. Irrigation is still not efficient in the sense of water usage as well as yield increase. In this paper, we propose a generic irrigation model based on Markov Decision Processes termed Markov-Decision based Irrigation (MDI) for creating automatic and precise irrigation policies for an energy and water efficient farming as well as to ensure good crop growth. MDI is developed at the gateway that decides smart irrigation actions for each autonomous sub area inside a whole farm. The results presented show that MDI outperforms the common threshold-based irrigation method by around 40% in our analytical use case. Furthermore, this model can be generalized for many types of crops and environments.",
+  "references": null
+}

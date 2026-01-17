@@ -1,0 +1,50 @@
+{
+  "paperId": "f77c1bb7f0f1fb8ee7aead2bfeaf69fc10759ac8",
+  "externalIds": {
+    "MAG": "2897386760",
+    "DOI": "10.23919/CHICC.2018.8483269",
+    "CorpusId": 52929162
+  },
+  "url": "https://www.semanticscholar.org/paper/f77c1bb7f0f1fb8ee7aead2bfeaf69fc10759ac8",
+  "title": "Distributed Coverage Optimization and Control with Applications to Precision Agriculture",
+  "venue": "Cybersecurity and Cyberforensics Conference",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/CHICC.2018.8483269?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/CHICC.2018.8483269, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2155660206",
+      "name": "Jun Zhang"
+    },
+    {
+      "authorId": "9271737",
+      "name": "Hilton Tnunay"
+    },
+    {
+      "authorId": "48585822",
+      "name": "Chunyan Wang"
+    },
+    {
+      "authorId": "143628257",
+      "name": "X. Lyu"
+    },
+    {
+      "authorId": "1813929",
+      "name": "Z. Ding"
+    }
+  ],
+  "abstract": "In this paper, distributed coverage optimization and control problem with collision avoidance and parameter estimation are studied. First, we consider the case that the density function $\\phi(q)$ is known by all the robots in the network. By using the interaction term of Voronoi neighbour, coverage optimization and control protocols are designed in a distributed way such that the best position of each robot can be determined and all the robots can move to the best positions without collision. Then, we consider the case that the density function $\\phi(q)$ is not known by the robots. By using the adaptive technique, the density function $\\phi(q)$ can be estimated in a fast and distributed way. Finally, the proposed coverage control scheme are applied to remote sensing for precision farming and the effectiveness of the strategy is validated through some simulation results.",
+  "references": null
+}

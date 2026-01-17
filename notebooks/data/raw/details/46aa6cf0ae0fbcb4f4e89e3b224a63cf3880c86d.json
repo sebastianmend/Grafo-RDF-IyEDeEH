@@ -1,0 +1,65 @@
+{
+  "paperId": "46aa6cf0ae0fbcb4f4e89e3b224a63cf3880c86d",
+  "externalIds": {
+    "DBLP": "conf/meco/MarasPGMPSPM19",
+    "MAG": "2959709274",
+    "DOI": "10.1109/MECO.2019.8760145",
+    "CorpusId": 198145387
+  },
+  "url": "https://www.semanticscholar.org/paper/46aa6cf0ae0fbcb4f4e89e3b224a63cf3880c86d",
+  "title": "Optimal Irrigation as a tool of Precision Agriculture",
+  "venue": "Mediterranean Conference on Embedded Computing",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MECO.2019.8760145?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MECO.2019.8760145, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40283658",
+      "name": "V. Maras"
+    },
+    {
+      "authorId": "35537206",
+      "name": "Tomo Popović"
+    },
+    {
+      "authorId": "151206333",
+      "name": "Spasenija Gajinov"
+    },
+    {
+      "authorId": "49579250",
+      "name": "Milena Mugosa"
+    },
+    {
+      "authorId": "123129021",
+      "name": "V. Popovic"
+    },
+    {
+      "authorId": "83526707",
+      "name": "A. Savovic"
+    },
+    {
+      "authorId": "107594148",
+      "name": "Katarina Pavicevic"
+    },
+    {
+      "authorId": "151247129",
+      "name": "Vasilije Mirovic"
+    }
+  ],
+  "abstract": "The precision viticulture is unique in its emphasis on vineyard management according to local variation of agro biological conditions, and in its use of science and technology to accomplish this aim. To achieve a particular goal of improved yield and quality in vineyard management, it is essential to understand the impact of plant–soil–water dynamics at different phenological growth stages of the plant physiology. Irrigation system is one of the most important factors for successful agricultural production. Contemporary plant production is based on the better utilization of water per unit area, i.e. to achieve as much yield as possible, while reducing the amount of invested resources (water, fertilizers). The paper presents the results of research carried out within the company 13. Jul Plantaže and the use of irrigNET system in order to optimize irrigation of vines. At several micro localities with different vine varieties, 28 sensor devices have been installed on the Ćemovsko field to monitor moisture dew in the soil at different depths. Finally, for each micro locality, the values of the field moisture capacity were determined, all for the purpose of more precise scheduling of the irrigation and irrigation norm.",
+  "references": null
+}

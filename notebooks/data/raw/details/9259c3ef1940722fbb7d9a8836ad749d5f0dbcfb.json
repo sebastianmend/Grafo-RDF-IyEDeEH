@@ -1,0 +1,51 @@
+{
+  "paperId": "9259c3ef1940722fbb7d9a8836ad749d5f0dbcfb",
+  "externalIds": {
+    "DBLP": "conf/raad/ZotoMKCA19",
+    "MAG": "2947898249",
+    "DOI": "10.1007/978-3-030-19648-6_26",
+    "CorpusId": 156055985
+  },
+  "url": "https://www.semanticscholar.org/paper/9259c3ef1940722fbb7d9a8836ad749d5f0dbcfb",
+  "title": "Automatic Path Planning for Unmanned Ground Vehicle Using UAV Imagery",
+  "venue": "International Conference on Robotics in Alpe-Adria-Danube Region",
+  "year": 2019,
+  "citationCount": 31,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-19648-6_26?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-19648-6_26, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "89606228",
+      "name": "J. Zoto"
+    },
+    {
+      "authorId": "100748236",
+      "name": "M. Musci"
+    },
+    {
+      "authorId": "10451523",
+      "name": "Aleem Khaliq"
+    },
+    {
+      "authorId": "48473030",
+      "name": "M. Chiaberge"
+    },
+    {
+      "authorId": "2068290",
+      "name": "I. Aicardi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

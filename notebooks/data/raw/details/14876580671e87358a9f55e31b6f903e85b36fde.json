@@ -1,0 +1,56 @@
+{
+  "paperId": "14876580671e87358a9f55e31b6f903e85b36fde",
+  "externalIds": {
+    "MAG": "2990041846",
+    "DBLP": "conf/ricai/ChenZFHYL19",
+    "DOI": "10.1145/3366194.3366312",
+    "CorpusId": 208278010
+  },
+  "url": "https://www.semanticscholar.org/paper/14876580671e87358a9f55e31b6f903e85b36fde",
+  "title": "Design and Implementation of Multi-node Environmental Information Acquisition System",
+  "venue": "International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3366194.3366312?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3366194.3366312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "71628918",
+      "name": "Tianci Chen"
+    },
+    {
+      "authorId": "2280044924",
+      "name": "Lixue Zhu"
+    },
+    {
+      "authorId": "8692929",
+      "name": "Genping Fu"
+    },
+    {
+      "authorId": "49015740",
+      "name": "Weifeng Huang"
+    },
+    {
+      "authorId": "152147568",
+      "name": "Chenyu Yang"
+    },
+    {
+      "authorId": "2150357771",
+      "name": "Chao Li"
+    }
+  ],
+  "abstract": "For achieving accurate detection of greenhouse planting environment and obtaining agricultural information such as illumination and air conditions, a multi-node greenhouse environment information collection system was designed combining environment information integrated sensor fusion technology and Internet of Thing technology. The experimental results show that the system is stable in operation, and the collected environmental information data has high precision, which can better detect greenhouse plantations and provide reliable environmental information data.",
+  "references": null
+}

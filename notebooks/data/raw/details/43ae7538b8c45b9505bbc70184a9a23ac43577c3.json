@@ -1,0 +1,226 @@
+{
+  "paperId": "43ae7538b8c45b9505bbc70184a9a23ac43577c3",
+  "externalIds": {
+    "MAG": "2957894903",
+    "PubMedCentral": "6654182",
+    "DOI": "10.3389/fpls.2019.00905",
+    "CorpusId": 197418144,
+    "PubMed": "31379898"
+  },
+  "url": "https://www.semanticscholar.org/paper/43ae7538b8c45b9505bbc70184a9a23ac43577c3",
+  "title": "Dynamic Physiological Phenotyping of Drought-Stressed Pepper Plants Treated With “Productivity-Enhancing” and “Survivability-Enhancing” Biostimulants",
+  "venue": "Frontiers in Plant Science",
+  "year": 2019,
+  "citationCount": 67,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2019.00905/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6654182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145427645",
+      "name": "Ahan Dalal"
+    },
+    {
+      "authorId": "30189741",
+      "name": "Ronny Bourstein"
+    },
+    {
+      "authorId": "91081614",
+      "name": "Nadav Haish"
+    },
+    {
+      "authorId": "91577212",
+      "name": "Itamar Shenhar"
+    },
+    {
+      "authorId": "40496669",
+      "name": "R. Wallach"
+    },
+    {
+      "authorId": "3238972",
+      "name": "M. Moshelion"
+    }
+  ],
+  "abstract": "The improvement of crop productivity under abiotic stress is one of the biggest challenges faced by the agricultural scientific community. Despite extensive research, the research-to-commercial transfer rate of abiotic stress-resistant crops remains very low. This is mainly due to the complexity of genotype × environment interactions and in particular, the ability to quantify the dynamic plant physiological response profile to a dynamic environment. Most existing phenotyping facilities collect information using robotics and automated image acquisition and analysis. However, their ability to directly measure the physiological properties of the whole plant is limited. We demonstrate a high-throughput functional phenotyping system (HFPS) that enables comparing plants’ dynamic responses to different ambient conditions in dynamic environments due to its direct and simultaneous measurement of yield-related physiological traits of plants under several treatments. The system is designed as one-to-one (1:1) plant–[sensors+controller] units, i.e., each individual plant has its own personalized sensor, controller and irrigation valves that enable (i) monitoring water-relation kinetics of each plant–environment response throughout the plant’s life cycle with high spatiotemporal resolution, (ii) a truly randomized experimental design due to multiple independent treatment scenarios for every plant, and (iii) reduction of artificial ambient perturbations due to the immobility of the plants or other objects. In addition, we propose two new resilience-quantifying-related traits that can also be phenotyped using the HFPS: transpiration recovery rate and night water reabsorption. We use the HFPS to screen the effects of two commercial biostimulants (a seaweed extract –ICL-SW, and a metabolite formula – ICL-NewFo1) on Capsicum annuum under different irrigation regimes. Biostimulants are considered an alternative approach to improving crop productivity. However, their complex mode of action necessitates cost-effective pre-field phenotyping. The combination of two types of treatment (biostimulants and drought) enabled us to evaluate the precision and resolution of the system in investigating the effect of biostimulants on drought tolerance. We analyze and discuss plant behavior at different stages, and assess the penalty and trade-off between productivity and resilience. In this test case, we suggest a protocol for the screening of biostimulants’ physiological mechanisms of action.",
+  "references": [
+    {
+      "paperId": "0a06e2c0ffdfc7021b2869cadaebbcc0668b1526"
+    },
+    {
+      "paperId": "4b895d245c372add958753761e77c56b6e16a04e"
+    },
+    {
+      "paperId": "0bf74cd88ade629539f230a6a37ac89b55355c7c"
+    },
+    {
+      "paperId": "27c6f599b7fc3329fea9e8ad9f7fcfbc83afe107"
+    },
+    {
+      "paperId": "775272b11cbd8422f2e943cb861141699a55274e"
+    },
+    {
+      "paperId": "7204fe238132f1d7cdef06cb2cf3b4e741736236"
+    },
+    {
+      "paperId": "66fa3de81309233c3ebae0fe29a2b5c1992fa1d8"
+    },
+    {
+      "paperId": "08428d2ff22a9422b587245b977311601e2651bc"
+    },
+    {
+      "paperId": "ab624f26ff3da2e2349a4e3294b45ab62b8b4f95"
+    },
+    {
+      "paperId": "bcd8ffa25cc1f900c6f40fdb583dd58b659a886f"
+    },
+    {
+      "paperId": "6f1bfb83c76a40aa7ba23f599278b69ce89d964e"
+    },
+    {
+      "paperId": "9ebe4622d9971b971d6294c01616ef9f964271a0"
+    },
+    {
+      "paperId": "05b855999abc04fc42ebf1d97a505e11d70e984d"
+    },
+    {
+      "paperId": "7236dd2877ade47eb9d02438f8ba72c4e2f10cc7"
+    },
+    {
+      "paperId": "9323dc35f5d1b11e70842f77b450f5977da562d0"
+    },
+    {
+      "paperId": "3b7332f00d86367b9fb5c0b07361b64506cb4569"
+    },
+    {
+      "paperId": "c4efa6be19614d943031d0ed4963712406f69ad3"
+    },
+    {
+      "paperId": "f6a7a4b6550cc110f7a05934dea96a3e205bee85"
+    },
+    {
+      "paperId": "bbb421ab50977c9b9724a8088247df142e9ff9cc"
+    },
+    {
+      "paperId": "24e742682fcb2c555ae63fc088b4ee22c5aa594b"
+    },
+    {
+      "paperId": "515670f7982105c728bd6adba6ff0cbd956a2eaf"
+    },
+    {
+      "paperId": "f915fa99b7ac531f56e297ae153956f6a09d6af9"
+    },
+    {
+      "paperId": "2399642812bd44b8555185fe7387d5d2d43b961b"
+    },
+    {
+      "paperId": "aaf4618be21e9a909e4071d80ea7eb8fae1109ba"
+    },
+    {
+      "paperId": "6ac260a17829ca6f65a7072992381b8521c7de5f"
+    },
+    {
+      "paperId": "97d99f5be6ddb4c8ccf7b90342ca45d0b12ffe84"
+    },
+    {
+      "paperId": "05a6de624e5901314c046f58fae060854ef679fd"
+    },
+    {
+      "paperId": "ecf89eb361c26bc92e929762ccb473151a95b0fe"
+    },
+    {
+      "paperId": "3522f47fc410a2f29b3f2fde74b2a317dd7600fd"
+    },
+    {
+      "paperId": "3a190a1381ffa6ca2ef4ff2caa947a84469078cd"
+    },
+    {
+      "paperId": "ad8b7bc4a628f4776ea750ae300476c3042160a9"
+    },
+    {
+      "paperId": "cce58a754016a8416e0f6c9ace34f426dfe5d10d"
+    },
+    {
+      "paperId": "a0aaedd253249059252937b53d98b2c958a7ac3c"
+    },
+    {
+      "paperId": "990f052b3ca6aa6fce19305163279545c9ed77b7"
+    },
+    {
+      "paperId": "e2b567a821c8d4c3dca0354ecdb2b5c67afc5c30"
+    },
+    {
+      "paperId": "9308b27baf24b4f389fb54e17b629c21e263e1b5"
+    },
+    {
+      "paperId": "dd5282b7736411bc88ae9d5f81c30bc7d8ddc158"
+    },
+    {
+      "paperId": "0ba3dbac67f1936d87ff771d67b6ebe1370fd0e4"
+    },
+    {
+      "paperId": "85c97fcd8a4893e6ca6cd71ff4ffc09b6b1d2e96"
+    },
+    {
+      "paperId": "b8eed24a6e1b80d2548f42e3a226bde42754b4da"
+    },
+    {
+      "paperId": "ee15897c9af14d5f7f546df4d7b4bae1c7268ad2"
+    },
+    {
+      "paperId": "a8d4e645455a0944323882ee1ad75899546bee35"
+    },
+    {
+      "paperId": "adfbed2d370f884930ce75d78f62bffed2d6a7aa"
+    },
+    {
+      "paperId": "22c12252a68389ed2772deaf10cbdc30d1f010b6"
+    },
+    {
+      "paperId": "b1732f9ff73f2d9be27c3886fbc41738b05b5aeb"
+    },
+    {
+      "paperId": "4729645953a6441f4a8ed2dc27e864046db12816"
+    },
+    {
+      "paperId": "1232451d910c989a3391c3c54a6fa06c49da4220"
+    },
+    {
+      "paperId": "98576983566633f4f9b9392bb8c0859cfe59ae9b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9bacdc3b14785f1c1e97500ba00e25260f619c87"
+    },
+    {
+      "paperId": "5ae0648963e98715cfb25fd6aa9dc7bba88ccc20"
+    },
+    {
+      "paperId": "8164496f4da4e4e0c43314a6e858c56684188230"
+    },
+    {
+      "paperId": "2ad9735ad2e8ac180e52b9e05ad9f989331338bd"
+    }
+  ]
+}

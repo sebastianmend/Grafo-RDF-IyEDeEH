@@ -1,0 +1,36 @@
+{
+  "paperId": "d96ce538c69deb7129dbe43ac6f2c392396b0b9e",
+  "externalIds": {
+    "MAG": "2811190518",
+    "CorpusId": 55049181
+  },
+  "url": "https://www.semanticscholar.org/paper/d96ce538c69deb7129dbe43ac6f2c392396b0b9e",
+  "title": "Challenges in Wireless Underground Communications on the Field for Agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "144279507",
+      "name": "V. Karthik"
+    },
+    {
+      "authorId": "1414758449",
+      "name": ".. M.Malli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

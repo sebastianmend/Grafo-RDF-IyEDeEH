@@ -1,0 +1,42 @@
+{
+  "paperId": "af15288eccd9e4f93e8a6afdafab2cba8b12f7ac",
+  "externalIds": {
+    "MAG": "3011542022",
+    "DOI": "10.1109/DASC43569.2019.9081793",
+    "CorpusId": 214700096
+  },
+  "url": "https://www.semanticscholar.org/paper/af15288eccd9e4f93e8a6afdafab2cba8b12f7ac",
+  "title": "sUAS Swarm Navigation using Inertial, Range Radios and Partial GNSS",
+  "venue": "Symposium on Dependable Autonomic and Secure Computing",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DASC43569.2019.9081793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DASC43569.2019.9081793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9164531",
+      "name": "M. U. de Haag"
+    },
+    {
+      "authorId": "1572725195",
+      "name": "Svenja Huschbeck"
+    },
+    {
+      "authorId": "49122810",
+      "name": "Joel Huff"
+    }
+  ],
+  "abstract": "Small Unmanned Aerial Systems (sUAS) operations are increasing in demand and complexity. Using multiple cooperative sUAS (i.e. a swarm) can be beneficial and is sometimes necessary to perform certain tasks (e.g., precision agriculture, mapping, surveillance) either independent or collaboratively. However, controlling the flight of multiple sUAS autonomously and in real-time in a challenging environment in terms of obstacles and navigation requires highly accurate absolute and relative position and velocity information for all platforms in the swarm. This information is also necessary to effectively and efficiently resolve possible collision encounters between the sUAS. In our swarm, each platform is equipped with a Global Navigation Satellite System (GNSS) sensor, an inertial measurement unit (IMU), a baro-altimeter and a relative range sensor (range radio). When GNSS is available, its measurements are tightly integrated with IMU, baro-altimeter and range-radio measurements to obtain the platform's absolute and relative position. When GNSS is not available due to external factors (e.g., obstructions, interference), the position and velocity estimators switch to an integrated solution based on IMU, baro and relative range measurements. This solution enables the system to maintain an accurate relative position estimate, and reduce the drift in the swarm's absolute position estimate as is typical of an IMU-based system. Multiple multi-copter data collection platforms have been developed and equipped with GNSS, inertial sensors and range radios, which were developed at Ohio University. This paper outlines the underlying methodology, the platform hardware components (three multi-copters and one ground station) and analyzes and discusses the performance using both simulation and sUAS flight test data.",
+  "references": null
+}

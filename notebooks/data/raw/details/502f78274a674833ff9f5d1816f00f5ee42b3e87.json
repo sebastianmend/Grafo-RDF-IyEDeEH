@@ -1,0 +1,53 @@
+{
+  "paperId": "502f78274a674833ff9f5d1816f00f5ee42b3e87",
+  "externalIds": {
+    "MAG": "2918418208",
+    "DOI": "10.1146/annurev-arplant-050718-100049",
+    "CorpusId": 73471425,
+    "PubMed": "30835493"
+  },
+  "url": "https://www.semanticscholar.org/paper/502f78274a674833ff9f5d1816f00f5ee42b3e87",
+  "title": "CRISPR/Cas Genome Editing and Precision Plant Breeding in Agriculture.",
+  "venue": "Annual Review of Plant Biology",
+  "year": 2019,
+  "citationCount": 1091,
+  "influentialCitationCount": 41,
+  "openAccessPdf": {
+    "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-050718-100049",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-arplant-050718-100049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-arplant-050718-100049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "115727159",
+      "name": "Kunling Chen"
+    },
+    {
+      "authorId": "35181230",
+      "name": "Yanpeng Wang"
+    },
+    {
+      "authorId": "2118404026",
+      "name": "Rui Zhang"
+    },
+    {
+      "authorId": "2108915490",
+      "name": "Huawei Zhang"
+    },
+    {
+      "authorId": "2148757368",
+      "name": "Caixia Gao"
+    }
+  ],
+  "abstract": "Enhanced agricultural production through innovative breeding technology is urgently needed to increase access to nutritious foods worldwide. Recent advances in CRISPR/Cas genome editing enable efficient targeted modification in most crops, thus promising to accelerate crop improvement. Here, we review advances in CRISPR/Cas9 and its variants and examine their applications in plant genome editing and related manipulations. We highlight base-editing tools that enable targeted nucleotide substitutions and describe the various delivery systems, particularly DNA-free methods, that have linked genome editing with crop breeding. We summarize the applications of genome editing for trait improvement, development of techniques for fine-tuning gene regulation, strategies for breeding virus resistance, and the use of high-throughput mutant libraries. We outline future perspectives for genome editing in plant synthetic biology and domestication, advances in delivery systems, editing specificity, homology-directed repair, and gene drives. Finally, we discuss the challenges and opportunities for precision plant breeding and its bright future in agriculture.",
+  "references": null
+}

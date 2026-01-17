@@ -1,0 +1,210 @@
+{
+  "paperId": "99fd3bc5077f1257679bcbed8b9286e7bc7781df",
+  "externalIds": {
+    "DBLP": "journals/sensors/PastorCNM18",
+    "PubMedCentral": "6022150",
+    "MAG": "2805668853",
+    "DOI": "10.3390/s18061731",
+    "CorpusId": 44099697,
+    "PubMed": "29843386"
+  },
+  "url": "https://www.semanticscholar.org/paper/99fd3bc5077f1257679bcbed8b9286e7bc7781df",
+  "title": "Precision Agriculture Design Method Using a Distributed Computing Architecture on Internet of Things Context †",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 163,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/6/1731/pdf?version=1527488897",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6022150, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40627883",
+      "name": "F. F. Pastor"
+    },
+    {
+      "authorId": "1777566",
+      "name": "J. Chamizo"
+    },
+    {
+      "authorId": "1398356762",
+      "name": "M. Nieto-Hidalgo"
+    },
+    {
+      "authorId": "2098761512",
+      "name": "José Mora-Martínez"
+    }
+  ],
+  "abstract": "The Internet of Things (IoT) has opened productive ways to cultivate soil with the use of low-cost hardware (sensors/actuators) and communication (Internet) technologies. Remote equipment and crop monitoring, predictive analytic, weather forecasting for crops or smart logistics and warehousing are some examples of these new opportunities. Nevertheless, farmers are agriculture experts but, usually, do not have experience in IoT applications. Users who use IoT applications must participate in its design, improving the integration and use. In this work, different industrial agricultural facilities are analysed with farmers and growers to design new functionalities based on IoT paradigms deployment. User-centred design model is used to obtain knowledge and experience in the process of introducing technology in agricultural applications. Internet of things paradigms are used as resources to facilitate the decision making. IoT architecture, operating rules and smart processes are implemented using a distributed model based on edge and fog computing paradigms. A communication architecture is proposed using these technologies. The aim is to help farmers to develop smart systems both, in current and new facilities. Different decision trees to automate the installation, designed by the farmer, can be easily deployed using the method proposed in this document.",
+  "references": [
+    {
+      "paperId": "ecdd6d3952c3b3b63a369a26f5b01bc8b085a8f9"
+    },
+    {
+      "paperId": "6ecc2e0e00c954da4aca1d24b07452f06338b210"
+    },
+    {
+      "paperId": "f70e65a8b62a92966ae93b3f65ce73dfb86a11a5"
+    },
+    {
+      "paperId": "4cc6236e141b95f26250fff181a9255bfa217371"
+    },
+    {
+      "paperId": "089cf6ebcde0afa51b982f160770ef5aa2b20857"
+    },
+    {
+      "paperId": "d0286e3c2935200b92e334108e90e9133252e96c"
+    },
+    {
+      "paperId": "9e1a50b65e0134674a5ab1292e6d6f3fe17db675"
+    },
+    {
+      "paperId": "5f4a88f9c6dbc8dbc87b461255c4e69a76d3ce48"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "6921700da0f586196b40b67b8c1f96951ef1c1f8"
+    },
+    {
+      "paperId": "77d969959784174baa17102d4837abfac75f7aa4"
+    },
+    {
+      "paperId": "b79e7d2aad45526ee6bf41e3505b20407b46652b"
+    },
+    {
+      "paperId": "071c7743e28ad18a68b1a321bd67d83c5bd76560"
+    },
+    {
+      "paperId": "1c04bf403243c9ffddfde3a416a65d0b344601ee"
+    },
+    {
+      "paperId": "5bd005dca60d60334dcfd7d129f1d380746c2417"
+    },
+    {
+      "paperId": "cfb25f3aa1f448a8311cf0e220a4b5817fede749"
+    },
+    {
+      "paperId": "a425cc5cf2be2552eb89f66d1602d48d9e5d1a42"
+    },
+    {
+      "paperId": "778b90dbd4edcb1df6201978c20aa860a26eab7c"
+    },
+    {
+      "paperId": "ee86b6346d8d4fcd35fabee7c55684fe2939c7ca"
+    },
+    {
+      "paperId": "0c06d0d41ed1a946a5927157312f5936349f62bf"
+    },
+    {
+      "paperId": "d373e385e60049f8f67b81b03535214e3867a84f"
+    },
+    {
+      "paperId": "cb35bfb81f1829ce5c3d384008108157003f7d43"
+    },
+    {
+      "paperId": "688c315c1e66e9f669c5a850468363319626d4fa"
+    },
+    {
+      "paperId": "bae4200eae221cef50af4ead0a7fbb4b79c98d22"
+    },
+    {
+      "paperId": "4098a606337cc3918a31ac95afc6a3c5cc4fc591"
+    },
+    {
+      "paperId": "c6bbfb4fcaecc779c899af4bb52083870f4b996a"
+    },
+    {
+      "paperId": "a66d64b90b4c4c0f07000d90146906c90efcb6f9"
+    },
+    {
+      "paperId": "0da6f8d691bc624204e4f139df79ab5e3261f62d"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "9de8e238aba0cc2ae82e6be24b50ebb41090ab9b"
+    },
+    {
+      "paperId": "15d0cb77c6f0d5ff2b71e7b45980fc2ef5689785"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d241cd8e0d42c37ea5f612249d1437e9ee061f34"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1625b32fcf0a3d0c5387415c818af69a4c8538b8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3d0a375c8fbfbe712eb03da1f53b1e01757136d5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

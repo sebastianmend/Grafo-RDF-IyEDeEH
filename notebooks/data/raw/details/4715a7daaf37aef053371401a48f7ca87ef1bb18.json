@@ -1,0 +1,246 @@
+{
+  "paperId": "4715a7daaf37aef053371401a48f7ca87ef1bb18",
+  "externalIds": {
+    "MAG": "2885639450",
+    "DBLP": "journals/sensors/Erazo-RodasSMHR18",
+    "PubMedCentral": "6111376",
+    "DOI": "10.3390/s18082555",
+    "CorpusId": 51933558,
+    "PubMed": "30081559"
+  },
+  "url": "https://www.semanticscholar.org/paper/4715a7daaf37aef053371401a48f7ca87ef1bb18",
+  "title": "Multiparametric Monitoring in Equatorian Tomato Greenhouses (I): Wireless Sensor Network Benchmarking",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/8/2555/pdf?version=1533733074",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6111376, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403968481",
+      "name": "Mayra Erazo-Rodas"
+    },
+    {
+      "authorId": "1405458068",
+      "name": "Mary Sandoval-Moreno"
+    },
+    {
+      "authorId": "1397324845",
+      "name": "Sergio Muñoz-Romero"
+    },
+    {
+      "authorId": "31546670",
+      "name": "Mónica Huerta"
+    },
+    {
+      "authorId": "1405458079",
+      "name": "D. Rivas-Lalaleo"
+    },
+    {
+      "authorId": "19383758",
+      "name": "C. A. Naranjo"
+    },
+    {
+      "authorId": "1397324809",
+      "name": "J. Rojo-álvarez"
+    }
+  ],
+  "abstract": "In recent years, attention has been paid to wireless sensor networks (WSNs) applied to precision agriculture. However, few studies have compared the technologies of different communication standards in terms of topology and energy efficiency. This paper presents the design and implementation of the hardware and software of three WSNs with different technologies and topologies of wireless communication for tomato greenhouses in the Andean region of Ecuador, as well as the comparative study of the performance of each of them. Two companion papers describe the study of the dynamics of the energy consumption and of the monitored variables. Three WSNs were deployed, two of them with the IEEE 802.15.4 standard with star and mesh topologies (ZigBee and DigiMesh, respectively), and a third with the IEEE 802.11 standard with access point topology (WiFi). The measured variables were selected after investigation of the climatic conditions required for efficient tomato growth. The measurements for each variable could be displayed in real time using either a laboratory virtual instrument engineering workbench (LabVIEWTM) interface or an Android mobile application. The comparative study of the three networks made evident that the configuration of the DigiMesh network is the most complex for adding new nodes, due to its mesh topology. However, DigiMesh maintains the bit rate and prevents data loss by the location of the nodes as a function of crop height. It has been also shown that the WiFi network has better stability with larger precision in its measurements.",
+  "references": [
+    {
+      "paperId": "d3afe55b667f3f1b260654c3a2fd97c65733dd10"
+    },
+    {
+      "paperId": "8abea65eb9ed70cd3580ef326b97dd610f6adc6e"
+    },
+    {
+      "paperId": "2cdac063bfe8862833e0204f3017c9d928389934"
+    },
+    {
+      "paperId": "e4a3bd8de4fe2d8711614c6663ea8a50145b34df"
+    },
+    {
+      "paperId": "b9278be93f61af7bc6dfd8ecd98a464b8933e42f"
+    },
+    {
+      "paperId": "245e5656fa88c90904b9da1ca3d5aca63d5f56c4"
+    },
+    {
+      "paperId": "1bf5a497a2998b16ca8efc15c02ccfd7287b5ef0"
+    },
+    {
+      "paperId": "cce6b5440d1babf9eceae6585c932c49b99f834a"
+    },
+    {
+      "paperId": "e6feb628b725782b8a88655f3560efdbf9b4ff2b"
+    },
+    {
+      "paperId": "a26c2c51b1493952693419b0d7d529642cb55777"
+    },
+    {
+      "paperId": "2a1e78885bfb1911bf7c7ce37b38fe03cb2e8e50"
+    },
+    {
+      "paperId": "b7619b57b29c23054290dcde3076d4c633b4945b"
+    },
+    {
+      "paperId": "3cddac5f09bec2b646b523ed7e556a717d2d4990"
+    },
+    {
+      "paperId": "dd018f42ba240891a017a5e6775feed4dad724ad"
+    },
+    {
+      "paperId": "fcd6c071f7bc32a450b6ef632dc3479416aa8bce"
+    },
+    {
+      "paperId": "12af3bbe1514043db10d3ee3a99f53a7f56edc23"
+    },
+    {
+      "paperId": "158e47f8fdaa25cdd5f9638434bf65b35736000c"
+    },
+    {
+      "paperId": "bdff44731ba13befceed6ccdcb310d248bda8ee0"
+    },
+    {
+      "paperId": "aa418edaf2cfcf9eb9a080c1a44fda8e4be51544"
+    },
+    {
+      "paperId": "74bb7385d8773e0f25af3c9121e1fed086be2400"
+    },
+    {
+      "paperId": "88e77575f027681fe099b6dfa53aeabe0d59069a"
+    },
+    {
+      "paperId": "b29d5f80216c8d526cc0da87b3fc226dd990b596"
+    },
+    {
+      "paperId": "772a42ba08ef0035137c6b8aece5ba6e9a0eec38"
+    },
+    {
+      "paperId": "192b850d7ced1ff9067b5f2bb4e80cf70febcddd"
+    },
+    {
+      "paperId": "eb72348e935914d78d98b935ac47eaa7733e1051"
+    },
+    {
+      "paperId": "088b070e19e794a8e9ee8d8538dbebec505f10f2"
+    },
+    {
+      "paperId": "724000d822f42d48a4e40dc131f9b99c9488396f"
+    },
+    {
+      "paperId": "96fa94382601198455ef403ac431de19fa155278"
+    },
+    {
+      "paperId": "25e0c5acec6c8832f01535192e3c293c06a83424"
+    },
+    {
+      "paperId": "3ae637bac7150e3a454add66cf3cd6e69314f520"
+    },
+    {
+      "paperId": "221fe891e64d2d3eed910de8a0c89bc42894e7eb"
+    },
+    {
+      "paperId": "341aff15e8b168b9fd85de76ca62aaa3d4b38687"
+    },
+    {
+      "paperId": "4ada63dfa6151250ce06e252a6a836a9d8b850d8"
+    },
+    {
+      "paperId": "0c1c75f2a60ee99506bf21e9fc6cb0924fe6024d"
+    },
+    {
+      "paperId": "318a778bf8111834551a0ed69e4bb8e0d8ea90b0"
+    },
+    {
+      "paperId": "30fd688194f44ff6b62ac66724cd52a0b9a420b0"
+    },
+    {
+      "paperId": "63ec3bd7a316868f729e3000f9b9ddef759a14a5"
+    },
+    {
+      "paperId": "f4b44d2374c8387cfca7670d7c0caef769b9496f"
+    },
+    {
+      "paperId": "9ad073cd9aa81d82b45170c0275516952d6440ee"
+    },
+    {
+      "paperId": "344ce65581a0dd503cdeb404ad5c8f71a957cf3f"
+    },
+    {
+      "paperId": "ed8493e1055bbdf1b82b321efc43bf2f6a134844"
+    },
+    {
+      "paperId": "48efa9a51a0a78b5b0e112914371048561dc143c"
+    },
+    {
+      "paperId": "58d7c3f57492a3f5bbbbac0217900efa8f2047cc"
+    },
+    {
+      "paperId": "9bf0b30a37e9311f95c544b427d1d91e5fadeb8a"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "dc6c96a80aa7e8db855ac33ed63e4a4409cf90a1"
+    },
+    {
+      "paperId": "fe146d9724c86c49e735b464e4d4c6aabd1f6735"
+    },
+    {
+      "paperId": "fc05b8482d85a78c6686bc342540cc2074a24645"
+    },
+    {
+      "paperId": "186b0549b0f77cbbf0cf8da6f90d577b181b896b"
+    },
+    {
+      "paperId": "7dee5eb72dc351d25fb6ca810d5ca3cf3bf57761"
+    },
+    {
+      "paperId": "81c74426411f7d834dbf61c78bafe442baca4ea1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "15231dc3ace68afd3afb24823ca309de2501243f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1118fb4f148ac898a8e6f67e4acadad2e6a01aa8"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

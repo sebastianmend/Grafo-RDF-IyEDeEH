@@ -1,0 +1,55 @@
+{
+  "paperId": "2c98d2d9cf3fb6adb7b242d0a8353325327ab854",
+  "externalIds": {
+    "MAG": "2792695821",
+    "DBLP": "journals/eis/ZecevicBPSVO18",
+    "DOI": "10.1080/17517575.2018.1445295",
+    "CorpusId": 53112978
+  },
+  "url": "https://www.semanticscholar.org/paper/2c98d2d9cf3fb6adb7b242d0a8353325327ab854",
+  "title": "Model driven development of hybrid databases using lightweight metamodel extensions",
+  "venue": "Enterprise Information Systems",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17517575.2018.1445295?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17517575.2018.1445295, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35273517",
+      "name": "Igor Zecevic"
+    },
+    {
+      "authorId": "2271155",
+      "name": "Petar Bjeljac"
+    },
+    {
+      "authorId": "2249729",
+      "name": "B. Perišić"
+    },
+    {
+      "authorId": "3077757",
+      "name": "S. Stankovski"
+    },
+    {
+      "authorId": "9765160",
+      "name": "D. Venus"
+    },
+    {
+      "authorId": "46652444",
+      "name": "G. Ostojić"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

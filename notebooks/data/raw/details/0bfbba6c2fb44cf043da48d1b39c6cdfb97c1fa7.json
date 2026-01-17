@@ -1,0 +1,58 @@
+{
+  "paperId": "0bfbba6c2fb44cf043da48d1b39c6cdfb97c1fa7",
+  "externalIds": {
+    "MAG": "2886723921",
+    "DOI": "10.1109/ICDI3C.2018.00020",
+    "CorpusId": 52021213
+  },
+  "url": "https://www.semanticscholar.org/paper/0bfbba6c2fb44cf043da48d1b39c6cdfb97c1fa7",
+  "title": "AgRobots (A Combination of Image Processing and Data Analytics for Precision Pesticide Use)",
+  "venue": "2018 International Conference on Design Innovations for 3Cs Compute Communicate Control (ICDI3C)",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDI3C.2018.00020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDI3C.2018.00020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "51187926",
+      "name": "Kala H S"
+    },
+    {
+      "authorId": "51183853",
+      "name": "R. Hebbar"
+    },
+    {
+      "authorId": "51200687",
+      "name": "A. S"
+    },
+    {
+      "authorId": "2112918495",
+      "name": "A. R"
+    },
+    {
+      "authorId": "51200922",
+      "name": "Amith R Patil"
+    },
+    {
+      "authorId": "115339421",
+      "name": "D. Kamble"
+    },
+    {
+      "authorId": "2065864586",
+      "name": "P. V. Vinod"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

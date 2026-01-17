@@ -1,0 +1,42 @@
+{
+  "paperId": "2d5d5d58b014bb64d3d4b6a50e6efda27a99bc01",
+  "externalIds": {
+    "MAG": "3006084201",
+    "DOI": "10.1109/ICIC47613.2019.8985909",
+    "CorpusId": 211120930
+  },
+  "url": "https://www.semanticscholar.org/paper/2d5d5d58b014bb64d3d4b6a50e6efda27a99bc01",
+  "title": "Implementation of Convolutional Neural Network Method for Classification of Diseases in Tomato Leaves",
+  "venue": "International Conference on Intelligent Computing",
+  "year": 2019,
+  "citationCount": 29,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIC47613.2019.8985909?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIC47613.2019.8985909, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2751565",
+      "name": "S. Widiyanto"
+    },
+    {
+      "authorId": "1492130111",
+      "name": "Rizqy Fitrianto"
+    },
+    {
+      "authorId": "98564849",
+      "name": "Dini Tri Wardani"
+    }
+  ],
+  "abstract": "Diseases in plants are a problem that often occurs in agriculture. The disease can be caused by pests or maintenance errors. This resulted in a decrease in agricultural production. The decline in production has resulted in a decline in economic yields produced by farmers. Diseases of tomato plants often appear on the leaves. Diseases of tomato leaves have various characteristics. This causes difficulty in identifying diseases automatically. This study aims to identify diseases in leaf images in full automatically without having to define the characteristics and process of segmentation. The method used in this study is Convolutional Neural Networks (CNN). In this study 5 types of leaf disease were used with each type of disease consisting of 1000 image data. This study has successfully identified disease in leaf images automatically with an accuracy of 96.60%. By using the method Confusion Matrix based on the results, it training can count four types of measurements, namely accuracy, precision, recall and F1-score by producing an average value of 98.00%.",
+  "references": null
+}

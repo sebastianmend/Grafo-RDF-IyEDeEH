@@ -1,0 +1,48 @@
+{
+  "paperId": "94947cdb670fe55e9d3fff9eb18cebed64eae408",
+  "externalIds": {
+    "MAG": "2884690740",
+    "DBLP": "journals/adhoc/VuranSWI18",
+    "DOI": "10.1016/J.ADHOC.2018.07.017",
+    "CorpusId": 61155849
+  },
+  "url": "https://www.semanticscholar.org/paper/94947cdb670fe55e9d3fff9eb18cebed64eae408",
+  "title": "Internet of underground things in precision agriculture: Architecture and technology aspects",
+  "venue": "Ad hoc networks",
+  "year": 2018,
+  "citationCount": 247,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "http://manuscript.elsevier.com/S1570870518305067/pdf/S1570870518305067.pdf",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ADHOC.2018.07.017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ADHOC.2018.07.017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "29777554",
+      "name": "M. Vuran"
+    },
+    {
+      "authorId": "37785838",
+      "name": "Abdul Salam"
+    },
+    {
+      "authorId": "30717447",
+      "name": "Rigoberto Wong"
+    },
+    {
+      "authorId": "2684806",
+      "name": "S. Irmak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

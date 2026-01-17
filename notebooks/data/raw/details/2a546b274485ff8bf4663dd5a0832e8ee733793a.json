@@ -1,0 +1,56 @@
+{
+  "paperId": "2a546b274485ff8bf4663dd5a0832e8ee733793a",
+  "externalIds": {
+    "MAG": "2964919038",
+    "DBLP": "conf/isie/OPMLMB19",
+    "DOI": "10.1109/ISIE.2019.8781165",
+    "CorpusId": 199439994
+  },
+  "url": "https://www.semanticscholar.org/paper/2a546b274485ff8bf4663dd5a0832e8ee733793a",
+  "title": "Autonomous 3-D Aerial Navigation System for Precision Agriculture",
+  "venue": "International Symposium on Industrial Electronics",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISIE.2019.8781165?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISIE.2019.8781165, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "151493435",
+      "name": "Ó. Luísdo"
+    },
+    {
+      "authorId": "34784659",
+      "name": "P. Prates"
+    },
+    {
+      "authorId": "144026507",
+      "name": "Ricardo Mendonça"
+    },
+    {
+      "authorId": "2053440622",
+      "name": "André Lourenço"
+    },
+    {
+      "authorId": "144073829",
+      "name": "Francisco Marques"
+    },
+    {
+      "authorId": "144008078",
+      "name": "J. Barata"
+    }
+  ],
+  "abstract": "The ever increase of human population brings the problem of how to accommodate the required food production and maintain system sustainability. The goal of precision agriculture is to offer farmers better management systems that improve production and the use of resources like water and fertiliser, resulting in better crop yields. This paper presents a 3-D navigation system for an unmanned aerial vehicle to be used in precision agriculture as a more reliable, flexible and affordable solution to gather useful data about the crops, compared to current methods such as satellite imagery. The solution was developed in the ROS platform and coupled with external software components, with the goal of making an autonomous multi-rotor aerial vehicle capable of operating in these kind of environments, completely exploring and surveying an agricultural field. Finally a simulator in Unity was constructed to support the development and testing of this navigation system.",
+  "references": null
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "33c06336e7322a64981bd61bd03978e967fc6a37",
+  "externalIds": {
+    "MAG": "2954727260",
+    "DOI": "10.1109/ICSSIT.2018.8748794",
+    "CorpusId": 195774757
+  },
+  "url": "https://www.semanticscholar.org/paper/33c06336e7322a64981bd61bd03978e967fc6a37",
+  "title": "IoT based Unmanned Aerial Vehicle system for Agriculture applications",
+  "venue": "2018 International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+  "year": 2018,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSSIT.2018.8748794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSSIT.2018.8748794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "150237111",
+      "name": "M. M. Vihari"
+    },
+    {
+      "authorId": "7420917",
+      "name": "U. R. Nelakuditi"
+    },
+    {
+      "authorId": "150235881",
+      "name": "M. Teja"
+    }
+  ],
+  "abstract": "In India, agriculture plays a pivotal role and provides a principal means of livelihood. Pesticides save the crop from pests and improve the yield. At present pesticides and fertilizers are sprayed manually, which affect the human nervous system and causes many deaths every year. WHO declared there are more than one million pesticide cases present every year. This paper explains about remote controlled drone based sprayer system used in precision agriculture which avoids the direct spraying by humans. This system has advantage of reducing labor workers, spraying time and resources like water and chemicals over conventional spraying methods and also can improve yield and crop health.",
+  "references": null
+}

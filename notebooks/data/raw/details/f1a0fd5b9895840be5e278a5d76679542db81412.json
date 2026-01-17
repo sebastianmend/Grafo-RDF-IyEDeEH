@@ -1,0 +1,301 @@
+{
+  "paperId": "f1a0fd5b9895840be5e278a5d76679542db81412",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/LuoLYXLHE19",
+    "MAG": "2942622708",
+    "DOI": "10.3390/RS11091026",
+    "CorpusId": 155704228
+  },
+  "url": "https://www.semanticscholar.org/paper/f1a0fd5b9895840be5e278a5d76679542db81412",
+  "title": "Research on Time-Correlated Errors Using Allan Variance in a Kalman Filter Applicable to Vector-Tracking-Based GNSS Software-Defined Receiver for Autonomous Ground Vehicle Navigation",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/9/1026/pdf?version=1557040712",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11091026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11091026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8658068",
+      "name": "Yiran Luo"
+    },
+    {
+      "authorId": "2151967938",
+      "name": "Jian Li"
+    },
+    {
+      "authorId": "49778266",
+      "name": "Chunyang Yu"
+    },
+    {
+      "authorId": "1994526637",
+      "name": "Bing Xu"
+    },
+    {
+      "authorId": "2110860121",
+      "name": "You Li"
+    },
+    {
+      "authorId": "2631044",
+      "name": "L. Hsu"
+    },
+    {
+      "authorId": "70219005",
+      "name": "N. El-Sheimy"
+    }
+  ],
+  "abstract": "The global navigation satellite system (GNSS) has been applied to many areas, e.g.,the autonomous ground vehicle, unmanned aerial vehicle (UAV), precision agriculture, smart city,and the GNSS-reflectometry (GNSS-R), being of considerable significance over the past few decades.Unfortunately, the GNSS signal performance has the high risk of being reduced by the environmentalinterference. The vector tracking (VT) technique is promising to enhance the robustness in highdynamics as well as improve the sensitivity against the weak environment of the GNSS receiver.However, the time-correlated error coupled in the receiver clock estimations in terms of the VT loopcan decrease the accuracy of the navigation solution. There are few works present dealing with thisissue. In this work, the Allan variance is accordingly exploited to specify a model which is expectedto account for this type of error based on the 1st-order Gauss-Markov (GM) process. Then, it is usedfor proposing an enhanced Kalman filter (KF) by which this error can be suppressed. Furthermore,the proposed system model makes use of the innovation sequence so that the process covariancematrix can be adaptively adjusted and updated. The field tests demonstrate the performance of theproposed adaptive vector-tracking time-correlated error suppressed Kalman filter (A-VTTCES-KF).When compared with the results produced by the ordinary adaptive KF algorithm in terms of the VTloop, the real-time kinematic (RTK) positioning and code-based differential global positioning system(DGPS) positioning accuracies have been improved by 14.17% and 9.73%, respectively. On the otherhand, the RTK positioning performance has been increased by maximum 21.40% when comparedwith the results obtained from the commercial low-cost U-Blox receiver.",
+  "references": [
+    {
+      "paperId": "aa7c7159251802931a7667139882f3a8e8ca3778"
+    },
+    {
+      "paperId": "8f3aa94fe2b297e2f45add2c5b866e94479523aa"
+    },
+    {
+      "paperId": "5e78e6d8b62ba11ecec81aebaeee3bb4522ae5ce"
+    },
+    {
+      "paperId": "10c1b8525ed112df68d284f18c31984a39026acc"
+    },
+    {
+      "paperId": "e5c2b30ee5462b0911ab8a62f4659780b76ad4d3"
+    },
+    {
+      "paperId": "5eb01c5e0a7fed4381a7a1e94533c3bfcd62b143"
+    },
+    {
+      "paperId": "ca4f8a1358c1abccd9dd605b12e0945c473075c6"
+    },
+    {
+      "paperId": "8cefea6708101b2657ea8b3073ea851dea3b5bea"
+    },
+    {
+      "paperId": "5c86b45482ff436f52ff2f821a9a2fbf2adb58d6"
+    },
+    {
+      "paperId": "5ffd7a0894a7627b9bbb9e4d6fecafdbc7e88171"
+    },
+    {
+      "paperId": "3bc53da7342d4cdcd1a8bacfdc92651aeb62d5dc"
+    },
+    {
+      "paperId": "1d87fb3f6a2fbd139f5f1f186a9228b56e66abe6"
+    },
+    {
+      "paperId": "b0920296c18a115f6a5291dd49e20eefb24b2b19"
+    },
+    {
+      "paperId": "5855f8d8ce1a3f9e7c54d8ee44476bb67187d837"
+    },
+    {
+      "paperId": "2d153e9238fb67d8cc23fbe78506008f94d43a7a"
+    },
+    {
+      "paperId": "c72d7f3e5bc8473f0bb16c2bcc19d833432ef345"
+    },
+    {
+      "paperId": "d1aad451c003c6be64edaba6fd1f124ef952e5c9"
+    },
+    {
+      "paperId": "8b23d659efc1cd26545813d14d2289b831d59640"
+    },
+    {
+      "paperId": "f0608950bfb7b9bd55ff964d683003daebd41d6a"
+    },
+    {
+      "paperId": "0963203a04d16c76303fde78044f00e3c5f2e101"
+    },
+    {
+      "paperId": "3d61158c4e9e5bae508b75069b35d5ddca59c2f5"
+    },
+    {
+      "paperId": "3d651e0beaf4735282402b2bb61593c4d36a0c22"
+    },
+    {
+      "paperId": "f57dcf5a38bd379a483558ffdbb86b6f2f56242a"
+    },
+    {
+      "paperId": "f47f5dcc437a9df6a1cf6c4db063720d58794f2e"
+    },
+    {
+      "paperId": "2e7b937d0c1e4de5415f66d5643b0da964ae1cef"
+    },
+    {
+      "paperId": "e8942894219b96aae58b8f733b97b56c7006dc71"
+    },
+    {
+      "paperId": "42e3415868e142285f298820af1af6f27c0dfd07"
+    },
+    {
+      "paperId": "ef198d7e7158e73ea6a0f56deeb95b55bc32122a"
+    },
+    {
+      "paperId": "3a9f8921a96745a958454fb27bcf1faa4a394ea2"
+    },
+    {
+      "paperId": "c4c50333a28a0e3f034ea222a5ed22711e3eec34"
+    },
+    {
+      "paperId": "8e8b2ae9fd81c9c6ce8fdcf153b843d5bd189649"
+    },
+    {
+      "paperId": "5ff7db8992572b962c4b64a60deb5538bafa2e92"
+    },
+    {
+      "paperId": "3b048dc4349f6fac23ab1729986569faa061a43f"
+    },
+    {
+      "paperId": "4bfb3f5e633f0c128138031f7256f2e8940a14b4"
+    },
+    {
+      "paperId": "8055dfa85e38e3b33a4738fee413097dbf6b7b48"
+    },
+    {
+      "paperId": "e4f0ecc787078ab100b56d12a2f5bf82b9d9e268"
+    },
+    {
+      "paperId": "889535852363124ecbf6ceba88ed410a4ba42384"
+    },
+    {
+      "paperId": "5340817d9f7ad188564ce6459c264786d6d6f512"
+    },
+    {
+      "paperId": "0b994a2171d1e460f8f154dce335c1c3ce3a1f7b"
+    },
+    {
+      "paperId": "24ace3619b08088b7d20c36ea8d7c6c91a23f245"
+    },
+    {
+      "paperId": "751f87fbd551cdb7267be5a9f76cb5fec8564169"
+    },
+    {
+      "paperId": "04ec850bcdefde3c3ed099b7d09e8a23e6394c12"
+    },
+    {
+      "paperId": "2876e92e410e80897e4a64b96c0efc25d1873752"
+    },
+    {
+      "paperId": "b2b5f9e854436757f653268d0395c6568e54df5b"
+    },
+    {
+      "paperId": "eb1ff63ce310e67d777f85b24bcf5476e7616b14"
+    },
+    {
+      "paperId": "899d316dda4363edadb376d42fe3379f5e2a304b"
+    },
+    {
+      "paperId": "1ef0529cc53779ef5d280ee7b7e6a9a6402a2dd9"
+    },
+    {
+      "paperId": "3258a2824105d0f04eaeb9942ea6477bed225ed4"
+    },
+    {
+      "paperId": "d5073d01c1eb59d1d5b718c6c7459674091a7674"
+    },
+    {
+      "paperId": "988a77ef76d45a2aed4d15ad4897c44d1640755c"
+    },
+    {
+      "paperId": "567d001c4f24819179bc57624e349e157efba27f"
+    },
+    {
+      "paperId": "b65d1e22a5d8558d8f099655c561530685bdc402"
+    },
+    {
+      "paperId": "ca8c4af9c4389fbe2bfed45c8227a90f478729ce"
+    },
+    {
+      "paperId": "67a123d2680e7597dac7ff1502b07fbb8ea322dd"
+    },
+    {
+      "paperId": "1440942c7af5d9eca762852d658a93a3969cc5ad"
+    },
+    {
+      "paperId": "955f1d74d12d187ad6e5eb5f5077349f985a1584"
+    },
+    {
+      "paperId": "084bf64bacca201ec6b22eb87d1bfaf4cfb1e24c"
+    },
+    {
+      "paperId": "8994dc7651f85fe6b20f3adca23fab2f73a70b9f"
+    },
+    {
+      "paperId": "b44113d85f20e7e6085437afc9df2ea66110e2a2"
+    },
+    {
+      "paperId": "e2ae0569e67f80c5ffcac7b691708f0b7ad32932"
+    },
+    {
+      "paperId": "8f56f6bec3f590071ecaa5663fe18489e5079308"
+    },
+    {
+      "paperId": "00714b185efaf791acd3d08cef7db792e46451a9"
+    },
+    {
+      "paperId": "434273b4e2e9d5f019cb3ba25d1f2e01b250a67f"
+    },
+    {
+      "paperId": "d5ae14a0722cc8c6362861d02167c778aad20f7c"
+    },
+    {
+      "paperId": "231250d1cd8c5beaf5bcf321a934bcaaf99655f0"
+    },
+    {
+      "paperId": "fd941955784a85399d4fab512d3be85cb3d70174"
+    },
+    {
+      "paperId": "a6dde20e6b739f6f8057c42250779e78fca69f1c"
+    },
+    {
+      "paperId": "a043f03ec53e19067e2ccedfaeec40aa514e2d3d"
+    },
+    {
+      "paperId": "ec641ddfa1cfe5ba3b5ed14f37b5c6e3eeeca9cf"
+    },
+    {
+      "paperId": "f621bf6b8039a66fc234431ba0af2c9e1efd60b0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "22a2003edb2c8962b8c96975029810c62c66389b"
+    },
+    {
+      "paperId": "1a84bf9fb61f1873d7146d1ba086b1d6925a3498"
+    },
+    {
+      "paperId": "76ef7150505bbcedf445ae458f2f9002f0d9fa2b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6a1b4db58f429843a36d2f9f815d753a265c3dda"
+    },
+    {
+      "paperId": "f46abbf40884f53ce9bd3c51c8b409aa8888e724"
+    },
+    {
+      "paperId": "36fca28f854d67f016230829a8c065bae8cd216f"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

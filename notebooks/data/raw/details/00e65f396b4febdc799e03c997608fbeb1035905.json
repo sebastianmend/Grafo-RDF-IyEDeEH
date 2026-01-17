@@ -1,0 +1,135 @@
+{
+  "paperId": "00e65f396b4febdc799e03c997608fbeb1035905",
+  "externalIds": {
+    "ArXiv": "1901.05030",
+    "DBLP": "conf/percom/KopestenskiR19",
+    "MAG": "2963237786",
+    "DOI": "10.1109/PERCOMW.2019.8730773",
+    "CorpusId": 58006986
+  },
+  "url": "https://www.semanticscholar.org/paper/00e65f396b4febdc799e03c997608fbeb1035905",
+  "title": "Achlys: Towards a Framework for Distributed Storage and Generic Computing Applications for Wireless IoT Edge Networks with Lasp on GRiSP",
+  "venue": "2019 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1901.05030",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1901.05030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "66031965",
+      "name": "Igor Kopestenski"
+    },
+    {
+      "authorId": "39874026",
+      "name": "P. V. Roy"
+    }
+  ],
+  "abstract": "Internet of Things (IoT) continues to grow exponentially, in number of devices and the amount of data they generate. Processing this data requires an exponential increase in computing power. For example, aggregation can be done directly at the edge. However, aggregation is very limited; ideally we would like to do more general computations at the edge. In this paper we propose a framework for doing general-purpose edge computing directly on sensor networks themselves, without requiring external connections to gateways or cloud. This is challenging because sensor networks have unreliable communication, unreliable nodes, and limited (if any) computing power and storage. How can we implement production-quality components directly on these networks? We need to bridge the gap between the unreliable, limited infrastructure and the stringent requirements of the components. To solve this problem we present Achlys, an edge computing framework that provides reliable storage, computation, and communication capabilities directly on wireless networks of IoT sensor nodes. Using Achlys, the sensor network is able to configure and manage itself directly, without external connectivity. Achlys combines the Lasp key/value store and the Partisan communication library. Lasp provides efficient decentralized storage based on the properties of CRDTs (Conftict-Free Replicated Data Types). Partisan provides efficient connectivity and broadcast based on hybrid gossip. Both Lasp and Partisan are specifically designed to be extremely resilient. They are able to continue working despite high node churn, frequent network partitions, and unreliable communication. Our first implementation of Achlys is on a network of GRiSP embedded system boards. We choose GRiSP as our first implementation platform because it implements high-level functionality, namely Erlang, directly on the bare hardware and because it directly supports Pmod sensors and wireless connectivity. We give some first results on using Achlys for building edge systems and we explain how we plan to evolve Achlys in the future. Achlys is a work in progress that is being done in the context of the LightKone European H2020 research project, and we are in the process of implementing and evaluating a proof-of-concept application in the area of precision agriculture.",
+  "references": [
+    {
+      "paperId": "54f2aef120d2e79b15bd296cc72fa38dc810c485"
+    },
+    {
+      "paperId": "974a421f5883779b305db6f90a23be2fa2875e27"
+    },
+    {
+      "paperId": "3e4388586eb2538657a24ca1ace3c6877ec2235b"
+    },
+    {
+      "paperId": "fb11bc82b66e6980d8611b7f73cc2700e3c117d5"
+    },
+    {
+      "paperId": "3cb4ae87b7ed895a6563ad459329c7f8b8a19d47"
+    },
+    {
+      "paperId": "d0895a0a9a6793ee2c477309160b6c7817466e8f"
+    },
+    {
+      "paperId": "2f6996ddf2f23a9b708416014211f8f3f629f33d"
+    },
+    {
+      "paperId": "0f56a4dcb0a20cfd6b57a2300deb36330982b1c0"
+    },
+    {
+      "paperId": "2d0887ae74333a09466c8c9d2a00ac77569412f6"
+    },
+    {
+      "paperId": "b811fc7b786b82ac05cde9d87679d368d5a86e69"
+    },
+    {
+      "paperId": "50ce4eee3e22f9b432792042ffc6136503fed37e"
+    },
+    {
+      "paperId": "0e7f869040c80bec4ecfee61f081b22ac3babb13"
+    },
+    {
+      "paperId": "cd3d4459ff0ff590a3e3258b0f774d6963cd4c90"
+    },
+    {
+      "paperId": "1edf49dfd5f09aea94e753e8594e95666ebe131a"
+    },
+    {
+      "paperId": "57adad122502face49b8dea49246b512539c1452"
+    },
+    {
+      "paperId": "05009141302f022fcf7387b37c8d9a2c415ead7b"
+    },
+    {
+      "paperId": "bd068826b712bc5a320af8ebef71b1cc9c88a836"
+    },
+    {
+      "paperId": "9a17a57fdd7bbeebdd0c5fe4a50d786034d49182"
+    },
+    {
+      "paperId": "3ae7d736576b01665ba7f8a5f60430973e3f7b6b"
+    },
+    {
+      "paperId": "52f168c6c4f42294c4c9f9305bc88b6d25ffec9a"
+    },
+    {
+      "paperId": "967a2b6638fc0a0374e76ecc1768ef10b7c216cd"
+    },
+    {
+      "paperId": "e2d0cb2ecbf930048ae3329aa47a814d8ebace5d"
+    },
+    {
+      "paperId": "528a0945acb242d4f36c361e10f9e612c0b631b9"
+    },
+    {
+      "paperId": "06e04a7a24100dbc0f72f22bc8e6dde4b2a27d8b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "df5ce4fe26eaebc8f9caab9740c566366e8d6687",
+  "externalIds": {
+    "MAG": "3006670431",
+    "DBLP": "conf/ladc/KleinschmidtKPK19",
+    "DOI": "10.1109/LADC48089.2019.8995724",
+    "CorpusId": 211206742
+  },
+  "url": "https://www.semanticscholar.org/paper/df5ce4fe26eaebc8f9caab9740c566366e8d6687",
+  "title": "End-to-End Security in the IoT Computing Continuum: Perspectives in the SWAMP Project",
+  "venue": "Latin-American Symposium on Dependable Computing",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LADC48089.2019.8995724?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LADC48089.2019.8995724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34915496",
+      "name": "J. H. Kleinschmidt"
+    },
+    {
+      "authorId": "1969406",
+      "name": "C. Kamienski"
+    },
+    {
+      "authorId": "1793286",
+      "name": "R. Prati"
+    },
+    {
+      "authorId": "20204921",
+      "name": "Kari Kolehmainen"
+    },
+    {
+      "authorId": "27017124",
+      "name": "Cristiano Aguzzi"
+    }
+  ],
+  "abstract": "The use of the Internet of Things (IoT) and other related technologies in precision irrigation for agriculture may optimize the use of water, reduce energy consumption, and improve the quality of crops. The SWAMP project is implementing IoT in this domain in four pilots in Europe and Brazil, where heterogeneous devices and distributed components form an IoT Computing Continuum. The security of IoT systems is a challenging task, as these systems present distinctive characteristics when compared to traditional cloud-based systems. Approaches to secure data generated in the sensors until the user's application is a challenging task. This paper discusses how the SWAMP project is dealing with end-to-end security and technologies for the application of IoT in agriculture.",
+  "references": null
+}

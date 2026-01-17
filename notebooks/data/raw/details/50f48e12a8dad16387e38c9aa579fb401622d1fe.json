@@ -1,0 +1,43 @@
+{
+  "paperId": "50f48e12a8dad16387e38c9aa579fb401622d1fe",
+  "externalIds": {
+    "MAG": "2789362406",
+    "DOI": "10.1093/milmed/usy011",
+    "CorpusId": 3891954,
+    "PubMed": "29547989"
+  },
+  "url": "https://www.semanticscholar.org/paper/50f48e12a8dad16387e38c9aa579fb401622d1fe",
+  "title": "Pupillometer Use: Validation for Use in Military and Occupational Medical Surveillance and Response to Organophosphate and Chemical Warfare Agent Exposure.",
+  "venue": "Military Medicine",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/milmed/article-pdf/183/9-10/e291/28503018/usy011.pdf",
+    "status": "HYBRID",
+    "license": "public-domain",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/milmed/usy011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/milmed/usy011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48823390",
+      "name": "Luke Mease"
+    },
+    {
+      "authorId": "39620964",
+      "name": "R. Sikka"
+    },
+    {
+      "authorId": "48621823",
+      "name": "Randall Rhees"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

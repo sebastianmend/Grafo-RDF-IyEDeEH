@@ -1,0 +1,45 @@
+{
+  "paperId": "d13e6c92641496eadeb185aebf34e0c779fbabef",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/NiRL18",
+    "MAG": "2896319666",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8475997",
+    "CorpusId": 52914212
+  },
+  "url": "https://www.semanticscholar.org/paper/d13e6c92641496eadeb185aebf34e0c779fbabef",
+  "title": "Evapotranspiration Estimation and Prediction for Oasis Transect in Middle Reach of Heihe River Basin Based on Metric and CA Markov Model",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8475997?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8475997, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "39849965",
+      "name": "Weicheng Ni"
+    },
+    {
+      "authorId": "1787563",
+      "name": "Kaijun Ren"
+    },
+    {
+      "authorId": "11016708",
+      "name": "Lizhen Lu"
+    }
+  ],
+  "abstract": "Evapotranspiration (ET) over different land surfaces is not only a key parameter for regional ecosystem simulation, but also an important component in basin water cycle research and water resources management. With the population continuously growing, the area of cropland in the middle reach of Heihe River basin has soared and now makes up about 95% of the total arable land. The water used in the region accounts for 68% of the total water resources consumed in the entire basin, of which the main expenditure is evapotranspiration of farmland. The large amount of agricultural water consumption has led to a series of ecological and social conflicts, which highlight the great importance in understanding the evolution of oasis ecosystem and rational allocation of regional water resources. Quantifying regional evapotranspiration and predicting evapotranspiration fluctuation reasonably in a certain period may offer a new method to resolve the conflicts. We select a representative oasis transect as the study area, using Landsat data and meteorological data during the middle crop growth stage in the summer from 2001 to 2016 as the main source data. A one-source model named Mapping evapotranspiration at high Resolution with Internalized Calibration (METRIC) is selected to analyze the temporal and spatial evolution of the ET in the study area. Based on derived ET with METRIC, the development trend of ET in 2022 is predicted by a simulation method with CA_Markov model. The experimental results indicate the following results. 1) The regional distribution change of ET, processed by density slice, is closely related to the evolution of land types in the study area, and its development trend can reflect the change pattern of different land types. Statistical results show that the area of desert region notably decreases while the area of oasis region rises, which is consistent with the visual results. 2) From 2001 to 2007, the area of river region increased, suggesting that the past water-managing measures worked. However, between 2007 and 2016, the area of river region gradually shrank with the continuous increase of agricultural and urban water use. It is predicted that in 2022, the area of river region will decline further, the burden of water resources will be aggravated. 3) The prediction results obtained by combining METRIC model and CA_Markov model can get a preferable accuracy (kappa>0.4) in some conditions, but it is worth noting that they are affected by many factors, e.g., time span and parameter setting. 4) The method can achieve credible precision in short-term prediction. However, with the extension of the prediction span, the pixels with similar state characteristics will gradually aggregate and generate spots, which can result in some deviation.",
+  "references": null
+}

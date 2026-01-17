@@ -1,0 +1,131 @@
+{
+  "paperId": "54dc966362fac3da5388f575451f6209a2365ee4",
+  "externalIds": {
+    "MAG": "3089511161",
+    "DBLP": "conf/icra/AhmadiNCS20",
+    "ArXiv": "1909.12754",
+    "DOI": "10.1109/ICRA40945.2020.9197114",
+    "CorpusId": 203591971
+  },
+  "url": "https://www.semanticscholar.org/paper/54dc966362fac3da5388f575451f6209a2365ee4",
+  "title": "Visual Servoing-based Navigation for Monitoring Row-Crop Fields",
+  "venue": "IEEE International Conference on Robotics and Automation",
+  "year": 2019,
+  "citationCount": 65,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1909.12754",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1909.12754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2061584021",
+      "name": "Alireza Ahmadi"
+    },
+    {
+      "authorId": "49883923",
+      "name": "L. Nardi"
+    },
+    {
+      "authorId": "25884999",
+      "name": "Nived Chebrolu"
+    },
+    {
+      "authorId": "1722062",
+      "name": "C. Stachniss"
+    }
+  ],
+  "abstract": "Autonomous navigation is a pre-requisite for field robots to carry out precision agriculture tasks. Typically, a robot has to navigate along a crop field multiple times during a season for monitoring the plants, for applying agrochemicals, or for performing targeted interventions. In this paper, we propose a visual-based navigation framework tailored to row-crop fields that exploits the regular crop-row structure present in fields. Our approach uses only the images from on-board cameras without the need for performing explicit localization or maintaining a map of the field. Thus, it can operate without expensive RTK-GPS solutions often used in agricultural automation systems. Our navigation approach allows the robot to follow the crop rows accurately and handles the switch to the next row seamlessly within the same framework. We implemented our approach using C++ and ROS and thoroughly tested it in several simulated fields with different shapes and sizes. We also demonstrated the system running at frame-rate on an actual robot operating on a test row-crop field. The code and data have been published.",
+  "references": [
+    {
+      "paperId": "c02f810f4b3fe467b8ebbb3ee1bfddcd650caca0"
+    },
+    {
+      "paperId": "bedf6cb643cb7fde7c49d4a38d7e59ba545c87ba"
+    },
+    {
+      "paperId": "0331cda8caa691b10274fb8e1c9dc2ea847959a6"
+    },
+    {
+      "paperId": "4b9a9be60e0ee9151b2f095d9652dfc08e8bc258"
+    },
+    {
+      "paperId": "40bee2fb66ec942e7dbe7c0c319db7f4be200bd9"
+    },
+    {
+      "paperId": "ea118e2288e975d0a0c512fee8dc762f4cf4fce8"
+    },
+    {
+      "paperId": "2c947ce7125b4901be5a17182a2b920018f868f6"
+    },
+    {
+      "paperId": "96c4e986ce754b303eed964dcfa1588f193db98b"
+    },
+    {
+      "paperId": "92854822c75d07a6ae85e6f1abf7becfa32c2f71"
+    },
+    {
+      "paperId": "102df4ec5f5bebb344a36e58d006603b085e1db8"
+    },
+    {
+      "paperId": "c48c94731412c2530d5c4e5a152b93fb5011aad8"
+    },
+    {
+      "paperId": "dde571ebb5e0f3307ac606b24e176fce49426358"
+    },
+    {
+      "paperId": "3ac916bfff135ce58c4cacda602a3ec7614a2586"
+    },
+    {
+      "paperId": "8e7aafeec28c4cc54d70c6f418f330dcf3bfbd8e"
+    },
+    {
+      "paperId": "eea6c4f0e5fab6c9e69f4e768f13b5ccd8d3085f"
+    },
+    {
+      "paperId": "c29f332acd365a132645b5733aae05b738388ba3"
+    },
+    {
+      "paperId": "bf0330ae2818fdb8fc09a3a547aaf46ae650d9e4"
+    },
+    {
+      "paperId": "61be8267807984a5135f7b77858db3681f054a9b"
+    },
+    {
+      "paperId": "088f70d794a4e59f0de90e3f4dc6087fe9217f87"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "86778c6ae42381fd6620f1ba8c870e3b887285fb"
+    },
+    {
+      "paperId": "97421e92320d15c4e3f554d46784c028523861d9"
+    },
+    {
+      "paperId": "4bc35e6aa29eaf318739ad83986411a873f2d73e"
+    },
+    {
+      "paperId": "73716a63b7a9de718af51d61550184518076d779"
+    },
+    {
+      "paperId": "2fc070d0fc3e3ea4c06545701ed09a7fb6048d07"
+    },
+    {
+      "paperId": "f515eb9fdbe49ebabc928684c0a4ed47abf148ad"
+    },
+    {
+      "paperId": "80ad5e9a5e271c96c6bad0b791b7a0ab89d4b26a"
+    }
+  ]
+}

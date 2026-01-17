@@ -1,0 +1,47 @@
+{
+  "paperId": "615819bd49a75379705a03f7be07fe880f9dd2e3",
+  "externalIds": {
+    "MAG": "2886529184",
+    "DBLP": "conf/icr/VuRDR18",
+    "DOI": "10.1007/978-3-319-99582-3_22",
+    "CorpusId": 52185305
+  },
+  "url": "https://www.semanticscholar.org/paper/615819bd49a75379705a03f7be07fe880f9dd2e3",
+  "title": "Trends in Development of UAV-UGV Cooperation Approaches in Precision Agriculture",
+  "venue": "International Conference on Interactive Collaborative Robotics",
+  "year": 2018,
+  "citationCount": 39,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-99582-3_22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-99582-3_22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50520366",
+      "name": "Q. Vu"
+    },
+    {
+      "authorId": "145720995",
+      "name": "M. Raković"
+    },
+    {
+      "authorId": "1693523",
+      "name": "V. Delić"
+    },
+    {
+      "authorId": "144719761",
+      "name": "A. Ronzhin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

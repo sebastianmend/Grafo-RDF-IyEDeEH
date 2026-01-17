@@ -1,0 +1,293 @@
+{
+  "paperId": "27567983fe6e218f86f002342afe382cca1e9cad",
+  "externalIds": {
+    "PubMedCentral": "5855187",
+    "MAG": "2790739169",
+    "DBLP": "journals/sensors/BehmannAEBMTBKJ18",
+    "DOI": "10.3390/s18020441",
+    "CorpusId": 4006304,
+    "PubMed": "29393921"
+  },
+  "url": "https://www.semanticscholar.org/paper/27567983fe6e218f86f002342afe382cca1e9cad",
+  "title": "Specim IQ: Evaluation of a New, Miniaturized Handheld Hyperspectral Camera and Its Application for Plant Phenotyping and Disease Detection",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 188,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/2/441/pdf?version=1517583786",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5855187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2895826",
+      "name": "J. Behmann"
+    },
+    {
+      "authorId": "15968102",
+      "name": "Kelvin Acebron"
+    },
+    {
+      "authorId": "23621237",
+      "name": "D. Emin"
+    },
+    {
+      "authorId": "1811955",
+      "name": "Simon Bennertz"
+    },
+    {
+      "authorId": "6733913",
+      "name": "S. Matsubara"
+    },
+    {
+      "authorId": "2109772772",
+      "name": "Stefan Thomas"
+    },
+    {
+      "authorId": "2050188528",
+      "name": "David Bohnenkamp"
+    },
+    {
+      "authorId": "7022516",
+      "name": "M. Kuska"
+    },
+    {
+      "authorId": "46619573",
+      "name": "J. Jussila"
+    },
+    {
+      "authorId": "2077016336",
+      "name": "Harri Salo"
+    },
+    {
+      "authorId": "2470933",
+      "name": "Anne-Katrin Mahlein"
+    },
+    {
+      "authorId": "2852289",
+      "name": "U. Rascher"
+    }
+  ],
+  "abstract": "Hyperspectral imaging sensors are promising tools for monitoring crop plants or vegetation in different environments. Information on physiology, architecture or biochemistry of plants can be assessed non-invasively and on different scales. For instance, hyperspectral sensors are implemented for stress detection in plant phenotyping processes or in precision agriculture. Up to date, a variety of non-imaging and imaging hyperspectral sensors is available. The measuring process and the handling of most of these sensors is rather complex. Thus, during the last years the demand for sensors with easy user operability arose. The present study introduces the novel hyperspectral camera Specim IQ from Specim (Oulu, Finland). The Specim IQ is a handheld push broom system with integrated operating system and controls. Basic data handling and data analysis processes, such as pre-processing and classification routines are implemented within the camera software. This study provides an introduction into the measurement pipeline of the Specim IQ as well as a radiometric performance comparison with a well-established hyperspectral imager. Case studies for the detection of powdery mildew on barley at the canopy scale and the spectral characterization of Arabidopsis thaliana mutants grown under stressed and non-stressed conditions are presented.",
+  "references": [
+    {
+      "paperId": "7a8f075a717a260e55fe5493deb1787921589554"
+    },
+    {
+      "paperId": "ca2205c7ff2232d1b532554b562dab526036c1d6"
+    },
+    {
+      "paperId": "7fa4884eb50543f2d24eeca7fd9a192e95d3b6b6"
+    },
+    {
+      "paperId": "76926231203353b3c6432629bf006f2a93dd2396"
+    },
+    {
+      "paperId": "75fb55f374d0765bf2f4696ce6bc0ca0fa0dfae9"
+    },
+    {
+      "paperId": "f07ea9484a8e5e66ce7c67b145e2e4c4c1468400"
+    },
+    {
+      "paperId": "9b36c9f23ee89d01563d0a79dcae0a8939d31a4f"
+    },
+    {
+      "paperId": "3d3903ccccf6a6c1c67d8e5b6c6282c40d23587c"
+    },
+    {
+      "paperId": "86d2ce396ddf87f155e7c071ced49c51d93f34d2"
+    },
+    {
+      "paperId": "965d5736443a693a0788a862d73086537ea41d25"
+    },
+    {
+      "paperId": "69731a7c432104bdd9e8f32d9e6d97a1972f4237"
+    },
+    {
+      "paperId": "0b8e525b76a923c10483d7bf9fd45515cff6f360"
+    },
+    {
+      "paperId": "cb1dbcdb586db56ebd60f91d52b949f148053abe"
+    },
+    {
+      "paperId": "e74d28ff193929cf613423bfe93e8ff9a4a22abf"
+    },
+    {
+      "paperId": "efa048c88969441f822c36590f50fc9c3ec42459"
+    },
+    {
+      "paperId": "cf3d680db30f0de3e25ff569265f55aa758c2eb9"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "7c7d853b537b38294883f8ff227f2ad0ed853535"
+    },
+    {
+      "paperId": "46756fb96750f236ad1d2c9413c2b3c706fad0ff"
+    },
+    {
+      "paperId": "174485ab855ee59a3ec5c5e2cf790287c3b070b3"
+    },
+    {
+      "paperId": "272ba9177839e79e3333afd1b27cb71a21514008"
+    },
+    {
+      "paperId": "827b46b2519b173f8d0e58baa60db93e0934d722"
+    },
+    {
+      "paperId": "29feff5a78a5c7233e16015667e751d798839034"
+    },
+    {
+      "paperId": "8f4ed12ec0d4dcf03ffacb9c79282beb8719c41f"
+    },
+    {
+      "paperId": "02f498a7242fce3a3185f1f50332fbdaa8e152c9"
+    },
+    {
+      "paperId": "4d7df382412c2781251305f0a98138b7f0ab4af3"
+    },
+    {
+      "paperId": "0898d0280f05bbb758b7082c6d2cfd7896963cf5"
+    },
+    {
+      "paperId": "4d609737bc2488c068eca1311eea4c65aa940991"
+    },
+    {
+      "paperId": "26d6461d609d15ea8de494aeeb0673cc7c1afe46"
+    },
+    {
+      "paperId": "863421c88b8a565a728897fd22639b823fb2f8a6"
+    },
+    {
+      "paperId": "3677e40cda2f6f27f1ea3c5dd718dd38374b8cd7"
+    },
+    {
+      "paperId": "282c8d97a6c67cb516f91c0e518757a0f819df83"
+    },
+    {
+      "paperId": "39c43977317d50f54e6d7a5341bd1090a36019f8"
+    },
+    {
+      "paperId": "22b148bcc2bf082c165340499a3bdeb3ac0b22d8"
+    },
+    {
+      "paperId": "4a5b3e1653b0fce46cb931c8da9524546c7f69c9"
+    },
+    {
+      "paperId": "839f55d53c29ab3919b872b59b869f76ea242883"
+    },
+    {
+      "paperId": "a1d94e5097ae22e0eb5ddc0a9370f8859ec99214"
+    },
+    {
+      "paperId": "8dd9a14770c68214fe8436a89f433d5c26c6eb0a"
+    },
+    {
+      "paperId": "edb11a439124103920577f2ff779dd7e8ddfea47"
+    },
+    {
+      "paperId": "0fcf9d9388c1a07bfc55804a9e4ce4f374074eaa"
+    },
+    {
+      "paperId": "514d9c0feb7eeb4ad5568e5e3512355f62b9f959"
+    },
+    {
+      "paperId": "fbe3480793702e16cd74694ec7bc7278423f6aaa"
+    },
+    {
+      "paperId": "f03e44ce3fd665a6d5135e6ab66aeff4ef1c7137"
+    },
+    {
+      "paperId": "c4f76e081df5ef5b5c0a77d98beba710abafe1b5"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "9bd56b1767156fc2ef62b40ae5468176401fd8d4"
+    },
+    {
+      "paperId": "da7a70a97733eaaee04bf0c253314f29ed10aa53"
+    },
+    {
+      "paperId": "30358ee134cb4c0bbf1897f94dcf79564d0e7302"
+    },
+    {
+      "paperId": "2f8c196abe1b13a827f7c1f56b4ef0db4505d9e6"
+    },
+    {
+      "paperId": "fed9d6a69864b0a5ea0cfb06f693a5fce3a41a9c"
+    },
+    {
+      "paperId": "b0f50d35bed2a12916fec569fd1aa837bf895bf7"
+    },
+    {
+      "paperId": "7832155f3c96bc3b4020e2c3612878b9ef3c8071"
+    },
+    {
+      "paperId": "11ebe453d3a8656e6aa532b8da26e8373f10c096"
+    },
+    {
+      "paperId": "99bb268764261ad35a9afdacaa1039f7f4b7c3b3"
+    },
+    {
+      "paperId": "70775788414459393eb6ddcf5dce95aac68721d0"
+    },
+    {
+      "paperId": "edf5c550949b325efbfee5fbcb67021a03858f3c"
+    },
+    {
+      "paperId": "09918bade8b461c85184d97eaad9e131005f460b"
+    },
+    {
+      "paperId": "64e515a468557ae1e9ae6056d6f39933dd8fde3b"
+    },
+    {
+      "paperId": "ce73676f74beefeda0cd195a4e4a6b8737824adb"
+    },
+    {
+      "paperId": "682ad8e5a90d70970408af33a2c8e305c7b7acc8"
+    },
+    {
+      "paperId": "2eded05cd331fad3d206d38870804fca0b57ab0a"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": "489e2e9f4e80ed6a0cf98ac30b9bc784bc0f9505"
+    },
+    {
+      "paperId": "db578379da8a5030dc9c446157ceae9b4524ff1e"
+    },
+    {
+      "paperId": "637131fdda27cc72c57125ec17124a29eaeaf7e1"
+    },
+    {
+      "paperId": "4077f9a6aaf4bd1344cec90473f9dadcd5359550"
+    },
+    {
+      "paperId": "8b5964ab77d25cfd07e6330e4dec61ded62f5c33"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

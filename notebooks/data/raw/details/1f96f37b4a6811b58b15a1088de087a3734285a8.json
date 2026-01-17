@@ -1,0 +1,36 @@
+{
+  "paperId": "1f96f37b4a6811b58b15a1088de087a3734285a8",
+  "externalIds": {
+    "MAG": "2972302133",
+    "DBLP": "conf/agro-geoinformatics/Yalcin19",
+    "DOI": "10.1109/Agro-Geoinformatics.2019.8820693",
+    "CorpusId": 201832464
+  },
+  "url": "https://www.semanticscholar.org/paper/1f96f37b4a6811b58b15a1088de087a3734285a8",
+  "title": "An Approximation for A Relative Crop Yield Estimate from Field Images Using Deep Learning",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2019,
+  "citationCount": 27,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Agro-Geoinformatics.2019.8820693?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Agro-Geoinformatics.2019.8820693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2261159",
+      "name": "H. Yalcin"
+    }
+  ],
+  "abstract": "Smart farming and precision agriculture are becoming increasingly important to cope with challenges due to the growth of world population. Accurate crop yield prediction is an indispensable part of modern agricultural technologies to ensure food security and sustainability encountered in agricultural production. Since environmental conditions highly affect a plant’s growth, accurate estimation of crop yield can provide a lot of information that can be used for maintaining the quality of crop production. In this paper, a deep learning architecture is utilized to estimate crop yield in field images. The plant images are captured every half an hour by cameras mounted on the ground agricultural stations. We utilize intermediate outputs of deep learning architectures to develop a measure for an approximate estimate crop yield. This estimate represents a relative measure for crop yield estimate, relative to the high crop yield estimates in agricultural parcels that were used while training the deep learning architecture. We experimented our approach on sunflower image sequences collected from four different parcels and obtained promising results.",
+  "references": null
+}

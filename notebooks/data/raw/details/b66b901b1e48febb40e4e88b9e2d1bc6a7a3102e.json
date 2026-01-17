@@ -1,0 +1,44 @@
+{
+  "paperId": "b66b901b1e48febb40e4e88b9e2d1bc6a7a3102e",
+  "externalIds": {
+    "DBLP": "conf/pdp/MarosiFL18",
+    "MAG": "2807169873",
+    "DOI": "10.1109/PDP2018.2018.00087",
+    "CorpusId": 46967959
+  },
+  "url": "https://www.semanticscholar.org/paper/b66b901b1e48febb40e4e88b9e2d1bc6a7a3102e",
+  "title": "An Adaptive Cloud-Based IoT Back-end Architecture and Its Applications",
+  "venue": "International Euromicro Conference on Parallel, Distributed and Network-Based Processing",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PDP2018.2018.00087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PDP2018.2018.00087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40464080",
+      "name": "A. Marosi"
+    },
+    {
+      "authorId": "1845908624",
+      "name": "Attila Farkas"
+    },
+    {
+      "authorId": "144752083",
+      "name": "R. Lovas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

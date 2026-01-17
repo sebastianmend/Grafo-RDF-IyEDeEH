@@ -1,0 +1,38 @@
+{
+  "paperId": "cf39b23acdc61705f74b62f6d70d24947f1c440a",
+  "externalIds": {
+    "MAG": "2954666504",
+    "DOI": "10.1007/s12520-019-00884-7",
+    "CorpusId": 198399185
+  },
+  "url": "https://www.semanticscholar.org/paper/cf39b23acdc61705f74b62f6d70d24947f1c440a",
+  "title": "Modelling prehistoric settlement activities based on surface and subsurface surveys",
+  "venue": "Archaeological and Anthropological Sciences",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12520-019-00884-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12520-019-00884-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "14888718",
+      "name": "D. Dreslerová"
+    },
+    {
+      "authorId": "105039751",
+      "name": "P. Demján"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

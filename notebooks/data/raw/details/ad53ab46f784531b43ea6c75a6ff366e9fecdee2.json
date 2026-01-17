@@ -1,0 +1,48 @@
+{
+  "paperId": "ad53ab46f784531b43ea6c75a6ff366e9fecdee2",
+  "externalIds": {
+    "MAG": "2952127427",
+    "DBLP": "conf/mcpr2/GonzalezLKS19",
+    "DOI": "10.1007/978-3-030-21077-9_17",
+    "CorpusId": 195064230
+  },
+  "url": "https://www.semanticscholar.org/paper/ad53ab46f784531b43ea6c75a6ff366e9fecdee2",
+  "title": "Thermal Radiation Dynamics of Soil Surfaces with Unmanned Aerial Systems",
+  "venue": "Mexican Conference on Pattern Recognition",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-21077-9_17?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-21077-9_17, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2052455330",
+      "name": "O. González"
+    },
+    {
+      "authorId": "143856195",
+      "name": "Mariano I. Lizárraga"
+    },
+    {
+      "authorId": "143612763",
+      "name": "S. Karaman"
+    },
+    {
+      "authorId": "143861895",
+      "name": "Joaquin Salas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

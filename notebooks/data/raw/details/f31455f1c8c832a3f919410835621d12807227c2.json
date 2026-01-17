@@ -1,0 +1,49 @@
+{
+  "paperId": "f31455f1c8c832a3f919410835621d12807227c2",
+  "externalIds": {
+    "MAG": "2972955397",
+    "DBLP": "conf/i2mtc/ShadrinCOS19",
+    "DOI": "10.1109/I2MTC.2019.8826903",
+    "CorpusId": 202158451
+  },
+  "url": "https://www.semanticscholar.org/paper/f31455f1c8c832a3f919410835621d12807227c2",
+  "title": "System Identification - Soilless Growth of Tomatoes",
+  "venue": "International Instrumentation and Measurement Technology Conference",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/I2MTC.2019.8826903?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I2MTC.2019.8826903, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "51069113",
+      "name": "Dmitrii G. Shadrin"
+    },
+    {
+      "authorId": "104243960",
+      "name": "Artem Chashchin"
+    },
+    {
+      "authorId": "51285898",
+      "name": "G. V. Ovchinnikov"
+    },
+    {
+      "authorId": "144583872",
+      "name": "A. Somov"
+    }
+  ],
+  "abstract": "Artificial growth systems help in addressing the challenges associated with the population growth, urbanization, and climate change. In this work, we apply the Dynamic Mode Decomposition (DMD) method for a plant growth dynamics and artificial growing system modelling. For modelling we collect the data using a custom-made experimental testbed. The dataset of the time-sequenced top-down images of the plant growth (3168 images) and growth conditions is available online. The proposed data-driven system identification results in a markovian model of growth dynamics. We extend DMD with the features based on classic Fishman and Genard model of fruit growth and consider several combinations of those. Then we select a small number of the features providing best fit to the observed data. Our results demonstrate that the proposed approach provides an opportunity for making the accurate long-term dynamics predictions. This outcome is vital for designing control systems for precision agriculture.",
+  "references": null
+}

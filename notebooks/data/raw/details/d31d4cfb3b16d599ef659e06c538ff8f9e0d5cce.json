@@ -1,0 +1,40 @@
+{
+  "paperId": "d31d4cfb3b16d599ef659e06c538ff8f9e0d5cce",
+  "externalIds": {
+    "MAG": "2968063549",
+    "DBLP": "conf/sds2/TrebouxG19",
+    "DOI": "10.1109/SDS.2019.00007",
+    "CorpusId": 199510401
+  },
+  "url": "https://www.semanticscholar.org/paper/d31d4cfb3b16d599ef659e06c538ff8f9e0d5cce",
+  "title": "High Precision Agriculture: An Application Of Improved Machine-Learning Algorithms",
+  "venue": "Swiss Conference on Data Science",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://arodes.hes-so.ch/record/4186/files/Author%20postprint.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SDS.2019.00007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SDS.2019.00007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3064309",
+      "name": "J. Treboux"
+    },
+    {
+      "authorId": "1722226",
+      "name": "D. Genoud"
+    }
+  ],
+  "abstract": "This paper presents the performances of machine learning algorithms on aerial images object detection for high precision agriculture. The dataset used focuses on geotagged pictures of vineyards. We demonstrate that advanced machine learning methodologies like Decision Tree Ensemble, outperform state-of-the-art image recognition algorithms generally used within the agriculture field. The innovative approach described here improve object detection and obtain an accuracy of 94.27% which is an increase of more than 4% compared to the state-of-the-art. Finally, methodology and possible developments for high precision agriculture is discussed in this study.",
+  "references": null
+}

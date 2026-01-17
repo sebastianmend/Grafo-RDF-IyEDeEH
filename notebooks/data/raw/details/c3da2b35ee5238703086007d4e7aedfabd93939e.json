@@ -1,0 +1,57 @@
+{
+  "paperId": "c3da2b35ee5238703086007d4e7aedfabd93939e",
+  "externalIds": {
+    "MAG": "2804287190",
+    "DOI": "10.1117/12.2305883",
+    "CorpusId": 135268694,
+    "PubMed": "31086430"
+  },
+  "url": "https://www.semanticscholar.org/paper/c3da2b35ee5238703086007d4e7aedfabd93939e",
+  "title": "Behavior of vegetation/soil indices in shaded and sunlit pixels and evaluation of different shadow compensation methods using UAV high-resolution imagery over vineyards",
+  "venue": "Commercial + Scientific Sensing and Imaging",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc6510547?pdf=render",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2305883?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2305883, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51295084",
+      "name": "M. Aboutalebi"
+    },
+    {
+      "authorId": "1401923045",
+      "name": "Alfonso F. Torres-Rua"
+    },
+    {
+      "authorId": "38543517",
+      "name": "M. McKee"
+    },
+    {
+      "authorId": "1801018",
+      "name": "W. Kustas"
+    },
+    {
+      "authorId": "145769781",
+      "name": "H. Nieto"
+    },
+    {
+      "authorId": "2277817",
+      "name": "C. Coopmans"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

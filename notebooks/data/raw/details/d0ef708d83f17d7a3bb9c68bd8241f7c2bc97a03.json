@@ -1,0 +1,42 @@
+{
+  "paperId": "d0ef708d83f17d7a3bb9c68bd8241f7c2bc97a03",
+  "externalIds": {
+    "MAG": "2784665462",
+    "DOI": "10.18805/IJARE.A-4889",
+    "CorpusId": 55610705
+  },
+  "url": "https://www.semanticscholar.org/paper/d0ef708d83f17d7a3bb9c68bd8241f7c2bc97a03",
+  "title": "An overview of use of precision farming technologies by the farmers- A case study of North Eastern Karnataka",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.18805/ijare.a-4889",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18805/IJARE.A-4889?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18805/IJARE.A-4889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7684334",
+      "name": "K. Shruthi"
+    },
+    {
+      "authorId": "69475447",
+      "name": "G. Hiremath"
+    },
+    {
+      "authorId": "104509700",
+      "name": "Amrutha T. Joshi"
+    }
+  ],
+  "abstract": "Agriculture in future can be expected to be competitive, knowledge-intensive and market driven. Modern frontier technologies involving systems approach towards efficient crop and input management, land and water use planning are essential for Indian agriculture to meet the challenges in the present context. Further, increasing the productivity level of a pollution free technological factor of production is inevitable. With this concern the present study was carried out in North Eastern parts of Karnataka state, where the precision farming technology was implemented. Hence, an attempt has been made through present paper to study the extent of usage of precision farming technologies at farm level. The technologies implemented were GPS, GIS, variable rate applications of inputs, crop sensors etc. Adopters were aware of benefits of management aspects like size of grid, soil sampling, soil analysis, variable rate of application of fertilizers, laser levelling and harvesting by grids. But still, precision farming has yet to take its firm ground in India by moving from its infant stage. This is possible by dissemination of technology and its benefits by bringing awareness among farming community through efforts of Department of Agriculture by using SAUs and NGOs as channels.",
+  "references": []
+}

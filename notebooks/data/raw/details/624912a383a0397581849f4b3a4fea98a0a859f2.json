@@ -1,0 +1,39 @@
+{
+  "paperId": "624912a383a0397581849f4b3a4fea98a0a859f2",
+  "externalIds": {
+    "MAG": "2981248001",
+    "DOI": "10.1109/ICECCT.2019.8869510",
+    "CorpusId": 204819512
+  },
+  "url": "https://www.semanticscholar.org/paper/624912a383a0397581849f4b3a4fea98a0a859f2",
+  "title": "Crop Diseases and Pests Detection Using Convolutional Neural Network",
+  "venue": "IEEE International Conference on Electrical, Computer and Communication Technologies",
+  "year": 2019,
+  "citationCount": 21,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECCT.2019.8869510?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECCT.2019.8869510, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "7975972",
+      "name": "P. Patel"
+    },
+    {
+      "authorId": "31065551",
+      "name": "Dinesh B. Vaghela"
+    }
+  ],
+  "abstract": "The Indian economy is extremely reliant on the agricultural productivity. In order to fulfill the citizen's demand and to give more benefits to farmers, increasing crop production is very crucial task nowadays. Crop diseases and pests play a key role in reducing crop production and quality. Therefore, the detection is fundamental in precision agriculture task. Manual detection of diseases takes additional time and efforts on the larger area of the farm. Deep learning approach can be used to detect the diseases and pest more accurately on leaves and other parts of the crop. The proposed method is helpful in detecting crop diseases as well as pests. In this paper, the deep learning techniques related to diseases and pest detection has been reviewed and the deep learning model for automatic diagnosis of crop diseases and pests is proposed.",
+  "references": null
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "eece67d3803c63e7352cab42df70c04dd722ec96",
+  "externalIds": {
+    "DBLP": "conf/giots/KamienskiSTFTCM18",
+    "MAG": "2895720043",
+    "DOI": "10.1109/GIOTS.2018.8534541",
+    "CorpusId": 53436321
+  },
+  "url": "https://www.semanticscholar.org/paper/eece67d3803c63e7352cab42df70c04dd722ec96",
+  "title": "SWAMP: an IoT-based Smart Water Management Platform for Precision Irrigation in Agriculture",
+  "venue": "Global Internet of Things Summit",
+  "year": 2018,
+  "citationCount": 69,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GIOTS.2018.8534541?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GIOTS.2018.8534541, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1969406",
+      "name": "C. Kamienski"
+    },
+    {
+      "authorId": "1792386",
+      "name": "J. Soininen"
+    },
+    {
+      "authorId": "3233791",
+      "name": "Markus Taumberger"
+    },
+    {
+      "authorId": "145687175",
+      "name": "S. Fernandes"
+    },
+    {
+      "authorId": "12160822",
+      "name": "A. Toscano"
+    },
+    {
+      "authorId": "2883114",
+      "name": "T. S. Cinotti"
+    },
+    {
+      "authorId": "3196763",
+      "name": "R. Maia"
+    },
+    {
+      "authorId": "2082383776",
+      "name": "A. T. Neto"
+    }
+  ],
+  "abstract": "Irrigation for agriculture is the biggest consumer of freshwater in the world, which makes a case for the intensive use of technology to optimize the use of water, reduce the consumption of energy and improve the quality of crops. While the Internet of Things (IoT) and other associated technologies are the natural choice for smart water management applications, their appropriateness is still to be proven in real settings with the deployment of on-site pilots. Also, IoT-based application development platforms should be generic enough to be adapted to different crops, climates, and countries. The SWAMP project develops IoT based methods and approaches for smart water management in precision irrigation domain and pilots them in Italy, Spain, and Brazil. In this paper, we present the SWAMP view, architecture, pilots and the scenario-based development process adopted in the project.",
+  "references": null
+}

@@ -1,0 +1,45 @@
+{
+  "paperId": "79beea196afd3ac032cec2642c91ebcf79a94f2e",
+  "externalIds": {
+    "DBLP": "conf/ict4da/TegegneBB19",
+    "MAG": "2966287929",
+    "DOI": "10.1007/978-3-030-26630-1_20",
+    "CorpusId": 201431908
+  },
+  "url": "https://www.semanticscholar.org/paper/79beea196afd3ac032cec2642c91ebcf79a94f2e",
+  "title": "Internet of Things Technology for Agriculture in Ethiopia: A Review",
+  "venue": "EAI International Conference on ICT for Development for Africa",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-26630-1_20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-26630-1_20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "23699280",
+      "name": "Tesfa Tegegne"
+    },
+    {
+      "authorId": "1395593354",
+      "name": "H. Balcha"
+    },
+    {
+      "authorId": "152721399",
+      "name": "Mebiratu Beyene"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

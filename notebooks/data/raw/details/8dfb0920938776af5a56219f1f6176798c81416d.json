@@ -1,0 +1,173 @@
+{
+  "paperId": "8dfb0920938776af5a56219f1f6176798c81416d",
+  "externalIds": {
+    "MAG": "2966362502",
+    "DBLP": "journals/remotesensing/LaForestHZFH19",
+    "DOI": "10.3390/RS11151811",
+    "CorpusId": 201315184
+  },
+  "url": "https://www.semanticscholar.org/paper/8dfb0920938776af5a56219f1f6176798c81416d",
+  "title": "New Strategies for Time Delay Estimation during System Calibration for UAV-Based GNSS/INS-Assisted Imaging Systems",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/15/1811/pdf?version=1565317173",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11151811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11151811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2005537580",
+      "name": "Lisa M. LaForest"
+    },
+    {
+      "authorId": "148056891",
+      "name": "S. Hasheminasab"
+    },
+    {
+      "authorId": "2267328824",
+      "name": "Tian Zhou"
+    },
+    {
+      "authorId": "51929702",
+      "name": "J. E. Flatt"
+    },
+    {
+      "authorId": "38036973",
+      "name": "A. Habib"
+    }
+  ],
+  "abstract": "The need for accurate 3D spatial information is growing rapidly in many of today’s key industries, such as precision agriculture, emergency management, infrastructure monitoring, and defense. Unmanned aerial vehicles (UAVs) equipped with global navigation satellite systems/inertial navigation systems (GNSS/INS) and consumer-grade digital imaging sensors are capable of providing accurate 3D spatial information at a relatively low cost. However, with the use of consumer-grade sensors, system calibration is critical for accurate 3D reconstruction. In this study, ‘consumer-grade’ refers to cameras that require system calibration by the user instead of by the manufacturer or other high-end laboratory settings, as well as relatively low-cost GNSS/INS units. In addition to classical spatial system calibration, many consumer-grade sensors also need temporal calibration for accurate 3D reconstruction. This study examines the accuracy impact of time delay in the synchronization between the GNSS/INS unit and cameras on-board UAV-based mapping systems. After reviewing existing strategies, this study presents two approaches (direct and indirect) to correct for time delay between GNSS/INS recorded event markers and actual time of image exposure. Our results show that both approaches are capable of handling and correcting this time delay, with the direct approach being more rigorous. When a time delay exists and the direct or indirect approach is applied, horizontal accuracy of 1–3 times the ground sampling distance (GSD) can be achieved without either the use of any ground control points (GCPs) or adjusting the original GNSS/INS trajectory information.",
+  "references": [
+    {
+      "paperId": "52e9f20bc24bbe978ba85073ae48bb829de52f47"
+    },
+    {
+      "paperId": "c14b42ccddfa4261310909f55c500c3d695e01c9"
+    },
+    {
+      "paperId": "ea92f4fd68e87ca05cefff2e5743f7181d5457e2"
+    },
+    {
+      "paperId": "f3603ce939b240ebb09de4d7278e712dfa10f9ec"
+    },
+    {
+      "paperId": "c0e4079286fa4d2900b1945f3f509787e584e1b9"
+    },
+    {
+      "paperId": "385733833db83021f03ca0cfe081ea4c9b9d066b"
+    },
+    {
+      "paperId": "e461693671e11d14d279459267cb1dc549882379"
+    },
+    {
+      "paperId": "7055aea19d9945e41d77b13eb091335f3690c806"
+    },
+    {
+      "paperId": "5566a05ae66b61765a9523a9848b0e606251d095"
+    },
+    {
+      "paperId": "e3834aa79a1a07f59477fc57dd6ed63cf7db0f4d"
+    },
+    {
+      "paperId": "33305d1f3a0aa12fabee154c7547f9ba4a5c7e85"
+    },
+    {
+      "paperId": "ddf10942af81c10115e96c68e4fb9e6797e4723c"
+    },
+    {
+      "paperId": "049df5e55ded0ddd64696316de7b93548cc0d292"
+    },
+    {
+      "paperId": "03d6ecafc4c07b79af903d9a18d51ee61da39e08"
+    },
+    {
+      "paperId": "c190e3a02f61e15ba015b1f49d40bc44f0e2b3ad"
+    },
+    {
+      "paperId": "697654d4f8a8cb8954155a8bef05a457e3ce4eac"
+    },
+    {
+      "paperId": "bede1dead1557c75c8dc6da8b1f70d77d6572607"
+    },
+    {
+      "paperId": "c3028f7462992c2471d072e4119d98effb8326f7"
+    },
+    {
+      "paperId": "2cd24e8a9a4ad04d02ac5c9c892f3e19c3ea3efc"
+    },
+    {
+      "paperId": "f923420cfd2b7a46607fe8da4d102cb712f21dbb"
+    },
+    {
+      "paperId": "268e22ca271e288921a0e0bf383a94a123939607"
+    },
+    {
+      "paperId": "483f2f8aba99267bdf39e39ba374db2a68c5c4a7"
+    },
+    {
+      "paperId": "3c660ed6412425bf68dccedd6f098fcf6c4a5820"
+    },
+    {
+      "paperId": "0f5e00a7a2c5e6c3f91f8dc2fda648a16629278d"
+    },
+    {
+      "paperId": "c967c1683bbc7cef5fbf72ba43657e5dea53900f"
+    },
+    {
+      "paperId": "eb5fcd06efbcb769bae4db13a61367f8b7361b3b"
+    },
+    {
+      "paperId": "03072e80904da60976467c0b9cd8a63ceaa1a69f"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38"
+    },
+    {
+      "paperId": "6effeec636a4dfbfe75d98bd8c6edb72d1110f29"
+    },
+    {
+      "paperId": "6bdacaf992b0394cc73ff94fcbf6b31483406286"
+    },
+    {
+      "paperId": "d19c274cb0e8b70d6cbeb138e13269a89ebe7889"
+    },
+    {
+      "paperId": "8033e0edb3b43c4ba3605d70d0de14efbe69c976"
+    },
+    {
+      "paperId": "af2e01100b2d205b7e19e64bf6c95e1bba2aa1eb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "20885b50dd26f4f2fcc86cfd38f78b36d18aaa9b"
+    },
+    {
+      "paperId": "249ad77f7cede7035a779b112a4797e35bd6813a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8ca07d79c877062eafcc6b6f1d77d09b21d199c7"
+    },
+    {
+      "paperId": "d5d2826e5855aa5b41c0a76946cd0cfcce89680a"
+    },
+    {
+      "paperId": "b661d040ca45f2257d664689d5a1ab40554f5d9c"
+    }
+  ]
+}

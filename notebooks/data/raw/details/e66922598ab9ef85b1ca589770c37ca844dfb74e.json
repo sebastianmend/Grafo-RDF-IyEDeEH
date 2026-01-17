@@ -1,0 +1,52 @@
+{
+  "paperId": "e66922598ab9ef85b1ca589770c37ca844dfb74e",
+  "externalIds": {
+    "MAG": "2900785087",
+    "DBLP": "conf/igarss/LiuCH0W18",
+    "DOI": "10.1109/IGARSS.2018.8518005",
+    "CorpusId": 53226094
+  },
+  "url": "https://www.semanticscholar.org/paper/e66922598ab9ef85b1ca589770c37ca844dfb74e",
+  "title": "LAI Retrieval of Winter Wheat using Simulated Compact SAR Data through GA-PLS Modeling",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2144904956",
+      "name": "Chang-An Liu"
+    },
+    {
+      "authorId": "46842442",
+      "name": "Zhongxin Chen"
+    },
+    {
+      "authorId": "3480163",
+      "name": "Pengyu Hao"
+    },
+    {
+      "authorId": "50754228",
+      "name": "Kun Li"
+    },
+    {
+      "authorId": "2108386297",
+      "name": "Xiaochen Wang"
+    }
+  ],
+  "abstract": "This study evaluated the potential of a compact polarimetric (CP) mode SAR concept for the retrieval of winter wheat LAI values. First, the CP SAR data used in this study were simulated from full polarimetric SAR data. A total of 19 CP parameters were extracted from CP matrices and from CP decomposition results. Second, a hybrid inversion model based on nonlinear genetic partial least square (GA-PLS) algorithm was built to determine the relationships between CP SAR parameters and LAI values. Finally, the mapping and estimation of winter wheat LAI using the CP SAR parameters by GA-PLS algorithm were implemented. Our study indicates that by using a CP SAR dataset, LAI retrieval can yield an accuracy of $\\mathbf{R}^{2}=0.70$ and $\\mathbf{RMSE} =0.40\\ \\mathbf{m}^{2}/\\mathbf{m}^{2}$. Our study has significant implications for field crop condition monitoring and growth stage estimation, providing relevant data for agronomic practices and precision agriculture.",
+  "references": null
+}

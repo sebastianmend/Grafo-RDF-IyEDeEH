@@ -1,0 +1,38 @@
+{
+  "paperId": "11b4a1286384b13aabea5e87ecb30af624dc38b7",
+  "externalIds": {
+    "MAG": "2974612250",
+    "DOI": "10.1109/ICoICT.2019.8835377",
+    "CorpusId": 202686493
+  },
+  "url": "https://www.semanticscholar.org/paper/11b4a1286384b13aabea5e87ecb30af624dc38b7",
+  "title": "Intelligent Monitoring and Controlling System for Hydroponics Precision Agriculture",
+  "venue": "International Conference on Information and Communicatiaon Technology",
+  "year": 2019,
+  "citationCount": 44,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICoICT.2019.8835377?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICoICT.2019.8835377, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "104905919",
+      "name": "Herman"
+    },
+    {
+      "authorId": "2510146",
+      "name": "N. Surantha"
+    }
+  ],
+  "abstract": "Hydroponics agriculture comes up as a solution to limited agricultural land that can lead to a decline in agricultural production capacity. In Hydroponics agriculture, there is a challenge of precision agriculture, especially for some sensitive plants, e.g., bok choy and lettuce. These kinds of plants need a precise amount of nutrient and water every time to grow ideally. Internet-of-Things (IoT) is a technology that enables regular monitoring of every aspect of human life. It can be a solution to monitor the water and nutrition needs of the plants periodically. In this paper, we propose a monitoring and controlling system for hydroponics precision agriculture based on the IoT concept and Fuzzy logic. IoT is utilized to enable regular monitoring of plants nutrition and water needs, while fuzzy logic is used to control the supply of nutrition and water to the plants. The experiment result shows that the proposed system can produce better growth for lettuce and bok choy plants in terms of the size of leaves.",
+  "references": null
+}

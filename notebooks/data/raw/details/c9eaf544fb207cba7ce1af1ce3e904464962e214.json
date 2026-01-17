@@ -1,0 +1,86 @@
+{
+  "paperId": "c9eaf544fb207cba7ce1af1ce3e904464962e214",
+  "externalIds": {
+    "MAG": "2887463669",
+    "DOI": "10.12783/dtcse/aiie2017/18199",
+    "CorpusId": 62801934
+  },
+  "url": "https://www.semanticscholar.org/paper/c9eaf544fb207cba7ce1af1ce3e904464962e214",
+  "title": "Improved Distance Power Inverse Ratio Method Based on Spatial Data Mining Technique",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://dpi-proceedings.com/index.php/dtcse/article/download/18199/17705",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12783/dtcse/aiie2017/18199?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12783/dtcse/aiie2017/18199, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "71227174",
+      "name": "H. Yang"
+    }
+  ],
+  "abstract": "Through deep analysis on the principles and theories of Distance Power Inverse Ratio Method (DPIRM) and study on methods of geostatistics, this paper proposes a new interpolation to solve inherent problems of traditional DPIRM. This new method uses the regionalized variable theory to mining geological data to get the parameters of spatial anisotropy spheroid, uses cross-validation methodology with artificial intelligence approach, such like genetic algorithm (GA), to get the optimal power exponent of DPIRM. Compared with methods of geostatistics, the new DPIRM method can avoid human interference in fitting the spatial variogram. Compared with methods of traditional DPIRM method, the new DPIRM can avoid the problems of isotropous and power exponent decided without objective evidences. After practical application in a large-scale copper open-pit, the result proves that IDPIRM with spatial data mining technology can improve interpolation precision effectively, and also ensures the reliability of results. Introduction Distance power inverse ratio method is a common spatial interpolation method. It is easy to understand and simple to calculate. And the result from its calculation is good enough in engineering practice, such as survey [1], reserves estimation [2,3], mine modeling[4,5], geographical information[6,7], soil science, agriculture, forestry, aerography[8], environmentology[9], which need to spatial analysis. Its results often used to confirm calculations of other interpolation ways, just like as Ordinary Kriging (OK), one of geostatistics methods. But there are still exist short natural endowments with Distance Power Inverse Ratio Method: only to consider spatial distances between points to be estimated and other points measured, and not to consider other aspects effects (for example, anisotropy of attributes spatial distribution); clustering effect of data distribution [10]; homocentric circle (alleged ox eye) phenomenon when it deals with noisy data, and so on like these. So precision and reliability of this method are badly affected [11]. On the other hand, Ordinary Kriging, another common interpolation method, also is not perfect. For example, the excessive smoothing problem in mine application [12, 13], complicated theory which is hard to understand, parameters selected subjectively and OK’s calculation process is cockamamie and fussy. All of above hinders those methods popularizing in mines and other fields. Can we find a simple to calculate, easy to understand, precision and reliability, method of geological spatial data interpolation? This paper proposes that spatial data must be done mining before to do interpolate, and brings and uses data mining idea into whole interpolation process. Only find the law of spatial data distribution by data mining technology, the results of interpolation could be precision and reliability. After study geostatistics methods, this paper finds the reason why OK’s output is better than Distance Power Inverse Ratio Method (DPIRM). The reason is that OK uses regionalization variable theory, as a data mining tool, to find the law of spatial data distribution, and to interpolate follows the law. Based on this, this paper also makes Improved Distance Power Inverse Ratio Method (IDPIRM) using regionalization variable theory to get the spatial data distribution, and avoiding the anisotropy problem of traditional DPIRM; using artificial intelligence as another data mining technique, just like Genetic Algorithm [14,15], to find the best power exponent of DPIRM",
+  "references": [
+    {
+      "paperId": "fe3999799be682988d916ef80e26b60d972ffc24"
+    },
+    {
+      "paperId": "ad0189d70aabe6a57138a9ed32ec852fae7363a7"
+    },
+    {
+      "paperId": "d73484634966e6ae46641776c044a09c4d13270a"
+    },
+    {
+      "paperId": "ea510af06206d0de51aab93e1969a93dcb6d5fa4"
+    },
+    {
+      "paperId": "3a11b9c38bd80ed24deeb12ef99512b8a0f248b9"
+    },
+    {
+      "paperId": "57a1224aa360dad0c7646c592c7dac8f2b1eceba"
+    },
+    {
+      "paperId": "f45a8d7f8c2616128cb594bd3a3e8ba8b76ab5f4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

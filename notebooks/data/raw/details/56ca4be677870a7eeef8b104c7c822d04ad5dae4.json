@@ -1,0 +1,32 @@
+{
+  "paperId": "56ca4be677870a7eeef8b104c7c822d04ad5dae4",
+  "externalIds": {
+    "MAG": "2951064700",
+    "DOI": "10.1007/s00376-019-9022-0",
+    "CorpusId": 189896004
+  },
+  "url": "https://www.semanticscholar.org/paper/56ca4be677870a7eeef8b104c7c822d04ad5dae4",
+  "title": "Harnessing Crowdsourced Data and Prevalent Technologies for Atmospheric Research",
+  "venue": "Advances in Atmospheric Sciences",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00376-019-9022-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00376-019-9022-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "15345967",
+      "name": "N. David"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "7ecac532022e954c512d2b5789ab8e0b1c72f18f",
+  "externalIds": {
+    "MAG": "2965596569",
+    "DOI": "10.1109/CTEMS.2018.8769124",
+    "CorpusId": 198930417
+  },
+  "url": "https://www.semanticscholar.org/paper/7ecac532022e954c512d2b5789ab8e0b1c72f18f",
+  "title": "Remote Sensing Technology and Applications in Agriculture",
+  "venue": "2018 International Conference on Computational Techniques, Electronics and Mechanical Systems (CTEMS)",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CTEMS.2018.8769124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CTEMS.2018.8769124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1411529236",
+      "name": "Rekha B. U."
+    },
+    {
+      "authorId": "3241872",
+      "name": "V. Desai"
+    },
+    {
+      "authorId": "1419461140",
+      "name": "Pratigya S. Ajawan"
+    },
+    {
+      "authorId": "145189562",
+      "name": "S. K. Jha"
+    }
+  ],
+  "abstract": "Agriculture in India faces challenges due to small land- holdings, inadequate resources and lack of agrotechnological information. Earth observations comprising satellite, aerial, and in situ systems have recently ushered in studying, understanding, and monitoring of natural resources with an aim to unfold the intricate behavior of the complex earth’s dynamic processes. In this regard, the research in satellite remote sensing along with aerial photographs have evolved as a multidisciplinary theme useful for this purpose. This paper describes the basic aspects of remote sensing and geographic information systems technology as applicable to precision agriculture making it reality.",
+  "references": null
+}

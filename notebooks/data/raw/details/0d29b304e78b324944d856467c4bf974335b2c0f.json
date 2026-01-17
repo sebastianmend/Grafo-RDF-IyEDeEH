@@ -1,0 +1,50 @@
+{
+  "paperId": "0d29b304e78b324944d856467c4bf974335b2c0f",
+  "externalIds": {
+    "MAG": "3015701977",
+    "DOI": "10.1109/ICSIMA47653.2019.9057310",
+    "CorpusId": 215722276
+  },
+  "url": "https://www.semanticscholar.org/paper/0d29b304e78b324944d856467c4bf974335b2c0f",
+  "title": "Development of Smart Chicken Poultry Farm using RTOS on Arduino",
+  "venue": "2019 IEEE International Conference on Smart Instrumentation, Measurement and Application (ICSIMA)",
+  "year": 2019,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSIMA47653.2019.9057310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSIMA47653.2019.9057310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1768107",
+      "name": "T. Gunawan"
+    },
+    {
+      "authorId": "1626100146",
+      "name": "Mohamad Firdaus Sabar"
+    },
+    {
+      "authorId": "2533738",
+      "name": "H. Nasir"
+    },
+    {
+      "authorId": "1901634",
+      "name": "M. Kartiwi"
+    },
+    {
+      "authorId": "1833141",
+      "name": "S. Motakabber"
+    }
+  ],
+  "abstract": "The agriculture sector is one important sector in either in Malaysia or over the world by cultivating plants and livestock. To provide a quality livestock production, i.e. poultry, the optimum environment must be maintained. Chicken poultry farm is one of the important sectors for food supply. An active monitoring system that maintains the optimum environmental conditions, such as level of ammonia, carbon dioxide, humidity, and temperature, can be developed using internet of things (IoT) for precision agriculture. In this paper, a smart chicken poultry farm using real-time operating system (RTOS) on Arduino will be developed. The level of ammonia and carbon dioxide will be sensed using various sensors and exhaust DC fans will be used to regulate to the optimum level. Furthermore, the humidity and temperature will be measured as well and will be controlled by a DC fan and heat lamp. Experimental results showed that RTOS on Arduino performs better compared to the non-RTOS on Arduino. This is due to the task priority could be assigned in RTOS, in which higher priority task could be completed first.",
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "ecdd7f5b8423248a23eb23b3ebc37d45a17b51e9",
+  "externalIds": {
+    "MAG": "2800395913",
+    "DOI": "10.1016/j.scitotenv.2018.04.153",
+    "CorpusId": 4999933,
+    "PubMed": "29674259"
+  },
+  "url": "https://www.semanticscholar.org/paper/ecdd7f5b8423248a23eb23b3ebc37d45a17b51e9",
+  "title": "Spatial variability in orchards after land transformation: Consequences for precision agriculture practices.",
+  "venue": "Science of the Total Environment",
+  "year": 2018,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2018.04.153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2018.04.153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40934448",
+      "name": "A. Uribeetxebarria"
+    },
+    {
+      "authorId": "48273183",
+      "name": "E. Daniele"
+    },
+    {
+      "authorId": "3238367",
+      "name": "A. Escolà"
+    },
+    {
+      "authorId": "34843989",
+      "name": "J. Arnó"
+    },
+    {
+      "authorId": "1403283844",
+      "name": "J. A. Martinez-Casasnovas"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

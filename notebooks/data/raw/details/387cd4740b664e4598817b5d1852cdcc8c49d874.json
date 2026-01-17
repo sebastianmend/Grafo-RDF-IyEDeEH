@@ -1,0 +1,40 @@
+{
+  "paperId": "387cd4740b664e4598817b5d1852cdcc8c49d874",
+  "externalIds": {
+    "MAG": "2907017276",
+    "DBLP": "journals/cea/KhannaK19",
+    "DOI": "10.1016/J.COMPAG.2018.12.039",
+    "CorpusId": 68241012
+  },
+  "url": "https://www.semanticscholar.org/paper/387cd4740b664e4598817b5d1852cdcc8c49d874",
+  "title": "Evolution of Internet of Things (IoT) and its significant impact in the field of Precision Agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "citationCount": 544,
+  "influentialCitationCount": 14,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2018.12.039?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2018.12.039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47688359",
+      "name": "A. Khanna"
+    },
+    {
+      "authorId": "3011642",
+      "name": "Sanmeet Kaur"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

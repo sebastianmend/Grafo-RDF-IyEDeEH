@@ -1,0 +1,49 @@
+{
+  "paperId": "01b3ec2ae24e72bfc4abfef5749155a97d156aa6",
+  "externalIds": {
+    "MAG": "2908848567",
+    "DBLP": "conf/icdcn/PandeyTKD19",
+    "DOI": "10.1145/3288599.3288621",
+    "CorpusId": 57760796
+  },
+  "url": "https://www.semanticscholar.org/paper/01b3ec2ae24e72bfc4abfef5749155a97d156aa6",
+  "title": "A hybrid classifier approach to multivariate sensor data for climate smart agriculture cyber-physical systems",
+  "venue": "International Conference of Distributed Computing and Networking",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3288599.3288621?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3288599.3288621, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1387646085",
+      "name": "Ankur Pandey"
+    },
+    {
+      "authorId": "66233951",
+      "name": "Piyush Tiwary"
+    },
+    {
+      "authorId": "2110208938",
+      "name": "Sudhir Kumar"
+    },
+    {
+      "authorId": "2288899549",
+      "name": "Sajal K. Das"
+    }
+  ],
+  "abstract": "In this paper, we propose a novel climate-smart Agriculture Cyber-Physical System (ACPS) for precision farming. The primary motive of the ACPS is to perform real-time fault location tracking in the agricultural field using multivariate sensor data. The computing model in the ACPS uses a novel hybrid classification approach which combines two classifiers for the location estimation of the sensor node. The novelty of the proposed method lies in predicting the locations that need more irrigation, soil nutrients or immediate human intervention using the sensor data. We also derive the computational complexity of the proposed method. The location accuracy improves reasonably as compared to the current-state-of-the-art methods.",
+  "references": null
+}

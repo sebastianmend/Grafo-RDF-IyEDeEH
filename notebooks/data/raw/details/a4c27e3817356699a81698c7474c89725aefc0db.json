@@ -1,0 +1,132 @@
+{
+  "paperId": "a4c27e3817356699a81698c7474c89725aefc0db",
+  "externalIds": {
+    "MAG": "2888486112",
+    "DBLP": "conf/ifip5-5/RodriguezCB18",
+    "DOI": "10.1007/978-3-319-99127-6_50",
+    "CorpusId": 52169887
+  },
+  "url": "https://www.semanticscholar.org/paper/a4c27e3817356699a81698c7474c89725aefc0db",
+  "title": "FIWARE Open Source Standard Platform in Smart Farming - A Review",
+  "venue": "Working Conference on Virtual Enterprises",
+  "year": 2018,
+  "citationCount": 27,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://riunet.upv.es/bitstream/10251/120667/7/_472393_1_En_50_Chapter_Author%20-%20version%20autor.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-99127-6_50?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-99127-6_50, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152817993",
+      "name": "María Angeles Rodríguez"
+    },
+    {
+      "authorId": "144732520",
+      "name": "L. Cuenca"
+    },
+    {
+      "authorId": "1781413",
+      "name": "Á. O. Bas"
+    }
+  ],
+  "abstract": "FIWARE is an open source platform for the deployment of Internet of Things (IoT) applications, driven by European Union and managed by FIWARE Foundation. Recently, FIWARE Foundation has launched his new product Agricolus, which focus on Smart Farming and it uses FIWARE infrastructure. Agricolus manages to bring Hardware and Software together in a decision-making process that support farming activities and offers a “plug and play” interface for precision agriculture. This is encompassed by the phenomenon of Smart Farming, which is a development that take advantage of the use of Information Communication Technologies (ICT) in the daily farm management. This review aims to gain insight into the state-of-the-art of FIWARE in Smart Farming and identify the components of Agricolus in comparison with essential FIWARE architecture.",
+  "references": [
+    {
+      "paperId": "4602f0fbc4d8529dbbd0b0cdb8fd56a78c4747e7"
+    },
+    {
+      "paperId": "71111d953442bbd631da9f1a3cf9c7b3d74702de"
+    },
+    {
+      "paperId": "6603e98ba707b737211d29c89248eaa4ec53bd16"
+    },
+    {
+      "paperId": "ce065dbf0a83837b543d4c88693fe765e58c46a3"
+    },
+    {
+      "paperId": "e29b85ab2a15c9e2a8711b66806cbfa5bf1472bb"
+    },
+    {
+      "paperId": "6f78a9f48de4e2942dcc3562c30fe380a316a4ee"
+    },
+    {
+      "paperId": "e254ab597d0f174c905f7cdbee4898d86010edc7"
+    },
+    {
+      "paperId": "5e4f68e47fc2272b40b5c571676fd88da49f53c4"
+    },
+    {
+      "paperId": "f193d68ef6450029cbee61b0d7fc810a1bb3cb20"
+    },
+    {
+      "paperId": "94b0f7dda09b32fa4a58363cbeae110fb3e816ba"
+    },
+    {
+      "paperId": "169d9ec64c18ad15f9d0844ad2e2cd917d2e5c6c"
+    },
+    {
+      "paperId": "1aa965c90d1d728f6afa67167b1ab6e910dcf6fe"
+    },
+    {
+      "paperId": "d31958504ac29854dd298584a71defccbe42eb36"
+    },
+    {
+      "paperId": "506dcc4e8f68b4d8df24c6f9840747b9f1c679fb"
+    },
+    {
+      "paperId": "516a158ffd905ef1e4977913e9dfa5cc61ea60ad"
+    },
+    {
+      "paperId": "f0ec3fbbc9ff1fa0ec8abf7cfdfa76c71ea59529"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

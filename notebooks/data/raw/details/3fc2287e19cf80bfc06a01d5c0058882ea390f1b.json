@@ -1,0 +1,46 @@
+{
+  "paperId": "3fc2287e19cf80bfc06a01d5c0058882ea390f1b",
+  "externalIds": {
+    "MAG": "2913024315",
+    "DOI": "10.1109/INAPR.2018.8627019",
+    "CorpusId": 59527168
+  },
+  "url": "https://www.semanticscholar.org/paper/3fc2287e19cf80bfc06a01d5c0058882ea390f1b",
+  "title": "Information System Design for Deep Learning Based Plant Counting Automation",
+  "venue": "2018 Indonesian Association for Pattern Recognition International Conference (INAPR)",
+  "year": 2018,
+  "citationCount": 30,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INAPR.2018.8627019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INAPR.2018.8627019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9455273",
+      "name": "T. W. Cenggoro"
+    },
+    {
+      "authorId": "35514304",
+      "name": "A. Budiarto"
+    },
+    {
+      "authorId": "65786676",
+      "name": "Reza Rahutomo"
+    },
+    {
+      "authorId": "2948465",
+      "name": "Bens Pardamean"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) has been known for its capability in improving farm productivity. For instance, one of the cases in PA, automated plant counting, is able to accelerate the process of plantation monitoring. Despite many previous researches have developed information system for PA, there is no system which can be used for plant counting automation. Therefore, in this paper, we introduce an information system design that is crafted for automated plant counting. We show that the system design is capable to be integrated with Deep Learning, a state-of-the-art technique in many Artificial Intelligence task.",
+  "references": null
+}

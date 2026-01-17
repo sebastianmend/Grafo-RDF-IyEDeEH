@@ -1,0 +1,66 @@
+{
+  "paperId": "65e1acb65d75a168446533523cd435855492cfc3",
+  "externalIds": {
+    "MAG": "2956706821",
+    "DOI": "10.3920/978-90-8686-888-9_103",
+    "CorpusId": 198977546
+  },
+  "url": "https://www.semanticscholar.org/paper/65e1acb65d75a168446533523cd435855492cfc3",
+  "title": "Financial and environmental performance of integrated precision farming systems",
+  "venue": "Precision Agriculture",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3920/978-90-8686-888-9_103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3920/978-90-8686-888-9_103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40225007",
+      "name": "S. M. Pedersen"
+    },
+    {
+      "authorId": "121892766",
+      "name": "M. Medici"
+    },
+    {
+      "authorId": "21757440",
+      "name": "T. Anken"
+    },
+    {
+      "authorId": "87120610",
+      "name": "G. Tohidloo"
+    },
+    {
+      "authorId": "144027109",
+      "name": "M. F. Pedersen"
+    },
+    {
+      "authorId": "39873945",
+      "name": "Giacomo Carli"
+    },
+    {
+      "authorId": "3071903",
+      "name": "Maurizio Canavari"
+    },
+    {
+      "authorId": "1841933",
+      "name": "Z. Tsiropoulos"
+    },
+    {
+      "authorId": "15315211",
+      "name": "S. Fountas"
+    }
+  ],
+  "abstract": "Smart farming technologies have a wide potential to improve agricultural performance, ranging from improved use of crop nutrients and plant protection products, increased crop quality and reduced overlaps to better production economy. In order to reduce the use of inputs and to diminish the adverse effects on the environment, more and more focus is put on site-specific application of fertilizers, pesticides and irrigation water. However, the costs of implementing these technologies are often quite high, compared to the benefits. Therefore, a comprehensive methodology approach that facilitates the understanding of investments, costs and benefits can provide an overview of the most feasible pathways for farmers to implement precision agriculture (PA) and may offer the chance to significantly enhance the level of adoption of the most suitable technologies. The objective of this study is to describe an overall integrated methodology approach to support cost-benefit analysis related to PA. A number of scenarios and their financial and environmental performance are presented either as single technologies or as a combination of different technologies. Key outputs of the analysis are net present value with selected environmental indicators such as change in fuel, pesticides and water use compared with conventional practices from other similar technologies. Findings from this study indicate that PA is mainly beneficial to large scale farms.",
+  "references": null
+}

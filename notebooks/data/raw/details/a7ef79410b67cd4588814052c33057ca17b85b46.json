@@ -1,0 +1,42 @@
+{
+  "paperId": "a7ef79410b67cd4588814052c33057ca17b85b46",
+  "externalIds": {
+    "MAG": "2952557581",
+    "DOI": "10.23919/URSIAP-RASC.2019.8738594",
+    "CorpusId": 195224230
+  },
+  "url": "https://www.semanticscholar.org/paper/a7ef79410b67cd4588814052c33057ca17b85b46",
+  "title": "Multi-satellite Global Satellite Mapping of Precipitation (GSMaP) - Design and Products -",
+  "venue": "URSI Asia-Pacific Radio Science Conference",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/URSIAP-RASC.2019.8738594?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/URSIAP-RASC.2019.8738594, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "144387777",
+      "name": "T. Ushio"
+    },
+    {
+      "authorId": "46888822",
+      "name": "T. Mega"
+    },
+    {
+      "authorId": "144637726",
+      "name": "T. Kubota"
+    }
+  ],
+  "abstract": "Estimation of the global distribution of precipitation with high accuracy and resolution has long been one of the major scientific goals. Precipitation map on a global basis is important for modeling of the water cycle, maintaining the ecosystem environment, agricultural production, improvements of weather forecast precision, flood warning, and so on. GSMaP (Global Satellite Mapping of Precipitation) is a project aiming (1) to produce high-precision and high-resolution global precipitation map using satellite-borne microwave radiometer data, (2) to develop reliable microwave radiometer algorithms, and (3) to establish precipitation map techniques using multi-satellite data for GPM.",
+  "references": null
+}

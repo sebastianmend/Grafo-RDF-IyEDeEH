@@ -1,0 +1,61 @@
+{
+  "paperId": "28331cbfbf0017d2ea444505bc27161a4b3b687b",
+  "externalIds": {
+    "MAG": "2898517016",
+    "DOI": "10.20546/IJCMAS.2018.710.389",
+    "CorpusId": 125919638
+  },
+  "url": "https://www.semanticscholar.org/paper/28331cbfbf0017d2ea444505bc27161a4b3b687b",
+  "title": "Impact of Robust Estimators on Variance Estimation in Survey Sampling, Using Conventional and Non-Conventional Parameters as Auxiliary Information",
+  "venue": "International Journal of Current Microbiology and Applied Sciences",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.20546/ijcmas.2018.710.389",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20546/IJCMAS.2018.710.389?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20546/IJCMAS.2018.710.389, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104043381",
+      "name": "M. Bhat"
+    },
+    {
+      "authorId": "34910903",
+      "name": "T. Raja"
+    },
+    {
+      "authorId": "2395065783",
+      "name": "S. Maqbool"
+    }
+  ],
+  "abstract": "Variance estimation has great scope in the fields like medical sciences, Agricultural and Horticultural sciences, Biological sciences and Industries etc. In the field of medical sciences, a physician needs to have the knowledge about the levels of variations like pulse rate, body temperature and blood pressure to prescribe the suitable treatment. Similarly an agriculturalist needs the knowledge about the levels of variations like soil fertility variation, genetic variations and climatic variations to plant the crop. Thus variations are present everywhere in our day to day life. In order to obtain the precise and valid estimates, we have proposed new estimators for the estimation of finite population variance. Various authors have generalized many estimators such as Isaki (1983), who introduced the ratio and regression estimator, Kadilar and Cingi (2006a), who searched the estimators by utilizing the coefficient of skewkness as supplementary information to enhance the efficiency of estimator. Upadhya and Singh (1999) incorporated the coefficient of kurtosis as auxiliary information to improve the efficiency of estimators over existing estimators. Similarly Bhat et al., (2018) have used linear combination of skewness and quartiles as auxiliary information to obtain the precision of estimators. Sarginder Singh (2003), Advance Sampling theory with Applications (2003), page (1135-1136). International Journal of Current Microbiology and Applied Sciences ISSN: 2319-7706 Volume 7 Number 10 (2018) Journal homepage: http://www.ijcmas.com",
+  "references": [
+    {
+      "paperId": "ac13d8443e34a5083da666a52ac4b2f2518d86b2"
+    },
+    {
+      "paperId": "6c973bad7d5482cd64e7c47f4a79950ac67d28f4"
+    },
+    {
+      "paperId": "2c2c1ac59642a7f81e3275ed99df0d7ed162ad25"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

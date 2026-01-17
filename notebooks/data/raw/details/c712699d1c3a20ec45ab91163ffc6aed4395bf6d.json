@@ -1,0 +1,52 @@
+{
+  "paperId": "c712699d1c3a20ec45ab91163ffc6aed4395bf6d",
+  "externalIds": {
+    "MAG": "2922188602",
+    "DOI": "10.1109/HNICEM.2018.8666382",
+    "CorpusId": 77374850
+  },
+  "url": "https://www.semanticscholar.org/paper/c712699d1c3a20ec45ab91163ffc6aed4395bf6d",
+  "title": "A Smart Aeroponic Tailored for IoT Vertical Agriculture using Network Connected Modular Environmental Chambers",
+  "venue": "International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management",
+  "year": 2018,
+  "citationCount": 22,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/HNICEM.2018.8666382?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/HNICEM.2018.8666382, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "84047991",
+      "name": "F. Belista"
+    },
+    {
+      "authorId": "49103807",
+      "name": "M. Go"
+    },
+    {
+      "authorId": "82380242",
+      "name": "Loraine L. Luceñara"
+    },
+    {
+      "authorId": "82720174",
+      "name": "Charles Jedidiah G. Policarpio"
+    },
+    {
+      "authorId": "143779554",
+      "name": "Xedret Jan M. Tan"
+    },
+    {
+      "authorId": "3392957",
+      "name": "R. Baldovino"
+    }
+  ],
+  "abstract": "Precision farming, vertical farming, and Internet of things (IoT) are among the modern day agricultural advances that aims to help farmers across the globe. These measures are paramount to ensure that the supply of food and agricultural products can withstand the increasing amount of demand from the increasing population. As computers continue to improve, the advent of applying the powers of the IoT in farming is within grasp. The research revolves around the framework and design of an internet enabled modular farming system that addresses the need for people to tend heavily on their growing crops. A network controls different components and continuously gathers data while transceiving with users. The setup, ideally situated in non-agricultural lands such as residential and commercial areas enable the person in charge to accomplish other tasks and leave the system to tend to the crops. The system will control factors such as temperature, light, relative humidity, and nutrient concentration in the water for the crops to grow under ideal conditions. The group believes that this will bring the farming into a new level, allowing every consumer to have their own vertical farming set-up in their own households without worrying about it thus eliminating their need to rely on food manufacturers. In addition, growing edible plants in Metro Manila would make them more easily accessible and can be served fresh to consumers, more frequently, without the added cost of transportation and various chemicals.",
+  "references": null
+}

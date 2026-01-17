@@ -1,0 +1,39 @@
+{
+  "paperId": "b5c907fb4af8125065fb56b166507ae813912b47",
+  "externalIds": {
+    "DBLP": "conf/isda/VaddiM18",
+    "MAG": "2937707715",
+    "DOI": "10.1007/978-3-030-16660-1_84",
+    "CorpusId": 146027739
+  },
+  "url": "https://www.semanticscholar.org/paper/b5c907fb4af8125065fb56b166507ae813912b47",
+  "title": "Probabilistic PCA Based Hyper Spectral Image Classification for Remote Sensing Applications",
+  "venue": "International Conference on Intelligent Systems Design and Applications",
+  "year": 2018,
+  "citationCount": 24,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-16660-1_84?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-16660-1_84, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3363232",
+      "name": "R. Vaddi"
+    },
+    {
+      "authorId": "145815213",
+      "name": "P. Manoharan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,49 @@
+{
+  "paperId": "c6b513d722e400bcb59b03f125a72be8c4fde6f2",
+  "externalIds": {
+    "MAG": "2969031271",
+    "DBLP": "conf/sbsi/SchultePPT19",
+    "DOI": "10.1145/3330204.3330222",
+    "CorpusId": 199550876
+  },
+  "url": "https://www.semanticscholar.org/paper/c6b513d722e400bcb59b03f125a72be8c4fde6f2",
+  "title": "Decision Support System for Precision Livestock: Machine Learning-Based Prediction Module for Stocking Rate Adjustment",
+  "venue": "Brazilian Symposium on Information Systems",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3330204.3330222?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3330204.3330222, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "134333133",
+      "name": "L. Schulte"
+    },
+    {
+      "authorId": "2059709813",
+      "name": "N. Perez"
+    },
+    {
+      "authorId": "2058462750",
+      "name": "Leonardo Bidese de Pinho"
+    },
+    {
+      "authorId": "38491032",
+      "name": "G. Trentin"
+    }
+  ],
+  "abstract": "The increasing worldwide demand for resources such as water and food brings the need for the application of scientific methods in agriculture and livestock to increase their productivity. One way to increase the efficiency of productive systems that make extensive beef cattle breeding is by adjusting the pasture stocking rate to optimize the animal weight gain per hectare. The present work describes a module for Farm Management Information System (FMIS) based on Long Short-Term Memory (LSTM) neural networks to estimate forage mass by means of historical pasture growth data collected through the direct method associated with meteorological data. The proposed method is based on exploratory and experimental interdisciplinary research, with systematic bibliographic research and study case. The results show that LSTM neural networks are able to make a reasonable estimate for the dry mass variation over time. Using this estimate, one can obtain a gain/hectare/year of 121 kg of live weight against 70 kg where there is no adjustment of animal load and 98 kg where this adjustment is made based on the estimate of the previous month.",
+  "references": null
+}

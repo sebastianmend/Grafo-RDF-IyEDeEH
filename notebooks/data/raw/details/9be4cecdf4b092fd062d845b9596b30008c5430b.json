@@ -1,0 +1,55 @@
+{
+  "paperId": "9be4cecdf4b092fd062d845b9596b30008c5430b",
+  "externalIds": {
+    "MAG": "2989120022",
+    "DBLP": "conf/igarss/WyniawskyjNPPWW19",
+    "DOI": "10.1109/IGARSS.2019.8898996",
+    "CorpusId": 208034475
+  },
+  "url": "https://www.semanticscholar.org/paper/9be4cecdf4b092fd062d845b9596b30008c5430b",
+  "title": "KORE Application: Potatoes Yield Assessment",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8898996?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8898996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1411516918",
+      "name": "Nina Sofia Wyniawskyj"
+    },
+    {
+      "authorId": "49564847",
+      "name": "M. Napiorkowska"
+    },
+    {
+      "authorId": "1411490119",
+      "name": "D. Petit"
+    },
+    {
+      "authorId": "1410220076",
+      "name": "Pritimoy Podder"
+    },
+    {
+      "authorId": "2109356972",
+      "name": "Jim Wilson"
+    },
+    {
+      "authorId": "1411978882",
+      "name": "Doug Woods"
+    }
+  ],
+  "abstract": "KORE is a cloud-based precision agriculture platform, based on subscriptions, that combines satellites, drones and ground sensor data. This paper focuses on one of its applications: yield assessment in potato fields using UAV data and deep learning.",
+  "references": null
+}

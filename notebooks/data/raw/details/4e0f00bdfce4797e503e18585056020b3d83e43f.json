@@ -1,0 +1,83 @@
+{
+  "paperId": "4e0f00bdfce4797e503e18585056020b3d83e43f",
+  "externalIds": {
+    "MAG": "2973948281",
+    "DOI": "10.1109/RADAR.2019.8835653",
+    "CorpusId": 202687508
+  },
+  "url": "https://www.semanticscholar.org/paper/4e0f00bdfce4797e503e18585056020b3d83e43f",
+  "title": "A Drone-borne Multiband DInSAR: Results and Applications",
+  "venue": "International Radar Conference",
+  "year": 2019,
+  "citationCount": 41,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RADAR.2019.8835653?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RADAR.2019.8835653, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1410899997",
+      "name": "Laila F. Moreira"
+    },
+    {
+      "authorId": "1410408847",
+      "name": "Felicio Castro"
+    },
+    {
+      "authorId": "1411258090",
+      "name": "J. A. Góes"
+    },
+    {
+      "authorId": "30900045",
+      "name": "L. Bins"
+    },
+    {
+      "authorId": "1518613446",
+      "name": "Bárbara Teruel"
+    },
+    {
+      "authorId": "83219823",
+      "name": "J. Fracarolli"
+    },
+    {
+      "authorId": "104273951",
+      "name": "Valquíria Castro"
+    },
+    {
+      "authorId": "1518623365",
+      "name": "Marlon S. Alcântara"
+    },
+    {
+      "authorId": "81869522",
+      "name": "G. Oré"
+    },
+    {
+      "authorId": "2217362",
+      "name": "D. Luebeck"
+    },
+    {
+      "authorId": "2116690615",
+      "name": "Luciano P. Oliveira"
+    },
+    {
+      "authorId": "47408504",
+      "name": "L. Gabrielli"
+    },
+    {
+      "authorId": "1389729110",
+      "name": "H. Hernández-Figueroa"
+    }
+  ],
+  "abstract": "Synthetic Aperture Radar (SAR) has become a powerful remote sensing tool during the last 25 years. Most relevant products are three dimensional and projected on a cartographic system: topographic, thematic and change-detection maps. Starting with the requirements of precision agriculture, subsurface tomography, subsidence and cartography a low weight drone-borne SAR was designed. It operates in P, L and C-bands with cross-track (InSAR) and differential Interferometry (DInSAR). The requirements of the foreseen applications, concept, design, results and validation from regular surveys and ground truths are presented.",
+  "references": null
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "c41b3e9f57988ed246f346b2cd3f0d49ad1a24f7",
+  "externalIds": {
+    "MAG": "2992116340",
+    "DBLP": "conf/idaacs/RomanovGAKHV19",
+    "DOI": "10.1109/IDAACS.2019.8924267",
+    "CorpusId": 208883269
+  },
+  "url": "https://www.semanticscholar.org/paper/c41b3e9f57988ed246f346b2cd3f0d49ad1a24f7",
+  "title": "Application of Wireless Sensor Networks for Digital Agriculture",
+  "venue": "International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IDAACS.2019.8924267?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IDAACS.2019.8924267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145795861",
+      "name": "V. Romanov"
+    },
+    {
+      "authorId": "9219761",
+      "name": "I. Galelyuka"
+    },
+    {
+      "authorId": "114299526",
+      "name": "H. Antonova"
+    },
+    {
+      "authorId": "2356528",
+      "name": "O. Kovyrova"
+    },
+    {
+      "authorId": "2572732",
+      "name": "V. Hrusha"
+    },
+    {
+      "authorId": "2389567",
+      "name": "Olexander Voronenko"
+    }
+  ],
+  "abstract": "Modern precision and digital agriculture for efficiency increasing requires development and implementation of new information and communication technologies, including wireless ones. The authors developed wireless sensor network (WSN) for express-diagnostics of agricultural plants' state, created the appropriate hardware, software and methodological support. The developed network now is implemented and under field tests both in open agricultural lands and in smart greenhouses. The main contribution of this paper is the design and fast-prototyping of WSN, taking into account the requirements of application task concerning field usage, long time of autonomous operation and measuring environmental parameters. That caused modeling of developed network to estimate its parameters before practical realization.",
+  "references": null
+}

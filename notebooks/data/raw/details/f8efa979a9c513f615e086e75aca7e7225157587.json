@@ -1,0 +1,434 @@
+{
+  "paperId": "f8efa979a9c513f615e086e75aca7e7225157587",
+  "externalIds": {
+    "DBLP": "journals/access/KhanKYKA18",
+    "MAG": "2793272303",
+    "DOI": "10.1109/ACCESS.2018.2812999",
+    "CorpusId": 4624178
+  },
+  "url": "https://www.semanticscholar.org/paper/f8efa979a9c513f615e086e75aca7e7225157587",
+  "title": "Modern Trends in Hyperspectral Image Analysis: A Review",
+  "venue": "IEEE Access",
+  "year": 2018,
+  "citationCount": 665,
+  "influentialCitationCount": 10,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2018.2812999",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2018.2812999?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2018.2812999, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49678252",
+      "name": "Muhammad Jaleed Khan"
+    },
+    {
+      "authorId": "2311491199",
+      "name": "Hamid Saeed Khan"
+    },
+    {
+      "authorId": "10747984",
+      "name": "Adeel Yousaf"
+    },
+    {
+      "authorId": "1823831",
+      "name": "K. Khurshid"
+    },
+    {
+      "authorId": "46851723",
+      "name": "Asad Abbas"
+    }
+  ],
+  "abstract": "Over the past three decades, significant developments have been made in hyperspectral imaging due to which it has emerged as an effective tool in numerous civil, environmental, and military applications. Modern sensor technologies are capable of covering large surfaces of earth with exceptional spatial, spectral, and temporal resolutions. Due to these features, hyperspectral imaging has been effectively used in numerous remote sensing applications requiring estimation of physical parameters of many complex surfaces and identification of visually similar materials having fine spectral signatures. In the recent years, ground based hyperspectral imaging has gained immense interest in the research on electronic imaging for food inspection, forensic science, medical surgery and diagnosis, and military applications. This review focuses on the fundamentals of hyperspectral image analysis and its modern applications such as food quality and safety assessment, medical diagnosis and image guided surgery, forensic document examination, defense and homeland security, remote sensing applications such as precision agriculture and water resource management and material identification and mapping of artworks. Moreover, recent research on the use of hyperspectral imaging for examination of forgery detection in questioned documents, aided by deep learning, is also presented. This review can be a useful baseline for future research in hyperspectral image analysis.",
+  "references": [
+    {
+      "paperId": "92eed3fdc1560dce4f10e7f28cdc8569875eecda"
+    },
+    {
+      "paperId": "f549c21b875fc8134b1943e9a9e4c30ce067671b"
+    },
+    {
+      "paperId": "4112d196186364d8a82ba21018ccb5c58a92956c"
+    },
+    {
+      "paperId": "cf6d4af4e72fc0d827511b1e621d15dc1feeb390"
+    },
+    {
+      "paperId": "dc8c17e61b804da0d7987f0e394adb4c78a76fb0"
+    },
+    {
+      "paperId": "902e76dfa8a36355eb27dec795fa66700527a8d9"
+    },
+    {
+      "paperId": "b9b2dc577cb8f469667b344577f53bcd932c4312"
+    },
+    {
+      "paperId": "b16408a97170785fb216c9e8b7920d64f478fbc8"
+    },
+    {
+      "paperId": "56fc74ec4a9f7a21041b1768e88e7112c79a42ab"
+    },
+    {
+      "paperId": "2e4e6110b4d5ede7cab7ae7aef0df372e058831d"
+    },
+    {
+      "paperId": "ad40161573c074c507c44bcb8995955e5f4c9615"
+    },
+    {
+      "paperId": "fe02fa58fb29760322fff862f70e7c61cce235c6"
+    },
+    {
+      "paperId": "1be0689036b227e777ade9092c88cfc07aad373d"
+    },
+    {
+      "paperId": "32d8f12f01a4ec256c5a6d63e4e9b22b284e0a8a"
+    },
+    {
+      "paperId": "b39270bca2fd606c314e5f68e0abba59e6768389"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "fa85822c6b6c9596236ea21c68de32dd6efa6d86"
+    },
+    {
+      "paperId": "6df78554ce36056bcdca4012768bdd877855a1f3"
+    },
+    {
+      "paperId": "a4ba954ccdc8db55686a54df1081bef9b1e27f62"
+    },
+    {
+      "paperId": "ec4da3dfe7cd9339a48530294cb0d4bba8e1b246"
+    },
+    {
+      "paperId": "3e75e4fe4ee9c33bbccd54ac17fb855a62674e8c"
+    },
+    {
+      "paperId": "9521601ccb043f01ad7b9322559fd67054106d7e"
+    },
+    {
+      "paperId": "1da1abd55f12d3cf015a43dd2cf7cca5b85fb8a8"
+    },
+    {
+      "paperId": "115b6e58c807daeb366778d682a5fe015c3d34f8"
+    },
+    {
+      "paperId": "a083b63755183424c9841ba3d5c336caf2ad4569"
+    },
+    {
+      "paperId": "1e25b7bbe99ca2a5e890852d09146a6791e01fb5"
+    },
+    {
+      "paperId": "b9d9e08983feef3b218cfbbd3b98ae6cb8006f26"
+    },
+    {
+      "paperId": "adba73eb6c6134b77993cebe2922fa88062838eb"
+    },
+    {
+      "paperId": "3e694397f245413b57cc5efdf8340ee9b566e7d7"
+    },
+    {
+      "paperId": "bc64e73a69c0e94794d4c5a6c7348cfa79d1e573"
+    },
+    {
+      "paperId": "42041ddc2f0a36b0551fb3aefbc1793b55851518"
+    },
+    {
+      "paperId": "711f98443caf86f7f1eb8b8d3e9f2a19d5a57111"
+    },
+    {
+      "paperId": "8b644f9aaa331d8eb833659604d3893225d23e48"
+    },
+    {
+      "paperId": "903314e13c442f91179bfb07ca4aac5c5a78a022"
+    },
+    {
+      "paperId": "ae0a4c0138c993a76abbe62db3459126fe0691fe"
+    },
+    {
+      "paperId": "3bcf38cd9a19e8e42f1758f2cafc1d2f55cd8b21"
+    },
+    {
+      "paperId": "2d743ab0a7d199a4f4431cb2a5edcebe7669bd97"
+    },
+    {
+      "paperId": "d60f337025f67823b3549f4cf6e02048885d0761"
+    },
+    {
+      "paperId": "449f5248534e81fecd50c82a1b16d45dd9b46c4c"
+    },
+    {
+      "paperId": "7f59cd4028094c8f3518b3e1ffd0d87c7f25ab35"
+    },
+    {
+      "paperId": "1f316c415d93a7552c1a1eb7e83e6a7f5f0fa01e"
+    },
+    {
+      "paperId": "489915ce3e1772a7bd9c703756d7298b6e43b1de"
+    },
+    {
+      "paperId": "a541308793d5a4a29e540815c9b0fb39432a80f4"
+    },
+    {
+      "paperId": "3650953f2e063acea2f3903685b5835c0a4d2826"
+    },
+    {
+      "paperId": "4737da80ea4b27fdaebaf01b5ac1c418f68ccf36"
+    },
+    {
+      "paperId": "4522653738f125f6ace1006d872aed61cb2f6c6a"
+    },
+    {
+      "paperId": "cf9a6ec44bce94616a41b684cf808b2d276997a3"
+    },
+    {
+      "paperId": "ae7729563001dbb33acb8a5d3a08ad455c6f43ab"
+    },
+    {
+      "paperId": "edb11a439124103920577f2ff779dd7e8ddfea47"
+    },
+    {
+      "paperId": "69174d35264224f09df62c56afe3f98baacbf3c7"
+    },
+    {
+      "paperId": "fff38f1ae18becc7b6dd4565eac6c18525252503"
+    },
+    {
+      "paperId": "84953bb973b261a784b889abc67eafde807401c4"
+    },
+    {
+      "paperId": "01ee5029334c41e2e2d7b7ff6de0032c097296ff"
+    },
+    {
+      "paperId": "bed416d8c832736c635f6489a5973065fc113d63"
+    },
+    {
+      "paperId": "8ce444f80f6618d74280237ad21ae6cd6c2ad474"
+    },
+    {
+      "paperId": "d8f843f1c34a4c64df4e38dc1ff2e1a71ffadba1"
+    },
+    {
+      "paperId": "55ff4f38973e43f2bbbeed2acfaeeb0331cb6009"
+    },
+    {
+      "paperId": "75d0d4209bf801bbd8cc11f2a1f6de44feee3424"
+    },
+    {
+      "paperId": "fe61f49ec8d305509ff741f05c79ab62bc434ed5"
+    },
+    {
+      "paperId": "f85523d6919492c54f99e129e0dc9b368d88731d"
+    },
+    {
+      "paperId": "fea1036c2c6d04afbe76087976d21ee6b8de5209"
+    },
+    {
+      "paperId": "9e82cddfae2035854e8e5892d8cf1c0738636913"
+    },
+    {
+      "paperId": "cd4f5e47bf3f02f9b5c5969679cd98588ae05589"
+    },
+    {
+      "paperId": "fb9e2af8198b55f778eef072a5bd5cfc1870c14b"
+    },
+    {
+      "paperId": "eeed817a599796ab0bab6b946f2de9727a773016"
+    },
+    {
+      "paperId": "26492d5a908940f74ceb7805468ee9bb0cae6c19"
+    },
+    {
+      "paperId": "3ce93bb49580cc87f1d627ce6fcc3265addbe3fd"
+    },
+    {
+      "paperId": "7dbebdbe99ec3a241e429574b3b220d2a061220a"
+    },
+    {
+      "paperId": "cdcfb69613b882eda4d449e8cea36ad8960af4ca"
+    },
+    {
+      "paperId": "93a473a5512b89089b4891e1b7500f2a111b51df"
+    },
+    {
+      "paperId": "fa6253477d6b59be1dc8777e67073bd4d0913ae5"
+    },
+    {
+      "paperId": "e5512a1e48d23d40d709200b1186ce22dbbf2d09"
+    },
+    {
+      "paperId": "090e08a48bfd2dce0d2a40bca41fee0cc664aaee"
+    },
+    {
+      "paperId": "48b9254f150ec91c9363301556e384f9afc996d7"
+    },
+    {
+      "paperId": "95a97cd4d7ecd8b8a2d84577eebb5541077f46aa"
+    },
+    {
+      "paperId": "3f66247736fd563285c70f7a3c1970a839a1189d"
+    },
+    {
+      "paperId": "bbc8db586ec235a58c1bb6cba6a8ee324a5f9436"
+    },
+    {
+      "paperId": "d0f8ae354e09542a13c62a7b4832fe878908229d"
+    },
+    {
+      "paperId": "edb7816e7fe7c3be305e5c356828d9714eff0054"
+    },
+    {
+      "paperId": "266e10f641b8114296873f169b258ea1329a240d"
+    },
+    {
+      "paperId": "3c6a46531e4e3d48e11bb86a79bbf3da1266abbf"
+    },
+    {
+      "paperId": "d5cb685cf161b28402bc98d1373d9de3bb081506"
+    },
+    {
+      "paperId": "77ff6013b1e2d8ac36ec029b76fce218ac11d280"
+    },
+    {
+      "paperId": "1165634f0f942a95a4797da78b68443070b1b67a"
+    },
+    {
+      "paperId": "528f424cbcbf666426fd3b1f668e22aea639338c"
+    },
+    {
+      "paperId": "f8293530b47f4284c7e16fe955aa5a4d4136bebc"
+    },
+    {
+      "paperId": "70181156274fa82e02713b2f100410b1af0b19f2"
+    },
+    {
+      "paperId": "efef79f565491ece16bdb0cad18438820c1558c4"
+    },
+    {
+      "paperId": "0e3a92dcd5db38bae337b61714410f2a87d13446"
+    },
+    {
+      "paperId": "dd8951a426d367cb0cebb9430b9ff73be670a0d7"
+    },
+    {
+      "paperId": "64eb2af669f5efaefe1c189bb74e297b99212171"
+    },
+    {
+      "paperId": "b3294caab024e6ce3c3504617b2848e0fde9404f"
+    },
+    {
+      "paperId": "1a75a9fe434a641b5c7199945c0875fda7454439"
+    },
+    {
+      "paperId": "43abfbb61fbc35a89a676760aab135371b70703a"
+    },
+    {
+      "paperId": "f9acdaafa31a142e898e3b1815fa423557c193d7"
+    },
+    {
+      "paperId": "307b200ac1e0a59daf564cb578449bf396ab6072"
+    },
+    {
+      "paperId": "b2364d1ba5eb90c562a2b98102c423c230abf801"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "25491ca2c7cb391aa4be68f136fcdef6d2d5dbd1"
+    },
+    {
+      "paperId": "07c8ceba6edf6121944cabe7dba2e9bdb11df36e"
+    },
+    {
+      "paperId": "7ff1d5ddf8faec3e0a053c20c62e17780bcca8c6"
+    },
+    {
+      "paperId": "8e730825cd681f4bb6cd8ea973fd4eb39c0602d1"
+    },
+    {
+      "paperId": "634a455091544378030f07496ab210c13a605fd1"
+    },
+    {
+      "paperId": "fd54f5e4371614cc43c2c3afef3e73eebbf6e983"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3d684de22409b16377420a83b6e4e1f965686d3f"
+    },
+    {
+      "paperId": "a1f07981635bf8725ab27b018a47d0d237fbf811"
+    },
+    {
+      "paperId": "4077f9a6aaf4bd1344cec90473f9dadcd5359550"
+    },
+    {
+      "paperId": "12a7fd138f65b17fbb5c677a76c617ff0225198f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c2faf3fda14ab2c601f072c4168ef8749325beeb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "25d7a9e0c94504f6169c42f01809a78ed166fb8a"
+    },
+    {
+      "paperId": "b4b0c7114e9b452296a5e28b6947aea3a3d34f0c"
+    },
+    {
+      "paperId": "3837774d393f12f37d928949c707fe32871a1093"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "26ffa240d824f1503f3afafdc14e4a1711449138"
+    },
+    {
+      "paperId": "b0104d9fa100a5e6c8a42e49e7a452d8904fc85e"
+    },
+    {
+      "paperId": "e2eed8f0fe2ec25823f83bcc7f634828eac630ee"
+    },
+    {
+      "paperId": "fb75fc219394c85537ed038e0cf66a59ff8c40a7"
+    },
+    {
+      "paperId": "41d3bca9e168759799ab36bfcb04153dd095dca7"
+    },
+    {
+      "paperId": "7756391f1baee5f2badebbfd5c2e025066c1d00a"
+    },
+    {
+      "paperId": "62115af9e3380aba96e15fbe1e789aa9a63fbdf2"
+    },
+    {
+      "paperId": "a2f9c78b094ccd50cbb175193d2993735d39c6a6"
+    },
+    {
+      "paperId": "b50340908a1bc6b95db0716a39a9caa4d032955b"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

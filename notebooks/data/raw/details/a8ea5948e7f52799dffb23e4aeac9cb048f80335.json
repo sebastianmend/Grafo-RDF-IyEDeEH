@@ -1,0 +1,56 @@
+{
+  "paperId": "a8ea5948e7f52799dffb23e4aeac9cb048f80335",
+  "externalIds": {
+    "DBLP": "journals/staeors/WuLDSXZ19",
+    "MAG": "2923053165",
+    "DOI": "10.1109/JSTARS.2019.2902375",
+    "CorpusId": 115204772
+  },
+  "url": "https://www.semanticscholar.org/paper/a8ea5948e7f52799dffb23e4aeac9cb048f80335",
+  "title": "Geo-Object-Based Soil Organic Matter Mapping Using Machine Learning Algorithms With Multi-Source Geo-Spatial Data",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2019,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2019.2902375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2019.2902375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3106487",
+      "name": "Tianjun Wu"
+    },
+    {
+      "authorId": "1762091",
+      "name": "Jiancheng Luo"
+    },
+    {
+      "authorId": "143701631",
+      "name": "Wen Dong"
+    },
+    {
+      "authorId": "46676395",
+      "name": "Yingwei Sun"
+    },
+    {
+      "authorId": "2639069",
+      "name": "Liegang Xia"
+    },
+    {
+      "authorId": "2108133719",
+      "name": "Xuejian Zhang"
+    }
+  ],
+  "abstract": "Soil is a complicated historical natural continuum that presents gradual changes in its properties and geographic area. Conventional soil survey and cartography methods on a macroscopic scale based on grids with a coarse resolution are inadequate for the rapid development of precision agriculture. The demand for soil mapping content and accuracy has increased as more convenient methods of acquiring multi-source geo-spatial data have been developed, and such data are commonly employed to extract basic mapping units and environmental variables in related algorithms. We employ geo-objects as basic units of soil property mapping, which are extracted from high-resolution remote sensing images using a convolutional neural network based learning algorithm. Multi-source geo-spatial data are transferred into each geo-object as environmental variables, and the relationships between soil properties and environmental variables are mined using powerful tree-based machine learning algorithms, including regressions with random forests and XGBoost. A data set that includes soil sample points and multi-source geo-spatial data is used to evaluate the effectiveness of the proposed method. The experimental results demonstrate that the method allows for better soil organic matter mapping than state-of-the-art interpolation-based and linear-regression-based methods. The proposed procedure has potential to be a general method for mapping other soil properties. Its advantages are embodied in the modeling of relatively miscellaneous data with implicitly associated non-linear relationships between soil properties and environmental variables. The spatial scale and accuracy of the finer maps capture more detailed characteristics of the soil properties and are applicable to the micro-domain fields required for refined soil mapping with small variations.",
+  "references": null
+}

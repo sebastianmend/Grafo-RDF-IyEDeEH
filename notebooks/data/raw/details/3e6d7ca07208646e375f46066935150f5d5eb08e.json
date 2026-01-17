@@ -1,0 +1,60 @@
+{
+  "paperId": "3e6d7ca07208646e375f46066935150f5d5eb08e",
+  "externalIds": {
+    "MAG": "2932904948",
+    "DBLP": "conf/iotdi/YangP0ZGHM19",
+    "DOI": "10.1145/3302505.3310065",
+    "CorpusId": 85519336
+  },
+  "url": "https://www.semanticscholar.org/paper/3e6d7ca07208646e375f46066935150f5d5eb08e",
+  "title": "On the feasibility of estimating soluble sugar content using millimeter-wave",
+  "venue": "International Conference on Internet-of-Things Design and Implementation",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3302505.3310065",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3302505.3310065?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3302505.3310065, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2373742406",
+      "name": "Zhicheng Yang"
+    },
+    {
+      "authorId": "2304251",
+      "name": "Parth H. Pathak"
+    },
+    {
+      "authorId": "144046717",
+      "name": "M. Sha"
+    },
+    {
+      "authorId": "2241683843",
+      "name": "Tingting Zhu"
+    },
+    {
+      "authorId": "13655785",
+      "name": "Junai Gan"
+    },
+    {
+      "authorId": "50466696",
+      "name": "Pengfei Hu"
+    },
+    {
+      "authorId": "144752813",
+      "name": "P. Mohapatra"
+    }
+  ],
+  "abstract": "With the development of novel sensing techniques, continuous monitoring, data-driven inferences, precision irrigation control, and intelligent Internet-of-Things (IoT) systems, agriculture sector is witnessing a revolution. Specialized devices based on infrared and laser are developed to assist farmers in assessing the produce quality, especially its sugar content. However, such devices are expensive and not readily available to consumers. In this paper, we investigate the feasibility of using 60 GHz millimeter-wave (mmWave) signal as a ubiquitous and non-invasive way to estimate the Soluble Sugar Content (SSC) in fruits. With the rapid development in the mmWave technology, 60 GHz WiFi is likely to become pervasive in future mobile devices. Our study shows that when 60 GHz WiFi signals reflect from a fruit, the reflection can be used to infer the fruit's sugar content. We identify the underlying reasons of variations in reflection signals with varying SSC and study the impact of size, shape and density of fruits on reflections. We then develop statistical features based on received signal strength and amplitude, and use them to design regression-based estimation models. With an extensive evaluation with 300 fruit samples, we find that our proposed technique can estimate SSC in three different type of fruits with an average correlation coefficient of 85%. Our prediction errors are within the range of user's taste perception.",
+  "references": null
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "fc9fc5903a8f4d73f426fead19b70caa32c88fd4",
+  "externalIds": {
+    "MAG": "2779622268",
+    "DBLP": "journals/tase/SulistyoWWDG18",
+    "DOI": "10.1109/TASE.2017.2770170",
+    "CorpusId": 49557461
+  },
+  "url": "https://www.semanticscholar.org/paper/fc9fc5903a8f4d73f426fead19b70caa32c88fd4",
+  "title": "Computational Deep Intelligence Vision Sensing for Nutrient Content Estimation in Agricultural Automation",
+  "venue": "IEEE Transactions on Automation Science and Engineering",
+  "year": 2018,
+  "citationCount": 50,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2017.2770170?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2017.2770170, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "8766989",
+      "name": "S. B. Sulistyo"
+    },
+    {
+      "authorId": "2118290611",
+      "name": "Di Wu"
+    },
+    {
+      "authorId": "1809986",
+      "name": "W. L. Woo"
+    },
+    {
+      "authorId": "34614805",
+      "name": "S. Dlay"
+    },
+    {
+      "authorId": "143701487",
+      "name": "Bin Gao"
+    }
+  ],
+  "abstract": "This paper presents a novel computational intelligence vision sensing approach to estimate nutrient content in wheat leaves by analyzing color features of the leaves images captured on field with various lighting conditions. We propose the development of deep sparse extreme learning machines (DSELM) fusion and genetic algorithm (GA) to normalize plant images as well as to reduce color variability due to a variation of sunlight intensities. We also apply the DSELM in image segmentation to differentiate wheat leaves from a complex background. In this paper, four moments of color distribution of the leaves images (mean, variance, skewness, and kurtosis) are extracted and utilized as predictors in the nutrient estimation. We combine a number of DSELMs with committee machine and optimize them using the GA to estimate nitrogen content in wheat leaves. The results have shown the superiority of the proposed method in the term of quality and processing speed in all steps, i.e., color normalization, image segmentation, and nutrient prediction, as compared with other existing methods. Note to Practitioners—In order to support precision farming technology and agricultural automation, it is very essential to estimate the nutrient content in plants to prevent over fertilizing that will harm environment. Furthermore, the existing method to determine nutrient content in leaves is destructive as well as time consuming and requires special expertise to operate expensive devices. A number of methods have been developed to estimate nutrient content in leaves nondestructively based on the color features of the leaves. Most of these methods, however, are conducted in a controlled environment with artificial lighting. Such methods are not practical and need various equipment. We propose a low-cost, simple, and accurate technique to estimate nitrogen content in wheat leaves by analyzing RGB color of the leaves images. In this paper, we found that the developed DSELMs fusion has enabled better performance in normalizing images and is faster than other neural network types, i.e., backpropagation-based multilayer perceptron and original extreme learning machine. In image segmentation step, the established DSELM shows good performance to recognize and distinguish wheat leaves from other undesired background images. Furthermore, the developed weighted DSELMs have demonstrated enhanced ability in estimating nutrient content.",
+  "references": null
+}

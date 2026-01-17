@@ -1,0 +1,86 @@
+{
+  "paperId": "b95b8e470a688395f51abf2e2d193f9ade215fcb",
+  "externalIds": {
+    "MAG": "2985111826",
+    "DOI": "10.1088/1742-6596/1367/1/012024",
+    "CorpusId": 209063901
+  },
+  "url": "https://www.semanticscholar.org/paper/b95b8e470a688395f51abf2e2d193f9ade215fcb",
+  "title": "Spatial data gathering architecture for precision farming using web services",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1367/1/012024",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1367/1/012024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1367/1/012024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2080937015",
+      "name": "C. Fibriani"
+    },
+    {
+      "authorId": "145205567",
+      "name": "A. Ashari"
+    },
+    {
+      "authorId": "9353229",
+      "name": "M. Riasetiawan"
+    }
+  ],
+  "abstract": "Precision Farming (PF) is an agricultural business with an approach that enables careful treatment using several technologies to support it. The concept of PF can be used in all aspects of the crop production cycle from soil testing to harvesting. Soil Testing is a phase to test the conditions of the suitability of the soil to certain varieties. The land suitability variables used are soil type, slope, and altitude. However, the data was stored on other sources with different platforms and web service is the answer to this issue. This paper will approach the Soil Testing phase using the type of spatial data that can be used as a variable in determining land suitability for particular vegetation, which is using web service technology to collect the data. Using the overlay method combine the spatial, that is collected using Geographic Information System (GIS) web services, to produce a land suitable map for soil testing phrase. Land mapping can be used for decision-making processes related to the vegetation suitability. Spatial data gathering architecture for precision farming using web services, in this case, which is soil testing phrase, is the result of this paper.",
+  "references": [
+    {
+      "paperId": "0329771cd8dcf3de5a4ca7a972681367b24a300d"
+    },
+    {
+      "paperId": "80b9e8002bd4ca9ee86f12498d8c2daf531fdb76"
+    },
+    {
+      "paperId": "18765e940754a16db3cc050593df97998076a1eb"
+    },
+    {
+      "paperId": "832bed2546deef1485ff09c093528896ecb112a9"
+    },
+    {
+      "paperId": "92270ea645ef44102f428d1c30ce023e51363310"
+    },
+    {
+      "paperId": "ad2d11eee3e85aa057ba295d6b9160ff35a2eb6e"
+    },
+    {
+      "paperId": "6ac99704da5574dbc586dc8d5ba9636c9a763726"
+    },
+    {
+      "paperId": "0acbed6e1702aea6c342905e6296b93493e44859"
+    },
+    {
+      "paperId": "6b9a28920688b3075f1bcd690faaf661de2ec860"
+    },
+    {
+      "paperId": "17999e8007e58b6703310b4d7812282929b164a2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ccf167b1a1463f278934c37d03351c6a5047646c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

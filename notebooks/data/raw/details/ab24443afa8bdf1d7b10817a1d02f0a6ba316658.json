@@ -1,0 +1,221 @@
+{
+  "paperId": "ab24443afa8bdf1d7b10817a1d02f0a6ba316658",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/HaoZZWJ19",
+    "MAG": "2981255258",
+    "DOI": "10.3390/rs11202390",
+    "CorpusId": 208224509
+  },
+  "url": "https://www.semanticscholar.org/paper/ab24443afa8bdf1d7b10817a1d02f0a6ba316658",
+  "title": "Detecting Winter Wheat Irrigation Signals Using SMAP Gridded Soil Moisture Data",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2390/pdf?version=1571823919",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202390?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2068656336",
+      "name": "Z. Hao"
+    },
+    {
+      "authorId": "46431139",
+      "name": "Hongli Zhao"
+    },
+    {
+      "authorId": "1731831928",
+      "name": "Chi Zhang"
+    },
+    {
+      "authorId": "2144219485",
+      "name": "Hao Wang"
+    },
+    {
+      "authorId": "1772816",
+      "name": "Yunzhong Jiang"
+    }
+  ],
+  "abstract": "The southern part of the Hebei Province is one of China’s major crop-producing regions. Due to the continuous decline in groundwater level, agricultural water use is facing significant challenges. Precision agricultural irrigation management is undoubtedly an effective way to solve this problem. Based on multisource data (time series soil moisture active passive (SMAP) data, Moderate Resolution Imaging Spectroradiometer (MODIS) normalized difference vegetation index (NDVI) and evapotranspiration (ET), and meteorological station precipitation), the irrigation signal (frequency, timing and area) is detected in the southern part of the Hebei Province. The SMAP data was processed by the 5-point moving average method to reduce the error caused by the uncertainty of the microwave data derived SM. Irrigation signals can be detected by removing the precipitation effect and setting the SM change threshold. Based on the validation results, the overall accuracy of the irrigation signal detection is 77.08%. Simultaneously, considering the spatial resolution limitation of SMAP pixels, the SMAP irrigation area was downscaled using the winter wheat area extracted from MODIS NDVI. The analytical results of 55 winter wheat samples (5 samples in a group) showed that winter wheat covered by one SMAP pixel had an 82.72% growth consistency in surface water irrigation period, which can indicate a downscaling effectiveness. According to the above statistical analysis, this paper considers that although the spatial resolution of SMAP data is insufficient, it can reflect the change of SM more sensitively. In areas where the crop pattern is relatively uniform, the introduction of high-resolution crop pattern distribution can be used not only to detect irrigation signals but also to validate the effectiveness of irrigation signal detection by analyzing crop growth consistency. Therefore, the downscaling results can indicate the true winter wheat irrigation timing, area and frequency in the study area.",
+  "references": [
+    {
+      "paperId": "66231d6e8cd5b20509574f34c6ccf0046780c34f"
+    },
+    {
+      "paperId": "e622ef2d16834afeddaead495e6cbec9f0ba87b1"
+    },
+    {
+      "paperId": "52e6d2a198e7e2c82f6ff1897fa9dbd26ae96759"
+    },
+    {
+      "paperId": "d2b6319e6b425bd2b3d28fa9dc84eef7c266e7db"
+    },
+    {
+      "paperId": "4628316f3a0bed1507155bdaf839837b760b13e6"
+    },
+    {
+      "paperId": "78a6068d121f8022ce6e8d4bb225b51a290d4460"
+    },
+    {
+      "paperId": "37b9a8a600c96bac2ebfba0af5f2d9c4ea3b4b47"
+    },
+    {
+      "paperId": "c2b396a87d28c88744127ccab68c9fcce43c9fcd"
+    },
+    {
+      "paperId": "a4104ba6a40e37b050878e7be617ad95d69ecd03"
+    },
+    {
+      "paperId": "a1d2940e2210541ebb4f42b721e73861c6706b65"
+    },
+    {
+      "paperId": "fd0b8aecbefeca3960197812a832f3a3022a15ba"
+    },
+    {
+      "paperId": "b431bdb0c46b442712d30248135d44b6a4946057"
+    },
+    {
+      "paperId": "aa6f6915138d6f6148dbb76e65b3947f16daf4c2"
+    },
+    {
+      "paperId": "319ed99540798ad4c6b1cdfad519e6c65a9da7c8"
+    },
+    {
+      "paperId": "06bfe264645ff94164f72cb948648b1c2ce962ad"
+    },
+    {
+      "paperId": "eb4b3b6c3c6193f065c5db1a144359ff26ec004d"
+    },
+    {
+      "paperId": "fb6af197ece5dc2c496a25fb7531cc9969af8c41"
+    },
+    {
+      "paperId": "8db7eeabb0009be03cb9930a1cc6f2dbe7c9b2e3"
+    },
+    {
+      "paperId": "939d76694d1245b57b22c953fcc8b03fd88ab532"
+    },
+    {
+      "paperId": "d2d581ced8bc5c542d17d532f8bc456baf03aa98"
+    },
+    {
+      "paperId": "5fc2ea2dc89c94b8dfc00cc723c20fcc618f8794"
+    },
+    {
+      "paperId": "9b113bf983b9bfeb89b83ee1be2544e3888522c3"
+    },
+    {
+      "paperId": "07113c021356ed0a020f0f54848c23ac13b75703"
+    },
+    {
+      "paperId": "d50a4acc463a71d94aff6f850973897cca2c64a0"
+    },
+    {
+      "paperId": "3cddbca6db411d9a7c796214f2670f2b6f3cdef6"
+    },
+    {
+      "paperId": "a09dd0ccdc60f336aa9c5599a2c8733fef9b3095"
+    },
+    {
+      "paperId": "f26d2908c2ea6d9d4e76cac3a244652617f23b84"
+    },
+    {
+      "paperId": "e61714989f383613160e5a3302a2f33a9a0b3e56"
+    },
+    {
+      "paperId": "5ba68fdb5e0bac04aa468b674236fc99ac06b35d"
+    },
+    {
+      "paperId": "ab387891d13a88649d186f75acbdb7a12279d067"
+    },
+    {
+      "paperId": "e025b1b578cc69c18853370d902dafbe6e434f7b"
+    },
+    {
+      "paperId": "7d19343530506dd8ae618e1a030993f3120fedad"
+    },
+    {
+      "paperId": "c77a891045324e299171f17d1e45fa2a7290caeb"
+    },
+    {
+      "paperId": "d72a53e1350c78dc6950e3fa50c5ced281a976a1"
+    },
+    {
+      "paperId": "fd09a21e04f98b66a93fc832f2b785c177e443f1"
+    },
+    {
+      "paperId": "089eea2b975ed457d5e16327bf74067f0ecb0869"
+    },
+    {
+      "paperId": "0c433875b54b54cbd5f809cc35811eb471d61eb6"
+    },
+    {
+      "paperId": "f680a7201ee063de966480afd3bc16ba6c29df6e"
+    },
+    {
+      "paperId": "3ce5248268865fec497e2aff5560ae7b312dfcb0"
+    },
+    {
+      "paperId": "36e0479b54836fe0e2a22bfe6a1f2b80748f1299"
+    },
+    {
+      "paperId": "346b4b8eafbf27b5e36c36e7eb379d5e8d1c00e9"
+    },
+    {
+      "paperId": "f457c37a14843eee57b649f269cd2337f19ff7a8"
+    },
+    {
+      "paperId": "0dd74c3b14272919fc668554fc393257e0726b91"
+    },
+    {
+      "paperId": "790c02fd771a4e9f33a310b856a8c280ad769865"
+    },
+    {
+      "paperId": "d56766779c8863cec54b15b5b570ffe57a8418dd"
+    },
+    {
+      "paperId": "0424c54ad0da4ddc5e64da9e72371e188e25c53e"
+    },
+    {
+      "paperId": "7ff479cc98e2185dd7bbe4595168632d15d4dbcb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8ba9c2e6277b1960c36192f68dd50e0041054fe8"
+    },
+    {
+      "paperId": "5482692a6362a1b469229d05a2d1ed1d618df42d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "fd2f5549a4f01f27bddf0e31a355bff2370270ea"
+    },
+    {
+      "paperId": "da0ced58b0faefad8ab20a7fa4f31b79d396f730"
+    },
+    {
+      "paperId": "7e9f41fa82b6bfc159512c94b4fc2a22789ea2e4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

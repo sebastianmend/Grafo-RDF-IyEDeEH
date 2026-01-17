@@ -1,0 +1,40 @@
+{
+  "paperId": "fc06ac60f4adf821276094c97eb8cbad8d1d9169",
+  "externalIds": {
+    "DBLP": "conf/iccais/BautistaW18",
+    "MAG": "2905131422",
+    "DOI": "10.1109/ICCAIS.2018.8570494",
+    "CorpusId": 54461793
+  },
+  "url": "https://www.semanticscholar.org/paper/fc06ac60f4adf821276094c97eb8cbad8d1d9169",
+  "title": "ATLAS Robot:A Teaching Tool for Autonomous Agricultural Mobile Robotics",
+  "venue": "International Conference on Control, Automation and Information Sciences",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCAIS.2018.8570494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCAIS.2018.8570494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52216448",
+      "name": "A. J. Bautista"
+    },
+    {
+      "authorId": "2496910",
+      "name": "S. Wane"
+    }
+  ],
+  "abstract": "Robotics is heralded as an integral part of precision farming, the application of technology to aid the solution of the burdening food shortage. However, robotics is quite intimidating to some students and a challenging subject to handle for professors, particularly as the vehicles used in agriculture can be rather large and powerful. The objective of this research is to develop an interactive teaching tool that can be used to learn the fundamentals of robotics and autonomous navigation as a springboard to the larger agricultural robots. This paper discusses the results of using a robot, named ATLAS due to its use of GPS navigation. Various behaviors that the robot can accomplish were included, such as following a wall surface, and navigating to a target waypoint or set of waypoints. Some real projects developed by students who used the ATLAS robot in their study are also presented. Furthermore, this paper can be used by different educational institutions as an alternative teaching approach in handling robotics subject.",
+  "references": null
+}

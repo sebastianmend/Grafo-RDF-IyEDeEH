@@ -1,0 +1,186 @@
+{
+  "paperId": "88f2f9813c78c3ffb5a56bb0af58818c8e9fafa0",
+  "externalIds": {
+    "PubMedCentral": "6912545",
+    "MAG": "2984662158",
+    "DOI": "10.3390/ani9110903",
+    "CorpusId": 207899350,
+    "PubMed": "31683920"
+  },
+  "url": "https://www.semanticscholar.org/paper/88f2f9813c78c3ffb5a56bb0af58818c8e9fafa0",
+  "title": "Exploring Smart Glasses for Augmented Reality: A Valuable and Integrative Tool in Precision Livestock Farming",
+  "venue": "Animals",
+  "year": 2019,
+  "citationCount": 53,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-2615/9/11/903/pdf?version=1574155851",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6912545, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47146571",
+      "name": "M. Caria"
+    },
+    {
+      "authorId": "1403198267",
+      "name": "Gabriele Sara"
+    },
+    {
+      "authorId": "32352886",
+      "name": "Giuseppe Todde"
+    },
+    {
+      "authorId": "2070241344",
+      "name": "Marco Polese"
+    },
+    {
+      "authorId": "144636904",
+      "name": "A. Pazzona"
+    }
+  ],
+  "abstract": "Simple Summary Introducing new technologies in the agricultural and livestock field does not always lead to straightforward on-farm activities. Smart glasses for augmented reality are a new technology that may assist workers in many operations, allowing them to visualize, in the glasses’ lens, diverse information related to a single subject (e.g., animal, plant, feed stock, machinery) or to receive assistance in real-time through video-calls. Using commercially available smart glasses, we explored their potential usefulness in livestock farms. The device was tested using all the functions available in different conditions, both in laboratory and open field environments. The results obtained highlighted the important contribution to assist workers in on-farm daily activities, thanks to the clear and rapid data visualization and to the good quality of audio-video streaming. Specifically, smart glasses enable real time file consulting, data collection, data sharing and remote assistance, all done while working hands-free. Abstract The growing interest in Augmented Reality (AR) systems is becoming increasingly evident in all production sectors. However, to the authors’ knowledge, a literature gap has been found with regard to the application of smart glasses for AR in the agriculture and livestock sector. In fact, this technology allows farmers to manage animal husbandry in line with precision agriculture principles. The aim of this study was to evaluate the performances of an AR head-wearable device as a valuable and integrative tool in precision livestock farming. In this study, the GlassUp F4 Smart Glasses (F4SG) for AR were explored. Laboratory and farm tests were performed to evaluate the implementation of this new technology in livestock farms. The results highlighted several advantages of F4SG applications in farm activities. The clear and fast readability of the information related to a single issue, combined with the large number of readings that SG performed, allowed F4SG adoption even in large farms. In addition, the 7 h of battery life and the good quality of audio-video features highlighted their valuable attitude in remote assistance, supporting farmers on the field. Nevertheless, other studies are required to provide more findings for future development of software applications specifically designed for agricultural purposes.",
+  "references": [
+    {
+      "paperId": "d8dcb8ad4872220969d936c9fe78b904cbff2ac7"
+    },
+    {
+      "paperId": "f50ec2406fe92b08139d878baa1d35d3082c747e"
+    },
+    {
+      "paperId": "dba5b02064d3e160133988cebd408a82dd233b25"
+    },
+    {
+      "paperId": "6f9ca6ebd7af08c925152854c44bc549ac486af3"
+    },
+    {
+      "paperId": "76f48ba3ce436c1bbaceae295c1fb689d1960c69"
+    },
+    {
+      "paperId": "5130609add453053f0dbf1d62904384cea73a753"
+    },
+    {
+      "paperId": "cd90632c8cb102e7c2872c3f7a3e72639a461e9f"
+    },
+    {
+      "paperId": "6bd8cba8187df9f21b9b2c01c24f566606dcb2a1"
+    },
+    {
+      "paperId": "5895b7d978e7d339d5a711dd3956aa2248390e39"
+    },
+    {
+      "paperId": "dd1dab636043dae7234d94bb5b1de88f5eeea7ad"
+    },
+    {
+      "paperId": "133f1561a456c27e7eb13b36f0127e0c664b0109"
+    },
+    {
+      "paperId": "1f700bd2955d172be13efc13e2a15a157d15ec86"
+    },
+    {
+      "paperId": "047428639574b1d17458e9a3509ee9b782ffe09b"
+    },
+    {
+      "paperId": "a02529d887160ad39ae40c924f9ea85f74f2a3cc"
+    },
+    {
+      "paperId": "6a95ec427185cfbed47d75f0db1f2d78095c2c3f"
+    },
+    {
+      "paperId": "c0987bddbd6671de003604b96b51311bb78a9ac5"
+    },
+    {
+      "paperId": "112fee012206a0346225b34c077fa5eb196c858c"
+    },
+    {
+      "paperId": "ffa97ea5c3d2d22a2298527d40bd7b0754571942"
+    },
+    {
+      "paperId": "ff09d04fcb0b9c8066e00551dcddaadcfcc4bc7b"
+    },
+    {
+      "paperId": "273074d75241500534b70d1c4c2b61f1a9a50b0d"
+    },
+    {
+      "paperId": "e474332d39c73a7cf94d24189bb37cfa545671f8"
+    },
+    {
+      "paperId": "ab8738fffd6d81b3ca891800b19e9d88df32415c"
+    },
+    {
+      "paperId": "e2d59d64487ec425852520dcd5d176bbb70e62ac"
+    },
+    {
+      "paperId": "0a6dc92791f9742b5f54e60bd96c70d71d6d81d0"
+    },
+    {
+      "paperId": "34eb453627e6af729f9bd25995fe9871a9b88300"
+    },
+    {
+      "paperId": "ad47eccb8c1441a598a9c56bbe20b21da55d1699"
+    },
+    {
+      "paperId": "77226ae37d8c83c9e90d8f27b5c1d7b43ddee83b"
+    },
+    {
+      "paperId": "a21a62a094883f8687c3ca8948ed6df8489a5d34"
+    },
+    {
+      "paperId": "51c69a82c0a972904ad94a97091564942d9696ba"
+    },
+    {
+      "paperId": "ac3a13203372a40f9d12ae74899ba4401d1c7e26"
+    },
+    {
+      "paperId": "71988c4bf4b7a27e415b87926794ed408887c62c"
+    },
+    {
+      "paperId": "1440121e178b37ad03347b74bc7a7679fcdd2cf0"
+    },
+    {
+      "paperId": "3dd0ceb2a5c279fe5721551fc35346a70904fdf5"
+    },
+    {
+      "paperId": "29cb055788b2b53ff2cf5db900ac4ef3a344503c"
+    },
+    {
+      "paperId": "408b6295e901e3e6d96b55a69ca6f6eda762891e"
+    },
+    {
+      "paperId": "4fdc075d1cc14d64c11c3c860e86a082b761f4a0"
+    },
+    {
+      "paperId": "f78a31be8874eda176a5244c645289be9f1d4317"
+    },
+    {
+      "paperId": "7f01690f3ff1d85b81649498c6b7e256d2fd7249"
+    },
+    {
+      "paperId": "d80be6a009c2c2b3c3416f115ace76b383ffdacb"
+    },
+    {
+      "paperId": "f2a35bbad3019f98d52ecf18f6c491028675e110"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "78fb435e8487ee76883d5090efcd29b7b9d48dda"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "paperId": "359368ec00cb7a70adc52f1137e9cbbee6d572b8",
+  "externalIds": {
+    "DOI": "10.1109/ICAIT47043.2019.8987431",
+    "CorpusId": 211119978
+  },
+  "url": "https://www.semanticscholar.org/paper/359368ec00cb7a70adc52f1137e9cbbee6d572b8",
+  "title": "Segmentation of Arecanut Bunches using YCgCr Color Model",
+  "venue": "2019 1st International Conference on Advances in Information Technology (ICAIT)",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAIT47043.2019.8987431?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAIT47043.2019.8987431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2098184097",
+      "name": "R. Dhanesha"
+    },
+    {
+      "authorId": "1492128204",
+      "name": "C. L. Shrinivasa Naika"
+    },
+    {
+      "authorId": "13886670",
+      "name": "Y. Kantharaj"
+    }
+  ],
+  "abstract": "Arecanut is profit-oriented crop of south India. In the market maturity level decides the price of Arecanut. To enhance the profitability identifying maturity level of Arecanut before harvesting is indispensable. Farmer need expertise to determine maturity level otherwise they get less profit for their crops. In recent times Computer Vision and Image Processing techniques are used in Precision Agriculture to identify the matured fruits and vegetables before harvesting. This paper proposes YCgCr color model to automatically segment the Arecanut bunch from a given image. Further, the segmented image could be used to determine Arecanut maturity level. Experiments were conducted to evaluate the efficacy of the segmentation method and found that the average Volumetric Overlap Error (VOE) is - 0.30 and Dice Similarity Coefficient (DSC) is 0.81.",
+  "references": null
+}

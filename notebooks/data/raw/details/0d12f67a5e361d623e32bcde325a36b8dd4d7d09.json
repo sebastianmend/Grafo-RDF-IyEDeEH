@@ -1,0 +1,54 @@
+{
+  "paperId": "0d12f67a5e361d623e32bcde325a36b8dd4d7d09",
+  "externalIds": {
+    "MAG": "2998084054",
+    "DOI": "10.1109/apuavd47061.2019.8943842",
+    "CorpusId": 209696195
+  },
+  "url": "https://www.semanticscholar.org/paper/0d12f67a5e361d623e32bcde325a36b8dd4d7d09",
+  "title": "Using UAV During Planned Harvesting by Unmanned Combines",
+  "venue": "2019 IEEE 5th International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD)",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/apuavd47061.2019.8943842?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/apuavd47061.2019.8943842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "30924659",
+      "name": "S. Shvorov"
+    },
+    {
+      "authorId": "50730522",
+      "name": "N. Pasichnyk"
+    },
+    {
+      "authorId": "66240777",
+      "name": "S. Kuznichenko"
+    },
+    {
+      "authorId": "2322526418",
+      "name": "I. Tolok"
+    },
+    {
+      "authorId": "2261601841",
+      "name": "Serhey Lienkov"
+    },
+    {
+      "authorId": "1474566845",
+      "name": "L. Komarova"
+    }
+  ],
+  "abstract": "The present article based on the modern tendencies of precision farming development suggests an approach and method of optimal works planning with the employment of UAV for unmanned combine harvesters in terms of harvest collection. The main difference between the developed method from the existing ones is that work planning implies each separate part of the field as a separate unit for the record instead of observing the whole field as a unit. Each separate part is observed with the determination of the scale and density of harvest and building models for the usage of unmanned agricultural machinery based on precise information from the UAV. The process of procedure and time planning for work performance is divided into two main stages: specification of density scale of expected harvest based on the usage of UAV and deciding on the plan of usage of unmanned harvesting equipment. Based on the gathered and processed data from the UAV this information is constantly being updated for a consequent harvesting plan correction. The task of harvest planning is solved by the method of dynamic programming and the criterion of maximization of the scale of gathered harvest with consideration of time and value limits of a harvesting campaign.",
+  "references": null
+}

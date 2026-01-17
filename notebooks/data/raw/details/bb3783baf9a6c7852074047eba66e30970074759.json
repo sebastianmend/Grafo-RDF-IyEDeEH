@@ -1,0 +1,47 @@
+{
+  "paperId": "bb3783baf9a6c7852074047eba66e30970074759",
+  "externalIds": {
+    "DBLP": "journals/tvt/SiNLZ19",
+    "MAG": "2982127417",
+    "DOI": "10.1109/TVT.2019.2949298",
+    "CorpusId": 208117670
+  },
+  "url": "https://www.semanticscholar.org/paper/bb3783baf9a6c7852074047eba66e30970074759",
+  "title": "High-Precision Estimation of Steering Angle of Agricultural Tractors Using GPS and Low-Accuracy MEMS",
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2019.2949298?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2019.2949298, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2327383039",
+      "name": "Jiaqian Si"
+    },
+    {
+      "authorId": "15324756",
+      "name": "Yanxiong Niu"
+    },
+    {
+      "authorId": "3019591",
+      "name": "Jiazhen Lu"
+    },
+    {
+      "authorId": "2144614818",
+      "name": "Hao Zhang"
+    }
+  ],
+  "abstract": "Precision agriculture, such as precise seeding or ploughing, is guaranteed by vehicle navigation accuracy. A steering angle plays an essential and fundamental role in the function of autonomous vehicle and the path planning because it controls the vehicle direction. However, the steering angle cannot be calibrated directly from Global Navigation Satellite System (GNSS) due to the limitation of GNSS parameters. In addition, the accuracy of steering angle obtained from the analysis of Global Position System (GPS) information cannot satisfy the accuracy requirements in engineering applications. In this paper, a novel approach to improve accuracy of steering angle is proposed. Low-cost Micro-electromechanical System (MEMS) and GPS are combined on an agriculture vehicle so that the steering angle can be calculated precisely. Unscented Kalman Filters (UKF) are used in simulations to estimate the steering angle. The simulation and experiment results show that the proposed method can achieve increased accuracy of estimation of steering angle than that based merely on GPS information. Because the cost of a MEMS gyroscope is very low, the proposed method is a practical way to achieve precision agriculture with high accuracy.",
+  "references": null
+}

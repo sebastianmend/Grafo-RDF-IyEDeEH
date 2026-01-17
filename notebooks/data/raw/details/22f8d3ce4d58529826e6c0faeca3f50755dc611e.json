@@ -1,0 +1,195 @@
+{
+  "paperId": "22f8d3ce4d58529826e6c0faeca3f50755dc611e",
+  "externalIds": {
+    "PubMedCentral": "6838033",
+    "MAG": "2971381433",
+    "DOI": "10.1007/s00216-019-02091-8",
+    "CorpusId": 201848946,
+    "PubMed": "31494686"
+  },
+  "url": "https://www.semanticscholar.org/paper/22f8d3ce4d58529826e6c0faeca3f50755dc611e",
+  "title": "Multi-residue ultra-performance liquid chromatography coupled with tandem mass spectrometry method for comprehensive multi-class anthropogenic compounds of emerging concern analysis in a catchment-based exposure-driven study",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2019,
+  "citationCount": 28,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00216-019-02091-8.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6838033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35928237",
+      "name": "Kathryn Proctor"
+    },
+    {
+      "authorId": "40464440",
+      "name": "Bruce Petrie"
+    },
+    {
+      "authorId": "47732871",
+      "name": "Ruth Barden"
+    },
+    {
+      "authorId": "80782272",
+      "name": "T. Arnot"
+    },
+    {
+      "authorId": "1382541818",
+      "name": "B. Kasprzyk-Hordern"
+    }
+  ],
+  "abstract": "This paper presents a new multi-residue method for the quantification of more than 142 anthropogenic compounds of emerging concern (CECs) in various environmental matrices. These CECs are from a wide range of major classes including pharmaceuticals, household, industrial and agricultural. This method utilises ultra-performance liquid chromatography coupled with tandem mass spectrometry (UPLC-MS/MS) for analysis of five matrices (three liquid and two solid) from wastewater treatment processes and the surrounding environment. Relative recoveries were predominantly between 80 and 120%; however, due to the complexity of the matrices used in this work, not all compounds were recovered in all matrices, from 138/142 analytes in surface water to 96/142 analytes in digested solids. Method quantification limits (MQLs) ranged from 0.004 ng L−1 (bisoprolol in surface water) to 3118 ng L−1 (creatinine in wastewater treatment work (WwTW) influent). The overall method accuracy was 107.0%, and precision was 13.4%. To test its performance, the method was applied to the range of environmental matrices at WwTWs in South West England. Overall, this method was found to be suitable for application in catchment-based exposure-driven studies, as, of the total number of analytes quantifiable in each matrix, 61% on average was found to be above their corresponding MQL. The results confirm the need for analysing both the liquid and solid compartments within a WwTW to prevent under-reporting of concentrations.",
+  "references": [
+    {
+      "paperId": "70c373e3c71c6b0a5d2f4195fbc505ae9a3b8479"
+    },
+    {
+      "paperId": "23e85049a1370a96708aa8f7be527a7a2ca2ff6c"
+    },
+    {
+      "paperId": "7180848148b381f2ae97125c686cca5b07d7374f"
+    },
+    {
+      "paperId": "4b721e708cb9b9e4831ee6cfed7574f3ffbe88d8"
+    },
+    {
+      "paperId": "461f2fd831158199292e7ec55b665915d95c56ca"
+    },
+    {
+      "paperId": "be8d8f6079de10cf7e190936e6f4cfb4022aea97"
+    },
+    {
+      "paperId": "186db34532413207e4f15db4988152383116da95"
+    },
+    {
+      "paperId": "98cff1e0885df9de4bc3f60cab8251e4067eeae8"
+    },
+    {
+      "paperId": "c171b890c6e1132bfd96c91d14bdb3b043c4464d"
+    },
+    {
+      "paperId": "8a58e22ded78e92d1d422c6ed287d6e874721eb6"
+    },
+    {
+      "paperId": "98128fd412ebfa90201a276f2c59020ccc696a75"
+    },
+    {
+      "paperId": "e4b4df4533d99d791a8d880e9fd6d9d30188825f"
+    },
+    {
+      "paperId": "46d4429e05d6daf3f41a014747e86c1220e44d8d"
+    },
+    {
+      "paperId": "85a95beea6da8607732218cf1c1360326a7484a3"
+    },
+    {
+      "paperId": "c9ad90917dfcc04dcada10257301f7ec7ac97e64"
+    },
+    {
+      "paperId": "6ff76bf11060cf984f2a6eb1b0a5abea11c16f97"
+    },
+    {
+      "paperId": "425bc4f7fb3957ca4de9966939d00cc8a525cf20"
+    },
+    {
+      "paperId": "875ae82539963ec0e2c142a5dcb86f1ce2d25625"
+    },
+    {
+      "paperId": "4d0de7aff97768312f5ad81c4df27c6abca93e00"
+    },
+    {
+      "paperId": "dde68aa867de4dd4f4de5d675e398f68f1c1d95e"
+    },
+    {
+      "paperId": "7f3b342210ddf993307283f0a77dd45263be43af"
+    },
+    {
+      "paperId": "143f321c8951bc53821eddc18436eb01d6ff4c50"
+    },
+    {
+      "paperId": "6a40275d14dbc326c69c35aff5588ea0056afead"
+    },
+    {
+      "paperId": "8c91e6bea1e0e2aaa424809a534755adaf5d71b0"
+    },
+    {
+      "paperId": "4d0f199e81bef4a39c9f3b51497a36d508729fab"
+    },
+    {
+      "paperId": "361cfa4e9a3a18230259c540d3072fc6df48ea86"
+    },
+    {
+      "paperId": "7b53989716d577983571fb0b3f35295730a5926c"
+    },
+    {
+      "paperId": "4c515cf28eeba2c90d63e3d7f4c8e2036f655583"
+    },
+    {
+      "paperId": "32f8855ca6918e8ee83c83c9f40f5b19896c0480"
+    },
+    {
+      "paperId": "7afc1a363febe09f9b26120dbcc43a322ed9194f"
+    },
+    {
+      "paperId": "2240b32a2d861f4ad5d7b1b8f84bc3e6d68350b2"
+    },
+    {
+      "paperId": "a2e5e6dd9f207296b914fb15101e945021d78ad3"
+    },
+    {
+      "paperId": "fbdf334f589ceda3a3c873ada7f7fdfead99d94a"
+    },
+    {
+      "paperId": "d600e7f07c5742bd1277fc662c1f8484687c8b43"
+    },
+    {
+      "paperId": "af452372e5a751881b8fbf25ef895619067c9764"
+    },
+    {
+      "paperId": "34168f3b90d00f9891b00089ffa8dd056fcf73ff"
+    },
+    {
+      "paperId": "d9983659e9eff2c7f9795f73885a14886235e1c9"
+    },
+    {
+      "paperId": "15f88d8d44a7f426f04fe020651e0d879b1d417f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "827b8381bab69e6352b0c3e2ae44b8feb09dbc90"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "484c876497751b8c90cc3587d44e7120cc9311e1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a3115d92366398ea8b94c69d847b952041ac886d"
+    }
+  ]
+}

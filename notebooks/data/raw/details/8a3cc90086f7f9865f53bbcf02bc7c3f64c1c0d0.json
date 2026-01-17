@@ -1,0 +1,362 @@
+{
+  "paperId": "8a3cc90086f7f9865f53bbcf02bc7c3f64c1c0d0",
+  "externalIds": {
+    "MAG": "2993258975",
+    "PubMedCentral": "6905489",
+    "DOI": "10.7554/eLife.49305",
+    "CorpusId": 196649050,
+    "PubMed": "31799932"
+  },
+  "url": "https://www.semanticscholar.org/paper/8a3cc90086f7f9865f53bbcf02bc7c3f64c1c0d0",
+  "title": "Evolution of C4 photosynthesis predicted by constraint-based modelling",
+  "venue": "bioRxiv",
+  "year": 2019,
+  "citationCount": 41,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2019/12/03/670547.full.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6905489, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Computer Science",
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2291474",
+      "name": "M. Blätke"
+    },
+    {
+      "authorId": "2063964576",
+      "name": "Andrea Braeutigam"
+    }
+  ],
+  "abstract": "Evolutionary constraint-based modelling is a powerful tool for the analysis of evolutionary trajectories in bacteria with unknown usefulness in eukaryotes. We hypothesised that the agriculturally important trait of C4 photosynthesis is accessible to modelling because it evolved from an ancestral ground state of C3 photosynthesis. All genes required for C4 are present in C3 but not arranged in a pathway. Plants performing C4 metabolism are capable of highly efficient carbon fixation and consequentially are adapted to adverse growth conditions and/or are capable of high growth rates. We hypothesised that constraint-based modelling will identify the selective pressures under which C4 photosynthesis evolves. Indeed, a carefully curated two-celled model predicts C4 under two different selective pressures. The model attributed differences between extant metabolic flavours of C4 to light availability and distribution. Likely kinetic constraints on reactions were identified for flux solutions which did not match known physiological fluxes. The data shows evolutionary constraint-based modelling in eukaryotes predicts molecular evolution with precision.",
+  "references": [
+    {
+      "paperId": "42a4dcfc5bb763216cd0505b8133b7818bd974f3"
+    },
+    {
+      "paperId": "692970e73c715aefbd71149190a6c237697d2488"
+    },
+    {
+      "paperId": "c862d40a79f75d324859b9f64d0d2cab033ef66a"
+    },
+    {
+      "paperId": "3560ec256bb7721c3aa9cf95eea8db1f5964f01d"
+    },
+    {
+      "paperId": "b6efdd4d554bb457826a9b31aedf75260af94f43"
+    },
+    {
+      "paperId": "2fcc738a05b8e3fa74ad703611f2c9b4d8b5f0ec"
+    },
+    {
+      "paperId": "b668332c6064eb5d1c6372cf44b930d953ebe8c6"
+    },
+    {
+      "paperId": "7315b1d9d98889e96a40cac55de40c7dfb2ac9d7"
+    },
+    {
+      "paperId": "4a8303daceaf51d334181ccab5807937de710036"
+    },
+    {
+      "paperId": "b3e135d76c4daa52ab22161622122d2f998e0391"
+    },
+    {
+      "paperId": "4f26aaf25da4067344dd0d692674425b1f22d2ee"
+    },
+    {
+      "paperId": "ee4e461ba83c592634cc5d8037de9e9eb6223c80"
+    },
+    {
+      "paperId": "19500a239c1ade60c0ab70f5499cd66a09d0a585"
+    },
+    {
+      "paperId": "09aae205ebd854260247aab4e28c1272119f96fb"
+    },
+    {
+      "paperId": "ec8faf00cf9efa11fe2c2da212b1c1682d0ddfd7"
+    },
+    {
+      "paperId": "2bfa964d2bde966326b31f05efdf7a9883ab7add"
+    },
+    {
+      "paperId": "ec6f802d5f4ff94235a5ca152c3d1b76661285fb"
+    },
+    {
+      "paperId": "755bdf28f991e4586f8da3803ffb52097a3f88b6"
+    },
+    {
+      "paperId": "de004181241a952db2b7385affa7b7d8ca2353af"
+    },
+    {
+      "paperId": "47a8944a39f71e4e1ed33f1961238d259e58e961"
+    },
+    {
+      "paperId": "43965b5497d81617f3e90061d8a3dca83b8893af"
+    },
+    {
+      "paperId": "761b42845aff44d2c067ceb3c9bc533a626f3d68"
+    },
+    {
+      "paperId": "80b71a23fce20b994e165d401c6b2a2f1c41f46d"
+    },
+    {
+      "paperId": "5272c823231b04acda29a0b90d19a1e9ebc315eb"
+    },
+    {
+      "paperId": "81f242c26a4ff662646fa4166dfd57323f22fb2a"
+    },
+    {
+      "paperId": "57123bc0e1c687bcd4c5f369dcc04bee91bbb7a7"
+    },
+    {
+      "paperId": "c8918ccff634e7d4d767074d0bd60f5eb2b4d59e"
+    },
+    {
+      "paperId": "b38a4b904448ecf09ae95ac99008ce3b20fef113"
+    },
+    {
+      "paperId": "2a58e16955396a7b756800b3c5cf8c4e108ca2f1"
+    },
+    {
+      "paperId": "86cd6749522c80fdfb6b00aa915eebf71e870c01"
+    },
+    {
+      "paperId": "adbc067c6e2ec7f32127fcf60d0873f5fe4c4c3b"
+    },
+    {
+      "paperId": "42773521af9d2759b921526e325947398d175842"
+    },
+    {
+      "paperId": "7556cdb11b34ebd9b92cc3d1fdc05374bf44deb6"
+    },
+    {
+      "paperId": "6bcf761b5c2d9d09d21ea03722215c4be077e734"
+    },
+    {
+      "paperId": "82118c1f4cc9b8fdb7100416a876400086b9b820"
+    },
+    {
+      "paperId": "482b7d5b305e6c962e70bbbb4b56e53d55096207"
+    },
+    {
+      "paperId": "44f48b441a02cdf1c8a0cbe025bdd30ba24b0bc2"
+    },
+    {
+      "paperId": "0a8b172fe176aef6942bda618a5e951f0bd2d806"
+    },
+    {
+      "paperId": "2b267243927f5e2878adcf806a7e1b4c4fc62fa7"
+    },
+    {
+      "paperId": "237d18e60a5c6cf36cc6bc7e9d43eb531cef6354"
+    },
+    {
+      "paperId": "80f880808568ed184c9054b85f0bfd43b3045a6d"
+    },
+    {
+      "paperId": "b7c71a41aecceb4216846e7ecff1640c7c8e345a"
+    },
+    {
+      "paperId": "6724d29ec4bc78b27c7b74efc1c95a16b078c647"
+    },
+    {
+      "paperId": "1547b5e09af563c79e3ed33e1ccb2151ee730545"
+    },
+    {
+      "paperId": "489ad35f6aaa8bae837054377dd1875041e65b39"
+    },
+    {
+      "paperId": "43bf7745c80223f91890595d2d273c8722e3042c"
+    },
+    {
+      "paperId": "7563905dc09cb18d42f5403ac3dceaafaa8123f1"
+    },
+    {
+      "paperId": "0c74b1d0e8b39b7900e04429a360b53d6cf8a599"
+    },
+    {
+      "paperId": "e0fb2512d8b88860b4cd1a28c18024b76c1b97d1"
+    },
+    {
+      "paperId": "64aa1123fc371cd502d56b447d71902e6b34bfdc"
+    },
+    {
+      "paperId": "119b88343c42175a0be1aad6e34e8629d2c72a5b"
+    },
+    {
+      "paperId": "8307e64130ca749a0f9be1faf44f601e84bcfc8b"
+    },
+    {
+      "paperId": "d419cae6d64e1304a07a7b152c8a84e971a16fca"
+    },
+    {
+      "paperId": "fa610db144198a5d092205d14bc4adaf5248cfc6"
+    },
+    {
+      "paperId": "4d4afb7c8ec933909d2f06539c56848a2d195f84"
+    },
+    {
+      "paperId": "195b99060d81def60a47633983b0afa0817b24d2"
+    },
+    {
+      "paperId": "60714ce32eb21e28a9405d973d9ccafc48354d4b"
+    },
+    {
+      "paperId": "213fcf2eab62634206110b275b9199174bcccfe0"
+    },
+    {
+      "paperId": "c2f36bad72466028a8f4fb9093781dcdb745c762"
+    },
+    {
+      "paperId": "e68872993b11df6d36dcb3dcd9336f26a2adba9b"
+    },
+    {
+      "paperId": "13bd2e6f6281102ce7a6866bfe9961e60e432361"
+    },
+    {
+      "paperId": "6d63e941331560535350c0d9275ce7c8e761253e"
+    },
+    {
+      "paperId": "61cf068f740ab8c195cb80c27fe75d46e76b1a7e"
+    },
+    {
+      "paperId": "d3e96efd8364b4a2b20c73f3256bb183c3e66185"
+    },
+    {
+      "paperId": "de497f76248f8ac5ccd0f9a92f0c6b6e35886653"
+    },
+    {
+      "paperId": "f97468f4b50abd3f4384097248a5f02cd8ac43c7"
+    },
+    {
+      "paperId": "9b9d6bbb77fdaa92aa3ba63ffbd06053180a7a98"
+    },
+    {
+      "paperId": "511048605312485fc4921ccea359585e22e1f475"
+    },
+    {
+      "paperId": "a411f6a0e6473137ac1a538f7cee65722fa3584f"
+    },
+    {
+      "paperId": "a617b5b160cd86c144fe8ea8456843c9e0eb59e0"
+    },
+    {
+      "paperId": "0372401fe9e56f4e0bb54d9667b31c1ac80e0dea"
+    },
+    {
+      "paperId": "20c895c982809f0be5eff5ea3a52c1f267d54126"
+    },
+    {
+      "paperId": "9eb46e2dfed4d0fefc6ea1ab33ee233036615f93"
+    },
+    {
+      "paperId": "6f0bc1a4a9013bf7cbf75cd3318fa84dd83d64c9"
+    },
+    {
+      "paperId": "577dd1bcf5c3652ca7231f0190703b612bebb605"
+    },
+    {
+      "paperId": "4744ab47f81bc6d67792f128747fdc5a54fbbfc5"
+    },
+    {
+      "paperId": "a4664beb4e96826493784683becea2eab00b7333"
+    },
+    {
+      "paperId": "1ab33f7591d0ddb29e45222762ef74bf83dd99af"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e47868841d87efe261451a43b00d6c81cf7fb7a3"
+    },
+    {
+      "paperId": "ec03969741a5d7141b4af022a9334799e9404c49"
+    },
+    {
+      "paperId": "28b5bb04f1bed8046221e0b0652fc97ffdec6534"
+    },
+    {
+      "paperId": "1b9ef65d3ec7aa2b4968fbaebdfe937783495791"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0f73435692c7485d3c91d2f683d9f66c0f3aaa66"
+    },
+    {
+      "paperId": "301c53c78dfdfda6deb580040f1fea07b5efced4"
+    },
+    {
+      "paperId": "d1c32db8b4d5086054fa683e645c45cd0866d786"
+    },
+    {
+      "paperId": "e7e89c2784d46a04dac0c58c44d8dfd195637a1a"
+    },
+    {
+      "paperId": "330b2b425cbc3b73dc748a822a35985183e863ed"
+    },
+    {
+      "paperId": "c8d4d719beb6edbf37df5b40b272c3ca53fcdc36"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f5982235a73d5a1a15a1f751aca3f14ca8fdc6d3"
+    },
+    {
+      "paperId": "4a4378df40a1e7096d50d1454913dd8c02ab4045"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6be885993fbdc6f563fd1e264bf92809a6f49356"
+    },
+    {
+      "paperId": "437c9700bdb4b82bee7c40f78b7619a1bda377d1"
+    },
+    {
+      "paperId": "0bdab27ba17d8235546aa3b30c164c692a0f1cd5"
+    },
+    {
+      "paperId": "57936927b7a9d49860880534f1190ca153484afd"
+    },
+    {
+      "paperId": "d360b25340d919f55cac75e84c37f1cdd9ad7fcd"
+    },
+    {
+      "paperId": "0de42642ac8521881fa6c1c4206f57d9a579397c"
+    },
+    {
+      "paperId": "4d2ce9b14226ec6e063c6632a26a8ec17d1cb23f"
+    },
+    {
+      "paperId": "dd4015b550e39805936256d137aa3645c650aff1"
+    },
+    {
+      "paperId": "3e896d934819987638030c7382be2e7ad9c118ce"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "paperId": "a86b46c5fb76681ecad9bb2bdc10d8eea4eddfbd",
+  "externalIds": {
+    "MAG": "3011634111",
+    "DBLP": "conf/lacci/BrilhadorGHILL19",
+    "DOI": "10.1109/LA-CCI47412.2019.9037044",
+    "CorpusId": 214595016
+  },
+  "url": "https://www.semanticscholar.org/paper/a86b46c5fb76681ecad9bb2bdc10d8eea4eddfbd",
+  "title": "Classification of Weeds and Crops at the Pixel-Level Using Convolutional Neural Networks and Data Augmentation",
+  "venue": "Latin American Conference on Computational Intelligence",
+  "year": 2019,
+  "citationCount": 27,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LA-CCI47412.2019.9037044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LA-CCI47412.2019.9037044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2634443",
+      "name": "Anderson Brilhador"
+    },
+    {
+      "authorId": "35359230",
+      "name": "M. Gutoski"
+    },
+    {
+      "authorId": "9113690",
+      "name": "L. T. Hattori"
+    },
+    {
+      "authorId": "3419486",
+      "name": "A. Inácio"
+    },
+    {
+      "authorId": "3225435",
+      "name": "A. Lazzaretti"
+    },
+    {
+      "authorId": "1806302",
+      "name": "H. S. Lopes"
+    }
+  ],
+  "abstract": "The Pixel-Level Classification of crops and weeds is an open problem in computer vision. The use of agrochemicals is necessary for effective weed control, but one of the great challenges of precision agriculture is to reduce their use while maintaining high crop yields. Recently, automated weed control techniques based on computer vision were developed despite experiencing difficulties in creating agricultural datasets. One possible solution to the small volume of data available is Data Augmentation. This paper investigates the impact of individual data augmentation transformations on the pixel-level classification of crops and weeds when using a Deep Learning model. It also investigates the influence of input image resolution on the classification performance and proposes a patch augmentation strategy. Results have shown that applying individual transformations can be valuable to the model, but gets outperformed by the combination of all transformations. This work also finds that higher resolution inputs can increase the classification performance when combined with augmentation techniques, and that patch augmentation can be a valuable asset when dealing with a small number of high-resolution images. The method reaches the mark of 83.44% in Average Dice Similarity Coefficient, an increase of 19.96% percentage points compared to the non-augmented model.",
+  "references": null
+}

@@ -1,0 +1,253 @@
+{
+  "paperId": "03c09252250eceb21a315649646c5d86a2207127",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/ZhengLJLCTZCZY18",
+    "MAG": "2903662845",
+    "DOI": "10.3390/RS10122026",
+    "CorpusId": 58013660
+  },
+  "url": "https://www.semanticscholar.org/paper/03c09252250eceb21a315649646c5d86a2207127",
+  "title": "A Comparative Assessment of Different Modeling Algorithms for Estimating Leaf Nitrogen Content in Winter Wheat Using Multispectral Images from an Unmanned Aerial Vehicle",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 97,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/12/2026/pdf?version=1544685607",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10122026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10122026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1795440",
+      "name": "Hengbiao Zheng"
+    },
+    {
+      "authorId": null,
+      "name": "Wei Li"
+    },
+    {
+      "authorId": "2164550",
+      "name": "Jiale Jiang"
+    },
+    {
+      "authorId": "2144386048",
+      "name": "Yong Liu"
+    },
+    {
+      "authorId": "152138567",
+      "name": "T. Cheng"
+    },
+    {
+      "authorId": "49902497",
+      "name": "Yongchao Tian"
+    },
+    {
+      "authorId": "26560296",
+      "name": "Yan Zhu"
+    },
+    {
+      "authorId": "1979404",
+      "name": "W. Cao"
+    },
+    {
+      "authorId": "2153635766",
+      "name": "Yu Zhang"
+    },
+    {
+      "authorId": "46581238",
+      "name": "Xia Yao"
+    }
+  ],
+  "abstract": "Unmanned aerial vehicle (UAV)-based remote sensing (RS) possesses the significant advantage of being able to efficiently collect images for precision agricultural applications. Although numerous methods have been proposed to monitor crop nitrogen (N) status in recent decades, just how to utilize an appropriate modeling algorithm to estimate crop leaf N content (LNC) remains poorly understood, especially based on UAV multispectral imagery. A comparative assessment of different modeling algorithms (i.e., simple and non-parametric modeling algorithms alongside the physical model retrieval method) for winter wheat LNC estimation is presented in this study. Experiments were conducted over two consecutive years and involved different winter wheat varieties, N rates, and planting densities. A five-band multispectral camera (i.e., 490 nm, 550 nm, 671 nm, 700 nm, and 800 nm) was mounted on a UAV to acquire canopy images across five critical growth stages. The results of this study showed that the best-performing vegetation index (VI) was the modified renormalized difference VI (RDVI), which had a determination coefficient (R2) of 0.73 and a root mean square error (RMSE) of 0.38. This method was also characterized by a high processing speed (0.03 s) for model calibration and validation. Among the 13 non-parametric modeling algorithms evaluated here, the random forest (RF) approach performed best, characterized by R2 and RMSE values of 0.79 and 0.33, respectively. This method also had the advantage of full optical spectrum utilization and enabled flexible, non-linear fitting with a fast processing speed (2.3 s). Compared to the other two methods assessed here, the use of a look up table (LUT)-based radiative transfer model (RTM) remained challenging with regard to LNC estimation because of low prediction accuracy (i.e., an R2 value of 0.62 and an RMSE value of 0.46) and slow processing speed. The RF approach is a fast and accurate technique for N estimation based on UAV multispectral imagery.",
+  "references": [
+    {
+      "paperId": "8e381110f9671905abd002a2d9c78ff5121f178f"
+    },
+    {
+      "paperId": "d144317cfa30d4bd5de6ae98e7121f727ce02993"
+    },
+    {
+      "paperId": "d9f9e0cab4dcdce958faf32078204736a7bd99da"
+    },
+    {
+      "paperId": "fbbc7ef33a03c88e54491116bb4d8cbf8c8933e6"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "a3ef6201f777716167013082fa7473ae67118354"
+    },
+    {
+      "paperId": "9d2a06758a8ce1272ee17e0e22f2576915a08938"
+    },
+    {
+      "paperId": "81e20eec7983dea4e61842cc37d70a12c1c0606e"
+    },
+    {
+      "paperId": "200c0f82fa836cbfd08e65303de7f87db6bb3e31"
+    },
+    {
+      "paperId": "3e44a615f3e8d52c5c3ea1b4899951d673623670"
+    },
+    {
+      "paperId": "c6be13d82f9e08723177f665ec8975400b0d28bf"
+    },
+    {
+      "paperId": "706e36de6202eab2500d6b2410e953c73961a333"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "6c91774338f94467e93b752fcf387d2827d2779a"
+    },
+    {
+      "paperId": "6fd1d60b218ebd4108e859adf8901074afde8ec9"
+    },
+    {
+      "paperId": "a20fe1104e28d08c0f8a9b39801d2a7ea1a903c9"
+    },
+    {
+      "paperId": "2646ae8302fe1ec548977814c55a322879683452"
+    },
+    {
+      "paperId": "d6b4ff45e640a139937a0a956bee11561de2b8e3"
+    },
+    {
+      "paperId": "7a71a6e8c4aabc1788a9658d556c5a7cae569c15"
+    },
+    {
+      "paperId": "1832bcfcb87f67b151a7f73be8abc98b7587a563"
+    },
+    {
+      "paperId": "ccf95f45a23c797d9231f4c3af9ebbe15d657602"
+    },
+    {
+      "paperId": "4f4f8444f52732a8a9c850c901e86d3cdb86e65f"
+    },
+    {
+      "paperId": "b4988acba3aeb3d8c4666f2f8d15f5fc3cc26300"
+    },
+    {
+      "paperId": "3e3bfbb3f6dbc83b98dc8e3c95c97039ef99837c"
+    },
+    {
+      "paperId": "6885b476a37792ddb10cff7db6a57b3f96f5156c"
+    },
+    {
+      "paperId": "60bde0f556edc83ad0fe4a5a80edc586399d8af0"
+    },
+    {
+      "paperId": "f767a933c170ddaa48a1fbfe254cc43c935713d1"
+    },
+    {
+      "paperId": "56fd7f3115c000a537d18e59c8b8183bbbeb41ef"
+    },
+    {
+      "paperId": "7ec7f424dfa3e74fda3bbd5f002a5ad96e47ce44"
+    },
+    {
+      "paperId": "48b3102425b0ab23ef82b4a5ac7547e069df60d8"
+    },
+    {
+      "paperId": "51ff4250e2dd0375a91d98f64d349d94476a7f01"
+    },
+    {
+      "paperId": "5791f0bb027d26b08850a16bb1c44ad50567b509"
+    },
+    {
+      "paperId": "5f4669df1e5b8ed6648687e4d16b8adaf501d012"
+    },
+    {
+      "paperId": "ca5b72a45edfbe5eee2e9916a5256c3834950948"
+    },
+    {
+      "paperId": "31ed5a17293e0c58a471792c372d0775272f3e7e"
+    },
+    {
+      "paperId": "967f9e9dd17db231ee0e00a761f7a33ddb330280"
+    },
+    {
+      "paperId": "937facefe72a85300d1a69ecfbc82e71b5d836f4"
+    },
+    {
+      "paperId": "5d7c4b1414bd97f189b361c32016c60ac4fea6a1"
+    },
+    {
+      "paperId": "bd3ac27895f8bf6a986fdbe32500c015d6ed9844"
+    },
+    {
+      "paperId": "4e8df286e1a2298a25e23655aaab52f433ae0d5b"
+    },
+    {
+      "paperId": "bba1d2024b40cb0b910f20801423d8f22608668c"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "bdcd4d04ee10426569227061655108419731020d"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "31cd41071b146a07b735aeb6ed710b0c849a6b37"
+    },
+    {
+      "paperId": "08586287a940c885c72b066f5c05451111a37bf2"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "efef79f565491ece16bdb0cad18438820c1558c4"
+    },
+    {
+      "paperId": "854127df9b99c4f6cb1bd373e4793a9761f2de02"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "da5f28ce7088b4b17286429fe833e3a35e5d69fd"
+    },
+    {
+      "paperId": "72e05ec708685cbeedb0f47f423a66a6a90a01db"
+    },
+    {
+      "paperId": "6f8d3fe04cae4ecaec66524f2f925e5e753464bc"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "939c99e00bef5f9b10f2c4f5c726a17f710e7f85"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": "318cf9ee36ef519e450144a6a494dfb09a1be8eb"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

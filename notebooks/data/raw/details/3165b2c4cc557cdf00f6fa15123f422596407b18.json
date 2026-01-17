@@ -1,0 +1,39 @@
+{
+  "paperId": "3165b2c4cc557cdf00f6fa15123f422596407b18",
+  "externalIds": {
+    "DBLP": "journals/concurrency/LeeP21",
+    "MAG": "2938222553",
+    "DOI": "10.1002/cpe.5258",
+    "CorpusId": 145982197
+  },
+  "url": "https://www.semanticscholar.org/paper/3165b2c4cc557cdf00f6fa15123f422596407b18",
+  "title": "A spatiotemporal data acquisition toolkit for volume estimation tools in precision agriculture",
+  "venue": "Concurrency and Computation",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/cpe.5258?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/cpe.5258, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108641609",
+      "name": "Seonghun Lee"
+    },
+    {
+      "authorId": "8289367",
+      "name": "Jaehwa Park"
+    }
+  ],
+  "abstract": "A data acquisition system for precision agriculture is presented. The system can collects various time‐series data on target plants and their environmental facts. The designed system consists of a server and multiple intra‐networked stations and includes a software toolkit that has two independent but synchronized data acquisition processes. The one is for measurements on environmental facts around a target plant and the other is for volume estimation of the target plant adopting multi‐view stereo techniques. An analysis on sampling rate and data acquisition experiments for testing purposes were performed. A data filtering method based on the fast Fourier transform is applied to analyze the noise immunity of the collected data. For the volume estimation, three different methods, ie, method‐I using 2‐D projection on slices, method‐II using polyhedrons on voxels, and method‐III using enclosed surfaces, were devised to handle various plant types and examined for three different type of target plants. The volume estimation errors were measured in range of 6 ∼ 30% in the experiments.",
+  "references": null
+}

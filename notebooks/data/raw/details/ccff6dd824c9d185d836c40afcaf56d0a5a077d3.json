@@ -1,0 +1,42 @@
+{
+  "paperId": "ccff6dd824c9d185d836c40afcaf56d0a5a077d3",
+  "externalIds": {
+    "MAG": "3000478798",
+    "DOI": "10.1109/CVCI47823.2019.8951589",
+    "CorpusId": 210693547
+  },
+  "url": "https://www.semanticscholar.org/paper/ccff6dd824c9d185d836c40afcaf56d0a5a077d3",
+  "title": "ADRC-Based Active Front Steering Strategy for Path Tracking of A Farm Vehicle",
+  "venue": "2019 3rd Conference on Vehicle Control and Intelligence (CVCI)",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CVCI47823.2019.8951589?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CVCI47823.2019.8951589, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1387712510",
+      "name": "Zhanmeng Lin"
+    },
+    {
+      "authorId": "2643613",
+      "name": "Xiaohong Jiao"
+    },
+    {
+      "authorId": "2141398670",
+      "name": "Zhong Wang"
+    }
+  ],
+  "abstract": "In view of the performance requirement for the trajectory tracking control of farming vehicles, an active front steering strategy is designed in this paper by active disturbance rejection control (ADRC) technique and particle swarm optimization (PSO) algorithm for path tracking of an agricultural machinery. Due to the capability of estimating the lumped disturbance including system unmodeled dynamics, parameter perturbations and external disturbance by the extended state observer (ESO), the ADRC with ESO is adopted to fully compensate the system uncertainties so as to improve the path tracking performance and guarantee the control performance robustness. Moreover, to further improve the control precision of farming, the PSO algorithm is used to optimize the adjustable parameters of the controller. Simulation results are presented to show the effectiveness of the proposed control strategy,",
+  "references": null
+}

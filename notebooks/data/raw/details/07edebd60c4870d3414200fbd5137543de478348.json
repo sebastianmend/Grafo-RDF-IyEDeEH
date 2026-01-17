@@ -1,0 +1,102 @@
+{
+  "paperId": "07edebd60c4870d3414200fbd5137543de478348",
+  "externalIds": {
+    "MAG": "2952672525",
+    "DBLP": "journals/js/CorreaBLVGRP19",
+    "DOI": "10.1155/2019/4232536",
+    "CorpusId": 197449354
+  },
+  "url": "https://www.semanticscholar.org/paper/07edebd60c4870d3414200fbd5137543de478348",
+  "title": "An Approach of Beans Plant Development Classification Using Fuzzy Logic",
+  "venue": "J. Sensors",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2019/4232536",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2019/4232536?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2019/4232536, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1579759220",
+      "name": "P. Correa"
+    },
+    {
+      "authorId": "134563693",
+      "name": "Pedro Bautista"
+    },
+    {
+      "authorId": "2110613968",
+      "name": "Marlene Lopez"
+    },
+    {
+      "authorId": "10255542",
+      "name": "M. Villaseñor"
+    },
+    {
+      "authorId": "150948881",
+      "name": "Carlos García"
+    },
+    {
+      "authorId": "1390025182",
+      "name": "H. Rostro-González"
+    },
+    {
+      "authorId": "1401826965",
+      "name": "F. Pérez-Pinal"
+    }
+  ],
+  "abstract": "In this paper, a method to monitor the growth of bean plants from images taken in their vegetative stage is presented. Through a fuzzy system and the RGB image components, the growth stages of the plant are classified to achieve a powerful tool in the precision agricultural field, which can reduce cost and increase system portability. This also serves as a reference for the growth of the plant according to its age, vigor, and healthy that could help to create the necessary environmental conditions. To carry out this research, the development of twenty bean plants was periodically monitored from their germinal to the first trifoliate leaf stage. Images were obtained with controlled background and lighting; later they were segmented by color to count the pixel’s average for each case. These data were used to propose six different fuzzy systems to choose the best one within them. Finally, it was found that the artificial vision system can identify the vegetative stages of germination, emergence, primary leaves, and first trifoliate leaf.",
+  "references": [
+    {
+      "paperId": "24696daab4cf7795fea37000108051ea6d9cab23"
+    },
+    {
+      "paperId": "cb2f9f67b8a1e028250a6fa29de39c0d05c3609a"
+    },
+    {
+      "paperId": "f3ad9768a4116017a974e77696417c062f4faec8"
+    },
+    {
+      "paperId": "dac31cd9939a50f35f5c1d9739693c330c966e65"
+    },
+    {
+      "paperId": "5e2525ca182b98eaa55dac284de87d793b7eb93f"
+    },
+    {
+      "paperId": "cf1b49087b7b4e52af500bd6d4e927df6c7e09eb"
+    },
+    {
+      "paperId": "a5eb8ffa3f3e3435e27c17c30ebf63f15cd56a94"
+    },
+    {
+      "paperId": "ce8290200892ddff8ae6fc9195ba85a66ce883c2"
+    },
+    {
+      "paperId": "6d5d63ef980fe86c2ad7c460ee12e5427a243289"
+    },
+    {
+      "paperId": "6afe1e9bb9070c58b32fc403aca6bbded5b0874a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

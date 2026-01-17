@@ -1,0 +1,85 @@
+{
+  "paperId": "dd8d272c43e01d2c9f7aacb5c014484a7077c73a",
+  "externalIds": {
+    "MAG": "2952090680",
+    "DOI": "10.2991/ISPC-19.2019.31",
+    "CorpusId": 197888930
+  },
+  "url": "https://www.semanticscholar.org/paper/dd8d272c43e01d2c9f7aacb5c014484a7077c73a",
+  "title": "Data-driven approach in digital agriculture: survey of farmers",
+  "venue": "Proceedings of the International Scientific and Practical Conference “Digital agriculture - development strategy” (ISPC 2019)",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2991/ispc-19.2019.31",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ISPC-19.2019.31?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ISPC-19.2019.31, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "71727831",
+      "name": "A. Koshkarov"
+    },
+    {
+      "authorId": "2134349196",
+      "name": "T. Koshkarova"
+    }
+  ],
+  "abstract": "The issues of increasing the efficiency of agriculture are relevant in connection with the growth of the world population. One way to solve this issue is to collect and analyze big data to support decision-making in the industry of crop production. Such an approach can allow a farmer to monitor the condition of their farmland, save resources (water and chemicals), respond quickly to emerging problems and increase yields. The purpose of this study is to reveal the level of awareness and understanding, as well as the opinion of farmers about the introduction of data science technology in agriculture. This study demonstrates the results of a survey of farmers in the Astrakhan region, conducted in 2017 and 2019. The results revealed the barriers to the implementation of big data technologies, as well as the conditions under which farmers are ready to introduce appropriate innovations into their business. High costs of implementation, lack of relevant specialists in the region, poor infrastructure development and insufficient understanding of key technologies by the business owner were identified as the main barriers. Farmers see financial support from the state, as well as the availability of qualified specialists among the main conditions for the introduction of digital technologies in agribusiness. Keywords— big data, digital agriculture, data science, smart farming, precision",
+  "references": [
+    {
+      "paperId": "49cdaa7e827f41c2f26407dc492d6c94a69a85c1"
+    },
+    {
+      "paperId": "92a5e68eb2a76271856f2b8eba7a27f9ef3a9b44"
+    },
+    {
+      "paperId": "257cc715b1677a69f9db1e0e03aaefb2260069e1"
+    },
+    {
+      "paperId": "5666642f5a32b8a29fde8aa8d374e23d0f1c8eca"
+    },
+    {
+      "paperId": "c41a7717c1b917f9a8c41e831921e945aa18cc63"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "0dcebc04833b1dae2efe0e2dedbc87211a5f9f47"
+    },
+    {
+      "paperId": "774d20e3a7ba1adafd161b47ec1bfec28ec43d03"
+    },
+    {
+      "paperId": "5e4f68e47fc2272b40b5c571676fd88da49f53c4"
+    },
+    {
+      "paperId": "2a90df34f2803ae0d503228111e9b0fabab5ad7d"
+    },
+    {
+      "paperId": "198779da691c5e8d38f26fa08b9cafc693cf11c0"
+    },
+    {
+      "paperId": "5d6721bd65f07275ca307697e3cf6890421b6d2f"
+    },
+    {
+      "paperId": "06ac02a09d1044e48e38670a3e05603fa58bc1e5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

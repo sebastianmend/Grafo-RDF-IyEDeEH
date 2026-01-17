@@ -1,0 +1,40 @@
+{
+  "paperId": "b27b0b357660890ec2f64a7f901c167e29f7256c",
+  "externalIds": {
+    "MAG": "2906761343",
+    "DOI": "10.1109/CCRA.2018.8588153",
+    "CorpusId": 57190330
+  },
+  "url": "https://www.semanticscholar.org/paper/b27b0b357660890ec2f64a7f901c167e29f7256c",
+  "title": "Outdoors Trajectory Tracking Control for a Four Wheel Skid-Steering Vehicle*",
+  "venue": "2018 IEEE 2nd Colombian Conference on Robotics and Automation (CCRA)",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCRA.2018.8588153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCRA.2018.8588153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50002364",
+      "name": "Oscar Barrero"
+    },
+    {
+      "authorId": "66880265",
+      "name": "Sebastin Tilaguy"
+    },
+    {
+      "authorId": "66817230",
+      "name": "Yuli M. Nova"
+    }
+  ],
+  "abstract": "The motivation of this project is to develop a high precision autonomous navigation system for precision agriculture robots. Therefore, in this paper an outdoor trajectory tracking system for a four wheel skid-steering vehicle is presented. The systems integrates an outdoor geolocation system with a tracking trajectory control system. The vehicle’s outdoor geolocation system was developed by fusing GPS (Global Positioning System), magetometer and wheel encoders position information. The sensor fusion algorithm was based on the EKF (Exended Kalman Filter) and the vehicle’s kinematic model. Afterwards, from top to bottom a tracking trajectory control system was designed and implemented as follows; first, a linear transfer function identification was carried out in order to model the response of the vehicle’s angular direction, then, a PID controller with a feedforward compensator for vehicle’s angular direction was designed. Finally, a trajectory generator as well as the trajectory tracking system were developed. The systems was implemented in a Raspberry PI-3 with an excellent processing performance. The results showed a good performance of the control tracking system, with trajectory errors of less than one meter respect to the reference trajectory, which are very promising results for tasks related to precision agriculture.",
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "d1576d1b50d862dbae78765bbf5d7b1e6411408b",
+  "externalIds": {
+    "MAG": "3016255401",
+    "DOI": "10.1109/ICASE48783.2019.9059146",
+    "CorpusId": 215739727
+  },
+  "url": "https://www.semanticscholar.org/paper/d1576d1b50d862dbae78765bbf5d7b1e6411408b",
+  "title": "River Runoff Modelling Through Geospatial Techniques-A Case Study of Snow and Glacier Fed Astore River Basin, Northern Pakistan",
+  "venue": "2019 Sixth International Conference on Aerospace Science and Engineering (ICASE)",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICASE48783.2019.9059146?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICASE48783.2019.9059146, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1629335172",
+      "name": "Syeda Saleha Fatim Ali"
+    },
+    {
+      "authorId": "144189484",
+      "name": "Syed Amer Mehmood"
+    },
+    {
+      "authorId": "2114797713",
+      "name": "Mujtaba Hassan"
+    },
+    {
+      "authorId": "143935464",
+      "name": "A. Latif"
+    }
+  ],
+  "abstract": "Pakistan is amongst the countries that face water issues and the resources are vulnerable to global warming and changing climate. In addition, it hosts a large, rapidly growing population which depends on agriculture and the world's largest irrigation scheme. In fact, it is challenging to get into deeper understanding of snow and glacier fed Upper Indus catchment that contributes to the water system of the country. Integrating Remote Sensing abilities and Geographic Information System techniques with hydrological modelling approach is very useful to simulate the impact of climate on water resources, understand problems and enhances the methods of investigation for better decision support system. It has been proven to be an effective tool for managing large and complex database, thus providing a digital depiction of catchment characteristics. It is a supportive tool in attaining higher accuracy from hydrological models, thus gives reliable outcomes for the betterment. Therefore, it is essential that the hydrological response of a catchment must be appraised. In the present study, to simulate the daily discharge of the North facing Astore Basin in the Northern-Pakistan, SRM+G (Snowmelt Runoff Model +Glacier) hydrological model was used. For this, SRTM Digital Elevation Model, MODIS snow cover daily product. RFE (Rainfall Estimation) 2.0 for precipitation and LANDSAT 8 for glacier cover were considered. Data extraction and pre-processing was done using R-script to put into the model. The variation in temperature, precipitation (snowmelt and rainfall) and glacier melt influences the overall runoff generation. The results obtained suggest that the SRM+G can be efficiently used as the statistical and hydrograph results are within the acceptable range for both the calibration and validation period (2006–2010). Ensemble approach can be applied for higher precision that can be helpful in proper and efficient decision support system.",
+  "references": null
+}

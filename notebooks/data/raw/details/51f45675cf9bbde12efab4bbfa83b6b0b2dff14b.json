@@ -1,0 +1,230 @@
+{
+  "paperId": "51f45675cf9bbde12efab4bbfa83b6b0b2dff14b",
+  "externalIds": {
+    "MAG": "2898641581",
+    "DOI": "10.3390/AGRICULTURE8110172",
+    "CorpusId": 73638207
+  },
+  "url": "https://www.semanticscholar.org/paper/51f45675cf9bbde12efab4bbfa83b6b0b2dff14b",
+  "title": "How Management Factors Influence Weed Communities of Cereals, Their Diversity and Endangered Weed Species in Central Europe",
+  "venue": "Agriculture",
+  "year": 2018,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2077-0472/8/11/172/pdf?version=1541139950",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/AGRICULTURE8110172?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/AGRICULTURE8110172, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2052665226",
+      "name": "M. Schumacher"
+    },
+    {
+      "authorId": "91196401",
+      "name": "Simon Ohnmacht"
+    },
+    {
+      "authorId": "91843549",
+      "name": "R. Rosenstein"
+    },
+    {
+      "authorId": "144434484",
+      "name": "R. Gerhards"
+    }
+  ],
+  "abstract": "The loss of weed biodiversity in agricultural fields is a global issue that needs to be counteracted to preserve their supported ecosystem services and food webs. Many short-term efforts are undertaken to conserve weed species, especially already endangered ones, but several years after expiration, eventually result in species-poor communities. Understanding drivers of community composition is key to prevent biodiversity loss. To understand the factors that shape weed communities and influence weed diversity and endangered weed species, we monitored conventional and organic cereal fields in two regions of southwestern Germany. A redundancy analysis was performed on vegetation recordings and data from a farmer survey. Crop species, herbicide use, farming system, nitrogen, and light availability had the strongest impact on weed diversity. The weed communities were dominated by Alopecurus myosuroides, Galium aparine, Viola arvensis, Polygonum convolvulus, and Veronica persica, and were mainly shaped by crop species, tillage, location in the field, and timing of herbicide application. Bromus grossus and Bromus secalinus, two endangered weed species, survived in conventional field margins as a result of the use of herbicides with gaps for Bromus species. Conservation efforts are not restricted to organic farming and should consider the major drivers of weed communities. Precision farming techniques are available to create networks of habitats for endangered and common weed species and subsequently increase agro-biodiversity per se.",
+  "references": [
+    {
+      "paperId": "9e75113abc83c588dae25c86bf025de996f0ae1f"
+    },
+    {
+      "paperId": "e053ee4f4739e7fd0838c8d0998cabc58eae2184"
+    },
+    {
+      "paperId": "1c667b4c42e965642558e6d7161772c4ed49d92a"
+    },
+    {
+      "paperId": "909b4390f8b38d9a7c12afb52b923a021b85db24"
+    },
+    {
+      "paperId": "3a65d031c8015695c38acc7481c96aea0358bba3"
+    },
+    {
+      "paperId": "332d4e7950ea583b7755f37fadf8c536d35876c1"
+    },
+    {
+      "paperId": "84b07be9ab583827f281f06d2f1d8d52268766bd"
+    },
+    {
+      "paperId": "3eb2b087d9988346c9857599349c2dadb29ebcad"
+    },
+    {
+      "paperId": "b8489da2734cd8d2ffd59472c7364f8a49168153"
+    },
+    {
+      "paperId": "7624f39da59188a00f39d6b78dffd61bf79626b4"
+    },
+    {
+      "paperId": "ac5cb05e3364fa714d6285aa6475ff5a92b56b93"
+    },
+    {
+      "paperId": "42cef91d0ce764c8cb105b80195f900e52f45732"
+    },
+    {
+      "paperId": "bc8b1e02b9e2dbfbcc1d1c4a6db42ae4daf3ce73"
+    },
+    {
+      "paperId": "dcef4fa8f4cde65dd7df027d4617731658027de1"
+    },
+    {
+      "paperId": "c3d5ac2f89cb8662a9c5f6133a92199386e4aeaf"
+    },
+    {
+      "paperId": "0249d6af312a40dcf9749ce3bef89699da48321e"
+    },
+    {
+      "paperId": "47605f2b70a6db070b8c52d38e0df83874c2999e"
+    },
+    {
+      "paperId": "fbb8b75654934e9e4d8b7923041daf2c7b6a7ce2"
+    },
+    {
+      "paperId": "a8003da3f7ecee6a2a07879d94fab0ebeda81112"
+    },
+    {
+      "paperId": "12b0115fc6cd551cb54da8cdca053e49a93ad814"
+    },
+    {
+      "paperId": "5823d352ded17bce618b9a7bac33b3bd4d82cb22"
+    },
+    {
+      "paperId": "736542356fa81441059ded410bb4917819c17360"
+    },
+    {
+      "paperId": "e1af791f4a1402fd394072e540700d1ec5d472a2"
+    },
+    {
+      "paperId": "8d071a16038532eb4789a88b9896fa6733d99b90"
+    },
+    {
+      "paperId": "15b2c33f05cbf95b3a44634b334320e0eb84f7d6"
+    },
+    {
+      "paperId": "5e37a451a0a3b08d69f2c5a8dc70c0623bf3fa82"
+    },
+    {
+      "paperId": "c4ac46b908863f9e7d18a443538efe5b383192c6"
+    },
+    {
+      "paperId": "f7134ee06adf48fe752ddded4eff121ffc933d6a"
+    },
+    {
+      "paperId": "d7b2ccb43bdaa7525794f2a11e1bb2d3f4b7979f"
+    },
+    {
+      "paperId": "c86f63b01ba1cd21148ac6d9a5c0458e330092f6"
+    },
+    {
+      "paperId": "d96e7ac97332be9548e8de9591e1e1c37826a999"
+    },
+    {
+      "paperId": "c52f7a28b814cabd5fd7563424d74bafb6ff9bdd"
+    },
+    {
+      "paperId": "7145dab836762f9d90be0d9a62885963517662eb"
+    },
+    {
+      "paperId": "d9064838936b870a4ca8eefce71f76b4d955c66d"
+    },
+    {
+      "paperId": "3c316ac68b527b2a68e80cf2b34bece5eb10e2d4"
+    },
+    {
+      "paperId": "48e9e44ca331ca0fc95c70889fa4345c0682b611"
+    },
+    {
+      "paperId": "dc2cf6b645556939c23be5b6efea99e455b2a388"
+    },
+    {
+      "paperId": "5087fb79d4d6c64d23d0d7b905abe72bfa59acf1"
+    },
+    {
+      "paperId": "ba58ae36e69aaeef84a7830887e272ecdcf3d5ca"
+    },
+    {
+      "paperId": "235b825a976ab85e0e26c5a43333f42114c251a6"
+    },
+    {
+      "paperId": "54e7efd7d81a639ece50895c5f02efa20ca96d21"
+    },
+    {
+      "paperId": "50d1b4b60ab17670e5da33ecfdb1bec2d8e5956a"
+    },
+    {
+      "paperId": "2b2c09b630c750e3ccfad586e3b0fbefc77631ec"
+    },
+    {
+      "paperId": "7e087c7dab024624c4d22c383972d000ea38a43f"
+    },
+    {
+      "paperId": "c650b9d938d985e0cf79a254219b6967bf06e0f0"
+    },
+    {
+      "paperId": "fdc26754c21caa769894db607d9c7c44a5924d6f"
+    },
+    {
+      "paperId": "55d5cfc1336d82e22b63fb6fe0059b3866eab8b2"
+    },
+    {
+      "paperId": "6060e1fd5638b1e79b5138ee93387f181d7f4a90"
+    },
+    {
+      "paperId": "35afe7e5c41c5312633d1c3fbf3e0366aee91978"
+    },
+    {
+      "paperId": "2e9d0b7ac5a8a00d3601aa990f35983cfa4e5f53"
+    },
+    {
+      "paperId": "94fda1604860bf85192d3c7106fadf467dc1338d"
+    },
+    {
+      "paperId": "b280c41956f8e06a5236d944b243eefa4018f37d"
+    },
+    {
+      "paperId": "3f15fe4ca42cf1633f2f8a04d01af377e709d351"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

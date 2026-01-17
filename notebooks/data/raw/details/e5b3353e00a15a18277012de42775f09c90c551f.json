@@ -1,0 +1,59 @@
+{
+  "paperId": "e5b3353e00a15a18277012de42775f09c90c551f",
+  "externalIds": {
+    "DBLP": "conf/iscc/VieiraSLLSCS19",
+    "MAG": "3004116116",
+    "DOI": "10.1109/ISCC47284.2019.8969574",
+    "CorpusId": 210971760
+  },
+  "url": "https://www.semanticscholar.org/paper/e5b3353e00a15a18277012de42775f09c90c551f",
+  "title": "Trunk Detection and Tree Disparity Calculation in Uncontrolled Environments",
+  "venue": "International Symposium on Computers and Communications",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCC47284.2019.8969574?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCC47284.2019.8969574, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35467636",
+      "name": "G. S. Vieira"
+    },
+    {
+      "authorId": "31756447",
+      "name": "Fabrízzio Soares"
+    },
+    {
+      "authorId": "1384048566",
+      "name": "J. C. Lima"
+    },
+    {
+      "authorId": "145990430",
+      "name": "G. Laureano"
+    },
+    {
+      "authorId": "2112550264",
+      "name": "S. A. Santos"
+    },
+    {
+      "authorId": "34157039",
+      "name": "R. M. Costa"
+    },
+    {
+      "authorId": "1491180268",
+      "name": "R. Salvini"
+    }
+  ],
+  "abstract": "Computer vision is an area have proven to play an essential role in urban and rural applications like medical, agriculture, and remote sensing. The use of image processing methods for simulating the visual capability of robots plays a crucial role in the consolidation of smart farming. The understanding of the complexity of outdoor environments, where the robot performs its task, is an essential issue for the development of efficient processes of autonomous mobility, especially in areas with uneven illumination, unpredictable weather conditions, and different color shades. In this study, we present a new method to detect and segment tree trunks from unstructured environments where natural properties such as lighting and terrain shape form a variety of non-controlled conditions. We prepared a dataset with stereo image pairs and ground truth maps to calculate disparities and to evaluate the proposed method in the application of smart farming. The results show that the presented approach can segment trees with high precision, which is an important step in calculating the disparity of external components by systems that use the stereoscopic view.",
+  "references": null
+}

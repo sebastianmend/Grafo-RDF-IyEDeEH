@@ -1,0 +1,73 @@
+{
+  "paperId": "c5fa5beb84a613508e96e603a1d66e43e8e823ac",
+  "externalIds": {
+    "MAG": "2936005232",
+    "DOI": "10.1088/1742-6596/1196/1/012065",
+    "CorpusId": 146106010
+  },
+  "url": "https://www.semanticscholar.org/paper/c5fa5beb84a613508e96e603a1d66e43e8e823ac",
+  "title": "Initial Machine Learning Framework Development of Agriculture Cyber Physical Systems",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1196/1/012065",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1196/1/012065?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1196/1/012065, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "65782613",
+      "name": "Gregorius Airlangga"
+    },
+    {
+      "authorId": "1785229140",
+      "name": "Alan Liu"
+    }
+  ],
+  "abstract": "A cyber-physical system (CPS) shows its potential in integrating the computer systems with the physical environment. The progress in such systems has brought large potential to improve human life quality, such as improved health care services, energy consumption and food supply chain system (FSC). In particular, FSC plays an important role in human beings. It comes from the complex agricultural system and lead up to human dining table. The fusion of CPS and agricultural system could improve the quality of food and environment. Therefore, many studies have been conducted to tackle the challenges in this domain, such as lack of information systems and infrastructures, poor collaboration toward larger Internet of Things solutions and dynamic changes of intrinsic and extrinsic conditions of enabler technology in precision agriculture. In this work, we focus on developing an initial framework that could improve prediction rate and handling imprecise data due to the dynamic problem in precision agriculture. As an evaluation, first we predict a rainfall event using weather sensors data and after that the prediction result will be continue to set up as an additional attribute for predicting the action of water sprinkle monitoring system. The results confirm the good accuracy for farmers and could be applicable in real-time.",
+  "references": [
+    {
+      "paperId": "94947cdb670fe55e9d3fff9eb18cebed64eae408"
+    },
+    {
+      "paperId": "dd1dab636043dae7234d94bb5b1de88f5eeea7ad"
+    },
+    {
+      "paperId": "3562c1bcf50d36065b75b67c3996a5057194f878"
+    },
+    {
+      "paperId": "c1309bfe808e7701df61bb2d161da2177ff34991"
+    },
+    {
+      "paperId": "0685c8eb9ce24ff32e726b18a0f394dbbcc88d75"
+    },
+    {
+      "paperId": "e055b45cccd500c0617070552522e899aa85ef70"
+    },
+    {
+      "paperId": "ac3767fc3ee752a0b4d04e4990d946dba819e4e5"
+    },
+    {
+      "paperId": "c7d243d0d1efee259ce533fd394d3d53e27e8c8a"
+    },
+    {
+      "paperId": "2168bdacaeb6f9ab8c4e5f4311f016ca2daf6a6a"
+    },
+    {
+      "paperId": "163b3ce01838c3026ce73acec84b5601d42ff0e3"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

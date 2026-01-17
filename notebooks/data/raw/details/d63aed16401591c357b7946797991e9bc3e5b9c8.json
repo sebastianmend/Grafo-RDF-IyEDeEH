@@ -1,0 +1,43 @@
+{
+  "paperId": "d63aed16401591c357b7946797991e9bc3e5b9c8",
+  "externalIds": {
+    "DBLP": "journals/ral/ChebroluLS18",
+    "MAG": "2809225792",
+    "DOI": "10.1109/LRA.2018.2849603",
+    "CorpusId": 49730657
+  },
+  "url": "https://www.semanticscholar.org/paper/d63aed16401591c357b7946797991e9bc3e5b9c8",
+  "title": "Robust Long-Term Registration of UAV Images of Crop Fields for Precision Agriculture",
+  "venue": "IEEE Robotics and Automation Letters",
+  "year": 2018,
+  "citationCount": 68,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LRA.2018.2849603?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LRA.2018.2849603, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "25884999",
+      "name": "Nived Chebrolu"
+    },
+    {
+      "authorId": "2228395",
+      "name": "T. Läbe"
+    },
+    {
+      "authorId": "1722062",
+      "name": "C. Stachniss"
+    }
+  ],
+  "abstract": "Continuous crop monitoring is an important aspect of precision agriculture and requires the registration of sensor data over longer periods of time. Often, fields are monitored using cameras mounted on unmanned aerial vehicles (UAVs) but strong changes in the visual appearance of the growing crops and the field itself poses serious challenges to conventional image registration methods. In this letter, we present a method for registering images of agricultural fields taken by an UAV over the crop season and present a complete pipeline for computing temporally aligned three-dimensional (3-D) point clouds of the field. Our approach exploits the inherent geometry of the crop arrangement in the field, which remains mostly static over time. This allows us to register the images even in the presence of strong visual changes. To this end, we propose a scale invariant, geometric feature descriptor that encodes the local plant arrangement geometry. The experiments suggest that we are able to register images taken over the crop season, including situations where matching with an off-the-shelf visual descriptor fails. We evaluate the accuracy of our matching system with respect to manually labeled ground truth. We furthermore illustrate that the reconstructed 3-D models are qualitatively correct and the registration results allow for monitoring growth parameters at a per plant level.",
+  "references": null
+}

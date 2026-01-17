@@ -1,0 +1,48 @@
+{
+  "paperId": "d1dd7d851c46d080c8d986c8df15ccacf32b9bfc",
+  "externalIds": {
+    "MAG": "2899412763",
+    "DOI": "10.1002/elps.201800440",
+    "CorpusId": 53106717,
+    "PubMed": "30378130"
+  },
+  "url": "https://www.semanticscholar.org/paper/d1dd7d851c46d080c8d986c8df15ccacf32b9bfc",
+  "title": "Microfluidic device embedding electrodes for dielectrophoretic manipulation of cells‐A review",
+  "venue": "Electrophoresis",
+  "year": 2018,
+  "citationCount": 54,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/elps.201800440?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/elps.201800440, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "33315921",
+      "name": "Jiafeng Yao"
+    },
+    {
+      "authorId": "104263154",
+      "name": "Guiping Zhu"
+    },
+    {
+      "authorId": "144625647",
+      "name": "T. Zhao"
+    },
+    {
+      "authorId": "49407355",
+      "name": "M. Takei"
+    }
+  ],
+  "abstract": "Microfluidic device embedding electrodes realizes cell manipulation with the help of dielectrophoresis. Cell manipulation is an important technology for cell sorting and cell population purification. Till now, the theory of dielectrophoresis has been greatly developed. Microfluidic devices with various arrangements of electrodes have been reported from the beginning of the single non‐uniform electric field to the later multiple physical fields. This paper reviews the research status of microfluidic device embedding electrodes for cell manipulation based on dielectrophoresis. Firstly, the working principle of dielectrophoresis is explained. Next, cell manipulation approaches based on dielectrophoresis are introduced. Then, different types of electrode arrangements in the microfluidic device for cell manipulation are discussed, including planar, multilayered and microarray dot electrodes. Finally, the future development trend of the dielectrophoresis with the help of microfluidic devices is prospected. With the rapid development of microfluidic technology, in the near future, high precision, high throughput, high efficiency, multifunctional, portable, economical and practical microfluidic dielectrophoresis will be widely used in the fields of biology, medicine, agriculture and so on.",
+  "references": null
+}

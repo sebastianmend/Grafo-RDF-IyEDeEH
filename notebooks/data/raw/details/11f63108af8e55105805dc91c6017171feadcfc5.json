@@ -1,0 +1,40 @@
+{
+  "paperId": "11f63108af8e55105805dc91c6017171feadcfc5",
+  "externalIds": {
+    "DBLP": "conf/dcoss/Huchtkoetter018",
+    "MAG": "2899467875",
+    "DOI": "10.1109/DCOSS.2018.00025",
+    "CorpusId": 53106332
+  },
+  "url": "https://www.semanticscholar.org/paper/11f63108af8e55105805dc91c6017171feadcfc5",
+  "title": "Demo: Taking Advantage of the Shock Hazard: How to Use an Electric Fence for Data Transfers",
+  "venue": "International Conference on Distributed Computing in Sensor Systems",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCOSS.2018.00025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCOSS.2018.00025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "46250397",
+      "name": "Jana Huchtkoetter"
+    },
+    {
+      "authorId": "145147353",
+      "name": "Andreas Reinhardt"
+    }
+  ],
+  "abstract": "The deployment of embedded sensing devices on croplands and pastures is an enabling element for precision agriculture applications. Changing conditions (e.g., different crops being grown), however, may require the occasional reconfiguration of the resulting networks of wireless sensors, e.g., to modify data reporting rates or synchronize internal clocks. In this demo we showcase an opportunistic broadcast channel to forward such configuration messages to embedded systems. The transmitting station is realized by means of an electric fence energizer, a device frequently utilized in agricultural settings. On the receiver side, only little hardware efforts are required to capture the highvoltage pulses and decode transmitted configuration messages.",
+  "references": null
+}

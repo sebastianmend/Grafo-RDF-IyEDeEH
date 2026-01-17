@@ -1,0 +1,49 @@
+{
+  "paperId": "1e8d7b3e954d3e55baf010bcab55abeabc148e2a",
+  "externalIds": {
+    "MAG": "3020073434",
+    "DBLP": "conf/ecai2/MarcuSBB19",
+    "DOI": "10.1109/ECAI46879.2019.9041952",
+    "CorpusId": 216104437
+  },
+  "url": "https://www.semanticscholar.org/paper/1e8d7b3e954d3e55baf010bcab55abeabc148e2a",
+  "title": "IoT based System for Smart Agriculture",
+  "venue": "European Conference on Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ECAI46879.2019.9041952?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ECAI46879.2019.9041952, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40503926",
+      "name": "I. Marcu"
+    },
+    {
+      "authorId": "1736971",
+      "name": "G. Suciu"
+    },
+    {
+      "authorId": "49878119",
+      "name": "C. Balaceanu"
+    },
+    {
+      "authorId": "1654096609",
+      "name": "A. Banaru"
+    }
+  ],
+  "abstract": "Agriculture is the most traditional activity over time. Since the beginning of it, agriculture has suffered many changes to improve productivity and quality of crops. Some of the first significant improvements have been remarked when machines and new tools such as irrigation systems, harvest machines, farmland clearing machines were introduced in the primitive agriculture, where these activities were performed mainly by humans and animals. Over time, agriculture has been affected by weather disasters (such as storms or extreme temperatures) and by natural disasters (such as pests and plant diseases). Thus, the next step in the development of the agriculture domain was to propose the Internet of Things (IoT) solutions for monitoring of many parameters for better precision agriculture. Such a system would provide useful information on plant growth, crops' diseases, and soil properties that are a benefit for crops. This paper describes a possible solution for a more reliable IoT-based system using Libelium for Smart Agriculture to monitor the parameters that have a direct impact on crops. Moreover, the monitoring system aims to manage agricultural issues related to irrigations and analyses the effect of the measured parameters on agriculture, helping the farmers to have healthy crops.",
+  "references": null
+}

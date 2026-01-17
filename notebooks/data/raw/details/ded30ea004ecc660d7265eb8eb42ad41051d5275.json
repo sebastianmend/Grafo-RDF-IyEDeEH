@@ -1,0 +1,43 @@
+{
+  "paperId": "ded30ea004ecc660d7265eb8eb42ad41051d5275",
+  "externalIds": {
+    "MAG": "3005698030",
+    "DOI": "10.1109/ICAIT47043.2019.8987333",
+    "CorpusId": 211118295
+  },
+  "url": "https://www.semanticscholar.org/paper/ded30ea004ecc660d7265eb8eb42ad41051d5275",
+  "title": "Precision Agriculture using Data Mining Techniques and IOT",
+  "venue": "2019 1st International Conference on Advances in Information Technology (ICAIT)",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAIT47043.2019.8987333?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAIT47043.2019.8987333, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46325863",
+      "name": "N. Sneha"
+    },
+    {
+      "authorId": "145268426",
+      "name": "K. Sushma"
+    },
+    {
+      "authorId": "1492121753",
+      "name": "Surekha Sharad Muzumdar"
+    }
+  ],
+  "abstract": "The objective of the paper is to improve the crop yield in agriculture by measuring the factors affecting, by reducing the consumption and labor work, increase the crop productivity using IOT smart farming and Data mining techniques. Precision agriculture makes use of the technology like IOT sensors, GPS services for communication, (M2M) machine to machine and Data mining techniques. The research concentrates on the extension of two paper which focuses on improving the agriculture using data mining techniques such as DBSCAN, PAM, CLARA, Chameleon, regression techniques. The extended work focuses on identifying the critical factors from the results of clustering techniques and adapting the different sensors for each cluster associated with critical factors. The results include analysis of the cluster results and selection of sensors based on critical factors. Also provides an overview of the selection of sensors.",
+  "references": null
+}

@@ -1,0 +1,47 @@
+{
+  "paperId": "05603f1a5d20db1dc50186e1121d0c7bf92be4d7",
+  "externalIds": {
+    "DOI": "10.26178/ae.2019.64.37.006",
+    "CorpusId": 274510889
+  },
+  "url": "https://www.semanticscholar.org/paper/05603f1a5d20db1dc50186e1121d0c7bf92be4d7",
+  "title": "Опыт адаптации системы DSSAT для моделирования урожая озимой пшеницы ( L.) в условиях Московской области",
+  "venue": "ПРОБЛЕМЫ АГРОХИМИИ И ЭКОЛОГИИ",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.26178/ae.2019.64.37.006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26178/ae.2019.64.37.006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "148517942",
+      "name": "Д.В. Пивченко"
+    },
+    {
+      "authorId": "115197282",
+      "name": "Ю. Л. Мешалкина"
+    },
+    {
+      "authorId": "134985697",
+      "name": "И. И. Васенев"
+    },
+    {
+      "authorId": "2333830561",
+      "name": "Мария Васильевна Тихонова"
+    },
+    {
+      "authorId": "2333828474",
+      "name": "Михайловна Визирская Мария"
+    }
+  ],
+  "abstract": "В работе представлен первый в России опыт применения DSSAT (the Decision Support System for Agrotechnology Transfer) - наиболее распространенной в мире системы поддержки и принятия агротехнологических решений. DSSAT применяется для моделирования развития биомассы и прогнозирования урожая 42 сельскохозяйственных культур с учетом почвенных и климатических условий и метеорологических особенностей конкретного года. На основе результатов агроэкологического мониторинга посева озимой пшеницы (Triticum aestivum L.) сорта Звезда линия 1 - уникального гибрида, полученного методом отдаленной гибридизации с пыреем средним (Elytrigia intermedia (Host) Nevski) на дерново-подзолистых почвах Центра Точного Земледелия РГАУ-МСХА имени К.А. Тимирязева проведены настройка и тестирование модели CERES-Wheat, входящей в DSSAT v 4.6 CSM. Для настройки модели использовалась информация о почве, агротехнологическим мероприятиям, системе применения удобрений, климатическим условиям, а также характеристикам развития биомассы озимой пшеницы за 2015-2016 гг. После настройки смоделированные даты фенологических фаз отличались от реальных на 2-3 дня, а урожай - на 5%. В результате были получены оценки для так называемых «генетических» коэффициентов, характеризующих развитие сорта в конкретных почвенно-климатических условиях и при применяемых агротехнологиях. Рассчитанные коэффициенты оказались близки к полученным для Восточной Европы и Великобритании. В результате тестирования модели по данным вегетационного сезона 2016-2017 гг., более холодного по метеорологическим условиям, отклонение смоделированного урожая от реально полученного составило 31% в сторону уменьшения. В целом проведенное исследование показало потенциальную возможность настройки модели CERES-Wheat системы DSSAT для моделирования озимой пшеницы в условиях Московской области.\n The paper presents the first in Russia experience of using DSSAT (the Decision Support System for Agrotechnology Transfer) that is the world’s most widespread system for supporting and making agrotechnological decisions. It is used to simulate the biomass development and to predict the yield of 42 crops at a certain location taking into account the meteorological conditions of a particular year. The CERES-Wheat model based on the DSSAT v 4.6 CSM was adapted and tested using the results of agro-ecological monitoring of the winter wheat (Triticum aestivum L.) variety Zvezda, line 1, the unique hybrid obtained by the method of distant hybridization with wheatgrass medium (Elytrigia intermedia (Host) Nevski), planted on soddy-podzolic soils of the Precision Agriculture Center of the Russian State Agrarian University - Moscow Timiryazev Agricultural Academy. Information about the soil, agricultural technology interventions, the system of fertilizer application and climatic conditions as well as the characteristics of winter wheat biomass development 2015-2016 was introduced into the system for the model adaptation. After that the simulated dates of phenological phases differed from the real ones by 2-3 days, and the harvest - by 5%. As a result, the so-called “genetic” coefficients characterizing the development of a particular variety in climatic conditions on a specific field with the applied agricultural technologies were estimated. The estimated values of the coefficients were close to those ones for Eastern Europe and the United Kingdom. Testing the model to the data of the growing season 2016-2017, colder in meteorological conditions, showed the deviation of the modeled yield from the actual yield by 31% downward. In general, the study showed the potential possibility to customize the CERES-Wheat model of the DSSAT to winter wheat simulations in the conditions of the Moscow region.",
+  "references": null
+}

@@ -1,0 +1,167 @@
+{
+  "paperId": "525e620701f43819949d4a0b6af3da80ad8aae58",
+  "externalIds": {
+    "MAG": "2912801526",
+    "DOI": "10.1111/ejss.12750",
+    "CorpusId": 104373199
+  },
+  "url": "https://www.semanticscholar.org/paper/525e620701f43819949d4a0b6af3da80ad8aae58",
+  "title": "Burgess, T.M. & Webster, R. 1980. Optimal interpolation and isarithmic mapping of soil properties. I. The semi‐variogram and punctual kriging. Journal of Soil Science, 31, 315–331",
+  "venue": "European Journal of Soil Science",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://repository.rothamsted.ac.uk/download/0c42583c5afb3dccb08f4201287f8cf233e5ec55b9126e7a76206f81443a9595/3658866/10.1111_ejss.12750.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ejss.12750?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ejss.12750, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2241246796",
+      "name": "Richard Webster"
+    }
+  ],
+  "abstract": "This landmark paper by Burgess & Webster (1980a) signalled a new era in the spatial mapping 2 of the soil. The emergence of pedometrics as a distinct subdiscipline of soil science was a gradual 3 process, and had its roots in earlier studies than this one, but if one publication is to mark the 4 start of pedometrics, then this is it. 5 The publication of this paper, and the successors in the series that it initiated, showed that 6 statistics could do more than just assist the soil surveyor in quantitative prediction from maps 7 based on a legend of discrete units. It showed soil scientists that there was a very different way 8 of mapping the soil, namely through geostatistical interpolation. 9 The impact of the paper on practice has been substantial. Soil scientists have used geosta10 tistical prediction to map the distribution of nutrients or pests at within-field scale for precision 11 agriculture, to delineate contaminated land, to map changes in soil properties over time at the 12 regional scale to map the risk of problems such as salinity and even for forensic inference. 13 The value of geostatistics was soon recognized in soil science. This is, in part, because when 14 one considers the state of the art at the time of its publication it is clear that it fulfilled a need for 15 new methods. At the same time, its impact was not simply due to the method it introduced to 16 soil science, ordinary kriging, but to the interest it stimulated among soil scientists and applied 17 statisticians who went on to develop and improve the methodology in several critical ways. 18",
+  "references": [
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "3490ff2be44ba0406cff4eca7a964341caa238e5"
+    },
+    {
+      "paperId": "bdfce71eef5b463efa52ab193a78ca26b7a2df0c"
+    },
+    {
+      "paperId": "8aa30e67054d227999594e68cad58b4199f43f77"
+    },
+    {
+      "paperId": "bad500b09e18755022d7deb316190e4a6eab3d1e"
+    },
+    {
+      "paperId": "17b1f76794896049cee9d109414dc4cedcee3f17"
+    },
+    {
+      "paperId": "56d7aa146c82ce938d647c17af059b1f6918d92d"
+    },
+    {
+      "paperId": "acf78c1db017ebd04adba20d8bca9fdeea4a8c51"
+    },
+    {
+      "paperId": "5c513d71a1dafbddf580064f450ee37e9c515e52"
+    },
+    {
+      "paperId": "c4d1e8f85abdac873790b66c0d5d47b9775a3150"
+    },
+    {
+      "paperId": "35fdeca10b33910feb7af503fb783fcce2fcce06"
+    },
+    {
+      "paperId": "9f84c6c8d375b13ea69daa9fec61e936877d762e"
+    },
+    {
+      "paperId": "94cf3b4318ac83b8cbad842d240b79f5953eaf9a"
+    },
+    {
+      "paperId": "f3a5d00f3413aeaff0a0f13bf76f35f621684d8b"
+    },
+    {
+      "paperId": "60af3d0f1ba98e4c1b5b4749148cea019922a9bb"
+    },
+    {
+      "paperId": "390e6df51c1a865fcb3e84bc3aa093c93c5d7f0f"
+    },
+    {
+      "paperId": "fd302d757fc8d8120103491f987945f7e96842cc"
+    },
+    {
+      "paperId": "65e25ca5d3603f8e82b8d82f63944d46287b077f"
+    },
+    {
+      "paperId": "bd0cb0faea6c7ea7048ecd9523c79d7c45a1351b"
+    },
+    {
+      "paperId": "e00e71a2ae65d3b307f5235ce884781f3910b238"
+    },
+    {
+      "paperId": "cb401494b598af31b6f2616ca1e8aa95ef432c83"
+    },
+    {
+      "paperId": "df55b40772c241ac8efbfdf59e8ed2f5ba8bb4af"
+    },
+    {
+      "paperId": "bbed50fc9f731e6742c55d5d178df4c2aa42bb7e"
+    },
+    {
+      "paperId": "4d270d88eb3ca0fec61b0407824dad4d66be0e9f"
+    },
+    {
+      "paperId": "756d0090a1052827f99650bbf88a5047c745a745"
+    },
+    {
+      "paperId": "bd10df0dcbc0b89fe564ce11f27ca4eb83324f67"
+    },
+    {
+      "paperId": "f9870f4200cb725af0d95d9f4833af0438c58d21"
+    },
+    {
+      "paperId": "4771296c657cfe331955445890c31c61a9793e4a"
+    },
+    {
+      "paperId": "c3e1fb75e69e1b5773f5d15768a8117f95621d35"
+    },
+    {
+      "paperId": "07de7252702bc47410a3298e49f6fda8a9bdbb27"
+    },
+    {
+      "paperId": "3acbb82965a12d45371d63356c2ff18949143613"
+    },
+    {
+      "paperId": "58841507cb10c07d59dce1921d425f241f4bc433"
+    },
+    {
+      "paperId": "f6ed9cea1001a307892f2668e82826ca8363f872"
+    },
+    {
+      "paperId": "9e5c0879402ce43b6427d5e19aa965fc136eb617"
+    },
+    {
+      "paperId": "49b28b913471257f82c49b42d3dd7b6347883176"
+    },
+    {
+      "paperId": "496d52453e93488edab4056ebf87c1392f10889e"
+    },
+    {
+      "paperId": "6217ae224d48f96c5f45b1228ea1b29c769e9ec1"
+    },
+    {
+      "paperId": "269fa09f43ce9cc6a5c90604f8833c4363fa9b19"
+    },
+    {
+      "paperId": "8699db6b46069bac726a6bd97fe837e8273231f0"
+    },
+    {
+      "paperId": "e7c142770f26b7b1999e079f7767010906c0e43d"
+    },
+    {
+      "paperId": "75a59af2f5d71e3b061e566381cce1a248497e51"
+    },
+    {
+      "paperId": "cc36d7af9df4e31c6f377c188ddf68ad5c699278"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "da71636330d54b2713161c81edbc52f2a67c9bc1"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "paperId": "26db6bd99736136978ec56d0e3da092e891f2cdc",
+  "externalIds": {
+    "MAG": "2885861672",
+    "DOI": "10.1117/12.2326214",
+    "CorpusId": 133763023
+  },
+  "url": "https://www.semanticscholar.org/paper/26db6bd99736136978ec56d0e3da092e891f2cdc",
+  "title": "Remote sensing and multi-criteria evaluation techniques with GIS application for the update of Greek Land Parcel Identification System",
+  "venue": "International Conference on Remote Sensing and Geoinformation of Environment",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2326214?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2326214, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "108283191",
+      "name": "Ioannis Marakakis"
+    },
+    {
+      "authorId": "107809095",
+      "name": "Titika Kalimeri"
+    }
+  ],
+  "abstract": "The Land Parcel Identification System (LPIS) is an IT system that is used from European countries as a tool to determine the eligibility of the agricultural land. The update of the Greek LPIS is implemented through Remote Sensing and multi-criteria evaluation (MCE) techniques within a GIS application environment using aerial photographs and/or high precision satellite images. The basic procedure for the implementation of the LPIS comprises of: a) the identification and delineation of the homogeneous land cover areas characterized as ilots, b) the classification of these ilots based on their land use and c) the exclusion of the non-agricultural areas inside the agricultural ilots, characterized as subilots. Ilots can be either agricultural or non-agricultural land parcels, and during the process of classification each ilot is being given a parcel code depending on its type. The same process of classification is also taking place for subilots, where depending on the type of non-productive land, they are also being given a land use category code. During the digitization of ilots there are several factors that influence the process such as the delineation of those areas based on physical characteristics in compliance with the priority of those characteristics as well as the adaptation of certain rules of geometry. Another difficult process of high value during the update of LPIS data is the determination of the percentage reduction that should be applied to indicate the ineligible areas within the pasture lands and the identification and delineation of the corresponding subilots. The entire process of LPIS update is based on a GIS (an example application using Arc/Info GIS is included) in which through remote sensing and multi-criteria evaluation techniques the process of updating of the above data is being implemented with great success and high levels of accuracy.",
+  "references": null
+}

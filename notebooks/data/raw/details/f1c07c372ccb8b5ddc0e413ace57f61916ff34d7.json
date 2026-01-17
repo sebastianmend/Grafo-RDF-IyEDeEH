@@ -1,0 +1,46 @@
+{
+  "paperId": "f1c07c372ccb8b5ddc0e413ace57f61916ff34d7",
+  "externalIds": {
+    "MAG": "2991529249",
+    "DOI": "10.1115/detc2019-97497",
+    "CorpusId": 213464437
+  },
+  "url": "https://www.semanticscholar.org/paper/f1c07c372ccb8b5ddc0e413ace57f61916ff34d7",
+  "title": "Smart Agricultural In-Field Service Robot: From Toy to Tool",
+  "venue": "IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1115/detc2019-97497?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/detc2019-97497, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2155301398",
+      "name": "Peng Wang"
+    },
+    {
+      "authorId": "2122989533",
+      "name": "Junwei Tian"
+    },
+    {
+      "authorId": "134071923",
+      "name": "Haoyu Niu"
+    },
+    {
+      "authorId": "50580551",
+      "name": "YangQuan Chen"
+    }
+  ],
+  "abstract": "\n A low-cost and multi-functional ground mobile robot is presented for precision agricultural application. A modified toy car is used as the hardware platform, and robotic operating system (ROS) as the software platform. By adding sensors and end effector, the robot can be controlled remotely. Our vision is to build an autonomous in-field service robot to realize some specific tasks instead of farmers.",
+  "references": null
+}

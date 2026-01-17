@@ -1,0 +1,207 @@
+{
+  "paperId": "a915001ca9822da85a5a1e822a7da5a7bf667956",
+  "externalIds": {
+    "MAG": "2889407785",
+    "DOI": "10.1364/OE.26.023366",
+    "CorpusId": 52170139,
+    "PubMed": "30184988"
+  },
+  "url": "https://www.semanticscholar.org/paper/a915001ca9822da85a5a1e822a7da5a7bf667956",
+  "title": "5D hyperspectral imaging: fast and accurate measurement of surface shape and spectral characteristics using structured light.",
+  "venue": "Optics Express",
+  "year": 2018,
+  "citationCount": 70,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1364/oe.26.023366",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1364/OE.26.023366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1364/OE.26.023366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144168722",
+      "name": "S. Heist"
+    },
+    {
+      "authorId": "2111573661",
+      "name": "Chen Zhang"
+    },
+    {
+      "authorId": "51241716",
+      "name": "Karl Reichwald"
+    },
+    {
+      "authorId": "2513220",
+      "name": "P. Kühmstedt"
+    },
+    {
+      "authorId": "2212578",
+      "name": "G. Notni"
+    },
+    {
+      "authorId": "3198775",
+      "name": "A. Tünnermann"
+    }
+  ],
+  "abstract": "Measuring the shape (coordinates x, y, z ) and spectral characteristics (wavelength-dependent reflectance R (λi)) of macroscopic objects as a function of time (t) is of great interest in areas such as medical imaging, precision agriculture, or optical sorting. Here, we present an approach that allows to determine all these quantities with high resolution and accuracy, enabling measurement in five dimensions. We call this approach 5D hyperspectral imaging. We describe the design and implementation of a 5D sensor operating in the visible to near-infrared spectral range, which provides excellent spatial and spectral resolution, great depth accuracy, and high frame rates. The results of various experiments strongly indicate the great benefit of the new technology.",
+  "references": [
+    {
+      "paperId": "45db78e758d6ceb1dcc2bce77140354f1f5c2c67"
+    },
+    {
+      "paperId": "8bee948f66438445157ba078765fd2828560b795"
+    },
+    {
+      "paperId": "9eb0183f121baba3fe39c435bce1c22ec90187c6"
+    },
+    {
+      "paperId": "7084ecc96b4ff1c65f7b9b86dbb69c227690accc"
+    },
+    {
+      "paperId": "0c34177d64daf522608b5e60b212006b6c21992c"
+    },
+    {
+      "paperId": "4e218f0a83ca742a4582f33f2a551038c8de41e1"
+    },
+    {
+      "paperId": "7ca1ff46cf4918503d959604255acbd7909dc4b5"
+    },
+    {
+      "paperId": "525aff2802c496ca1380afa9cdb95dc75286c9a8"
+    },
+    {
+      "paperId": "2380b5bd03a4555fab4213eb1ff2ec7af617cc81"
+    },
+    {
+      "paperId": "8f5656192cc66e288f51dbc328e7f242fa45c9a4"
+    },
+    {
+      "paperId": "ddb4bac4331f5eef5a6dd203a4cef1e78701cd72"
+    },
+    {
+      "paperId": "f0c1c95fbddbdd0f64ca0d1090752ebdd1707f78"
+    },
+    {
+      "paperId": "df1351d4df634069307c6697fd6aeb5d57ea2e47"
+    },
+    {
+      "paperId": "474c93dddbac14fce8f550af860bf1929a588075"
+    },
+    {
+      "paperId": "7b454204d0ef6c9aa527ad796305832fa0ee6339"
+    },
+    {
+      "paperId": "8da396587035dec9712da742ce2cfa57cc5c0eb8"
+    },
+    {
+      "paperId": "2fc42291828fd6554cc8c3cbf91f8510b602c3ca"
+    },
+    {
+      "paperId": "26d6461d609d15ea8de494aeeb0673cc7c1afe46"
+    },
+    {
+      "paperId": "fda79def738567db23a5987845bb8ce5a7d07af2"
+    },
+    {
+      "paperId": "34ffb2df526c11500b1bb85517c403833731a283"
+    },
+    {
+      "paperId": "38628d0ebfbdd17af173103207a8c6fad9d0ce86"
+    },
+    {
+      "paperId": "08ba5049977369998cd5482bb17b7d3e0ec49591"
+    },
+    {
+      "paperId": "5f859007c006029155dbff96a2ea982e2a508bb5"
+    },
+    {
+      "paperId": "3dd0a1f55916d9f9887733e4528142e1f36eb075"
+    },
+    {
+      "paperId": "ae9886857342b49e74b2d2d10f0a1f82aae87650"
+    },
+    {
+      "paperId": "8b644f9aaa331d8eb833659604d3893225d23e48"
+    },
+    {
+      "paperId": "903314e13c442f91179bfb07ca4aac5c5a78a022"
+    },
+    {
+      "paperId": "d3a7446b4c90579600af53879870c178bda699b4"
+    },
+    {
+      "paperId": "1a476e2db3c71151b5ee762966b2e2fa9994a694"
+    },
+    {
+      "paperId": "edb11a439124103920577f2ff779dd7e8ddfea47"
+    },
+    {
+      "paperId": "a12f654b8eb486fec50b334f42781fa744cf99a3"
+    },
+    {
+      "paperId": "8ce444f80f6618d74280237ad21ae6cd6c2ad474"
+    },
+    {
+      "paperId": "42854acb4f350b28479d255b37c7168ae4237b96"
+    },
+    {
+      "paperId": "343400879ef6fe433cc090c39f3fbb1a846076f0"
+    },
+    {
+      "paperId": "2ba5aa2a0e0e75d39de937befcc7e74b630d8f4c"
+    },
+    {
+      "paperId": "1b856dc8cf10f928454f468ed29be295d21cd5d4"
+    },
+    {
+      "paperId": "e062cf5e0c177fd7106c1588b64cfba1bc51d833"
+    },
+    {
+      "paperId": "6bdacaf992b0394cc73ff94fcbf6b31483406286"
+    },
+    {
+      "paperId": "411342c3370c14271035d3c9d3084bc24eb7f988"
+    },
+    {
+      "paperId": "f9acdaafa31a142e898e3b1815fa423557c193d7"
+    },
+    {
+      "paperId": "b81afd190adcd52190fa31af0841dd7b9695380e"
+    },
+    {
+      "paperId": "ea1779575172e74d250bb3537a490182a1978d25"
+    },
+    {
+      "paperId": "3da01deee8c6011e27cc92b26a521cd082bbddd4"
+    },
+    {
+      "paperId": "a13df3cea348a90191ab96b0644638da401a93ad"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9512e097090185c39c812cf584aebb6dc8b73255"
+    },
+    {
+      "paperId": "3ba782927456a3043fe7d979a109cce7ca33fdf2"
+    },
+    {
+      "paperId": "66648d73c708a4c5408e229bf429c65d28e2453c"
+    },
+    {
+      "paperId": "b0104d9fa100a5e6c8a42e49e7a452d8904fc85e"
+    },
+    {
+      "paperId": "d274dfd00aaac4c4f50030c489c31ea1b6169376"
+    }
+  ]
+}

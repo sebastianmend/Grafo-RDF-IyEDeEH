@@ -1,0 +1,38 @@
+{
+  "paperId": "e3dd67510ced0a98588ac6e60c3224da93cc4aaf",
+  "externalIds": {
+    "MAG": "3003690669",
+    "DOI": "10.1109/ICICT46931.2019.8977665",
+    "CorpusId": 211060805
+  },
+  "url": "https://www.semanticscholar.org/paper/e3dd67510ced0a98588ac6e60c3224da93cc4aaf",
+  "title": "IOT Based Smart Polyhouse System using Data Analysis",
+  "venue": "International Congress on Information and Communication Technology",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICT46931.2019.8977665?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICT46931.2019.8977665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "28514658",
+      "name": "A. Pandey"
+    },
+    {
+      "authorId": "1491633695",
+      "name": "Minakshi Chauhan"
+    }
+  ],
+  "abstract": "A large part of the world’s population depends upon agriculture industry for its source of livelihood. The growth of agriculture industry is bound to the two major parameters; quality and quantity yield of the crops. Polyhouse farming is an excellent method which enables the production of crops with minimum resources and efforts and maximum yield by providing a controlled condition environment. Polyhouse is a methodology to grow crops under controlled environment with continuous monitoring and analysis. In this paper, we proposed an automated IOT based smart polyhouse system with Hadoop technologies to bring precision in farming techniques. In order to increase the yield and quality of crops, the proposed non-manual system helps to automate the functionality of polyhouse. This system contains sensors, IOT devices and Hadoop technologies like Apache Hadoop, Flume and Hive. Using these technologies, data from various sensors will be analyzed to help in decision making. It also focuses on incorporating smart irrigation methods and technologies like drip irrigation etc within the conservatory which can assist farmers in preventing damage to their crops due to unnecessary water logging.",
+  "references": null
+}

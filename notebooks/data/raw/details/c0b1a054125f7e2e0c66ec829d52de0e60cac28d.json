@@ -1,0 +1,43 @@
+{
+  "paperId": "c0b1a054125f7e2e0c66ec829d52de0e60cac28d",
+  "externalIds": {
+    "DBLP": "journals/joeuc/KitouniBL18",
+    "MAG": "2883731164",
+    "DOI": "10.4018/JOEUC.2018100105",
+    "CorpusId": 56483292
+  },
+  "url": "https://www.semanticscholar.org/paper/c0b1a054125f7e2e0c66ec829d52de0e60cac28d",
+  "title": "Smart Agricultural Enterprise System Based on Integration of Internet of Things and Agent Technology",
+  "venue": "Journal of Organizational and End User Computing",
+  "year": 2018,
+  "citationCount": 63,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4018/JOEUC.2018100105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/JOEUC.2018100105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2447298",
+      "name": "Ilham Kitouni"
+    },
+    {
+      "authorId": "2611860",
+      "name": "Djamel Benmerzoug"
+    },
+    {
+      "authorId": "2460019",
+      "name": "F. Lezzar"
+    }
+  ],
+  "abstract": "This article describes how the Internet of Things (IoT) and its smart objects will be the fundamental building blocks for the creation of smart pervasive systems. Precision Agriculture can be defined as the use of information, communications technologies and electronic devices in agricultural practice, to improve agricultural production. This article addresses the problem of modelling Precision Agriculture systems. The authors propose an Agent-based approach for an effective integration of the IoT technology in Agricultural Enterprise systems. The proposed approach is based on Agent Interaction Protocols (AiP) through which they specify complex services of the system by recognizing larger chunks that have a meaning in the application domain. The AiP supports the modelling of composite services as entities whose business logic involves a number of interactions among more elementary service components. The authors present an agent-based system architecture whose main goal is to address interoperability issues between heterogeneous IoT-based services by offering a harmonized API.",
+  "references": null
+}

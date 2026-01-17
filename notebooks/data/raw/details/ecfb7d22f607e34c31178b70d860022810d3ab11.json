@@ -1,0 +1,42 @@
+{
+  "paperId": "ecfb7d22f607e34c31178b70d860022810d3ab11",
+  "externalIds": {
+    "MAG": "2915519176",
+    "DOI": "10.1007/s11831-019-09324-0",
+    "CorpusId": 126715804
+  },
+  "url": "https://www.semanticscholar.org/paper/ecfb7d22f607e34c31178b70d860022810d3ab11",
+  "title": "Applications of Computer Vision in Plant Pathology: A Survey",
+  "venue": "Archives of Computational Methods in Engineering",
+  "year": 2019,
+  "citationCount": 146,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11831-019-09324-0.pdf",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11831-019-09324-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11831-019-09324-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "49588981",
+      "name": "Siddharth Singh Chouhan"
+    },
+    {
+      "authorId": "3092565",
+      "name": "U. Singh"
+    },
+    {
+      "authorId": "145877208",
+      "name": "Sanjeev Jain"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

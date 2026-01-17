@@ -1,0 +1,42 @@
+{
+  "paperId": "1cfce8ea7e87d9de861a7e79ff6656c6cf2a2d2c",
+  "externalIds": {
+    "MAG": "2972174060",
+    "DOI": "10.1515/bot-2019-0017",
+    "CorpusId": 202730190
+  },
+  "url": "https://www.semanticscholar.org/paper/1cfce8ea7e87d9de861a7e79ff6656c6cf2a2d2c",
+  "title": "Commercialization of Irish moss aquaculture: the Canadian experience",
+  "venue": "Botanica Marina",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1515/bot-2019-0017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/bot-2019-0017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3250271",
+      "name": "J. Craigie"
+    },
+    {
+      "authorId": "49023667",
+      "name": "M. Cornish"
+    },
+    {
+      "authorId": "1396418255",
+      "name": "Louis E. Deveau"
+    }
+  ],
+  "abstract": "Abstract Irish moss traditionally has been valued for its hydrocolloid composition. Recognition that natural harvests would not meet the expected demands for its biomass led to experimental pilot-scale cultivation based on principles used in agriculture. Innovative technologies and systems for aquaculture management were devised when those from agriculture or mariculture were not directly transferrable. Periods of rapid progress and of consolidation due to disruptive external events were encountered, a cycle not uncommon during the introduction of a new technology. Certain key decisions in the background matrix that ultimately led to Irish moss cultivation are reviewed together with an overview of the main critical events that affected progress. The Chondrus crispus aquaculture as practiced today is essentially a modified form of precision agriculture operating year-round with c. 3.4 ha of on-land culture tanks and up to 75 employees during the peak season. Beginning with new Irish moss seedstock from the library/nursery, the crop is generated through a closely controlled, vertically integrated system of cultivation that after approximately 18 months increases the biomass more than 50,000-fold. After harvesting it is processed into the final food-grade products to meet the stringent demands of the export market.",
+  "references": null
+}

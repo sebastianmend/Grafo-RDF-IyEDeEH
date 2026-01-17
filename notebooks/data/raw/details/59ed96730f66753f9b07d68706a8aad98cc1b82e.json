@@ -1,0 +1,60 @@
+{
+  "paperId": "59ed96730f66753f9b07d68706a8aad98cc1b82e",
+  "externalIds": {
+    "MAG": "3020125664",
+    "DBLP": "conf/dese/BarbosaOBLFVC19",
+    "DOI": "10.1109/DeSE.2019.00107",
+    "CorpusId": 216103614
+  },
+  "url": "https://www.semanticscholar.org/paper/59ed96730f66753f9b07d68706a8aad98cc1b82e",
+  "title": "Design and Development of an Autonomous Mobile Robot for Inspection of Soy and Cotton Crops",
+  "venue": "International Conference on Developments in eSystems Engineering",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DeSE.2019.00107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DeSE.2019.00107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1580308137",
+      "name": "W. Barbosa"
+    },
+    {
+      "authorId": "150025110",
+      "name": "Adalberto I. S. Oliveira"
+    },
+    {
+      "authorId": "2059578774",
+      "name": "Gustavo B. P. Barbosa"
+    },
+    {
+      "authorId": "27088096",
+      "name": "A. C. Leite"
+    },
+    {
+      "authorId": "145198606",
+      "name": "Karla Figueiredo"
+    },
+    {
+      "authorId": "144990473",
+      "name": "M. Vellasco"
+    },
+    {
+      "authorId": "1680670",
+      "name": "W. Caarls"
+    }
+  ],
+  "abstract": "In recent years, the use of mobile robots in agriculture has increased significantly because of their capability to carry out agricultural tasks in a safe and efficient manner, with limited or without human intervention. Crop monitoring and inspection have become an important part of precision agriculture, supporting farmers in the management of insect pests, weeds and diseases in order to reduce costs and losses. In this work, we present the design and development of an autonomous mobile robot, conceived to perform routine monitoring and inspection tasks on soy and cotton crops. The robot design is similar to a differential-drive vehicle due to its simplicity of construction, modeling and control. The autonomous navigation is successfully carried out via the use of odometry and cameras properly attached to the robot structure. Preliminary field tests with the prototype operating on a cotton farm are presented to show the performance and feasibility of the electro-mechanical design for navigation in row crops.",
+  "references": null
+}

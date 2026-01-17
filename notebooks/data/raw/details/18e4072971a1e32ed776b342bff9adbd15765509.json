@@ -1,0 +1,44 @@
+{
+  "paperId": "18e4072971a1e32ed776b342bff9adbd15765509",
+  "externalIds": {
+    "DBLP": "conf/cloudnet/CastellanoRL18",
+    "MAG": "2902573685",
+    "DOI": "10.1109/CloudNet.2018.8549354",
+    "CorpusId": 54437221
+  },
+  "url": "https://www.semanticscholar.org/paper/18e4072971a1e32ed776b342bff9adbd15765509",
+  "title": "Fog Computing Over Challenged Networks: A Real Case Evaluation",
+  "venue": "2018 IEEE 7th International Conference on Cloud Networking (CloudNet)",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CloudNet.2018.8549354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CloudNet.2018.8549354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "48822726",
+      "name": "Gabriele Castellano"
+    },
+    {
+      "authorId": "2240943194",
+      "name": "Fulvio Risso"
+    },
+    {
+      "authorId": "2193659",
+      "name": "Riccardo Loti"
+    }
+  ],
+  "abstract": "Fog computing enables a multitude of resource-constrained end devices (e.g., sensors and actuators) to benefit from the presence of fog nodes in their close vicinity, which can provide the required computing and storage facilities instead of relying on a distant Cloud infrastructure. However, guaranteeing stable communication between end devices and fog nodes is often not trivial. Indeed, in some application scenarios such as mining operations, building sites, precision agriculture, and more, communication occurs over Challenged Networks e.g., because of the absence of a fixed and reliable network infrastructure. This paper analyzes the applicability of Fog Computing in a real Industrial Internet of Things (IIoT) environment, providing an architecture that enables disruption-tolerant communication over Challenged Networks and evaluating the achieved performance on an open-source prototype implementation.",
+  "references": null
+}

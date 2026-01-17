@@ -1,0 +1,56 @@
+{
+  "paperId": "9351c31b0a048ef0d1b4e48f71c12382f6a0e223",
+  "externalIds": {
+    "MAG": "2989008504",
+    "DBLP": "conf/igarss/WuYWHJP19",
+    "DOI": "10.1109/IGARSS.2019.8900258",
+    "CorpusId": 208040031
+  },
+  "url": "https://www.semanticscholar.org/paper/9351c31b0a048ef0d1b4e48f71c12382f6a0e223",
+  "title": "Multi-Platform Radiometer Systems for Surface Soil Moisture Retrieval",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://orbi.uliege.be/bitstream/2268/311706/1/Wu%20IGARSS%202019.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2019.8900258?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2019.8900258, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47149733",
+      "name": "Xiaoling Wu"
+    },
+    {
+      "authorId": "33419990",
+      "name": "N. Ye"
+    },
+    {
+      "authorId": "2110582032",
+      "name": "J. Walker"
+    },
+    {
+      "authorId": "145925516",
+      "name": "J. Hills"
+    },
+    {
+      "authorId": "1798444",
+      "name": "F. Jonard"
+    },
+    {
+      "authorId": "144349840",
+      "name": "V. Pauwels"
+    }
+  ],
+  "abstract": "Readily available soil moisture data will help farmers to better optimize their irrigation scheduling and minimize water consumption. Consequently, there is a large and accelerating interest in using sensing technologies in precision agriculture worldwide. Among them, passive microwave sensing technology has been considered as the most accurate in retrieving soil moisture. This study compares the performance of an L-band radiometer system at two different platforms: airborne and near-surface (buggy). Field experiments have been conducted across an agricultural site in Tasmania, Australia for three consecutive days for. Ground sampling was also conducted in order to evaluate the accuracy of both L-band radiometer systems. Brightness temperature data from the buggy showed a larger temporal variation on individual days than the aircraft data, likely due to the irrigation activity during the longer period required for data collection by the buggy than for the aircraft. In terms of the relationship between brightness temperature and soil moisture, both platforms showed similar results while the buggy-based data showed a slightly better correlation with soil moisture.",
+  "references": null
+}

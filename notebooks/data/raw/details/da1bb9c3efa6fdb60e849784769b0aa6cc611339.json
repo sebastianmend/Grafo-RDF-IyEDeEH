@@ -1,0 +1,47 @@
+{
+  "paperId": "da1bb9c3efa6fdb60e849784769b0aa6cc611339",
+  "externalIds": {
+    "DBLP": "journals/ijoe/LiLTZ18",
+    "MAG": "2794849847",
+    "DOI": "10.3991/ijoe.v14i03.8413",
+    "CorpusId": 4511291
+  },
+  "url": "https://www.semanticscholar.org/paper/da1bb9c3efa6fdb60e849784769b0aa6cc611339",
+  "title": "Design and Implementation of Sugarcane Growth Monitoring System based on RFID and ZigBee",
+  "venue": "International Journal of Online Engineering (iJOE)",
+  "year": 2018,
+  "citationCount": 29,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://online-journals.org/index.php/i-joe/article/download/8413/4900",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3991/ijoe.v14i03.8413?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3991/ijoe.v14i03.8413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2237589259",
+      "name": "Biqing Li"
+    },
+    {
+      "authorId": "2349798232",
+      "name": "Yongfa Ling"
+    },
+    {
+      "authorId": "2056454547",
+      "name": "Miao Tian"
+    },
+    {
+      "authorId": "20479308",
+      "name": "Shiyong Zheng"
+    }
+  ],
+  "abstract": "Sugarcane is a kind of important sugar crops, which has been planted in large area of southern China, but traditional manual operation still applied on sugarcane planting and management at present, leading to higher labor costs. In recent years, the development of Internet of Things technologies such as wireless sensor technology, ZigBee, RFID, etc., as well as the application of technologies such as video image processing, automatic control, and 3S, etc. have provided technical supports for precision planting of agricultural production, visual management, and intelligent decision-making. This paper, relying on the Internet of things technology, has designed and implemented a set of sugarcane growth monitoring system according to the growth characteristics of sugarcane crops, this system has passed the test, and results showed that it can effectively monitor growing environment of sugarcane, such as temperature, humidity, crop plant height, thus realize the whole process management of agricultural automation.",
+  "references": []
+}

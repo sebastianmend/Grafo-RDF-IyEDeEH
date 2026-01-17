@@ -1,0 +1,51 @@
+{
+  "paperId": "ad0578f8a9c5a06d1780fb1d1f673174f7f6409b",
+  "externalIds": {
+    "MAG": "2909600166",
+    "DBLP": "journals/npa/GarciaPJLL18",
+    "DOI": "10.5296/npa.v10i4.14147",
+    "CorpusId": 58007539
+  },
+  "url": "https://www.semanticscholar.org/paper/ad0578f8a9c5a06d1780fb1d1f673174f7f6409b",
+  "title": "Practical Design of a WSN to Monitor the Crop and its Irrigation System",
+  "venue": "Netw. Protoc. Algorithms",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.macrothink.org/journal/index.php/npa/article/download/14147/11244",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5296/npa.v10i4.14147?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5296/npa.v10i4.14147, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145392358",
+      "name": "Laura García"
+    },
+    {
+      "authorId": "2170419",
+      "name": "L. Parra"
+    },
+    {
+      "authorId": "144697002",
+      "name": "J. M. Jiménez"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    },
+    {
+      "authorId": "3141184",
+      "name": "P. Lorenz"
+    }
+  ],
+  "abstract": "Due to environmental problems, such as the lack of water for irrigation, each day it becomes more necessary to control crops. Therefore, the use of precision agriculture becomes more evident. When it comes to making decisions on crops, it is evident the need to apply the concept of Smart Agriculture, that focuses on utilizing different sensors and actuators. As the number of IoT devices used in agriculture grows exponentially, it is necessary to design the implemented network so that the data is transmitted without problems. The present work shows a wireless network design, in which we use the information collected by the sensors of a Wireless Sensor Network (WSN), and a Wireless Mesh Network (WMN) formed by Access Points (AP) to transmit the data to a network that monitors agriculture for smart irrigation. In addition, through simulations we have presented a proposal of the maximum number of nodes that must be connected to an AP so that the network is efficient.",
+  "references": null
+}

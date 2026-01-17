@@ -1,0 +1,47 @@
+{
+  "paperId": "0f96ea1b9e75c4b38e6f3188a173975f0f53aa7f",
+  "externalIds": {
+    "DBLP": "conf/pkdd/DijkstraLSW18",
+    "MAG": "2925926191",
+    "DOI": "10.1007/978-3-030-10997-4_36",
+    "CorpusId": 58015509
+  },
+  "url": "https://www.semanticscholar.org/paper/0f96ea1b9e75c4b38e6f3188a173975f0f53aa7f",
+  "title": "CentroidNet: A Deep Neural Network for Joint Object Localization and Counting",
+  "venue": "ECML/PKDD",
+  "year": 2018,
+  "citationCount": 34,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-10997-4_36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-10997-4_36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40109500",
+      "name": "K. Dijkstra"
+    },
+    {
+      "authorId": "41221290",
+      "name": "J. V. D. Loosdrecht"
+    },
+    {
+      "authorId": "1799278",
+      "name": "Lambert Schomaker"
+    },
+    {
+      "authorId": "32239759",
+      "name": "M. Wiering"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

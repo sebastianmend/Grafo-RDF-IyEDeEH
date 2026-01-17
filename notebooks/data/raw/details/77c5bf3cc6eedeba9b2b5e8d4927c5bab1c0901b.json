@@ -1,0 +1,189 @@
+{
+  "paperId": "77c5bf3cc6eedeba9b2b5e8d4927c5bab1c0901b",
+  "externalIds": {
+    "MAG": "2921849979",
+    "DBLP": "journals/access/LongCLB19",
+    "DOI": "10.1109/ACCESS.2019.2903422",
+    "CorpusId": 85502632
+  },
+  "url": "https://www.semanticscholar.org/paper/77c5bf3cc6eedeba9b2b5e8d4927c5bab1c0901b",
+  "title": "Object Detection in Aerial Images Using Feature Fusion Deep Networks",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08661761.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2903422?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2903422, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2054874091",
+      "name": "Hao Long"
+    },
+    {
+      "authorId": "2107463280",
+      "name": "Yinung Chung"
+    },
+    {
+      "authorId": "7769730",
+      "name": "Zhenbao Liu"
+    },
+    {
+      "authorId": "8016808",
+      "name": "Shuhui Bu"
+    }
+  ],
+  "abstract": "Object detection acts as an essential part in a wide range of measurement systems in traffic management, urban planning, defense, agriculture, and so on. Convolutional Neural Networks-based researches reach a great improvement on detection tasks in natural scene images enjoying from the strong ability of feature representations. However, because of the high density, the small size of objects, and the intricate background, the current methods achieve relatively low precision in aerial images. The intention of this work is to obtain better detection performance in aerial images by designing a novel deep neural network framework called Feature Fusion Deep Networks (FFDN). The novel architecture combines a designed structural learning layer based on a graphical model. As a result, the network not only provides powerful hierarchical representation but also strengthens the spatial relationship between the high-density objects. We demonstrate the great improvement of the proposed FFDN on the UAV123 data set and another novel challenging data set called UAVDT benchmark. The objects which appear with small size, partial occlusion and out of view, as well as in the dark background can be detected accurately.",
+  "references": [
+    {
+      "paperId": "f1fb7b72086af795a75ddab900b39edbf2beae45"
+    },
+    {
+      "paperId": "a213bbf9740854a276fdf71dad8f30cfbe3ea4d4"
+    },
+    {
+      "paperId": "3e711906b96134a94942d141777f442a1f079f8e"
+    },
+    {
+      "paperId": "a8d66337edaac6ee1402f40460fa90174f70a476"
+    },
+    {
+      "paperId": "c114870e859dfe28bd7882e4f3da7eb2e62495ee"
+    },
+    {
+      "paperId": "1a0912bb76777469295bb2c059faee907e7f3258"
+    },
+    {
+      "paperId": "e94183191183a368bf07eb544654bae4b3cbf407"
+    },
+    {
+      "paperId": "165c27a4bfb56562c807279bef9d15f1bced5ca0"
+    },
+    {
+      "paperId": "772841d630bd2c66b451c475292ac245a3bcc82b"
+    },
+    {
+      "paperId": "27850781e39df9f750e05409b8072261124068e8"
+    },
+    {
+      "paperId": "771479c18b586eafae21baf262a220aaa7b2eef6"
+    },
+    {
+      "paperId": "cab372bc3824780cce20d9dd1c22d4df39ed081a"
+    },
+    {
+      "paperId": "d30a99d53a01ccc6bbe57fa4dc8823c52b9f9d09"
+    },
+    {
+      "paperId": "9f42dd958afc027d42843945623d8e0ddf4185d1"
+    },
+    {
+      "paperId": "b3a1967436e6e6cd940531d6f3189a9d97846568"
+    },
+    {
+      "paperId": "9adc420f1f9c97fc1fb7975447fdf244b061bbbc"
+    },
+    {
+      "paperId": "69b39e307d84890f817ee4ebb775460d162253d4"
+    },
+    {
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270"
+    },
+    {
+      "paperId": "4fc3bff4afb46a0bd62d151563711891ad7a7b58"
+    },
+    {
+      "paperId": "f868798fb1aa3423c9d4695839015a69ddf61c1a"
+    },
+    {
+      "paperId": "76baa4a82afa5a4bdc3512807221f6fb0f1d5b75"
+    },
+    {
+      "paperId": "3a1ce6d3e9ea7ff6d6ab7f3e978820b3435f6f30"
+    },
+    {
+      "paperId": "16fa635611f6f189c4eb9645dcfbc137b189ed55"
+    },
+    {
+      "paperId": "81df59341d0bbdaed68eee0b1222969303e0f951"
+    },
+    {
+      "paperId": "7835b9e589f994af0ce571c3a6161d9fb31e74cc"
+    },
+    {
+      "paperId": "c00dc3f75dbeedca79347bf63794445cc1457699"
+    },
+    {
+      "paperId": "1109b663453e78a59e4f66446d71720ac58cec25"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "b3c785b99ec147049caa47f707f337b717705970"
+    },
+    {
+      "paperId": "83cd853120ef58d3b05d426718394c43bfcfad7a"
+    },
+    {
+      "paperId": "42269d0438c0ae4ca892334946ed779999691074"
+    },
+    {
+      "paperId": "1fc541b602081686a4cf4c1fe7b0f23d333ef587"
+    },
+    {
+      "paperId": "19c8a76bc0a1de5e321573405422406bacfe3e2e"
+    },
+    {
+      "paperId": "1e80f755bcbf10479afd2338cec05211fdbd325c"
+    },
+    {
+      "paperId": "c142fd85cac4db06e5426b5681f7edf8f384eeaa"
+    },
+    {
+      "paperId": "6a40d21075cf3d50c57a5fa58568a8db3b3422b3"
+    },
+    {
+      "paperId": "8deee09078aef22b7c2ee5ce3d21580e99d5c3d0"
+    },
+    {
+      "paperId": "52070af952474cf13ecd015d42979373ff7c1c00"
+    },
+    {
+      "paperId": "3120324069ec20eed853d3f9bbbceb32e4173b93"
+    },
+    {
+      "paperId": "6c62fdf1e6a520d9fee8ca9981fb588d07f2c6fa"
+    },
+    {
+      "paperId": "f4ba954b0412773d047dc41231c733de0c1f4926"
+    },
+    {
+      "paperId": "0dc43897f10eb99c7fb9260d27137f9d5c0ae1cb"
+    },
+    {
+      "paperId": "268b8f10a45e71f63daab6403bb453da31ae28a7"
+    },
+    {
+      "paperId": "d04d6db5f0df11d0cff57ec7e15134990ac07a4f"
+    },
+    {
+      "paperId": "4f715c37fcf91f2ab1fa3830205f6fe2d634f6a9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

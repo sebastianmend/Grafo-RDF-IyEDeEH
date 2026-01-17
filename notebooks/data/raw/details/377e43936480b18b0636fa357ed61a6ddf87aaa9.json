@@ -1,0 +1,40 @@
+{
+  "paperId": "377e43936480b18b0636fa357ed61a6ddf87aaa9",
+  "externalIds": {
+    "MAG": "3010239938",
+    "DBLP": "conf/gcce/UenoS19",
+    "DOI": "10.1109/GCCE46687.2019.9015596",
+    "CorpusId": 211684492
+  },
+  "url": "https://www.semanticscholar.org/paper/377e43936480b18b0636fa357ed61a6ddf87aaa9",
+  "title": "Low-Cost Color-Sensitive Optical Sensor and Its Calibration by Neural Network",
+  "venue": "Global Conference on Consumer Electronics",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCCE46687.2019.9015596?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCCE46687.2019.9015596, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1516114002",
+      "name": "Shinya Ueno"
+    },
+    {
+      "authorId": "34812626",
+      "name": "O. Sakai"
+    }
+  ],
+  "abstract": "Although sensor systems play various roles in consumer electronics, high-precision sensors with high-quality calibration are not suitable for all cases in industrial processes and in our daily life uses because of their price and size. Otherwise, one relies on subjective and personal evaluations when judgments are required. In particular, color data is one of the essential information in many industrial and daily cases, and, for example, color sensitive optical sensors are useful for estimations of fruits and vegetables in agriculture and in purchases of such products. In this research, in order to lower the price of the sensors with sufficient precision, which is one of the obstacles to extend the application fields, we propose a method to make software calibration for color spectra detected by color sensors using a neural network. When the low-cost sensors with adequate calibration are available, they work well for not only engineers in industrial sites and in agriculture fields but also general consumer customers.",
+  "references": null
+}

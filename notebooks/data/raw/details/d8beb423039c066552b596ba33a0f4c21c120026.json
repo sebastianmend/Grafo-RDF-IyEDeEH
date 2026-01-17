@@ -1,0 +1,157 @@
+{
+  "paperId": "d8beb423039c066552b596ba33a0f4c21c120026",
+  "externalIds": {
+    "MAG": "2948914438",
+    "DBLP": "conf/dcoss/OghazRKAR19",
+    "ArXiv": "1906.02809",
+    "DOI": "10.1109/DCOSS.2019.00078",
+    "CorpusId": 174801454
+  },
+  "url": "https://www.semanticscholar.org/paper/d8beb423039c066552b596ba33a0f4c21c120026",
+  "title": "Scene and Environment Monitoring Using Aerial Imagery and Deep Learning",
+  "venue": "International Conference on Distributed Computing in Sensor Systems",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1906.02809",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1906.02809, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "21692727",
+      "name": "Mahdi Maktabdar Oghaz"
+    },
+    {
+      "authorId": "2830453",
+      "name": "Manzoor Razaak"
+    },
+    {
+      "authorId": "2733383",
+      "name": "H. Kerdegari"
+    },
+    {
+      "authorId": "2365231871",
+      "name": "Vasileios Argyriou"
+    },
+    {
+      "authorId": "1711669",
+      "name": "Paolo Remagnino"
+    }
+  ],
+  "abstract": "Unmanned Aerial vehicles (UAV) are a promising technology for smart farming related applications. Aerial monitoring of agriculture farms with UAV enables key decision-making pertaining to crop monitoring. Advancements in deep learning techniques have further enhanced the precision and reliability of aerial imagery based analysis. The capabilities to mount various kinds of sensors (RGB, spectral cameras) on UAV allows remote crop analysis applications such as vegetation classification and segmentation, crop counting, yield monitoring and prediction, crop mapping, weed detection, disease and nutrient deficiency detection and others. A significant amount of studies are found in the literature that explores UAV for smart farming applications. In this paper, a review of studies applying deep learning on UAV imagery for smart farming is presented. Based on the application, we have classified these studies into five major groups including: vegetation identification, classification and segmentation, crop counting and yield predictions, crop mapping, weed detection and crop disease and nutrient deficiency detection. An in depth critical analysis of each study is provided.",
+  "references": [
+    {
+      "paperId": "b984aa5e4d11c43fed38b6db5982b71358497744"
+    },
+    {
+      "paperId": "817f5e02d30195305e8e7f9f7e036152b48faf53"
+    },
+    {
+      "paperId": "0f96ea1b9e75c4b38e6f3188a173975f0f53aa7f"
+    },
+    {
+      "paperId": "27a918a368e971a15b545abf63353e269a8ce8a2"
+    },
+    {
+      "paperId": "7cee2a2bee27657e6599b13f9ed6536d5f46fd0a"
+    },
+    {
+      "paperId": "306e370567b590ed8f93384da63d70e48262b229"
+    },
+    {
+      "paperId": "d00d799bb902b5737e9c1aa922ada2b596ebff85"
+    },
+    {
+      "paperId": "e8217faeb91552cc9009c60e7b85aef85e97f797"
+    },
+    {
+      "paperId": "518a7c79968a56d63a691d42f8378be6c776167e"
+    },
+    {
+      "paperId": "c48b7b60b264ba7516d8eb2b85e503ccdd6b4313"
+    },
+    {
+      "paperId": "e60606da48a9585d7cfc2d2487dec26898967b93"
+    },
+    {
+      "paperId": "e577179db1d10d524d193eeaf67c232ff205088a"
+    },
+    {
+      "paperId": "39c958e3e72fdb488cf64e194bcf781b42d89e9b"
+    },
+    {
+      "paperId": "3c3ffeea7253769387f06a055744df8923a9989a"
+    },
+    {
+      "paperId": "6e72e6a252fc82e304aac9c1e3ae5cac0d2b6b62"
+    },
+    {
+      "paperId": "a954ca481ba980ca149a19b0f99b531459d5d366"
+    },
+    {
+      "paperId": "b3c4e9bb16ab9a3aa7735509c7b0832e7e69b56d"
+    },
+    {
+      "paperId": "1ac816a93c3630965de2acfd73a18ce7663c986b"
+    },
+    {
+      "paperId": "486f2bab73b56c75cdc45465eb474eb1778082dc"
+    },
+    {
+      "paperId": "3f633b3726df7971c25b339e2119f49a3b84245f"
+    },
+    {
+      "paperId": "bc25ac560ae713c81828f96ba539fd8b71a7a0b4"
+    },
+    {
+      "paperId": "d460da1d8307d3dbfccfa6874b34b5c5c29f033c"
+    },
+    {
+      "paperId": "611ff74595d865a27d7cb0410498e0b15132eb0c"
+    },
+    {
+      "paperId": "c7317f07b9455d9e54c9d5302d7e1918cde21252"
+    },
+    {
+      "paperId": "de8d1156ee91679ad277a375b0fdd91a6ab1e117"
+    },
+    {
+      "paperId": "dc279fb1991fe3fe8b35412d920d087f98beb352"
+    },
+    {
+      "paperId": "68830653fccaf5eada0c3deb9295e541f87d092e"
+    },
+    {
+      "paperId": "c7928e5de3f782276a8f3bdae4d649281c14b916"
+    },
+    {
+      "paperId": "4e787eb236cca27a963f4c73d50d1e5f0a2de7e7"
+    },
+    {
+      "paperId": "cfbb228a8bfde00ec07a58bbffe708e034c6aaa6"
+    },
+    {
+      "paperId": "4c616b3cc027e7b1dcb3a0a01b2f5829f68d61bf"
+    },
+    {
+      "paperId": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb"
+    },
+    {
+      "paperId": "4d39eb4edfb36087f9197701b703118ee3f4966e"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

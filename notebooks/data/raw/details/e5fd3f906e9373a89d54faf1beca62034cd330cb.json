@@ -1,0 +1,47 @@
+{
+  "paperId": "e5fd3f906e9373a89d54faf1beca62034cd330cb",
+  "externalIds": {
+    "MAG": "2895873012",
+    "DBLP": "journals/cea/CombaBAG18",
+    "DOI": "10.1016/J.COMPAG.2018.10.005",
+    "CorpusId": 53759556
+  },
+  "url": "https://www.semanticscholar.org/paper/e5fd3f906e9373a89d54faf1beca62034cd330cb",
+  "title": "Unsupervised detection of vineyards by 3D point-cloud UAV photogrammetry for precision agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "citationCount": 151,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2018.10.005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2018.10.005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49241906",
+      "name": "L. Comba"
+    },
+    {
+      "authorId": "8141701",
+      "name": "A. Biglia"
+    },
+    {
+      "authorId": "98103381",
+      "name": "D. R. Aimonino"
+    },
+    {
+      "authorId": "49227246",
+      "name": "P. Gay"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

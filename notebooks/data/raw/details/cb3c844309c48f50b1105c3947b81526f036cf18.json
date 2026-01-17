@@ -1,0 +1,46 @@
+{
+  "paperId": "cb3c844309c48f50b1105c3947b81526f036cf18",
+  "externalIds": {
+    "MAG": "2907312290",
+    "DOI": "10.1109/CCRA.2018.8588146",
+    "CorpusId": 57192043
+  },
+  "url": "https://www.semanticscholar.org/paper/cb3c844309c48f50b1105c3947b81526f036cf18",
+  "title": "LQR Trajectory Tracking Control of an Omnidirectional Wheeled Mobile Robot",
+  "venue": "2018 IEEE 2nd Colombian Conference on Robotics and Automation (CCRA)",
+  "year": 2018,
+  "citationCount": 20,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCRA.2018.8588146?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCRA.2018.8588146, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2060429112",
+      "name": "Sergio Morales"
+    },
+    {
+      "authorId": "2086660354",
+      "name": "Jose Magallanes"
+    },
+    {
+      "authorId": "145157748",
+      "name": "C. Delgado"
+    },
+    {
+      "authorId": "9378141",
+      "name": "Ruth Canahuire"
+    }
+  ],
+  "abstract": "The study of wheeled mobile robots (WMR) is a field of the robotics that is increasing rapidly where we can find applications in agriculture, mining, industries, etc. That is possible due to the newest types of locomotion and the holonomies of the WMR. In this context, there are different types of operational configurations for the WMR such as differential drive, Ackerman steering, omnidirectional or synchronous. For trajectory tracking tasks, the omnidirectional configuration is a good option since its holonomic characteristics offer greater freedom of movement and precision than the other configurations. The omnidirectional configuration requires an adequate control system to achieve the trajectory tracking, ensuring good performance regarding trajectory error. This paper aims to design and implement the LQR trajectory tracking control experimentally using a cascade control strategy to evaluate the performance of the WMR. The control system implemented will be compared with a PI controller where the results are shown and discussed in this paper.",
+  "references": null
+}

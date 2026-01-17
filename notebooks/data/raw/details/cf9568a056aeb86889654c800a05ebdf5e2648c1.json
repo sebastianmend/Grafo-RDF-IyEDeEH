@@ -16,7 +16,7 @@
     "url": "https://authors.library.caltech.edu/records/p73rn-8f443/files/aac8480_Alivisatos-SM.pdf?download=1",
     "status": "GREEN",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.aac8480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.aac8480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.aac8480?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.aac8480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Medicine",

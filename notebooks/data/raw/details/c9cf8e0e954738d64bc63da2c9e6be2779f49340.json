@@ -1,0 +1,48 @@
+{
+  "paperId": "c9cf8e0e954738d64bc63da2c9e6be2779f49340",
+  "externalIds": {
+    "MAG": "2794347283",
+    "DOI": "10.13031/jash.12453",
+    "CorpusId": 3848227,
+    "PubMed": "29528605"
+  },
+  "url": "https://www.semanticscholar.org/paper/c9cf8e0e954738d64bc63da2c9e6be2779f49340",
+  "title": "MODIFIED PATH METHODOLOGY FOR OBTAINING INTERVAL-SCALED POSTURAL ASSESSMENTS OF FARMWORKERS.",
+  "venue": "Journal of Agricultural Safety and Health",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.13031/jash.12453?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13031/jash.12453, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "38287158",
+      "name": "Emma B Garrison"
+    },
+    {
+      "authorId": "7994592",
+      "name": "Jonathan Dropkin"
+    },
+    {
+      "authorId": "2099337800",
+      "name": "Rebecca Russell"
+    },
+    {
+      "authorId": "10844982",
+      "name": "P. Jenkins"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

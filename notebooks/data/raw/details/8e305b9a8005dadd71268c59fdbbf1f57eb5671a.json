@@ -1,0 +1,40 @@
+{
+  "paperId": "8e305b9a8005dadd71268c59fdbbf1f57eb5671a",
+  "externalIds": {
+    "MAG": "2811351353",
+    "CorpusId": 134047808
+  },
+  "url": "https://www.semanticscholar.org/paper/8e305b9a8005dadd71268c59fdbbf1f57eb5671a",
+  "title": "Application of Soft Computing approaches in Crop Irrigation: A survey",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2286761722",
+      "name": "Ph. D Mr. I. Gobi"
+    },
+    {
+      "authorId": "2286478278",
+      "name": "Dr. D Research Scholar"
+    },
+    {
+      "authorId": "2286761720",
+      "name": "Professor Vimal Kumar"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

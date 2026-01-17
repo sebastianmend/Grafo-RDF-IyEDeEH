@@ -1,0 +1,63 @@
+{
+  "paperId": "3bf79280c601da968950989a3daf300cd57a5e28",
+  "externalIds": {
+    "MAG": "2899787482",
+    "DBLP": "conf/intellisys/ParragaDABFSRS18",
+    "DOI": "10.1007/978-3-030-01054-6_28",
+    "CorpusId": 58974159
+  },
+  "url": "https://www.semanticscholar.org/paper/3bf79280c601da968950989a3daf300cd57a5e28",
+  "title": "Wheat Plots Segmentation for Experimental Agricultural Field from Visible and Multispectral UAV Imaging",
+  "venue": "Intelligent Systems with Applications",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-01054-6_28?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-01054-6_28, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48532592",
+      "name": "Adriane Parraga"
+    },
+    {
+      "authorId": "2049534809",
+      "name": "D. Doering"
+    },
+    {
+      "authorId": "67197750",
+      "name": "Joao Gustavo Atkinson"
+    },
+    {
+      "authorId": "144844182",
+      "name": "T. Bertani"
+    },
+    {
+      "authorId": "2059124117",
+      "name": "C. O. A. Filho"
+    },
+    {
+      "authorId": "143977743",
+      "name": "M. R. Q. D. Souza"
+    },
+    {
+      "authorId": "51897508",
+      "name": "Raphael Ruschel"
+    },
+    {
+      "authorId": "1772966",
+      "name": "A. Susin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

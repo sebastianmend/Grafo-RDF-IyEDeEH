@@ -1,0 +1,150 @@
+{
+  "paperId": "7f4fd9cd37b905d474d5a5751f777af5fc47006d",
+  "externalIds": {
+    "PubMedCentral": "6834535",
+    "MAG": "2955338007",
+    "DOI": "10.1007/s13238-019-0645-9",
+    "CorpusId": 195657289,
+    "PubMed": "31243729"
+  },
+  "url": "https://www.semanticscholar.org/paper/7f4fd9cd37b905d474d5a5751f777af5fc47006d",
+  "title": "The evolving CRISPR technology",
+  "venue": "Protein & Cell",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13238-019-0645-9.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6834535, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2114007451",
+      "name": "Meng Yan"
+    },
+    {
+      "authorId": "2109374601",
+      "name": "Jinsong Li"
+    }
+  ],
+  "abstract": "Advances in genome editing technology have revolutionized basic and applied biology research in recent years, particularly due to the newly emerged CRISPR/Cas technique (Ren et al., 2017b). The classical CRISPR/Cas system was derived from a bacterial defense system, which consists of a single guide RNA (sgRNA) for precise targeting and one Cas protein for DNA binding and nuclease activity. Relying on high precision of CRISPR/Cas system, multiple functions have been exploited in addition to original nuclease activity, such as genome base editing, gene knock-down and activation, chromatin imaging systems etc. (Barrangou and Doudna, 2016; Wang and Qi, 2016). These extensions have demonstrated the flexibility of the CRISPR/Cas system as it has boosted basic biological, biomedical and agricultural research (Shen et al., 2017; Zhang et al., 2017). Here we summarize some key events in CRISPR/Cas system development, provide a glimpse of how this technology has transformed biological research, and help you to choose the right tool for your own research (Fig. 1). CRISPR/Cas system was first introduced into human 293FT cells where it was shown to cleave target sites with high efficiency. The resulting double-stranded breaks (DSBs) in genomic DNA were partially repaired by the indel-forming nonhomologous end joining (NHEJ) pathway (Cong et al., 2013); therefore indels (insertions/deletions) and base mutations may present within the target site, which could deactivate the target gene and achieve in vivo gene knockout. The convenience and precision of this technique has",
+  "references": [
+    {
+      "paperId": "a5cfd1606bad15ea860e73195913ce5580c49e12"
+    },
+    {
+      "paperId": "b0dadfcdd89b78de1dc98a0b1ede27b495d5e785"
+    },
+    {
+      "paperId": "11289ccc9cdf5d20c166680731b3ee2e1384eb37"
+    },
+    {
+      "paperId": "cb0a0133945188663c5a5c6775de42756fc53ca8"
+    },
+    {
+      "paperId": "21b4e61c76070106cb73f9b73bd9a29d10a40c27"
+    },
+    {
+      "paperId": "b342e14a44e226e30d0270bda5a0ac03700f1761"
+    },
+    {
+      "paperId": "059f5d2175059bc74ce84cee3e82c1b103ebcc76"
+    },
+    {
+      "paperId": "45754ebe2eec796185468122a2e19ef928f0928e"
+    },
+    {
+      "paperId": "023ab2866ab27ca1482dc0f7f05ef3572995ed8d"
+    },
+    {
+      "paperId": "35bf36cf2102b14ef9c7f28d8050c2fc9b813832"
+    },
+    {
+      "paperId": "19464ca88bae2bfdd68dcbaa4ac15aeb7b59114b"
+    },
+    {
+      "paperId": "0dd1750976aec4db08006e0b86add40caa263b02"
+    },
+    {
+      "paperId": "75a458c0e1e6c32be509d1860441930a29e1e03b"
+    },
+    {
+      "paperId": "90ec8a09cfeb4fca15dbc56fe31890ba3c95e8e2"
+    },
+    {
+      "paperId": "ec2b9e41998aaf5a1e4cee9a839f307bf9979693"
+    },
+    {
+      "paperId": "b51fa2e568ac2d68aafdcc7d046fc860bed573af"
+    },
+    {
+      "paperId": "ef5698acaca8658e2d2c9048fa003f4d06c23621"
+    },
+    {
+      "paperId": "a4f3c4cc052f09847f7cd87a9b048370c4140626"
+    },
+    {
+      "paperId": "8f7d034da1aee84bfcf4f3c136361c9d97aa52b8"
+    },
+    {
+      "paperId": "9ee9e7e5317778d27fffac5608b5cec7230455d4"
+    },
+    {
+      "paperId": "db66b670c35553b6afaa47fa51d7389a9a909748"
+    },
+    {
+      "paperId": "c090112436a11c732da18be7f1c640acc266a6c6"
+    },
+    {
+      "paperId": "c09ac8fc635ea568a1c3ed5eae2ff9375b915127"
+    },
+    {
+      "paperId": "ccc1aadf5b6c4a60a7afdf2fd9034c5efab2f0bf"
+    },
+    {
+      "paperId": "7ff923fee363695485fa143cae5e217818c227cd"
+    },
+    {
+      "paperId": "be0d75423833e5d0622a9d1e883fac35a63c3ea2"
+    },
+    {
+      "paperId": "e8e958d4c39652968536bfe8c6a31f91f58d4240"
+    },
+    {
+      "paperId": "f163eb8260c03f29a28dab485d9562bf650a9f47"
+    },
+    {
+      "paperId": "661d49dddb7470111192c80d7e4ba1a2594c3266"
+    },
+    {
+      "paperId": "39ba0254b9ee3b3995c8075bb7bec0f05dc61bdb"
+    },
+    {
+      "paperId": "062438dfceaa150fd8fae3df4f7854bd9c5f75eb"
+    },
+    {
+      "paperId": "308047767e5092abfa954fccdbe0cf2c4e740e54"
+    },
+    {
+      "paperId": "0190d9670dc34b6dc2b9689752643bebb8050944"
+    },
+    {
+      "paperId": "3c80e1c07ea3d94e38c1b5a35f91364f3142c5a8"
+    },
+    {
+      "paperId": "51bcf2a1577b3dd876fcaa4cdf630f54d261c107"
+    },
+    {
+      "paperId": "02bb29164fe02d9efbf0525dbda04ad65028a954"
+    }
+  ]
+}

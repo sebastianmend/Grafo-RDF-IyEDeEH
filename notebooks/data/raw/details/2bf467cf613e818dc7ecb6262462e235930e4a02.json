@@ -1,0 +1,42 @@
+{
+  "paperId": "2bf467cf613e818dc7ecb6262462e235930e4a02",
+  "externalIds": {
+    "MAG": "2967545668",
+    "DOI": "10.1109/ICUAS.2019.8798066",
+    "CorpusId": 201068916
+  },
+  "url": "https://www.semanticscholar.org/paper/2bf467cf613e818dc7ecb6262462e235930e4a02",
+  "title": "A new facility for UAV testing in climate-controlled environments*",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2019.8798066?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2019.8798066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1394055034",
+      "name": "M. Scanavino"
+    },
+    {
+      "authorId": "49710873",
+      "name": "A. Vilardi"
+    },
+    {
+      "authorId": "2860467",
+      "name": "G. Guglieri"
+    }
+  ],
+  "abstract": "Environmental conditions have a great influence on aircraft performance. Thrust reduction with altitude and temperature increase is a well known problem in the aviation industry. For commercial multirotor (UAVs) a systematic approach on performance varying environmental conditions is still an open research field. Many of the existing applications designed for UAVs (e.g. precision agriculture, delivery of instruments or medical supplies) have not been fully exploited by the market so far. This is due to the lack of existing knowledge about flight under variable weather conditions. A bias in the existing tests has been the non-reproducibility of the same climatic conditions. In this paper a dedicated test facility for a systematic study on UAV performance in a climate-controlled laboratory is presented: use cases as well as technical challenges related to the particular environment are discussed. Preliminary tests on thrust performance at different temperatures are reported to provide insight and highlight measurement complexities involved in harsh environmental conditions. Ultimately, this work will facilitate the development of UAV design and safety accounting for weather influence to improve flight stability and controllability.",
+  "references": null
+}

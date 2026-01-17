@@ -1,0 +1,56 @@
+{
+  "paperId": "0ca6029fba3c21840652808ca5c8760f39f76216",
+  "externalIds": {
+    "MAG": "2923150890",
+    "DOI": "10.15232/AAS.2018-01810",
+    "CorpusId": 187417549
+  },
+  "url": "https://www.semanticscholar.org/paper/0ca6029fba3c21840652808ca5c8760f39f76216",
+  "title": "Review: Potential of water buffalo in world agriculture: Challenges and opportunities",
+  "venue": "Applied Animal Science",
+  "year": 2019,
+  "citationCount": 39,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.15232/aas.2018-01810",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15232/AAS.2018-01810?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15232/AAS.2018-01810, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2183894538",
+      "name": "Hazem A. El Debaky"
+    },
+    {
+      "authorId": "22249103",
+      "name": "Naseer A Kutchy"
+    },
+    {
+      "authorId": "115161447",
+      "name": "A. Ul-Husna"
+    },
+    {
+      "authorId": "88894306",
+      "name": "R. Indriastuti"
+    },
+    {
+      "authorId": "145312028",
+      "name": "S. Akhter"
+    },
+    {
+      "authorId": "48023289",
+      "name": "B. Purwantara"
+    },
+    {
+      "authorId": "1746789",
+      "name": "E. Memili"
+    }
+  ],
+  "abstract": "ABSTRACT Purpose The purpose of this review was to provide a summary of the current agriculture determinants of economically important traits, and solutions for challenges in water buffalo production to maximize benefits for both producers and consumers. Sources A comprehensive literature search was conducted on the current state of knowledge of water buffalo published in high-quality peer-reviewed journals. The search revealed important progress in generation of knowledge about uses, economically important traits, challenges, and science-based solutions of water buffalo. Molecular determinants of key economically important traits such as longevity, disease resistance, milk production and quality, meat production and quality, growth and development, heat stress, and fertility are deciphered. Synthesis Water buffalo are important sources of food and fiber for the ever-increasing global human population. Drought-adapted water buffalo provide meat, and highly nutritious milk used to make cream, butter, yogurt, and cheese. Despite valuable contributions to agriculture and human well-being, there are current and emerging challenges and opportunities. High resolution sequencing of breeds and comprehensive annotation of the genomes are not yet available. In addition, there is a lack of fundamental knowledge about economically important traits including longevity, disease resistance, milk production and quality, meat production and quality, growth and development, heat tolerance, and fertility. With the advances in both basic science and technology, the gaps in the knowledge in these areas can be tackled with innovative research and systems biology approaches. In addition, the power of comparative animal and functional genomics can be harnessed to fill in the gaps. The core elements of sustainable solutions include education, innovative, transformative and translational research, and technology transfer. Conclusions and Applications Knowledge about the fundamental biology of water buffalo gives the power to improve sustainable, efficient, and profitable production. Although a considerable amount of information is available, providing new knowledge about the economically important traits will enable precision farming in water buffalo agriculture. New data and knowledge generated through the genome to phenome will uncover essential molecular, cellular, and physiological markers for marker-assisted selection and breeding to enhance the efficiency of reproduction and production as well as product quality. Future studies using systems physiology approaches will advance the science and technology for water buffalo. These new frontiers are important for empowering the next generation of animal scientists and the public as well as for food security on the global scale.",
+  "references": null
+}

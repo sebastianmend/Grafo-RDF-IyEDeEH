@@ -15,7 +15,7 @@
     "url": "https://riunet.upv.es/bitstream/10251/79891/2/Rovira%2c%20Banerjee_GPS%20data%20conditioning%20for%20enhancing%20reliability%20of%20automated%20off-road%20vehicles.pdf",
     "status": "GREEN",
     "license": "other-oa",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0954407012454976?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0954407012454976, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0954407012454976?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0954407012454976, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Engineering"

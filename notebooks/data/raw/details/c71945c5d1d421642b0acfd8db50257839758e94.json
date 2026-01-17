@@ -1,0 +1,52 @@
+{
+  "paperId": "c71945c5d1d421642b0acfd8db50257839758e94",
+  "externalIds": {
+    "MAG": "2997568003",
+    "DBLP": "conf/iotsms/ParraPLML19",
+    "DOI": "10.1109/iotsms48152.2019.8939258",
+    "CorpusId": 209459061
+  },
+  "url": "https://www.semanticscholar.org/paper/c71945c5d1d421642b0acfd8db50257839758e94",
+  "title": "Low-cost Soil Moisture Sensors Based on Inductive Coils Tested on Different Sorts of Soils",
+  "venue": "International Conference on Internet of Things: Systems, Management and Security",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://riunet.upv.es/bitstream/10251/181093/3/Parra-BoronatParra-BoronatLloret%20-%20Low-cost%20Soil%20Moisture%20Sensors%20Based%20on%20Inductive%20Coils%20Tested....pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iotsms48152.2019.8939258?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iotsms48152.2019.8939258, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "152158745",
+      "name": "Mar Parra"
+    },
+    {
+      "authorId": "2170419",
+      "name": "L. Parra"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    },
+    {
+      "authorId": "32225085",
+      "name": "P. V. Mauri"
+    },
+    {
+      "authorId": "152331144",
+      "name": "J. Llinares"
+    }
+  ],
+  "abstract": "The use of precision agriculture and the Internet of Things has improved the efficiency of many cultures. Nevertheless, there are a few low-cost options to monitor soil moisture. Moreover, those options depend on the specific characteristics of the soil. In this paper, we attempt to find a sensor, based on mutual inductance, that could be used for more than one sort of soil. We study three prototypes, one of them with casing. The sensors are powered with a voltage of 10 peak to peak volts. One of the soils has a high content of organic matter and sand while the other is rich in sand and silt. The best prototype for the soil with high levels of organic matter has 10 turns on the powered coil and 5 on the induced coil. The best frequency for this sensor is 1340 kHz. For the soil with a significant quantity of silt, the best prototype has 80 turns on the powered coil and 40 on the induced coil. The frequency at which this sensor works best is 229 kHz, which happens to be its peak frequency. With those characteristics regressions lines with R2 values higher than 0.75 can be modeled.",
+  "references": null
+}

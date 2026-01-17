@@ -1,0 +1,46 @@
+{
+  "paperId": "f42c1b02936be798aac8b35715411047fe0432a8",
+  "externalIds": {
+    "MAG": "2947215589",
+    "DOI": "10.1109/INFOCOMTECH.2018.8722386",
+    "CorpusId": 169035744
+  },
+  "url": "https://www.semanticscholar.org/paper/f42c1b02936be798aac8b35715411047fe0432a8",
+  "title": "An Efficient Application of Satellite Image for Biochemical Parameters Study in Sugarcane Crop",
+  "venue": "Conference Information and Communication Technology",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INFOCOMTECH.2018.8722386?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INFOCOMTECH.2018.8722386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "122757512",
+      "name": "Ekta Panwar"
+    },
+    {
+      "authorId": "2078528933",
+      "name": "Ankush Agarwal"
+    },
+    {
+      "authorId": "2108468226",
+      "name": "Dharmendra Singh"
+    },
+    {
+      "authorId": "5313776",
+      "name": "V. Pruthi"
+    }
+  ],
+  "abstract": "Recent advances in electronic communication and information technology have led to the development of different remote sensing techniques in the field of precision agriculture. Retrieval of biochemical parameters using satellite data can prove to be a boon in terms of agricultural monitoring. Sentinel-2 data provide highly accurate spatial and temporal data, thus holds great potential for many agricultural related applications such as vegetation classification, identification of vegetation state, analysis of vegetation health, etc. But it is still a very challenging task for the researchers to identify different biochemical parameters of crop plants with the help of Sentinel-2 data. In this study, an attempt has been made to derive the relation between Sentinel-2 data and biochemical parameters of Sugarcane crop plants. For analyzing the relation between satellite data and biochemical parameters of crop plants, first we have calculated the reflectance values for band 2, band 3, band 4, and band 8 of Sentinel-2 images and then we have analyzed the biochemical parameters of sugarcane crop plants such as chlorophyll, carbohydrate, protein, hydrogen peroxide, phenol and proline using leaf samples. Finally, statistical analysis is done to find out the sensitivity of reflectance values for plant parameters. With the help of statistical analysis we have found out that reflectance values of band 2 (blue band) show sensitivity to phenol content in sugarcane crop plants and similarly reflectance value of band 8 (NIR band) show sensitivity for chlorophyll content.",
+  "references": null
+}

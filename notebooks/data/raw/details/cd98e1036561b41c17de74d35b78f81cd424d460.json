@@ -1,0 +1,39 @@
+{
+  "paperId": "cd98e1036561b41c17de74d35b78f81cd424d460",
+  "externalIds": {
+    "MAG": "2796084451",
+    "DBLP": "journals/ijsc/DAuriaP18",
+    "DOI": "10.1142/S1793351X18400020",
+    "CorpusId": 275699239
+  },
+  "url": "https://www.semanticscholar.org/paper/cd98e1036561b41c17de74d35b78f81cd424d460",
+  "title": "A Methodology for Improving Vegetation Representation and Health Exploiting a Semantic Robotic System and Its Dynamic Stability Control",
+  "venue": "International Journal of Semantic Computing",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.worldscientific.com/doi/pdf/10.1142/S1793351X18400020",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1142/S1793351X18400020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/S1793351X18400020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1398994076",
+      "name": "Daniela D’Auria"
+    },
+    {
+      "authorId": "1721021",
+      "name": "Fabio Persia"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

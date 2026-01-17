@@ -1,0 +1,204 @@
+{
+  "paperId": "7504afcbe96266f0cc4c16565e51b24f38820e96",
+  "externalIds": {
+    "PubMedCentral": "6167447",
+    "MAG": "2894105778",
+    "DOI": "10.3389/fpls.2018.01360",
+    "CorpusId": 52815481,
+    "PubMed": "30319667"
+  },
+  "url": "https://www.semanticscholar.org/paper/7504afcbe96266f0cc4c16565e51b24f38820e96",
+  "title": "Hyperspectral Estimation of Canopy Leaf Biomass Phenotype per Ground Area Using a Continuous Wavelet Analysis in Wheat",
+  "venue": "Frontiers in Plant Science",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2018.01360/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6167447, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46581238",
+      "name": "Xia Yao"
+    },
+    {
+      "authorId": "2139645125",
+      "name": "Haiyang Si"
+    },
+    {
+      "authorId": "152138567",
+      "name": "T. Cheng"
+    },
+    {
+      "authorId": "2057612327",
+      "name": "Min Jia"
+    },
+    {
+      "authorId": "2143841216",
+      "name": "Qi Chen"
+    },
+    {
+      "authorId": "49902497",
+      "name": "Yongchao Tian"
+    },
+    {
+      "authorId": "26560296",
+      "name": "Yan Zhu"
+    },
+    {
+      "authorId": "1979404",
+      "name": "W. Cao"
+    },
+    {
+      "authorId": "2145763755",
+      "name": "Chaoyan Chen"
+    },
+    {
+      "authorId": "2115670986",
+      "name": "Jiayu Cai"
+    },
+    {
+      "authorId": "2057937819",
+      "name": "Rongrong Gao"
+    }
+  ],
+  "abstract": "To extend agricultural productivity by knowledge-based breeding and tailoring varieties to adapt to specific environmental conditions, it is imperative to improve our ability to acquire the dynamic changes of the crop’s phenotype under field conditions. Canopy leaf biomass (CLB) per ground area is one of the key crop phenotypic parameters in plant breeding. The most promising technique for effectively monitoring CLB is the hyperspectral vegetation index (VI). However, VI-based empirical models are limited by their poor stability and extrapolation difficulties when used to assess complex dynamic environments with different varieties, growth stages, and sites. It has been proven difficult to calibrate and validate some VI-based models. To address this problem, eight field experiments using eight wheat varieties were conducted during the period of 2003–2011 at four sites, and continuous wavelet transform (CWT) was applied to estimate CLB from large number of field experimental data. The analysis of 108 wavelet functions from all 15 wavelet families revealed that the best wavelet features for CLB in terms of wavelength (W) and scale (S) were observed in the near-infrared region and at high scales (7 and 8). The best wavelet-based model was derived from the Daubechies family (db), and was named db7 (W1197 nm, S8). The new model was more accurate (Rv2 = 0.67 and RRMSE = 27.26%) than a model obtained using the best existing VI (Rv2 = 0.54 and RRMSE = 34.71%). Furthermore, the stable performance of the optimal db7 wavelet feature was confirmed by its limited variation among the different varieties, growth stages, and sites, which confirmed the high stability of the CWT to estimate CLB with hyperspectral data. This study highlighted the potential of precision phenotyping to assess the dynamic genetics of complex traits, especially those not amenable to traditional phenotyping.",
+  "references": [
+    {
+      "paperId": "ef0c0a5dfcaa4a4597a117df335e844b81a23226"
+    },
+    {
+      "paperId": "8a0727c8a9f88eb0f736b2101b34b74d2e678edf"
+    },
+    {
+      "paperId": "51a854aa61da35b024d0f0e15e2fb7caced09fe1"
+    },
+    {
+      "paperId": "51af273c544ebcf704979e09b1f5778b0e435590"
+    },
+    {
+      "paperId": "0227626fd6bf7031738a1680a81538c413e5e1fa"
+    },
+    {
+      "paperId": "64626432c0985ad99ffc7be7644dc5930f18c0cf"
+    },
+    {
+      "paperId": "ad32581f333bc82a7b1f0d7fc2586778233f6e79"
+    },
+    {
+      "paperId": "31115699cc71c728fa8891500ba7e30c4c3b70f6"
+    },
+    {
+      "paperId": "54fc132a7222831a0789126cff498deb54f4e284"
+    },
+    {
+      "paperId": "a07a8874568532882e25f34dd247258f22669e53"
+    },
+    {
+      "paperId": "761e5ea2bc84eb2942fe6bb8bd2c69914504305f"
+    },
+    {
+      "paperId": "48b3102425b0ab23ef82b4a5ac7547e069df60d8"
+    },
+    {
+      "paperId": "bf6f827bb29e55ea42fc735ad295b45f3b324219"
+    },
+    {
+      "paperId": "95d8c674beeb6aef2665dfb0374e32bbbf7797ac"
+    },
+    {
+      "paperId": "51ff4250e2dd0375a91d98f64d349d94476a7f01"
+    },
+    {
+      "paperId": "887ef457417da231a271485f2cd09ed6a415f628"
+    },
+    {
+      "paperId": "4989c8b5049f0f7a4899e6a8cd11833e95494b66"
+    },
+    {
+      "paperId": "0b7b8c924f17c091a55a98e0a4df76a32c313bf9"
+    },
+    {
+      "paperId": "9e0abaf55e211a6c4ba850e3b0f78987a7d6670b"
+    },
+    {
+      "paperId": "e897ca3b44a855a4d9a8b9eb62d505f1cea2106c"
+    },
+    {
+      "paperId": "5a3135c175a4cd79818921981784834efe3bb9bd"
+    },
+    {
+      "paperId": "584c54902e3b0b3dcb8cd30e7d64e7b61b5dc792"
+    },
+    {
+      "paperId": "7dcab629f023104c5eec00ccd24c4a9378c54293"
+    },
+    {
+      "paperId": "5818931e594e614f2c96c280cb6c68b351a2d09f"
+    },
+    {
+      "paperId": "974f5b4f256b7747891e35c3b6abbd8a5f55a1a4"
+    },
+    {
+      "paperId": "f64ab5037f83a176d2e1167291702f5237fb0580"
+    },
+    {
+      "paperId": "068cdd2d909145a70b69b008c36524347e478249"
+    },
+    {
+      "paperId": "69244eb9010ab4b6898d660d688e5b802993e7da"
+    },
+    {
+      "paperId": "ce344305626308c4e50453735498fc276a1d84fb"
+    },
+    {
+      "paperId": "688fb0f0a04c31f1f0487a8b4f46ff7e95b9b399"
+    },
+    {
+      "paperId": "953d82c41b486035fb70c34e382f5a93f348163b"
+    },
+    {
+      "paperId": "78bb2df513298fcad87e96abb43f2674e41fa444"
+    },
+    {
+      "paperId": "0ef24aaee15f8918a5f3b033ec9b094ba1e48941"
+    },
+    {
+      "paperId": "b78626ce1a562c05b1c06f9c805e839f9760b9ab"
+    },
+    {
+      "paperId": "f30b10bb58e49138cbf33e625746c87b662a9e7d"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": "3ea0cf8cac1b0f330a4b6c62332a8c917cb44908"
+    },
+    {
+      "paperId": "445541afb5171a0203e929ea04f0e9a19f43888f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a78eccd106531c5919215eb311ea0173b62811cd"
+    },
+    {
+      "paperId": "c7a20b2cc6cbbd5fd6f6d15cb57fd137459d1080"
+    },
+    {
+      "paperId": "3f0716054943330fe5136a5e14682a5e3725504a"
+    }
+  ]
+}

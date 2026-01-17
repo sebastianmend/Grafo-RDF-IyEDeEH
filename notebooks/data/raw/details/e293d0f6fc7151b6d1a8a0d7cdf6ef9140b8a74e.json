@@ -1,0 +1,43 @@
+{
+  "paperId": "e293d0f6fc7151b6d1a8a0d7cdf6ef9140b8a74e",
+  "externalIds": {
+    "DBLP": "series/sci/SowmyaSH19",
+    "MAG": "2903739850",
+    "DOI": "10.1007/978-3-030-03000-1_16",
+    "CorpusId": 69884065
+  },
+  "url": "https://www.semanticscholar.org/paper/e293d0f6fc7151b6d1a8a0d7cdf6ef9140b8a74e",
+  "title": "Hyperspectral Image: Fundamentals and Advances",
+  "venue": "Recent Advances in Computer Vision",
+  "year": 2018,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-03000-1_16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-03000-1_16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "145629760",
+      "name": "V. Sowmya"
+    },
+    {
+      "authorId": "144456263",
+      "name": "K. Soman"
+    },
+    {
+      "authorId": "2158637",
+      "name": "M. Hassaballah"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

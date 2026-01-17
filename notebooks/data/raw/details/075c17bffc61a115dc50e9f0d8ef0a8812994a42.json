@@ -1,0 +1,38 @@
+{
+  "paperId": "075c17bffc61a115dc50e9f0d8ef0a8812994a42",
+  "externalIds": {
+    "MAG": "2980544045",
+    "DOI": "10.9734/jeai/2019/v41i230395",
+    "CorpusId": 207826608
+  },
+  "url": "https://www.semanticscholar.org/paper/075c17bffc61a115dc50e9f0d8ef0a8812994a42",
+  "title": "Method of Area Frame Sampling Using Probability Proportional to Size Sampling Technique for Crops’ Surveys: A Case Study in Pakistan",
+  "venue": "Journal of Experimental Agriculture International",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jeai/2019/v41i230395?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jeai/2019/v41i230395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "48718040",
+      "name": "A. Qayyum"
+    },
+    {
+      "authorId": "119061911",
+      "name": "H. M. M. J. Shera"
+    }
+  ],
+  "abstract": "The Crops’ estimates have been greatly concerned by the Government of Punjab (Pakistan) all the times. Crop Reporting Service (CRS), Agriculture Department, Punjab, as a unique and the largest statistical organization in Punjab, has been working on agricultural statistics using the sampling technique, List Frame Sampling (LFS), for conducting surveys to gather information regarding crops acreage, cost of production, crops yield and other agricultural items since 1978. The development of the rural economy in Pakistan brings new problems and challenges to the methods of agricultural statistics. The back bone of agricultural statistics is the sampling technique, LFS, in which primary sampling unit is a village and an enumerator has to survey the whole village whatever the size of the village causing an increase in non-sampling error. In spite of the sufficient area coverage, representation of population in the sample is not satisfactory. The solution is Area Frame Sampling Technique in which primary sampling unit is a Segment of a specific acreage covering maximum dimensions of the population land. In this paper a method of Area Frame Sampling (AFS) has been proposed. As most of the research papers focus on the method of AFS through Geographical Information System (GIS) technique. But in this paper two-stage statistical sampling technique has been used to achieve the same objective in an efficient and economical way. In the first stage Probability Proportional to Size Sampling (PPS) has been used. Here size is cropped area of a Union Council (UC), the smallest geographical cluster in Punjab, Pakistan. In the second stage Simple Random Sampling (SRS) has been used. Here Primary Sampling Units are Segments of land of a village. The results show that the problem of non-representation of agricultural land is minimized and, consequently, getting better estimates in terms of precision using less amount of land data. It is recommended that this method can be extended for multiple stages of sampling and for multiple measures of sizes.",
+  "references": null
+}

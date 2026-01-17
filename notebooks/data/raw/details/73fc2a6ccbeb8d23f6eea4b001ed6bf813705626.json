@@ -1,0 +1,192 @@
+{
+  "paperId": "73fc2a6ccbeb8d23f6eea4b001ed6bf813705626",
+  "externalIds": {
+    "MAG": "2938930174",
+    "PubMedCentral": "6951891",
+    "DOI": "10.1093/af/vfz003",
+    "CorpusId": 146043981,
+    "PubMed": "32002247"
+  },
+  "url": "https://www.semanticscholar.org/paper/73fc2a6ccbeb8d23f6eea4b001ed6bf813705626",
+  "title": "Analytics in sustainable precision animal nutrition",
+  "venue": "Animal Frontiers",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1093/af/vfz003",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6951891, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40949778",
+      "name": "D. Liebe"
+    },
+    {
+      "authorId": "123395170",
+      "name": "R. White"
+    }
+  ],
+  "abstract": "The global population, resource, and climate dynamics suggest we must improve sustainability of food production systems (Ohlsson, 2014; Kleinman et al., 2018). Improving livestock production sustainability is particularly important because a significant portion of the projected increases in global food demand is anticipated to come from livestock (Thornton, 2010). Improving sustainability of livestock production systems can be achieved through optimized reproductive, genetic, nutritional, and health management (White et al., 2014, 2015). Management decisions within livestock production can be thought of as two interleaved feedback loops. The first feedback loop is between the animal and the environment: the animal is influenced by its environment and, in turn, influences its environment. The second feedback loop is between the animal and the manager: the manager takes information about the animal’s behavior and attempts to influence the environment to optimize the animal’s performance (Figure 1). Managers make management decisions on different timescales ranging from immediate to relaxed. An example of an immediate management decision would be a farmer identifying an animal as sick, isolating the animal, and treating the animal for the illness. We term this immediate because the farmer must identify the sick animal as soon as possible and must react to the diagnosis as soon as possible. An example of a relaxed management decision would be the farmer electing to change the feed provided to his animals in response to something observed about their production (i.e., the cows are producing poorly, so change the ration to provide higher nutrient density to correct a nutrient shortfall). This decision is more relaxed because its formulation and response are subjected to natural, biological delays (i.e., it may take days to weeks to see a production response to a new diet). Improving the precision of these decision-making processes and reducing the burden of decision making on farmers are two critical steps toward improving sustainability of livestock production. Precision agricultural technologies have been identified as one possible solution (Berckmans, 2014; Tullo et al., 2019). \n \n \n \n \n \n \nOpen in a separate window \n \n \nFigure 1. \n \n \nDepiction of the feedback loops between the farm manager, animal, and environment. The animal and environment influence each other, as do the animal and the manager’s decisions about the animal. Additionally, the manager can make decisions about the environment that will influence the animal.",
+  "references": [
+    {
+      "paperId": "575f8581f25c9ef74c6f1cc2402bc1aab40e77e9"
+    },
+    {
+      "paperId": "6bd8cba8187df9f21b9b2c01c24f566606dcb2a1"
+    },
+    {
+      "paperId": "04e65216497f428cf2ce44c3f7302049a26a6ab2"
+    },
+    {
+      "paperId": "13da86ed7f35d86d8faef68e8debd900580da911"
+    },
+    {
+      "paperId": "b3bb47dc45d2a164db99baa0e92b601a948fe85b"
+    },
+    {
+      "paperId": "0452c7d9534141b331d390c7767bc0a6d0fab52a"
+    },
+    {
+      "paperId": "6f4e1e55dbe891fb46968d51c39cf2843bbbebc6"
+    },
+    {
+      "paperId": "a5f15e19f6bbc8ccf25b0585a4a0290401f1fb49"
+    },
+    {
+      "paperId": "dc672cbb40b87653be7001b7a6affcfaf5cf9a15"
+    },
+    {
+      "paperId": "3adedfefd8fbfb5c032a94e3f1191bde7aba5f6f"
+    },
+    {
+      "paperId": "30977540a580178337ada4e9b42e3df884bb51ce"
+    },
+    {
+      "paperId": "19a2b62780d2330ced4ba59727f7ee2de7ef5f22"
+    },
+    {
+      "paperId": "a57cf13411e7ca9b0f68896c6a74046db98f0703"
+    },
+    {
+      "paperId": "da4c1b97de818160a2d4683a58abb4cc77a73eaa"
+    },
+    {
+      "paperId": "06c2e9f547b570a12835424ac04a8b44c2e7c48b"
+    },
+    {
+      "paperId": "c758858b5ffed6d17b377613e09cb722b7cdab4c"
+    },
+    {
+      "paperId": "9aadef9e05d537c7fc9fcd805f3c657a6989aedc"
+    },
+    {
+      "paperId": "f87773fa83d4be96b9b14b51660defb8f5f27635"
+    },
+    {
+      "paperId": "1546bbe17554f12a62b52b43bf8e5210c3602bd8"
+    },
+    {
+      "paperId": "1f52f6f6dbdb68dfcc93e0f4b3605d20bce80ff8"
+    },
+    {
+      "paperId": "0dd4ca9ead7b52fc5ded249b75c77a1bb2af4496"
+    },
+    {
+      "paperId": "e2d1351faddb48a0b962cc3270f7c20fd06680ca"
+    },
+    {
+      "paperId": "58d4b360f29c253d3c0c2138b0ec9f1dd0c1d35a"
+    },
+    {
+      "paperId": "051f0f1938dc3ba55ccb701fc8b5dfc9e0de2ffa"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "17e8d743a4458d79c815ffb34f10e012560f5edf"
+    },
+    {
+      "paperId": "94463e1fda4376bde16a1a2e1c20195d7d10517a"
+    },
+    {
+      "paperId": "cc6c3fed8eb589b80929416f48aca34df3a312ea"
+    },
+    {
+      "paperId": "3e2c69345946b05ed2797b492b1d7e1b09bf1c99"
+    },
+    {
+      "paperId": "402ee555759a5395b02f9c440cb7f2c70923a5a3"
+    },
+    {
+      "paperId": "4f920f778545161d7edb29a1484abffc70bcbeed"
+    },
+    {
+      "paperId": "2c9529b3916d24f63c0e7305e0709bc358cbfbfb"
+    },
+    {
+      "paperId": "cf920f6012004e43e8ca0a6a0b2c91c542c20aa4"
+    },
+    {
+      "paperId": "d63ca9c710c3647fc344bc34e86ec4b863dfb815"
+    },
+    {
+      "paperId": "cc82b531c38c3dbc09eda36bb2a5a40d5f5f81d7"
+    },
+    {
+      "paperId": "ed3c95ad2144e645caedcf9d0bc492fba7a7e6ee"
+    },
+    {
+      "paperId": "7dcd4ac966093dc332e29811020b6a6cc3a53d75"
+    },
+    {
+      "paperId": "9241ea3d8cb85633d314ecb74b31567b8e73f6af"
+    },
+    {
+      "paperId": "69e68bfaadf2dccff800158749f5a50fe82d173b"
+    },
+    {
+      "paperId": "c7d3e9a1dd86f9c96f709d0ddb76972862784231"
+    },
+    {
+      "paperId": "cac33f91e59f0a137b46176d74cee55c7010c3f8"
+    },
+    {
+      "paperId": "7636865b2cd5601d58e230deba364260ccb92583"
+    },
+    {
+      "paperId": "560f70286c3dcf585a2b7800b30eaf702b737540"
+    },
+    {
+      "paperId": "7204506906db2cb7db0a4745d97b5f8d019f44ae"
+    },
+    {
+      "paperId": "6fa04a7251277f77f80456e0a9320b4c0e4411e1"
+    },
+    {
+      "paperId": "9d61b19d3cde01b8795082cd52b5da6354caa3bf"
+    },
+    {
+      "paperId": "090c5a5df345ab60c41d6de02b3e366e1a27cf43"
+    },
+    {
+      "paperId": "56623a496727d5c71491850e04512ddf4152b487"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

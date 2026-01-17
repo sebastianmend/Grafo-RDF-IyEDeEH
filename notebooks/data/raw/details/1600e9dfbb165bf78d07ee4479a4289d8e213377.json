@@ -1,0 +1,68 @@
+{
+  "paperId": "1600e9dfbb165bf78d07ee4479a4289d8e213377",
+  "externalIds": {
+    "MAG": "2952720584",
+    "DOI": "10.2991/ISPC-19.2019.23",
+    "CorpusId": 197887190
+  },
+  "url": "https://www.semanticscholar.org/paper/1600e9dfbb165bf78d07ee4479a4289d8e213377",
+  "title": "Using high-precision farming systems in the agricultural sector - the path to digital agriculture",
+  "venue": "Proceedings of the International Scientific and Practical Conference “Digital agriculture - development strategy” (ISPC 2019)",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2991/ispc-19.2019.23",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ISPC-19.2019.23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ISPC-19.2019.23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "116256715",
+      "name": "Y. Zubarev"
+    },
+    {
+      "authorId": "143933204",
+      "name": "D. Fomin"
+    },
+    {
+      "authorId": "98489349",
+      "name": "N. Zubarev"
+    }
+  ],
+  "abstract": "The article analyzes the current state of land and agricultural resources in the Russian Federation and the Permskiy kray. It is noted that the use of geographic information systems is possible in the diagnosis of plants by express methods of remote sensing of the earth. The necessity of introducing high-precision farming systems at agricultural enterprises of the Permskiy kray is revealed. The use of GIS systems improves the technology of precision farming, which is being developed in the agricultural sector. A survey conducted in the framework of the survey showed that out of 42 agricultural producers, 13 enterprises use elements of the precision farming system (31% of the total). Basically, these companies use transport monitoring systems and course indicators for agricultural and automotive equipment. The experience of the Permskiy kray is analyzed in connection with the introduction of automated complexes of satellite monitoring systems for agricultural equipment and vehicles, as well as navigation equipment and video surveillance systems into the activities of agricultural enterprises. Keywords—agricultural plants, digital farming, precision farming, monitoring of transport.",
+  "references": [
+    {
+      "paperId": "ce2bbb181878b08ddf7fdea881269454640a7d34"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "480ef18417d7f8668d4754f46829813bed5f0aa6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

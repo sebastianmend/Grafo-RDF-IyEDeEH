@@ -1,0 +1,374 @@
+{
+  "paperId": "514b861f72f3b809c1e09cc7ed6c5186ad53b529",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/RodriguesBDOSZT18",
+    "MAG": "2808053670",
+    "PubMedCentral": "7340494",
+    "DOI": "10.3390/rs10060930",
+    "CorpusId": 51832213,
+    "PubMed": "32704487"
+  },
+  "url": "https://www.semanticscholar.org/paper/514b861f72f3b809c1e09cc7ed6c5186ad53b529",
+  "title": "Multi-Temporal and Spectral Analysis of High-Resolution Hyperspectral Airborne Imagery for Precision Agriculture: Assessment of Wheat Grain Yield and Grain Protein Content",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 56,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/6/930/pdf?version=1528816336",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7340494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51165379",
+      "name": "F. Rodrigues"
+    },
+    {
+      "authorId": "3381293",
+      "name": "Gerald Blasch"
+    },
+    {
+      "authorId": "2233371",
+      "name": "P. Defourny"
+    },
+    {
+      "authorId": "1401384896",
+      "name": "J. I. Ortiz-Monasterio"
+    },
+    {
+      "authorId": "86904928",
+      "name": "U. Schulthess"
+    },
+    {
+      "authorId": "1402203033",
+      "name": "P. Zarco-Tejada"
+    },
+    {
+      "authorId": "143642265",
+      "name": "J. Taylor"
+    },
+    {
+      "authorId": "2542704",
+      "name": "B. Gérard"
+    }
+  ],
+  "abstract": "This study evaluates the potential of high resolution hyperspectral airborne imagery to capture within-field variability of durum wheat grain yield (GY) and grain protein content (GPC) in two commercial fields in the Yaqui Valley (northwestern Mexico). Through a weekly/biweekly airborne flight campaign, we acquired 10 mosaics with a micro-hyperspectral Vis-NIR imaging sensor ranging from 400–850 nanometres (nm). Just before harvest, 114 georeferenced grain samples were obtained manually. Using spectral exploratory analysis, we calculated narrow-band physiological spectral indices—normalized difference spectral index (NDSI) and ratio spectral index (RSI)—from every single hyperspectral mosaic using complete two by two combinations of wavelengths. We applied two methods for the multi-temporal hyperspectral exploratory analysis: (a) Temporal Principal Component Analysis (tPCA) on wavelengths across all images and (b) the integration of vegetation indices over time based on area under the curve (AUC) calculations. For GY, the best R2 (0.32) were found using both the spectral (NDSI—Ri, 750 to 840 nm and Rj, ±720–736 nm) and the multi-temporal AUC exploratory analysis (EVI and OSAVI through AUC) methods. For GPC, all exploratory analysis methods tested revealed (a) a low to very low coefficient of determination (R2 ≤ 0.21), (b) a relatively low overall prediction error (RMSE: 0.45–0.49%), compared to results from other literature studies, and (c) that the spectral exploratory analysis approach is slightly better than the multi-temporal approaches, with early season NDSI of 700 with 574 nm and late season NDSI of 707 with 523 nm as the best indicators. Using residual maps from the regression analyses of NDSIs and GPC, we visualized GPC within-field variability and showed that up to 75% of the field area could be mapped with relatively good predictability (residual class: −0.25 to 0.25%), therefore showing the potential of remote sensing imagery to capture the within-field variation of GPC under conventional agricultural practices.",
+  "references": [
+    {
+      "paperId": "b399f6b133f8562a5e3323f121d5873e5b312340"
+    },
+    {
+      "paperId": "54733915b6e27770ac1eb3f6d428f3318611bda6"
+    },
+    {
+      "paperId": "54e9547f1b763e38bf7edc2c616a0ee4ca33647e"
+    },
+    {
+      "paperId": "558c2feaf832678d87e583f3d792b59ef1537921"
+    },
+    {
+      "paperId": "835d2f9ce4846a9ca613ae5618f82439e996dda2"
+    },
+    {
+      "paperId": "9749583be488d33c7499337c326ee2f9206500a7"
+    },
+    {
+      "paperId": "e833c51d6c37edfdaffca317172ab1cf85aad118"
+    },
+    {
+      "paperId": "97a69396f8008b2ccbec9cbffe84d8657dcb01f6"
+    },
+    {
+      "paperId": "d628c6e9d038436131bb6e32784a5e360ecd27fe"
+    },
+    {
+      "paperId": "e9f9c521ccb014539c9b27188ff42f2b97720e33"
+    },
+    {
+      "paperId": "6db588bc7571ed4b994051df600ec5946315bbf9"
+    },
+    {
+      "paperId": "9f9b0cd39d5edd9f3125ea927213d34609d6aeed"
+    },
+    {
+      "paperId": "ccf95f45a23c797d9231f4c3af9ebbe15d657602"
+    },
+    {
+      "paperId": "6e77c555cf94ae8648a761a06f74e4f8b4d836ee"
+    },
+    {
+      "paperId": "d80f63ab68db660187b8ad500fa706c5f46aee4c"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "7cff942a1f04e16b1737a68a2461c8cd10685b53"
+    },
+    {
+      "paperId": "210b13943622a5382b710811bb4bc0e6c84c33b2"
+    },
+    {
+      "paperId": "8973e34d8defa20ff0b17651ccdc4895c11bbcec"
+    },
+    {
+      "paperId": "36a25dacb9fb5769eb6bac60f203d2be8c1ec36f"
+    },
+    {
+      "paperId": "11a07f151b571f095e1d5e25855485c876fa25ef"
+    },
+    {
+      "paperId": "b2cdb384543759ed905c17d477a7bdab2c8ef63b"
+    },
+    {
+      "paperId": "405c77929d84d113a773f4f72e6a3090e732d7cf"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "99c36052b64d2f43858fb3fdda99d809fa12390f"
+    },
+    {
+      "paperId": "91fd6de2284ef23004f060658832920eaf1d50b9"
+    },
+    {
+      "paperId": "f944d336a0383689e5e2505a5a66f0ffdd90373a"
+    },
+    {
+      "paperId": "a1ffa8b5438e2dcf76f59de83e3081c6aa2ac352"
+    },
+    {
+      "paperId": "9b408fe3231430c110f46fcd2fa75f84d8f19f48"
+    },
+    {
+      "paperId": "f55787772b225485a9e81ecbbe4eb5877d9b16b3"
+    },
+    {
+      "paperId": "650021b2c15d358808a9619aabc68e108c1f7816"
+    },
+    {
+      "paperId": "2f1bc07dbe66f790e4a53d026dacf6dbcfb7cef8"
+    },
+    {
+      "paperId": "8f398be5ce0d851a43fc7dac9ed01ee22b423176"
+    },
+    {
+      "paperId": "8fe69b63e4f736b12209aeb707992c829a85f488"
+    },
+    {
+      "paperId": "625f48a713a7bcd03b506026de51847a92064478"
+    },
+    {
+      "paperId": "9fe0f20ae2e054191faa31b23705dae1d8555284"
+    },
+    {
+      "paperId": "f38ae385fd0679de0535dc67668af2a930146887"
+    },
+    {
+      "paperId": "a446dbc70080b0c5a6107c64a90dd7399edbc553"
+    },
+    {
+      "paperId": "69be582d6c9c90ee6a0710ab37566ab98b266174"
+    },
+    {
+      "paperId": "d3171e9797fad981c3c62452cb0bf2735bf32c04"
+    },
+    {
+      "paperId": "dba4780add5014b9c894709acc6255cdb098ec7f"
+    },
+    {
+      "paperId": "926250cde8e34b11c536cd9c434ec8135545655d"
+    },
+    {
+      "paperId": "f0a5a49b9afc422f36210ca8541bbb0c0ccd17e0"
+    },
+    {
+      "paperId": "159c847fa0facbcbcf7ab95b53c9787c344b583c"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "8d16a400a99eccca13ad3e919eba4b220c0be588"
+    },
+    {
+      "paperId": "074b47dc733112d99ee78757f149b2943292245f"
+    },
+    {
+      "paperId": "5acb967de83d2ced3e2a980a1c2f5b034db12ebb"
+    },
+    {
+      "paperId": "36284d11bebfa82209e13cea244482c5438f163b"
+    },
+    {
+      "paperId": "cf4b0c4a291cd13e8c2fab081eda30c689f9a845"
+    },
+    {
+      "paperId": "6009fcd6afa6005e8af012a800879e0213035a0e"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "d4f643f45d7cd8f81dcd9acea89c8fea5185c8dd"
+    },
+    {
+      "paperId": "d63d44a05d948e9d97a4093dfedcb6040bdd9115"
+    },
+    {
+      "paperId": "824f3e75cf35b1a2ac78bfb353b90c6032da6d05"
+    },
+    {
+      "paperId": "b2d715aa4f6e48a6c5e63bcc99418c101a64d737"
+    },
+    {
+      "paperId": "c8426d9aabd7633b5fdb97ce49a932e8e7e5fcdb"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "cf8801b6243e3dfe30c718b63cb86fd0b35b0178"
+    },
+    {
+      "paperId": "5a968048de8950c375fc1d3aec061c57ce442473"
+    },
+    {
+      "paperId": "3b0c8319c598fcf2f693e419c5a61c3dac3fe067"
+    },
+    {
+      "paperId": "a73e1909e58568a2974415571fdd9ab27c54a11c"
+    },
+    {
+      "paperId": "e1e43129fe65925c01de769faf5481b9a8d28288"
+    },
+    {
+      "paperId": "3d61aff9a62539c12fc87c3b53667df9594a7914"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "7832155f3c96bc3b4020e2c3612878b9ef3c8071"
+    },
+    {
+      "paperId": "4f0b4158d4112325f5d71dfe8b84282149a58ceb"
+    },
+    {
+      "paperId": "2be90f51545a4c6d5a518fc8594de4d358a4afdf"
+    },
+    {
+      "paperId": "c76ac596b43e5f1f330f9843cf4f9968d943f9ff"
+    },
+    {
+      "paperId": "93cb24f9de2b1f97d7ee308adc6281fb33dba0f1"
+    },
+    {
+      "paperId": "60cfedbf033bb9ba3366b01c088806ab81ff6b4d"
+    },
+    {
+      "paperId": "ac31b34aafada8b35e3066a633e2e9f2de913283"
+    },
+    {
+      "paperId": "7ab2ad5e843fea13b516cc5d6093e8e733632bd1"
+    },
+    {
+      "paperId": "6f036f0378f46b3a8e54d6802b47c9d398759ca1"
+    },
+    {
+      "paperId": "d59780c129598857dd7ba888be017446a1849861"
+    },
+    {
+      "paperId": "cbcfee3afe456f1b6ca44e3dc94e5dfe6ff689c0"
+    },
+    {
+      "paperId": "86123dec962431974292e44d2f0485c4bc8eea50"
+    },
+    {
+      "paperId": "58a4489853f8162bc365225e2cc186743d6834d1"
+    },
+    {
+      "paperId": "5bf7ddda2ceb04730b2d8a114f0d453d853195ba"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "b499e27f7aec3b46b6b3bc4f5fd8857c4181124b"
+    },
+    {
+      "paperId": "4ba63961e4398aa3730d574c9d42c0df969c84fa"
+    },
+    {
+      "paperId": "6e4e29b7b569a55d2fe16ea8126795a95d24472d"
+    },
+    {
+      "paperId": "101181326b53a83e68591ffaaef49ee7b7724ef0"
+    },
+    {
+      "paperId": "6ca6977815228df6bccf1a6717247db49c5af09b"
+    },
+    {
+      "paperId": "24653236a2cd98bd818850745cff8c311558de7d"
+    },
+    {
+      "paperId": "38107ffda14bf6b5be7a1bda433840fd25f28d97"
+    },
+    {
+      "paperId": "944414a3b781fec55361b48f7db209a8a5a474ae"
+    },
+    {
+      "paperId": "cc1c14f6c948ac7afa38e0374b383e27da5031e5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

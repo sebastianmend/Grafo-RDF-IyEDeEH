@@ -1,0 +1,36 @@
+{
+  "paperId": "91449c4d40fe4fea3629c143ea4535b1479bfd7b",
+  "externalIds": {
+    "MAG": "3024259433",
+    "DOI": "10.16250/j.32.1374.2019212",
+    "CorpusId": 202731970,
+    "PubMed": "31544398"
+  },
+  "url": "https://www.semanticscholar.org/paper/91449c4d40fe4fea3629c143ea4535b1479bfd7b",
+  "title": "[Intensifying the precision control to facilitate the progress towards schistosomiasis elimination in mountainous and hilly regions of China].",
+  "venue": "Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.16250/j.32.1374.2019212?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.16250/j.32.1374.2019212, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2096268517",
+      "name": "Z. Xiao-nong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

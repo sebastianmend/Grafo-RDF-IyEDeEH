@@ -1,0 +1,59 @@
+{
+  "paperId": "9e8b037292a0cff1094878088dc7673491d5077e",
+  "externalIds": {
+    "MAG": "2976031826",
+    "DBLP": "journals/softx/BazziJMMSSS19",
+    "DOI": "10.1016/j.softx.2019.100327",
+    "CorpusId": 204081196
+  },
+  "url": "https://www.semanticscholar.org/paper/9e8b037292a0cff1094878088dc7673491d5077e",
+  "title": "AgDataBox API - Integration of data and software in precision agriculture",
+  "venue": "SoftwareX",
+  "year": 2019,
+  "citationCount": 26,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.softx.2019.100327?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.softx.2019.100327, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "88838415",
+      "name": "C. L. Bazzi"
+    },
+    {
+      "authorId": "83977246",
+      "name": "E. Jasse"
+    },
+    {
+      "authorId": "39108989",
+      "name": "P. G. Magalhães"
+    },
+    {
+      "authorId": "72536257",
+      "name": "G. Michelon"
+    },
+    {
+      "authorId": "145746002",
+      "name": "E. G. Souza"
+    },
+    {
+      "authorId": "3469831",
+      "name": "K. Schenatto"
+    },
+    {
+      "authorId": "2095140299",
+      "name": "Ricardo Sobjak"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

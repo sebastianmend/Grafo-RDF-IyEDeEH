@@ -1,0 +1,137 @@
+{
+  "paperId": "cf0d84f1b63738c667f0c09efddc3880dcbbb60e",
+  "externalIds": {
+    "MAG": "2946427007",
+    "DBLP": "conf/iotbd/KraatzTNIFT19",
+    "DOI": "10.5220/0007760304220429",
+    "CorpusId": 174800562
+  },
+  "url": "https://www.semanticscholar.org/paper/cf0d84f1b63738c667f0c09efddc3880dcbbb60e",
+  "title": "An Integrated Data Platform for Agricultural Data Analyses based on Agricultural ISOBUS and ISOXML",
+  "venue": "International Conference on Internet of Things, Big Data and Security",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5220/0007760304220429",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5220/0007760304220429?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0007760304220429, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2083660193",
+      "name": "Franz Kraatz"
+    },
+    {
+      "authorId": "2681471",
+      "name": "H. Tapken"
+    },
+    {
+      "authorId": "3344240",
+      "name": "Frank Nordemann"
+    },
+    {
+      "authorId": "3377197",
+      "name": "Thorben Iggena"
+    },
+    {
+      "authorId": "51960121",
+      "name": "Maik Fruhner"
+    },
+    {
+      "authorId": "9329976",
+      "name": "R. Tönjes"
+    }
+  ],
+  "abstract": "Over the last years many different agricultural online management portals got to market. The focus of these portals is on documentation, accounting and task planning. Data analyses and process planning are often not considerd. For this reason, the existing data in the data platforms of present portals is often badly integrated and consequently not designed for data analyses. This paper introduces a new architecture concept for an integrated agricultural data platform. With this new data platform agricultural data analyses for precision farming become possible. Furthermore, the integration of the agricultural devices and external sources into one platform changes task planning for one machine into a process planning for cooperated machines. Several challenges for the integration of agricultural data and data types for agricultural data analyses are discussed.",
+  "references": [
+    {
+      "paperId": "ac469d36498a54ecaa129c6ef4dc09745bfa3b03"
+    },
+    {
+      "paperId": "4b7deb360ff2e7cbad0d6cb24a06c0e3bfa19809"
+    },
+    {
+      "paperId": "b904c2cbe34598bf52f82a8da8b2b02fefd791c5"
+    },
+    {
+      "paperId": "7cb04c678f734271ca2821389b023c0fc1c0e0d1"
+    },
+    {
+      "paperId": "0f4f1495fb3fa0b52e9a3b0e3e6b67f942a3a908"
+    },
+    {
+      "paperId": "03c383aa1c014eba616f9adafaa11c31bcb9aa0f"
+    },
+    {
+      "paperId": "93814ecc07039fc6822650091caf3b0968fef64b"
+    },
+    {
+      "paperId": "0315be925d23a5a4225c5faea8c3ee3525a9c44b"
+    },
+    {
+      "paperId": "2a24f587b68a1ef6539b4ed8725dfe76f0ed40e2"
+    },
+    {
+      "paperId": "3c4963fa018ef553bd235cff65ff28f69055af3e"
+    },
+    {
+      "paperId": "64b982a7fbb899200ed030e4b59e2793fdce181c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

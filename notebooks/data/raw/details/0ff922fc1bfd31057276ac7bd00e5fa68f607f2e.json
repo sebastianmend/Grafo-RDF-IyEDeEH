@@ -1,0 +1,52 @@
+{
+  "paperId": "0ff922fc1bfd31057276ac7bd00e5fa68f607f2e",
+  "externalIds": {
+    "MAG": "2840480704",
+    "DOI": "10.1139/cjps-2017-0342",
+    "CorpusId": 91953724
+  },
+  "url": "https://www.semanticscholar.org/paper/0ff922fc1bfd31057276ac7bd00e5fa68f607f2e",
+  "title": "Adoption of precision agriculture technologies in Ontario crop production",
+  "venue": "Canadian Journal of Plant Science",
+  "year": 2018,
+  "citationCount": 40,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1139/cjps-2017-0342",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1139/cjps-2017-0342?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1139/cjps-2017-0342, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2113256397",
+      "name": "Sean Mitchell"
+    },
+    {
+      "authorId": "52473377",
+      "name": "A. Weersink"
+    },
+    {
+      "authorId": "96176899",
+      "name": "B. Erickson"
+    }
+  ],
+  "abstract": "Abstract: Ontario agricultural service providers were surveyed on their use of precision agricultural technologies. Global positioning systems are the most commonly adopted, while adoption rates for variable rate systems are significantly less. Enhancing adoption requires turning the vast amount of data collected on crop production into valuable decisions for the farmer.",
+  "references": [
+    {
+      "paperId": "b58a48f0aba6ccf4ea4ee5c5155ddad75a9617f9"
+    },
+    {
+      "paperId": "fcdae95d2d3b3e9b4f42656e3e30950c3ce860b4"
+    },
+    {
+      "paperId": "1390dc9dd3a79ee9eaa0445c0a8d51cc13010862"
+    }
+  ]
+}

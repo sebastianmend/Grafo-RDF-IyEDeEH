@@ -1,0 +1,221 @@
+{
+  "paperId": "913f16f84e139a723a07791ddaff458535cc7819",
+  "externalIds": {
+    "MAG": "2793793054",
+    "DOI": "10.5772/INTECHOPEN.73622",
+    "CorpusId": 145042190
+  },
+  "url": "https://www.semanticscholar.org/paper/913f16f84e139a723a07791ddaff458535cc7819",
+  "title": "Review of Variable-Rate Sprayer Applications Based on Real- Time Sensor Technologies",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.intechopen.com/citation-pdf-url/59242",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/INTECHOPEN.73622?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/INTECHOPEN.73622, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2258435723",
+      "name": "Zhihong Zhang"
+    },
+    {
+      "authorId": "2259952247",
+      "name": "Xiaoyang Wang"
+    },
+    {
+      "authorId": "2258463148",
+      "name": "Qinghui Lai"
+    },
+    {
+      "authorId": "2259890434",
+      "name": "Zhaoguo Zhang"
+    }
+  ],
+  "abstract": "Precision variable rate spray is one of the research hotspots in the field of modern agricul- ture spraying applications. Variable rate spraying of the canopy allows growers to apply adjusted volume rate of pesticides to the target, based on canopy size, and to apply plant protection products in an economical and environmentally sound manner. In the field of pesticide application, knowledge of the geometrical characteristics of plantations will guarantee a better adjustment of the dosage of the agrochemicals applied. This technology is integrated with intelligent real-time sensors, which have a high potential for agricul- tural precision spray applications. This book chapter presents the foundations and applications in agriculture of the primary systems used for real-time spray target detection of the geometrical characterization of tree plantations. Systems based on infrared, ultrasonic, light detection and ranging (LIDAR), and stereo vision sensors were discussed, respec- tively, on their performances to detect spray targets. Among them, laser scanners and stereo vision systems are probably the most promising and complementary techniques for achieving three-dimensional (3D) pictures and maps of plants and canopies. The advantages of data fusion applied in real-time target detection and its accuracy in density estimation of the plants were stressed.",
+  "references": [
+    {
+      "paperId": "49c7fd41d5978b50a260aa8193840df1f415e4bc"
+    },
+    {
+      "paperId": "13b2ca03f866af68717f64a7a35a27f2a0f42f0f"
+    },
+    {
+      "paperId": "21f073bcd58525fa23d4e755f768753cdc780446"
+    },
+    {
+      "paperId": "e3f0d2a42d7c47855a00b838a64b8da5ab696ed7"
+    },
+    {
+      "paperId": "63c0eed71b81116570cf1dbddad43041698d73f4"
+    },
+    {
+      "paperId": "9eacfdca325a3e7216551304398bf2e4e8c2e83c"
+    },
+    {
+      "paperId": "6a520d2065582f0b6342d8dc31ee5e724490e481"
+    },
+    {
+      "paperId": "03d410c1a97b9912fdf9fbecd32135a8ac69febd"
+    },
+    {
+      "paperId": "d15bb190f22e8c5f448ae879ddbd633592938266"
+    },
+    {
+      "paperId": "48a2550ddbc29c307cfee740a1bc58f376794292"
+    },
+    {
+      "paperId": "de1c5ac3eb9792ed73ea27c03b0f3ba0b7857af4"
+    },
+    {
+      "paperId": "01005f0a2bd4afb45cb3870e7dc20552936f9371"
+    },
+    {
+      "paperId": "8cd003a46949b83f03bf75e41f4ea6050c8431f5"
+    },
+    {
+      "paperId": "2351718cde1abe7d4831c6b58a9e3f8557ff5003"
+    },
+    {
+      "paperId": "b00dcb4f6570496e0228a9cd3b5db0fce25137af"
+    },
+    {
+      "paperId": "51826e42a8b7f96fa435ef01199295ff3b4177f1"
+    },
+    {
+      "paperId": "9b260c57ee1a1c98d89dbe23e773dd557933d5f1"
+    },
+    {
+      "paperId": "1fae8ad7544360ff43f7f5a5431c436bd78d4d9e"
+    },
+    {
+      "paperId": "abcf4a76e9c278c472cb4a99707bfe1d9c820ec2"
+    },
+    {
+      "paperId": "7abb1bcd9ae988e6f3ea04b0ffae52aba538ed09"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "7575064d86f2a0303a2597ab8ef2d9eb45771002"
+    },
+    {
+      "paperId": "f2f5f5fdd93260a32aaab35407220d3939f69c3d"
+    },
+    {
+      "paperId": "a1e8da5ac07a28342e0e456f02dff82c7ee8e750"
+    },
+    {
+      "paperId": "61b7d89adad0e2e93d4f9284d0907a7ffc926fea"
+    },
+    {
+      "paperId": "c7576caf92c42321c6f08874acab1b4ecd60b7c1"
+    },
+    {
+      "paperId": "0d3f3e3ae9ddce15d2ada6def9d62bea665eb9f0"
+    },
+    {
+      "paperId": "034c396fdc29df99a062b40f1d705abc51a3534a"
+    },
+    {
+      "paperId": "27566d6f7e271dca8d0ba5b56f1c0c42ad219115"
+    },
+    {
+      "paperId": "93ca749c239f1a99943e814f208483efff3fe7eb"
+    },
+    {
+      "paperId": "2089815d73c05e95b9a03d9cf6b1305216d4c9c7"
+    },
+    {
+      "paperId": "1888ada8332a1db9586d7577d5a2e83ebc58c2c7"
+    },
+    {
+      "paperId": "ef44837a9409c779bfa514eb1c460ade5be0464b"
+    },
+    {
+      "paperId": "3a49ec39ce491495f9c87f4049c4872e7c4424bc"
+    },
+    {
+      "paperId": "831556f588a58e8403d9a45c1fc6fc9499fbe005"
+    },
+    {
+      "paperId": "688af381cfb43a387abd961d986f9a497f224be7"
+    },
+    {
+      "paperId": "84de1a0fbb9ff6155d50dd811f2cab2ad62b7295"
+    },
+    {
+      "paperId": "92efe4839c1dc7daf601dc8dfbd4ebce5abf9cd5"
+    },
+    {
+      "paperId": "9bb52aff61d156e941a723dcda6bead4facb0d94"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cb88df3625c88345189d46b11f3d8209b0967c16"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4b16cfb3d1cbd2a67684e01a43cecc74e8d9d644"
+    },
+    {
+      "paperId": "caa42d46a2751965d14266fc4eb1c1f9cab26b6d"
+    },
+    {
+      "paperId": "a18fb5ba23c305044a1a880602c3f0c5fdc1874b"
+    },
+    {
+      "paperId": "a76eced9e41cacb2afe4af32fcd8a96d3354ff0e"
+    },
+    {
+      "paperId": "edec24b76bf83262f0d14fa7fabc0a5caf105c6d"
+    },
+    {
+      "paperId": "4f00cc55e90b006efa88ef3f313bca708f235a1b"
+    },
+    {
+      "paperId": "41abacf0a949d3398c29c03db9f3cace548d8456"
+    },
+    {
+      "paperId": "0d4b5a55d8d4bed96c211ebec5f6ea0dfdb97ca1"
+    },
+    {
+      "paperId": "cf3dc15f4f337c0992fad1a44e51d236a5500e7c"
+    },
+    {
+      "paperId": "5323072c23c4347e1aaa42536ce6b342ddc155a8"
+    },
+    {
+      "paperId": "eb590632d95876ce4d533f3fa3b9cf8f5f2b9b53"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "64fee8a266e28e17c8b2920ce8fb5580624dca9c"
+    },
+    {
+      "paperId": "cd51a0dec83dc64e9c07726a3ae578001030878a"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

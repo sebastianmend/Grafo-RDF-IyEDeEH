@@ -1,0 +1,43 @@
+{
+  "paperId": "2a9aa1b03b88b12ac0ec85b39be295e0fa41532e",
+  "externalIds": {
+    "DOI": "10.1007/s11119-018-9578-1",
+    "CorpusId": 254933967
+  },
+  "url": "https://www.semanticscholar.org/paper/2a9aa1b03b88b12ac0ec85b39be295e0fa41532e",
+  "title": "Assessment of the position accuracy of a single-frequency GPS receiver designed for electromagnetic induction surveys",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://juser.fz-juelich.de/record/859956/files/Article.pdf",
+    "status": "GREEN",
+    "license": "mit",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9578-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9578-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2027868326",
+      "name": "Sebastian Rudolph"
+    },
+    {
+      "authorId": "38905213",
+      "name": "B. Marchant"
+    },
+    {
+      "authorId": "1808347",
+      "name": "L. Weihermüller"
+    },
+    {
+      "authorId": "1783504",
+      "name": "H. Vereecken"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,135 @@
+{
+  "paperId": "c7a4177ff72ed726b9d1cadc8074afeada3a8b77",
+  "externalIds": {
+    "MAG": "2953805925",
+    "DBLP": "journals/js/Villasenor-Aguilar19",
+    "DOI": "10.1155/2019/3175848",
+    "CorpusId": 198482804
+  },
+  "url": "https://www.semanticscholar.org/paper/c7a4177ff72ed726b9d1cadc8074afeada3a8b77",
+  "title": "Fuzzy Classification of the Maturity of the Tomato Using a Vision System",
+  "venue": "J. Sensors",
+  "year": 2019,
+  "citationCount": 30,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2019/3175848",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2019/3175848?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2019/3175848, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2006412699",
+      "name": "Marcos-Jesús Villaseñor-Aguilar"
+    },
+    {
+      "authorId": "2269325020",
+      "name": "J. Botello-Álvarez"
+    },
+    {
+      "authorId": "1401826965",
+      "name": "F. Pérez-Pinal"
+    },
+    {
+      "authorId": "1390025183",
+      "name": "Miroslava Cano-Lara"
+    },
+    {
+      "authorId": "2310458483",
+      "name": "M. Fabiola León-Galván"
+    },
+    {
+      "authorId": "1441069872",
+      "name": "M. Bravo-Sánchez"
+    },
+    {
+      "authorId": "2283500036",
+      "name": "A. Barranco-Gutiérrez"
+    }
+  ],
+  "abstract": "Artificial vision systems (AVS) have become very important in precision agriculture applied to produce high-quality and low-cost foods with high functional characteristics generated through environmental care practices. This article reported the design and implementation of a new fuzzy classification architecture based on the RGB color model with descriptors. Three inputs were used that are associated with the average value of the color components of four views of the tomato; the number of triangular membership functions associated with the components R and B were three and four for the case of component G. The amount of tomato samples used in training were forty and twenty for testing; the training was done using the Matlab© ANFISEDIT. The tomato samples were divided into six categories according to the US Department of Agriculture (USDA). This study focused on optimizing the descriptors of the color space to achieve high precision in the prediction results of the final classification task with an error of 536,995×10-6. The Computer Vision System (CVS) is integrated by an image isolation system with lighting; the image capture system uses a Raspberry Pi 3 and Camera Module Raspberry Pi 2 at a fixed distance and a black background. In the implementation of the CVS, three different color description methods for tomato classification were analyzed and their respective diffuse systems were also designed, two of them using the descriptors described in the literature.",
+  "references": [
+    {
+      "paperId": "fbd50cb8b107a998fb1c2de0757318b3f2e89b02"
+    },
+    {
+      "paperId": "71d0091e7c52d6d6938d26814fe6053cd9541ce9"
+    },
+    {
+      "paperId": "838c7d732c48285d840e58b705ca2c0da5fc7ed1"
+    },
+    {
+      "paperId": "d613a3bf736d3c9699025efb95e3ccb6a14d8308"
+    },
+    {
+      "paperId": "6206f152a40e63c4c08d6669ed679e978832c67e"
+    },
+    {
+      "paperId": "6d82205e22825b2f10475f090fee4c89a89c0320"
+    },
+    {
+      "paperId": "0e377d714def5d8bc52c84ac675982d74453ce1c"
+    },
+    {
+      "paperId": "d1a9085c3500853e3ae4b2c0dd00aac045a77ada"
+    },
+    {
+      "paperId": "fcf25c3acb14264473133554c7478c6dd910cd60"
+    },
+    {
+      "paperId": "e2e45b306fa15f4dc5ba52e5a7378dbd723a3d81"
+    },
+    {
+      "paperId": "2861cfe2add1f6898ece059658bbdd8f99dc61f3"
+    },
+    {
+      "paperId": "6038738e961b99623ea3f3de374c81e15992368a"
+    },
+    {
+      "paperId": "75aa1f1a04b5f2bb6bf9afb662711121edde9eda"
+    },
+    {
+      "paperId": "fc1ee2a37d78a80fe5b58935e0aeefc5af6602a3"
+    },
+    {
+      "paperId": "f757b0ce389cee87334723476f7f390cbd796215"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1c0c664c582ba9c62ecc488059016af8234a470f"
+    },
+    {
+      "paperId": "7b3b180fa12a2dcee8ff28bd88ba6c299405cd9c"
+    },
+    {
+      "paperId": "1511f5061622597d71a2fcd034c15e63d0b17079"
+    },
+    {
+      "paperId": "9616223e8b9af6165eae0fc6f388e07b8a1b53f4"
+    },
+    {
+      "paperId": "3d2218b17e7898a222e5fc2079a3f1531990708f"
+    },
+    {
+      "paperId": "8065f1bde165594e2d7bcaaf37c41bcf08a505f4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d98450fc761bbacf06fabb2575ef89f8801bf3dc"
+    },
+    {
+      "paperId": "af23d5a9d27d45337c291d59632538f2334a66d0"
+    }
+  ]
+}

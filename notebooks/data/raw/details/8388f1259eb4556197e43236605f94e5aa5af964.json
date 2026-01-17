@@ -1,0 +1,51 @@
+{
+  "paperId": "8388f1259eb4556197e43236605f94e5aa5af964",
+  "externalIds": {
+    "MAG": "2970211035",
+    "DBLP": "conf/epia/MartinsMJBS19",
+    "DOI": "10.1007/978-3-030-30241-2_14",
+    "CorpusId": 201710934
+  },
+  "url": "https://www.semanticscholar.org/paper/8388f1259eb4556197e43236605f94e5aa5af964",
+  "title": "Metbots: Metabolomics Robots for Precision Viticulture",
+  "venue": "Portuguese Conference on Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-30241-2_14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-30241-2_14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144350981",
+      "name": "R. C. Martins"
+    },
+    {
+      "authorId": "148087300",
+      "name": "S. Magalhães"
+    },
+    {
+      "authorId": "33962400",
+      "name": "P. Jorge"
+    },
+    {
+      "authorId": "123041578",
+      "name": "T. Barroso"
+    },
+    {
+      "authorId": "40383247",
+      "name": "F. Santos"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

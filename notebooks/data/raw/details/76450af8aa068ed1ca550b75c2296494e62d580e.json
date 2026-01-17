@@ -1,0 +1,49 @@
+{
+  "paperId": "76450af8aa068ed1ca550b75c2296494e62d580e",
+  "externalIds": {
+    "DBLP": "conf/med/BuddhaNZP19",
+    "MAG": "2967507607",
+    "DOI": "10.1109/MED.2019.8798582",
+    "CorpusId": 201069784
+  },
+  "url": "https://www.semanticscholar.org/paper/76450af8aa068ed1ca550b75c2296494e62d580e",
+  "title": "Weed Detection and Classification in High Altitude Aerial Images for Robot-Based Precision Agriculture",
+  "venue": "2019 27th Mediterranean Conference on Control and Automation (MED)",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MED.2019.8798582?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MED.2019.8798582, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1392838298",
+      "name": "Karthik Buddha"
+    },
+    {
+      "authorId": "145782793",
+      "name": "H. J. Nelson"
+    },
+    {
+      "authorId": "1842276",
+      "name": "Dimitris Zermas"
+    },
+    {
+      "authorId": "1696163",
+      "name": "N. Papanikolopoulos"
+    }
+  ],
+  "abstract": "With the rise of herbicide-resistant weeds, standard farming practices are no longer effective. Precision agriculture technologies can replace some of the standard practices but require information on the physical distribution of weed and crop species. In this work we outline a robotic weed management system and develop the image analysis portion of this system to test it with real aerial survey data. This portion of the system acts as an integral part of a robotic control loop, providing information on weed location and species to a robotic sprayer that will precisely apply the correct herbicide. The image analysis pipeline we develop proves the feasibility of obtaining this information from high altitude aerial surveys of agricultural land that already commonly take place. Our system performs well enough to reliably detect the presence of weed vegetation and to correctly classify it by species with an accuracy of 93.8 % between four classes of weed in images taken at an effective altitude of 80 feet (24.4 m).",
+  "references": null
+}

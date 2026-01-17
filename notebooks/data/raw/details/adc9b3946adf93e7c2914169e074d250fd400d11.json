@@ -1,0 +1,171 @@
+{
+  "paperId": "adc9b3946adf93e7c2914169e074d250fd400d11",
+  "externalIds": {
+    "MAG": "2807017648",
+    "DOI": "10.5539/jas.v10n7p282",
+    "CorpusId": 55266988
+  },
+  "url": "https://www.semanticscholar.org/paper/adc9b3946adf93e7c2914169e074d250fd400d11",
+  "title": "Automatic Section Control Technologies and GPS Auto-guidance Systems Adoption in Cotton Production",
+  "venue": "Journal of Agricultural Sciences",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5539/jas.v10n7p282",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5539/jas.v10n7p282?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5539/jas.v10n7p282, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "88916698",
+      "name": "Brittani Edge"
+    },
+    {
+      "authorId": "2487796",
+      "name": "Margarita Velandia"
+    },
+    {
+      "authorId": "39921694",
+      "name": "C. Boyer"
+    },
+    {
+      "authorId": "144573952",
+      "name": "J. Larson"
+    },
+    {
+      "authorId": "20883446",
+      "name": "D. Lambert"
+    },
+    {
+      "authorId": "36533476",
+      "name": "R. Roberts"
+    },
+    {
+      "authorId": "2070626183",
+      "name": "Bradley Wilson"
+    },
+    {
+      "authorId": "3366511",
+      "name": "M. Buschermohle"
+    },
+    {
+      "authorId": "4281393",
+      "name": "B. English"
+    },
+    {
+      "authorId": "2506061",
+      "name": "R. Rejesus"
+    },
+    {
+      "authorId": "5600575",
+      "name": "L. Falconer"
+    }
+  ],
+  "abstract": "Using data from a survey of cotton producers in 14 US states, and a bivariate probit regression, this study examined the effects of the following measured parameters on the adoption of Automatic Section Control (ASC) technologies and GPS Auto-Guidance (AG) systems: age, education, farm size, field geometry, information sources, as well as the use of specific production practices and other Precision Agriculture (PA) technologies. Results suggest that younger, more educated producers, consulting farm dealers for information about PA technologies, using other PA technologies, and managing larger farming operations located in counties with more irregularly shaped fields are more likely to adopt ASC technologies and AG systems. Predicted adoption probabilities estimated using regression results suggest the use of other PA technologies and farm dealers as a source of precision farming information have the largest impact on the probability of adopting ASC by cotton farmers. Additionally, these results suggest farmers with operations in eastern Arkansas, western Tennessee, and a couple of counties in middle Tennessee are more likely to adopt ASC technologies. Producers in these regions had the highest percentages of users of other PA technologies and farm dealers to obtain PA information.",
+  "references": [
+    {
+      "paperId": "23adcbc44b7cd6dac2a2b0ca3a3d01b6065c84bc"
+    },
+    {
+      "paperId": "92687ff2be5f0da823f653aa6afa2cf7a0e940f1"
+    },
+    {
+      "paperId": "ff0073a74f84fe00b4c594d9d314994de3e83c08"
+    },
+    {
+      "paperId": "d2efd9d1428cffea5fc794bd098faf99496390dd"
+    },
+    {
+      "paperId": "604019aa73c9b6501ae9d83d666cfc462db05629"
+    },
+    {
+      "paperId": "e4f92b4a69e5b6b5790d7005809f7abad038dd08"
+    },
+    {
+      "paperId": "e962a7a563b47780c8ad10ce83273b351c6390b4"
+    },
+    {
+      "paperId": "9cc2d9bf7aa37a03bd35a8b15ba58a3b90a3f648"
+    },
+    {
+      "paperId": "53376ed65290392d37e8b49fa861d2eb94adcfcd"
+    },
+    {
+      "paperId": "fb06b644e6dd7d88262d6e767bb76542346bec44"
+    },
+    {
+      "paperId": "0deb9899813283f64fdb300e6b2493dc2b7c37bd"
+    },
+    {
+      "paperId": "abffa765ea815e75db29f7c37ca119f879075128"
+    },
+    {
+      "paperId": "8073a9c3c5509a502a00cba73388c67a640e8636"
+    },
+    {
+      "paperId": "b11fda04086e06a1c50c4c25a81771eb68845f95"
+    },
+    {
+      "paperId": "40e3c5d75c476da96c8f20dd45fa6d4deb306f4e"
+    },
+    {
+      "paperId": "5eef0679ea02c85037d9ccdfab9530530b69cc60"
+    },
+    {
+      "paperId": "7a2174050be6118b66fd4379cc2ebea6e94d374a"
+    },
+    {
+      "paperId": "be9ea0205a23b41370b87932e0e80bb8c250a1bd"
+    },
+    {
+      "paperId": "4909df5a8b04411e80d6090e6ed8f35570926f8d"
+    },
+    {
+      "paperId": "7b6be34d2afac63165adea0a6556d8c54467c9a8"
+    },
+    {
+      "paperId": "37e44d1de8003d8394d158ec6afd1ff0e87e595b"
+    },
+    {
+      "paperId": "50a42ed2f81b9fe150883a6c89194c88a9647106"
+    },
+    {
+      "paperId": "658371951058deac862ed50752bb511b93d97b67"
+    },
+    {
+      "paperId": "cb84352d67f23c29440eefe0f0e9cf17984e12ef"
+    },
+    {
+      "paperId": "b2fa29d7c61fc5eb3a217c581e9961ee1e8f8a0f"
+    },
+    {
+      "paperId": "4088a2743d4d050d926caf521e1c2d3e38fc0311"
+    },
+    {
+      "paperId": "9529c25408dc86194d417aed73d49ae0e418f1be"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

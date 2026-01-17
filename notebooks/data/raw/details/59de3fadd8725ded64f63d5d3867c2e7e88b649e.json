@@ -1,0 +1,67 @@
+{
+  "paperId": "59de3fadd8725ded64f63d5d3867c2e7e88b649e",
+  "externalIds": {
+    "DBLP": "conf/igarss/ElbahnasawySRZL18",
+    "MAG": "2900622940",
+    "DOI": "10.1109/IGARSS.2018.8517370",
+    "CorpusId": 53231527
+  },
+  "url": "https://www.semanticscholar.org/paper/59de3fadd8725ded64f63d5d3867c2e7e88b649e",
+  "title": "Multi-Sensor Integration Onboard a UAV-Based Mobile Mapping System for Agricultural Management",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8517370?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8517370, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "41017066",
+      "name": "Magdy Elbahnasawy"
+    },
+    {
+      "authorId": "12928439",
+      "name": "Tamer Shamseldin"
+    },
+    {
+      "authorId": "48727796",
+      "name": "Radhika Ravi"
+    },
+    {
+      "authorId": "2267328824",
+      "name": "Tian Zhou"
+    },
+    {
+      "authorId": "9691810",
+      "name": "Yun-Jou Lin"
+    },
+    {
+      "authorId": "89582257",
+      "name": "A. Masjedi"
+    },
+    {
+      "authorId": "51929702",
+      "name": "J. E. Flatt"
+    },
+    {
+      "authorId": "15760889",
+      "name": "M. Crawford"
+    },
+    {
+      "authorId": "1883510",
+      "name": "A. Habib"
+    }
+  ],
+  "abstract": "Due to the advances in technological and industrial fields, remote sensing has been adopted to a considerable extent in precision agricultural applications. Over the past few years, remote sensing utilized Mobile Mapping Systems (MMS) as the platforms for agricultural data collection. For accurate generation of georeferenced products using such MMSs, there should be a robust calibration approach that can accurately estimate the mounting parameters of the involved sensors, i.e., LiDAR unit, camera, and hyperspectral push-broom scanner. In this paper, we propose novel calibration approaches for various sensors onboard a UAV platform – 1) simultaneous estimation of lever arm and boresight angles relating LiDAR unit and camera to the GNSS/INS unit, and 2) estimation of boresight angles relating hyperspectral push-broom scanner and the GNSS/TNS unit.",
+  "references": null
+}

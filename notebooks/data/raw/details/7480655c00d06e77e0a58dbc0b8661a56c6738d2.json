@@ -1,0 +1,391 @@
+{
+  "paperId": "7480655c00d06e77e0a58dbc0b8661a56c6738d2",
+  "externalIds": {
+    "MAG": "2945303443",
+    "DOI": "10.1074/mcp.RA118.001169",
+    "CorpusId": 157056438,
+    "PubMed": "31097671"
+  },
+  "url": "https://www.semanticscholar.org/paper/7480655c00d06e77e0a58dbc0b8661a56c6738d2",
+  "title": "Simultaneous Improvement in the Precision, Accuracy, and Robustness of Label-free Proteome Quantification by Optimizing Data Manipulation Chains*",
+  "venue": "Molecular & Cellular Proteomics",
+  "year": 2019,
+  "citationCount": 96,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mcponline.org/content/mcprot/18/8/1683.full.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/mcp.RA118.001169?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/mcp.RA118.001169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "92183271",
+      "name": "Jing Tang"
+    },
+    {
+      "authorId": "2598130",
+      "name": "Jianbo Fu"
+    },
+    {
+      "authorId": "2121402780",
+      "name": "Yunxia Wang"
+    },
+    {
+      "authorId": "150350164",
+      "name": "Yongchao Luo"
+    },
+    {
+      "authorId": "151178570",
+      "name": "Qingxia Yang"
+    },
+    {
+      "authorId": "66200438",
+      "name": "Bo Li"
+    },
+    {
+      "authorId": "38826469",
+      "name": "Gao Tu"
+    },
+    {
+      "authorId": "123844219",
+      "name": "Jiajun Hong"
+    },
+    {
+      "authorId": "2021626",
+      "name": "Xuejiao Cui"
+    },
+    {
+      "authorId": "2109199880",
+      "name": "Yuzong Chen"
+    },
+    {
+      "authorId": "40465841",
+      "name": "Lixia Yao"
+    },
+    {
+      "authorId": "144281353",
+      "name": "Weiwei Xue"
+    },
+    {
+      "authorId": "144571173",
+      "name": "Feng Zhu"
+    }
+  ],
+  "abstract": "High-quality label-free proteome quantification (LFQ) is valuable for clinical and pharmaceutical studies yet remains extremely challenging despite technical advances. Particularly, fluctuating precision, limited robustness, and compromised accuracy are known issues. Here, we described and validated a new strategy enabling the discovery of the LFQs of simultaneously enhanced precision, robustness, and accuracy from thousands of LFQ manipulation chains. In the proof-of-concept study, this strategy showed superior ability in identifying well-performing LFQs. An online tool incorporating this novel strategy was also developed. Graphical Abstract Highlights High-quality LFQ is valuable technique yet remains extremely challenging. Fluctuating precision, limited robustness, and compromised accuracy are known issues. We proposed a strategy collectively improving LFQ precision, robustness, and accuracy. An online tool incorporating this novel strategy was also developed. The label-free proteome quantification (LFQ) is multistep workflow collectively defined by quantification tools and subsequent data manipulation methods that has been extensively applied in current biomedical, agricultural, and environmental studies. Despite recent advances, in-depth and high-quality quantification remains extremely challenging and requires the optimization of LFQs by comparatively evaluating their performance. However, the evaluation results using different criteria (precision, accuracy, and robustness) vary greatly, and the huge number of potential LFQs becomes one of the bottlenecks in comprehensively optimizing proteome quantification. In this study, a novel strategy, enabling the discovery of the LFQs of simultaneously enhanced performance from thousands of workflows (integrating 18 quantification tools with 3,128 manipulation chains), was therefore proposed. First, the feasibility of achieving simultaneous improvement in the precision, accuracy, and robustness of LFQ was systematically assessed by collectively optimizing its multistep manipulation chains. Second, based on a variety of benchmark datasets acquired by various quantification measurements of different modes of acquisition, this novel strategy successfully identified a number of manipulation chains that simultaneously improved the performance across multiple criteria. Finally, to further enhance proteome quantification and discover the LFQs of optimal performance, an online tool (https://idrblab.org/anpela/) enabling collective performance assessment (from multiple perspectives) of the entire LFQ workflow was developed. This study confirmed the feasibility of achieving simultaneous improvement in precision, accuracy, and robustness. The novel strategy proposed and validated in this study together with the online tool might provide useful guidance for the research field requiring the mass-spectrometry-based LFQ technique.",
+  "references": [
+    {
+      "paperId": "948fd800ecdd3c99488dde36b41480ca1b8acce3"
+    },
+    {
+      "paperId": "cd1650f0fe6a821c1cd56da6d02502536837b961"
+    },
+    {
+      "paperId": "43cf7dbe9c3647474d9bfea2fe257f5882dfdb5b"
+    },
+    {
+      "paperId": "dadcad3c01dc0dcf62a661329e70acfed01f837f"
+    },
+    {
+      "paperId": "8a467cabe8d9c646f4834df7b20f883f3c38cf05"
+    },
+    {
+      "paperId": "167d9f71ada003650ccc727a7257ac4dc5734dca"
+    },
+    {
+      "paperId": "0ca2ca83e02e42940d265e41a9c479f19ea3bf4d"
+    },
+    {
+      "paperId": "5dae3a36db336a07115978df76679ccba9d9263a"
+    },
+    {
+      "paperId": "e11dd1cb74483e1738f7f9608ceab3ca8c3c4ed0"
+    },
+    {
+      "paperId": "dcfc509e9063894a32890a9f50d3e75d2b871dce"
+    },
+    {
+      "paperId": "6256788aba3627be0fd0e47b2c9f8bef988dac9e"
+    },
+    {
+      "paperId": "98a8bb82022e13c76c7b159b5a8e48da65a3325d"
+    },
+    {
+      "paperId": "9104acc9c0b01d4f1a6871a0ceda629099e4194f"
+    },
+    {
+      "paperId": "75e3d670b7af68c7d3f473296dd59046797ace98"
+    },
+    {
+      "paperId": "f295e84ac7dd4633d59ac414cee2166f7f6a6964"
+    },
+    {
+      "paperId": "d52ce1dfcff698134e5fa05893a0d4f1665f7ddb"
+    },
+    {
+      "paperId": "229f1ba958c299477c8229c75e6fe6bd9ad19110"
+    },
+    {
+      "paperId": "70bc86c9ec0bad094f2aae9eac91ec4a69ff8dc8"
+    },
+    {
+      "paperId": "20bb7b949286642406c9135135a6f545a0a38874"
+    },
+    {
+      "paperId": "ca41cdcc694e9af7f10781eb8a219ad39de5c3c1"
+    },
+    {
+      "paperId": "970436de508d7734cc7df16a836fab4a61d02c96"
+    },
+    {
+      "paperId": "08c7ebde2c2bbb53093d7c5a456424443cb54b7d"
+    },
+    {
+      "paperId": "fb05858e9d3bcb3b4682020eb942f3fc93254086"
+    },
+    {
+      "paperId": "13d34b588efe236cacbc3bb19ec0df3300cc4b6e"
+    },
+    {
+      "paperId": "1e67143b35225c733edd6dd5727072c3cc90a410"
+    },
+    {
+      "paperId": "a1b64f052890df27862aa82b166321bfab60c737"
+    },
+    {
+      "paperId": "fa98e294f985c43261753139ce319f23cc246095"
+    },
+    {
+      "paperId": "9d396910f64da26eb0967cbb2402c560f4cba5fd"
+    },
+    {
+      "paperId": "e4051280281ea6aa4d2c8b326bbcf625229c6c7b"
+    },
+    {
+      "paperId": "c4e589ca3cffa6174222fd16cf7b003077931f5c"
+    },
+    {
+      "paperId": "07dfd901ea6657fb47aea71ea1377de1d861d12d"
+    },
+    {
+      "paperId": "5c3fa763adfa33e128baa249a52496e264237c6d"
+    },
+    {
+      "paperId": "6714ee3b9ee10016511ee6f458c85c2f07f4e4d7"
+    },
+    {
+      "paperId": "f74b60922878088f4040e948b5d0f347f7ae45a3"
+    },
+    {
+      "paperId": "82fb2c69e9a07983345db3e9dd6260a73d1ce371"
+    },
+    {
+      "paperId": "2cf53f58e32ae31ff046b6bdbb11c1e40db9da93"
+    },
+    {
+      "paperId": "8ea0ed0f7b2b0682bcd1910a9919cfd09ed78ca7"
+    },
+    {
+      "paperId": "1cb1e323fc9fc89fcb476ac6744c0bfa6ac97a8c"
+    },
+    {
+      "paperId": "82bbf6174dc305846e5182164ec6507bc0cc6c72"
+    },
+    {
+      "paperId": "235041a57b49cc885e88f965dcccfacc71a9aff4"
+    },
+    {
+      "paperId": "87173cc11ea461e02573ea8721a8c54b7d96130a"
+    },
+    {
+      "paperId": "e50d63c8720e874a7f23a255c7c61359fe437f90"
+    },
+    {
+      "paperId": "5f1b968176937f79d8eb0c9252040b70ad05d51d"
+    },
+    {
+      "paperId": "1fb43316e819db59c9e13a119ca110eb973846b6"
+    },
+    {
+      "paperId": "f4816d320d6e5f8318c6fdc445f46c0d3a716fa8"
+    },
+    {
+      "paperId": "5541d4dabec7b7a0c407db66400cef3e1cd338e9"
+    },
+    {
+      "paperId": "518ea598f7696caa011d69868272019db8d264eb"
+    },
+    {
+      "paperId": "b684cb4915cca878c8e2488d651f89b9973db972"
+    },
+    {
+      "paperId": "eb7e0fa8f90c8a197d4b190abae208f23d3f62f8"
+    },
+    {
+      "paperId": "896512e3e4e0b8522a0566f202828e75dac3cc31"
+    },
+    {
+      "paperId": "79f77b087c95fcd986fc49f007410741ad240324"
+    },
+    {
+      "paperId": "a3db0ae40d2bbee920b5ca209be609bc62bab689"
+    },
+    {
+      "paperId": "73c42031d99e6f2d48d33969b281f84cffce5b47"
+    },
+    {
+      "paperId": "06308d4c180f244bf5184c6497902352241b09b6"
+    },
+    {
+      "paperId": "dc7f01616aea5d85e594d6b9d1113ca3bb292d28"
+    },
+    {
+      "paperId": "85e51a176f303c959234216010e48bbbe6647178"
+    },
+    {
+      "paperId": "abebd36813da807b12bd37cb747d968fc8c7f9ea"
+    },
+    {
+      "paperId": "87c9767c57b3baf39345e8e3cc83c3638ed96d69"
+    },
+    {
+      "paperId": "f5b767276a993f55622fae87e3b6d9f9c41da0f4"
+    },
+    {
+      "paperId": "688252c596b205eaae07d726481ad95720a3faab"
+    },
+    {
+      "paperId": "8207c59e06e3faf6b23d3ceb614043cb4ef4b03d"
+    },
+    {
+      "paperId": "036d6900134b6ae352569fd1314b78f114166d5a"
+    },
+    {
+      "paperId": "d616814a50af4e079fe43a6fac545ea37545a0a0"
+    },
+    {
+      "paperId": "74d39e35683da34a85fa2977aa7a4f12bb799e97"
+    },
+    {
+      "paperId": "bcf2e534740a0fd2aa2b719c8be8ae0fa6f73995"
+    },
+    {
+      "paperId": "c1c5844c4acbb750ce716f47501cf0392155bb2f"
+    },
+    {
+      "paperId": "2e6cb8c259f9996740a300d194fa77338339c8ec"
+    },
+    {
+      "paperId": "af36e48b2a87d8d7b669bf0f05084f152167e245"
+    },
+    {
+      "paperId": "b6c5cf1a14ac83d797ed8f2c4e40ca5176d9d8f7"
+    },
+    {
+      "paperId": "5146935d7486f53a0eddffbb4a2ee5ef4b15af6e"
+    },
+    {
+      "paperId": "d9c1a9eee43d933ab9cd8fcde5d5b2d1adc6a501"
+    },
+    {
+      "paperId": "9d2613c48d8fb76d3190df8d6c653c05a56a4203"
+    },
+    {
+      "paperId": "526a6d5d69b96f08e8325ebd22e21bf2fdbd8826"
+    },
+    {
+      "paperId": "832fc890098e735c1d0b1d942c19458bcb0c4680"
+    },
+    {
+      "paperId": "5aed05ced445fed9cc64fa39279391152fc522b4"
+    },
+    {
+      "paperId": "040384ea1537a9d714b8639774054082c758810d"
+    },
+    {
+      "paperId": "26d6cc93922a381e7e732d89e14da7df97d79f44"
+    },
+    {
+      "paperId": "e54d24d8ac4b1c79cca9f344666aee05acf2a9ea"
+    },
+    {
+      "paperId": "33738992821981c6a1472ae69a5894758a65f9da"
+    },
+    {
+      "paperId": "2337e35a29f0e051fa02952b27c97e1b4f25b984"
+    },
+    {
+      "paperId": "54810420accc9141460e47aa8d2d1ae04189365f"
+    },
+    {
+      "paperId": "dc791b8176fee4f218a960990c54946696d6f35d"
+    },
+    {
+      "paperId": "3b875d8eec3689319e719c82506b6580fddd5e01"
+    },
+    {
+      "paperId": "b40b9d056f2233945dd9597fbefeeea5e49ea922"
+    },
+    {
+      "paperId": "8d84b50bcee6f24b727ef879a03b2be5eb56654a"
+    },
+    {
+      "paperId": "16d83132c6a8b8d796739e5a3b2d2b7e3f54e780"
+    },
+    {
+      "paperId": "e3e19f73a5c31eeec28d811f4590f2b972b858b6"
+    },
+    {
+      "paperId": "824e90400d9943b08d9116af22d36a6a25e955d9"
+    },
+    {
+      "paperId": "fef4d954cdc629905b2a9aecc0a45ed03e408a96"
+    },
+    {
+      "paperId": "77e10efd89bd65adf459a18182ce6e5e6660f69c"
+    },
+    {
+      "paperId": "5b62860a9eb3492c5c2d7fb42fd023cae891df45"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "442c94cd3489a2dd8124a63c2765078f9ef25985"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "paperId": "9944ee9b7e6f4ef3b51d289eea52b461792f6320",
+  "externalIds": {
+    "MAG": "2885325440",
+    "DBLP": "conf/wafr/PlonskiI16",
+    "DOI": "10.1177/0278364918784353",
+    "CorpusId": 71716744
+  },
+  "url": "https://www.semanticscholar.org/paper/9944ee9b7e6f4ef3b51d289eea52b461792f6320",
+  "title": "Approximation algorithms for tours of height-varying view cones",
+  "venue": "Int. J. Robotics Res.",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364918784353",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0278364918784353?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0278364918784353, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47323015",
+      "name": "Patrick A. Plonski"
+    },
+    {
+      "authorId": "1698835",
+      "name": "Volkan Isler"
+    }
+  ],
+  "abstract": "We introduce a novel coverage problem that arises in aerial surveying applications. The goal is to compute a shortest path that visits a given set of cones. The apex of each cone is restricted to lie on the ground plane. The common angle α of the cones represent the field of view of the onboard camera. The cone heights, which can be varying, correspond with the desired observation quality (e.g. resolution). This problem is a novel variant of the traveling salesman problem with neighborhoods (TSPN). We name it Cone-TSPN. Our main contribution is a polynomial time approximation algorithm for Cone-TPSN. We analyze its theoretical performance and show that it returns a solution whose length is at most O ( 1 + log ( h max / h min ) ) times the length of the optimal solution where h max and h min are the heights of the tallest and shortest input cones, respectively.We demonstrate the use of our algorithm in a representative precision agriculture application. We further study its performance in simulation using randomly generated cone sets. Our results indicate that the performance of our algorithm is superior to standard solutions.",
+  "references": null
+}

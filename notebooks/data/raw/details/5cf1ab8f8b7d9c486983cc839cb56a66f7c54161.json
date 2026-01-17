@@ -1,0 +1,43 @@
+{
+  "paperId": "5cf1ab8f8b7d9c486983cc839cb56a66f7c54161",
+  "externalIds": {
+    "DBLP": "conf/larc/TerraRD19",
+    "MAG": "3010329196",
+    "DOI": "10.1109/LARS-SBR-WRE48964.2019.00047",
+    "CorpusId": 212634550
+  },
+  "url": "https://www.semanticscholar.org/paper/5cf1ab8f8b7d9c486983cc839cb56a66f7c54161",
+  "title": "Evaluation of the Pressure-Flow Relationship in a Boom of an Autonomous Robotic Agricultural Sprayer",
+  "venue": "Latin American Robotics Symposium",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LARS-SBR-WRE48964.2019.00047?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LARS-SBR-WRE48964.2019.00047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "123666372",
+      "name": "F. Terra"
+    },
+    {
+      "authorId": "1557391502",
+      "name": "Gabrielle da Rosa"
+    },
+    {
+      "authorId": "1408358404",
+      "name": "Paulo L. J. Drews-Jr"
+    }
+  ],
+  "abstract": "Agriculture has undergone changes in order to reduce the labor force and increase the productivity due to the technological advance. However, farmers argue that it is impossible to produce in medium or large-scale without agrochemicals. On the other hand, the need to reduce the amount of pesticides applied is evident, not just for the risk of overapplication fines, but also for potential savings. In this context, pesticide application has been revolutionized with the use of intelligent sprayers able to control even the places where the spraying is really necessary. Some manufacturers already sell solutions to meet these requirements, but the cost sometimes is so high as to make their use prohibitive in small production properties. Therefore, this work is part of a project started to develop low-cost solutions of precision agriculture, robotics, and autonomous systems accessible to smallholders and family farming. Thus, this paper presents the mathematical modeling to allow pressure and flow control along a boom sprayer with individual nozzle on-off control and serial feed. Laboratory characterizations and tests are performed on a seven nozzles boom, in various scenarios of opening and closing nozzles. Experimental results show that the pressure drop along the boom varied under extreme conditions from one to all open nozzles, affecting droplet size.",
+  "references": null
+}

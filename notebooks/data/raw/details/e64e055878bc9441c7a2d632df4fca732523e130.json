@@ -1,0 +1,81 @@
+{
+  "paperId": "e64e055878bc9441c7a2d632df4fca732523e130",
+  "externalIds": {
+    "MAG": "2993810375",
+    "DOI": "10.1051/e3sconf/201913501080",
+    "CorpusId": 214437406
+  },
+  "url": "https://www.semanticscholar.org/paper/e64e055878bc9441c7a2d632df4fca732523e130",
+  "title": "A COMPARATIVE ANALYSIS OF PRECISION SEED PLANTERS",
+  "venue": "Proceedings of the VII international scientific and practical conference «Innovative technologies in science and education» («ITSE-2019»), Dedicated to the 90TH anniversary of DSTU",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.e3s-conferences.org/10.1051/e3sconf/201913501080/pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/201913501080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/201913501080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1582167152",
+      "name": "Noureldin N. Sharaby"
+    },
+    {
+      "authorId": "143651260",
+      "name": "A. Doroshenko"
+    },
+    {
+      "authorId": "73833056",
+      "name": "A. Butovchenko"
+    },
+    {
+      "authorId": "98552891",
+      "name": "Aleksandr Legkonogih"
+    }
+  ],
+  "abstract": "Crops play a vital role in our daily life, as they represent the backbone of all life on earth and an essential resource for human food, feed grain, oil, and fiber for local consumption and a major component of export trade in many countries, leading to its increasing demand all over the world. Precision planting is the effective method to rise crop yield. To meet the agricultural requirement of precision planting, various types of different precision seed planters have been developed. However, because of the difference of farm scale, geographical environment, crop type and economic status among different countries, types of seed planters are various, and the technique involved are at different levels. This paper analysis and compare of some typically precision seed planters currently available in the world. Detailed characteristics have been provided for some typical precision planters and comparisons were made as to their suitability under working conditions. This allows the smallholder farmers to assess and select the appropriate precision seed planter that corresponds to the potential and characteristics required, for example, planting seeds, the possibility of adding fertilizer during cropping, the number of rows and the horsepower required, controlling the seeds rate, spacing between seeds in the same rows in addition to more other options.",
+  "references": [
+    {
+      "paperId": "070008e5e8d5f7ecce500ea316f37859870aae88"
+    },
+    {
+      "paperId": "29da51d8545fdff4b359c6b046cd672d5252c820"
+    },
+    {
+      "paperId": "9f6eef04e66c4d756018d34c6789c63f5e09578d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0fb7834619820d71783edb54a7037b9a1a77c9a5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

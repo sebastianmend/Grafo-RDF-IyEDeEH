@@ -1,0 +1,56 @@
+{
+  "paperId": "985763698fcf8101b8a41c051600af3dbd51f147",
+  "externalIds": {
+    "MAG": "2945838958",
+    "DBLP": "conf/cloudtech/MesmoudiLKTTB18",
+    "DOI": "10.1109/CloudTech.2018.8713348",
+    "CorpusId": 155108316
+  },
+  "url": "https://www.semanticscholar.org/paper/985763698fcf8101b8a41c051600af3dbd51f147",
+  "title": "Design and implementation of a smart gateway for IoT applications using heterogeneous smart objects",
+  "venue": "International Conference on Cloud Computing Technologies and Applications",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CloudTech.2018.8713348?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CloudTech.2018.8713348, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40807277",
+      "name": "Yasser Mesmoudi"
+    },
+    {
+      "authorId": "74629807",
+      "name": "Mohammed Lamnaour"
+    },
+    {
+      "authorId": "26591453",
+      "name": "Yasser El Khamlichi"
+    },
+    {
+      "authorId": "7748831",
+      "name": "A. Tahiri"
+    },
+    {
+      "authorId": "3358506",
+      "name": "A. Touhafi"
+    },
+    {
+      "authorId": "2456513",
+      "name": "An Braeken"
+    }
+  ],
+  "abstract": "Today, the integration of internet of things in different daily life field, like smart cities, environmental surveillance, health care, precision agriculture and traffic monitoring, etc, is in high increase. Consequently, the need of developing a middleware that plays a role of an intermediate software layer between the sensor hardware and the sensor network applications, and solves issues concerning each connected objects, such as different format of data and the heterogeneity at the network interface level as well as at the operating system. Most of these solutions are proprietary, monopolized by many companies and developed in a vertical way, so it prevents developers from reusing already developed modules. This paper study the existing middleware approaches and describes our proposed solution architecture which tries to deal with the issues cited previously then we conclude with future work following the same research directions.",
+  "references": null
+}

@@ -1,0 +1,104 @@
+{
+  "paperId": "1fe18a91d3abb2962f0de40d1cb55a71b29c4c13",
+  "externalIds": {
+    "MAG": "2914614947",
+    "DBLP": "journals/sensors/HerrmannVTC19",
+    "PubMedCentral": "6386976",
+    "DOI": "10.3390/s19030457",
+    "CorpusId": 59250784,
+    "PubMed": "30678031"
+  },
+  "url": "https://www.semanticscholar.org/paper/1fe18a91d3abb2962f0de40d1cb55a71b29c4c13",
+  "title": "Spectral Data Collection by Dual Field-of-View System under Changing Atmospheric Conditions—A Case Study of Estimating Early Season Soybean Populations",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/3/457/pdf?version=1548645952",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6386976, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "CaseReport",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34993365",
+      "name": "I. Herrmann"
+    },
+    {
+      "authorId": "40910303",
+      "name": "S. Vosberg"
+    },
+    {
+      "authorId": "35146915",
+      "name": "P. Townsend"
+    },
+    {
+      "authorId": "39916985",
+      "name": "S. Conley"
+    }
+  ],
+  "abstract": "There is an increasing interest in using hyperspectral data for phenotyping and crop management while overcoming the challenge of changing atmospheric conditions. The Piccolo dual field-of-view system collects up- and downwelling radiation nearly simultaneously with one spectrometer. Such systems offer great promise for crop monitoring under highly variable atmospheric conditions. Here, the system’s utility from a tractor-mounted boom was demonstrated for a case study of estimating soybean plant populations in early vegetative stages. The Piccolo system is described and its performance under changing sky conditions are assessed for two replicates of the same experiment. Plant population assessment was estimated by partial least squares regression (PLSR) resulting in stable estimations by models calibrated and validated under sunny and cloudy or cloudy and sunny conditions, respectively. We conclude that the Piccolo system is effective for data collection under variable atmospheric conditions, and we show its feasibility of operation for precision agriculture research and potential commercial applications.",
+  "references": [
+    {
+      "paperId": "57fe534a35d578e7db6077cccfe5b7ad4767793a"
+    },
+    {
+      "paperId": "31098452a7552643916755fe73ac396b860f6818"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "839f55d53c29ab3919b872b59b869f76ea242883"
+    },
+    {
+      "paperId": "ad85bbbc454c2acd3a69ffa10f7c7ef9c96cae8a"
+    },
+    {
+      "paperId": "6c5e69b81ae455838f6c7bb4a1cc703db3c13d58"
+    },
+    {
+      "paperId": "e1a9f303c2e89970c624380b89546e1babb08da9"
+    },
+    {
+      "paperId": "9b408fe3231430c110f46fcd2fa75f84d8f19f48"
+    },
+    {
+      "paperId": "07836fdbf066382e23c505174129ce099d86b102"
+    },
+    {
+      "paperId": "905ed36ec98b6397f0c227a518c0a92c9a664f05"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": "bb0bf5f603455f380d3621e44a4ba9dcd77c0821"
+    },
+    {
+      "paperId": "358b566185ce32102a57add38c3972a4ae4fc960"
+    },
+    {
+      "paperId": "4d841f491fabb04b115b29ab301a574e5a3effbb"
+    },
+    {
+      "paperId": "4c9a5e864b83fc325622b22097791266f4e20466"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

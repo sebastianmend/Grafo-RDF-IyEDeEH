@@ -1,0 +1,48 @@
+{
+  "paperId": "c2ae5ce8d63df56eda02a3a0a2e3f36ecf0c4e43",
+  "externalIds": {
+    "DBLP": "conf/ieeesensors/ShigetaKGB18",
+    "MAG": "2907894180",
+    "DOI": "10.1109/ICSENS.2018.8589698",
+    "CorpusId": 57192491
+  },
+  "url": "https://www.semanticscholar.org/paper/c2ae5ce8d63df56eda02a3a0a2e3f36ecf0c4e43",
+  "title": "Capacitive-Touch-Based Soil Monitoring Device with Exchangeable Sensor Probe",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSENS.2018.8589698?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSENS.2018.8589698, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2816314",
+      "name": "Ryo Shigeta"
+    },
+    {
+      "authorId": "1773545",
+      "name": "Y. Kawahara"
+    },
+    {
+      "authorId": "66478527",
+      "name": "G. D. Goud"
+    },
+    {
+      "authorId": "2139267487",
+      "name": "Balaji Naik Banoth"
+    }
+  ],
+  "abstract": "Precision agriculture is a potential candidate for enhancing productivity and conserving water resources. In particular, irrigation activities can be optimized by collecting soil conditions using soil sensors to ensure water resource sustainability. While there are commercialized soil-monitoring systems, their cost is often too high for large-scale implementation. To guarantee water resource sustainability and food supply through irrigation optimization, large-scale deployments of soil sensors are required. Therefore, in this study, a cost-efficient soil monitoring device that employs capacitive touch sensing and printed electronics was developed. The target price of the proposed system that includes a sensor probe and a gateway is $1000. This is about three times cheaper than the commercially available systems and it is reasonably accurate. In India, irrigation optimization is essential to mitigate severe drought and water shortage caused by climate changes. Thus, to verify the usability of the proposed probes for irrigation management in a real farm field, the probes were tested in a maize field in Hyderabad. The deployed probes successfully detected soil moisture changes due to precipitation and irrigation, which is useful for irrigation optimization.",
+  "references": null
+}

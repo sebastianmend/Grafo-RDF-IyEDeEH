@@ -1,0 +1,38 @@
+{
+  "paperId": "ee8369324a726a56d473df7fe787c9060c8eb10b",
+  "externalIds": {
+    "MAG": "2794293126",
+    "DOI": "10.1177/0960336017751299",
+    "CorpusId": 103424572
+  },
+  "url": "https://www.semanticscholar.org/paper/ee8369324a726a56d473df7fe787c9060c8eb10b",
+  "title": "ASD — Highland Precision Agriculture case study: Improving precision agriculture with visible and near-infrared spectroscopy",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0960336017751299?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0960336017751299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "97245635",
+      "name": "Betsy Kenaston"
+    },
+    {
+      "authorId": "100937987",
+      "name": "Christopher Crockett"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

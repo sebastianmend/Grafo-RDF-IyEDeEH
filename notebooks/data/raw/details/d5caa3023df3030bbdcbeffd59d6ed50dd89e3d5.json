@@ -1,0 +1,46 @@
+{
+  "paperId": "d5caa3023df3030bbdcbeffd59d6ed50dd89e3d5",
+  "externalIds": {
+    "MAG": "3015406084",
+    "DOI": "10.1109/WPTC45513.2019.9055626",
+    "CorpusId": 215722974
+  },
+  "url": "https://www.semanticscholar.org/paper/d5caa3023df3030bbdcbeffd59d6ed50dd89e3d5",
+  "title": "85-kHz band 450-W Inductive Power Transfer for Unmanned Aerial Vehicle Wireless Charging Port",
+  "venue": "IEEE Wireless Power Transfer Conference",
+  "year": 2019,
+  "citationCount": 20,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WPTC45513.2019.9055626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WPTC45513.2019.9055626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "7639488",
+      "name": "S. Obayashi"
+    },
+    {
+      "authorId": "31127528",
+      "name": "Yasuhiro Kanekiyo"
+    },
+    {
+      "authorId": "1624172656",
+      "name": "Kouju Nishizawa"
+    },
+    {
+      "authorId": "1626112382",
+      "name": "H. Kusada"
+    }
+  ],
+  "abstract": "Electrical unmanned aerial vehicles (UAVs, drones) have been deployed in wide application fields, including for industrial purposes such as infrastructure monitoring, precision agriculture, and logistics. Since UAVs for industrial purposes are usually large and carry large batteries, high-power charger is preferable for fast charging. Although wireless charging stations for UAVs have recently been reported in the literature, the charging powers in those reports are 150 W or less, to the knowledge of the authors. This paper summarizes the design of a prototype 450-W inductive power transfer system in the 85-kHz band for application to the wireless charging port of a large UAV and reports the measured results. The proposed structure and shape of the wireless charging port for the UAV is described. The measurement of the prototype shows that received dc power is approximately 450 W, indicating the potential for application to the fast wireless charging port of a large UAV.",
+  "references": null
+}

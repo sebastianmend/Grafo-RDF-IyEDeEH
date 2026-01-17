@@ -1,0 +1,44 @@
+{
+  "paperId": "be0e04d912079bd38c6664a31b1f6330b5b25487",
+  "externalIds": {
+    "DBLP": "conf/igarss/ErtenKL18",
+    "MAG": "2900665321",
+    "DOI": "10.1109/IGARSS.2018.8518169",
+    "CorpusId": 53227746
+  },
+  "url": "https://www.semanticscholar.org/paper/be0e04d912079bd38c6664a31b1f6330b5b25487",
+  "title": "Global Sensitivity Analysis of Polarimetric Data to Retrieve Biophysical Parameters of Canola and Barley Crops",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518169?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "143919790",
+      "name": "Gülsen Taskin Kaya"
+    },
+    {
+      "authorId": "1398132137",
+      "name": "J. Lopez-Sanchez"
+    }
+  ],
+  "abstract": "Tracking crop's biophysical parameters using temporal Pol-SAR (Polarimetric Synthetic Aperture Radar Data) data is an active research topic in precision agriculture due to the sensitivity of PolSAR acquisition to canopy's physical and geometrical structure. Reconstruction of polarimetric features from collection of SAR data is computationally expensive, and more important, the inter-features correlations cause decreased performance in regression based biophysical parameter estimation. With the scope of operational crop monitoring, this study provides key variables to drive Leaf Area Index (LAI) from polarimetric data based on global sensitivity analysis (GSA) addressing the ranking of the most influential features. We applied variance-based GSA for temporal fully-polarimetric RadarSAt-2 images acquired through the cultivation period of two crops; canola and barley. Among 20 polarimetric features, anisotropy and correlation magnitude between co-polar channels were found to be the most influential polarimetric features for canola and barley, respectively.",
+  "references": null
+}

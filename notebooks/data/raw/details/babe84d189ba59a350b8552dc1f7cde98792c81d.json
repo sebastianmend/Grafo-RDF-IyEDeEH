@@ -15,7 +15,7 @@
     "url": "https://digital.library.unt.edu/ark:/67531/metadc287993/m2/1/high_res_d/AcevedoEnvCons2011IDFoodSecurity.pdf",
     "status": "GREEN",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0376892911000257?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0376892911000257, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0376892911000257?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0376892911000257, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Business"

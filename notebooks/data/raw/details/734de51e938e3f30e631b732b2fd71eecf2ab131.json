@@ -1,0 +1,38 @@
+{
+  "paperId": "734de51e938e3f30e631b732b2fd71eecf2ab131",
+  "externalIds": {
+    "MAG": "2908905814",
+    "DOI": "10.1109/IEMCON.2018.8614981",
+    "CorpusId": 58671136
+  },
+  "url": "https://www.semanticscholar.org/paper/734de51e938e3f30e631b732b2fd71eecf2ab131",
+  "title": "Solar-Powered Smart Agricultural Monitoring System Using Internet of Things Devices",
+  "venue": "IEEE Annual Information Technology, Electronics and Mobile Communication Conference",
+  "year": 2018,
+  "citationCount": 36,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IEMCON.2018.8614981?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IEMCON.2018.8614981, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40578527",
+      "name": "S. Sadowski"
+    },
+    {
+      "authorId": "1805815",
+      "name": "P. Spachos"
+    }
+  ],
+  "abstract": "Advances in wireless communication technologies for monitoring and control systems have paved the way for a new method of farming known as smart farming. Smart farming can be achieved through the use of Precision Agriculture (PA) which involves using novel technology along with inch-scale devices to monitor crops and provide precise treatments when required. Smart PA is able to take traditional farming practices and apply technological advances from areas such as Wireless Sensor Networks (WSN) and the Internet of Things (IoT) to assist in increasing the output yield of a crop while improving efficiency and reducing the amount of stress placed on a farmer. In this paper, a solar-powered smart agricultural monitoring system with IoT devices is presented. Solar-powered prototype nodes were designed to measure environmental conditions in a field and report to a base station for data storage and further processing. Two prototypes were compared in identifying the advantages gained when using energy harvesting in a device. Using an experimental testbed, a proof of concept of how the system would function is presented. According to experimental results, using an energy harvesting device can provide an increased lifetime for a device by supplying power and recharging its battery.",
+  "references": null
+}

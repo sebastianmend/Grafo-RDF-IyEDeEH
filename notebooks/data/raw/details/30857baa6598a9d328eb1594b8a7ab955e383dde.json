@@ -1,0 +1,44 @@
+{
+  "paperId": "30857baa6598a9d328eb1594b8a7ab955e383dde",
+  "externalIds": {
+    "MAG": "2798413549",
+    "DBLP": "conf/icit2/ReinaGM18",
+    "DOI": "10.1109/ICIT.2018.8352153",
+    "CorpusId": 13748383
+  },
+  "url": "https://www.semanticscholar.org/paper/30857baa6598a9d328eb1594b8a7ab955e383dde",
+  "title": "All-terrain estimation for mobile robots in precision agriculture",
+  "venue": "International Conference on Industrial Technology",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIT.2018.8352153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIT.2018.8352153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3019830",
+      "name": "G. Reina"
+    },
+    {
+      "authorId": "2404392",
+      "name": "Rocco Galati"
+    },
+    {
+      "authorId": "2024268",
+      "name": "A. Milella"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,130 @@
+{
+  "paperId": "3df16fde1acdf3d148c6b18a1ebf6d2b74badf28",
+  "externalIds": {
+    "MAG": "2946799809",
+    "DOI": "10.1088/1755-1315/275/1/012022",
+    "CorpusId": 182786022
+  },
+  "url": "https://www.semanticscholar.org/paper/3df16fde1acdf3d148c6b18a1ebf6d2b74badf28",
+  "title": "A review on the use of drones for precision agriculture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 139,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/275/1/012022",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/275/1/012022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/275/1/012022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3096009",
+      "name": "P. Daponte"
+    },
+    {
+      "authorId": "1785903",
+      "name": "L. De Vito"
+    },
+    {
+      "authorId": "1737350",
+      "name": "L. Glielmo"
+    },
+    {
+      "authorId": "2048101",
+      "name": "L. Iannelli"
+    },
+    {
+      "authorId": "1920439",
+      "name": "D. Liuzza"
+    },
+    {
+      "authorId": "2098920",
+      "name": "F. Picariello"
+    },
+    {
+      "authorId": "2356545475",
+      "name": "Giuseppe Silano"
+    }
+  ],
+  "abstract": "In recent years, there has been a strong activity in the so-called precision agriculture, particularly the monitoring aspect, not only to improve productivity, but also to meet demand of a growing population. At a large scale, precise monitoring of cultivated fields is a quite challenging task. Therefore, this paper aims to propose a survey on techniques, applied to precision agriculture monitoring, through the use of drones equipped with multispectral, thermal and visible cameras. For each application, the main limitations are highlighted and the parameters to be considered before to perform a flight are reported.",
+  "references": [
+    {
+      "paperId": "d07cc19f4305fe18fae817bb0cb17010c7287f5f"
+    },
+    {
+      "paperId": "d13b9e2d9909643fbdd258b2d6b1e863b942efa2"
+    },
+    {
+      "paperId": "af5876b86fe07b6b4eab435bbff399482e349410"
+    },
+    {
+      "paperId": "aa2bee6fec3f7430bb2de65bb1a6fc79ea301633"
+    },
+    {
+      "paperId": "25da67d09fe34e9e3490215890c7bde9f7a1e316"
+    },
+    {
+      "paperId": "e2aa7dc2e91b52bbf937a513b3038284f662ca8e"
+    },
+    {
+      "paperId": "9af56e0c18388782e92c36eaa42300eda56f6711"
+    },
+    {
+      "paperId": "b892ce455e60b1ed3cac0fc0584624bdd07bc847"
+    },
+    {
+      "paperId": "2b10934501e48c8e7db294ad3646f6d05f60f96f"
+    },
+    {
+      "paperId": "c24771df3d8c649c07064cd2c5fd545187b5377e"
+    },
+    {
+      "paperId": "6b6baacb06d068e91aab837a108db2008af6b703"
+    },
+    {
+      "paperId": "a9e29e409edc9fe9b778a805358aa199d64c61f5"
+    },
+    {
+      "paperId": "73f2ae0292ccbdd4e1c713fe89c9b2bac249d3bb"
+    },
+    {
+      "paperId": "b8073ab3c4dc03e343806d5697b06873c9874f37"
+    },
+    {
+      "paperId": "97b586c64de1aa1e01626fb218aa328021ac39bd"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "6146b879f93c2cabf0ed838f47e77e14ae4aef26"
+    },
+    {
+      "paperId": "6e088d5e4d265628a26e18bf2a5037faf140042b"
+    },
+    {
+      "paperId": "e415038575b84918414f8973acff6a399a8b66f2"
+    },
+    {
+      "paperId": "1e0820f5b1043bb069c0ac28d9345e6c3cef2a00"
+    },
+    {
+      "paperId": "4de1b12785cc5231d611ef550a160cd425171c46"
+    },
+    {
+      "paperId": "286e16de03d037a6bf1b916dcffec9ac568e9940"
+    },
+    {
+      "paperId": "635150f6067338785e8f9e8bd3b87ce6e9cd4258"
+    }
+  ]
+}

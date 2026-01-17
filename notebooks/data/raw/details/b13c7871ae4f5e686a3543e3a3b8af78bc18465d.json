@@ -1,0 +1,211 @@
+{
+  "paperId": "b13c7871ae4f5e686a3543e3a3b8af78bc18465d",
+  "externalIds": {
+    "MAG": "2980988792",
+    "DBLP": "journals/remotesensing/del-Campo-Sanchez19",
+    "DOI": "10.3390/rs11202365",
+    "CorpusId": 208224648
+  },
+  "url": "https://www.semanticscholar.org/paper/b13c7871ae4f5e686a3543e3a3b8af78bc18465d",
+  "title": "Geometric Characterization of Vines from 3D Point Clouds Obtained with Laser Scanner Systems",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 19,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2365/pdf?version=1570862181",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1422277487",
+      "name": "Ana del-Campo-Sanchez"
+    },
+    {
+      "authorId": "2054125809",
+      "name": "M. A. Hidalgo"
+    },
+    {
+      "authorId": "51933772",
+      "name": "R. Ballesteros"
+    },
+    {
+      "authorId": "1403901633",
+      "name": "D. Hernández-López"
+    }
+  ],
+  "abstract": "The 3D digital characterization of vegetation is a growing practice in the agronomy sector. Precision agriculture is sustained, among other methods, by variables that remote sensing techniques can digitize. At present, laser scanners make it possible to digitize three-dimensional crop geometry in the form of point clouds. In this work, we developed several methods for calculating the volume of vine wood, with the final intention of using these values as indicators of vegetative vigor on a thematic map. For this, we used a static terrestrial laser scanner (TLS), a mobile scanning system (MMS), and six algorithms that were implemented and adapted to the data captured and to the proposed objective. The results show that, with TLS equipment and the algorithm called convex hull cluster, the volumes of a vine trunk can be obtained with a relative error lower than 7%. Although the accuracy and detail of the cloud obtained with TLS are very high, the cost per unit for the scanned area limits the application of this system for large areas. In contrast to the inoperability of the TLS in large areas of terrain, the MMS and the algorithm based on the L1-medial skeleton and the modelling of cylinders of a certain height and diameter have solved the estimation of volumes with a relative error better than 3%. To conclude, the vigor map elaborated represents the estimated volume of each vine by this method.",
+  "references": [
+    {
+      "paperId": "a0efa164b16003205fbd812c787c753b8d6ded40"
+    },
+    {
+      "paperId": "da04ce4136c1241053cb053a31e802deaf3da73c"
+    },
+    {
+      "paperId": "37d54703d02ce50b01d2ee4593ecc978da4b0823"
+    },
+    {
+      "paperId": "7d19b82eaad5e138f6ac59cfaba92bd679732523"
+    },
+    {
+      "paperId": "89f792b2210426a50f9d01ed7aa9547b3aacb287"
+    },
+    {
+      "paperId": "930596cebae1417e5c6310fe1e949e3a8a2d6ba2"
+    },
+    {
+      "paperId": "11f241154edc8f34df18285b22917eba7c599506"
+    },
+    {
+      "paperId": "32e6cb346240f007ef670b93223df18345e98588"
+    },
+    {
+      "paperId": "e911e799b1367bf6d4932775dede3a4792e421c4"
+    },
+    {
+      "paperId": "f1dc3fb1c8100eb6b7765d92a6e118d5181c3acf"
+    },
+    {
+      "paperId": "33aaa579d5583a55f5de11f505d6ed4e0b89a04a"
+    },
+    {
+      "paperId": "ed14069cb4a802477a3eeb1c2064736b7a1bde1c"
+    },
+    {
+      "paperId": "4d6f72674dc4a76e2dd19e58a473ea63bc158fdd"
+    },
+    {
+      "paperId": "cd8041ca71a3584425e669e091496e0c80e221b6"
+    },
+    {
+      "paperId": "4799320a6ae437fd55e82df54632168ba56344dd"
+    },
+    {
+      "paperId": "a3d9e34b2618294dd421c7a5769252ac5ac3eb6e"
+    },
+    {
+      "paperId": "c333ea0d844f3638d7a20e2d778ce09bdcad2c0a"
+    },
+    {
+      "paperId": "adcb20357a1d008ff29746173bbdb46c130c5864"
+    },
+    {
+      "paperId": "0939239e77abe11627bc701effa85280491b6b32"
+    },
+    {
+      "paperId": "31d88691a1a4f42879c26189829cc4c3899f8dfa"
+    },
+    {
+      "paperId": "e632f1b676c6cabbe8b0324b263914e47a3042dd"
+    },
+    {
+      "paperId": "3655beaf9d2d4caa8913af949492f5e895088b18"
+    },
+    {
+      "paperId": "92f66d26dc52d4b9bde8684520a3dddfb3bd8d36"
+    },
+    {
+      "paperId": "8d90a7d1f347403cdcf82b0a99c81618a32d3f2f"
+    },
+    {
+      "paperId": "8d6e5d9fd47ca3f8ff67bf48200bb1e8ccb6f518"
+    },
+    {
+      "paperId": "50edc0a1db5b249d486b8e77b4023a87f540fec2"
+    },
+    {
+      "paperId": "2c819f3ee55102dfecf413d720916323c0d86ca7"
+    },
+    {
+      "paperId": "d330da3c07476fa0c7f2fb1ed9342aac8b54c24b"
+    },
+    {
+      "paperId": "3a2890cca79ec179408d2eb964a0f11c935bff3c"
+    },
+    {
+      "paperId": "3f8dd836b91fa32e45090b519e3b94f51b748841"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "a1e8da5ac07a28342e0e456f02dff82c7ee8e750"
+    },
+    {
+      "paperId": "2089815d73c05e95b9a03d9cf6b1305216d4c9c7"
+    },
+    {
+      "paperId": "7d5da4cdc71525048aaf14fa2dee0ef1c9b73724"
+    },
+    {
+      "paperId": "708b3c4c055e8bc5d1f52783e8a370e1f6809100"
+    },
+    {
+      "paperId": "ad4cac0eb74480a60ac781ca3cc5c8b7f0562bfa"
+    },
+    {
+      "paperId": "bafe8c518a8cebdbf5ee98015443625e71039c11"
+    },
+    {
+      "paperId": "d1de0ab491ec848ad5cab0f45d47e14e374ffe5e"
+    },
+    {
+      "paperId": "cb2a1dc30592428c18d0aeaea5721d70260af937"
+    },
+    {
+      "paperId": "cb9cb8362352fd3048a21a25cee9bbbb7a6c5e92"
+    },
+    {
+      "paperId": "6b8d5564d45da38b0cc78c3825f4828c0a43e255"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9ab365998be6243d7a8777905025c9572257797f"
+    },
+    {
+      "paperId": "a54746804e5e3eeba822ce0aad8b5f11ed90edd0"
+    },
+    {
+      "paperId": "b0c9a6918e783f19ea0e5cc53201263aa4711a3c"
+    },
+    {
+      "paperId": "0a98f31de5789e4c3bb15d9efbec6d09a6517eb8"
+    },
+    {
+      "paperId": "991e1cf77e15b3bc241d0b93117ff3bc7589100b"
+    },
+    {
+      "paperId": "04afc5dc3fe500bc6a5a5a1855366ffc6c24d508"
+    },
+    {
+      "paperId": "9723225679e97ad65fee9a1857928e7cd7358d0a"
+    },
+    {
+      "paperId": "cff2907862ac25287617878b0e032527a646193f"
+    },
+    {
+      "paperId": "76598761d217778dcec9712087268768a70db8e3"
+    },
+    {
+      "paperId": "46a220734d401f5152f479ff4eef21473cae53de"
+    },
+    {
+      "paperId": "54e6c1f2c540b53b011ead018e3a821b4c70a96c"
+    },
+    {
+      "paperId": "c2a2a5f790d52264bc5e2b87982b736dbafb8023"
+    }
+  ]
+}

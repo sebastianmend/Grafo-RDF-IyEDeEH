@@ -1,0 +1,48 @@
+{
+  "paperId": "c02f810f4b3fe467b8ebbb3ee1bfddcd650caca0",
+  "externalIds": {
+    "MAG": "2968034511",
+    "DBLP": "conf/icra/ChebroluLLS19",
+    "DOI": "10.1109/ICRA.2019.8794030",
+    "CorpusId": 160020774
+  },
+  "url": "https://www.semanticscholar.org/paper/c02f810f4b3fe467b8ebbb3ee1bfddcd650caca0",
+  "title": "Robot Localization Based on Aerial Images for Precision Agriculture Tasks in Crop Fields",
+  "venue": "IEEE International Conference on Robotics and Automation",
+  "year": 2019,
+  "citationCount": 46,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICRA.2019.8794030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICRA.2019.8794030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "25884999",
+      "name": "Nived Chebrolu"
+    },
+    {
+      "authorId": "3414541",
+      "name": "Philipp Lottes"
+    },
+    {
+      "authorId": "2228395",
+      "name": "T. Läbe"
+    },
+    {
+      "authorId": "1722062",
+      "name": "C. Stachniss"
+    }
+  ],
+  "abstract": "Localization is a pre-requisite for most autonomous robots. For example, to carry out precision agriculture tasks effectively, a robot must be able to localize itself accurately in crop fields. The crop field environment presents unique challenges such as the highly repetitive structure of the crops leading to visual aliasing as well as the continuously changing appearance of the field, which makes it difficult to localize over time. In this paper, we present a localization system, which uses an aerial map of the field and exploits the semantic information of the crops, weeds, and their stem positions to resolve the visual ambiguity problem and to enable robot localization over extended periods of time. We evaluate our approach on a real field over multiple sessions spanning several weeks. Experiments suggest that our approach provides the necessary accuracy required by precision agriculture applications and works in cases where current techniques using typical visual features tend to fail.",
+  "references": null
+}

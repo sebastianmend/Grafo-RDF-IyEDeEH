@@ -1,0 +1,48 @@
+{
+  "paperId": "cd90632c8cb102e7c2872c3f7a3e72639a461e9f",
+  "externalIds": {
+    "MAG": "2902768594",
+    "DOI": "10.1146/annurev-animal-020518-114851",
+    "CorpusId": 54133544,
+    "PubMed": "30485756"
+  },
+  "url": "https://www.semanticscholar.org/paper/cd90632c8cb102e7c2872c3f7a3e72639a461e9f",
+  "title": "Smart Animal Agriculture: Application of Real-Time Sensors to Improve Animal Well-Being and Production.",
+  "venue": "Annual Review of Animal Biosciences",
+  "year": 2019,
+  "citationCount": 249,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-animal-020518-114851?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-animal-020518-114851, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2822905",
+      "name": "I. Halachmi"
+    },
+    {
+      "authorId": "29344003",
+      "name": "M. Guarino"
+    },
+    {
+      "authorId": "143755240",
+      "name": "J. Bewley"
+    },
+    {
+      "authorId": "2819055",
+      "name": "M. Pastell"
+    }
+  ],
+  "abstract": "Consumption of animal products such as meat, milk, and eggs in first-world countries has leveled off, but it is rising precipitously in developing countries. Agriculture will have to increase its output to meet demand, opening the door to increased automation and technological innovation; intensified, sustainable farming; and precision livestock farming (PLF) applications. Early indicators of medical problems, which use sensors to alert cattle farmers early concerning individual animals that need special care, are proliferating. Wearable technologies dominate the market. In less-value-per-animal systems like sheep, goat, pig, poultry, and fish, one sensor, like a camera or robot per herd/flock/school, rather than one sensor per animal, will become common. PLF sensors generate huge amounts of data, and many actors benefit from PLF data. No standards currently exist for sharing sensor-generated data, limiting the use of commercial sensors. Technologies providing accurate data can enhance a well-managed farm. Development of methods to turn the data into actionable solutions is critical.",
+  "references": null
+}

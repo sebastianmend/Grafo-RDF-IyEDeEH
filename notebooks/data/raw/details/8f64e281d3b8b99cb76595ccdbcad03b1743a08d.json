@@ -1,0 +1,125 @@
+{
+  "paperId": "8f64e281d3b8b99cb76595ccdbcad03b1743a08d",
+  "externalIds": {
+    "MAG": "2948262748",
+    "DOI": "10.5194/ISPRS-ARCHIVES-XLII-2-W13-715-2019",
+    "CorpusId": 195515565
+  },
+  "url": "https://www.semanticscholar.org/paper/8f64e281d3b8b99cb76595ccdbcad03b1743a08d",
+  "title": "UAV/SATELLITE MULTISCALE DATA FUSION FOR CROP MONITORING AND EARLY STRESS DETECTION",
+  "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+  "year": 2019,
+  "citationCount": 45,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/715/2019/isprs-archives-XLII-2-W13-715-2019.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRS-ARCHIVES-XLII-2-W13-715-2019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRS-ARCHIVES-XLII-2-W13-715-2019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "35993396",
+      "name": "V. Sagan"
+    },
+    {
+      "authorId": "2496780",
+      "name": "M. Maimaitijiang"
+    },
+    {
+      "authorId": "2325550",
+      "name": "P. Sidike"
+    },
+    {
+      "authorId": "3028343",
+      "name": "M. Maimaitiyiming"
+    },
+    {
+      "authorId": "146883617",
+      "name": "H. Erkbol"
+    },
+    {
+      "authorId": "81968790",
+      "name": "S. Hartling"
+    },
+    {
+      "authorId": "47109477",
+      "name": "K. Peterson"
+    },
+    {
+      "authorId": "2105886065",
+      "name": "J. Peterson"
+    },
+    {
+      "authorId": "2821351",
+      "name": "J. Burken"
+    },
+    {
+      "authorId": "144485801",
+      "name": "F. Fritschi"
+    }
+  ],
+  "abstract": "Abstract. Early stress detection is critical for proactive field management and terminal yield prediction, and can aid policy making for improved food security in the context of climate change and population growth. Field surveys for crop monitoring are destructive, labor-intensive, time-consuming and not ideal for large-scale spatial and temporal monitoring. Recent technological advances in Unmanned Aerial Vehicle (UAV) and high-resolution satellite imaging with frequent revisit time have proliferated the applications of this emerging new technology in precision agriculture to address food security challenges from regional to global scales. In this paper, we present a concept of UAV and satellite virtual constellation to demonstrate the power of multi-scale imaging for crop monitoring. Low-cost sensors integrated on a UAV were used to collect RGB, multispectral, and thermal images during the growing season in a test site established near Columbia, Missouri, USA. WorldView-3 multispectral data were pan-sharpened, atmospherically corrected to reflectance and combined with UAV data for temporal monitoring of early stress. UAV thermal and multispectral data were calibrated to canopy temperature and reflectance following a rigorous georeferencing and ortho-correction. The results show that early stress can be effectively detected using multi-temporal and multi-scale UAV and satellite observation; the limitations of satellite remote sensing data in field-level crop monitoring can be overcome by using low altitude UAV observations addressing not just mixed pixel issues but also filling the temporal gap in satellite data availability enabling capture of early stress. The concept developed in this paper also provides a framework for accurate and robust estimation of plant traits and grain yield and delivers valuable insight for high spatial precision in high-throughput phenotyping and farm field management.\n",
+  "references": [
+    {
+      "paperId": "e5c19553ede73d2ad26db5e3353cf003dd59d736"
+    },
+    {
+      "paperId": "0a205fa816f9a08db1331659dd76c06f6124894d"
+    },
+    {
+      "paperId": "5566a05ae66b61765a9523a9848b0e606251d095"
+    },
+    {
+      "paperId": "504e300c91c1fa5cbe84d083c6b6345fdeaf0c17"
+    },
+    {
+      "paperId": "0c8d04cda0262d3a561373ea16e8961ad6dd1274"
+    },
+    {
+      "paperId": "c333ab6d4020685fe4fc0b5e1ecad6d5054ba629"
+    },
+    {
+      "paperId": "1aaa2c4e3c95abdcbc0fb7295f141cbde23c5e9a"
+    },
+    {
+      "paperId": "0ea4eb70bb6882b214a6c97d15a91d29252a6850"
+    },
+    {
+      "paperId": "cd7e789a8875b33c96e75c19b64592bd74509279"
+    },
+    {
+      "paperId": "3c040cd0d730dd2656cefe2cffb547b9a4cf3839"
+    },
+    {
+      "paperId": "f8a624c7b067eb9bb1581ce07db05c8644ede16a"
+    },
+    {
+      "paperId": "47bf5f0a17230ac6783a4cf15676d7105b3910a9"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "d9fe7260fa590b2ca7c9557731a2a4db96e10242"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "02f1a023e0dd33b7c41816eba2739933768a59ea"
+    },
+    {
+      "paperId": "bb08743ece51fb97648e6a160c51a13fd96b0410"
+    }
+  ]
+}

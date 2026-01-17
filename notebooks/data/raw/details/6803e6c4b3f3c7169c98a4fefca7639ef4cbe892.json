@@ -1,0 +1,83 @@
+{
+  "paperId": "6803e6c4b3f3c7169c98a4fefca7639ef4cbe892",
+  "externalIds": {
+    "MAG": "2950208257",
+    "DOI": "10.4067/S0718-34292019005000402",
+    "CorpusId": 201193892
+  },
+  "url": "https://www.semanticscholar.org/paper/6803e6c4b3f3c7169c98a4fefca7639ef4cbe892",
+  "title": "Los drones una herramienta para una agricultura eficiente: un futuro de alta tecnología",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://scielo.conicyt.cl/pdf/idesia/v37n1/0718-3429-idesia-00402.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4067/S0718-34292019005000402?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4067/S0718-34292019005000402, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "113027369",
+      "name": "V. Pino"
+    }
+  ],
+  "abstract": "espanolRESUMEN Este articulo es una revision sobre el estado actual del uso de la tecnologia de drones y los productos que se obtienen con sus vuelos programados. Se establecen los tipos utilizados con mas frecuencia en la agricultura de precision, los tipos de camaras y/o sensores usados, las imagenes obtenidas luego del procesamiento de la informacion lograda con los sensores. Asimismo se especifican las aplicaciones que se pueden realizar en la actualidad en las actividades o labores agricolas, estimacion de la evapotranspiracion y contenido de humedad del suelo, nutrientes en los cultivos y rendimiento de los cultivos. Tambien se establecen las ventajas y desventajas del uso de esta tecnologia, desde aspectos tecnicos hasta economicos, dando alternativas factibles para su utilizacion. EnglishABSTRACT This article is a review on the current status of the use of drones technology and the products obtained with scheduled flights. It establishes the types most frequently used in precision agriculture, the types of cameras and / or sensors used, the images obtained after the processing of the information obtained with the sensors used. It also establishes the possible applications that can be made to the present in agricultural activities or work, estimation of evapotranspiration and soil moisture content, nutrients in crops and crop yield. The advantages and disadvantages of the use of this technology are also established from technical to economic aspects, giving feasible alternatives for its use.",
+  "references": [
+    {
+      "paperId": "49140c84aabe143327f6094bc908d2128369a896"
+    },
+    {
+      "paperId": "2756e0a0d9230a09b392aff003d4ebb6db4213d6"
+    },
+    {
+      "paperId": "66f1a381bec8d4c66964e55a90d5cb9801470877"
+    },
+    {
+      "paperId": "582fadd113b555d7684ae5e1ba60e8ddf29e6a8e"
+    },
+    {
+      "paperId": "dd533673106f9fe3b4d20db48cdd0c1a00e98bc8"
+    },
+    {
+      "paperId": "a46600993361a78668e38b968790623ec45f7227"
+    },
+    {
+      "paperId": "037c62f4ed21587fba4e1457ee79e053ffe3e323"
+    },
+    {
+      "paperId": "c95a95e70bf7b848a7a16fc2f0fc3750593abcb9"
+    },
+    {
+      "paperId": "416802622ee2c948666fcc16aa1d0f70da39c10d"
+    },
+    {
+      "paperId": "4c477bd9e687a45bf41797b094092e065af00f2b"
+    },
+    {
+      "paperId": "6081055e48ecdb8a0c4a0a6ef938ae9438cb6bc1"
+    },
+    {
+      "paperId": "01c5a5c464a60911c9495d93209fbc908635558e"
+    },
+    {
+      "paperId": "afdcf8741a5399bc8854eb455e37257efa2fe937"
+    },
+    {
+      "paperId": "7ec2e3a1cecd481e0ffab639e79332da5e6691bf"
+    },
+    {
+      "paperId": "f6191d2817ade2db7331c0f9721a86b3abc83f2e"
+    },
+    {
+      "paperId": "9a2d3479e440b4b98d322abc593d4e612fb4986e"
+    }
+  ]
+}

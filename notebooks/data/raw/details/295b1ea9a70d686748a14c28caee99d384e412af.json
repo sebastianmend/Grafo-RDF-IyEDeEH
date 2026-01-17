@@ -1,0 +1,68 @@
+{
+  "paperId": "295b1ea9a70d686748a14c28caee99d384e412af",
+  "externalIds": {
+    "MAG": "2802994327",
+    "DOI": "10.1093/jee/toy110",
+    "CorpusId": 4955494,
+    "PubMed": "29669025"
+  },
+  "url": "https://www.semanticscholar.org/paper/295b1ea9a70d686748a14c28caee99d384e412af",
+  "title": "Spatiotemporal Dynamics of Whitefly Bemisia tabaci (Hemiptera: Aleyrodidae) in Commercial Watermelon Crops",
+  "venue": "Journal of Economic Entomology",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jee/toy110?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jee/toy110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "120384485",
+      "name": "Carlos H O Lima"
+    },
+    {
+      "authorId": "144543691",
+      "name": "R. Sarmento"
+    },
+    {
+      "authorId": "153763920",
+      "name": "Tarcísio V. S. Galdino"
+    },
+    {
+      "authorId": "12088059",
+      "name": "P. S. Pereira"
+    },
+    {
+      "authorId": "2111054414",
+      "name": "Joedna Silva"
+    },
+    {
+      "authorId": "8610686",
+      "name": "D. J. Souza"
+    },
+    {
+      "authorId": "2111743629",
+      "name": "Gil R. Santos"
+    },
+    {
+      "authorId": "48360475",
+      "name": "T. L. Costa"
+    },
+    {
+      "authorId": "6471578",
+      "name": "M. Picanço"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,187 @@
+{
+  "paperId": "66d3da40783617c00c9d36f620cae5db2ec46b13",
+  "externalIds": {
+    "PubMedCentral": "6403152",
+    "MAG": "2919008645",
+    "DOI": "10.3389/fchem.2019.00076",
+    "CorpusId": 67876825,
+    "PubMed": "30873400"
+  },
+  "url": "https://www.semanticscholar.org/paper/66d3da40783617c00c9d36f620cae5db2ec46b13",
+  "title": "Quantum Dots-Based Immunochromatographic Strip for Rapid and Sensitive Detection of Acetamiprid in Agricultural Products",
+  "venue": "Frontiers in Chemistry",
+  "year": 2019,
+  "citationCount": 31,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fchem.2019.00076/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6403152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51457224",
+      "name": "Y. Liu"
+    },
+    {
+      "authorId": "2118976820",
+      "name": "Ying Zhao"
+    },
+    {
+      "authorId": "2146332752",
+      "name": "Tianyi Zhang"
+    },
+    {
+      "authorId": "49645233",
+      "name": "Yunyun Chang"
+    },
+    {
+      "authorId": "2118512442",
+      "name": "Shuangjie Wang"
+    },
+    {
+      "authorId": "145416328",
+      "name": "Rubing Zou"
+    },
+    {
+      "authorId": "145101450",
+      "name": "Guonian Zhu"
+    },
+    {
+      "authorId": "144201824",
+      "name": "Li-rong Shen"
+    },
+    {
+      "authorId": "20320346",
+      "name": "Yirong Guo"
+    }
+  ],
+  "abstract": "In this study, a rapid and sensitive immunochromatographic strip (ICS) assay, based on quantum dots (QDs), was developed for the qualitative and quantitative detection of acetamiprid in agricultural samples. Acetamiprid-ovalbumin conjugates (ACE-OVA) and goat anti-mouse IgG were sprayed onto a nitrocellulose membrane as a test and control line. Two kinds of anti-acetamiprid monoclonal antibodies (mAb) obtained in our lab were characterized by the ELISA and surface plasmon resonance assay. The competitive immunoassay was established using a QDs-mAb conjugate probe. The visual detection limit of acetamiprid for a qualitative threshold was set as 1 ng/mL to the naked eye. In the quantitative test, the fluorescence intensity was measured by a portable strip reader and a standard curve was obtained with a linear range from 0.098 to 25 ng/mL, and the half maximal inhibitory concentration of 1.12 ng/mL. The developed method showed no evident cross-reactivities with other neonicotinoid insecticides except for thiacloprid (36.68%). The accuracy and precision of the developed QDs-ICS were further evaluated. Results showed that the average recoveries ranged from 78.38 to 126.97% in agricultural samples. Moreover, to test blind tea samples, the QDs-ICS showed comparable reliability and a high correlation with ultra-performance liquid chromatography-tandem mass spectrometry. The whole sample detection could be accomplished within 1 h. In brief, our data clearly manifested that QDs-ICS was quite qualified for the rapid and sensitive screening of acetamiprid residues in an agricultural product analysis and paves the way to point-of-care testing for other analytes.",
+  "references": [
+    {
+      "paperId": "c85c7df7874f1639a58a42074982020011112198"
+    },
+    {
+      "paperId": "09db604aba5966948ccae8b9adeba2f762a5909e"
+    },
+    {
+      "paperId": "2375d520d5e519952f64ba0ab6bdc95d3e714d38"
+    },
+    {
+      "paperId": "9436c0e2ea314e0a0687a4d4d01bd81e56b21f80"
+    },
+    {
+      "paperId": "d566a2dbbed24fe964821aef228293bf7b4cb096"
+    },
+    {
+      "paperId": "b7c0e5fcefbba360dae9f0c1fcdc0680bbf9d032"
+    },
+    {
+      "paperId": "7d9bd373911936634b1f74df5cfd2841aa732548"
+    },
+    {
+      "paperId": "9175b8f7a519f7fe5325b9bcbadf6cf5248f32aa"
+    },
+    {
+      "paperId": "ea18af68934a41270c17fc21941dd81e07ca1c7c"
+    },
+    {
+      "paperId": "59a6007eb5397895213104e5d6b9b303a6baf2ab"
+    },
+    {
+      "paperId": "947e08478c183465b576a464e8b093acebd069fe"
+    },
+    {
+      "paperId": "983bd867a7e23d7a5b3c54d3ff56589026a24424"
+    },
+    {
+      "paperId": "aecca50b92843d564f584c1e3b169e7f6a509ca8"
+    },
+    {
+      "paperId": "8781205203671c7c1d76d724c8fd848a546c7c9a"
+    },
+    {
+      "paperId": "9d0c4857a6a3974b6b6e4a89a1528f83db414249"
+    },
+    {
+      "paperId": "24ede4f61dfdc500c8f18f298aa5a62b6032c7fb"
+    },
+    {
+      "paperId": "d4565daa8102b23093550adc540b67cd6c155d30"
+    },
+    {
+      "paperId": "2b9511b2458eeab1749d587b5ba15a0b2911e1c3"
+    },
+    {
+      "paperId": "083dffdb471ba958d6a27ab0d055c334e4a61e3c"
+    },
+    {
+      "paperId": "c3d6293536a4dd10cd555af4119bf33c7334e899"
+    },
+    {
+      "paperId": "68f8a453a66b00d4861410d447b8d391970158e8"
+    },
+    {
+      "paperId": "581971cbb6843aca1033a54d4107e68b4901bab3"
+    },
+    {
+      "paperId": "2e2f1bb2df07a97d0571459d218829254deba558"
+    },
+    {
+      "paperId": "450dc08f30c2619be34cdf5633fb1a2c8457e6f2"
+    },
+    {
+      "paperId": "ea8d7b016371307378396672fe71c9612703ec7a"
+    },
+    {
+      "paperId": "51caa9c17e78cf81a738d02404e476652af06c2f"
+    },
+    {
+      "paperId": "7035bf98241d316c9f513d16b3aa60e33bbc15b2"
+    },
+    {
+      "paperId": "1ac0d84f4d520820ad45feb17aec79d0272037aa"
+    },
+    {
+      "paperId": "cb12ace8f29189f85e6342590103a8673ed551b2"
+    },
+    {
+      "paperId": "8fb79862746d9f16d04a2536b118b778c438590b"
+    },
+    {
+      "paperId": "16fbde45d98fd47ac22f42143c959f2ae1603db1"
+    },
+    {
+      "paperId": "d0188c2346fbc80509dd8c08109d3abc2097a738"
+    },
+    {
+      "paperId": "fe8f537135c11f4638221be6af8241b70fc30b8f"
+    },
+    {
+      "paperId": "c99517fd3f4fbb6f6aaa058aa21117c09d8b3e34"
+    },
+    {
+      "paperId": "30f00f1edf9026a480e80546e54d6f2f72021454"
+    },
+    {
+      "paperId": "3d785e23614d00bc689f4f886804aacbaea7b327"
+    },
+    {
+      "paperId": "af875152ea9663aa6a9477dcbab953f33e334215"
+    },
+    {
+      "paperId": "a0fd0b72dec47d3829301c666275d974e3f88b72"
+    },
+    {
+      "paperId": "5f43efd375a6f2e4883c9b168065554d738604f8"
+    }
+  ]
+}

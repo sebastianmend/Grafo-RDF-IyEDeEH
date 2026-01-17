@@ -1,0 +1,260 @@
+{
+  "paperId": "9a58c3b1c72949297564497fba5b102897ec1cfd",
+  "externalIds": {
+    "MAG": "2942406108",
+    "DOI": "10.20546/IJCMAS.2019.804.208",
+    "CorpusId": 150002611
+  },
+  "url": "https://www.semanticscholar.org/paper/9a58c3b1c72949297564497fba5b102897ec1cfd",
+  "title": "Mechatronics Application in Precision Sowing: A Review",
+  "venue": "International Journal of Current Microbiology and Applied Sciences",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.ijcmas.com/8-4-2019/Prem Veer Gautam, et al.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20546/IJCMAS.2019.804.208?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20546/IJCMAS.2019.804.208, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "153194536",
+      "name": "P. Gautam"
+    },
+    {
+      "authorId": "144230896",
+      "name": "H. Kushwaha"
+    },
+    {
+      "authorId": "2145751147",
+      "name": "Adarsh Kumar"
+    },
+    {
+      "authorId": "2111859262",
+      "name": "Dilip Kumar"
+    }
+  ],
+  "abstract": "There are different methods such as broadcasting, dibbling, sowing behind country plough, seed drill and pneumatic planting for seed placement. Out of these methods, seed drill and pneumatic planting methods are more precise. Seed singulation capability of pneumatic planter is higher however it requires more energy. Seed drilling is most common method for cereals and pulse crops. In seed drill different type of metering mechanism are used for seed singulation. The seed drills are modified with seed metering mechanism for more precise singulation. These machines are called planter. Different types of seed mechanism are used for singulation in planter. These are variable orifice, fluted roller, internal double run, inclined plate and cup feed type. These mechanisms generally require ground wheel for transmission of the power. Due to load on ground wheel for power transmission to metering mechanism, the ground wheel skidding is observed. This skidding is responsible for non-uniform seed placement. Nowadays, agriculture requires new monitoring and control equipment and International Journal of Current Microbiology and Applied Sciences ISSN: 2319-7706 Volume 8 Number 04 (2019) Journal homepage: http://www.ijcmas.com",
+  "references": [
+    {
+      "paperId": "2269e5e295071d2860bd10553425bfbb0fc486e8"
+    },
+    {
+      "paperId": "3fc0f676eb8521e9741e20fa3546b096841a51f7"
+    },
+    {
+      "paperId": "f08b4c91624a9c2544570848969bedb4622e68ae"
+    },
+    {
+      "paperId": "6bf272c696f9fc1fb05530a169b7a7569462745a"
+    },
+    {
+      "paperId": "cf50ced0b1f7c091acb147a2e2f5027ef188c9ac"
+    },
+    {
+      "paperId": "6553df71b9a322d06488e76fecde6f44bec2971d"
+    },
+    {
+      "paperId": "bcba8c6f0de52da9ff3e520506b31e9bab700448"
+    },
+    {
+      "paperId": "a3d892356d6caa97f31c2b4f36b60a7b99698dfd"
+    },
+    {
+      "paperId": "ca5a4fb33a4c50809ca6e19f368576b16cb6e100"
+    },
+    {
+      "paperId": "996fb6ae3031a05aac6f119ff1a5f5eeada2d902"
+    },
+    {
+      "paperId": "de1e4802ef1b33d451b37ff907458ba952293110"
+    },
+    {
+      "paperId": "1ab2b93cb86187b13adffdaa8dd32b3a5ecb306a"
+    },
+    {
+      "paperId": "523eb3075bf387a5edd4b55fc1229020e8191bb8"
+    },
+    {
+      "paperId": "0cabafaeeeeab04bab2b1640e2999fe47f45b2c5"
+    },
+    {
+      "paperId": "5740956154ce527378f0066e0d83533cba8b6909"
+    },
+    {
+      "paperId": "d0680a963a8ed9cf47e6015e9b5bf366b3868618"
+    },
+    {
+      "paperId": "59bb69b387e224f32362286b904ebbffbc19c9f4"
+    },
+    {
+      "paperId": "d2efd9d1428cffea5fc794bd098faf99496390dd"
+    },
+    {
+      "paperId": "2c2f2496c648c5c62386dfbb53ea137fd13dd736"
+    },
+    {
+      "paperId": "294f13ef2168ed45db24cd32021cff1e50683992"
+    },
+    {
+      "paperId": "bb873a6ff6cf9bf9c269927e59134e7f512035a5"
+    },
+    {
+      "paperId": "a3c01ad464c8cc5e5abe080971575d11d1b6cf96"
+    },
+    {
+      "paperId": "d1aae5e2d342622f937974fc615a6d9e1898b4e9"
+    },
+    {
+      "paperId": "66daa7febded49676d9f42050653d4a09170a8a1"
+    },
+    {
+      "paperId": "33f8f45230738ba52f79e9423d30680f9a14f809"
+    },
+    {
+      "paperId": "21c651f48156306b2e631aca189fb8dbcaf73f04"
+    },
+    {
+      "paperId": "013665b249e150aee16243e4569fee59434a797a"
+    },
+    {
+      "paperId": "928c4a0593257003994f4b94a6435071f76046a6"
+    },
+    {
+      "paperId": "fe928d0d7cd5aefab96c4791b573e510fae143ac"
+    },
+    {
+      "paperId": "5b095834e21aeb49d95bb0d649de67815c50c2fd"
+    },
+    {
+      "paperId": "2d8041a23ab76c13884282cc387b471c53b10847"
+    },
+    {
+      "paperId": "64e640d3b4de53b1c83b63c97c3a92bfcd373241"
+    },
+    {
+      "paperId": "7c488020f0e54b6767e176acad289eedb4759d2e"
+    },
+    {
+      "paperId": "a1f609da0acf86860476d9523c4fdb4bc92cd794"
+    },
+    {
+      "paperId": "92614e36cf3aebb102986e97324ddc38bb866454"
+    },
+    {
+      "paperId": "596c26910a0de2361b241f05dddfe9311ad7e035"
+    },
+    {
+      "paperId": "bdddabe663eb20f2145d55ae43d3fdc2c337f647"
+    },
+    {
+      "paperId": "766cbc4e6688a9307fb888b2b3decb6ece72039a"
+    },
+    {
+      "paperId": "dc8aa82251207dc5f52f9f280ea6e4407cbe07c4"
+    },
+    {
+      "paperId": "4c566c70c7bcd7e81cc54c0c58de8e637c88a27a"
+    },
+    {
+      "paperId": "5a344e0e118e9c53c9282910df2e47e92b9fee53"
+    },
+    {
+      "paperId": "8cec235e8b18739478270b91f1da55b31eb254d0"
+    },
+    {
+      "paperId": "376ad0fb9ee8b879e5e2e3119615db0cf22b2745"
+    },
+    {
+      "paperId": "7dba3a0345dad706d1a1033f5ef524a00feb7947"
+    },
+    {
+      "paperId": "4df33f9edc4e8a4eabf20f8dc5477555dfa71261"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

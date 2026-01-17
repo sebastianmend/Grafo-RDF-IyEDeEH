@@ -1,0 +1,44 @@
+{
+  "paperId": "4b114c8caa19c670cf47ef5252c3aeb21f4909e6",
+  "externalIds": {
+    "MAG": "2939382825",
+    "DBLP": "conf/ecai2/Vlasceanu0I18",
+    "DOI": "10.1109/ECAI.2018.8679050",
+    "CorpusId": 96431814
+  },
+  "url": "https://www.semanticscholar.org/paper/4b114c8caa19c670cf47ef5252c3aeb21f4909e6",
+  "title": "Ground Control Station for an Unmanned Aerial Vehicle Integrated in IoT",
+  "venue": "European Conference on Artificial Intelligence",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ECAI.2018.8679050?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ECAI.2018.8679050, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9160084",
+      "name": "Emilian Vlasceanu"
+    },
+    {
+      "authorId": "144752161",
+      "name": "D. Popescu"
+    },
+    {
+      "authorId": "1758132",
+      "name": "L. Ichim"
+    }
+  ],
+  "abstract": "The paper presents the Murros Unmanned Aerial System (UAS) and its integration in IoT. Murros UAS is a multisensorial robotic system used for aerial monitoring of wireless sensors network in precision agriculture. This document details the software and hardware architecture of Murros UAS Ground Control Station and common situations when we are operating in an over-the-internet configuration. Experimental results are obtained from real missions.",
+  "references": null
+}

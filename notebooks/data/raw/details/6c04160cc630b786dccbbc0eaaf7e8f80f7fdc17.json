@@ -1,0 +1,48 @@
+{
+  "paperId": "6c04160cc630b786dccbbc0eaaf7e8f80f7fdc17",
+  "externalIds": {
+    "MAG": "2953969170",
+    "DBLP": "conf/taros/GyagendaNRZ19",
+    "DOI": "10.1007/978-3-030-23807-0_21",
+    "CorpusId": 195755508
+  },
+  "url": "https://www.semanticscholar.org/paper/6c04160cc630b786dccbbc0eaaf7e8f80f7fdc17",
+  "title": "Coverage Path Planning for Large-Scale Aerial Mapping",
+  "venue": "Towards Autonomous Robotic Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-23807-0_21?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-23807-0_21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "71982678",
+      "name": "N. Gyagenda"
+    },
+    {
+      "authorId": "34876897",
+      "name": "Ahmad Kamal Nasir"
+    },
+    {
+      "authorId": "48700258",
+      "name": "H. Roth"
+    },
+    {
+      "authorId": "30678085",
+      "name": "V. Zhmud"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

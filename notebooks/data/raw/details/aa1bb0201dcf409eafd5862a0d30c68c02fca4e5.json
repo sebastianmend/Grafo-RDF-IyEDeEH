@@ -1,0 +1,211 @@
+{
+  "paperId": "aa1bb0201dcf409eafd5862a0d30c68c02fca4e5",
+  "externalIds": {
+    "PubMedCentral": "6702735",
+    "MAG": "2969933026",
+    "DOI": "10.1186/s13007-019-0479-8",
+    "CorpusId": 201105529,
+    "PubMed": "31452674"
+  },
+  "url": "https://www.semanticscholar.org/paper/aa1bb0201dcf409eafd5862a0d30c68c02fca4e5",
+  "title": "Plant disease identification using explainable 3D deep learning on hyperspectral images",
+  "venue": "Plant Methods",
+  "year": 2019,
+  "citationCount": 304,
+  "influentialCitationCount": 16,
+  "openAccessPdf": {
+    "url": "https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-019-0479-8",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6702735, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "27599239",
+      "name": "Koushik Nagasubramanian"
+    },
+    {
+      "authorId": "1900812413",
+      "name": "Sarah Jones"
+    },
+    {
+      "authorId": "152395021",
+      "name": "Asheesh K. Singh"
+    },
+    {
+      "authorId": "144016196",
+      "name": "S. Sarkar"
+    },
+    {
+      "authorId": "1712215532",
+      "name": "Arti Singh"
+    },
+    {
+      "authorId": "3042938",
+      "name": "B. Ganapathysubramanian"
+    }
+  ],
+  "abstract": "Hyperspectral imaging is emerging as a promising approach for plant disease identification. The large and possibly redundant information contained in hyperspectral data cubes makes deep learning based identification of plant diseases a natural fit. Here, we deploy a novel 3D deep convolutional neural network (DCNN) that directly assimilates the hyperspectral data. Furthermore, we interrogate the learnt model to produce physiologically meaningful explanations. We focus on an economically important disease, charcoal rot, which is a soil borne fungal disease that affects the yield of soybean crops worldwide. Based on hyperspectral imaging of inoculated and mock-inoculated stem images, our 3D DCNN has a classification accuracy of 95.73% and an infected class F1 score of 0.87. Using the concept of a saliency map, we visualize the most sensitive pixel locations, and show that the spatial regions with visible disease symptoms are overwhelmingly chosen by the model for classification. We also find that the most sensitive wavelengths used by the model for classification are in the near infrared region (NIR), which is also the commonly used spectral range for determining the vegetative health of a plant. The use of an explainable deep learning model not only provides high accuracy, but also provides physiological insight into model predictions, thus generating confidence in model predictions. These explained predictions lend themselves for eventual use in precision agriculture and research application using automated phenotyping platforms.",
+  "references": [
+    {
+      "paperId": "fc8d193bba5129c3286410ac05ac343875ae50c4"
+    },
+    {
+      "paperId": "7d9a6f9389326ce2624a1c5e47f584e6a7072f0a"
+    },
+    {
+      "paperId": "033d9fa654806b22787669979927be5351c9af2f"
+    },
+    {
+      "paperId": "3315346598486c75005c9b28f2e869a64a1afbf2"
+    },
+    {
+      "paperId": "3bcdf9cc129d6e39d9ede590672b3f1ad41acd49"
+    },
+    {
+      "paperId": "71ff533c8b5001082a3aaade3097eb229864e69e"
+    },
+    {
+      "paperId": "e4879d923f7e637b00ddb6c1584c347b189c45d8"
+    },
+    {
+      "paperId": "53e4d11df1dbefa59d5ffdf5e11cc53e7dba9d90"
+    },
+    {
+      "paperId": "950220a0469005ccbdf797486b0ef879d4d8900b"
+    },
+    {
+      "paperId": "e0a31e7777d7ef990a7fabb71aaf582019246b73"
+    },
+    {
+      "paperId": "8a0727c8a9f88eb0f736b2101b34b74d2e678edf"
+    },
+    {
+      "paperId": "daeacdd71c95f32e10de72da4ef98b9eda1de40d"
+    },
+    {
+      "paperId": "a002e71561c90767240672f357b7d9e6d4d95186"
+    },
+    {
+      "paperId": "91c094f36753a816b35c72563e508f9caed44e8e"
+    },
+    {
+      "paperId": "41e3d229f7515afaadd7a7ee52590c907af9fb71"
+    },
+    {
+      "paperId": "38f5d1b05e8cdd3b995fdb745fea95bf7c46c8f4"
+    },
+    {
+      "paperId": "f3ad9768a4116017a974e77696417c062f4faec8"
+    },
+    {
+      "paperId": "918595ffcafc9dd6bea0fa77f57c5f440a700c62"
+    },
+    {
+      "paperId": "bc5389bec5adaaa0e8ac4caa0fc939dfcd964579"
+    },
+    {
+      "paperId": "ba14fa8493a1919903c6b9ab047a86448f7e2559"
+    },
+    {
+      "paperId": "10fb16414324a5db44f5d830adcb4810af59eed0"
+    },
+    {
+      "paperId": "955fbba172476c22d1687f16d018aac6a21371ba"
+    },
+    {
+      "paperId": "a09a9f69ff145508a12e6dbb81ccd7f5be4bd2fc"
+    },
+    {
+      "paperId": "1700b5249f941de4e5a85fbe57b49ee89a407e1d"
+    },
+    {
+      "paperId": "4a3bd2bfdc09a91648b54feb3e82aca86824213b"
+    },
+    {
+      "paperId": "8e7a03fe40e4a8c18bcd39e1556f6c6d76d1015e"
+    },
+    {
+      "paperId": "195c9a39f82fbd387f0a4e8b289946a6037905f0"
+    },
+    {
+      "paperId": "a6cb366736791bcccc5c8639de5a8f9636bf87e8"
+    },
+    {
+      "paperId": "b0aca3e7877c3c20958b0fae5cbf2dd602104859"
+    },
+    {
+      "paperId": "ab44a32a08ee35811f589e3f1058876f220944d7"
+    },
+    {
+      "paperId": "dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "3fc3754c8f439bb849423d01faa7645ab5ee8c6f"
+    },
+    {
+      "paperId": "6f2422920aa92ca3ba8e0054b48e31b6d4d3b62c"
+    },
+    {
+      "paperId": "67107f78a84bdb2411053cb54e94fa226eea6d8e"
+    },
+    {
+      "paperId": "ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649"
+    },
+    {
+      "paperId": "adc8070273326ca56315dfbbf3f93b04f5409dea"
+    },
+    {
+      "paperId": "cb5ca202456736b789f82207fd7e0d68086927ed"
+    },
+    {
+      "paperId": "8c8d3387a1175774839dd6dc6dd792726a95e892"
+    },
+    {
+      "paperId": "cd62c9976534a6a2096a38244f6cbb03635a127e"
+    },
+    {
+      "paperId": "4901352af0b4c6be3dbf036fbd1013fcf4b0513a"
+    },
+    {
+      "paperId": "3eeaa6129f4daf016a9b59cbc5fbfb772cff50ec"
+    },
+    {
+      "paperId": "47103a612188f90b4501be4c063dd53a7c2df708"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "36dfac5b55e046a825094a86ff4bd51f1a8c630d"
+    },
+    {
+      "paperId": "a7d9ec585b37761fb3f8f9984b6416cd71b6ffd0"
+    },
+    {
+      "paperId": "34b9635d7779e219e9d60e0d3d33919ca9bc123c"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    },
+    {
+      "paperId": "22741d55d9c240c9c54e52d206449548a58e7da7"
+    },
+    {
+      "paperId": "4954fa180728932959997a4768411ff9136aac81"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

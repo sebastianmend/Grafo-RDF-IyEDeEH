@@ -1,0 +1,47 @@
+{
+  "paperId": "c3491428c6bb026a987a68626d3858f79da834fd",
+  "externalIds": {
+    "DOI": "10.1007/s11119-018-9591-4",
+    "CorpusId": 254940972
+  },
+  "url": "https://www.semanticscholar.org/paper/c3491428c6bb026a987a68626d3858f79da834fd",
+  "title": "Assessing the accuracy of NRTK altimetric positioning for precision agriculture: test results in an olive grove environment in Southeast Spain",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9591-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9591-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "121751523",
+      "name": "M. S. Garrido"
+    },
+    {
+      "authorId": "151394107",
+      "name": "M. C. de Lacy"
+    },
+    {
+      "authorId": "143797103",
+      "name": "M. Ramos"
+    },
+    {
+      "authorId": "2037373385",
+      "name": "M. J. Borque"
+    },
+    {
+      "authorId": "151138980",
+      "name": "M. Susi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

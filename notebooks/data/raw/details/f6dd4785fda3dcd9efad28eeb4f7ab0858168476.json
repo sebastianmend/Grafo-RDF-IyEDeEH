@@ -1,0 +1,40 @@
+{
+  "paperId": "f6dd4785fda3dcd9efad28eeb4f7ab0858168476",
+  "externalIds": {
+    "DBLP": "journals/tgrs/BybeeB19",
+    "MAG": "2958013058",
+    "DOI": "10.1109/TGRS.2019.2923551",
+    "CorpusId": 199117184
+  },
+  "url": "https://www.semanticscholar.org/paper/f6dd4785fda3dcd9efad28eeb4f7ab0858168476",
+  "title": "Method for 3-D Scene Reconstruction Using Fused LiDAR and Imagery From a Texel Camera",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGRS.2019.2923551?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGRS.2019.2923551, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "71871554",
+      "name": "T. C. Bybee"
+    },
+    {
+      "authorId": "1744099",
+      "name": "S. Budge"
+    }
+  ],
+  "abstract": "Reconstructing a 3-D scene from aerial sensor data creating a textured digital surface model (TDSM), consisting of a LiDAR point cloud and an overlaid image, is valuable in many applications including agriculture, military, surveying, and natural disaster response. When collecting LiDAR from an aircraft, the navigation system accuracy must exceed the LiDAR accuracy to properly reference returns in 3-D space. Precision navigation systems can be expensive and often require full-scale aircraft to house such systems. Synchronizing the LiDAR sensor and a camera, using a texel camera calibration, provides additional information that reduces the need for precision navigation equipment. This paper describes a bundle adjustment technique for aerial texel images that allows for relatively low-accuracy navigation systems to be used with low-cost LiDAR and camera data to form higher fidelity terrain models. The bundle adjustment objective function utilizes matching image points, measured LiDAR distances, and the texel camera calibration and does not require overlapping LiDAR scans or ground control points. The utility of this method is proven using a simulated texel camera and unmanned aerial system (UAS) flight data created from aerial photographs and elevation data. A small UAS is chosen as the target vehicle due to its relatively inexpensive hardware and operating costs, illustrating the power of this method in accurately referencing the LiDAR and camera data. In the 3-D reconstruction, the 1- $\\sigma $ accuracy between LiDAR measurements across the scene is on the order of the digital camera pixel size.",
+  "references": null
+}

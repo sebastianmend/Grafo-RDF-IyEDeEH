@@ -1,0 +1,49 @@
+{
+  "paperId": "af75b3a628277e4eeb0100a9a8242fb7b53c481a",
+  "externalIds": {
+    "DBLP": "conf/dcoss/TsourosTBS19",
+    "MAG": "2969428786",
+    "DOI": "10.1109/DCOSS.2019.00080",
+    "CorpusId": 201069341
+  },
+  "url": "https://www.semanticscholar.org/paper/af75b3a628277e4eeb0100a9a8242fb7b53c481a",
+  "title": "Data Acquisition and Analysis Methods in UAV- based Applications for Precision Agriculture",
+  "venue": "International Conference on Distributed Computing in Sensor Systems",
+  "year": 2019,
+  "citationCount": 33,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCOSS.2019.00080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCOSS.2019.00080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "29399574",
+      "name": "Dimosthenis C. Tsouros"
+    },
+    {
+      "authorId": "51437883",
+      "name": "Anna Triantafyllou"
+    },
+    {
+      "authorId": "2297908117",
+      "name": "Stamatia Bibi"
+    },
+    {
+      "authorId": "2342593756",
+      "name": "Panagiotis G. Sarigiannidis"
+    }
+  ],
+  "abstract": "Emerging technologies such as Internet of Things (IoT) can provide significant potential in Precision Agriculture enabling the acquisition of real-time environmental data. IoT devices like Unmanned Aerial Vehicles (UAVs) equipped with cameras, sensors, and GPS receivers can deliver a variety of IoT services and applications related to fields management, by capturing images from great heights. However, there are many issues to be resolved before the effective use of UAVs in the agriculture domain, including the data collection and processing methods. There is still no standardized workflow and processes for most UAV-based applications for Precision Agriculture. In this paper, we summarize the data acquisition methods and technologies to acquire images in UAV-based Precision Agriculture and appoint the benefits and drawbacks of each one. We also review popular data analysis methods of remotely sensed imagery and discuss the outcomes of each method and its potential application in the farming operations.",
+  "references": null
+}

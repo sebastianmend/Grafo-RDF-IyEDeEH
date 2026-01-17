@@ -1,0 +1,38 @@
+{
+  "paperId": "59ff6362736e229fe4220f047fa3135563b0d25e",
+  "externalIds": {
+    "MAG": "3037215211",
+    "DOI": "10.2139/ssrn.3484655",
+    "CorpusId": 219366897
+  },
+  "url": "https://www.semanticscholar.org/paper/59ff6362736e229fe4220f047fa3135563b0d25e",
+  "title": "Harnessing Advances in Agricultural Technologies to Optimize Resource Utilization in the Food-Energy-Water Nexus",
+  "venue": "Annual Review of Resource Economics",
+  "year": 2019,
+  "citationCount": 41,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://eta-publications.lbl.gov/sites/default/files/lbnl_utility_scale_solar_2018_edition_report.pdf",
+    "status": "CLOSED",
+    "license": "mit",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3484655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3484655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "10211619",
+      "name": "R. Miao"
+    },
+    {
+      "authorId": "46572553",
+      "name": "M. Khanna"
+    }
+  ],
+  "abstract": "The food-energy-water (FEW) nexus is facing grand challenges in meeting increasing demand resulting from global changes in climate, economy, and population. Emerging technologies are expected to play a critical role in responding to these challenges. Focusing on four types of prominent emerging technologies (namely precision agriculture coupled with big data and machine learning, gene editing, second-generation biofuels, and agrivoltaics), this article reviews existing studies regarding opportunities and challenges of these emerging technologies to address issues of the FEW nexus. Drivers of innovation and adoption of these emerging technologies as well as the role of public policies that interact with these drivers are reviewed. Finally, this review also discusses research gaps that need to be filled to harness the potential benefits of these emerging technologies.",
+  "references": null
+}

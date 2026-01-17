@@ -1,0 +1,62 @@
+{
+  "paperId": "6ad0e35c83251a8d8d9baf2d6c5eedbce5a7ee32",
+  "externalIds": {
+    "MAG": "2912389187",
+    "DOI": "10.14302/ISSN.2639-3166.JAR-18-2331",
+    "CorpusId": 127530027
+  },
+  "url": "https://www.semanticscholar.org/paper/6ad0e35c83251a8d8d9baf2d6c5eedbce5a7ee32",
+  "title": "Towards Implementing the Integrated Technology of Precision Agriculture in Sudan",
+  "venue": "Journal of Agronomy Research",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://openaccesspub.org/article/875/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.14302/ISSN.2639-3166.JAR-18-2331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14302/ISSN.2639-3166.JAR-18-2331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2194798531",
+      "name": "Mona Hamed Hashim"
+    },
+    {
+      "authorId": "98432129",
+      "name": "A. M. Adam"
+    },
+    {
+      "authorId": "103623825",
+      "name": "Mohamed Ali Dawoods"
+    },
+    {
+      "authorId": "98285125",
+      "name": "I. M. Fangama"
+    }
+  ],
+  "abstract": "This study reviews the agricultural development perspective in the light of a rapid space technology development. In other words, precision agriculture as part of geoinformatics. The aim is to quantify whether the adopted technology can improve the efficiency of agricultural fields management and production to attain food security. Therefore, views of targeted groups from different States of Sudan were investigated, using stratified sampling method. Where quantitative statistics (descriptive/inductive techniques) was applied. About 800 questionnaires were distributed. The outcomes of data analysis reflected that the majority of interviewed groups 357 (82.1%) do not know the principles and application of integrated technology in the field of agricultural management. 85.3% of respondents know nothing about computer program related to precision agriculture. The majority of the respondents (84.6 %), did not get courses on precision agriculture during the under graduate study. The result also revealed that only 11.8% of the respondents use modern techniques in land preparation, 16.1 % in soil analysis, 12.5 % in the field of seed technology, and 11.4% in crop harvesting. However, 53.9% of the respondents reported that their Departments did not care about training on agricultural precision. Nevertheless, 24.3 % of the respondents got trained on precision agriculture through personal efforts, while about 19% got trained by their respective Departments. In regard to education, 16% of the respondents got trained on precision agriculture at undergraduate and only 9% after graduation. The study concludes that despite the rapid technological development, agriculture in Sudan remained lagging, and the productivity is below the expectation. It recommends that the Ministries of Agriculture in different States in Sudan should take the issue of introduction of new technology seriously to boost the agricultural development to attain food security.",
+  "references": [
+    {
+      "paperId": "7e37aa4f656e3853c26b872fba86def6808ee687"
+    },
+    {
+      "paperId": "1daed1779b3b8cf4bc865902de7679d702a8198e"
+    },
+    {
+      "paperId": "427ab2e7a05cd71e10317dd1da37153c0cd537cf"
+    },
+    {
+      "paperId": "d2572971724598d03d7cf1dc8d0a33d53a7730ff"
+    },
+    {
+      "paperId": "754289311b9ae3ad61a46c0ea49649268445c867"
+    }
+  ]
+}

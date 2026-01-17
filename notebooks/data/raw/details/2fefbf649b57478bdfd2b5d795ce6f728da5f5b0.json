@@ -1,0 +1,149 @@
+{
+  "paperId": "2fefbf649b57478bdfd2b5d795ce6f728da5f5b0",
+  "externalIds": {
+    "MAG": "2968726926",
+    "DOI": "10.1088/1757-899X/570/1/012044",
+    "CorpusId": 202354934
+  },
+  "url": "https://www.semanticscholar.org/paper/2fefbf649b57478bdfd2b5d795ce6f728da5f5b0",
+  "title": "Modern problems of digitalization of agricultural production",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/570/1/012044",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/570/1/012044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/570/1/012044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "14159428",
+      "name": "N. Kashapov"
+    },
+    {
+      "authorId": "89532536",
+      "name": "M. M. Nafikov"
+    },
+    {
+      "authorId": "116471676",
+      "name": "M. Gazetdinov"
+    },
+    {
+      "authorId": "2354846540",
+      "name": "Sh.M. Gazetdinov"
+    },
+    {
+      "authorId": "2299571521",
+      "name": "R. A"
+    },
+    {
+      "authorId": "2286004096",
+      "name": "Nigmatzyanov"
+    }
+  ],
+  "abstract": "At the present stage, the most promising form of digitalization of production and management in agriculture is the formation of an integrated digital production complex as an organic merger of technical means of digitalization of production on the basis of precision farming, artificial intelligence management, as well as information and analytical management system. The availability of such a powerful tool as an information and analytical system as part of an integrated digital production complex in combination with the most digitized production processes can simultaneously meet modern requirements for increasing productivity and reducing costs for the production of agricultural products and food, and a sharp increase in the quality of products. It is argued that the functioning of information and analytical systems in some large agricultural formations of the Republic of Tatarstan has provided a qualitative leap in the development of methods and means of digitalization of production and management. It became possible to integrate automated controls up to the level of agro-technological management without a gap between the organizational, economic and agro-technological levels. The main problems to be solved in the development of IAS IDPC are considered. Expert systems, which have been developing rapidly in recent years, seem to be a promising tool for solving such problems.",
+  "references": [
+    {
+      "paperId": "582353fd67c77ca54a16ead415e585a7f284c26f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6a1c56cebb8732b727d8bd1ba38e9f598fa433da"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

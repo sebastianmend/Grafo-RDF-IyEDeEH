@@ -1,0 +1,124 @@
+{
+  "paperId": "dd1dab636043dae7234d94bb5b1de88f5eeea7ad",
+  "externalIds": {
+    "MAG": "2892203049",
+    "DBLP": "journals/cea/HuuskonenO18",
+    "DOI": "10.1016/j.compag.2018.08.039",
+    "CorpusId": 53038039
+  },
+  "url": "https://www.semanticscholar.org/paper/dd1dab636043dae7234d94bb5b1de88f5eeea7ad",
+  "title": "Soil sampling with drones and augmented reality in precision agriculture",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "citationCount": 188,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.compag.2018.08.039",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compag.2018.08.039?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compag.2018.08.039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "79455257",
+      "name": "J. Huuskonen"
+    },
+    {
+      "authorId": "34721549",
+      "name": "T. Oksanen"
+    }
+  ],
+  "abstract": null,
+  "references": [
+    {
+      "paperId": "7fd7e91c92d0084953bcb2df1529f3ff40c481a3"
+    },
+    {
+      "paperId": "3c660ed6412425bf68dccedd6f098fcf6c4a5820"
+    },
+    {
+      "paperId": "77226ae37d8c83c9e90d8f27b5c1d7b43ddee83b"
+    },
+    {
+      "paperId": "a36ae5728975a1850d9f18b80c5841ceda79b2cb"
+    },
+    {
+      "paperId": "51c69a82c0a972904ad94a97091564942d9696ba"
+    },
+    {
+      "paperId": "71988c4bf4b7a27e415b87926794ed408887c62c"
+    },
+    {
+      "paperId": "1440121e178b37ad03347b74bc7a7679fcdd2cf0"
+    },
+    {
+      "paperId": "29cb055788b2b53ff2cf5db900ac4ef3a344503c"
+    },
+    {
+      "paperId": "1f27bf9add2951998672bd3dfa5add1ca0e52d56"
+    },
+    {
+      "paperId": "cfcbdae22d05645bd66ca48b9208ad1e3688e459"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "1010c8a3dca64e4a3723867855eb553bfd27c8f4"
+    },
+    {
+      "paperId": "4fdc075d1cc14d64c11c3c860e86a082b761f4a0"
+    },
+    {
+      "paperId": "5332a693fe382a902dea3c6b18043f44a9d13a17"
+    },
+    {
+      "paperId": "e99603b5b524485bcf1afb2f01acadc34dfb033c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "efdf86775b9d2cc26799c9a6fd90f1093a7a9699"
+    },
+    {
+      "paperId": "d80be6a009c2c2b3c3416f115ace76b383ffdacb"
+    },
+    {
+      "paperId": "f2a35bbad3019f98d52ecf18f6c491028675e110"
+    },
+    {
+      "paperId": "b8cdc1e84a91a6729f529b252e5aada2d3bd2d62"
+    },
+    {
+      "paperId": "d3913ef72439e5605251ced2a71f7df41072d5bf"
+    },
+    {
+      "paperId": "518857d859a2c01187a773e33f2fea5dcd892ae6"
+    },
+    {
+      "paperId": "e65b479cde4e78d619138ff23be161e9b75749ab"
+    },
+    {
+      "paperId": "11790f718df1a6c480e789472bc26efb4bb2d5e3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "d8b1a1a6871ebf9c1daf882b367bf000635276b5",
+  "externalIds": {
+    "MAG": "2797338264",
+    "DOI": "10.1093/jas/skx065",
+    "CorpusId": 4986246,
+    "PubMed": "29669071"
+  },
+  "url": "https://www.semanticscholar.org/paper/d8b1a1a6871ebf9c1daf882b367bf000635276b5",
+  "title": "BIG DATA ANALYTICS AND PRECISION ANIMAL AGRICULTURE SYMPOSIUM: Data to decisions.",
+  "venue": "Journal of Animal Science",
+  "year": 2018,
+  "citationCount": 24,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/jas/article-pdf/96/4/1531/25762398/skx065.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jas/skx065?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jas/skx065, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2252019525",
+      "name": "Bradley J. White"
+    },
+    {
+      "authorId": "3483247",
+      "name": "D. Amrine"
+    },
+    {
+      "authorId": "2251977328",
+      "name": "Robert L. Larson"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

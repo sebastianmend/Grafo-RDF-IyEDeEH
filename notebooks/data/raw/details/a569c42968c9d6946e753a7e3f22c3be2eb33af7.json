@@ -1,0 +1,32 @@
+{
+  "paperId": "a569c42968c9d6946e753a7e3f22c3be2eb33af7",
+  "externalIds": {
+    "MAG": "2954146143",
+    "CorpusId": 198398915
+  },
+  "url": "https://www.semanticscholar.org/paper/a569c42968c9d6946e753a7e3f22c3be2eb33af7",
+  "title": "Delineating Precision Agriculture Management Zones Using Satellite Imagery, Web Soil Survey, and Machine Learning.",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "150948289",
+      "name": "Caner Ferhatoglu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

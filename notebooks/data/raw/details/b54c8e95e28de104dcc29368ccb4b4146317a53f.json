@@ -1,0 +1,42 @@
+{
+  "paperId": "b54c8e95e28de104dcc29368ccb4b4146317a53f",
+  "externalIds": {
+    "MAG": "3018179899",
+    "DOI": "10.1109/ICORT46471.2019.9069620",
+    "CorpusId": 216043557
+  },
+  "url": "https://www.semanticscholar.org/paper/b54c8e95e28de104dcc29368ccb4b4146317a53f",
+  "title": "Unmanned Aerial System (UAS) Hazard identification, reliability, risk analysis & Range Safety",
+  "venue": "2019 International Conference on Range Technology (ICORT)",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICORT46471.2019.9069620?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICORT46471.2019.9069620, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1646631762",
+      "name": "S. Basavaraju"
+    },
+    {
+      "authorId": "2074669239",
+      "name": "V. A. Rangan"
+    },
+    {
+      "authorId": "1446368137",
+      "name": "S. Rajgopal"
+    }
+  ],
+  "abstract": "Low speed Unmanned Aerial Vehicles (UAVs) are currently being used in the military for Surveillance and Target Acquisition (SATA) missions. High speed UAVs are used for target/decoy practice or weapon evaluation purposes. Aeronautical Development Establishment Bangalore is a power house for design, development, testing and evaluation of UAVs. Technological Innovation and increasingly diverse applications are two key drivers of the rapid expansion of UAV Technology. The global defence budget for UAV procurement is expanding, and in the future the market for civilian UAVs is expected to outmatch that of the military. Precision Agriculture, meteorology, conservation and border control are just a few of the diverse areas in which UAVs are making a significant impact. Hence the goal of regulating UAV operations is to ensure an appropriate level of safety. This paper will focus on UAV Equivalent Level of Safety (ELOS), safety assessments, and Ground impact Fatality Risk Modeling, system reliability requirements, collision probability, accident investigation considerations and risk mitigation for Unmanned Aerial System.",
+  "references": null
+}

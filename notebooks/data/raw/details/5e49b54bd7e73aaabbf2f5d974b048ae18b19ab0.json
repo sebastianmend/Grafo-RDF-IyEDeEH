@@ -1,0 +1,72 @@
+{
+  "paperId": "5e49b54bd7e73aaabbf2f5d974b048ae18b19ab0",
+  "externalIds": {
+    "MAG": "2954095212",
+    "DOI": "10.1088/1755-1315/268/1/012038",
+    "CorpusId": 198849478
+  },
+  "url": "https://www.semanticscholar.org/paper/5e49b54bd7e73aaabbf2f5d974b048ae18b19ab0",
+  "title": "An Urban Based Smart IOT Farming System",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/268/1/012038",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/268/1/012038?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/268/1/012038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2130635203",
+      "name": "Njoroge Mungai Bryan"
+    },
+    {
+      "authorId": "2130675795",
+      "name": "Ka Fei Thang"
+    },
+    {
+      "authorId": "31906849",
+      "name": "T. Vinesh"
+    }
+  ],
+  "abstract": "Recent technological developments have led to the emergence of new trends in agriculture to ensure increased production through sustainable utilization of resources. One of the new trends is Precision Agriculture (PA). However, like many new emerging trends, PA is faced with a number of uncertainties and hurdles. One of the major issues and hurdles in precision agriculture is the uncertainty of optimum application of resources necessary for optimum yield production while minimizing resource wastage for sustainable agricultural production. Therefore, this paper presents a fuzzy based Decision Support System (DSS) to intelligently allocate water and fertilizer used in crop production based on the age of the plant and data collected from the soil and surrounding environment with the aid of a network of sensors. An embedded hardware system consisting of a Cartesian robot has also been implemented to ensure effective application of the fuzzy derived decisions. Two Fuzzy Inference Systems (FIS) consisting of linear, non-linear Membership Functions and a 149-rule base for the PA system have been developed in MATLAB, implemented using Arduino microcontrollers and tested on spinach plants whereby results show that the linear FIS is able to achieve more accurate results in terms of the quality of yield realized and resource utilllisation. Resource utilllisation comparison with other systems in literature reviewed is also done whereby the DSS is able to save up to 2031 ml and 524 ml of water and fertilizer respectively.",
+  "references": [
+    {
+      "paperId": "000e67efcfac2cb9f5c536574cd8baea22097457"
+    },
+    {
+      "paperId": "ae4cd91074afc81da9f13d3e028364b97d58b06b"
+    },
+    {
+      "paperId": "dca3ac63ac0f6b1976845b82c040f94a024068df"
+    },
+    {
+      "paperId": "3f39b18ddd613b807319819259c7fbcf52fb7385"
+    },
+    {
+      "paperId": "aa1c31343ae69b05fbd045c932541e40112d945c"
+    },
+    {
+      "paperId": "ec08ed194e1c6b4913e4e58c723180e14efb05c6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a8be399144e0af6f09e83d423c793510bbd6cbd2"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

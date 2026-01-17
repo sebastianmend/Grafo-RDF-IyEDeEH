@@ -1,0 +1,49 @@
+{
+  "paperId": "91bbef508051a2656859c319d041def8f42d06b1",
+  "externalIds": {
+    "MAG": "2958509490",
+    "DBLP": "conf/compsac/BritoLGT19",
+    "DOI": "10.1109/COMPSAC.2019.10262",
+    "CorpusId": 199014171
+  },
+  "url": "https://www.semanticscholar.org/paper/91bbef508051a2656859c319d041def8f42d06b1",
+  "title": "Optimization System for Dynamic Flight Planning for Groups of Drones using Cooperation with Mobile Recharge Bases by Means of Multiagent System and Recursive Auctions",
+  "venue": "Annual International Computer Software and Applications Conference",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPSAC.2019.10262?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPSAC.2019.10262, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "16538287",
+      "name": "Robison Cris Brito"
+    },
+    {
+      "authorId": "31944692",
+      "name": "J. F. Loureiro"
+    },
+    {
+      "authorId": "2881439",
+      "name": "A. Guedes"
+    },
+    {
+      "authorId": "3160652",
+      "name": "E. Todt"
+    }
+  ],
+  "abstract": "This work presents a proposal for a cooperation system aimed to optimize flights of unmanned aerial vehicle like a quadricopter, applied to precision agriculture. The system uses technologies that allow the opening, which is the property of inserting and removing system elements at any time, and dynamicity, allowing the system to recover itself from adverse events or failures. It is also proposed a distributed optimization algorithm, that optimizes the number of points visited by the quadricopter, considering the limitation of it's autonomy. This work starts by presenting the techniques used to define the research problem, such as Problem Solving, Stakeholder Diagram, Evaluation Frame, Value Pie and Building Blocks of Culture. Next, it presents the Systematic Mapping and Systematic Review. These studies allowed to define the research problem, and propose a system to solve it, as to define the technologies used, such as Multiagent Systems, cognitive agents considering mental states, as beliefs, desires, and intentions, the negotiation among agents using FIPA Contract-Net protocol, and optimization using the proposed recursive auction algorithm. Finally, tests were developed to evaluate the proposed Multiagent System and the algorithm used to perform the recursive auctions. The Multiagent System guaranteed the opening of the system in tests with inclusion and exclusion of elements, the cognitive agents considering mental states allows the dynamicity of the system. The optimization using recursive auctions was tested in scenarios with 4, 9 and 16 points, and in all of these the optimal result was found. To minimize the processing time, as the number of message exchanges among the agents, two heuristics were proposed. After applying the heuristics, a reduction of up to 99% was achieved in the number of messages exchanged between agents in complex scenarios, like the one with 16 points.Drone, Multiagent System, BDI, Recursive Auction.",
+  "references": null
+}

@@ -1,0 +1,80 @@
+{
+  "paperId": "334ac80d1670d55e405fe9e62aa467b896ee2ebc",
+  "externalIds": {
+    "DBLP": "journals/staeors/XieDHPQMCPLPDY18",
+    "MAG": "2795121812",
+    "DOI": "10.1109/JSTARS.2018.2813281",
+    "CorpusId": 13750211
+  },
+  "url": "https://www.semanticscholar.org/paper/334ac80d1670d55e405fe9e62aa467b896ee2ebc",
+  "title": "Vegetation Indices Combining the Red and Red-Edge Spectral Information for Leaf Area Index Retrieval",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "year": 2018,
+  "citationCount": 207,
+  "influentialCitationCount": 16,
+  "openAccessPdf": {
+    "url": "https://opus.lib.uts.edu.au/bitstream/10453/123231/4/Vegetation%2bindices%2bcombining%2bthe%2bred%2band%2bred-edge%2bspectral%2binformation%2bfor%2bleaf%2barea%2bindex%2bretrieval.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSTARS.2018.2813281?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSTARS.2018.2813281, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "90190561",
+      "name": "Qiaoyun Xie"
+    },
+    {
+      "authorId": "145291610",
+      "name": "J. Dash"
+    },
+    {
+      "authorId": "1739594",
+      "name": "Wenjiang Huang"
+    },
+    {
+      "authorId": "1793603",
+      "name": "D. Peng"
+    },
+    {
+      "authorId": "40286908",
+      "name": "Q. Qin"
+    },
+    {
+      "authorId": "37951037",
+      "name": "H. Mortimer"
+    },
+    {
+      "authorId": "4600514",
+      "name": "R. Casa"
+    },
+    {
+      "authorId": "2756871",
+      "name": "S. Pignatti"
+    },
+    {
+      "authorId": "3070715",
+      "name": "G. Laneve"
+    },
+    {
+      "authorId": "2442601",
+      "name": "S. Pascucci"
+    },
+    {
+      "authorId": "1710615",
+      "name": "Yingying Dong"
+    },
+    {
+      "authorId": "3146040",
+      "name": "H. Ye"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

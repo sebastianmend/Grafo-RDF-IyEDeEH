@@ -1,0 +1,85 @@
+{
+  "paperId": "23bb5d4e08f0f65e998b9c9c440eb6ad45be2279",
+  "externalIds": {
+    "MAG": "2806618705",
+    "DOI": "10.5194/ISPRS-ARCHIVES-XLII-2-983-2018",
+    "CorpusId": 55924567
+  },
+  "url": "https://www.semanticscholar.org/paper/23bb5d4e08f0f65e998b9c9c440eb6ad45be2279",
+  "title": "DTM GENERATION THROUGH UAV SURVEY WITH A FISHEYE CAMERA ON A VINEYARD",
+  "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2/983/2018/isprs-archives-XLII-2-983-2018.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ISPRS-ARCHIVES-XLII-2-983-2018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ISPRS-ARCHIVES-XLII-2-983-2018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1382695760",
+      "name": "Giulia Ronchetti"
+    },
+    {
+      "authorId": "46469323",
+      "name": "D. Pagliari"
+    },
+    {
+      "authorId": "2690635",
+      "name": "G. Sona"
+    }
+  ],
+  "abstract": "Abstract. Precision agriculture recommends a sustainable employment of nutrients and water, according to the site-specific crop requirements. In this context, the knowledge of soil characteristics allows to appropriately manage resources. Even the topography can influence the spatial distribution of the water on a field. This work focuses on the production of high-resolution Digital Terrain Model (DTM) in agriculture by photogrammetric processing fisheye images, acquired with very light Unmanned Aerial Vehicle (UAV). Particular attention is given to the data processing procedures and to the assessment of the quality of the results, considering the peculiarity of the acquired images. An experimental test has been carried out on a vineyard located in Monzambano, Northern Italy, through photogrammetric survey with Parrot Bebop 2 UAV. It has been realized at the end of the vegetation season, to investigate the ground without any impediment due to the presence of leaves or branches. In addition, the survey has been used for evaluating the performance of Bebop fisheye camera in viticulture. Different flight strategies have been tested, together with different Ground Control Points (GCPs) and Check Points (CPs) configurations and software packages. The computed DTMs have been compared with a reference model obtained through Kriging interpolation of GNSS-RTK measurements. Residuals on CPs are of the order of 0.06 m, for all the considered scenarios, that for agricultural applications is by far sufficient. The photogrammetric DTMs show a good agreement with the reference one.\n",
+  "references": [
+    {
+      "paperId": "b596caa8fc6016bfab294d3ba54d144c294306e6"
+    },
+    {
+      "paperId": "9dd3f93ef66aee92ec95992d5fe3f7ced2386c35"
+    },
+    {
+      "paperId": "96b3186ad5b404db3c8a9a0c2ebd631e8b88e29d"
+    },
+    {
+      "paperId": "3d25ed686f960920d0e4cfb7ae8834efba31ab60"
+    },
+    {
+      "paperId": "ac8d047ec1e33844ec82251c2ded517c990cad7a"
+    },
+    {
+      "paperId": "6d207d60bae75704d6c117efe350f8e803074d24"
+    },
+    {
+      "paperId": "af9a2db200a49017de20f8d61ba350a95398a39f"
+    },
+    {
+      "paperId": "9ce4be10c7981e0a8173d95c4ad6a7da4156dc77"
+    },
+    {
+      "paperId": "e8fcbf375cb8d8466ae274ea1e63fedeb3235168"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "02756e372c323a4fe69f43519c7839b7221a8147"
+    },
+    {
+      "paperId": "1150007b62a3c7dac99c2c8f85c63bfab74891af"
+    },
+    {
+      "paperId": "cc1a5590d0405dc76e4612c7ea569ba0fc4241c2"
+    },
+    {
+      "paperId": "b0b30534503109e372b6382ece9f224a4742348b"
+    }
+  ]
+}

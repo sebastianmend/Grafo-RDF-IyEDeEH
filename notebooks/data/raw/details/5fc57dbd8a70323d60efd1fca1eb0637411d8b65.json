@@ -1,0 +1,51 @@
+{
+  "paperId": "5fc57dbd8a70323d60efd1fca1eb0637411d8b65",
+  "externalIds": {
+    "DBLP": "journals/cee/RangoPTSF19",
+    "MAG": "2913325984",
+    "DOI": "10.1016/J.COMPELECENG.2019.01.018",
+    "CorpusId": 86572403
+  },
+  "url": "https://www.semanticscholar.org/paper/5fc57dbd8a70323d60efd1fca1eb0637411d8b65",
+  "title": "Scalable and ligthway bio-inspired coordination protocol for FANET in precision agriculture applications",
+  "venue": "Computers & electrical engineering",
+  "year": 2019,
+  "citationCount": 60,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://iris.unive.it/bitstream/10278/3736953/1/C03%20-%20DS-RT%20-%20A%20Simulator%20for%20Creating%20Drones%20Networks%20and.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPELECENG.2019.01.018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPELECENG.2019.01.018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1721408",
+      "name": "F. Rango"
+    },
+    {
+      "authorId": "27335189",
+      "name": "Giuseppe Potrino"
+    },
+    {
+      "authorId": "1805281",
+      "name": "M. Tropea"
+    },
+    {
+      "authorId": "9292304",
+      "name": "A. Santamaria"
+    },
+    {
+      "authorId": "1886151",
+      "name": "P. Fazio"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

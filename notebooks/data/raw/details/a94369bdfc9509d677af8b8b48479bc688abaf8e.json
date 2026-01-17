@@ -16,7 +16,7 @@
     "url": "https://upcommons.upc.edu/bitstream/2117/24152/1/grsl14-2.pdf",
     "status": "GREEN",
     "license": "public-domain",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2014.2320052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2014.2320052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LGRS.2014.2320052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LGRS.2014.2320052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Computer Science",

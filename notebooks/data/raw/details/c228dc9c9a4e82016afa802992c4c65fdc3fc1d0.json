@@ -1,0 +1,353 @@
+{
+  "paperId": "c228dc9c9a4e82016afa802992c4c65fdc3fc1d0",
+  "externalIds": {
+    "PubMedCentral": "6346982",
+    "MAG": "2911852964",
+    "DOI": "10.7717/peerj.6310",
+    "CorpusId": 59338039,
+    "PubMed": "30697491"
+  },
+  "url": "https://www.semanticscholar.org/paper/c228dc9c9a4e82016afa802992c4c65fdc3fc1d0",
+  "title": "Quantitatively estimating main soil water-soluble salt ions content based on Visible-near infrared wavelength selected using GC, SR and VIP",
+  "venue": "PeerJ",
+  "year": 2018,
+  "citationCount": 21,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://peerj.com/articles/6310.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6346982, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108969426",
+      "name": "Haifeng Wang"
+    },
+    {
+      "authorId": "2109326271",
+      "name": "Yinwen Chen"
+    },
+    {
+      "authorId": "2144391789",
+      "name": "Zhitao Zhang"
+    },
+    {
+      "authorId": "3479279",
+      "name": "Haorui Chen"
+    },
+    {
+      "authorId": "48570003",
+      "name": "Xianwen Li"
+    },
+    {
+      "authorId": "2026979065",
+      "name": "Mingxiu Wang"
+    },
+    {
+      "authorId": "1471897352",
+      "name": "H. Chai"
+    }
+  ],
+  "abstract": "Soil salinization is the primary obstacle to the sustainable development of agriculture and eco-environment in arid regions. The accurate inversion of the major water-soluble salt ions in the soil using visible-near infrared (VIS-NIR) spectroscopy technique can enhance the effectiveness of saline soil management. However, the accuracy of spectral models of soil salt ions turns out to be affected by high dimensionality and noise information of spectral data. This study aims to improve the model accuracy by optimizing the spectral models based on the exploration of the sensitive spectral intervals of different salt ions. To this end, 120 soil samples were collected from Shahaoqu Irrigation Area in Inner Mongolia, China. After determining the raw reflectance spectrum and content of salt ions in the lab, the spectral data were pre-treated by standard normal variable (SNV). Subsequently the sensitive spectral intervals of each ion were selected using methods of gray correlation (GC), stepwise regression (SR) and variable importance in projection (VIP). Finally, the performance of both models of partial least squares regression (PLSR) and support vector regression (SVR) was investigated on the basis of the sensitive spectral intervals. The results indicated that the model accuracy based on the sensitive spectral intervals selected using different analytical methods turned out to be different: VIP was the highest, SR came next and GC was the lowest. The optimal inversion models of different ions were different. In general, both PLSR and SVR had achieved satisfactory model accuracy, but PLSR outperformed SVR in the forecasting effects. Great difference existed among the optimal inversion accuracy of different ions: the predicative accuracy of Ca2+, Na+, Cl−, Mg2+ and SO42− was very high, that of CO32− was high and K+ was relatively lower, but HCO3− failed to have any predicative power. These findings provide a new approach for the optimization of the spectral model of water-soluble salt ions and improvement of its predicative precision.",
+  "references": [
+    {
+      "paperId": "1da4f2f3c24d8e4fbb142bc01459058b8b1e9062"
+    },
+    {
+      "paperId": "df48db679ad9d2d0d2d5ed07cf9370f543c50575"
+    },
+    {
+      "paperId": "43c7baf0676e72dd58fe802d1aa571161ef8088d"
+    },
+    {
+      "paperId": "8061d0f9d7cc3ca7d070aadef386de648b5a94bc"
+    },
+    {
+      "paperId": "cbfe27329d3dca9615729d1ef11065e245f448fe"
+    },
+    {
+      "paperId": "fd7b4ee759f0f81228606d93dda75bf21c2a490f"
+    },
+    {
+      "paperId": "fab3da9906cb6f9e7bbe23d9d0d6e24df150650e"
+    },
+    {
+      "paperId": "7e5346da4ca3cedd0fe8fbaf75fac8077cc1018b"
+    },
+    {
+      "paperId": "e5fa6689ef7ff2df2d564c17f2fef2655e693755"
+    },
+    {
+      "paperId": "1841ca7baf789349a6920ddc23e9ba61f49b79a2"
+    },
+    {
+      "paperId": "1c2c68966db48eb138e39eb9f29554fe4a901112"
+    },
+    {
+      "paperId": "8599de0a92ad7847b7fd06340b31011a31f4b94e"
+    },
+    {
+      "paperId": "c30b96cae6c714d46a5b7877fe1c590a9dd8eff0"
+    },
+    {
+      "paperId": "b53f746b6c5500f608db0c41ec8ddf35305e5202"
+    },
+    {
+      "paperId": "cd6007731ca48dd75a5be8df151eb140aabc4dfd"
+    },
+    {
+      "paperId": "f2aff5af3f757ca9183cdc1d89afe54d385ec9a6"
+    },
+    {
+      "paperId": "5b8ae849af607cdeb4731907c045574d80faede6"
+    },
+    {
+      "paperId": "50885de1bda0b08ac66d46981d41b574442755e2"
+    },
+    {
+      "paperId": "c0d5969e05cd488a8db303fc6ad597589d203ded"
+    },
+    {
+      "paperId": "92c3306b279d3783c098e4db5051e28194b6d216"
+    },
+    {
+      "paperId": "8f7a8b0747b6d7895390639f753c3edc70139911"
+    },
+    {
+      "paperId": "930e10a9350c691e7343612c9d8b18e977c5be7c"
+    },
+    {
+      "paperId": "1fe3cf81320bb0036c049a1e0a7c4c2d127fba60"
+    },
+    {
+      "paperId": "663bc18645b621a220148d474475fb3d96285a4f"
+    },
+    {
+      "paperId": "63fd67f7d3e14304620f9ee2808eb8352da6e9ee"
+    },
+    {
+      "paperId": "7ecc3e41ac2255c39fba6f137ab4b68d71511b12"
+    },
+    {
+      "paperId": "23c5decf57e59ff9e69c107a763e5f0beaa4f799"
+    },
+    {
+      "paperId": "b6a2b6efbdb2515f21dfd53c195bde4996383ac6"
+    },
+    {
+      "paperId": "96836fe9ae0156b8976f2a74b30647f04fc3be9d"
+    },
+    {
+      "paperId": "cea00d48e78a6042b919e005e841f0f552143c1d"
+    },
+    {
+      "paperId": "34bb613c81733340f9511a4880bbd22eea3573f3"
+    },
+    {
+      "paperId": "789739aee751c87a99e65b0568ebafac9f28d726"
+    },
+    {
+      "paperId": "cf5916e307680570a707ae705c45847b3ca16f0f"
+    },
+    {
+      "paperId": "b491f8de595fc711048d6722f8b99910647f033c"
+    },
+    {
+      "paperId": "1a465b0e4f3f8e369cad9706e2a980840b2972f1"
+    },
+    {
+      "paperId": "5dd8a4cf2f86def24b1ccd0b65e430f87a4f69dd"
+    },
+    {
+      "paperId": "ff3d6dd0af00e6b8466fe7d75e8f2192f2ecc73d"
+    },
+    {
+      "paperId": "bc4767fca2dff3ca74980a4df7e53502bb0a287f"
+    },
+    {
+      "paperId": "94a985e1e8b27209de6b3cafc9887a408b410049"
+    },
+    {
+      "paperId": "4522653738f125f6ace1006d872aed61cb2f6c6a"
+    },
+    {
+      "paperId": "72550907880e83982fb1c005bbbfadd8d921f3b4"
+    },
+    {
+      "paperId": "d054a3b949e69df139b1d01630361d5f48782249"
+    },
+    {
+      "paperId": "3e65b40559e985eba017fa3fe042d3a4ca0fd7dc"
+    },
+    {
+      "paperId": "24109cc6591c0e67539de9fb6a7a9c76d2c13bbb"
+    },
+    {
+      "paperId": "e4aba7da8e82456de164fa91816e1c79b3eb6698"
+    },
+    {
+      "paperId": "56c012899cc3d80611e0828cf7e8608ed2d56c9d"
+    },
+    {
+      "paperId": "d5e4f0ee4d955a0126f41def8e74d0e46933d693"
+    },
+    {
+      "paperId": "014c5159c773d31d013551200f0ad838f184050c"
+    },
+    {
+      "paperId": "a68cdd29e4304621d793db7b735a5ade85fc6547"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "a98923f2613f9304bff525609a04b9b56e8b8644"
+    },
+    {
+      "paperId": "33c90d643135b972077e8afec26358523d6a332e"
+    },
+    {
+      "paperId": "f4b5fbc4ab86fb106dbadba1689a59378ccdfbcb"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "731b8dcef19391097c4dda845a7ad0d7d7982dae"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3ecdb5878df4cefe8073834e32a6329d4a46caba"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6a94d19c28d4a983cfd47871060804ab2733d625"
+    },
+    {
+      "paperId": "b47d4fe6b10f91967d3881c33cb405e3f5a82cfe"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "81a487835dc2d920e34062bd8495956f967df88f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9a7003e6c6fbded4724b334cd678ddce2e6300c5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e0610f704c83ca1487d3f17a7197f96ce9fe000"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8213dbed4db44e113af3ed17d6dad57471a0c048"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6f4a5aeebbb9c8573ae0236a0a4d63c46fc455e0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

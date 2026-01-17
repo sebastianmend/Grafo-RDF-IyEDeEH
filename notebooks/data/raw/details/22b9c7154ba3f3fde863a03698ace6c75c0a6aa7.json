@@ -1,0 +1,39 @@
+{
+  "paperId": "22b9c7154ba3f3fde863a03698ace6c75c0a6aa7",
+  "externalIds": {
+    "MAG": "2788401573",
+    "DBLP": "journals/cluster/PriyaR19",
+    "DOI": "10.1007/s10586-018-2003-8",
+    "CorpusId": 3380348
+  },
+  "url": "https://www.semanticscholar.org/paper/22b9c7154ba3f3fde863a03698ace6c75c0a6aa7",
+  "title": "Modified Genetic Algorithm (MGA) based feature selection with Mean Weighted Least Squares Twin Support Vector Machine (MW-LSTSVM) approach for vegetation classification",
+  "venue": "Cluster Computing",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10586-018-2003-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10586-018-2003-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "148312897",
+      "name": "V. Priya"
+    },
+    {
+      "authorId": "144474779",
+      "name": "D. Ramyachitra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

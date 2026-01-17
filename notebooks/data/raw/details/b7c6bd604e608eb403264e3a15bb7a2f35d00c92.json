@@ -1,0 +1,152 @@
+{
+  "paperId": "b7c6bd604e608eb403264e3a15bb7a2f35d00c92",
+  "externalIds": {
+    "MAG": "2810736079",
+    "DBLP": "journals/access/FernandezMSSSA18",
+    "DOI": "10.1109/ACCESS.2018.2851376",
+    "CorpusId": 49867795
+  },
+  "url": "https://www.semanticscholar.org/paper/b7c6bd604e608eb403264e3a15bb7a2f35d00c92",
+  "title": "Automatic Detection of Field-Grown Cucumbers for Robotic Harvesting",
+  "venue": "IEEE Access",
+  "year": 2018,
+  "citationCount": 38,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2018.2851376",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2018.2851376?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2018.2851376, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40351823",
+      "name": "R. Fernández"
+    },
+    {
+      "authorId": "144745089",
+      "name": "H. Montes"
+    },
+    {
+      "authorId": "1908488",
+      "name": "J. Surdilovic"
+    },
+    {
+      "authorId": "1411269076",
+      "name": "Dragojlub Surdilovic"
+    },
+    {
+      "authorId": "1403763403",
+      "name": "P. González-De-Santos"
+    },
+    {
+      "authorId": "2289532",
+      "name": "M. Armada"
+    }
+  ],
+  "abstract": "The objective of the research presented in this paper was to design an accurate and robust algorithm for the challenging task of detecting field-grown cucumbers for robotic harvesting automation in precision agriculture applications. The proposed algorithm is based on a combination of several processing and data mining techniques to achieve a classification system capable of segmenting cucumbers from the different elements of the scene, such as leaves, stems, the ground, stones, and irrigation pipes. The algorithm includes a support vector machine pixel classifier that provides the initial regions of interest for further processing, a Euclidean distance transform for eliminating less compact blobs that usually correspond to flowers and young leaves, an image category classifier based on a bag-of-visual-words model that increases the detection reliability, and a segmentation procedure based on the watershed transform and the minima imposition technique. Several experimental campaigns were carried out in field conditions to acquire data for training the classifiers and for validating the designed algorithm. Detection performance was evaluated at both the pixel and cucumber levels by comparing the results provided by the proposed algorithm with the ground truth data generated from hand-labeled images. The high hit rate and the low false-positive rate obtained at the pixel level and the high recall and precision at the cucumber level demonstrated the satisfactory performance of the proposed solution and highlight its potential benefits for automatic cucumber-harvesting applications.",
+  "references": [
+    {
+      "paperId": "4ef826d8915a1b28980ef883dbd623a8f9bf54f1"
+    },
+    {
+      "paperId": "00a526385a6cb746bcaaec88a58ba887a9546d05"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "ef750d108484984694e054ef17db85fedc22d6e5"
+    },
+    {
+      "paperId": "3257bdffb3d363b7c509e5faa89fab17a7e3e583"
+    },
+    {
+      "paperId": "8ef09dced4710c0245461e3d6dc898c8493ba422"
+    },
+    {
+      "paperId": "f1a7d91e77dacb06b05564c42ea71acb0f0770f5"
+    },
+    {
+      "paperId": "0146f550ed7f34f3b7471c917056f1e999de6ec6"
+    },
+    {
+      "paperId": "ca3e1fa7253959e2471503787fb4cf7d4dfd4f2e"
+    },
+    {
+      "paperId": "cdbb606ae47c64049262dfbd3bb147d3f4ba8420"
+    },
+    {
+      "paperId": "e2ae3ae666c2ec94a8dc89263085d1b63757c884"
+    },
+    {
+      "paperId": "ad411eeabc8056d354895345d1baf5b81b7dbc44"
+    },
+    {
+      "paperId": "e94d8cf08118d4bd8e0ec1e3a0ddd0129e688080"
+    },
+    {
+      "paperId": "e2267533893f619a788e052088ebd495534b252c"
+    },
+    {
+      "paperId": "e9dd235240904627b12782653b66318712780703"
+    },
+    {
+      "paperId": "712c3f11951b060dbf65db6101119fb7dfc28e21"
+    },
+    {
+      "paperId": "66fa8f9fe1af44f50c1ba54b0c22ec7cbce66a37"
+    },
+    {
+      "paperId": "848a25a41cba56ca180ca79c6ba3470cc3b8f143"
+    },
+    {
+      "paperId": "794537f1939fad46800d6cf678ea07dc383c4a30"
+    },
+    {
+      "paperId": "7ba13be4400922e91463b4d0574d7152b1f7e779"
+    },
+    {
+      "paperId": "36016880a14f34a65eadf44981def5387952ebb4"
+    },
+    {
+      "paperId": "fb8317966ebcfe8d1f96540e6d867b2b4105978e"
+    },
+    {
+      "paperId": "05f210293e5c1fd6ecc261e956bd281a92ff57ce"
+    },
+    {
+      "paperId": "a3819dda9a5f00dbb8cd3413ca7422e37a0d5794"
+    },
+    {
+      "paperId": "ccd1ef748f29bebb9fca1c1d3867f64e9feaed09"
+    },
+    {
+      "paperId": "08f1ee388e3d2b9aa69e71d472abfd33fcda479e"
+    },
+    {
+      "paperId": "5b8b47150f30e0b543c9da4ee219c216079d34b8"
+    },
+    {
+      "paperId": "442c48540b4cf9f36b7e69e38de5c1eb65f161d0"
+    },
+    {
+      "paperId": "b91180d8853d00e8f2df7ee3532e07d3d0cce2af"
+    },
+    {
+      "paperId": "4cee6f0f821c4cc5799e53aeda06f92666691667"
+    },
+    {
+      "paperId": "aa4bddbd10eafd8e1b54338517eedfee408f03ae"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    }
+  ]
+}

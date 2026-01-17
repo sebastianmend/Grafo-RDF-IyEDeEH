@@ -1,0 +1,195 @@
+{
+  "paperId": "2beac7435ff848be280929b25f76a9d826527d9a",
+  "externalIds": {
+    "PubMedCentral": "6506800",
+    "MAG": "2932893436",
+    "DOI": "10.1021/acs.est.9b00812",
+    "CorpusId": 92997076,
+    "PubMed": "30945532"
+  },
+  "url": "https://www.semanticscholar.org/paper/2beac7435ff848be280929b25f76a9d826527d9a",
+  "title": "In Situ Quantification of Biological N2 Production Using Naturally Occurring 15N15N",
+  "venue": "Environmental Science and Technology",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1021/acs.est.9b00812",
+    "status": "HYBRID",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6506800, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "36508830",
+      "name": "L. Yeung"
+    },
+    {
+      "authorId": "6930383",
+      "name": "J. Haslun"
+    },
+    {
+      "authorId": "5332512",
+      "name": "N. Ostrom"
+    },
+    {
+      "authorId": "2101282099",
+      "name": "Tao Sun"
+    },
+    {
+      "authorId": "35081189",
+      "name": "E. Young"
+    },
+    {
+      "authorId": "113503079",
+      "name": "M. V. van Kessel"
+    },
+    {
+      "authorId": "5588078",
+      "name": "Sebastian Lücker"
+    },
+    {
+      "authorId": "143914223",
+      "name": "M. Jetten"
+    }
+  ],
+  "abstract": "We describe an approach for determining biological N2 production in soils based on the proportions of naturally occurring 15N15N in N2. Laboratory incubation experiments reveal that biological N2 production, whether by denitrification or anaerobic ammonia oxidation, yields proportions of 15N15N in N2 that are within 1‰ of that predicted for a random distribution of 15N and 14N atoms. This relatively invariant isotopic signature contrasts with that of the atmosphere, which has 15N15N proportions in excess of the random distribution by 19.1 ± 0.1‰. Depth profiles of gases in agricultural soils from the Kellogg Biological Station Long-Term Ecological Research site show biological N2 accumulation that accounts for up to 1.6% of the soil N2. One-dimensional reaction-diffusion modeling of these soil profiles suggests that subsurface N2 pulses leading to surface emission rates as low as 0.3 mmol N2 m–2 d–1 can be detected with current analytical precision, decoupled from N2O production.",
+  "references": [
+    {
+      "paperId": "3576b5b0e07acddb3cd237c65146237992520f38"
+    },
+    {
+      "paperId": "faa6f10b7c21d1b5d205c0b7fd94ec906acd67e3"
+    },
+    {
+      "paperId": "6681623f330230d37b45eca94b63544c79e80e85"
+    },
+    {
+      "paperId": "f32360a4f086785aa3e4b943e93c7da93a6f33ce"
+    },
+    {
+      "paperId": "2e6245e56ba7bfa97dfc9bc313e09c88156dfca2"
+    },
+    {
+      "paperId": "719de18f66b0d415782043dec9113845b4e245e0"
+    },
+    {
+      "paperId": "43ba9374d3dfc5aca0e685782485c4d1b71dfd9f"
+    },
+    {
+      "paperId": "0b7065305835daf39c4d8a0b64a04d1c577e006c"
+    },
+    {
+      "paperId": "e5563cc0d3362e4785f30a6d97b65fceb37aff6e"
+    },
+    {
+      "paperId": "2889b175af4d7c41b21dc0b39f9d87086b7aa147"
+    },
+    {
+      "paperId": "f0af77113df80fde6ffb1c0bdf0d69634f9b9b67"
+    },
+    {
+      "paperId": "ee1b18b9dc70fc94c041f5770f59561404758839"
+    },
+    {
+      "paperId": "37a39ba8c91834fa927a3772e485d8826d6e7e68"
+    },
+    {
+      "paperId": "2a4451249299dbcf6a6972f6e2e3a1306d9902dc"
+    },
+    {
+      "paperId": "1fc7f9ecfd97395deb5a3fe87dce5f33618cccd6"
+    },
+    {
+      "paperId": "43643d5a9fb7fb1df2ddc106c1939c6ce091e6e3"
+    },
+    {
+      "paperId": "59b16b19530ecc49ef544fc51c1787316a9fead4"
+    },
+    {
+      "paperId": "20fdea729a4c88cc30b8a23155832089989842ab"
+    },
+    {
+      "paperId": "2e0794a107fe729370484701d28829eae2ca9494"
+    },
+    {
+      "paperId": "945d8d8299f2603fb808d030be7b4dbcc6eb4fb8"
+    },
+    {
+      "paperId": "6e9807ded8f5225c2a0a2a595cee4c90ba935cd4"
+    },
+    {
+      "paperId": "7b6e12946ee72f868ebc547301bbee5c636b7215"
+    },
+    {
+      "paperId": "75bbe6d79692131e078175aa671f2c962393795e"
+    },
+    {
+      "paperId": "e8e7ced3297a6850b27bae2574ac74f5da4fa358"
+    },
+    {
+      "paperId": "b64ba79c54480d312d0d99a6a11ac3085f93edce"
+    },
+    {
+      "paperId": "1254c54c33dbb4dca262622cf975543c9c268080"
+    },
+    {
+      "paperId": "63ac829c3ed6d3bdd6e9f8f517c89fe0daeab06c"
+    },
+    {
+      "paperId": "8f667d5ed3cb94b630119169bc30d836b5752673"
+    },
+    {
+      "paperId": "1023274195a50f78174ad4d035e01d61f7998229"
+    },
+    {
+      "paperId": "009bd63068218b8a07d715fa7677dec998f0fc30"
+    },
+    {
+      "paperId": "83e02f8f1affa92023d98aae94d07424454081cd"
+    },
+    {
+      "paperId": "3abe9ae7d78f9905fa2fe33db8d2a538c165bbb9"
+    },
+    {
+      "paperId": "8f85c0442adff775997145e3e89e803077a56366"
+    },
+    {
+      "paperId": "421461120f9c6c873c07d4f32165136439c44344"
+    },
+    {
+      "paperId": "aa363596c2da497e5d6529b636d59d98fbae0846"
+    },
+    {
+      "paperId": "cac21fdd447b9fc045ba92bb0e0fc612f93a9164"
+    },
+    {
+      "paperId": "de05168f64a1c5aaadf25f7fd2d251be83f705e3"
+    },
+    {
+      "paperId": "6400ac6bc4244243327cb10bf03256047b632e4c"
+    },
+    {
+      "paperId": "48616eae2a9914620915be8e72c7f3993c4c1bc9"
+    },
+    {
+      "paperId": "414a939f2b5396191ff79f25c8a099ea77b007d0"
+    },
+    {
+      "paperId": "4e17e9fdfdbbd9c40b7e6912b94178aa1b36f3c0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

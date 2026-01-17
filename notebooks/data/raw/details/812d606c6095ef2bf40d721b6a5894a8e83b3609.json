@@ -1,0 +1,59 @@
+{
+  "paperId": "812d606c6095ef2bf40d721b6a5894a8e83b3609",
+  "externalIds": {
+    "DBLP": "journals/iotj/KleinHHGSSD18",
+    "MAG": "2910605852",
+    "DOI": "10.1109/JIOT.2018.2865527",
+    "CorpusId": 58670539
+  },
+  "url": "https://www.semanticscholar.org/paper/812d606c6095ef2bf40d721b6a5894a8e83b3609",
+  "title": "Closed Loop Controlled Precision Irrigation Sensor Network",
+  "venue": "IEEE Internet of Things Journal",
+  "year": 2018,
+  "citationCount": 35,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2018.2865527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2018.2865527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "21611617",
+      "name": "L. Klein"
+    },
+    {
+      "authorId": "30968235",
+      "name": "H. Hamann"
+    },
+    {
+      "authorId": "2093721536",
+      "name": "Nigel Hinds"
+    },
+    {
+      "authorId": "47271057",
+      "name": "Supratik Guha"
+    },
+    {
+      "authorId": "1571171295",
+      "name": "L. Sanchez"
+    },
+    {
+      "authorId": "41180453",
+      "name": "B. Sams"
+    },
+    {
+      "authorId": "51310502",
+      "name": "N. Dokoozlian"
+    }
+  ],
+  "abstract": "A closed loop irrigation system is demonstrated that fully automates the delivery of irrigation and calculates the water requirement from satellite images. The system optimizes water delivery for 140 cells located across four hectares of land based on two independent objectives (e.g., maximizing yield and increasing water efficiency) and is continuously adapting irrigation scheduling to the local spatial–temporal variability of the vegetation across the growing season. Irrigation is controlled by a central computer that issues commands to 693 control nodes to start irrigation based on the analysis of satellite images. The control nodes are laid out to create 15 m  $\\times15$  m cells and each cell can be addressed independently and can irrigate differentially. After two years of operation, this variable rate drip irrigation approach resulted in a 26% yield increase in the second year and an average increase of 16% in water use efficiency. This paper demonstrates that combining closed loop automation and advanced irrigation analytics can improve the water use efficiency and increase the yield on existing agricultural lands.",
+  "references": null
+}

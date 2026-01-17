@@ -1,0 +1,290 @@
+{
+  "paperId": "57fe534a35d578e7db6077cccfe5b7ad4767793a",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/HerrmannVRSCCCT18",
+    "MAG": "2789880648",
+    "DOI": "10.3390/RS10030426",
+    "CorpusId": 4801243
+  },
+  "url": "https://www.semanticscholar.org/paper/57fe534a35d578e7db6077cccfe5b7ad4767793a",
+  "title": "Leaf and Canopy Level Detection of Fusarium Virguliforme (Sudden Death Syndrome) in Soybean",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 52,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/3/426/pdf?version=1520601008",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10030426?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10030426, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34993365",
+      "name": "I. Herrmann"
+    },
+    {
+      "authorId": "40910303",
+      "name": "S. Vosberg"
+    },
+    {
+      "authorId": "38140999",
+      "name": "Prabu Ravindran"
+    },
+    {
+      "authorId": "47264339",
+      "name": "Aditya Singh"
+    },
+    {
+      "authorId": "2218560679",
+      "name": "Hao-Xun Chang"
+    },
+    {
+      "authorId": "8188205",
+      "name": "M. Chilvers"
+    },
+    {
+      "authorId": "39916985",
+      "name": "S. Conley"
+    },
+    {
+      "authorId": "35146915",
+      "name": "P. Townsend"
+    }
+  ],
+  "abstract": "Pre-visual detection of crop disease is critical for food security. Field-based spectroscopic remote sensing offers a method to enable timely detection, but still requires appropriate instrumentation and testing. Soybean plants were spectrally measured throughout a growing season to assess the capacity of leaf and canopy level spectral measurements to detect non-visual foliage symptoms induced by Fusarium virguliforme (Fv, which causes sudden death syndrome). Canopy reflectance measurements were made using the Piccolo Doppio dual field-of-view, two-spectrometer (400 to 1630 nm) system on a tractor. Leaf level measurements were obtained, in different plots, using a handheld spectrometer (400 to 2500 nm). Partial least squares discriminant analysis (PLSDA) was applied to the spectroscopic data to discriminate between Fv-inoculated and control plants. Canopy and leaf spectral data allowed identification of Fv infection, prior to visual symptoms, with classification accuracy of 88% and 91% for calibration, 79% and 87% for cross-validation, and 82% and 92% for validation, respectively. Differences in wavelengths important to prediction by canopy vs. leaf data confirm that there are different bases for accurate predictions among methods. Partial least square regression (PLSR) was used on a late-stage canopy level data to predict soybean seed yield, with calibration, cross-validation and validation R2 values 0.71, 0.59 and 0.62 (p < 0.01), respectively, and validation root mean square error of 0.31 t·ha−1. Spectral data from the tractor mounted system are thus sensitive to the expression of Fv root infection at canopy scale prior to canopy symptoms, suggesting such systems may be effective for precision agricultural research and management.",
+  "references": [
+    {
+      "paperId": "b670868afd5f2500cbbe4ddf056035a0aa9fe97f"
+    },
+    {
+      "paperId": "7191553c78ef39f40e418175fd7bef4e5a243c0e"
+    },
+    {
+      "paperId": "5ce4cf4517da2495a9b9a814682392fead97f4fe"
+    },
+    {
+      "paperId": "901a42c611acc01c5e0e7942c741030e491d40cc"
+    },
+    {
+      "paperId": "354b2f592603a2d0a81de44e4172f67a3685991f"
+    },
+    {
+      "paperId": "68adf49d7967d1bf0671dc5cda3f53b6644c6638"
+    },
+    {
+      "paperId": "2c4f9135d4578769c1c4a11f733034f11af15b7c"
+    },
+    {
+      "paperId": "6a0c5c1f1d0db77178501ca51ce256679db6553c"
+    },
+    {
+      "paperId": "5e6dd8bac46b58ceecde9b7fd6b16ad5dd6601a1"
+    },
+    {
+      "paperId": "5189d3ae4fcea4a9ae0615619a7ce3819d58ccc3"
+    },
+    {
+      "paperId": "39fe952370b8c7421aa9348d5001da73b89e7a6f"
+    },
+    {
+      "paperId": "d74f482a41ea38f32064db98d6f38241aeec3b6f"
+    },
+    {
+      "paperId": "4b2129a88d1247c95fcab9108678c94ce69eeee7"
+    },
+    {
+      "paperId": "68144d25f49d7f552a9d8c8ea6a7e80eeb3d0c54"
+    },
+    {
+      "paperId": "eb8b772dcae22b41a438b20d3c18f8798a5bec35"
+    },
+    {
+      "paperId": "3bd2c0e2ce0e64d7f0f49ce0debd0ee29eec8ad0"
+    },
+    {
+      "paperId": "4b1ddf64132625adfa5e35df14c610a804afb8ac"
+    },
+    {
+      "paperId": "50b73e614326e41331cd773a9a2b7d1d260fb405"
+    },
+    {
+      "paperId": "8a20c47a8281c8418749b092cd47dd5833aac619"
+    },
+    {
+      "paperId": "e8fb5f748cf3282e6b79fef3445450f2c43cc6ed"
+    },
+    {
+      "paperId": "38fe73a92c01ac39900b157debc01bf227ae03dc"
+    },
+    {
+      "paperId": "e005e15860fdc7d4fbda332f06e5b65ffcdd7460"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "ccf5578da650331dd9bbad81dfcb1a7914d309d2"
+    },
+    {
+      "paperId": "d353d4b04d5bce84ed3ccdf5ce59e3ecf00217fa"
+    },
+    {
+      "paperId": "22b148bcc2bf082c165340499a3bdeb3ac0b22d8"
+    },
+    {
+      "paperId": "54d89d5ee6fda38ba98812c13b9bd020c5ce5a54"
+    },
+    {
+      "paperId": "186493945c56dbcb3247253cf2df778b06a227d3"
+    },
+    {
+      "paperId": "839f55d53c29ab3919b872b59b869f76ea242883"
+    },
+    {
+      "paperId": "185f476bd58311f84e313b2cce6022a94c25b3cd"
+    },
+    {
+      "paperId": "ad85bbbc454c2acd3a69ffa10f7c7ef9c96cae8a"
+    },
+    {
+      "paperId": "01eebe2ab9b23ccc8878f8a4aefe7d15a3f8393b"
+    },
+    {
+      "paperId": "e71c56074281dceb2c8c15ec099435ac82c34616"
+    },
+    {
+      "paperId": "093632b1319bffc2409555f02527c72f9e1a420d"
+    },
+    {
+      "paperId": "4282559fb679c5b0c1ed256c9fce580e4aa7aa2b"
+    },
+    {
+      "paperId": "b9373f9f106c7e2cac7f259bf964d932e4dfbb8e"
+    },
+    {
+      "paperId": "48b3102425b0ab23ef82b4a5ac7547e069df60d8"
+    },
+    {
+      "paperId": "e1a9f303c2e89970c624380b89546e1babb08da9"
+    },
+    {
+      "paperId": "f943af114db71c6a712cf789b2fc4848407bdced"
+    },
+    {
+      "paperId": "9b408fe3231430c110f46fcd2fa75f84d8f19f48"
+    },
+    {
+      "paperId": "46a30c14d16a87c051caa12223ede8da5c661d35"
+    },
+    {
+      "paperId": "edd90b2e8da024163c96d5fb4f2a94a338e3a3f3"
+    },
+    {
+      "paperId": "07836fdbf066382e23c505174129ce099d86b102"
+    },
+    {
+      "paperId": "58b0bb9fef47eb9a6e70ab1e87695b25a6fa38e9"
+    },
+    {
+      "paperId": "aa55e390ed8c47695e62f1d27dead254abf52aba"
+    },
+    {
+      "paperId": "7c07d1f52ef92d0590591539d5a1eabcb8942fd1"
+    },
+    {
+      "paperId": "4d6058806c1c0f35059a729b3dfd120556a7b978"
+    },
+    {
+      "paperId": "397851e47ac48d9838cb5643985df613d8f56051"
+    },
+    {
+      "paperId": "2890fd7e38335ee369d6c842b3d4ccc66d18d3d4"
+    },
+    {
+      "paperId": "adbe76a937270c76d50c1cd956be447271c3a8f0"
+    },
+    {
+      "paperId": "b32f91f62494b3ba16897be3f55e6543bed844a2"
+    },
+    {
+      "paperId": "a3b29763fa0d006ccd428f4511da75c5fd87b263"
+    },
+    {
+      "paperId": "0ef24aaee15f8918a5f3b033ec9b094ba1e48941"
+    },
+    {
+      "paperId": "0cec54941a499080f9796b9fd6501e6959641309"
+    },
+    {
+      "paperId": "ce73676f74beefeda0cd195a4e4a6b8737824adb"
+    },
+    {
+      "paperId": "6fa16f9d4e50a6923b4d0525ffe3057147a2c4d3"
+    },
+    {
+      "paperId": "ce401eb49e832fbc770445ad795f48a527526ff4"
+    },
+    {
+      "paperId": "46f0252ddadded7a111d46e7bde0a217ca225768"
+    },
+    {
+      "paperId": "358b566185ce32102a57add38c3972a4ae4fc960"
+    },
+    {
+      "paperId": "52e127f2852c3c6bb5457634c280406f6438a86b"
+    },
+    {
+      "paperId": "f39617a710229026ef9dc4e4e89f3e617735d170"
+    },
+    {
+      "paperId": "17bbaf2bc96f8bcf75144485ff49b6a8c7c440ae"
+    },
+    {
+      "paperId": "79ff9637709f3240e6af640a34b4ec62bac320b3"
+    },
+    {
+      "paperId": "4d54f07d9f505dc4b1073c126c81c061b8af32d1"
+    },
+    {
+      "paperId": "4c9a5e864b83fc325622b22097791266f4e20466"
+    },
+    {
+      "paperId": "7b9f8bd1b3ea826d1cc3713e9ae0b29d718c473f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

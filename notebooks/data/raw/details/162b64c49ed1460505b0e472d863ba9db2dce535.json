@@ -1,0 +1,244 @@
+{
+  "paperId": "162b64c49ed1460505b0e472d863ba9db2dce535",
+  "externalIds": {
+    "MAG": "2912649082",
+    "PubMedCentral": "6353194",
+    "DOI": "10.1371/journal.pone.0211417",
+    "CorpusId": 64291591,
+    "PubMed": "30699193"
+  },
+  "url": "https://www.semanticscholar.org/paper/162b64c49ed1460505b0e472d863ba9db2dce535",
+  "title": "How many to sample? Statistical guidelines for monitoring animal welfare outcomes",
+  "venue": "PLoS ONE",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0211417&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6353194, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "6218849",
+      "name": "J. Hampton"
+    },
+    {
+      "authorId": "13575639",
+      "name": "D. MacKenzie"
+    },
+    {
+      "authorId": "48297858",
+      "name": "D. Forsyth"
+    }
+  ],
+  "abstract": "There is increasing scrutiny of the animal welfare impacts of all animal use activities, including agriculture, the keeping of companion animals, racing and entertainment, research and laboratory use, and wildlife management programs. A common objective of animal welfare monitoring is to quantify the frequency of adverse animal events (e.g., injuries or mortalities). The frequency of such events can be used to provide pass/fail grades for animal use activities relative to a defined threshold and to identify areas for improvement through research. A critical question in these situations is how many animals should be sampled? There are, however, few guidelines available for data collection or analysis, and consequently sample sizes can be highly variable. To address this question, we first evaluated the effect of sample size on precision and statistical power in reporting the frequency of adverse animal welfare outcomes. We next used these findings to assess the precision of published animal welfare investigations for a range of contentious animal use activities, including livestock transport, horse racing, and wildlife harvesting and capture. Finally, we evaluated the sample sizes required for comparing observed outcomes with specified standards through hypothesis testing. Our simulations revealed that the sample sizes required for reasonable levels of precision (i.e., proportional distance to the upper confidence interval limit (δ) of ≤ 0.50) are greater than those that have been commonly used for animal welfare assessments (i.e., >300). Larger sample sizes are required for adverse events with low frequency (i.e., <5%). For comparison with a required threshold standard, even larger samples sizes are required. We present guidelines, and an online calculator, for minimum sample sizes for use in future animal welfare assessments of animal management and research programs.",
+  "references": [
+    {
+      "paperId": "e7e0cb2490363e784436d7149da864d041a6e243"
+    },
+    {
+      "paperId": "768bb905312e0b4f4bad06e204b146f8d3df2d0d"
+    },
+    {
+      "paperId": "52b2831edba8e4f311ccfbb79051ae3b0f3b1d02"
+    },
+    {
+      "paperId": "150dc9e695dcb9549a9a7bb7b929d9ca10e9f483"
+    },
+    {
+      "paperId": "c4f4d6223c36563c555ef38a0b0b3e72be70f00e"
+    },
+    {
+      "paperId": "eb4ccb6e21a5df69dc4f677ac9aa6a4ff6047615"
+    },
+    {
+      "paperId": "57118ef3a0935038f726aeee8c637fc10209ba7e"
+    },
+    {
+      "paperId": "3367be1dcb11f7daf5f4f3e2b7e69c1c2c13f9cb"
+    },
+    {
+      "paperId": "b8a30ef60174e339802ccde3525d8b69e96bfda7"
+    },
+    {
+      "paperId": "7fe865314b7b40883609bdd474957ff1011079c2"
+    },
+    {
+      "paperId": "ae711864203b2416cd14186f0c44da2b194b6d61"
+    },
+    {
+      "paperId": "4a6c4bd1b606df116b37a1cfd2093d8935b4e715"
+    },
+    {
+      "paperId": "1fab2fa4978a63705b7e1de7753cad8c3deac3c6"
+    },
+    {
+      "paperId": "b4a267e6bb5eb8af63de638648bdfd21d04dfc31"
+    },
+    {
+      "paperId": "2240321861c53704b69faabd06dda9fcf3edb2ab"
+    },
+    {
+      "paperId": "e61299d3fa26239ede4b7d9830634edf4a03912a"
+    },
+    {
+      "paperId": "0b5328f81d7a10c5b4565d03f90bd7e04d3f6739"
+    },
+    {
+      "paperId": "c4279069caf5d383e4531b2aae48461feedea354"
+    },
+    {
+      "paperId": "77a97ff7a98cb7a3b9e362e192e1cbbbee1f2ec9"
+    },
+    {
+      "paperId": "1a634f43c4b540a621a8e7ec3af499e8222a9a07"
+    },
+    {
+      "paperId": "926c1d19f8ef98597334d788c967cda9b23e43b3"
+    },
+    {
+      "paperId": "53044365dc2aa6996a790281039b21a6079e4a8b"
+    },
+    {
+      "paperId": "d284ca7f752f8555994df5ce6273e3b75384dbf6"
+    },
+    {
+      "paperId": "25df392c560125d805e0723228ef1336786c4c34"
+    },
+    {
+      "paperId": "0c1c69db96a6a8fb9ae70c2e777134f0fc046371"
+    },
+    {
+      "paperId": "9e17e96a723c7b28ac666e8e95956938403227bd"
+    },
+    {
+      "paperId": "b353c24e42643d1a3df39ddd251e5e26b8fdbd2f"
+    },
+    {
+      "paperId": "cd4cf5b72fa049d5b3cf1d4ea8886221cb027ce2"
+    },
+    {
+      "paperId": "2e62f5bcb131ff423a6211be5a420c473fd388f0"
+    },
+    {
+      "paperId": "d0dd47fb06fb7efc0f6191c96b0b965766ec04c7"
+    },
+    {
+      "paperId": "997d139ff7f3217e429a5408816372918a602d1b"
+    },
+    {
+      "paperId": "750087a6d587217e9fc9ae659ee6f317de2e8f64"
+    },
+    {
+      "paperId": "a677c3a1198e5ecbee869ef1f92b5edecc4932cd"
+    },
+    {
+      "paperId": "5eb69c717e3281791d7f6027af8a186043c8cb58"
+    },
+    {
+      "paperId": "f35404b1f296b49d6be0a3408e3488692ca539e7"
+    },
+    {
+      "paperId": "7d244570800a8bf9d57ca16b71b352c37f9048e4"
+    },
+    {
+      "paperId": "2b75e5dc143ada58e9018b51e1e7d2f08c0ce443"
+    },
+    {
+      "paperId": "5d099772c62a610b1dc8c93e2f75a9bf001fdfbe"
+    },
+    {
+      "paperId": "ed6246c7bda1340a02e41d737d73053cacaa3871"
+    },
+    {
+      "paperId": "0637d2950b23f254ab2dceca485733324d998976"
+    },
+    {
+      "paperId": "9e201901b74ecdab597526a4642d5d992ac3f848"
+    },
+    {
+      "paperId": "f6e4f22627ef01cfd86ba2ec117eaef6eb2ab405"
+    },
+    {
+      "paperId": "166c42895882039e4252f7c943efa13d0505109f"
+    },
+    {
+      "paperId": "b14f4269f09ef77ad310581ea82d502402d90fb9"
+    },
+    {
+      "paperId": "00bf3c809e582d2f3fe1bc6ca08866b879de935d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "72f0ee222b6021b36d48e4f4014a3ebe0764cd3e"
+    },
+    {
+      "paperId": "c77d67941c9ebcc3ebcd744f566ab3870858acea"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b194612f7ae05fed2bfc8f557a2685ff716d6e39"
+    },
+    {
+      "paperId": "b24d6283ef67c893402b75a91140de3798b4e378"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dc4d1fde753525fe10a59b9b2a0fe70c126adae2"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4c30e09d72f43100974da4681967e66e6532f7ec"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ce4f6c3720e142eaa945e71b7871cd2d5a14fdf7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e79bc94da6cd2672e67eb4dee0d1891197bd3f0c"
+    },
+    {
+      "paperId": "1dfdb255bfc374ec684bd86832a2969960fbd9cb"
+    },
+    {
+      "paperId": "bba7c19d3847a15c8799ac60214018c63c03f6b3"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "paperId": "8abea65eb9ed70cd3580ef326b97dd610f6adc6e",
+  "externalIds": {
+    "MAG": "2887636962",
+    "PubMedCentral": "6111834",
+    "DBLP": "journals/sensors/Erazo-RodasSMHR18b",
+    "DOI": "10.3390/s18082557",
+    "CorpusId": 51932102,
+    "PubMed": "30081567"
+  },
+  "url": "https://www.semanticscholar.org/paper/8abea65eb9ed70cd3580ef326b97dd610f6adc6e",
+  "title": "Multiparametric Monitoring in Equatorian Tomato Greenhouses (III): Environmental Measurement Dynamics",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/8/2557/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6111834, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403968481",
+      "name": "Mayra Erazo-Rodas"
+    },
+    {
+      "authorId": "1405458068",
+      "name": "Mary Sandoval-Moreno"
+    },
+    {
+      "authorId": "1397324845",
+      "name": "Sergio Muñoz-Romero"
+    },
+    {
+      "authorId": "31546670",
+      "name": "Mónica Huerta"
+    },
+    {
+      "authorId": "1405458079",
+      "name": "D. Rivas-Lalaleo"
+    },
+    {
+      "authorId": "1397324809",
+      "name": "J. Rojo-álvarez"
+    }
+  ],
+  "abstract": "World population growth currently brings unequal access to food, whereas crop yields are not increasing at a similar rate, so that future food demand could be unmet. Many recent research works address the use of optimization techniques and technological resources on precision agriculture, especially in large demand crops, including climatic variables monitoring using wireless sensor networks (WSNs). However, few studies have focused on analyzing the dynamics of the environmental measurement properties in greenhouses. In the two companion papers, we describe the design and implementation of three WSNs with different technologies and topologies further scrutinizing their comparative performance, and a detailed analysis of their energy consumption dynamics is also presented, both considering tomato greenhouses in the Andean region of Ecuador. The three WSNs use ZigBee with star topology, ZigBee with mesh topology (referred to here as DigiMesh), and WiFi with access point topology. The present study provides a systematic and detailed analysis of the environmental measurement dynamics from multiparametric monitoring in Ecuadorian tomato greenhouses. A set of monitored variables (including CO2, air temperature, and wind direction, among others) are first analyzed in terms of their intrinsic variability and their short-term (circadian) rhythmometric behavior. Then, their cross-information is scrutinized in terms of scatter representations and mutual information analysis. Based on Bland–Altman diagrams, good quality rhythmometric models were obtained at high-rate sampling signals during four days when using moderate regularization and preprocessing filtering with 100-coefficient order. Accordingly, and especially for the adjustment of fast transition variables, it is appropriate to use high sampling rates and then to filter the signal to discriminate against false peaks and noise. In addition, for variables with similar behavior, a longer period of data acquisition is required for the adequate processing, which makes more precise the long-term modeling of the environmental signals.",
+  "references": [
+    {
+      "paperId": "4715a7daaf37aef053371401a48f7ca87ef1bb18"
+    },
+    {
+      "paperId": "9114229efd87dbcd8ec1a17d5ac2d69641c1546b"
+    },
+    {
+      "paperId": "8966857125cf1164d2c8ee5da3001bfd4201684b"
+    },
+    {
+      "paperId": "2cdac063bfe8862833e0204f3017c9d928389934"
+    },
+    {
+      "paperId": "3454383fae799ea50fb9e46083e38ae7e3656844"
+    },
+    {
+      "paperId": "e5e214c769279b3f2ee79c22a4a79dd688eedd7b"
+    },
+    {
+      "paperId": "bb9984468aad8b68b09cb1affa7cb051e2bf5397"
+    },
+    {
+      "paperId": "09be312992dbc229b60fddecd6f9d66d1034278b"
+    },
+    {
+      "paperId": "9fe8651f0a5f16ecaaf7eef1f63d8d48e59d351e"
+    },
+    {
+      "paperId": "08e9467a8640151e1ce4695a95f4eae457a65abb"
+    },
+    {
+      "paperId": "a908471333e02810e593fb02f4e559b4e0f7c2ad"
+    },
+    {
+      "paperId": "a51034d6cda97671b987990c43bfe5b263b2205d"
+    },
+    {
+      "paperId": "6d7b34023f55afb0f17e009087329fad75d7b4c9"
+    },
+    {
+      "paperId": "77f2af2c2fd2ff1315aeee4c229617bbbfbc5206"
+    },
+    {
+      "paperId": "651444cec6baffabefe2a4447387ba0109acd52b"
+    },
+    {
+      "paperId": "342715a90fd0f991aeb90458e01b511dfcff24c4"
+    },
+    {
+      "paperId": "b23050665f55bc514e84bb58b7c7760b31e05ba5"
+    },
+    {
+      "paperId": "e5a4dd314d33f38c8ebd1dcbe78f0f273afd1f18"
+    },
+    {
+      "paperId": "8cc242b3e725836be9707a00f1e7d0b291ee4959"
+    },
+    {
+      "paperId": "cbf80e09a88a48e8d833d349fc2c5da715624b8b"
+    },
+    {
+      "paperId": "00bc269b96b5856aae73d200661b44de5b73f753"
+    },
+    {
+      "paperId": "ed9bb6187a1d3d33ba4c8cd13154c07402ee0074"
+    },
+    {
+      "paperId": "55e34b8bf6564f78d2382369c6ba37e812f76eed"
+    },
+    {
+      "paperId": "626bc15c35c6653a8e5e477955437235fd78d169"
+    },
+    {
+      "paperId": "0b84e60792bfb15ff3db36d7286ea372049a71b6"
+    },
+    {
+      "paperId": "1af3e390aeba3f45da445a5db0d9e398c02b3083"
+    },
+    {
+      "paperId": "ee86b6346d8d4fcd35fabee7c55684fe2939c7ca"
+    },
+    {
+      "paperId": "9112d6a489ed40202f49afddc3f085e9ca2f94f4"
+    },
+    {
+      "paperId": "9ce5f4bd2695f9f6bc062100a619076f5997724a"
+    },
+    {
+      "paperId": "6a9cb3072c9f8938bad2fbf95fecb90a0ceaf197"
+    },
+    {
+      "paperId": "76225b33ad3d4bbed65405976a37ffed0a65dd65"
+    },
+    {
+      "paperId": "7e6505d4b0d039f5e731287dcec5e641924ffcc7"
+    },
+    {
+      "paperId": "c1d41e20d42e2f617d453c6c229a17d5812def2c"
+    },
+    {
+      "paperId": "1444a7ff60124b76daee9f83f642a952e6d2d80a"
+    },
+    {
+      "paperId": "179bd2ddc8d52535512e719a75f79000c1dc84c0"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "46195648f1d66f4a1fb0cd22ebb5d4d196157ac8"
+    },
+    {
+      "paperId": "415e636958a0cab98413f7137f57397387e17cfd"
+    },
+    {
+      "paperId": "de1df7a47b01338400ea1aa6ad35d2611a571366"
+    },
+    {
+      "paperId": "2eccb15df8d9654e7376e3c04aa30303cb8f485b"
+    },
+    {
+      "paperId": "f16773fe6f8378cefe9fb70698a261704cb76938"
+    },
+    {
+      "paperId": "40f6d96e20969b06a39988759561831355e55215"
+    },
+    {
+      "paperId": "2d743ab0a7d199a4f4431cb2a5edcebe7669bd97"
+    },
+    {
+      "paperId": "c6f484eeda78cf408785bb5f3d87fec546c4cbf3"
+    },
+    {
+      "paperId": "63ec3bd7a316868f729e3000f9b9ddef759a14a5"
+    },
+    {
+      "paperId": "9bf0b30a37e9311f95c544b427d1d91e5fadeb8a"
+    },
+    {
+      "paperId": "cb9349686fd1d40a72b393c8ccb53b208e48e578"
+    },
+    {
+      "paperId": "7b732cf497a5592c1b9417017e27f89f9bb78a0c"
+    },
+    {
+      "paperId": "8994dc7651f85fe6b20f3adca23fab2f73a70b9f"
+    },
+    {
+      "paperId": "08209cd6c7be10002b4d27774faebf47f0a92ed9"
+    },
+    {
+      "paperId": "dc6c96a80aa7e8db855ac33ed63e4a4409cf90a1"
+    },
+    {
+      "paperId": "fe146d9724c86c49e735b464e4d4c6aabd1f6735"
+    },
+    {
+      "paperId": "231ae2d5ddc28536867a2847ba138827493d3690"
+    },
+    {
+      "paperId": "7dbdb4209626fd92d2436a058663206216036e68"
+    },
+    {
+      "paperId": "0ddf5868c0b780fe12c74e1e327b0311b33f734e"
+    },
+    {
+      "paperId": "3a5d47c1dbea892d54d55dbf3bd63eb3bebd6328"
+    },
+    {
+      "paperId": "a36f45c416db3de94cbad33bc6d4bec114905136"
+    },
+    {
+      "paperId": "a255d273ad0b390896e06549a508fb63d96e1f6d"
+    },
+    {
+      "paperId": "93ce161a04bb487a200e64bc08f2d6cf9a11a5d3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bb7da53c0cc951202f4d3da550eb38fc13e51e1d"
+    },
+    {
+      "paperId": "f39070f1f5c607a8372bc3d160cbdad8a1c370e4"
+    },
+    {
+      "paperId": "478b93caeb252122b8261f85a7cf8bf27fa6b91d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "30672cbf29b2940d16a03646b6682dc712f92086"
+    },
+    {
+      "paperId": "593a9b1741ed96e38052e39e776b47fd9a0b4019"
+    },
+    {
+      "paperId": "75f8a4d7ed6a0f32fa098cac967de247938d9ce5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bd077438e0ccdd7221d1cd088e3d6542f0b5a4c0"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

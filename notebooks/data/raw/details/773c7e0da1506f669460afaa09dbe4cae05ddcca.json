@@ -1,0 +1,48 @@
+{
+  "paperId": "773c7e0da1506f669460afaa09dbe4cae05ddcca",
+  "externalIds": {
+    "MAG": "2804414709",
+    "DBLP": "journals/ijprai/WangXMZ18",
+    "DOI": "10.1142/S0218001418540290",
+    "CorpusId": 54445614
+  },
+  "url": "https://www.semanticscholar.org/paper/773c7e0da1506f669460afaa09dbe4cae05ddcca",
+  "title": "Feature Extraction Based on Dimension Reduction and Clustering for Maize Leaf Spot Images",
+  "venue": "International journal of pattern recognition and artificial intelligence",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1142/S0218001418540290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/S0218001418540290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2108226060",
+      "name": "Xue Wang"
+    },
+    {
+      "authorId": "9326499",
+      "name": "Qiuju Xie"
+    },
+    {
+      "authorId": "9333765",
+      "name": "Tiemin Ma"
+    },
+    {
+      "authorId": "2454067",
+      "name": "Jingfu Zhu"
+    }
+  ],
+  "abstract": "Image recognition and feature extraction play an important role in precision agriculture. In this paper, a manifold learning algorithm was used for dimension reduction of gray and RGB color images. To clarify the boundaries of disease spots and leaf background, three clustering algorithms were applied in experiments to realize clearer maize leaf disease images. Locally, linear embedding (LLE) and Gustafson–Kessel (GK) algorithms were selected to realize image feature extraction. It was shown that the recognition rate of feature extraction for gray and color images were 95% and 99%, respectively.",
+  "references": null
+}

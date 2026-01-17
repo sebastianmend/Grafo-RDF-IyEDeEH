@@ -1,0 +1,130 @@
+{
+  "paperId": "0dbe512bb3263c84f9d6f2c27ce22b613f2e5bd0",
+  "externalIds": {
+    "MAG": "2912206730",
+    "DOI": "10.1111/JFBC.12778",
+    "CorpusId": 104356511,
+    "PubMed": "31353597"
+  },
+  "url": "https://www.semanticscholar.org/paper/0dbe512bb3263c84f9d6f2c27ce22b613f2e5bd0",
+  "title": "Simultaneous determination of saflufenacil and three metabolites in five agriculture products using liquid chromatography-Tandem mass spectrometry.",
+  "venue": "Journal of food biochemistry",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1111/jfbc.12778",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/JFBC.12778?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/JFBC.12778, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "143978217",
+      "name": "Chi Wu"
+    },
+    {
+      "authorId": "1751498",
+      "name": "Xingang Liu"
+    },
+    {
+      "authorId": "48661318",
+      "name": "Xiaohu Wu"
+    },
+    {
+      "authorId": "1688479",
+      "name": "F. Dong"
+    },
+    {
+      "authorId": "28686573",
+      "name": "Jun Xu"
+    },
+    {
+      "authorId": "65787211",
+      "name": "Yunxi Zheng"
+    },
+    {
+      "authorId": "86963894",
+      "name": "Yongquan Zheng"
+    }
+  ],
+  "abstract": "A reliable and efficient method was firstly established for the simultaneous determination of saflufenacil and its metabolites (M800H02, M800H11 and M800H35) in cereals (soybean and corn) and fruits (apple, grape and orange), based on a triple quadrupole liquid chromatography mass spectrometer. The four target compounds were extracted with acetonitrile and purified by Florisil or Florisil with octadecylsilane from the cereals and fruits. Determination of the targets was achieved within 3.5 min by using Shim-pack GIST C18 column connected to an electrospray ionization source (ESI- mode). The method showed excellent linearity (R2  > 0.9984), and the limits of quantitation were 1 µg/kg for all compounds. Average recoveries were in the range of 74.6%-108.1%, with an intra-day relative standard deviation between 0.9% and 18.3%. The inter-day relative standard deviation was less than 13.8%. The results demonstrate that this method is convenient for monitoring the residues of saflufenacil and its metabolites in food matrices. PRACTICAL APPLICATIONS: Saflufenacil controls many common annual broadleaf weed efficiently, it has been developed and launched into the market by domestic enterprises. Consequently, an analysis method for monitoring saflufenacil in food sample will be urgently needed in China over the next few years. This method provides separation with good specificity within 3.5 min, which is less than previous studies. For the five matrixes, the method presented satisfactory validation parameters in terms of good linearity, low limit of quantitations, and satisfactory accuracy and precision. Therefore, the method established in this study is a valuable tool to overcome gaps in determining saflufenacil and its metabolites in cereals and fruits, in order to accurate evaluation of risk and ensure food safety.",
+  "references": [
+    {
+      "paperId": "44aed504bdafdc35d1483f179fcace0546555d11"
+    },
+    {
+      "paperId": "13c3db74e5ff7f13a218da3485d0d423bf6be67c"
+    },
+    {
+      "paperId": "6e16d8b1570c1349f55ef829fda8fbbd7b715105"
+    },
+    {
+      "paperId": "17d0a53ce785a0582c0b84400ecbeea933cd0358"
+    },
+    {
+      "paperId": "b9033298021d4e9c9b0c514353eba49b40962486"
+    },
+    {
+      "paperId": "16aeccb4542db34646cf55fcf777a81c3eb7182a"
+    },
+    {
+      "paperId": "33b037a88f81fa5b17cd236a2e7d889f74ba17a5"
+    },
+    {
+      "paperId": "692c5c8da51631dd05873a15daa70240474c720d"
+    },
+    {
+      "paperId": "455693d02b893cc370a54a4dfd229a0a5439675e"
+    },
+    {
+      "paperId": "77a3246cb6879fdd3fd407a2b0970ea8981d5200"
+    },
+    {
+      "paperId": "72e3a400a1a19c611809a8f975b6c59a02424d9b"
+    },
+    {
+      "paperId": "22dcc5ca8a4f518f2464d5064de57290d2c8fc86"
+    },
+    {
+      "paperId": "b6ade395b0a67e1ac0389596c0296957426c8cd3"
+    },
+    {
+      "paperId": "844ce3721476c3f35f32b91b718254856467e399"
+    },
+    {
+      "paperId": "409bf358d8b9a07cf8321190a8bb9a7deed5a927"
+    },
+    {
+      "paperId": "55b6f6313e0a33058108da7eb724254b906704ec"
+    },
+    {
+      "paperId": "f3d841cd788219d68437b7a129b31d721ed0ac7b"
+    },
+    {
+      "paperId": "e72505ceb0c03d5df1720c41c8a934d7c3953ecc"
+    },
+    {
+      "paperId": "9d109f84ee23904d29633dad79afe39f39aa0a17"
+    },
+    {
+      "paperId": "790d311e4a724e8e83e29e24fb3c63bbee930dee"
+    },
+    {
+      "paperId": "1fecf2ab71f5d87e3bba0345474fe10bcd308dd7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

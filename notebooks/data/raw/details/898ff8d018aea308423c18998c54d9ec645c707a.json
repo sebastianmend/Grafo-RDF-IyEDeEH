@@ -1,0 +1,233 @@
+{
+  "paperId": "898ff8d018aea308423c18998c54d9ec645c707a",
+  "externalIds": {
+    "MAG": "2906218649",
+    "DOI": "10.1016/J.ENVSCI.2018.12.014",
+    "CorpusId": 158757417
+  },
+  "url": "https://www.semanticscholar.org/paper/898ff8d018aea308423c18998c54d9ec645c707a",
+  "title": "Influencing factors and incentives on the intention to adopt precision agricultural technologies within arable farming systems",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 107,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.envsci.2018.12.014",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ENVSCI.2018.12.014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ENVSCI.2018.12.014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40131559",
+      "name": "A. Barnes"
+    },
+    {
+      "authorId": "144515119",
+      "name": "I. Soto"
+    },
+    {
+      "authorId": "15316637",
+      "name": "V. Eory"
+    },
+    {
+      "authorId": "31994941",
+      "name": "B. Beck"
+    },
+    {
+      "authorId": "77736437",
+      "name": "A. Balafoutis"
+    },
+    {
+      "authorId": "144943521",
+      "name": "B. Sánchez"
+    },
+    {
+      "authorId": "3470358",
+      "name": "J. Vangeyte"
+    },
+    {
+      "authorId": "15315211",
+      "name": "S. Fountas"
+    },
+    {
+      "authorId": "100735411",
+      "name": "T. V. D. Wal"
+    },
+    {
+      "authorId": "1401285432",
+      "name": "M. Gómez-Barbero"
+    }
+  ],
+  "abstract": null,
+  "references": [
+    {
+      "paperId": "4dbd3cd350e6927ee220b8e256dfd21131d2ff34"
+    },
+    {
+      "paperId": "0670a318ac60f78a1472b6bd719171337dc984c4"
+    },
+    {
+      "paperId": "f588f3773609bb24c880c225a3eae701fbb1d3d3"
+    },
+    {
+      "paperId": "34eb772fe1ae51040f84eb6eef943303ab586467"
+    },
+    {
+      "paperId": "9a8ce143e13c61e201cfbcb7353664b456ec9436"
+    },
+    {
+      "paperId": "122148b59dfa2a16c30827271e205a0fd860a2eb"
+    },
+    {
+      "paperId": "5b2ffc3e3b6232b996ecf9708a12b57e8b3a2f15"
+    },
+    {
+      "paperId": "242dc9cf92967143b345e7d907e337a942b5578c"
+    },
+    {
+      "paperId": "fcdae95d2d3b3e9b4f42656e3e30950c3ce860b4"
+    },
+    {
+      "paperId": "92687ff2be5f0da823f653aa6afa2cf7a0e940f1"
+    },
+    {
+      "paperId": "589cb8726caf35b1e7f4cf7fd4cd512d485226de"
+    },
+    {
+      "paperId": "047c65f8e90c70f983d962fa429b9879d402b5ac"
+    },
+    {
+      "paperId": "a82ac5d4dd6608453df5b99422dd0d6b1a0a1c7c"
+    },
+    {
+      "paperId": "604019aa73c9b6501ae9d83d666cfc462db05629"
+    },
+    {
+      "paperId": "866288906ffb643ff9121c61d8c31f91170d4460"
+    },
+    {
+      "paperId": "32524fb4ead3462ba9dec59f75e2a00609cce74f"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "6b5837305889a995c74045a52583b1b9e7bda16b"
+    },
+    {
+      "paperId": "9a33560ec685ff2253f9e1c98a25bff59f086b04"
+    },
+    {
+      "paperId": "5a61a2f2801b8d2e8bcafd2bea03d11e01491983"
+    },
+    {
+      "paperId": "5fb99239f5badaebcd7dd6d4dbc9430ac0f684d8"
+    },
+    {
+      "paperId": "2d743ab0a7d199a4f4431cb2a5edcebe7669bd97"
+    },
+    {
+      "paperId": "7fc0cd794ca1e480ba14cb5ee1a47b4f9de039d4"
+    },
+    {
+      "paperId": "48d628db45cf31e92769c5870a4c7eae0b8774fc"
+    },
+    {
+      "paperId": "d182bc3cb9985219586a1527b9ef93b1bdcbb83b"
+    },
+    {
+      "paperId": "89284d0935e9ce0b62463a8da5af2dfbd5f75c54"
+    },
+    {
+      "paperId": "7a484e3c122d88c22806f6dde2d6c9aa39229269"
+    },
+    {
+      "paperId": "1c846e0cd11c214f7dc2bb9c0b84491882525640"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "a2766f443d222250ec20066f27ed6c4e5a87c142"
+    },
+    {
+      "paperId": "ebb3c807c4d89c3a09a84507412a94336366d47b"
+    },
+    {
+      "paperId": "ec8a2e3991dfcb52a4272057f39e2ba6b6af2b14"
+    },
+    {
+      "paperId": "d7acd75d8dd4f4d262e1c95990b2764da46b1ede"
+    },
+    {
+      "paperId": "69509db3f4cfc314a6577d6dc86dc45d4ea50b08"
+    },
+    {
+      "paperId": "7998ee1637e9ddba8f20ecfb4fdd2cc78fafddee"
+    },
+    {
+      "paperId": "65057e914f15e90553fefa69aaf981026a3034a1"
+    },
+    {
+      "paperId": "c3cd1ed63eadb74cfc14d08cdaa132968337e2cb"
+    },
+    {
+      "paperId": "050db302ab8c2b674c6e5fde255442764e51e817"
+    },
+    {
+      "paperId": "a562b6f0a349ca21824c490dfdad5b2285a693c7"
+    },
+    {
+      "paperId": "910d35b3545e73e127787f14a45f927745265aa9"
+    },
+    {
+      "paperId": "221e99de95b59c2145491eb80c7600a7d9ae2c8d"
+    },
+    {
+      "paperId": "f23b66902a0562b60310c76ecd884f53159bb79f"
+    },
+    {
+      "paperId": "c789561d00488ce84042a4da753914ec0beabeed"
+    },
+    {
+      "paperId": "2a881e5b072a8b981c2914cec5f8d74a1cb0d672"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "e576e50942538d8831afe5b77d746466220b175a"
+    },
+    {
+      "paperId": "ba78bf841cdc71f93eb75cd3d06a1b9d9b9fa0c0"
+    },
+    {
+      "paperId": "c9594841f5cac22104b6b133b66688ba10211099"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "ac097aa3bdeeda4320b37e64509e7899649bf018"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0b626df8459026f85a885eafa998ee8255be9126"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "731df2bb791c3fa221ca9498bfe43bb04b698357"
+    }
+  ]
+}

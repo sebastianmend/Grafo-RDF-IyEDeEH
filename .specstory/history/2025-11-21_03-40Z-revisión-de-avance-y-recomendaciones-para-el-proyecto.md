@@ -4061,3 +4061,795 @@ Ahora puedes incluir en tu informe:
 
 ---
 
+_**User (2025-11-21 12:20Z)**_
+
+Necesito que me expliques el code del notebook
+
+---
+
+_**Agent (model claude-4.5-sonnet-thinking, mode Agent)**_
+
+<think><details><summary>Thought Process</summary>
+El usuario quiere que le explique el código del notebook. Voy a leer el notebook y dar una explicación clara y organizada de cada sección.</details></think>
+
+---
+
+Perfecto, te voy a explicar el notebook completo de forma estructurada. Voy a leerlo y explicar cada parte:
+
+---
+
+<tool-use data-tool-type="read" data-tool-name="read_file">
+<details><summary>Tool use: **read_file** • Read file: notebooks/01_extraccion_precision_agri.ipynb</summary>
+
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Voy a hacer un resumen completo explicando cada celda del notebook de forma clara y didáctica.</details></think>
+
+---
+
+Te explico el notebook completo de forma clara y organizada:
+
+---
+
+# 📘 Explicación del Notebook: `01_extraccion_precision_agri.ipynb`
+
+## 🎯 Objetivo General
+Extraer 1,000 papers sobre "precision agriculture" desde Semantic Scholar, enriquecerlos con metadatos detallados, construir un grafo de citaciones, y exportar todo a CSVs.
+
+---
+
+## 📍 **CELDA 0: Configuración de Rutas**
+
+```python
+import sys
+from pathlib import Path
+# Busca dónde está la carpeta 'src' y la agrega al path de Python
+```
+
+**¿Qué hace?**
+- Encuentra la carpeta `src/` (donde está tu código reutilizable)
+- La agrega a `sys.path` para poder importar módulos desde ahí
+- Funciona sin importar desde dónde ejecutes el notebook (raíz o carpeta notebooks/)
+
+**Por qué es importante:** Permite usar `from src.config import settings` sin errores.
+
+---
+
+## 📍 **CELDA 1: Importaciones y Verificación de API Key**
+
+```python
+from src.config import settings
+from src.semanticscholar_client import SemanticScholarClient
+from src.etl import search_until_target, fetch_details, to_nodes_edges...
+```
+
+**¿Qué hace?**
+1. Importa las funciones de ETL desde `src/`
+2. Verifica si tu API key de Semantic Scholar está cargada desde `.env`
+3. Muestra ✅ si está bien o ❌ si falta
+
+**Salida esperada:**
+```
+API Key cargada: ✅ Sí
+```
+
+---
+
+## 📍 **CELDA 2: Definición de Parámetros**
+
+```python
+QUERY = "precision agriculture"          # Término de búsqueda
+YEAR = "2010-"                           # Solo papers desde 2010
+PUB_TYPES = "JournalArticle,Conference..." # Tipos de publicación
+TARGET = 1000                            # Queremos 1000 papers
+```
+
+**¿Qué hace?**
+Define los **filtros** que usarás en la API de Semantic Scholar:
+
+| Parámetro | Valor | Propósito |
+|-----------|-------|-----------|
+| `QUERY` | "precision agriculture" | Búsqueda de papers |
+| `YEAR` | "2010-" | Papers desde 2010 hasta hoy |
+| `PUB_TYPES` | JournalArticle, Conference... | Solo ciertos tipos |
+| `FIELDS_SEARCH` | title, year, url... | Campos en búsqueda inicial |
+| `FIELDS_DETAILS` | paperId, abstract, authors... | Campos detallados por paper |
+| `TARGET` | 1000 | Meta de papers a extraer |
+| `SORT` | "publicationDate" | Ordenar por fecha |
+
+**Salida:**
+```
+🔍 Query: precision agriculture
+📅 Año: 2010-
+📚 Tipos: JournalArticle,Conference,Review,Proceedings,Survey
+🎯 Target: 1000 papers
+```
+
+---
+
+## 📍 **CELDA 3: Búsqueda Inicial (1000 papers)**
+
+```python
+client = SemanticScholarClient()
+df_search = search_until_target(
+    client=client,
+    query=QUERY,
+    year=YEAR,
+    publication_types=PUB_TYPES,
+    fields=FIELDS_SEARCH,
+    sort=SORT,
+    target=TARGET,
+    max_pages=MAX_PAGES
+)
+```
+
+**¿Qué hace?**
+1. Crea un cliente HTTP para conectarse a Semantic Scholar
+2. Llama a `/paper/search/bulk` con tus filtros
+3. **Pagina automáticamente** hasta conseguir 1,000 papers únicos
+4. Maneja **rate limits** y **duplicados**
+5. Guarda cada página en `data/raw/search_page_X.json`
+
+**Proceso interno:**
+```
+Página 1: recibe 1000 papers → todos únicos → ¡LISTO!
+```
+
+**Salida:**
+```
+🔍 Iniciando búsqueda: target=1000, max_pages=30
+   Página 1: 1000 papers recibidos, 1000 únicos acumulados
+✅ Búsqueda completada: 1000 papers únicos obtenidos en 1 páginas
+```
+
+**Resultado:** DataFrame `df_search` con 1,000 filas × 7 columnas básicas
+
+---
+
+## 📍 **CELDA 4: Vista Previa**
+
+```python
+df_search.shape, df_search.head(10)
+```
+
+**¿Qué hace?**
+Muestra los primeros 10 papers para verificar que la búsqueda funcionó.
+
+---
+
+## 📍 **CELDA 5: Seleccionar Exactamente 1000 IDs**
+
+```python
+paper_ids = df_search["paperId"].dropna().drop_duplicates().tolist()
+subset_ids = paper_ids[:1000]  # Tomar exactamente 1000
+```
+
+**¿Qué hace?**
+- Extrae los IDs únicos de los papers
+- Toma exactamente los primeros 1,000 (por si hay extras)
+- Los guarda en una lista para la siguiente fase
+
+**Salida:**
+```
+✅ 1000 paperIds seleccionados para descargar detalles
+```
+
+---
+
+## 📍 **CELDA 6: Descarga de Detalles Enriquecidos** ⭐
+
+```python
+details = fetch_details(
+    client=client,
+    paper_ids=subset_ids,
+    fields=FIELDS_DETAILS
+)
+```
+
+**¿Qué hace?**
+Para CADA uno de los 1,000 papers:
+1. Llama a `/paper/{paperId}` con campos detallados
+2. Extrae: abstract, autores, venue, referencias, citas influyentes, etc.
+3. Guarda cada JSON en `data/raw/details/{paperId}.json`
+4. **Maneja errores** con backoff exponencial
+
+**Proceso:**
+```
+Paper 1/1000 → llamada API → guardar JSON
+Paper 2/1000 → llamada API → guardar JSON
+...
+Paper 998/1000 → ERROR → reintentar después
+```
+
+**Sistema de reintentos:**
+- Primera pasada: 998 exitosos, 2 fallidos
+- Segunda pasada: reintenta los 2 → **1000/1000 ✅**
+
+**Tiempo estimado:** 17-20 minutos (con rate limits)
+
+**Salida:**
+```
+📥 Descargando detalles de 1000 papers...
+Fetching paper details: 100%|██████████| 1000/1000
+⚠️ Total de errores: 2 de 1000
+✅ Detalles obtenidos: 998 de 1000
+
+🔄 Reintentando 2 papers fallidos...
+✅ Detalles totales tras retry: 1000 / 1000
+```
+
+---
+
+## 📍 **CELDA 7: Transformación a Nodos y Relaciones** ⭐⭐⭐
+
+```python
+dfs = to_nodes_edges(details)
+```
+
+**¿Qué hace?**
+Convierte los 1,000 JSONs en un **modelo de grafo** con nodos y relaciones:
+
+### **Nodos creados:**
+| Tipo | Columnas | Ejemplo |
+|------|----------|---------|
+| `papers` | paperId, title, year, abstract, citationCount... | 1,000 papers |
+| `authors` | authorId, name, url | 3,405 autores únicos |
+| `venues` | venueId, name | 446 venues |
+| `fields` | fieldName | 17 campos de estudio |
+
+### **Relaciones creadas:**
+| Tipo | De → A | Ejemplo |
+|------|--------|---------|
+| `paper_authoredby_author` | Paper → Author | 3,826 relaciones |
+| `paper_publishedin_venue` | Paper → Venue | 786 relaciones |
+| `paper_has_topic` | Paper → Field | 1,349 relaciones |
+| `paper_cites_paper` | Paper → Paper | 6,328 citas (GRAFO) |
+
+**Proceso especial para CITES:**
+```python
+# Elimina auto-citas
+if rid and rid != pid:
+    e_cites.append({"sourcePaperId": pid, "targetPaperId": rid})
+```
+
+**Stubs (nodos externos):**
+```python
+# Si un paper cita a otro que NO está en los 1000, crea un "stub"
+missing_targets = targets - in_nodes
+# Genera 5,772 stubs → Total papers: 6,772
+```
+
+**Por qué stubs:** Preserva todas las conexiones del grafo sin perder información.
+
+**Salida:**
+```
+papers (1000, 10)
+authors (3405, 3)
+venues (446, 2)
+fields (17, 1)
+paper_authoredby_author (3826, 2)
+paper_publishedin_venue (786, 2)
+paper_has_topic (1349, 2)
+paper_cites_paper (6328, 2)
+
+📌 Stubs añadidos: 5772
+   Total papers (con stubs): 6772
+```
+
+---
+
+## 📍 **CELDA 8: Resúmenes y Visualizaciones**
+
+```python
+summaries = build_summaries(dfs)
+```
+
+**¿Qué hace?**
+Genera tablas y gráficas de resumen:
+
+1. **Distribución temporal:** Papers por año (2010-2024)
+2. **Top 10 venues:** Revistas/conferencias más frecuentes
+3. **Top 10 autores:** Autores más prolíficos
+4. **Top 20 influyentes:** Por `influentialCitationCount`
+5. **Tipos de documento:** Distribución de JournalArticle, Conference, etc.
+
+**Visualizaciones:**
+- Gráfica de línea: publicaciones por año
+- Gráfica de barras: top venues
+- Gráfica de barras: top autores
+
+**Archivos generados:**
+- `summary_year_counts.csv`
+- `summary_top_venues.csv`
+- `summary_top_authors.csv`
+
+---
+
+## 📍 **CELDA 9: Verificación y Diagnóstico** ✅
+
+```python
+print("=== COBERTURA ===")
+print("Candidatos (search):", len(df_search))  # 1000
+print("Detalles (descargados):", len(details))  # 1000
+
+print("=== GRAFO CITES ===")
+print("Self-edges:", 0)       # ✅ Sin auto-citas
+print("Duplicados:", 0)        # ✅ Sin duplicados
+print("Targets fuera:", 0)     # ✅ Todos conectados
+```
+
+**¿Qué hace?**
+Verifica que TODO esté correcto:
+
+**Checks realizados:**
+- ✅ Se descargaron 1000/1000 papers
+- ✅ Todos los campos obligatorios existen
+- ✅ El grafo CITES no tiene self-edges
+- ✅ No hay duplicados en las relaciones
+- ✅ Todos los targets citados están en los nodos (gracias a stubs)
+- ✅ Conectividad del grafo (% de papers que citan y son citados)
+
+**Salida clave:**
+```
+=== CONECTIVIDAD ===
+Papers con ≥1 referencia: 168 (2.5%)
+Papers citados por otro: 5811 (85.8%)
+```
+
+---
+
+## 📍 **CELDA 10: Enriquecimiento de Afiliaciones** 🆕
+
+```python
+top_author_ids = author_counts.head(200).index.tolist()
+for author_id in top_author_ids:
+    r = client.get_author_details(author_id)
+    # Extrae affiliations...
+```
+
+**¿Qué hace?**
+1. Identifica los **top 200 autores** más prolíficos
+2. Para cada uno, llama a `/author/{id}`
+3. Extrae sus **afiliaciones institucionales** (universidades, empresas)
+4. Guarda en `author_affiliations.csv` y `authors_enriched.csv`
+
+**Por qué solo 200:** Balance entre cobertura y tiempo (evitar rate limits)
+
+**Salida:**
+```
+=== ENRIQUECIMIENTO DE AFILIACIONES ===
+📊 Top 200 autores más prolíficos identificados
+Obteniendo afiliaciones: 100%|██████████| 200/200
+✅ Afiliaciones guardadas: author_affiliations.csv
+   Autores con afiliación: 150
+```
+
+---
+
+## 📍 **CELDA 11: Documentación (Markdown)**
+
+Explica:
+- Cómo exportar el notebook a HTML
+- Qué archivos CSV se generaron
+- Checklist del entregable
+- Texto listo para copiar al informe PDF
+
+---
+
+## 📍 **CELDA 12-13: Exportación Automática a HTML**
+
+```python
+subprocess.run(["jupyter", "nbconvert", "--to", "html", notebook_path])
+```
+
+**¿Qué hace?**
+- Detecta la ubicación del notebook
+- Ejecuta `jupyter nbconvert` automáticamente
+- Genera `01_extraccion_precision_agri.html`
+- Si falla, muestra instrucciones alternativas
+
+---
+
+# 🔁 Flujo Completo del Notebook
+
+```mermaid
+1. Configurar paths y API key
+   ↓
+2. Definir parámetros de búsqueda
+   ↓
+3. Buscar 1000 papers (API bulk search)
+   ↓
+4. Extraer IDs únicos
+   ↓
+5. Descargar detalles de cada paper (API /paper/{id})
+   ↓
+6. Transformar a modelo de grafo (nodos + relaciones)
+   ↓
+7. Agregar stubs para referencias externas
+   ↓
+8. Generar resúmenes y visualizaciones
+   ↓
+9. Verificar calidad de datos
+   ↓
+10. Enriquecer afiliaciones de autores
+    ↓
+11. Guardar todo en CSVs
+    ↓
+12. Exportar notebook a HTML
+```
+
+---
+
+# 📊 Archivos Generados
+
+## En `data/raw/`:
+- `search_page_1.json` - Resultados de búsqueda
+- `details/{paperId}.json` - 1,000 JSONs individuales
+
+## En `data/processed/`:
+1. `papers.csv` - 6,772 papers
+2. `authors.csv` - 3,405 autores
+3. `venues.csv` - 446 venues
+4. `fields.csv` - 17 campos
+5. `paper_authoredby_author.csv` - 3,826 relaciones
+6. `paper_publishedin_venue.csv` - 786 relaciones
+7. `paper_has_topic.csv` - 1,349 relaciones
+8. `paper_cites_paper.csv` - 6,328 citas (grafo)
+9. `author_affiliations.csv` - Afiliaciones
+10. `authors_enriched.csv` - Autores con métricas
+
+---
+
+¿Necesitas que profundice en alguna celda específica o alguna función del código? 🚀
+
+---
+
+_**User (2025-11-21 12:20Z)**_
+
+En dónde se crea el modelo de grafo
+
+---
+
+_**Agent (model claude-4.5-sonnet-thinking, mode Agent)**_
+
+<think><details><summary>Thought Process</summary>
+El usuario pregunta dónde se crea el modelo de grafo. Déjame explicarle específicamente dónde ocurre esto. El modelo de grafo se crea principalmente en la celda 7 del notebook, usando la función `to_nodes_edges()` que está definida en `src/etl.py`. Déjame leer esa función para explicarla con detalle.</details></think>
+
+---
+
+El modelo de grafo se crea en **dos lugares clave**:
+
+## 📍 **1. En el Notebook - CELDA 7** (Ejecución)
+
+---
+
+<tool-use data-tool-type="read" data-tool-name="read_file">
+<details><summary>Tool use: **read_file** • Read file: notebooks/01_extraccion_precision_agri.ipynb</summary>
+
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Necesito encontrar la celda 7 específicamente donde se llama a to_nodes_edges</details></think>
+
+---
+
+<tool-use data-tool-type="search" data-tool-name="grep">
+<details>
+<summary>Tool use: **grep** • Grep for "to_nodes_edges" in "notebooks/01_extraccion_precision_agri.ipynb" • 2 matches</summary>
+
+Output mode: content
+
+
+| File | Content | Line |
+|------|------|------|
+| `notebooks/01_extraccion_precision_agri.ipynb` | `"    to_nodes_edges, save_processed, build_summaries\n",` | L60 |
+| `notebooks/01_extraccion_precision_agri.ipynb` | `"dfs = to_nodes_edges(details)\n",` | L410 |
+
+
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Perfecto, ahora necesito mostrarle dónde está definida la función to_nodes_edges en src/etl.py</details></think>
+
+---
+
+Perfecto, el modelo de grafo se crea en **DOS lugares**:
+
+---
+
+## 🎯 **1. EJECUCIÓN: Notebook Celda 7** (línea 410)
+
+Esta es donde **se ejecuta** la creación del grafo:
+
+```python
+dfs = to_nodes_edges(details)
+for k, v in dfs.items():
+    print(k, v.shape)
+
+# Crear nodos stub para targets citados que no están en 'papers'
+papers_df = dfs["papers"]
+edges_cites = dfs["paper_cites_paper"]
+
+in_nodes = set(papers_df["paperId"])
+targets = set(edges_cites["targetPaperId"])
+missing_targets = sorted(list(targets - in_nodes))
+
+if missing_targets:
+    stub_rows = [{"paperId": t, "title": None, ...} for t in missing_targets]
+    papers_df = pd.concat([papers_df, pd.DataFrame(stub_rows)], ignore_index=True)
+    dfs["papers"] = papers_df
+
+save_processed(dfs)
+```
+
+**Aquí sucede:**
+1. ✅ Se llama a `to_nodes_edges(details)` para transformar 1,000 JSONs → grafo
+2. ✅ Se crean los **stubs** para referencias externas
+3. ✅ Se guardan los CSVs
+
+---
+
+## 🔧 **2. DEFINICIÓN: `src/etl.py`** (líneas 151-206)
+
+Esta es donde **está implementada** la lógica del grafo:
+
+---
+
+<tool-use data-tool-type="read" data-tool-name="read_file">
+<details><summary>Tool use: **read_file** • Read file: src/etl.py</summary>
+
+</details>
+</tool-use>
+
+---
+
+<think><details><summary>Thought Process</summary>
+Perfecto, ahora tengo toda la información. Voy a explicarle en detalle cómo funciona la creación del modelo de grafo.</details></think>
+
+---
+
+Perfecto! Aquí está el **desglose completo** de dónde y cómo se crea el modelo de grafo:
+
+---
+
+# 🏗️ **Creación del Modelo de Grafo**
+
+## 📍 **Ubicación 1: Implementación en `src/etl.py` (líneas 151-206)**
+
+Esta función es el **corazón** del modelo de grafo:
+
+```python
+def to_nodes_edges(details):
+    """Convierte lista de detalles en dataframes de nodos y aristas."""
+```
+
+### **Proceso paso a paso:**
+
+#### **1️⃣ Inicialización de Listas Vacías** (líneas 153-154)
+
+```python
+papers, authors, venues, fields = [], [], [], []           # NODOS
+e_authored, e_published, e_topic, e_cites = [], [], [], []  # RELACIONES
+```
+
+#### **2️⃣ Iteración por cada Paper** (línea 155)
+
+```python
+for d in details:  # Recorre los 1,000 JSONs de papers
+    pid = d.get("paperId")
+```
+
+#### **3️⃣ Extracción de NODOS - Papers** (líneas 157-170)
+
+```python
+papers.append({
+    "paperId": pid,
+    "title": d.get("title"),
+    "abstract": d.get("abstract"),
+    "year": d.get("year"),
+    "citationCount": d.get("citationCount"),
+    "influentialCitationCount": d.get("influentialCitationCount"),
+    "doi": (d.get("externalIds") or {}).get("DOI"),
+    "url": d.get("url"),
+    "publicationTypes": ",".join(d.get("publicationTypes") or []),
+    "venue": d.get("venue")
+})
+```
+
+**Resultado:** 1,000 nodos de tipo `Paper`
+
+---
+
+#### **4️⃣ Extracción de NODOS - Authors + RELACIÓN AUTHORED_BY** (líneas 172-177)
+
+```python
+for a in d.get("authors", []):  # Para cada autor del paper
+    aid = a.get("authorId")
+    if not aid:
+        continue
+    # NODO Author
+    authors.append({"authorId": aid, "name": a.get("name"), "url": a.get("url")})
+    # RELACIÓN Paper → Author
+    e_authored.append({"paperId": pid, "authorId": aid})
+```
+
+**Resultado:** 
+- 3,405 nodos de tipo `Author` (únicos)
+- 3,826 relaciones `AUTHORED_BY`
+
+---
+
+#### **5️⃣ Extracción de NODOS - Venues + RELACIÓN PUBLISHED_IN** (líneas 179-182)
+
+```python
+vname = d.get("venue")  # venue viene como string
+if vname:
+    # NODO Venue
+    venues.append({"venueId": vname, "name": vname})
+    # RELACIÓN Paper → Venue
+    e_published.append({"paperId": pid, "venueId": vname})
+```
+
+**Resultado:**
+- 446 nodos de tipo `Venue`
+- 786 relaciones `PUBLISHED_IN`
+
+---
+
+#### **6️⃣ Extracción de NODOS - Fields + RELACIÓN HAS_TOPIC** (líneas 184-186)
+
+```python
+for f in d.get("fieldsOfStudy") or []:  # Para cada campo de estudio
+    # NODO Field
+    fields.append({"fieldName": f})
+    # RELACIÓN Paper → Field
+    e_topic.append({"paperId": pid, "fieldName": f})
+```
+
+**Resultado:**
+- 17 nodos de tipo `Field` (ej: "Computer Science", "Agriculture")
+- 1,349 relaciones `HAS_TOPIC`
+
+---
+
+#### **7️⃣ Extracción de RELACIÓN - CITES (EL GRAFO)** ⭐⭐⭐ (líneas 187-191)
+
+```python
+for ref in d.get("references") or []:  # Para cada referencia citada
+    rid = ref.get("paperId")
+    if rid and rid != pid:  # 🔥 IMPORTANTE: Evitar auto-citas
+        # RELACIÓN Paper → Paper citado
+        e_cites.append({"sourcePaperId": pid, "targetPaperId": rid})
+```
+
+**Características clave:**
+- ✅ **Sin self-edges:** `rid != pid` elimina auto-citas
+- ✅ **Direccional:** `sourcePaperId → targetPaperId` (quién cita a quién)
+- ✅ **Incluye referencias externas:** Si un paper cita a otro que NO está en los 1,000, igual se registra
+
+**Resultado:**
+- 6,328 relaciones `CITES` (el grafo de citación)
+
+---
+
+#### **8️⃣ Deduplicación y Creación de DataFrames** (líneas 193-206)
+
+```python
+def dd(df, subset):
+    return df.drop_duplicates(subset=subset).reset_index(drop=True)
+
+dfs = {
+    "papers": dd(pd.DataFrame(papers), ["paperId"]),
+    "authors": dd(pd.DataFrame(authors), ["authorId"]),
+    "venues": dd(pd.DataFrame(venues), ["venueId"]),
+    "fields": dd(pd.DataFrame(fields), ["fieldName"]),
+    "paper_authoredby_author": dd(pd.DataFrame(e_authored), ["paperId", "authorId"]),
+    "paper_publishedin_venue": dd(pd.DataFrame(e_published), ["paperId", "venueId"]),
+    "paper_has_topic": dd(pd.DataFrame(e_topic), ["paperId", "fieldName"]),
+    "paper_cites_paper": dd(pd.DataFrame(e_cites), ["sourcePaperId", "targetPaperId"]),
+}
+return dfs
+```
+
+**Proceso:**
+1. Convierte cada lista a DataFrame de pandas
+2. Elimina duplicados (ej: el mismo autor aparece en varios papers)
+3. Resetea índices
+4. Retorna un diccionario con 8 DataFrames
+
+---
+
+## 📍 **Ubicación 2: Ejecución + Stubs en Notebook Celda 7**
+
+Después de crear el grafo base, se agregan los **stubs**:
+
+```python
+# 1. Crear el grafo base
+dfs = to_nodes_edges(details)  # ← Aquí se ejecuta la función
+
+# 2. Identificar referencias externas
+papers_df = dfs["papers"]               # 1,000 papers originales
+edges_cites = dfs["paper_cites_paper"]  # 6,328 citas
+
+in_nodes = set(papers_df["paperId"])    # IDs de los 1,000 papers
+targets = set(edges_cites["targetPaperId"])  # IDs citados
+
+missing_targets = sorted(list(targets - in_nodes))  # 5,772 papers citados pero NO en los 1,000
+
+# 3. Crear nodos stub (sin info, solo ID)
+if missing_targets:
+    stub_rows = [
+        {
+            "paperId": t, 
+            "title": None, 
+            "abstract": None, 
+            "year": None,
+            "citationCount": None, 
+            "influentialCitationCount": None,
+            "doi": None, 
+            "url": None, 
+            "publicationTypes": None, 
+            "venue": None
+        }
+        for t in missing_targets
+    ]
+    
+    # 4. Agregar stubs al DataFrame de papers
+    papers_df = pd.concat([papers_df, pd.DataFrame(stub_rows)], ignore_index=True)
+    papers_df = papers_df.drop_duplicates(subset=["paperId"])
+    dfs["papers"] = papers_df
+    
+    print(f"📌 Stubs añadidos: {len(missing_targets)}")
+    print(f"   Total papers (con stubs): {len(dfs['papers'])}")
+
+# 5. Guardar todo en CSVs
+save_processed(dfs)
+```
+
+**¿Por qué stubs?**
+- Paper A cita a Paper B
+- Paper B NO está en los 1,000 originales
+- Sin stub: la relación CITES apuntaría a un nodo inexistente ❌
+- Con stub: se crea un nodo vacío para Paper B → conexión preservada ✅
+
+---
+
+# 📊 **Modelo de Grafo Final**
+
+```
+┌─────────────────┐
+│   PAPERS        │  6,772 nodos (1,000 completos + 5,772 stubs)
+│   ↓   ↓   ↓     │
+│   │   │   └─────┼──→ CITES (6,328) → PAPERS (grafo)
+│   │   └─────────┼──→ HAS_TOPIC (1,349) → FIELDS (17)
+│   └─────────────┼──→ PUBLISHED_IN (786) → VENUES (446)
+└─────────────────┼──→ AUTHORED_BY (3,826) → AUTHORS (3,405)
+```
+
+---
+
+# 🎯 **Resumen de Dónde se Crea**
+
+| **Qué** | **Dónde** | **Línea** |
+|---------|-----------|-----------|
+| **Función principal** | `src/etl.py` | 151-206 |
+| **Ejecución** | Notebook celda 7 | ~410 |
+| **Stubs** | Notebook celda 7 | ~420-430 |
+| **Guardado de CSVs** | Notebook celda 7 | ~435 |
+
+---
+
+¿Quieres que profundice en alguna parte específica del proceso, como la lógica de stubs o cómo se eliminan duplicados? 🚀
+
+---
+

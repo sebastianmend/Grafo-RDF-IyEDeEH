@@ -1,0 +1,35 @@
+{
+  "paperId": "62762b268349d116c6b26fdc210e3361205003e7",
+  "externalIds": {
+    "DOI": "10.1007/s11119-018-9568-3",
+    "CorpusId": 254942585
+  },
+  "url": "https://www.semanticscholar.org/paper/62762b268349d116c6b26fdc210e3361205003e7",
+  "title": "Adoption and extent of adoption of georeferenced grid soil sampling technology by cotton producers in the southern US",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9568-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9568-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1576226877",
+      "name": "E. Asare"
+    },
+    {
+      "authorId": "50753357",
+      "name": "E. Segarra"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

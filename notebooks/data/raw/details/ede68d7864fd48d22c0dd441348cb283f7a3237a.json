@@ -1,0 +1,100 @@
+{
+  "paperId": "ede68d7864fd48d22c0dd441348cb283f7a3237a",
+  "externalIds": {
+    "DBLP": "conf/med/StamatescuDSIP19",
+    "ArXiv": "1906.02678",
+    "MAG": "2948830744",
+    "DOI": "10.1109/MED.2019.8798504",
+    "CorpusId": 174803371
+  },
+  "url": "https://www.semanticscholar.org/paper/ede68d7864fd48d22c0dd441348cb283f7a3237a",
+  "title": "IoT-Enabled Distributed Data Processing for Precision Agriculture",
+  "venue": "2019 27th Mediterranean Conference on Control and Automation (MED)",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1906.02678",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1906.02678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2506962",
+      "name": "G. Stamatescu"
+    },
+    {
+      "authorId": "3164331",
+      "name": "Cristian Dragana"
+    },
+    {
+      "authorId": "3129337",
+      "name": "I. Stamatescu"
+    },
+    {
+      "authorId": "1758132",
+      "name": "L. Ichim"
+    },
+    {
+      "authorId": "144752161",
+      "name": "D. Popescu"
+    }
+  ],
+  "abstract": "Large scale monitoring systems, enabled by the emergence of networked embedded sensing devices, offer the opportunity of fine grained online spatio-temporal collection, communication and analysis of physical parameters. Various applications have been proposed and validated so far for environmental monitoring, security and industrial control systems. One particular application domain has been shown suitable for the requirements of precision agriculture where such systems can improve yields, increase efficiency and reduce input usage. We present a data analysis and processing approach for distributed monitoring of crops and soil where hierarchical aggregation and modelling primitives contribute to the robustness of the network by alleviating communication bottlenecks and reducing the energy required for redundant data transmissions. The focus is on leveraging the fog computing paradigm to exploit local node computing resources and generate events towards upper decision systems. Key metrics are reported which highlight the improvements achieved. A case study is carried out on real field data for crop and soil monitoring with outlook on operational and implementation constraints.",
+  "references": [
+    {
+      "paperId": "3849538ad2f7638c3fad12365187ab97f44b5695"
+    },
+    {
+      "paperId": "bd0b47895e5af0a3707d92a950b0df2c3fea101c"
+    },
+    {
+      "paperId": "01baa70814b971858310794745efca18c9214ac3"
+    },
+    {
+      "paperId": "041e6bf4f681257d2db68746a849a8020e6b08a2"
+    },
+    {
+      "paperId": "f3bd2c4a6fd6f031d429221dc6e86b63c3a81ce2"
+    },
+    {
+      "paperId": "a97496f158c11e704e851d19bbbdc0032d13d32c"
+    },
+    {
+      "paperId": "99fd3bc5077f1257679bcbed8b9286e7bc7781df"
+    },
+    {
+      "paperId": "21f274e0f1817549fb4a302422cc60b6c025d707"
+    },
+    {
+      "paperId": "3a5dfd141f3db4758f00c71a9cf3b11c636bf045"
+    },
+    {
+      "paperId": "7f23704553b5fb73e2f9532dc1e9c70e29f49839"
+    },
+    {
+      "paperId": "2f201dd8bef81c36e0fd8055b73c972075a695ef"
+    },
+    {
+      "paperId": "2b658a67b336322ef1788347861a3385e60082b9"
+    },
+    {
+      "paperId": "ee0c3888c8e918ee669a9efc59094add6d72a68f"
+    },
+    {
+      "paperId": "728211a7edfe536299670f34714de1b426d969dc"
+    },
+    {
+      "paperId": "5dcd7d5c5a6e30aa5fa3bc2fbcbf2caa5d2e0798"
+    }
+  ]
+}

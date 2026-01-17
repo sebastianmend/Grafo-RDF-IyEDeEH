@@ -1,0 +1,129 @@
+{
+  "paperId": "4a528647b35ab83710ccb9687120b7b4380f2a41",
+  "externalIds": {
+    "MAG": "2806453990",
+    "PubMedCentral": "5849718",
+    "DOI": "10.1038/s41598-018-22568-3",
+    "CorpusId": 3873144,
+    "PubMed": "29535402"
+  },
+  "url": "https://www.semanticscholar.org/paper/4a528647b35ab83710ccb9687120b7b4380f2a41",
+  "title": "Unsupervised Segmentation of Greenhouse Plant Images Based on Statistical Method",
+  "venue": "Scientific Reports",
+  "year": 2018,
+  "citationCount": 29,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-018-22568-3.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5849718, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2157209672",
+      "name": "Ping Zhang"
+    },
+    {
+      "authorId": "144610899",
+      "name": "Lihong Xu"
+    }
+  ],
+  "abstract": "Complicated image scene of the agricultural greenhouse plant images makes it very difficult to obtain precise manual labeling, leading to the hardship of getting the accurate training set of the conditional random field (CRF). Considering this problem, this paper proposed an unsupervised conditional random field image segmentation algorithm ULCRF (Unsupervised Learning Conditional Random Field), which can perform fast unsupervised segmentation of greenhouse plant images, and further the plant organs in the image, i.e. fruits, leaves and stems, are segmented. The main idea of this algorithm is to calculate the unary potential, namely the initial label of the Dense CRF, by the unsupervised learning model LDA (Latent Dirichlet Allocation). In view of the ever-changing image features at different stages of fruit growth, a multi-resolution ULCRF is proposed to improve the accuracy of image segmentation in the middle stage and late stage of the fruit growth. An image is down-sampled twice to obtain three layers of different resolution images, and the features of each layer are interrelated with each other. Experiment results show that the proposed method can segment greenhouse plant images in an unsupervised method automatically and obtain a high segmentation accuracy together with a high extraction precision of the fruit part.",
+  "references": [
+    {
+      "paperId": "67f124a8d4b246bfbe3cdf5debc136dd83364972"
+    },
+    {
+      "paperId": "918595ffcafc9dd6bea0fa77f57c5f440a700c62"
+    },
+    {
+      "paperId": "e2d8a74d1d7d1cf406d44cdc768a5e149bdc1005"
+    },
+    {
+      "paperId": "c7cbe85c378242fa40b941891e60edd8aae01545"
+    },
+    {
+      "paperId": "64626432c0985ad99ffc7be7644dc5930f18c0cf"
+    },
+    {
+      "paperId": "f544b3aeeb2b3690cb90bf568cfe92d864107c9f"
+    },
+    {
+      "paperId": "209d9e133d667710c0ac9e5ff4c6f43c0b7b9636"
+    },
+    {
+      "paperId": "c81c20109c809cfc47565a9477c04ee005d424bf"
+    },
+    {
+      "paperId": "e7e7ecfc691f9b9ace8355c1f31216c0301a4ec4"
+    },
+    {
+      "paperId": "0eefe92e151cca891de7dcc1ad9b70b8ef42b086"
+    },
+    {
+      "paperId": "596f30a4fd9ac3d4fc01f7c4e705f8821f471f84"
+    },
+    {
+      "paperId": "4dfbc93d019c07f7b9d9976f3688f394c0d1b3d7"
+    },
+    {
+      "paperId": "1d3394c4f55380b47d979715916d5c447b94ee67"
+    },
+    {
+      "paperId": "f07260deea7dea6dfe82d208731f4790e37cb3b3"
+    },
+    {
+      "paperId": "8f09f531db26dd515b4d138bfc249de92bf5b084"
+    },
+    {
+      "paperId": "03a073589eaf8ce3440464d020e0d0b26df5869b"
+    },
+    {
+      "paperId": "2e9a2b33421d3c1d29743f8bb5c1b71e02324740"
+    },
+    {
+      "paperId": "7a2252ccce2b65abc3759149b5c06587cc318e2f"
+    },
+    {
+      "paperId": "819a2bbd4467192dbbc9e833eb4ca6653ad791aa"
+    },
+    {
+      "paperId": "6436dce0e39f15a1ca9269e6ca813dfebb0af3a2"
+    },
+    {
+      "paperId": "215aa495b4c860a1e6d87f2c36f34da464376cc4"
+    },
+    {
+      "paperId": "b80914dbbee9f6b2455742d8117417731e6ecf12"
+    },
+    {
+      "paperId": "f4ba954b0412773d047dc41231c733de0c1f4926"
+    },
+    {
+      "paperId": "42dd86c02774406c694802eee94617552427f062"
+    },
+    {
+      "paperId": "4574d77fff19e093782178595a8988a7f3aa1969"
+    },
+    {
+      "paperId": "0d1bfcdfc90e662defd26b8b0deae6ef6e661b23"
+    },
+    {
+      "paperId": "7551754581e7e823d0633f3af604e5ed76ecc665"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

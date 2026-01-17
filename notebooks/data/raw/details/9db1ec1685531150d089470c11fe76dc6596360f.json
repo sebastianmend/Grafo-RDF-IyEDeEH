@@ -1,0 +1,435 @@
+{
+  "paperId": "9db1ec1685531150d089470c11fe76dc6596360f",
+  "externalIds": {
+    "DBLP": "journals/sensors/ZhaiMMR18",
+    "MAG": "2805635534",
+    "PubMedCentral": "6021986",
+    "DOI": "10.3390/s18061795",
+    "CorpusId": 46935949,
+    "PubMed": "29865251"
+  },
+  "url": "https://www.semanticscholar.org/paper/9db1ec1685531150d089470c11fe76dc6596360f",
+  "title": "A Mission Planning Approach for Precision Farming Systems Based on Multi-Objective Optimization",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 38,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/6/1795/pdf?version=1528109118",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6021986, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46221966",
+      "name": "Zhaoyu Zhai"
+    },
+    {
+      "authorId": "1402134750",
+      "name": "José-Fernán Martínez-Ortega"
+    },
+    {
+      "authorId": "36682402",
+      "name": "Néstor Lucas Martínez"
+    },
+    {
+      "authorId": "1401619425",
+      "name": "Jesús Rodríguez-Molina"
+    }
+  ],
+  "abstract": "As the demand for food grows continuously, intelligent agriculture has drawn much attention due to its capability of producing great quantities of food efficiently. The main purpose of intelligent agriculture is to plan agricultural missions properly and use limited resources reasonably with minor human intervention. This paper proposes a Precision Farming System (PFS) as a Multi-Agent System (MAS). Components of PFS are treated as agents with different functionalities. These agents could form several coalitions to complete the complex agricultural missions cooperatively. In PFS, mission planning should consider several criteria, like expected benefit, energy consumption or equipment loss. Hence, mission planning could be treated as a Multi-objective Optimization Problem (MOP). In order to solve MOP, an improved algorithm, MP-PSOGA, is proposed, taking advantages of the Genetic Algorithms and Particle Swarm Optimization. A simulation, called precise pesticide spraying mission, is performed to verify the feasibility of the proposed approach. Simulation results illustrate that the proposed approach works properly. This approach enables the PFS to plan missions and allocate scarce resources efficiently. The theoretical analysis and simulation is a good foundation for the future study. Once the proposed approach is applied to a real scenario, it is expected to bring significant economic improvement.",
+  "references": [
+    {
+      "paperId": "b0fa6699b932bf18c404f84bddc4b9fe8ab4a864"
+    },
+    {
+      "paperId": "a057cc41f543be2bfbbcf78692d5e811fdec4177"
+    },
+    {
+      "paperId": "99cd6b4adda67bba379dae96df88fb1bc3102b73"
+    },
+    {
+      "paperId": "846785924ec26cdb376e8b1e5471f82ab83d7fc4"
+    },
+    {
+      "paperId": "b1da7ce9ee0afd39a470d2a5a83342da1208dbd1"
+    },
+    {
+      "paperId": "16364db6cfd97c5d1517e3752d41fdd4e6c2b878"
+    },
+    {
+      "paperId": "a38b00944467bcc91456806f7228aa6380a5002e"
+    },
+    {
+      "paperId": "ed9f25bdb6bbc5d6a51ff4203d3d84ec0a332d2e"
+    },
+    {
+      "paperId": "c7d243d0d1efee259ce533fd394d3d53e27e8c8a"
+    },
+    {
+      "paperId": "243afe1b5a91f8715e373bf41d855357ee4dfa74"
+    },
+    {
+      "paperId": "42568956c8bd58edf7d5d037eee669edd5f18b35"
+    },
+    {
+      "paperId": "3b42926d00ba1aacdb33d694c62c62a4bd4ca96d"
+    },
+    {
+      "paperId": "d35ed1fcab47cf98101dc745c42d3b51dace25eb"
+    },
+    {
+      "paperId": "73c909ff9eb872456773a00aedf97d6958e9db9f"
+    },
+    {
+      "paperId": "50a8ba0f3994f1160a570699ae30413857e5e3c7"
+    },
+    {
+      "paperId": "f53560b1d71b57edcc656c71d096471267c21035"
+    },
+    {
+      "paperId": "96633697c4f3c91613d3a0ce1666c1e994466e4d"
+    },
+    {
+      "paperId": "4ade560297da939b918cc9df7a63c6d29a3400cc"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "752f39e1da1243723b078cf05dbde18641722347"
+    },
+    {
+      "paperId": "f8af2d37dec6f421fd35fcce6cf19fe4e310630d"
+    },
+    {
+      "paperId": "5d3a173abcbe829a839a66fa8fbf2358bbeda527"
+    },
+    {
+      "paperId": "aac3ab3e8efbb671e496b84fab5248a21dc0fa8f"
+    },
+    {
+      "paperId": "835125e2d9b1f26e7200d84d339a359f5e86568a"
+    },
+    {
+      "paperId": "5d07b086d77c5248c454d759bd3fc84d13752260"
+    },
+    {
+      "paperId": "59cbac7cf5e626b056533864befdf30535c89974"
+    },
+    {
+      "paperId": "aa2ed8a7f8e2263c0c4e4e1561f7ba681cb3409d"
+    },
+    {
+      "paperId": "7a36c0cc00a2db2765d28e75228486d2e4960dac"
+    },
+    {
+      "paperId": "2b7fd00f6e26a11a03cff73143106b2fb597de00"
+    },
+    {
+      "paperId": "ebfd903bb30fef29d16a1511ab5023a7a4a49907"
+    },
+    {
+      "paperId": "24c624641114d6e888a4760445d93536037011f1"
+    },
+    {
+      "paperId": "c46dd90f9f47bd2fa69d167aad3472ea53a7b3d4"
+    },
+    {
+      "paperId": "1c04bf403243c9ffddfde3a416a65d0b344601ee"
+    },
+    {
+      "paperId": "b424c2a5f7d9725ffaa9e6d1088344ac31e1d6d4"
+    },
+    {
+      "paperId": "bbd55ab6ba8ad0ecb0cbd25941c3bc2271d6969e"
+    },
+    {
+      "paperId": "fa61577a7c15182e63cac43dfddaf3979f4ed0ad"
+    },
+    {
+      "paperId": "b3ce72a93de84b77da1f0b935941086e60a04afe"
+    },
+    {
+      "paperId": "efd41f507473bb667ae5ab1165368d3b7ee28085"
+    },
+    {
+      "paperId": "c819d3011bbf46c7ab9263e66f1fa4e1cf1eb46e"
+    },
+    {
+      "paperId": "51de5f37da70f73d34801d759e41174474ca1704"
+    },
+    {
+      "paperId": "f8915fdc9db3c9e434188f5eee1a25a871e5278d"
+    },
+    {
+      "paperId": "dd7b5df3100ff86fb5ab0341d87aaaec1dac45ad"
+    },
+    {
+      "paperId": "81957db2da702b07ab60e219df8ce21a7a6124a0"
+    },
+    {
+      "paperId": "c8410ab15ce27c20676aa99b38563939e3d097bf"
+    },
+    {
+      "paperId": "e1ba4f3b0011a4b0b6ba73a0ac0eadbe53c30547"
+    },
+    {
+      "paperId": "46d5beac726fc428b55cae3f8137e1e82abf06ad"
+    },
+    {
+      "paperId": "3a3e34cc8fc18855096812cc281e2aa8883bd1b3"
+    },
+    {
+      "paperId": "ba72fd6fdfc4ed546f014ad26aabe62628281099"
+    },
+    {
+      "paperId": "a25ff92c3127438947363bce09f581daff9c6ab2"
+    },
+    {
+      "paperId": "b8073ab3c4dc03e343806d5697b06873c9874f37"
+    },
+    {
+      "paperId": "bd9bbea6bdc237cba831fa0680845d50399a6b51"
+    },
+    {
+      "paperId": "e616e3a3e93c531f67b9214ebcfd1ff3d4907265"
+    },
+    {
+      "paperId": "a8fef9825005dbc8342f590c1b78044250222a6c"
+    },
+    {
+      "paperId": "e96364c52f02f8a310fc2fe8833db2bc2f88b819"
+    },
+    {
+      "paperId": "b66f570e26820ecbb25d3b85f2ef9b047594891f"
+    },
+    {
+      "paperId": "32bd149c99a8182394ec69448b9b230b602d3bb0"
+    },
+    {
+      "paperId": "640899f8d3117402790f6e184b09e68e21a253a2"
+    },
+    {
+      "paperId": "87abb1f84e29b8defec67e3bac808b59474e1a33"
+    },
+    {
+      "paperId": "a522ec7ef6a93ac4a939baaea92cee45279a991f"
+    },
+    {
+      "paperId": "2c5c3df2a7b733434839b17100c9e75a464a9d91"
+    },
+    {
+      "paperId": "13949fba4158e44320fbf2df0b77d19e4f9bdf95"
+    },
+    {
+      "paperId": "f50a21363de0c4df606ee221b111b8d5b56f5048"
+    },
+    {
+      "paperId": "f7fd34bb4e12f543e6cf28710be3267c87fde3a0"
+    },
+    {
+      "paperId": "088df0151c048d22e32d84368af6be7eaf1440ae"
+    },
+    {
+      "paperId": "2f29d08feab034a0c24a230b8bb4d6f106f0879a"
+    },
+    {
+      "paperId": "9979ffa6ea531ffbe4ea9aeffefcc940b8417a86"
+    },
+    {
+      "paperId": "b4eceb166de3f0c96ceae657975b8394c890a4f4"
+    },
+    {
+      "paperId": "d9e9c6f64f1a44626e5999d6af556af3a305b508"
+    },
+    {
+      "paperId": "7e3242cea1264a37136d38d02f4bfdfe0cbbfc6a"
+    },
+    {
+      "paperId": "0ebbf588056d261a3a246ba83da07a94fcfc44c0"
+    },
+    {
+      "paperId": "b8377010f33cd9a825e41d46c62992283e262b62"
+    },
+    {
+      "paperId": "6a1c888a686c222d6907097d3080fca7c7be66b6"
+    },
+    {
+      "paperId": "a99dcea07d77cecba63d40c8146cb520fdccfd40"
+    },
+    {
+      "paperId": "12ba34eef0f2007c06fbb0ae49ad442f89552ecd"
+    },
+    {
+      "paperId": "097b7914c5edb5d812977ff4a41c111694b76972"
+    },
+    {
+      "paperId": "b668f9668fb1293620131617f58c53982dcadc6d"
+    },
+    {
+      "paperId": "f212ac226b1bce4fffd37ce24d098ee0caf76171"
+    },
+    {
+      "paperId": "534b293f57b1e7ef923fd4cca5d27a3a601dc2f8"
+    },
+    {
+      "paperId": "387c3b9be5d745e896e2d81d3ff72f82ba2ee81f"
+    },
+    {
+      "paperId": "6c0623005f5ee878bc9cec80038f8739c9a13b98"
+    },
+    {
+      "paperId": "70820be90ae5a2692e9719ecfcfd5a78e7e619c1"
+    },
+    {
+      "paperId": "6257b4799e799cc063b308e2b90492eeb63b76c6"
+    },
+    {
+      "paperId": "2a1724427b9c473e73f6abff648e7416269d3a68"
+    },
+    {
+      "paperId": "4dfd430259bf282ae80808150093e478965a0f3d"
+    },
+    {
+      "paperId": "745a59ae9c25e36cf68b6c73ae17221342c2ff4a"
+    },
+    {
+      "paperId": "b46a84f110bfc09adf39f7fa4a2833e15ac79695"
+    },
+    {
+      "paperId": "12e9ba3a03aa61bb320630004b3fc0c89a0711dd"
+    },
+    {
+      "paperId": "ee0e4014f6df52f92b756e0f9ef3ce5a625f57d2"
+    },
+    {
+      "paperId": "e7853e55320cb703db57ef3d357d7ff3dbe4226a"
+    },
+    {
+      "paperId": "e3f23c1c7a969b21e9eda1f9be68e7b252a3200f"
+    },
+    {
+      "paperId": "d621786b597687f555fae83dc1a021fd21713d90"
+    },
+    {
+      "paperId": "03b14a002f494ef34a095732abfbbbf333afda26"
+    },
+    {
+      "paperId": "9f62a359a978475307b8d3f913d7dd0149528d63"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4736ee8ae277e44b56eb2b70e35313420389b9c6"
+    },
+    {
+      "paperId": "59adf45809a35155fd73f76ae763782c78c49183"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0d5e79fcce54f5fcdae3aba2f315f482997b5702"
+    },
+    {
+      "paperId": "b403c8d9ac8b2f545cfce0510c2f688c1e85a3ea"
+    },
+    {
+      "paperId": "cae5b2ab261e07d50ff826ce871bbf7c70f5b6a8"
+    },
+    {
+      "paperId": "ea5368ee4d10c3f583c3605449bcd05907a0507f"
+    },
+    {
+      "paperId": "386fef3e4ddbd9595640e6ebc595adfdb2f1035e"
+    },
+    {
+      "paperId": "c466842ed443b67326ca37cf02be76abcab1c6ed"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7055cadcb015fd505befa74b29b38e9d56dd7266"
+    },
+    {
+      "paperId": "447448459e6a965169fb55cca186ab0774d82d15"
+    },
+    {
+      "paperId": "ab6c80b5e965b5bfcf38cea33d58454e501a0011"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f5965e4c9125c7bf387b39aa14dc030390e7e1bb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9cda05ec89c89e25f8e3082273dccd10a80fdefc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6de3ab7ae0f8fc8832f61249866c9dc9556ef166"
+    },
+    {
+      "paperId": "4481da0adb10e4b4f74d2e850cde76fdb75486e0"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5510f9f5f7327a8bb58de586033382cfd78162e8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

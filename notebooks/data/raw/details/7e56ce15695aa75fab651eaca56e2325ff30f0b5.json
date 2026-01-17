@@ -1,0 +1,105 @@
+{
+  "paperId": "7e56ce15695aa75fab651eaca56e2325ff30f0b5",
+  "externalIds": {
+    "MAG": "2972387647",
+    "DBLP": "journals/softx/MichelonBUSMBSS19",
+    "DOI": "10.1016/j.softx.2019.100320",
+    "CorpusId": 203163493
+  },
+  "url": "https://www.semanticscholar.org/paper/7e56ce15695aa75fab651eaca56e2325ff30f0b5",
+  "title": "Software AgDataBox-Map to precision agriculture management",
+  "venue": "SoftwareX",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.softxjournal.com/article/S2352711019300275/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.softx.2019.100320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.softx.2019.100320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "72536257",
+      "name": "G. Michelon"
+    },
+    {
+      "authorId": "88838415",
+      "name": "C. L. Bazzi"
+    },
+    {
+      "authorId": "4148933",
+      "name": "S. Upadhyaya"
+    },
+    {
+      "authorId": "145746002",
+      "name": "E. G. Souza"
+    },
+    {
+      "authorId": "39108989",
+      "name": "P. G. Magalhães"
+    },
+    {
+      "authorId": "2073056207",
+      "name": "L. F. Borges"
+    },
+    {
+      "authorId": "3469831",
+      "name": "K. Schenatto"
+    },
+    {
+      "authorId": "2095140299",
+      "name": "Ricardo Sobjak"
+    },
+    {
+      "authorId": "39358849",
+      "name": "Alan Gavioli"
+    },
+    {
+      "authorId": "30620462",
+      "name": "N. Betzek"
+    }
+  ],
+  "abstract": null,
+  "references": [
+    {
+      "paperId": "864f1f09ea2f5a18d95e617bca89694c11d34f0c"
+    },
+    {
+      "paperId": "e46e487aadcdd2954e072c46cb80d85d74d39069"
+    },
+    {
+      "paperId": "796c3fc3660df1c384dc6585f98a4eae9327e467"
+    },
+    {
+      "paperId": "41cc115cf1ce978924385e7dfaae28d99d12960a"
+    },
+    {
+      "paperId": "178b7b201a4e8090ad841c14aa3338ace5bdcb26"
+    },
+    {
+      "paperId": "95060b0a6d692fd9105feeb4a56f1d33c264de0f"
+    },
+    {
+      "paperId": "63ccb05e42ab9a3561c8c1bf2b0609ba53b10e9e"
+    },
+    {
+      "paperId": "2dd660eb631519dcda840046d0e412a119ea1e18"
+    },
+    {
+      "paperId": "09aeed96a6e05aabd7306b8d4b100b9d43a23687"
+    },
+    {
+      "paperId": "a4c64d4fed677fb3ac23fae4e16e35b042a8a0a9"
+    },
+    {
+      "paperId": "e5b13c1d011d49334560995a230b2e3776a24c9f"
+    }
+  ]
+}

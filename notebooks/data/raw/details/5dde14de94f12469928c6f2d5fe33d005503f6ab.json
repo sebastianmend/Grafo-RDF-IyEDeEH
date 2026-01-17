@@ -1,0 +1,43 @@
+{
+  "paperId": "5dde14de94f12469928c6f2d5fe33d005503f6ab",
+  "externalIds": {
+    "MAG": "2968009112",
+    "DOI": "10.1117/12.2539628",
+    "CorpusId": 201907923
+  },
+  "url": "https://www.semanticscholar.org/paper/5dde14de94f12469928c6f2d5fe33d005503f6ab",
+  "title": "The comparative analysis of Chinese GDP spatialization methods based on multi-sensor remote sensing data",
+  "venue": "International Conference on Digital Image Processing",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2539628?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2539628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2113998273",
+      "name": "Ziyang Cao"
+    },
+    {
+      "authorId": "2109817139",
+      "name": "Yalan Zhao"
+    },
+    {
+      "authorId": "38322193",
+      "name": "Zhi-feng Wu"
+    }
+  ],
+  "abstract": "Spatialized Gross Domestic Product (GDP) data was essential for studying the relationship between human activities and environmental changes. Rapid and accurate acquisition of this data was always an important issue. The land use/cover data and the DMSP/OLS nighttime light (NTL) data both had been used to simulate GDP spatialization. By analyzing previous researches, the estimated method based on land use/cover data, estimated method based on radiance-calibrated NTL data and estimated method based on land use/cover data and radiance-calibrated NTL data were applied and compared in this study. The result showed the precision of agricultural production method based on land use/cover data and non-agricultural production method based on radiance-calibrated NTL data which did not include saturated pixels were both high. The accuracy of estimated GDP based on land use/cover data and radiance-calibrated NTL data was the best. The estimated method based on land use/cover data and radiance-calibrated NTL data was used to create a 1-km gridded GDP density map in 2010. In order to make the estimated result more accurate, the county-level statistical data was used to correct it. The corrected 1-km gridded GDP density map in 2010 reflected the Chinese economic development situation and spatial distribution characteristics of GDP density in 2010.",
+  "references": null
+}

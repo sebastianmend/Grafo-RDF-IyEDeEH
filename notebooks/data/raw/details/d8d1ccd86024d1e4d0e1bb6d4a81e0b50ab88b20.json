@@ -1,0 +1,42 @@
+{
+  "paperId": "d8d1ccd86024d1e4d0e1bb6d4a81e0b50ab88b20",
+  "externalIds": {
+    "MAG": "2967629441",
+    "DOI": "10.1109/ICUAS.2019.8797930",
+    "CorpusId": 201066050
+  },
+  "url": "https://www.semanticscholar.org/paper/d8d1ccd86024d1e4d0e1bb6d4a81e0b50ab88b20",
+  "title": "Satellite and UAV data for Precision Agriculture Applications",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2019,
+  "citationCount": 31,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2019.8797930?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2019.8797930, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1679246",
+      "name": "A. Mancini"
+    },
+    {
+      "authorId": "1721130",
+      "name": "E. Frontoni"
+    },
+    {
+      "authorId": "1695800",
+      "name": "P. Zingaretti"
+    }
+  ],
+  "abstract": "The evolution behind Agriculture 4.0 relies on the intelligent use of data collected by using advanced technologies mounted on board of tractors, mobile ground robots, unmanned aerial vehicles and satellites. Today a field could be monitored over a season owing to data acquired by using drones and satellite with different spectral, spatial and temporal resolution. Data are used in precision agriculture scenarios to monitor the growth, detect the presence of weeds, identify areas affected by nitrogen/water stress but the common factor is the high demand for updated data. This paper evaluates different datasources as Landsat-8, Sentinel-2, PlanetScope and UAV on a test-site characterized by areas that have different vigour considering different agronomic management thesis. A comparison over the sub-areas by using different approach enables the understanding of how these heterogeneous data-sources could work together also supporting the decision of agronomists. The evaluation shows that data acquired at a close time could be compared but there are some potential issues that require attention in post-processing as the geometric accuracy to ensure a proper coregistration and georeferencing.",
+  "references": null
+}

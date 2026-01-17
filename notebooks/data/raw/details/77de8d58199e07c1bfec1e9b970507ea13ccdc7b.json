@@ -1,0 +1,42 @@
+{
+  "paperId": "77de8d58199e07c1bfec1e9b970507ea13ccdc7b",
+  "externalIds": {
+    "MAG": "2891160749",
+    "DOI": "10.1109/colcomcon.2018.8466726",
+    "CorpusId": 52302237
+  },
+  "url": "https://www.semanticscholar.org/paper/77de8d58199e07c1bfec1e9b970507ea13ccdc7b",
+  "title": "DSSAT: DSS Anthracnosis in Tomato Crops",
+  "venue": "2018 IEEE Colombian Conference on Communications and Computing (COLCOM)",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/colcomcon.2018.8466726?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/colcomcon.2018.8466726, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "51289359",
+      "name": "Yeison Andres Urrea"
+    },
+    {
+      "authorId": "27802035",
+      "name": "Fulvio Yesid Vivas"
+    },
+    {
+      "authorId": "2098247373",
+      "name": "Oscar M. Caicedo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

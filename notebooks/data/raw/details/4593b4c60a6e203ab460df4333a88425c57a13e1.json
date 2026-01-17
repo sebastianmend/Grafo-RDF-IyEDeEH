@@ -1,0 +1,42 @@
+{
+  "paperId": "4593b4c60a6e203ab460df4333a88425c57a13e1",
+  "externalIds": {
+    "MAG": "2891250680",
+    "DOI": "10.1109/ICUAS.2018.8453327",
+    "CorpusId": 52164314
+  },
+  "url": "https://www.semanticscholar.org/paper/4593b4c60a6e203ab460df4333a88425c57a13e1",
+  "title": "Improving Variable Rate Treatments by Integrating Aerial and Ground Remotely Sensed Data",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2018.8453327?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2018.8453327, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1679246",
+      "name": "A. Mancini"
+    },
+    {
+      "authorId": "1721130",
+      "name": "E. Frontoni"
+    },
+    {
+      "authorId": "1695800",
+      "name": "P. Zingaretti"
+    }
+  ],
+  "abstract": "The problem of tree/plant volume and health estimation plays a key role in precision agriculture applications especially for Variable Rate Treatments (VRT). Today VRTs are available at reasonable costs and most of the platforms are able to apply a given rate in a given position by using a prescription map that is usually designed by an agronomist basing on historical data and scouting on the field. In this scenario several technologies are involved at different stages as the acquisition of data to take decision by using ground and/or aerial vehicles, data analytics to derive prescriptions and variable rate controller also aided by auto-steering to apply the desired quantity. This pipeline works if and only if all the stages are trustable. In particular, it is import to acquire data at different times in order to evaluate the best rate considering the phenological phase and the previous/current status. Aerial (unmanned) vehicles are currently used to map the status but for complex crops as vineyards, it is necessary to properly segment soil vs crop/tree. Moreover aerial images offer a partial view that in case of vineyards it is not sufficient considering that only upper canopy could be sensed. In this case, it is necessary to integrate top view with lateral ones that could be acquired also by using tractors during the application of treatments. In this paper we present an integrated approach where ground data are collected and processed in real-time also showing how these data could be integrated with aerial data. Data are collected by using LiDAR sensor and processed by a set of algorithms deployed as ROS nodes to estimate the volume and health of a plant/tree to support the creation of management zones.",
+  "references": null
+}

@@ -1,0 +1,147 @@
+{
+  "paperId": "e7fb2de4ed327a53b66f430484a669745b12a662",
+  "externalIds": {
+    "MAG": "2894543590",
+    "DBLP": "journals/ijautcomp/ZhangSLC19",
+    "DOI": "10.1007/s11633-018-1143-x",
+    "CorpusId": 125134660
+  },
+  "url": "https://www.semanticscholar.org/paper/e7fb2de4ed327a53b66f430484a669745b12a662",
+  "title": "Potential Bands of Sentinel-2A Satellite for Classification Problems in Precision Agriculture",
+  "venue": "International Journal of Automation and Computing",
+  "year": 2018,
+  "citationCount": 63,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2Fs11633-018-1143-x.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11633-018-1143-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11633-018-1143-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49104901",
+      "name": "Tianxiang Zhang"
+    },
+    {
+      "authorId": "2824791",
+      "name": "Jinya Su"
+    },
+    {
+      "authorId": "2107994836",
+      "name": "Cunjia Liu"
+    },
+    {
+      "authorId": "31165511",
+      "name": "Wen‐Hua Chen"
+    }
+  ],
+  "abstract": "Various indices are used for assessing vegetation and soil properties in satellite remote sensing applications. Some indices, such as normalized difference vegetation index (NDVI) and normalized difference water index (NDWI), are capable of simply differentiating crop vitality and water stress. Nowadays, remote sensing capabilities with high spectral, spatial and temporal resolution are available to analyse classification problems in precision agriculture. Many challenges in precision agriculture can be addressed by supervised classification, such as crop type classification, disease and stress (e.g., grass, water and nitrogen) monitoring. Instead of performing classification based on designated indices, this paper explores direct classification using different bands information as features. Land cover classification by using the recently launched Sentinel-2A image is adopted as a case study to validate our method. Four approaches of featured band selection are compared to classify five classes (crop, tree, soil, water and road) with the support vector machines (SVMs) algorithm, where the first approach utilizes traditional empirical indices as features and the latter three approaches adopt specific bands (red, near infrared and short wave infrared) related to indices, specific bands after ranking by mutual information (MI), and full bands of on board sensors as features, respectively. It is shown that a better classification performance can be achieved by directly using the selected bands after MI ranking compared with the one using empirical indices and specific bands related to indices, while the use of all 13 bands can marginally improve the classification accuracy than MI based one. Therefore, it is recommended that this approach can be applied for specific Sentinel-2A image classification problems in precision agriculture.",
+  "references": [
+    {
+      "paperId": "4c75b748911ddcd888c5122f7672f69caa5d661f"
+    },
+    {
+      "paperId": "74302d7080dbc09a382646715c50fd087c6361e6"
+    },
+    {
+      "paperId": "a65d672715e2c58a01d693b48b9f14b68d4916bf"
+    },
+    {
+      "paperId": "305d6fb3da7daa42fcfde1ff619a340c87673968"
+    },
+    {
+      "paperId": "0262e0633a454d41ff791ea620b9f301565b04bb"
+    },
+    {
+      "paperId": "62c1b97843d2563fc53b81b4dc9a92a3b10f44ec"
+    },
+    {
+      "paperId": "c72b9ec87d0c5a1bb4f2a0d79dd514b0e61069ec"
+    },
+    {
+      "paperId": "9cb6f993beec98e8e9774ba2092c6dc1edd0ebef"
+    },
+    {
+      "paperId": "7dc3eb2a032b099437c2e55b62f69d760c8180ab"
+    },
+    {
+      "paperId": "a4656e544b95f9048733513da82847da65277c7f"
+    },
+    {
+      "paperId": "d9f1d9975721c4750c7de61938cc230dda79186a"
+    },
+    {
+      "paperId": "f3077d89219ae3d90ea6a5f63962df6dcfba3f9c"
+    },
+    {
+      "paperId": "d6cb9c52ab26d405d820d2e96cd788e6173e2cc8"
+    },
+    {
+      "paperId": "a36ae5728975a1850d9f18b80c5841ceda79b2cb"
+    },
+    {
+      "paperId": "464c737376f34c5d38d92940f711abd94d37e84f"
+    },
+    {
+      "paperId": "b34dc95b8c78f855a76ad8e1fbca304cb0f5669d"
+    },
+    {
+      "paperId": "d985a29e40d6851c89d503189b6788b119108279"
+    },
+    {
+      "paperId": "464910dd17e16616fe36a12ae41356dcf3c40e4d"
+    },
+    {
+      "paperId": "8a90f7b5470c61a703549e416995dbf337a39c3f"
+    },
+    {
+      "paperId": "48594c73528d57b50d334fb68376b477add463f4"
+    },
+    {
+      "paperId": "ba969a4f3bc5f5a84f6025478e566c40661d85f3"
+    },
+    {
+      "paperId": "82c8b7092e27c94a135dc0247936445c2a4f37dd"
+    },
+    {
+      "paperId": "9f04fac6afb8adcbd74eda4f0479d8f62884e2be"
+    },
+    {
+      "paperId": "5ed4e1dbe10c0ac9fa00b30d1882cae1249a5a6a"
+    },
+    {
+      "paperId": "2023fc7bc858fcb2c9033a6cacc0becc49b0b0e2"
+    },
+    {
+      "paperId": "4aaa30769ca49875f45670970130c088136986d1"
+    },
+    {
+      "paperId": "3c91f7adbe7c7cb611a86b77790c7410a7fe7508"
+    },
+    {
+      "paperId": "6b986782c9520bdef997cd61fc5d8aaef13de9ba"
+    },
+    {
+      "paperId": "918720960f96afdda88647d6b31761f537ef469b"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

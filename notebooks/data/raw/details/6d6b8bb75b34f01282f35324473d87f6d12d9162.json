@@ -1,0 +1,52 @@
+{
+  "paperId": "6d6b8bb75b34f01282f35324473d87f6d12d9162",
+  "externalIds": {
+    "DBLP": "conf/igarss/DaiVGSE18",
+    "MAG": "2901979205",
+    "DOI": "10.1109/IGARSS.2018.8518730",
+    "CorpusId": 53227719
+  },
+  "url": "https://www.semanticscholar.org/paper/6d6b8bb75b34f01282f35324473d87f6d12d9162",
+  "title": "High Spatial Soil Moisture Mapping Using Small Unmanned Aerial System",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518730?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518730, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3060532",
+      "name": "E. Dai"
+    },
+    {
+      "authorId": "31898864",
+      "name": "Aravind Venkitasubramony"
+    },
+    {
+      "authorId": "1708044",
+      "name": "A. Gasiewski"
+    },
+    {
+      "authorId": "1936127",
+      "name": "M. Stachura"
+    },
+    {
+      "authorId": "48792222",
+      "name": "Jack Elston"
+    }
+  ],
+  "abstract": "Soil moisture is of fundamental importance to many hydrological, biological and biogeochemical processes, plays an important role in the development and evolution of convective weather and precipitation, and impacts precision agriculture, water resource management, and flood runoff prediction. The launch of NASA's Soil Moisture Active/Passive (SMAP) mission in 2015 provide new passive global measurements of soil moisture and surface freeze/thaw state at fixed crossing times and spatial resolutions of 36 km. There exists a need for measurements of soil moisture on much smaller spatial scales and arbitrary diurnal times for SMAP validation, precision agriculture, flood runoff prediction, evaporation and transpiration studies of boundary layer heat transport, and tundra thaw studies. The Lobe Differencing Correlation Radiometer (LDCR) provides a means of mapping soil moisture on spatial scales as small as several meters (i.e., the height of the platform). Compared with various other proposed methods of validation based on either in situ measurements or existing airborne sensors suitable for manned aircraft deployment, the integrated design of the LDCR on a lightweight small unmanned aerial system (sUAS) can provide sub-watershed (~km scale) coverage at very high spatial resolution (~15 m) suitable for scaling scale studies. The Tempest sUAS, flies at very low operator cost compared to manned aircraft. To demonstrate the LDCR Rev A and Rev B, several flights had been performed during field experiments at the Canton Oklahoma Soilscape site on September 8th and 9th, 2015 and Yuma Colorado Irrigation Research Foundation (IRF) site from June to August 2016, and October 2017. The LDCR antenna temperature and soil moisture maps will be presented, and scientific intercomparisons between LDCR soil moisture data and in-situ measurements will be presented.",
+  "references": null
+}

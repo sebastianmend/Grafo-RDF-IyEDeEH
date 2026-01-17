@@ -1,0 +1,32 @@
+{
+  "paperId": "efd54aa397d70bcab3089131e8279b4f3e533e5b",
+  "externalIds": {
+    "MAG": "2968747334",
+    "CorpusId": 202129129
+  },
+  "url": "https://www.semanticscholar.org/paper/efd54aa397d70bcab3089131e8279b4f3e533e5b",
+  "title": "Spatial combination of sensor data deriving from mobile platforms for precision farming applications",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "11447950",
+      "name": "C. Zecha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

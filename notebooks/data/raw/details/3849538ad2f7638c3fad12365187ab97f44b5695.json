@@ -1,0 +1,202 @@
+{
+  "paperId": "3849538ad2f7638c3fad12365187ab97f44b5695",
+  "externalIds": {
+    "PubMedCentral": "6359213",
+    "DBLP": "journals/sensors/KamienskiSTDTCM19",
+    "MAG": "2908948085",
+    "DOI": "10.3390/s19020276",
+    "CorpusId": 58584294,
+    "PubMed": "30641960"
+  },
+  "url": "https://www.semanticscholar.org/paper/3849538ad2f7638c3fad12365187ab97f44b5695",
+  "title": "Smart Water Management Platform: IoT-Based Precision Irrigation for Agriculture †",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 386,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/2/276/pdf?version=1547203858",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6359213, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1969406",
+      "name": "C. Kamienski"
+    },
+    {
+      "authorId": "1792386",
+      "name": "J. Soininen"
+    },
+    {
+      "authorId": "3233791",
+      "name": "Markus Taumberger"
+    },
+    {
+      "authorId": "145608590",
+      "name": "R. Dantas"
+    },
+    {
+      "authorId": "12160822",
+      "name": "A. Toscano"
+    },
+    {
+      "authorId": "2883114",
+      "name": "T. S. Cinotti"
+    },
+    {
+      "authorId": "3196763",
+      "name": "R. Maia"
+    },
+    {
+      "authorId": "2082383776",
+      "name": "A. T. Neto"
+    }
+  ],
+  "abstract": "The smart management of freshwater for precision irrigation in agriculture is essential for increasing crop yield and decreasing costs, while contributing to environmental sustainability. The intense use of technologies offers a means for providing the exact amount of water needed by plants. The Internet of Things (IoT) is the natural choice for smart water management applications, even though the integration of different technologies required for making it work seamlessly in practice is still not fully accomplished. The SWAMP project develops an IoT-based smart water management platform for precision irrigation in agriculture with a hands-on approach based on four pilots in Brazil and Europe. This paper presents the SWAMP architecture, platform, and system deployments that highlight the replicability of the platform, and, as scalability is a major concern for IoT applications, it includes a performance analysis of FIWARE components used in the Platform. Results show that it is able to provide adequate performance for the SWAMP pilots, but requires specially designed configurations and the re-engineering of some components to provide higher scalability using less computational resources.",
+  "references": [
+    {
+      "paperId": "3bcd871e9ed2103949390f68b4edb0b26092f23a"
+    },
+    {
+      "paperId": "3f4108a81beed05baf5c1b563f0033a7d9b3f5f0"
+    },
+    {
+      "paperId": "e0dd6ac8516de0e072f20604a988f6deab9568d6"
+    },
+    {
+      "paperId": "6e95d2b61e3f0b16a74ad0d2ffdc246819be3f03"
+    },
+    {
+      "paperId": "a4c27e3817356699a81698c7474c89725aefc0db"
+    },
+    {
+      "paperId": "eece67d3803c63e7352cab42df70c04dd722ec96"
+    },
+    {
+      "paperId": "d65ab56e10459a89c1c1bc6b3536811611e0f098"
+    },
+    {
+      "paperId": "02d92d8e055183297a2ffeff3bbffd2806f19e1d"
+    },
+    {
+      "paperId": "4b8de3d944f39ac3ab9e8293c25f643a61e25ab7"
+    },
+    {
+      "paperId": "f9896a40e497b74caabf5ef7f25db77f51689ac0"
+    },
+    {
+      "paperId": "735a75cedfe899a111e157944c5ce1e27a31327d"
+    },
+    {
+      "paperId": "7b0b8e56fa8ff96c4f0ca26f21a5176d9cd1f78d"
+    },
+    {
+      "paperId": "f8a9f2c53d86c4710fbd1c060b4cb2dc0c17926d"
+    },
+    {
+      "paperId": "53498b49ce6fccc53632b18d72f21dc3739196a4"
+    },
+    {
+      "paperId": "df339079252e26156dcf3c74db985294aeafeda3"
+    },
+    {
+      "paperId": "4602f0fbc4d8529dbbd0b0cdb8fd56a78c4747e7"
+    },
+    {
+      "paperId": "ecb74f9939164b0c146e0a85435cbd9ef978305f"
+    },
+    {
+      "paperId": "71111d953442bbd631da9f1a3cf9c7b3d74702de"
+    },
+    {
+      "paperId": "6603e98ba707b737211d29c89248eaa4ec53bd16"
+    },
+    {
+      "paperId": "551d2b55067c06b5667cfc35b3b20096b9235cb4"
+    },
+    {
+      "paperId": "f580893d681a526f3bec9bfbd493b39937b0dca1"
+    },
+    {
+      "paperId": "d080fb7c7cd1bf65be60ec9cd47dd44fca0abb66"
+    },
+    {
+      "paperId": "afefe35db68dabf33fa548ab818b46c47c860e08"
+    },
+    {
+      "paperId": "170ee9747962f781dfcc6d89705f05c0c30fd4e8"
+    },
+    {
+      "paperId": "9f54a0057d0694bc7d1dcf69d186e313ca92775c"
+    },
+    {
+      "paperId": "f81a512e42f925ad59d84289df8103f4311b0b1f"
+    },
+    {
+      "paperId": "bd58bd2250771a3a8529bd1733936c0ebebcdb28"
+    },
+    {
+      "paperId": "9d8dd0cd22803be20338783c2b06462b9e5ec0d6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c8823d63cb6d01e0c99cbfcb80316d209c7345f3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9aa80aa73cfd596a2c9b0fcea80a78a9e4c910cb"
+    },
+    {
+      "paperId": "29b5bf27ac523a36f9c39260c0a3728542b7a850"
+    },
+    {
+      "paperId": "fd6869e660b0ced599c62d2f58128c64e59e5967"
+    },
+    {
+      "paperId": "ade63ffd12f7c1a1c46c97d86a265ac14cc5e14f"
+    },
+    {
+      "paperId": "11c8fbbbbf1d20c91fa79b55a4aa1c30ad4c94ef"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

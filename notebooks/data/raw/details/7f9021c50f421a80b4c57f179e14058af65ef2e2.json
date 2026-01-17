@@ -1,0 +1,172 @@
+{
+  "paperId": "7f9021c50f421a80b4c57f179e14058af65ef2e2",
+  "externalIds": {
+    "PubMedCentral": "6053346",
+    "MAG": "2883110599",
+    "DOI": "10.1186/s13065-018-0453-y",
+    "CorpusId": 51702711,
+    "PubMed": "30027362"
+  },
+  "url": "https://www.semanticscholar.org/paper/7f9021c50f421a80b4c57f179e14058af65ef2e2",
+  "title": "Simultaneous determination of five azadirachtins in the seed and leaf extracts of Azadirachta indica by automated online solid-phase extraction coupled with LC–Q-TOF–MS",
+  "venue": "Chemistry Central Journal",
+  "year": 2018,
+  "citationCount": 13,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://bmcchem.biomedcentral.com/track/pdf/10.1186/s13065-018-0453-y",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6053346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2150597522",
+      "name": "Li Song"
+    },
+    {
+      "authorId": "145121119",
+      "name": "Jin Wang"
+    },
+    {
+      "authorId": "2337868280",
+      "name": "Quan Gao"
+    },
+    {
+      "authorId": "4230667",
+      "name": "Xiaojian Ma"
+    },
+    {
+      "authorId": "2108953630",
+      "name": "Yuwei Wang"
+    },
+    {
+      "authorId": "2118392604",
+      "name": "Y. Zhang"
+    },
+    {
+      "authorId": "5432134",
+      "name": "Hang Xun"
+    },
+    {
+      "authorId": "144246686",
+      "name": "Xi Yao"
+    },
+    {
+      "authorId": "144302687",
+      "name": "F. Tang"
+    }
+  ],
+  "abstract": "Neem (Azadirachta indica) extract is well-known as a natural pesticide for the control of agricultural pests. Azadirachtin A and its structural analogues are considered as active compounds. However, the amounts of azadirachtins varies in neem extracts, providing a variety of insecticidal activities. In this study, a novel method of automated online solid-phase extraction coupled with liquid chromatography/quadrupole-time-of-flight mass spectrometry (SPE-LC–Q-TOF–MS) was developed and validated for simultaneous quantification of five azadirachtins (azadirachtins A, B, D, H and I) in seed and leaf extracts of A. indica. Different experimental parameters (such as SPE cartridge, injection volume and washing step) were optimized. The optimized SPE-LC–Q-TOF–MS method showed good recovery (82.0–102.8%), linearity (r2 ≥ 0.9991) and precision (0.83–4.83%). The limit of detections (LODs) for the five analytes ranged from 0.34 to 0.76 ng mL−1. The validated method was successfully applied for determination of the analytes in the neem leaves and seeds from different locations and a neem formulation. The online SPE-LC–Q-TOF–MS method was found to be a simple, precise and accurate and can be used as a powerful tool for quality control of neem extracts or its formulations.",
+  "references": [
+    {
+      "paperId": "71b79f88f72c00b0e412a6012223e4bed21d02c2"
+    },
+    {
+      "paperId": "6d9611cfa2ec0737c870dbd601db954d291f008e"
+    },
+    {
+      "paperId": "3dc0ffbf3a2577cc0804c7f2cc51e376103b0aab"
+    },
+    {
+      "paperId": "85a1bd24731cacbd8c942c41b832a3a5a1d62dba"
+    },
+    {
+      "paperId": "b29725c0bcc329a5273423ce34cf781cecf1665c"
+    },
+    {
+      "paperId": "be03675348bac93463c95dd99ed9c4eb2019ca17"
+    },
+    {
+      "paperId": "2f2158daac6087ba90ecd038487beb24e0554895"
+    },
+    {
+      "paperId": "42ba168f22cba946c186d4a829b9b894998b916a"
+    },
+    {
+      "paperId": "1b2b7a3fa79afa20cef8098ae21df0b79ac7f587"
+    },
+    {
+      "paperId": "0ecba576ee1906449684d1cd08bc2bbad2f7cbbc"
+    },
+    {
+      "paperId": "07312df3176e7421376df53d9e8117cd0b2ca870"
+    },
+    {
+      "paperId": "d6b9309a7e584315392bfa8ee6563ba426c9d1f8"
+    },
+    {
+      "paperId": "c82648c6115967b1c46752a791ede10472b4afec"
+    },
+    {
+      "paperId": "821f4e04174d7b24f1b31057663f79651faf5095"
+    },
+    {
+      "paperId": "783ed9b1f091c758dff41a8a9c151b2ba55c948a"
+    },
+    {
+      "paperId": "5ba5f53cfa6a59c5b811095689ccc022eb37ff0a"
+    },
+    {
+      "paperId": "74c9113aa1ef981a3a9cb2efdb8f9b60a7819a8a"
+    },
+    {
+      "paperId": "73dba4f113ac73c00cf9bd532c5131f15e1f4564"
+    },
+    {
+      "paperId": "0fced6ca8a913075db5cd3e9df88e82fd40a49bd"
+    },
+    {
+      "paperId": "00434a22bc8824ec02690d5b1c6e897d7185ac94"
+    },
+    {
+      "paperId": "d6e0bed46e9198129267e6badd4352a29a7cbc5c"
+    },
+    {
+      "paperId": "0c5fbb2a66f0775f6ca55e1673324ee9dd18553b"
+    },
+    {
+      "paperId": "bd063855607090c0d92d7da7373f464fa6930d20"
+    },
+    {
+      "paperId": "b11f8294d1b45cd6d10cbea779825f92505de48e"
+    },
+    {
+      "paperId": "5a2eb214abbeee808a208b632654b1668be354b6"
+    },
+    {
+      "paperId": "be96ec1007414dd950f6bd617aebe39031e5dd9b"
+    },
+    {
+      "paperId": "27a1f4f93318e758c66eb73f86f20f2d12e11305"
+    },
+    {
+      "paperId": "d85de048e8894adf2ae788331ad73c4ea5eb2595"
+    },
+    {
+      "paperId": "55e5580dd807f66d4aa8f85844de3962a3f8e0bc"
+    },
+    {
+      "paperId": "96248827b9dd0f3f77e6f029f5f42c93deaf65c3"
+    },
+    {
+      "paperId": "69817be28db31863def26cbbab35f3fdb1ee9124"
+    },
+    {
+      "paperId": "3cb3599ff6d296d3bbd4ad061cb792f74a8aadb3"
+    },
+    {
+      "paperId": "6b1416069e66d04f41d01b9242f410821054bcbe"
+    },
+    {
+      "paperId": "5c5b387dc4f4af11491594a035b0d8fae53e8ad8"
+    }
+  ]
+}

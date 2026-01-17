@@ -1,0 +1,35 @@
+{
+  "paperId": "b334ec1dce794a60ab91c09fc3f4d86378eeaa8d",
+  "externalIds": {
+    "MAG": "2957006383",
+    "DBLP": "conf/rtip2r/Shanthi18",
+    "DOI": "10.1007/978-981-13-9187-3_40",
+    "CorpusId": 199011018
+  },
+  "url": "https://www.semanticscholar.org/paper/b334ec1dce794a60ab91c09fc3f4d86378eeaa8d",
+  "title": "Smart Irrigation and Crop Yield Prediction Using Wireless Sensor Networks and Machine Learning",
+  "venue": "International Conference on Recent Trends in Image Processing and Pattern Recognition",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-9187-3_40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-9187-3_40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2374464036",
+      "name": "L. ShanthiD."
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

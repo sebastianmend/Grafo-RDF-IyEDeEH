@@ -1,0 +1,95 @@
+{
+  "paperId": "1c3618e48e113b3d9451d3d49df64566dc9c9f67",
+  "externalIds": {
+    "MAG": "2944800467",
+    "PubMedCentral": "6572944",
+    "DOI": "10.12669/pjms.35.3.293",
+    "CorpusId": 164353725,
+    "PubMed": "31258586"
+  },
+  "url": "https://www.semanticscholar.org/paper/1c3618e48e113b3d9451d3d49df64566dc9c9f67",
+  "title": "Incidence of occupational injuries among adults residing in a selected rural area of India: A cross sectional study",
+  "venue": "Pakistan Journal of Medical Sciences",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://www.pjms.org.pk/index.php/pjms/article/download/293/156",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6572944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "82185149",
+      "name": "S. Ravi"
+    },
+    {
+      "authorId": "113927434",
+      "name": "B. Joseph"
+    }
+  ],
+  "abstract": "Objectives: The objectives of this study were to assess the incidence and profile of occupational injuries among rural workers of rural India. Methods: This study was conducted among all persons between the ages of 18 to 60 years and engaged in some occupation and residing in the villages under the three rural subcentres of Sarjapur Primary Health Centre during the time period of 2009-2012. The sample size was calculated to be 400 assuming a prevalence of 10% and absolute precision of 3% at 95% confidence limits and a systematic random sampling of the household was done to select the study population. Results: The incidence of occupational injuries in the study period of 2009-2012 was 22%. Out of the total 91 injuries, the proportion of injuries, which were agriculture-related, was 62%. The most common cause of injury was due to contact with plant thorns. Above half (54%) involved the upper limbs, and (30%) involved the lower limbs. By using the injury severity scale, 88% were of minor degree. 67% required treatment and 32% of the injured persons took treatment in a private hospital. Those who sustained an injury, 9% required admission to a hospital. Three participants have sustained a permanent disability during this study. Conclusion: The Incidence of occupational injuries was found to be 22% and agriculture showed to have the highest proportion of injuries.",
+  "references": [
+    {
+      "paperId": "4994a88a3448a0a2d008a8c6031c7947cad09730"
+    },
+    {
+      "paperId": "e5f29b74042be5b257d72d9d9f233dc3d6b1f15d"
+    },
+    {
+      "paperId": "baf3c824460d87a3c2bd10035099ecffdc1d35b1"
+    },
+    {
+      "paperId": "691f10ba0680b74f4d2a7de28a8ac07b325e6023"
+    },
+    {
+      "paperId": "384cf1dd067398a43654a00340e9afb02d7be33d"
+    },
+    {
+      "paperId": "1cb3e7cba6b2be08eebe5630460bf427f20283ac"
+    },
+    {
+      "paperId": "e383218a65bbc63e21ee95cafc4bfe6416c06bc6"
+    },
+    {
+      "paperId": "20b185ea086803d4e7342445a737512bf0eed22c"
+    },
+    {
+      "paperId": "31c40670f625e3b865ea8323c372f5a64da8dc19"
+    },
+    {
+      "paperId": "1c4221754e46312d128acdf87c54d9d2b16fd2dd"
+    },
+    {
+      "paperId": "d834721dbab6e7d4dec74ceb72b931764a231a7a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

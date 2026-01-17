@@ -1,0 +1,31 @@
+{
+  "paperId": "816d3b193f1eea81034356902b45a3b9506ffe5c",
+  "externalIds": {
+    "DOI": "10.1037/e671792007-045",
+    "CorpusId": 259633052
+  },
+  "url": "https://www.semanticscholar.org/paper/816d3b193f1eea81034356902b45a3b9506ffe5c",
+  "title": "Leaders in the Field",
+  "venue": "Engineer",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1037/e671792007-045?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1037/e671792007-045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2052927458",
+      "name": "J. Ford"
+    }
+  ],
+  "abstract": "Precision agriculture, using drones and GPS, can push up yields for farmers.",
+  "references": null
+}

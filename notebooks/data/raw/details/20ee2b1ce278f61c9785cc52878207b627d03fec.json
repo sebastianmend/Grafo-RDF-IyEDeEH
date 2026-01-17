@@ -1,0 +1,50 @@
+{
+  "paperId": "20ee2b1ce278f61c9785cc52878207b627d03fec",
+  "externalIds": {
+    "MAG": "2949516572",
+    "DOI": "10.1109/ITNEC.2019.8729302",
+    "CorpusId": 174819294
+  },
+  "url": "https://www.semanticscholar.org/paper/20ee2b1ce278f61c9785cc52878207b627d03fec",
+  "title": "Research on Automatic Driving System of Agricultural Machinery Based on Embedded",
+  "venue": "2019 IEEE 3rd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ITNEC.2019.8729302?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ITNEC.2019.8729302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2090247382",
+      "name": "Zhenzhen Dong"
+    },
+    {
+      "authorId": "2144221714",
+      "name": "Hao Wang"
+    },
+    {
+      "authorId": "9723467",
+      "name": "Yongwei Tang"
+    },
+    {
+      "authorId": "2109130503",
+      "name": "Maoli Wang"
+    },
+    {
+      "authorId": "49530575",
+      "name": "Jingbo Zhao"
+    }
+  ],
+  "abstract": "In view of the shortage of resources in China, the development of people’s increased land, the promotion of agricultural production technology, and the importance of ensuring China’s food security and enhancing agricultural productivity. This paper studies agricultural machinery automatic driving control technology, integrates satellite positioning, embedded software and hardware development, data communication, automatic control and other cutting-edge technologies to promote the development of modern agricultural intelligence, improve the level of modern agricultural information in China, and contribute to the realization of precision agriculture.",
+  "references": null
+}

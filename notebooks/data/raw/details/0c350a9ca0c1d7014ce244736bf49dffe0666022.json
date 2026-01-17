@@ -1,0 +1,38 @@
+{
+  "paperId": "0c350a9ca0c1d7014ce244736bf49dffe0666022",
+  "externalIds": {
+    "MAG": "3016659452",
+    "DOI": "10.1109/ICCS45141.2019.9065768",
+    "CorpusId": 215815656
+  },
+  "url": "https://www.semanticscholar.org/paper/0c350a9ca0c1d7014ce244736bf49dffe0666022",
+  "title": "Design of microcontroller based agribot for fertigation and plantation",
+  "venue": "International Conference on Conceptual Structures",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCS45141.2019.9065768?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCS45141.2019.9065768, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1642313133",
+      "name": "Akshay Y. Kachor"
+    },
+    {
+      "authorId": "1397286173",
+      "name": "K. Ghodinde"
+    }
+  ],
+  "abstract": "Multiplying financial gain of farmers until 2022-23 from the bottom year of 2015-16 needs yearly development of 10.42 percent in farmer’s income approximately. At present two remarkable issues are there in agriculture which includes water shortage and high work costs. These issues can be settled by utilizing automation in agriculture, which enhances the precision agriculture. Use of robotic science in agriculture is present for more than 20 years. In this paper self-decision robot for cultivating (Agribot) is displayed and intended for performing distinctive agrarian tasks like planting, segregating, fertilizers and insecticides spraying, specifically tested on Pomegranate crop. assembly is controlled with the help of Arduino Mega board which has Atmega 2560 microcontroller. An Agribot can improve the crop yield by treating crop individually utilizing the accurate cultivating idea. For short distance communication, Bluetooth has been used and for long distance communication, GSM has been used. An android app is developed to control and monitor the pump.",
+  "references": null
+}

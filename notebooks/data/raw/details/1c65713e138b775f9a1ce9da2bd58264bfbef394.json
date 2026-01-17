@@ -1,0 +1,39 @@
+{
+  "paperId": "1c65713e138b775f9a1ce9da2bd58264bfbef394",
+  "externalIds": {
+    "DBLP": "conf/wf-iot/SalamS19a",
+    "MAG": "2944445315",
+    "DOI": "10.1109/WF-IoT.2019.8767306",
+    "CorpusId": 169971163
+  },
+  "url": "https://www.semanticscholar.org/paper/1c65713e138b775f9a1ce9da2bd58264bfbef394",
+  "title": "Internet of Things in Smart Agriculture: Enabling Technologies",
+  "venue": "World Forum on Internet of Things",
+  "year": 2019,
+  "citationCount": 86,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WF-IoT.2019.8767306?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WF-IoT.2019.8767306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "37785838",
+      "name": "Abdul Salam"
+    },
+    {
+      "authorId": "2140074191",
+      "name": "Syed Asif Ali Shah"
+    }
+  ],
+  "abstract": "In this paper, an IoT technology research and innovation roadmap for the field of precision agriculture (PA) is presented. Many recent practical trends and the challenges have been highlighted. Some important objectives for integrated technology research and education in precision agriculture are described. Effective IoT based communications and sensing approaches to mitigate challenges in the area of precision agriculture are presented.",
+  "references": null
+}

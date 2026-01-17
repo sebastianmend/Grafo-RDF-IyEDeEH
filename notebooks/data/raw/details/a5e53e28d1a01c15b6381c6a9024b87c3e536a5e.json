@@ -1,0 +1,42 @@
+{
+  "paperId": "a5e53e28d1a01c15b6381c6a9024b87c3e536a5e",
+  "externalIds": {
+    "MAG": "2999426395",
+    "DOI": "10.1109/INCOS45849.2019.8951356",
+    "CorpusId": 210697301
+  },
+  "url": "https://www.semanticscholar.org/paper/a5e53e28d1a01c15b6381c6a9024b87c3e536a5e",
+  "title": "Classification of Cotton Leaf Disease Using Multi-Support Vector Machine",
+  "venue": "International Workshop on Intelligent Networking and Collaborative Systems",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INCOS45849.2019.8951356?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INCOS45849.2019.8951356, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1486448101",
+      "name": "A. Jenifa"
+    },
+    {
+      "authorId": "2285279406",
+      "name": "Dr. R. Ramalakshmi"
+    },
+    {
+      "authorId": "2124675407",
+      "name": "V. Ramachandran"
+    }
+  ],
+  "abstract": "Management of crops along with its production plays a vital role in order to cope-up with the increasing population eventually reduce the possibility of illness to the human power. With an aid of precision agriculture along with the emerging technology, we could ensure the crops get optimum nutrition fixing the cons of traditional procedure. In this paper, Multi-Support Vector Machine based classification for cotton leaf disease is proposed. The proposed algorithm uses automatic snaps of the crops at every stage, process them at very early stages to determine their flaws, so that the farmer’s loss both in terms of money and goods to be hence avoided. The above said Multi-SVM algorithm are models that are either supervised by human or robot which, when fed with the essential data makes segmentation and classification of the types of illness. The Image processing is been implemented to get the capture of leaves at significant stages. This Multi-SVM when compared over the Convolutional Neural Networks has several advantages. While the Multi-SVM is global and unique, the Convolutional neural network suffers from multiple local minima. The complexity of computation of Multi-SVM does not depend on the dimensions of the input space while the Convolutional Neural Networks does. The reason why Multi-SVM outperform Convolutional Neural Network is Multi-SVMs are less prone to over fits.",
+  "references": null
+}

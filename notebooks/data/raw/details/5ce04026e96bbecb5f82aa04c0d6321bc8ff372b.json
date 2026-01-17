@@ -1,0 +1,59 @@
+{
+  "paperId": "5ce04026e96bbecb5f82aa04c0d6321bc8ff372b",
+  "externalIds": {
+    "MAG": "2965399567",
+    "DBLP": "conf/isie/SalvadoMLMMCB19",
+    "DOI": "10.1109/ISIE.2019.8781301",
+    "CorpusId": 199440194
+  },
+  "url": "https://www.semanticscholar.org/paper/5ce04026e96bbecb5f82aa04c0d6321bc8ff372b",
+  "title": "Semantic Navigation Mapping from Aerial Multispectral Imagery",
+  "venue": "International Symposium on Industrial Electronics",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISIE.2019.8781301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISIE.2019.8781301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145886540",
+      "name": "Ana Beatriz Salvado"
+    },
+    {
+      "authorId": "144026507",
+      "name": "Ricardo Mendonça"
+    },
+    {
+      "authorId": "2053440622",
+      "name": "André Lourenço"
+    },
+    {
+      "authorId": "144073829",
+      "name": "Francisco Marques"
+    },
+    {
+      "authorId": "1413070832",
+      "name": "J. Matos-Carvalho"
+    },
+    {
+      "authorId": "123797351",
+      "name": "L. Campos"
+    },
+    {
+      "authorId": "144008078",
+      "name": "J. Barata"
+    }
+  ],
+  "abstract": "The emergence of Unmanned Aerial Vehicles (UAV) in the Precision Agriculture (PA) domain allowed decision support systems to have access to aerial images of the terrain surface. By exploiting multispectral aerial imagery, crop health analysis and terrain classification and mapping is possible. Therefore, this work proposes an open-source ROS-based (Robot Operating System) framework, capable of handling multispectral imagery and exploit it for terrain classification, building semantic maps structured by layers of vegetation, water, soil and rocks. The obtained experimental results were validated in the scope of several research projects funded by the Portuguese Rural Development Plan PDR2020, with success rates between 70% and 90%.",
+  "references": null
+}

@@ -1,0 +1,47 @@
+{
+  "paperId": "01032be0c159e670353f02c67509615bc60dd376",
+  "externalIds": {
+    "DBLP": "conf/africom/SousaRPM18",
+    "MAG": "2922822194",
+    "DOI": "10.1007/978-3-030-16042-5_24",
+    "CorpusId": 149615190
+  },
+  "url": "https://www.semanticscholar.org/paper/01032be0c159e670353f02c67509615bc60dd376",
+  "title": "Comm4Dev: Communication Infrastructure for Development",
+  "venue": "International Conference on e-Infrastructure and e-Services for Developing Countries",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-16042-5_24?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-16042-5_24, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145320945",
+      "name": "António B. Sousa"
+    },
+    {
+      "authorId": "2690121",
+      "name": "Carlos Resende"
+    },
+    {
+      "authorId": "2109776051",
+      "name": "André Pereira"
+    },
+    {
+      "authorId": "2072950205",
+      "name": "Waldir Moreira"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

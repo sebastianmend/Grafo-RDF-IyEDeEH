@@ -1,0 +1,178 @@
+{
+  "paperId": "477dac821d73c2865d3f3e2aedfdfe13f0661b93",
+  "externalIds": {
+    "PubMedCentral": "6263869",
+    "DBLP": "journals/sensors/VeumPSH18",
+    "MAG": "2901458356",
+    "DOI": "10.3390/s18113869",
+    "CorpusId": 140105730,
+    "PubMed": "30423836"
+  },
+  "url": "https://www.semanticscholar.org/paper/477dac821d73c2865d3f3e2aedfdfe13f0661b93",
+  "title": "Predicting Profile Soil Properties with Reflectance Spectra via Bayesian Covariate-Assisted External Parameter Orthogonalization",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 35,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/11/3869/pdf?version=1541846319",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6263869, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2934965",
+      "name": "Kristen S. Veum"
+    },
+    {
+      "authorId": "34888973",
+      "name": "Paul A. Parker"
+    },
+    {
+      "authorId": "6756066",
+      "name": "K. Sudduth"
+    },
+    {
+      "authorId": "3220948",
+      "name": "S. Holan"
+    }
+  ],
+  "abstract": "In situ, diffuse reflectance spectroscopy (DRS) profile soil sensors have the potential to provide both rapid and high-resolution prediction of multiple soil properties for precision agriculture, soil health assessment, and other applications related to environmental protection and agronomic sustainability. However, the effects of soil moisture, other environmental factors, and artefacts of the in-field spectral data collection process often hamper the utility of in situ DRS data. Various processing and modeling techniques have been developed to overcome these challenges, including external parameter orthogonalization (EPO) transformation of the spectra. In addition, Bayesian modeling approaches may improve prediction over traditional partial least squares (PLS) regression. The objectives of this study were to predict soil organic carbon (SOC), total nitrogen (TN), and texture fractions using a large, regional dataset of in situ profile DRS spectra and compare the performance of (1) traditional PLS analysis, (2) PLS on EPO-transformed spectra (PLS-EPO), (3) PLS-EPO with the Bayesian Lasso (PLS-EPO-BL), and (4) covariate-assisted PLS-EPO-BL models. In this study, soil cores and in situ profile DRS spectrometer scans were obtained to ~1 m depth from 22 fields across Missouri and Indiana, USA. In the laboratory, soil cores were split by horizon, air-dried, and sieved (<2 mm) for a total of 708 samples. Soil properties were measured and DRS spectra were collected on these air-dried soil samples. The data were randomly split into training (n = 308), testing (n = 200), and EPO calibration (n = 200) sets, and soil textural class was used as the categorical covariate in the Bayesian models. Model performance was evaluated using the root mean square error of prediction (RMSEP). For the prediction of soil properties using a model trained on dry spectra and tested on field moist spectra, the PLS-EPO transformation dramatically improved model performance relative to PLS alone, reducing RMSEP by 66% and 53% for SOC and TN, respectively, and by 76%, 91%, and 87% for clay, silt, and sand, respectively. The addition of the Bayesian Lasso further reduced RMSEP by 4–11% across soil properties, and the categorical covariate reduced RMSEP by another 2–9%. Overall, this study illustrates the strength of the combination of EPO spectral transformation paired with Bayesian modeling techniques to overcome environmental factors and in-field data collection artefacts when using in situ DRS data, and highlights the potential for in-field DRS spectroscopy as a tool for rapid, high-resolution prediction of soil properties.",
+  "references": [
+    {
+      "paperId": "48f611e640e2eac8d3e2fd6d41fc9b9dc3000c96"
+    },
+    {
+      "paperId": "f42a02e71e2d5f4c3371c6c804a5c0333b9abb3b"
+    },
+    {
+      "paperId": "c31ebed3c93efa8c2e6b880a2866aedca78fa8eb"
+    },
+    {
+      "paperId": "c93d7a766bbcaa912660fabc1b085c02d2644b7b"
+    },
+    {
+      "paperId": "b1fc520fd6a4d142bfdfcf54fc99716be707a9e2"
+    },
+    {
+      "paperId": "0e263af83942179d44d3483d1395774ab82d122e"
+    },
+    {
+      "paperId": "f7446c8c2c482e600f9b9011c6166432b38cf263"
+    },
+    {
+      "paperId": "062b79e39bf0ed352e8770ec4625887b22579f2a"
+    },
+    {
+      "paperId": "716e200aab732240010c71051f97e39e3d3ec148"
+    },
+    {
+      "paperId": "fe5ab804653e30ba4fcbe7d4b00af436d92179df"
+    },
+    {
+      "paperId": "2140caf084d1641660a5d78ca8c94db3277f6367"
+    },
+    {
+      "paperId": "6997a6995dfd5df7c3aad46f10a6e9e9f8ef73f1"
+    },
+    {
+      "paperId": "9bf299a8d54453da0fb09f9d9ab6dfcb08069b4f"
+    },
+    {
+      "paperId": "b491f8de595fc711048d6722f8b99910647f033c"
+    },
+    {
+      "paperId": "add2a66a470a5868f91bec7a86508100c3fa94bd"
+    },
+    {
+      "paperId": "8f0a9e828578aba198a34c1421ade2b70b2978e9"
+    },
+    {
+      "paperId": "785ede21535ff3a4ccc75daa990e45363db3a363"
+    },
+    {
+      "paperId": "332bbd351a5cb69a6b0f5f8a1c9458fd84da9d36"
+    },
+    {
+      "paperId": "9b01d0dc115811bf89c836ed527dae5ff7038bb8"
+    },
+    {
+      "paperId": "391e9281618610426b9fb406a2d611cca0b5a200"
+    },
+    {
+      "paperId": "f8be5c743a1f0dd0069f78d989d235e99f73cd8c"
+    },
+    {
+      "paperId": "24109cc6591c0e67539de9fb6a7a9c76d2c13bbb"
+    },
+    {
+      "paperId": "84a65c695cc411eb773ab32123fc8972ee77775a"
+    },
+    {
+      "paperId": "5c112913383a58b48eaa20cc7efcee77947543dd"
+    },
+    {
+      "paperId": "b35a875a87417b417c3557d101eea8e9df976eee"
+    },
+    {
+      "paperId": "bee8a0ecca51ece1952444280087f1b9f3a1949f"
+    },
+    {
+      "paperId": "2df13fd2439a557fb62e230ca6f4063035ed05c9"
+    },
+    {
+      "paperId": "86699ef1b674504eef0d750f085e53f182f13611"
+    },
+    {
+      "paperId": "3d300875f5bd0d963da22adc772cc5fb4325f451"
+    },
+    {
+      "paperId": "64deda0e79fd179a1872ff5b9becd0a09cc42dc9"
+    },
+    {
+      "paperId": "cbb9f5090712edfaab4654eaf7e0ceb91bfb2cda"
+    },
+    {
+      "paperId": "eb8118f5d4e88ca3d535c5f13d45bfb81b5ceddc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "91ba00ee7775aeef84f644f3b2dd1baabf2cf67b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "5ace8f396dad193ca6d84a6423a0038ada4cf1b2"
+    },
+    {
+      "paperId": "b47d4fe6b10f91967d3881c33cb405e3f5a82cfe"
+    },
+    {
+      "paperId": "fa2a88c9a44e8e4b07aff10723d0ba6eb73c5c6f"
+    },
+    {
+      "paperId": "e96d74c9f1d2a7559c5d03f3b1639c7990d4e121"
+    },
+    {
+      "paperId": "8c611de5cc25f12d1eb49ae74f64df2a602215c1"
+    },
+    {
+      "paperId": "ff2c0d4e36af246bb64e7e265ed57b50d03143cb"
+    },
+    {
+      "paperId": "fe40db8ef1450bd8ebed0c1e9dfc038509396251"
+    }
+  ]
+}

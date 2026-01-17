@@ -1,0 +1,93 @@
+{
+  "paperId": "9050a2c7c1cb3e6650a5c630f973874c4047fa03",
+  "externalIds": {
+    "MAG": "2810768461",
+    "DBLP": "journals/wicomm/Gonzalez-Landero18",
+    "DOI": "10.1155/2018/7264269",
+    "CorpusId": 51874885
+  },
+  "url": "https://www.semanticscholar.org/paper/9050a2c7c1cb3e6650a5c630f973874c4047fa03",
+  "title": "ABS-DDoS: An Agent-Based Simulator about Strategies of Both DDoS Attacks and Their Defenses, to Achieve Efficient Data Forwarding in Sensor Networks and IoT Devices",
+  "venue": "Wireless Communications and Mobile Computing",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2018/7264269",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2018/7264269?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2018/7264269, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1405113747",
+      "name": "Franks González-Landero"
+    },
+    {
+      "authorId": "1398294938",
+      "name": "I. García-Magariño"
+    },
+    {
+      "authorId": "6922892",
+      "name": "R. Lacuesta"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    }
+  ],
+  "abstract": "Sensor networks and Internet of Things (IoT) are useful for many purposes such as military defense, sensing in smart homes, precision agriculture, underwater monitoring in aquaculture, and ambient-assisted living for healthcare. Efficient and secure data forwarding is essential to maintain seamless communications and to provide fast services. However, IoT devices and sensors usually have low processing capabilities and vulnerabilities. For example, attacks such as the Distributed Denial of Service (DDoS) can easily hinder sensor networks and IoT devices. In this context, the current approach presents an agent-based simulation solution for exploring strategies for defending from different DDoS attacks. The current work focuses on obtaining low-consuming defense strategies in terms of processing capabilities, so that these can be applied in sensor networks and IoT devices. The experimental results show that the simulator was useful for (a) defining defense and attack strategies, (b) assessing the effectiveness of defense strategies against attack ones, and (c) defining efficient defense strategies with low response times.",
+  "references": [
+    {
+      "paperId": "d9f8ac36fed392a676159ef74ed42609cda6920f"
+    },
+    {
+      "paperId": "9edaeabe456650611b68be64c32b5a0e393e57bb"
+    },
+    {
+      "paperId": "95517e867e873eb7ff06efc2cd24fc81dae1f5c5"
+    },
+    {
+      "paperId": "96633697c4f3c91613d3a0ce1666c1e994466e4d"
+    },
+    {
+      "paperId": "a4e35df1b533b9304a3cc5e8bb378f704d638bd3"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "21431fefe9ab4613c9e606c50d5f9fa8ff8923bd"
+    },
+    {
+      "paperId": "c250f23e244553eb1387672d662f0f23cc200c33"
+    },
+    {
+      "paperId": "4a266eaee47a9de5255188c34724e3253eaf30ae"
+    },
+    {
+      "paperId": "09ffe71eecc9771ab1867d63a2dd90789e0909d8"
+    },
+    {
+      "paperId": "bd8c0d98fd6995c8abec69d5e00f802fa48653d5"
+    },
+    {
+      "paperId": "4ce0125d76629a3b8307987e34fead1b82152d15"
+    },
+    {
+      "paperId": "7ea760f0e7fa4d4ca63cd4dc997a4a91e5cb82d3"
+    },
+    {
+      "paperId": "ee1c76d35f0de1a625ab7fa408ff2b4dc04cadb5"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

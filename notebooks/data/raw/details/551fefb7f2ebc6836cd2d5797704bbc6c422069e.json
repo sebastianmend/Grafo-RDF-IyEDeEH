@@ -16,7 +16,7 @@
     "url": "https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-15-0340-FE",
     "status": "HYBRID",
     "license": "unspecified-oa",
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1094/PDIS-03-15-0340-FE?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1094/PDIS-03-15-0340-FE, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1094/PDIS-03-15-0340-FE?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1094/PDIS-03-15-0340-FE, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Biology",

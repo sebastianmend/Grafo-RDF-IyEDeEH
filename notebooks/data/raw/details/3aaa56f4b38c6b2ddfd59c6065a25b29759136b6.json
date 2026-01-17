@@ -1,0 +1,55 @@
+{
+  "paperId": "3aaa56f4b38c6b2ddfd59c6065a25b29759136b6",
+  "externalIds": {
+    "DBLP": "conf/citi/Lagos-OrtizMSGV18",
+    "MAG": "2894950924",
+    "DOI": "10.1007/978-3-030-00940-3_5",
+    "CorpusId": 133605181
+  },
+  "url": "https://www.semanticscholar.org/paper/3aaa56f4b38c6b2ddfd59c6065a25b29759136b6",
+  "title": "Mobile Applications for Crops Management",
+  "venue": "Congreso Internacional de Tecnologías e Innovación",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-00940-3_5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-00940-3_5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1405074066",
+      "name": "Katty Lagos-Ortiz"
+    },
+    {
+      "authorId": "1405074061",
+      "name": "José Medina-Moreira"
+    },
+    {
+      "authorId": "1453348257",
+      "name": "Andrea Sinche-Guzmán"
+    },
+    {
+      "authorId": "1411075940",
+      "name": "Mayra Garzón-Goya"
+    },
+    {
+      "authorId": "1414666226",
+      "name": "Vanessa Vergara-Lozano"
+    },
+    {
+      "authorId": "1398759108",
+      "name": "R. Valencia-García"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

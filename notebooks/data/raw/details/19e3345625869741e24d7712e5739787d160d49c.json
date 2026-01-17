@@ -1,0 +1,38 @@
+{
+  "paperId": "19e3345625869741e24d7712e5739787d160d49c",
+  "externalIds": {
+    "MAG": "2891369203",
+    "DOI": "10.1007/978-981-10-8681-6_24",
+    "CorpusId": 70075692
+  },
+  "url": "https://www.semanticscholar.org/paper/19e3345625869741e24d7712e5739787d160d49c",
+  "title": "Acquisition and Mining of Agricultural Data Using Ubiquitous Sensors with Internet of Things",
+  "venue": "International Conference on Computer Networks and Communication Technologies",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-10-8681-6_24?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-10-8681-6_24, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47959485",
+      "name": "M. Suma"
+    },
+    {
+      "authorId": "9356434",
+      "name": "P. Madhumathy"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

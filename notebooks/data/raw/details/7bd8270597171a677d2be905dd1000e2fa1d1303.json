@@ -1,0 +1,42 @@
+{
+  "paperId": "7bd8270597171a677d2be905dd1000e2fa1d1303",
+  "externalIds": {
+    "MAG": "2947994654",
+    "DOI": "10.1109/INFOCOMTECH.2018.8722369",
+    "CorpusId": 169031877
+  },
+  "url": "https://www.semanticscholar.org/paper/7bd8270597171a677d2be905dd1000e2fa1d1303",
+  "title": "Weed Detection in Farm Crops using Parallel Image Processing",
+  "venue": "Conference Information and Communication Technology",
+  "year": 2018,
+  "citationCount": 29,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INFOCOMTECH.2018.8722369?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INFOCOMTECH.2018.8722369, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "151501558",
+      "name": "S. Umamaheswari"
+    },
+    {
+      "authorId": "1998844603",
+      "name": "R. Arjun"
+    },
+    {
+      "authorId": "144859041",
+      "name": "D. Meganathan"
+    }
+  ],
+  "abstract": "Human community are educated about the environmental issues of pesticides and fertilizers used in agriculture. There is a ever-growing demand for food to be met by agriculture producers. To reduce the environmental issues and address food security, IoT based precision agriculture has evolved. Precision agriculture not only reduces cost and waste, but also improves productivity and quality. We propose a system to detect and locate the weed plants among the cultivated farm crops based on the captured images of the farm. We also propose to enhance the performance of the above system using parallel processing in GPU such that it can be used in real-time. The proposed system takes real time image of farm as input for classification and detects the type and the location of weed in the image. The proposed work trains the system with images of crops and weeds under deep learning framework which includes feature extraction and classification. The results can be used by automated weed detection system under tasks in precision agriculture.",
+  "references": null
+}

@@ -1,0 +1,54 @@
+{
+  "paperId": "d3e4a4de6cc7fd1de376068108f63b45158b936b",
+  "externalIds": {
+    "MAG": "2943749113",
+    "DOI": "10.9734/JEAI/2019/V35I230203",
+    "CorpusId": 155552879
+  },
+  "url": "https://www.semanticscholar.org/paper/d3e4a4de6cc7fd1de376068108f63b45158b936b",
+  "title": "Optical Sensors for Precision Agriculture: An Outlook",
+  "venue": "Journal of Experimental Agriculture International",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.journaljeai.com/index.php/JEAI/article/download/30203/56788",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.9734/JEAI/2019/V35I230203?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/JEAI/2019/V35I230203, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104314468",
+      "name": "L. Viana"
+    },
+    {
+      "authorId": "13138968",
+      "name": "Deborah Campos Tomaz"
+    },
+    {
+      "authorId": "40664728",
+      "name": "R. Martins"
+    },
+    {
+      "authorId": "145948111",
+      "name": "J. Rosas"
+    },
+    {
+      "authorId": "153534561",
+      "name": "F. Santos"
+    },
+    {
+      "authorId": "74603439",
+      "name": "M. F. Portes"
+    }
+  ],
+  "abstract": "The growing human population added to the rural exodus has aggravated the pressure in the agricultural sector for greater production. Faced with this problem, research has developed optical sensors for more productive agriculture with the purpose of minimizing the effects of rural exodus, obtaining rapid information and promoting the rational use of natural resources. Optical sensors have a differential consisting of the ability to use the spectral signature of an attribute or part of it to gain information, often not obvious. This review provides recent advances in optical sensors as well as future challenges. The studies have shown the wide range of applicability of optical sensors in agriculture, from detection of weeds to identification of soil fertility, which favors management in different areas of agriculture. The main limitation to the use of optical sensors in agriculture in most parts of the world has been the cost of purchasing the devices, especially in poor countries. So one of the future challenges is the reduction of final prices paid by consumers.",
+  "references": null
+}

@@ -1,0 +1,70 @@
+{
+  "paperId": "2534e2a3aa3da4e5e692e227f416b6c0d2ed185d",
+  "externalIds": {
+    "MAG": "2910729503",
+    "DOI": "10.1007/s11119-018-09628-4",
+    "CorpusId": 57617040
+  },
+  "url": "https://www.semanticscholar.org/paper/2534e2a3aa3da4e5e692e227f416b6c0d2ed185d",
+  "title": "An approach to forecast grain crop yield using multi-layered, multi-farm data sets and machine learning",
+  "venue": "Precision Agriculture",
+  "year": 2019,
+  "citationCount": 237,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-09628-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-09628-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "51074469",
+      "name": "P. Filippi"
+    },
+    {
+      "authorId": "145414696",
+      "name": "Edward Jones"
+    },
+    {
+      "authorId": "66371288",
+      "name": "N. Wimalathunge"
+    },
+    {
+      "authorId": "38197548",
+      "name": "Pallegedara D. S. N. Somarathna"
+    },
+    {
+      "authorId": "65956839",
+      "name": "L. Pozza"
+    },
+    {
+      "authorId": "23183629",
+      "name": "S. Ugbaje"
+    },
+    {
+      "authorId": "14931218",
+      "name": "Thomas G. Jephcott"
+    },
+    {
+      "authorId": "40590961",
+      "name": "Stacey Paterson"
+    },
+    {
+      "authorId": "144648192",
+      "name": "B. Whelan"
+    },
+    {
+      "authorId": "117261245",
+      "name": "T. Bishop"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

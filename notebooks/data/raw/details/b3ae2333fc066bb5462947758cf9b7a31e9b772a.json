@@ -1,0 +1,97 @@
+{
+  "paperId": "b3ae2333fc066bb5462947758cf9b7a31e9b772a",
+  "externalIds": {
+    "DBLP": "journals/ijoe/ZhengY18",
+    "MAG": "2804241935",
+    "DOI": "10.3991/IJOE.V14I05.8653",
+    "CorpusId": 53082998
+  },
+  "url": "https://www.semanticscholar.org/paper/b3ae2333fc066bb5462947758cf9b7a31e9b772a",
+  "title": "Design of a Precision Agriculture Leakage Seeding System Based on Wireless Sensors",
+  "venue": "International Journal of Online Engineering (iJOE)",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://online-journals.org/index.php/i-joe/article/download/8653/4973",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3991/IJOE.V14I05.8653?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3991/IJOE.V14I05.8653, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2118455207",
+      "name": "Jiaxin Zheng"
+    },
+    {
+      "authorId": "50741247",
+      "name": "Wencai Yang"
+    }
+  ],
+  "abstract": "In light of the agricultural development in China, more attention has been paid to the studies about precision agriculture. The environmental factors such as temperature-humidity and soil humidity are the key influencing factors on crop growth, therefore, how to rapidly and accurately acquire the environmental information of crop growth and learn about their real-time growing environment is of vital importance. The wireless sensor networks (WSN) can make real-time environmental information acquisition as well as communication and processing of network environmental data. Based on this, the RSSI range-based positioning method was optimized in this paper in order to greatly improve its precision. To be specific, in this study, the particle swarm optimization (PSO) algorithm was firstly applied in the hybrid mutation strategy to make more accurate node positioning and significantly improve the evolutionary performance by enlarging the hunting zone; besides, through the use of WSN, the influencing parameters on crop growth such as soil humidity, and temperature-humidity etc. would be monitored; finally, to realize the precise location and derive the unseeded nodes, GPS was applied for accurate positioning, and the intelligence algorithm was adopted to determine the coordinate position of unknown nodes. At last, the actual field test indicates that the designed monitoring system in this paper satisfies the requirements for precise measurement, playing a positive role in promoting the development of precision agriculture.",
+  "references": [
+    {
+      "paperId": "9005f989c9a5b72fd12d695242ca9a402c1adfbd"
+    },
+    {
+      "paperId": "2829aea5ce1180ab41b616a2f39c78a2510e3d61"
+    },
+    {
+      "paperId": "0ce07621b84be65c99126e3a83a78927f9206b79"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "12af3bbe1514043db10d3ee3a99f53a7f56edc23"
+    },
+    {
+      "paperId": "498e19ba5fc8295693cf87b34c227d1e5dcdf284"
+    },
+    {
+      "paperId": "aae9c28e707ec9fe1dda84d042d8146c67310f19"
+    },
+    {
+      "paperId": "cd9b8f9bf21e8594cbba3223c43d600f5b057db1"
+    },
+    {
+      "paperId": "d480edd6ef61940a177c0491c96ac5cce0716feb"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "6fca9c25af24a4f0821b32bf00c12e7851882a91"
+    },
+    {
+      "paperId": "cf4478ea5f05673facc9dea8b1572b32ef116699"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "e317517d1e177afeb50a7d99b2bff41e9f834d49"
+    },
+    {
+      "paperId": "8f24558a6e40db7e8c591c7c5c9257ce88769411"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "640563375bdb200e9ba93af79db592cc9e795015"
+    },
+    {
+      "paperId": "e31e8a753a9bbd112d4c170c3b3f487a24632d56"
+    }
+  ]
+}

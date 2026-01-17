@@ -1,0 +1,36 @@
+{
+  "paperId": "b5c0da902cfb846be8517b870768e2359116e2ba",
+  "externalIds": {
+    "MAG": "2887203048",
+    "CorpusId": 50778541
+  },
+  "url": "https://www.semanticscholar.org/paper/b5c0da902cfb846be8517b870768e2359116e2ba",
+  "title": "Visualisation of Big Data in Agriculture and Rural Development",
+  "venue": "IST-Africa Week Conference",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "48740833",
+      "name": "K. Jedlička"
+    },
+    {
+      "authorId": "2289002",
+      "name": "K. Charvát"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

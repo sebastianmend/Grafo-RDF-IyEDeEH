@@ -1,0 +1,41 @@
+{
+  "paperId": "205398a9bf14fc65f87b9799f40b0d55774360ce",
+  "externalIds": {
+    "DBLP": "conf/icecsys/SophocleousG19",
+    "MAG": "3002362847",
+    "DOI": "10.1109/ICECS46596.2019.8964950",
+    "CorpusId": 210931145
+  },
+  "url": "https://www.semanticscholar.org/paper/205398a9bf14fc65f87b9799f40b0d55774360ce",
+  "title": "Instrumentation Challenges for Impedance Spectroscopy for Precision Agriculture Applications",
+  "venue": "International Conference on Electronics, Circuits, and Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECS46596.2019.8964950?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECS46596.2019.8964950, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "69843779",
+      "name": "M. Sophocleous"
+    },
+    {
+      "authorId": "1742152",
+      "name": "J. Georgiou"
+    }
+  ],
+  "abstract": "This paper provides an overview of the electronic instrumentation most commonly used for electrical and/or electrochemical impedance spectroscopy. The system is broken down to its most significant functional blocks and the most common approaches are explained. The paper further discusses the ability of these circuits to be used for soil impedance measurements and subsequently as a new, powerful tool for precision agriculture. The instrumentation requirements, limitations and remaining challenges for this specific application are further discussed.",
+  "references": null
+}

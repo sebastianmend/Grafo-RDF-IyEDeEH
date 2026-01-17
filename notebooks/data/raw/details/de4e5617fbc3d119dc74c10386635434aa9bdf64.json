@@ -1,0 +1,33 @@
+{
+  "paperId": "de4e5617fbc3d119dc74c10386635434aa9bdf64",
+  "externalIds": {
+    "MAG": "2942943235",
+    "CorpusId": 26757834
+  },
+  "url": "https://www.semanticscholar.org/paper/de4e5617fbc3d119dc74c10386635434aa9bdf64",
+  "title": "Flourish – A robotic approach for automation in crop management",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geography",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2538810",
+      "name": "F. Liebisch"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,267 @@
+{
+  "paperId": "be73cd6e6534316b51a089e39e11ca0da8bfd637",
+  "externalIds": {
+    "MAG": "2941400914",
+    "PubMedCentral": "6436235",
+    "DOI": "10.1186/s13007-019-0418-8",
+    "CorpusId": 85527349,
+    "PubMed": "30972143"
+  },
+  "url": "https://www.semanticscholar.org/paper/be73cd6e6534316b51a089e39e11ca0da8bfd637",
+  "title": "Dynamic monitoring of biomass of rice under different nitrogen treatments using a lightweight UAV with dual image-frame snapshot cameras",
+  "venue": "Plant Methods",
+  "year": 2019,
+  "citationCount": 134,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1186/s13007-019-0418-8",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6436235, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50762136",
+      "name": "Haiyan Cen"
+    },
+    {
+      "authorId": "144869987",
+      "name": "Liang Wan"
+    },
+    {
+      "authorId": "51440675",
+      "name": "Jiangpeng Zhu"
+    },
+    {
+      "authorId": "50025709",
+      "name": "Yijian Li"
+    },
+    {
+      "authorId": "2120311100",
+      "name": "Xiaoran Li"
+    },
+    {
+      "authorId": "2109528882",
+      "name": "Yueming Zhu"
+    },
+    {
+      "authorId": "47467394",
+      "name": "Haiyong Weng"
+    },
+    {
+      "authorId": "2110588610",
+      "name": "Weikang Wu"
+    },
+    {
+      "authorId": "21114514",
+      "name": "Wenxin Yin"
+    },
+    {
+      "authorId": "2110076437",
+      "name": "Chi Xu"
+    },
+    {
+      "authorId": "8422588",
+      "name": "Y. Bao"
+    },
+    {
+      "authorId": "2117930415",
+      "name": "Lei Feng"
+    },
+    {
+      "authorId": "32811295",
+      "name": "Jianyao Shou"
+    },
+    {
+      "authorId": "72277943",
+      "name": "Yong He"
+    }
+  ],
+  "abstract": "Unmanned aerial vehicle (UAV)-based remote sensing provides a flexible, low-cost, and efficient approach to monitor crop growth status at fine spatial and temporal resolutions, and has a high potential to accelerate breeding process and improve precision field management. In this study, we discussed the use of lightweight UAV with dual image-frame snapshot cameras to estimate aboveground biomass (AGB) and panicle biomass (PB) of rice at different growth stages with different nitrogen (N) treatments. The spatial–temporal variations in the typical vegetation indices (VIs) and AGB were first investigated, and the accuracy of crop surface model (CSM) extracted from the Red Green Blue (RGB) images at two different stages were also evaluated. Random forest (RF) model for AGB estimation as well as the PB was then developed. Furthermore, variable importance and sensitivity analysis of UAV variables were performed to study the potential of improving model robustness and prediction accuracies. It was found that the canopy height extracted from the CSM (Hcsm) exhibited a high correlation with the ground-measured canopy height, while it was unsuitable to be independently used for biomass assessment of rice during the entire growth stages. We also observed that several VIs were highly correlated with AGB, and the modified normalized difference spectral index extracted from the multispectral image achieved the highest correlation. RF model with fusing RGB and multispectral image data substantially improved the prediction results of AGB and PB with the prediction of root mean square error (RMSEP) reduced by 8.33–16.00%. The best prediction results for AGB and PB were achieved with the coefficient of determination (r2), the RMSEP and relative RMSE (RRMSE) of 0.90, 0.21 kg/m2 and 14.05%, and 0.68, 0.10 kg/m2 and 12.11%, respectively. In addition, the result confirmed that the sensitivity analysis could simplify the prediction model without reducing the prediction accuracy. These findings demonstrate the feasibility of applying lightweight UAV with dual image-frame snapshot cameras for rice biomass estimation, and its potential for high throughput analysis of plant growth-related traits in precision agriculture as well as the advanced breeding program.",
+  "references": [
+    {
+      "paperId": "1cfd24c85000da2f6c06bc554e46a9f31af1e026"
+    },
+    {
+      "paperId": "93270f45924ee7c7fd6eb6ec534216dc75789736"
+    },
+    {
+      "paperId": "c609019f7559bb3a311aa556977085c366de8003"
+    },
+    {
+      "paperId": "fbbc7ef33a03c88e54491116bb4d8cbf8c8933e6"
+    },
+    {
+      "paperId": "c333ab6d4020685fe4fc0b5e1ecad6d5054ba629"
+    },
+    {
+      "paperId": "cf116f56f63c577e900efedac00e5d1cbfb48733"
+    },
+    {
+      "paperId": "4b8e4a628e5b8ccb6cfd9cc1bf2a616750291dbd"
+    },
+    {
+      "paperId": "698e0ed4d8cf10956a0d08b87fc21b2778cd4879"
+    },
+    {
+      "paperId": "0825d6b23cc993c2d9741b9e02af3eeb6b35c083"
+    },
+    {
+      "paperId": "1fd4ea46d7b7213c6bfd57cc11f535dc698c3e7d"
+    },
+    {
+      "paperId": "4830bc502c4b84ecc9674a7ed95dac5b934b1eaa"
+    },
+    {
+      "paperId": "8d9f602ba3116af1956b5896da192f37896d3893"
+    },
+    {
+      "paperId": "ef103e61003bdb06b834e63b92c63c56cc505be2"
+    },
+    {
+      "paperId": "60db10114a2ad9eacf0eb8ca59ef43f95d6b5680"
+    },
+    {
+      "paperId": "cafe4632109ee5b5e208b2080512921733a98fe0"
+    },
+    {
+      "paperId": "549794279dfbf26b58ae5ff10536e0e0d5aa5a64"
+    },
+    {
+      "paperId": "f7ffe74a9aac72c4a0f2fb1984d04e7ff9e9ca15"
+    },
+    {
+      "paperId": "12951ab55fc1647afaa8a9fe8176cb9349bf9211"
+    },
+    {
+      "paperId": "354b2f592603a2d0a81de44e4172f67a3685991f"
+    },
+    {
+      "paperId": "b399f6b133f8562a5e3323f121d5873e5b312340"
+    },
+    {
+      "paperId": "3efc0409976f260ca3d341490fdfc0f5c1b61c70"
+    },
+    {
+      "paperId": "339cc7345e2d0abd6be67c6b030a8be077759af1"
+    },
+    {
+      "paperId": "454ebf83a318b35a7d60a3074a833ad3242dad79"
+    },
+    {
+      "paperId": "43fbd0e0a1e33ac12e68a2bfd4559044a22d44a9"
+    },
+    {
+      "paperId": "e74d28ff193929cf613423bfe93e8ff9a4a22abf"
+    },
+    {
+      "paperId": "8ed44f548e9a050569eee60ab61311b1bdee9640"
+    },
+    {
+      "paperId": "68e79689a28c38dec0470c566713bdcebb473ca5"
+    },
+    {
+      "paperId": "bf2958e538984dbcc285b9b72bb4b540c2641a5b"
+    },
+    {
+      "paperId": "c79486948ddc60057e76c87e12ed1cad0f49bead"
+    },
+    {
+      "paperId": "e748c382a9776d82e862cdf26d0afe6f532057e1"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "6376805de4530666180746bc15a072f0951add4f"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "a14280872980bd4d0d9c05615677aa86a4129e64"
+    },
+    {
+      "paperId": "84a95557712af4aee6044e6f32696b04d3bdb9ae"
+    },
+    {
+      "paperId": "6d207d60bae75704d6c117efe350f8e803074d24"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "ae8f38fc91c32532f2096adc1dda881c7ab91ac1"
+    },
+    {
+      "paperId": "ccf95f45a23c797d9231f4c3af9ebbe15d657602"
+    },
+    {
+      "paperId": "155876fb17dae8dd70eeee85cdf7972a4c1e2eba"
+    },
+    {
+      "paperId": "7ec7f424dfa3e74fda3bbd5f002a5ad96e47ce44"
+    },
+    {
+      "paperId": "945ab6282d14c600c9773bcc6aae6120724c97a1"
+    },
+    {
+      "paperId": "8dccd572c5b0fbeedae1b442bd9dff80df24da38"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "068cdd2d909145a70b69b008c36524347e478249"
+    },
+    {
+      "paperId": "b5d3c0191891ea996a405e0750054224b2c57a96"
+    },
+    {
+      "paperId": "34ca3972f2760232a98bc9dba4ec98b75c852403"
+    },
+    {
+      "paperId": "4c62efe084ee252e61291cc04e5d91d42b66a95a"
+    },
+    {
+      "paperId": "ee07d502c11c8ef8a152b6feef22695249d0764a"
+    },
+    {
+      "paperId": "c3a30c40d304a7a312942c0c243f5033b8c3fd3f"
+    },
+    {
+      "paperId": "939c99e00bef5f9b10f2c4f5c726a17f710e7f85"
+    },
+    {
+      "paperId": "65a3c39cbbfe5c13698a998c41be91a561244290"
+    },
+    {
+      "paperId": "249dd1c67de3862c6666f300840388c34e05f969"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "cffef57761766a51fcd6a4139c3d1c3926a77565"
+    },
+    {
+      "paperId": "141a5ee5a1a44df37574913acb24aaa0eac1cd97"
+    },
+    {
+      "paperId": "6e633b41d93051375ef9135102d54fa097dc8cf8"
+    },
+    {
+      "paperId": "b1a7b291d90be80baee8e50efd0a816d8b8484cc"
+    }
+  ]
+}

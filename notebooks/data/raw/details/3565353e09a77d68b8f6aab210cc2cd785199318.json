@@ -1,0 +1,157 @@
+{
+  "paperId": "3565353e09a77d68b8f6aab210cc2cd785199318",
+  "externalIds": {
+    "MAG": "2981035824",
+    "DBLP": "journals/ijdsn/ZhangL19",
+    "DOI": "10.1177/1550147719881610",
+    "CorpusId": 207890725
+  },
+  "url": "https://www.semanticscholar.org/paper/3565353e09a77d68b8f6aab210cc2cd785199318",
+  "title": "Application of big data technology in agricultural Internet of Things",
+  "venue": "Int. J. Distributed Sens. Networks",
+  "year": 2019,
+  "citationCount": 30,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/1550147719881610",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1550147719881610?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1550147719881610, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144077671",
+      "name": "Chun-Ling Zhang"
+    },
+    {
+      "authorId": "2327110",
+      "name": "Zunfeng Liu"
+    }
+  ],
+  "abstract": "This article first analyzes big data technology. Then, the agricultural Internet of Things system was established, and the acquisition of agricultural data was achieved through the establishment of sensor modules, image acquisition modules, and meteorological acquisition modules. The data are transmitted to the server through GPRS communication technology and 3G network card to realize data transmission. The Web Service technology is used to connect the Internet of Things with the neural network model to achieve data interoperability. By comparing the prediction results and actual data of the model, it is found that the prediction error of the model designed in this article is less than 1%, and the high-precision prediction of agricultural data is realized, which provides an effective guidance for the improvement of agricultural product quality and yield.",
+  "references": [
+    {
+      "paperId": "58bb19fa612bc3c02b71ded67aac01a1fccbebc7"
+    },
+    {
+      "paperId": "a7366d45c61c334f8c5edf0b6537123947e14f08"
+    },
+    {
+      "paperId": "5766f245105247b4ce3f580ddf2c8213c80f7969"
+    },
+    {
+      "paperId": "294e8bcb5d7a758184fbb93f5445abf96f5e4272"
+    },
+    {
+      "paperId": "84d1b35371b55a852fdb984a0bd00fe41f4e7107"
+    },
+    {
+      "paperId": "aecef3304cbed1bdfd4d0f1a330c98afda45d368"
+    },
+    {
+      "paperId": "c6d7d06ce2d25e3ea32e2aa41d270f4cbbbdb6ed"
+    },
+    {
+      "paperId": "e46bd65bb8ff773895960274868cd7c944a29c9c"
+    },
+    {
+      "paperId": "03a2cf08f57fdb24e4bdbe175aa00f23d5d5f856"
+    },
+    {
+      "paperId": "f75091167f7dc6ffa451c2bee9f2c180e73ebbb1"
+    },
+    {
+      "paperId": "504bcd9e5e67d5f258fccca9303b2ff54e274c52"
+    },
+    {
+      "paperId": "d45d83ff4104670cede71f6d6c478cba73b80c80"
+    },
+    {
+      "paperId": "77cdd47e7ea2917808bbddfec26395c2c4158e53"
+    },
+    {
+      "paperId": "dc61c59808a8d6c2af0b3a8c469034678c6dcf55"
+    },
+    {
+      "paperId": "81a13c20fff79dd2b4caa0b3a82c65572d4eb6fd"
+    },
+    {
+      "paperId": "4c1d7c8bd9f1ffd77199c9d71833b545a6e3fc4d"
+    },
+    {
+      "paperId": "d139e3e91e8fbfa8c8d07aa5ffae0b1a6b33308a"
+    },
+    {
+      "paperId": "3e4deb8ec29260e75b4e84ab9d9eb235ce032327"
+    },
+    {
+      "paperId": "088d38e3957894fab54bbdf1699aef51e1a5309a"
+    },
+    {
+      "paperId": "6422546ccb25e9a9f4e988ab51bc45fc468b6b36"
+    },
+    {
+      "paperId": "4905b27cf1a673353603f225f23c18ec42fa71b8"
+    },
+    {
+      "paperId": "c279583e19ea8e20c0cc0cfb83f630d80e4e50c4"
+    },
+    {
+      "paperId": "d8037a876fcdb9f1837d7d388f7dc74c40711828"
+    },
+    {
+      "paperId": "f9e0da4a3ec7675886e81b2003f222a04c13adaf"
+    },
+    {
+      "paperId": "060759269e351ec24bafce41078d6a7bc534ead2"
+    },
+    {
+      "paperId": "2e43f53bf40ff29bab8b2ed79d1665551b656dbd"
+    },
+    {
+      "paperId": "d1fd93c373be6dd5f234235d3f7f666a06e5d206"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

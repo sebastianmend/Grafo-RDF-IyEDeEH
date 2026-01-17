@@ -1,0 +1,44 @@
+{
+  "paperId": "ccf034b63c84762e16d4813a597f54a544d8c90f",
+  "externalIds": {
+    "MAG": "2808663917",
+    "CorpusId": 282713284
+  },
+  "url": "https://www.semanticscholar.org/paper/ccf034b63c84762e16d4813a597f54a544d8c90f",
+  "title": "Guest Editorial Preface : Special Issue on Enabling Infrastructures and Algorithms for e-Health Applications",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2234961",
+      "name": "P. Šolić"
+    },
+    {
+      "authorId": "2271257083",
+      "name": "Luigi Patrono"
+    },
+    {
+      "authorId": "2271274631",
+      "name": "Katarina Vukojevic"
+    },
+    {
+      "authorId": "2393122422",
+      "name": "Mario Cvetković"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

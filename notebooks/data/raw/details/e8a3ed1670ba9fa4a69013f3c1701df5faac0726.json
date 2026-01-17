@@ -1,0 +1,47 @@
+{
+  "paperId": "e8a3ed1670ba9fa4a69013f3c1701df5faac0726",
+  "externalIds": {
+    "DBLP": "conf/ieaaie/Rodriguez-Gomez19",
+    "MAG": "2954043421",
+    "DOI": "10.1007/978-3-030-22999-3_43",
+    "CorpusId": 195755602
+  },
+  "url": "https://www.semanticscholar.org/paper/e8a3ed1670ba9fa4a69013f3c1701df5faac0726",
+  "title": "Mapping Infected Crops Through UAV Inspection: The Sunflower Downy Mildew Parasite Case",
+  "venue": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-22999-3_43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-22999-3_43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1412532578",
+      "name": "J. P. Rodríguez-Gómez"
+    },
+    {
+      "authorId": "2284017",
+      "name": "M. D. Cicco"
+    },
+    {
+      "authorId": "153554184",
+      "name": "S. Nardi"
+    },
+    {
+      "authorId": "144143750",
+      "name": "D. Nardi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

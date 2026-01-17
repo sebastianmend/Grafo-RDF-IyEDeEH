@@ -1,0 +1,230 @@
+{
+  "paperId": "ff42091987a6b9a8b5b02d6aff4bde798522f552",
+  "externalIds": {
+    "MAG": "2942812705",
+    "DBLP": "journals/remotesensing/SaifuzzamanABBP19",
+    "DOI": "10.3390/RS11091036",
+    "CorpusId": 155547555
+  },
+  "url": "https://www.semanticscholar.org/paper/ff42091987a6b9a8b5b02d6aff4bde798522f552",
+  "title": "Clustering Tools for Integration of Satellite Remote Sensing Imagery and Proximal Soil Sensing Data",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/9/1036/pdf?version=1557368992",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11091036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11091036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35339783",
+      "name": "Mohammad Saifuzzaman"
+    },
+    {
+      "authorId": "2132147",
+      "name": "V. Adamchuk"
+    },
+    {
+      "authorId": "108210699",
+      "name": "Roberto M. Buelvas"
+    },
+    {
+      "authorId": "12704599",
+      "name": "Asim Biswas"
+    },
+    {
+      "authorId": "2683575",
+      "name": "S. Prasher"
+    },
+    {
+      "authorId": "51991761",
+      "name": "N. Rabe"
+    },
+    {
+      "authorId": "144052958",
+      "name": "D. Aspinall"
+    },
+    {
+      "authorId": "50119510",
+      "name": "W. Ji"
+    }
+  ],
+  "abstract": "Remote sensing (RS) and proximal soil sensing (PSS) technologies offer an advanced array of methods for obtaining soil property information and determining soil variability for precision agriculture. A large amount of data collected by these sensors may provide essential information for precision or site-specific management in a production field. Data clustering techniques are crucial for data mining, and high-density data analysis is important for field management. A new clustering technique was introduced and compared with existing clustering tools to determine the relatively homogeneous parts of agricultural fields. A DUALEM-21S sensor, along with high-accuracy topography data, was used to characterize soil variability in three agricultural fields situated in Ontario, Canada. Sentinel-2 data assisted in quantifying bare soil and vegetation indices (VIs). The custom Neighborhood Search Analyst (NSA) data clustering tool was implemented using Python scripts. In this algorithm, part of the variance of each data layer is accounted for by subdividing the field into smaller, relatively homogeneous, areas. The algorithm’s attributes were illustrated using field elevation, shallow and deep apparent electrical conductivity (ECa), and several VIs. The unique feature of this proposed protocol was the successful development of user-friendly and open source options for defining the spatial continuity of each group and for use in the zone delineation process.",
+  "references": [
+    {
+      "paperId": "4f7a5761adee85ba731ab547255111c284022d0b"
+    },
+    {
+      "paperId": "7a2ecf9fcafd39e35b890ae77e99a5c05d3eefb6"
+    },
+    {
+      "paperId": "4ce50a2c6cb1931a85408431dc1193f485bfe131"
+    },
+    {
+      "paperId": "e673734a0346bacf11dbb659a10566b09b496ca8"
+    },
+    {
+      "paperId": "15c8885bddcaab40407c598b38dcf5163464e751"
+    },
+    {
+      "paperId": "c14da1c084108323865808b1443b33d9ab5a5d28"
+    },
+    {
+      "paperId": "087201e878ab0c99fc15fac517e3258d78fdca4a"
+    },
+    {
+      "paperId": "c53b8b476bcc808219343ad2675a487415223934"
+    },
+    {
+      "paperId": "47736a969001d810cdae0e85c6712468441fcfd4"
+    },
+    {
+      "paperId": "4a66922fba3c9faf450b8e16fd7ead0360bdaa92"
+    },
+    {
+      "paperId": "3b4dbd9aa67b37e5134309e45142971cef90abec"
+    },
+    {
+      "paperId": "0ac27acd90483a8daa7a7ba0c2d0e49fb21523a9"
+    },
+    {
+      "paperId": "078404c4b0428399f041a0581cf1018c3a2cacc6"
+    },
+    {
+      "paperId": "23da81523130560fe2de73f55ccf08d939544e79"
+    },
+    {
+      "paperId": "371e26745b2c3a11ae632bd725ddee9944d35906"
+    },
+    {
+      "paperId": "a0b7203ce52b92ad0e79e71d8ac0ab26e1e3b104"
+    },
+    {
+      "paperId": "5033c3a800fe621c9f967267c3ed426475358a73"
+    },
+    {
+      "paperId": "941c5efefdcd90125296387d91b09d14d83b11b0"
+    },
+    {
+      "paperId": "1240d9010c1eb82a013cb825c8c1efab82162ff2"
+    },
+    {
+      "paperId": "623639b8db79b8d7e839c82b5ccead6a887decac"
+    },
+    {
+      "paperId": "67c712dbf90ec3f0423258323825332b86ba5ccd"
+    },
+    {
+      "paperId": "62c2448e3ac24a8c1cf5751184c3527ea1ccbae4"
+    },
+    {
+      "paperId": "fc632c12697f204b074a82c6f0c95042b2c9dabe"
+    },
+    {
+      "paperId": "4c3b6ec4ec6bbb87fa37353fe141d0e137d991cc"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "1f27bf9add2951998672bd3dfa5add1ca0e52d56"
+    },
+    {
+      "paperId": "0641f4642ceab98f6851d0e44b06591e073d4556"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "4f6ae31cbb10dc54ed86cb10cf456b9dec0e29a2"
+    },
+    {
+      "paperId": "599fe2a46c662d374b3af2eea0efb0b282f94719"
+    },
+    {
+      "paperId": "d40ed8522c6a47638515ea94ebc429f92f3e8b57"
+    },
+    {
+      "paperId": "4e1921e1ceb92bf0e65ece9aa90162b057ed2f10"
+    },
+    {
+      "paperId": "b8384df2449e8b97d4370f4d0ff497f7ede54f22"
+    },
+    {
+      "paperId": "64b211711c998233a61600381924d28e53c19c7b"
+    },
+    {
+      "paperId": "b92c0195e9155e1c5eec751420590a295869c581"
+    },
+    {
+      "paperId": "afde79e2c147468b375191feb72b939e3a5e6aa8"
+    },
+    {
+      "paperId": "e99603b5b524485bcf1afb2f01acadc34dfb033c"
+    },
+    {
+      "paperId": "686a83bc3f66cbde6d13e0dc3e045a2666ad72d2"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": "3ee2ca7d5b2fe9e772c5c39638e7a8949b401685"
+    },
+    {
+      "paperId": "3d0b28f15e5875485d55d555e125632cd6b03552"
+    },
+    {
+      "paperId": "752946f7b44599938e69bc89db53cdff8970c7f8"
+    },
+    {
+      "paperId": "f0063cdb605c1fcf6ce58834d19a0d9c7e2301d6"
+    },
+    {
+      "paperId": "2680d2acd556aadb1e9e77150ef18ed6354f57ce"
+    },
+    {
+      "paperId": "5f55f027b6f0d83acf39ebaf9b8916d8d0eb0840"
+    },
+    {
+      "paperId": "26f178dbb00630ce19cccb9840ea12dbe31801be"
+    },
+    {
+      "paperId": "e1f11c1ff9f723e0ddf5e6e7a48f56e2f7d8109b"
+    },
+    {
+      "paperId": "4bac82f913727aa8e7271a6dbc8516f20c4ff595"
+    },
+    {
+      "paperId": "8bca20b0403fbe86cf0fd4b813394698a305e89e"
+    },
+    {
+      "paperId": "6dd807a1480a164f75706f8cd5e181e469f71a15"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

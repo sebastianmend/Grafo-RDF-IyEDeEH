@@ -1,0 +1,93 @@
+{
+  "paperId": "4f60f12a8f0be4713860cae3064618e474e0ba95",
+  "externalIds": {
+    "MAG": "2889156002",
+    "DOI": "10.1088/1742-6596/1069/1/012007",
+    "CorpusId": 169751015
+  },
+  "url": "https://www.semanticscholar.org/paper/4f60f12a8f0be4713860cae3064618e474e0ba95",
+  "title": "Agricultural Decision Support Service Based on Multi-Source Remote Sensing Data: the Case of the Precision Implementation of Grain Subsidy Policy",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1069/1/012007",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1069/1/012007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1069/1/012007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "143701631",
+      "name": "Wen Dong"
+    },
+    {
+      "authorId": "152321442",
+      "name": "Qiting Huang"
+    },
+    {
+      "authorId": "1390863630",
+      "name": "Yingpin Yang"
+    },
+    {
+      "authorId": "2636319",
+      "name": "Lijing Gao"
+    }
+  ],
+  "abstract": "In order to promote grain production, the government had implemented the agricultural subsidy policy. However, the existing methods were difficult to provide accurate decision-making support information, which made the effectiveness of this policy gradually reduced. In this paper, we proposed a method to calculate the agricultural decision information accurately by using multi-source remote sensing images. Firstly, we accurately extracted the boundary of cultivated land (geo-parcel) from high spatial resolution remote sensing image. Secondly, we constructed a NDVI time series from multi-source medium-resolution remote sensing images, established the growth curve of crop on each geo-parcel, and identify the crop type planted on each geo-parcel. Thirdly, we established the exact calculation model to realize the decision information calculation based on the geo-parcel. On the basis of the method proposed in this paper, we selected Li County, Hunan Province as the study area to carry out the application of grain planting subsidies. We find that the method proposed in this paper had obvious advantages by comparing the results with traditional methods. This method improves the accuracy and the objectivity of the results.",
+  "references": [
+    {
+      "paperId": "9043f6b92a2f2d560f235853e5fef4495d223477"
+    },
+    {
+      "paperId": "7f255be618bc9b7b5b3c80615e50526da22ab57b"
+    },
+    {
+      "paperId": "becd6cd0855c260ee39040c1ad6c0727e11afb4c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "482ca824b96d18e061f4187a6ef9d1729a323a4c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "de7b77856a789217ae1a699fa02003a8c23831f5"
+    },
+    {
+      "paperId": "a07729338dd553edc42bb1b057e8021e1f100e27"
+    },
+    {
+      "paperId": "9af1d7c9551960985904139ad244b4306ff201e2"
+    },
+    {
+      "paperId": "67f25794cd77fdadd5ab4b4af30b6ab7590bba82"
+    },
+    {
+      "paperId": "16b31da0356e28f3d874649a48693feb9779697a"
+    },
+    {
+      "paperId": "2f24b183310b228603326be7dd3a738477f8165e"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

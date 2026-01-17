@@ -1,0 +1,40 @@
+{
+  "paperId": "8d0662ab216352a020ed83f5b8c3ff79fa9507aa",
+  "externalIds": {
+    "DBLP": "conf/bigdataconf/LambC18",
+    "MAG": "2914020374",
+    "DOI": "10.1109/BigData.2018.8622466",
+    "CorpusId": 59233066
+  },
+  "url": "https://www.semanticscholar.org/paper/8d0662ab216352a020ed83f5b8c3ff79fa9507aa",
+  "title": "A Strawberry Detection System Using Convolutional Neural Networks",
+  "venue": "2018 IEEE International Conference on Big Data (Big Data)",
+  "year": 2018,
+  "citationCount": 57,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/BigData.2018.8622466?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BigData.2018.8622466, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "35374798",
+      "name": "N. Lamb"
+    },
+    {
+      "authorId": "144811861",
+      "name": "Mooi Choo Choo Chuah"
+    }
+  ],
+  "abstract": "In recent years, robotic technologies, e.g. drones or autonomous cars have been applied to the agricultural sectors to improve the efficiency of typical agricultural operations. Some agricultural tasks that are ideal for robotic automation are yield estimation and robotic harvesting. For these applications, an accurate and reliable image-based detection system is critically important. In this work, we present a low-cost strawberry detection system based on convolutional neural networks. Ablation studies are presented to validate the choice of hyper-parameters, framework, and network structure. Additional modifications to both the training data and network structure that improve precision and execution speed, e.g., input compression, image tiling, color masking, and network compression, are discussed. Finally, we present a final network implementation on a Raspberry Pi 3B that demonstrates a detection speed of 1.63 frames per second and an average precision of 0.842.",
+  "references": null
+}

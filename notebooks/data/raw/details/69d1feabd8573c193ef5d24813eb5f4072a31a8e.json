@@ -1,0 +1,318 @@
+{
+  "paperId": "69d1feabd8573c193ef5d24813eb5f4072a31a8e",
+  "externalIds": {
+    "MAG": "2951432822",
+    "DOI": "10.1021/acssynbio.8b00158",
+    "CorpusId": 52291017,
+    "PubMed": "30223644"
+  },
+  "url": "https://www.semanticscholar.org/paper/69d1feabd8573c193ef5d24813eb5f4072a31a8e",
+  "title": "Creation and Characterization of a Genomically Hybrid Strain in the Nitrogen-Fixing Symbiotic Bacterium Sinorhizobium meliloti.",
+  "venue": "ACS Synthetic Biology",
+  "year": 2018,
+  "citationCount": 32,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2018/04/09/296483.full.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acssynbio.8b00158?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acssynbio.8b00158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "47052099",
+      "name": "A. Checcucci"
+    },
+    {
+      "authorId": "6496517",
+      "name": "G. diCenzo"
+    },
+    {
+      "authorId": "40378419",
+      "name": "V. Ghini"
+    },
+    {
+      "authorId": "2234246",
+      "name": "M. Bazzicalupo"
+    },
+    {
+      "authorId": "49078765",
+      "name": "A. Becker"
+    },
+    {
+      "authorId": "4200031",
+      "name": "F. Decorosi"
+    },
+    {
+      "authorId": "15995689",
+      "name": "Johannes Döhlemann"
+    },
+    {
+      "authorId": "13466817",
+      "name": "C. Fagorzi"
+    },
+    {
+      "authorId": "6720158",
+      "name": "T. Finan"
+    },
+    {
+      "authorId": "2162040",
+      "name": "M. Fondi"
+    },
+    {
+      "authorId": "1984438",
+      "name": "C. Luchinat"
+    },
+    {
+      "authorId": "6006159",
+      "name": "P. Turano"
+    },
+    {
+      "authorId": "13053080",
+      "name": "T. Vignolini"
+    },
+    {
+      "authorId": "3923599",
+      "name": "C. Viti"
+    },
+    {
+      "authorId": "2170753",
+      "name": "A. Mengoni"
+    }
+  ],
+  "abstract": "Many bacteria, often associated with eukaryotic hosts and of relevance for biotechnological applications, harbor a multipartite genome composed of more than one replicon. Biotechnologically relevant phenotypes are often encoded by genes residing on the secondary replicons. A synthetic biology approach to developing enhanced strains for biotechnological purposes could therefore involve merging pieces or entire replicons from multiple strains into a single genome. Here we report the creation of a genomic hybrid strain in a model multipartite genome species, the plant-symbiotic bacterium Sinorhizobium meliloti. We term this strain as cis-hybrid, since it is produced by genomic material coming from the same species' pangenome. In particular, we moved the secondary replicon pSymA (accounting for nearly 20% of total genome content) from a donor S. meliloti strain to an acceptor strain. The cis-hybrid strain was screened for a panel of complex phenotypes (carbon/nitrogen utilization phenotypes, intra- and extracellular metabolomes, symbiosis, and various microbiological tests). Additionally, metabolic network reconstruction and constraint-based modeling were employed for in silico prediction of metabolic flux reorganization. Phenotypes of the cis-hybrid strain were in good agreement with those of both parental strains. Interestingly, the symbiotic phenotype showed a marked cultivar-specific improvement with the cis-hybrid strains compared to both parental strains. These results provide a proof-of-principle for the feasibility of genome-wide replicon-based remodelling of bacterial strains for improved biotechnological applications in precision agriculture.",
+  "references": [
+    {
+      "paperId": "a479d0161a5569f3ccb55b69df5faf8f683366df"
+    },
+    {
+      "paperId": "cbf0444ed61f001feabd0d625b272078cab6d33f"
+    },
+    {
+      "paperId": "907cb9d5db9a5c3116cf088d476faaf5e6b0651d"
+    },
+    {
+      "paperId": "7a56f8c85a2129a0af20c708e8ca808310e51855"
+    },
+    {
+      "paperId": "11155b1dc63c6f22ddecb9b3c950eba98984daba"
+    },
+    {
+      "paperId": "ebebc22cde4f72bfa198afd201a3813ec6ad0478"
+    },
+    {
+      "paperId": "ee58756fe9aeac90e6fda8dc56f1a637f0505a47"
+    },
+    {
+      "paperId": "516b89d6d032107e3e089b788568705971784ebf"
+    },
+    {
+      "paperId": "fb8059615ac1e13799829967371b4c8160c0d408"
+    },
+    {
+      "paperId": "ad1b35f8415f71e57f6517a2c55a10b7c043073b"
+    },
+    {
+      "paperId": "00da506d0f01edfddfd4c35795c948596e5d181f"
+    },
+    {
+      "paperId": "7a998a285894b70c5ea0567f665f4e875f725b0a"
+    },
+    {
+      "paperId": "0b3eecc5361ddda838343aeda23f6fb85f00054b"
+    },
+    {
+      "paperId": "1663ae0b00fd3d88b123748ba4c60d70583f3f64"
+    },
+    {
+      "paperId": "ea1b382cedee87f43b625069d3381af8f54fd017"
+    },
+    {
+      "paperId": "068ec8951fa2edfabd60ca12cb8040017b23eec8"
+    },
+    {
+      "paperId": "9d32c12d6e351c508e170e897d07b16d83b739c9"
+    },
+    {
+      "paperId": "e1930117f452505160b7acd06867f2b7071ebf40"
+    },
+    {
+      "paperId": "a30b168c86099a63701f5b10c1cc5c8b152f7dea"
+    },
+    {
+      "paperId": "a2d6c5c7c28dc0d5565d3c9e68b4a560dbf502ae"
+    },
+    {
+      "paperId": "c8a8187e2a9917b9bbc69590ffd198aafa92797e"
+    },
+    {
+      "paperId": "feb453d607cd767314a58d2d6c3e7a8bed5ab88d"
+    },
+    {
+      "paperId": "ac571b54cb27f4a08b620b331d9fc51a0d1a0dc7"
+    },
+    {
+      "paperId": "e64728f38ddeb4a134e92610f280a546c82bda91"
+    },
+    {
+      "paperId": "a8832cc91e2fdb8078d775bb4a044cc3fe2a9089"
+    },
+    {
+      "paperId": "0995771f27e0715d8c987a41a58e16bce5f4b1f2"
+    },
+    {
+      "paperId": "3e5644b37bdfb613f5849e4ab5fc7a73cca5eb95"
+    },
+    {
+      "paperId": "4f3d1b00ac3b1ec1541021b3001d2aa43a60d503"
+    },
+    {
+      "paperId": "8ecccc35321a8f832552ae67ffb04acc99ca0b8c"
+    },
+    {
+      "paperId": "d91c9ecfc44062fa091ea94f12b9e1581690a331"
+    },
+    {
+      "paperId": "804f5d80bf98146f26063dd3cba7789da2ae43ea"
+    },
+    {
+      "paperId": "aeb84a2923789d0445b127e8656dd512c0863359"
+    },
+    {
+      "paperId": "c175bfe82c8bac46b4f48f5a859875533d82a3be"
+    },
+    {
+      "paperId": "5b26139b198f7f8094a039c0674c9dcf29121819"
+    },
+    {
+      "paperId": "ad707aa2fd6e9aea1d303643e6060d9099683bbc"
+    },
+    {
+      "paperId": "6cbf0a3a350a579b1eebd13ba05c65f1ba1cff61"
+    },
+    {
+      "paperId": "c69fb101830b5d0845a23f9ca991ef8de53152da"
+    },
+    {
+      "paperId": "4e45fc5702b0633706bab4dc4300639d4d265ff7"
+    },
+    {
+      "paperId": "21a60c3cb5f6db4d9168f04632aa11c72a9c6383"
+    },
+    {
+      "paperId": "861412834ca7fd6126bfb839229e5046c31d9cb3"
+    },
+    {
+      "paperId": "5be302099b13d8b166efd82c8c2ff1ee45c048d5"
+    },
+    {
+      "paperId": "7dd6a88996e9823591eeb8048ba6424734468298"
+    },
+    {
+      "paperId": "db1b0ffe31e2bb17d3b6c05240eb0bdc65fbb7e8"
+    },
+    {
+      "paperId": "06f35bf13c806fe26e1543895c791942029df444"
+    },
+    {
+      "paperId": "2061aac480bfb829f165e5e8aacb45d6cb8a6fb0"
+    },
+    {
+      "paperId": "17aebca6aced05a0c6c017e48ec7c5dbae543fb1"
+    },
+    {
+      "paperId": "f31ae1efdcb161bf4b4ffd4a1ea66435a17c0973"
+    },
+    {
+      "paperId": "23d6dbf2c59d2415fe0573a00e89dafe46752dc8"
+    },
+    {
+      "paperId": "9fb932fc0ce0c8d6e649bd03e14abbfcc18e0ab1"
+    },
+    {
+      "paperId": "6688858f0b172b9316197a9c6d488e4876c65a34"
+    },
+    {
+      "paperId": "ce1681322c03b27a582c8984b92ef797f4efe633"
+    },
+    {
+      "paperId": "95f2cfaf8c2e9d129526bff91d0366d698841d32"
+    },
+    {
+      "paperId": "7d078b5c18ae0e8947b0b6f79b42dfc3e8dfdbc3"
+    },
+    {
+      "paperId": "67bb117f37ebf47b023f551894554d52d6a8e8d1"
+    },
+    {
+      "paperId": "ab2b046e8e0fbedfd069103717bcddf1dc3afbcf"
+    },
+    {
+      "paperId": "f1e3773b3095eaddd812dab5585196f28aeb75b8"
+    },
+    {
+      "paperId": "c62c22eded6f56df2f4ae057a9b8010b07b8ad9c"
+    },
+    {
+      "paperId": "dc1e19b3d1fbf864b857a5f7dbc2e938f166f87f"
+    },
+    {
+      "paperId": "b1a0bd53d8bc0799d027b781b3b0fc9248752cee"
+    },
+    {
+      "paperId": "69bb97234711647fa50988bbe64a2a1f522fed84"
+    },
+    {
+      "paperId": "0d0cf8f963503eb200140b8fb73bda894fcb721f"
+    },
+    {
+      "paperId": "d805531bd96c66c838d1a3560759d8e58008ac94"
+    },
+    {
+      "paperId": "acbd68ad00d7305877eb408644d6cc33bc7ce1e7"
+    },
+    {
+      "paperId": "6d90675bc795e8e5e8f041bd5fff189b88b2ee29"
+    },
+    {
+      "paperId": "58b7f9c527f4195653c47ef8b5721b81f6b3ebef"
+    },
+    {
+      "paperId": "c1b8271ee252f70cdbf48d408387418ad3655a56"
+    },
+    {
+      "paperId": "3c76d80df7a854b801d7e569dc6a133bb0335e95"
+    },
+    {
+      "paperId": "9f22f7cbb7cc8d86236f68c805b452ffb2c8326c"
+    },
+    {
+      "paperId": "3233e7ffdfb76bfcec3347bef0c95be9368dae9d"
+    },
+    {
+      "paperId": "1d78ada4dd810c669a01993d2c286dd2c664539a"
+    },
+    {
+      "paperId": "81630e8d8691806036849ae504896a0dce5d2efb"
+    },
+    {
+      "paperId": "1966b44b5403b90dee6de4131ca6b2bc13f3e366"
+    },
+    {
+      "paperId": "396653c305b0d00ff40c2ae9bb22a10375eb1191"
+    },
+    {
+      "paperId": "1a618b271fd10645ceae1457c11dbd0d1ff1df8c"
+    },
+    {
+      "paperId": "70d692ea21491d6d776b2509026e2d366a315fff"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "paperId": "dca5fe01b8fd3855435bc96faaa0b00fbc3c9f71",
+  "externalIds": {
+    "DBLP": "journals/ejwcn/YanLW0ZCLL18",
+    "MAG": "2805102303",
+    "DOI": "10.1186/s13638-018-1161-y",
+    "CorpusId": 49251936
+  },
+  "url": "https://www.semanticscholar.org/paper/dca5fe01b8fd3855435bc96faaa0b00fbc3c9f71",
+  "title": "Research on precision management of farming season based on big data",
+  "venue": "EURASIP Journal on Wireless Communications and Networking",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-018-1161-y.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13638-018-1161-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13638-018-1161-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51236939",
+      "name": "Maoling Yan"
+    },
+    {
+      "authorId": "3078878",
+      "name": "Pingzeng Liu"
+    },
+    {
+      "authorId": "2052575318",
+      "name": "Fujiang Wen"
+    },
+    {
+      "authorId": "145657506",
+      "name": "Chao Zhang"
+    },
+    {
+      "authorId": "145638785",
+      "name": "Rui Zhao"
+    },
+    {
+      "authorId": "2109955565",
+      "name": "Weijie Chen"
+    },
+    {
+      "authorId": "2151060186",
+      "name": "Xuefei Liu"
+    },
+    {
+      "authorId": "2006403886",
+      "name": "Yuqi Liu"
+    }
+  ],
+  "abstract": "In order to strengthen the scientific management of saline-alkali land and the accurate management of agricultural production, a scientific data governance platform for saline-alkali land was developed. Based on the data accumulation of big data platform, the relationship between wheat growth and meteorology was taken as the research object. Thirteen variables including atmospheric pressure, temperature, light, and precipitation were extracted from surface meteorological data for correlation analysis, and temperature, precipitation, and sunshine were selected as the characteristic variables; through discretization processing, we have finally determined the three indicators that can be categorized: accumulative temperature, sunshine hours, and temperature. Finally, the three indicators are combined with months to build a model of farming season and weather based on Apriori. The results show that when judging the farming season with the month as the index, the accuracy of the model is between 78.81 and 100%. When the temperature or accumulated temperature is taken as the index to judge the winter wheat farming time, the accuracy of the model is above 90%. This shows that accurate analysis of farming season can be achieved through big data correlation analysis, which provides technical support for the timely adoption of agricultural production.",
+  "references": [
+    {
+      "paperId": "59f537fadad846eb882c62c1ce78e559ac1c9fba"
+    },
+    {
+      "paperId": "d2cd2408e7bca76489d607f2d9392d62c96f7661"
+    },
+    {
+      "paperId": "fa26fcf4d5ece2181e38d5d28e1a02d49fa7a0e3"
+    },
+    {
+      "paperId": "b4c0cd321ea495bfa30b2b0f3b8f7dfbca1bde8c"
+    },
+    {
+      "paperId": "23863939e3012ca79e8e8255dfe6984067ddeff5"
+    },
+    {
+      "paperId": "69602bc12d17d84fa1a9b146826545e6fd03b15e"
+    },
+    {
+      "paperId": "0c6df8790787fada031058f4d93b50fa5e6c1895"
+    },
+    {
+      "paperId": "204dfcb69b84392b06844422a0bbe2d386f5ddcb"
+    },
+    {
+      "paperId": "232ad884488d6285c392fa24bf71567b11b161bf"
+    },
+    {
+      "paperId": "5d6721bd65f07275ca307697e3cf6890421b6d2f"
+    },
+    {
+      "paperId": "293c55f95620f6ac6fe93a57b48d20f6b77580b4"
+    },
+    {
+      "paperId": "04e3d47f27de4b1a65bcc5350a6105b1c86e8db8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

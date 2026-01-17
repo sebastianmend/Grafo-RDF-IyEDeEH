@@ -1,0 +1,38 @@
+{
+  "paperId": "0c0453e006861f51f80c0aa2dd46605cbff2aa49",
+  "externalIds": {
+    "MAG": "2801717361",
+    "DOI": "10.1117/12.2303921",
+    "CorpusId": 116318081
+  },
+  "url": "https://www.semanticscholar.org/paper/0c0453e006861f51f80c0aa2dd46605cbff2aa49",
+  "title": "Applications of hyperspectral image analysis for precision agriculture",
+  "venue": "Defense + Security",
+  "year": 2018,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2303921?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2303921, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32066369",
+      "name": "Stanton L. Martin"
+    },
+    {
+      "authorId": "2055859442",
+      "name": "T. George"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

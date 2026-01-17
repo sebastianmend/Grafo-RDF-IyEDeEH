@@ -1,0 +1,48 @@
+{
+  "paperId": "3026af5c908b581a1351d23cbf0318d62c3ae93f",
+  "externalIds": {
+    "DBLP": "conf/sds2/PurwarRCK19",
+    "MAG": "2968806450",
+    "DOI": "10.1109/SDS.2019.00004",
+    "CorpusId": 199510231
+  },
+  "url": "https://www.semanticscholar.org/paper/3026af5c908b581a1351d23cbf0318d62c3ae93f",
+  "title": "A Reliable Approach for Pixel-Level Classification of Land usage from Spatio-Temporal Images",
+  "venue": "Swiss Conference on Data Science",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SDS.2019.00004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SDS.2019.00004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "151506638",
+      "name": "Prateek Purwar"
+    },
+    {
+      "authorId": "3478598",
+      "name": "S. Rogotis"
+    },
+    {
+      "authorId": "151500127",
+      "name": "Fotis Chatzipapadopoulus"
+    },
+    {
+      "authorId": "3274768",
+      "name": "I. Kastanis"
+    }
+  ],
+  "abstract": "The ongoing advancements in deep learning, and exemplary results obtained for different problems using spatio-temporal satellite images, have made deep neural networks quite popular for analysing Earth Observation data. The deep learning models have the capability to learn complex features from the dataset available, and specific to the problem at hand. In this research, the aim is to classify field parcels in images from the Sentinel-2A satellite and identify the corresponding crops using a Recurrent Neural Network (RNN). To obtain a good classification network, the mandatory requirement is clean and reliably labelled data, which is a challenging task in real world applications. What if the labels are not reliable due to manual errors or due to the complexity of annotating data? The purpose of this project is to design a pipeline to verify the reliability of the data with minimum supervision and then, use the clean data to train the network for the classification problem at hand. Experiments on different crop types (Wheat, Maize, and Legumes) have shown excellent results in distinguishing a variety from others. The pixellevel classifier model not only allows training of the model with limited available data but also gives an advantage of further analysing the crop area on a sub-parcel level. The proposed approach for detection and classification of vegetation types creates a new possibility in handling Big Data in the domain of Earth Observation with a multitude of potential applications in the areas of precision and smart agriculture, pre-emptive forest management, health monitoring, and damage assessment. The presented pipeline shows the significance of data verification and provides an efficient way to create models by optimizing the efforts, and the time of both engineers and experts.",
+  "references": null
+}

@@ -1,0 +1,40 @@
+{
+  "paperId": "cfde199fd62e04b3662bf1d64b4ea3c100608790",
+  "externalIds": {
+    "MAG": "2809383065",
+    "DOI": "10.5281/ZENODO.891516",
+    "CorpusId": 188980232
+  },
+  "url": "https://www.semanticscholar.org/paper/cfde199fd62e04b3662bf1d64b4ea3c100608790",
+  "title": "A review of practices in precision application of granular fertilisers",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5281/ZENODO.891516?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5281/ZENODO.891516, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "119624427",
+      "name": "Mce Grafton"
+    },
+    {
+      "authorId": "91711270",
+      "name": "I. Yule"
+    },
+    {
+      "authorId": "145492581",
+      "name": "M. Manning"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "61f2ed38806f4de33dad3b52c5a82fdd973a6d18",
+  "externalIds": {
+    "MAG": "3035794073",
+    "CorpusId": 237030567
+  },
+  "url": "https://www.semanticscholar.org/paper/61f2ed38806f4de33dad3b52c5a82fdd973a6d18",
+  "title": "Learning patterns from data in an unsupervised manner: A Bayesian approach for spatial and statistical pattern extraction of subsoil heterogeneity using satellite derived NDVI time series and electromagnetic induction measurements",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2113636499",
+      "name": "Hui Wang"
+    },
+    {
+      "authorId": "153276857",
+      "name": "F. Wellmann"
+    },
+    {
+      "authorId": "92171003",
+      "name": "M. Kanig"
+    },
+    {
+      "authorId": "70806063",
+      "name": "C. Hebel"
+    },
+    {
+      "authorId": "30932304",
+      "name": "J. Kruk"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

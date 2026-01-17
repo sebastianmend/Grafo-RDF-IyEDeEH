@@ -1,0 +1,38 @@
+{
+  "paperId": "f282b957e730dd43bbf7fc9889b183977326f97c",
+  "externalIds": {
+    "MAG": "2893886473",
+    "DOI": "10.1007/978-3-319-93299-6_12",
+    "CorpusId": 169475456
+  },
+  "url": "https://www.semanticscholar.org/paper/f282b957e730dd43bbf7fc9889b183977326f97c",
+  "title": "Aligning Data Analytics and Strategy in the Chemical Industry",
+  "venue": "Advances in Analytics and Data Science",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-93299-6_12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-93299-6_12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2073898770",
+      "name": "S. Chandran"
+    },
+    {
+      "authorId": "3012038",
+      "name": "Rahul B. Kasat"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,142 @@
+{
+  "paperId": "1f0015f039167954c67114a0e909879d7a11d923",
+  "externalIds": {
+    "MAG": "2904951665",
+    "PubMedCentral": "6686985",
+    "DOI": "10.1002/fes3.161",
+    "CorpusId": 91265934,
+    "PubMed": "31423300"
+  },
+  "url": "https://www.semanticscholar.org/paper/1f0015f039167954c67114a0e909879d7a11d923",
+  "title": "Impacts of the EU GMO regulatory framework for plant genome editing",
+  "venue": "Food and Energy Security",
+  "year": 2018,
+  "citationCount": 48,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fes3.161",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6686985, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "66527783",
+      "name": "Penny A C Hundleby"
+    },
+    {
+      "authorId": "1872737",
+      "name": "W. Harwood"
+    }
+  ],
+  "abstract": "Abstract New plant breeding technologies, such as genome editing, are enabling new crop varieties to be developed far quicker and with greater precision and scope than achievable using conventional methods. These advances could help farmers address the challenges of climate change, sustainability, and global food security. However, despite their potential, the uptake of these new technologies has been slowed down due to the uncertainty associated with the regulation of genome edited crops. For many European consumers, their view of new breeding technologies is influenced by many factors. Those who have never faced a major food crisis may not sufficiently appreciate the challenges posed by a projected rise of 2 billion in the human population by 2050. In addition, consumers with a regular and plentiful supply of food may not have to consider how their food is produced, or appreciate the challenges EU farmers are already facing to meet future demand. Misleading online articles, questioning the safety and ethics of these “new” biotech foods, can also lead consumers to be reluctant to accept them. Consequently, Europe's mixed view on biotech crops may also be hindering their adoption in countries who have even more to gain from the technology. In this review, we discuss the current data on global and EU GM crop adoption and the potential impact a new wave of crop development may have for agriculture. We reflect on how the EU has viewed GM crops, and we consider the future of both genetic modification (GM) and genome editing (GE) in the EU. We explore lessons learnt from the adoption of GM crops and examine the potential impact the recent decision not to exempt genome edited crops from the EU GMO Directive, will have on EU farmers, scientists, consumers, trading countries, and the rest of the world.",
+  "references": [
+    {
+      "paperId": "482e54bec0b6f8644f22636600b155bfbd3ea8e4"
+    },
+    {
+      "paperId": "5f2ca6b7808e3fc63654c09ec07031f5ed50241b"
+    },
+    {
+      "paperId": "f0e277804f1f47677594f604a06a288570ccae7d"
+    },
+    {
+      "paperId": "84aa46300a57c6cfeb61bf50b674a621c1e6a65e"
+    },
+    {
+      "paperId": "86dd2494678de78cd37d0ffbc307ad5cc95d8052"
+    },
+    {
+      "paperId": "1afe47e989782bad7af036db784fb697c97405a6"
+    },
+    {
+      "paperId": "3b58d7a8895f8e3bbdf328b484b9e2d5ea490bf0"
+    },
+    {
+      "paperId": "9bc32276f2d78e000ec20fd03184f4330aec8b25"
+    },
+    {
+      "paperId": "658ec9d0ebbef4b57da6c5db638098cf253f8c64"
+    },
+    {
+      "paperId": "91c19a5b09e56d349d73a5bcfce314edb5d19f24"
+    },
+    {
+      "paperId": "31045b3622ab33826c029db7484b1c7fc3788105"
+    },
+    {
+      "paperId": "f5dab9b04e4419c4eb9aeb1d9c8af8143cd8ed0b"
+    },
+    {
+      "paperId": "eefb5655307dfe159c5f23d0e50de42f007624d5"
+    },
+    {
+      "paperId": "69e2886974beeebaeeda9122ff0ed8ce6d5fc361"
+    },
+    {
+      "paperId": "dff54f97efb3c5924843ac052146abb51f1cda42"
+    },
+    {
+      "paperId": "27cfc436ffba5b1d959d0a899a18fa328816bdf6"
+    },
+    {
+      "paperId": "d25ca13136ac049fa1af57d7c32c8da203a3f545"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "66b8c46fee7119295d0a034b7c606edc0fd5f38f"
+    },
+    {
+      "paperId": "5c078cac1c98dd5b84b3150d65c0a191841a6c3b"
+    },
+    {
+      "paperId": "442c5c8fc3efbc6bce49b5e2fe180bab0c06f1d0"
+    },
+    {
+      "paperId": "b8386ac90f3f272076fdbbff310e49e8e6f060eb"
+    },
+    {
+      "paperId": "b63c4314b26f3463296d5b32b301e30941b7a18a"
+    },
+    {
+      "paperId": "29ce129501cb85426e54bdaf2f851e34be350d98"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

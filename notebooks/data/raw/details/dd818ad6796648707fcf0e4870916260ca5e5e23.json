@@ -1,0 +1,207 @@
+{
+  "paperId": "dd818ad6796648707fcf0e4870916260ca5e5e23",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/RanconBKG19",
+    "MAG": "2906321005",
+    "DOI": "10.3390/RS11010001",
+    "CorpusId": 60443030
+  },
+  "url": "https://www.semanticscholar.org/paper/dd818ad6796648707fcf0e4870916260ca5e5e23",
+  "title": "Comparison of SIFT Encoded and Deep Learning Features for the Classification and Detection of Esca Disease in Bordeaux Vineyards",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 81,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/1/1/pdf?version=1545292747",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11010001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11010001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2133461932",
+      "name": "F. Rançon"
+    },
+    {
+      "authorId": "1959387",
+      "name": "L. Bombrun"
+    },
+    {
+      "authorId": "2407212",
+      "name": "B. Keresztes"
+    },
+    {
+      "authorId": "145813480",
+      "name": "C. Germain"
+    }
+  ],
+  "abstract": "Grapevine wood fungal diseases such as esca are among the biggest threats in vineyards nowadays. The lack of very efficient preventive (best results using commercial products report 20% efficiency) and curative means induces huge economic losses. The study presented in this paper is centered around the in-field detection of foliar esca symptoms during summer, exhibiting a typical “striped” pattern. Indeed, in-field disease detection has shown great potential for commercial applications and has been successfully used for other agricultural needs such as yield estimation. Differentiation with foliar symptoms caused by other diseases or abiotic stresses was also considered. Two vineyards from the Bordeaux region (France, Aquitaine) were chosen as the basis for the experiment. Pictures of diseased and healthy vine plants were acquired during summer 2017 and labeled at the leaf scale, resulting in a patch database of around 6000 images (224 × 224 pixels) divided into red cultivar and white cultivar samples. Then, we tackled the classification part of the problem comparing state-of-the-art SIFT encoding and pre-trained deep learning feature extractors for the classification of database patches. In the best case, 91% overall accuracy was obtained using deep features extracted from MobileNet network trained on ImageNet database, demonstrating the efficiency of simple transfer learning approaches without the need to design an ad-hoc specific feature extractor. The third part aimed at disease detection (using bounding boxes) within full plant images. For this purpose, we integrated the deep learning base network within a “one-step” detection network (RetinaNet), allowing us to perform detection queries in real time (approximately six frames per second on GPU). Recall/Precision (RP) and Average Precision (AP) metrics then allowed us to evaluate the performance of the network on a 91-image (plants) validation database. Overall, 90% precision for a 40% recall was obtained while best esca AP was about 70%. Good correlation between annotated and detected symptomatic surface per plant was also obtained, meaning slightly symptomatic plants can be efficiently separated from severely attacked plants.",
+  "references": [
+    {
+      "paperId": "c72d7f3e5bc8473f0bb16c2bcc19d833432ef345"
+    },
+    {
+      "paperId": "98b46a1ffe3d426c53659f63ddac148982b33cc3"
+    },
+    {
+      "paperId": "3f611458b84ca8756c863916b33d12c704687127"
+    },
+    {
+      "paperId": "c434380688ac44b4821e19e97b31d1db2d565787"
+    },
+    {
+      "paperId": "886674a5abae3c9bfd262006c67d4ba078e1462b"
+    },
+    {
+      "paperId": "79cfb51a51fc093f66aac8e858afe2e14d4a1f20"
+    },
+    {
+      "paperId": "33ef644ef5085237b4f529251d6c895d32d6052f"
+    },
+    {
+      "paperId": "6fca5ebcc7cd7930e01cd9d7c1f33ca4f0af1cd3"
+    },
+    {
+      "paperId": "3647d6d0f151dc05626449ee09cc7bce55be497e"
+    },
+    {
+      "paperId": "c5dca578fe2651601c0d7442e9c75d6d88889112"
+    },
+    {
+      "paperId": "a27f22fcee3bb2efba94049a1892a95ef434404d"
+    },
+    {
+      "paperId": "2a94c84383ee3de5e6211d43d16e7de387f68878"
+    },
+    {
+      "paperId": "f9ca5ac8f0f0f8bec6974e86023a4b4f74239829"
+    },
+    {
+      "paperId": "b49fa384d39fae1273baf84348435219837c9c1d"
+    },
+    {
+      "paperId": "53f933bb0512ad3f84427faf45bb58d01403400c"
+    },
+    {
+      "paperId": "6d902439b736a7546dd8872b307fb760087ca629"
+    },
+    {
+      "paperId": "9397e7acd062245d37350f5c05faf56e9cfae0d6"
+    },
+    {
+      "paperId": "611ff74595d865a27d7cb0410498e0b15132eb0c"
+    },
+    {
+      "paperId": "a90efa8777c4b8b2059f37b3620648117982be7d"
+    },
+    {
+      "paperId": "18e3eec4e4c259cc0cbce91daff37e95e05d57d0"
+    },
+    {
+      "paperId": "6d48f3331bfa95f433441259138a336c01d1ff20"
+    },
+    {
+      "paperId": "e6d48826df15adbbf91649dd0e91cc3380dd1a32"
+    },
+    {
+      "paperId": "2f14c347cfb6b4ea8bd20f40ad5cf819eb2329b8"
+    },
+    {
+      "paperId": "a6cb366736791bcccc5c8639de5a8f9636bf87e8"
+    },
+    {
+      "paperId": "15d999912cce6583ac2164f322fc2dbe20a14b84"
+    },
+    {
+      "paperId": "8b420f9a66910cdb580eff11bbae542abba13297"
+    },
+    {
+      "paperId": "ed6fe2b817c14542cd13b69d413b4f1158066afe"
+    },
+    {
+      "paperId": "8f8a6255c70502d96c5ecdb6dff25fe47eb45fdb"
+    },
+    {
+      "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8"
+    },
+    {
+      "paperId": "e595bc798d731d872a56198b7f3f6872dadc11a5"
+    },
+    {
+      "paperId": "950b1e54d3ff80f91948eba5ca6f1239e6b9fedb"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "2d0c0b438eb38a3e82fd6a4b1644c65af5ea2153"
+    },
+    {
+      "paperId": "beaab561cd0f97681a76e7263a78319382b3f0c5"
+    },
+    {
+      "paperId": "81e524dad1f50cca3561f49efff20fd5ae8bb161"
+    },
+    {
+      "paperId": "f39abdc029f4b3e8bf684b7391d3ccb1b805f5d6"
+    },
+    {
+      "paperId": "d720a95e1501922ea17ee31f299f43b2db5e15ef"
+    },
+    {
+      "paperId": "39f3b1804b8df5be645a1dcb4a876e128385d9be"
+    },
+    {
+      "paperId": "a1855be6143291aeafb16338eb3327f903ac7618"
+    },
+    {
+      "paperId": "4927dc75c2a5ed0b0fae8c2a770362bb27f4a13b"
+    },
+    {
+      "paperId": "eb8de4b622116d7947e182d7cebb506cc011d19b"
+    },
+    {
+      "paperId": "d175a196816e44c08928ad05e30fd774468d69aa"
+    },
+    {
+      "paperId": "70d10b4321bab2e1bd28e167fccb674179a4a9da"
+    },
+    {
+      "paperId": "642e328cae81c5adb30069b680cf60ba6b475153"
+    },
+    {
+      "paperId": "a565b533a52eb4c250d053a49a4994866d65eb91"
+    },
+    {
+      "paperId": "cdb48a96036b8cd2367eea596cff2db828305150"
+    },
+    {
+      "paperId": "cd773d9b82f8331f5b2910ec2f52388aafb6dbfd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "268cd46a06e8e3052bbd64e96fac73d600430281"
+    },
+    {
+      "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b"
+    },
+    {
+      "paperId": "78726968412f56c1e9d72e0370d2d3f681ab3716"
+    },
+    {
+      "paperId": "42e5ed832d4310ce4378c44d05570439df28a393"
+    },
+    {
+      "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4"
+    }
+  ]
+}

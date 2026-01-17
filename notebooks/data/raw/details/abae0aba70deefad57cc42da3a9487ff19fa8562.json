@@ -1,0 +1,177 @@
+{
+  "paperId": "abae0aba70deefad57cc42da3a9487ff19fa8562",
+  "externalIds": {
+    "MAG": "3102757242",
+    "DBLP": "journals/corr/abs-1903-00815",
+    "ArXiv": "1903.00815",
+    "DOI": "10.1109/ICRA.2019.8794116",
+    "CorpusId": 67855267
+  },
+  "url": "https://www.semanticscholar.org/paper/abae0aba70deefad57cc42da3a9487ff19fa8562",
+  "title": "Detecting Invasive Insects with Unmanned Aerial Vehicles",
+  "venue": "IEEE International Conference on Robotics and Automation",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1903.00815",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1903.00815, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "73774644",
+      "name": "B. Stumph"
+    },
+    {
+      "authorId": "73775900",
+      "name": "Miguel Hernandez Virto"
+    },
+    {
+      "authorId": "2767912",
+      "name": "Henry Medeiros"
+    },
+    {
+      "authorId": "2865636",
+      "name": "A. Tabb"
+    },
+    {
+      "authorId": "49156674",
+      "name": "S. Wolford"
+    },
+    {
+      "authorId": "2055997814",
+      "name": "Kevin Rice"
+    },
+    {
+      "authorId": "5373236",
+      "name": "T. Leskey"
+    }
+  ],
+  "abstract": "A key aspect to controlling and reducing the effects invasive insect species have on agriculture is to obtain knowledge about the migration patterns of these species. Current state-of-the-art methods of studying these migration patterns involve a mark-release-recapture technique, in which insects are released after being marked and researchers attempt to recapture them later. However, this approach involves a human researcher manually searching for these insects in large fields and results in very low recapture rates. In this paper, we propose an automated system for detecting released insects using an unmanned aerial vehicle. This system utilizes ultraviolet lighting technology, digital cameras, and lightweight computer vision algorithms to more quickly and accurately detect insects compared to the current state of the art. The efficiency and accuracy that this system provides will allow for a more comprehensive understanding of invasive insect species migration patterns. Our experimental results demonstrate that our system can detect real target insects in field conditions with high precision and recall rates.",
+  "references": [
+    {
+      "paperId": "547a4052b743ff1a89e0314171b566f2e24c00c6"
+    },
+    {
+      "paperId": "55806db5a8949d6cb327923287a63939099fffa2"
+    },
+    {
+      "paperId": "d064f7beca4108dab106521812aa28d1b9ec9f40"
+    },
+    {
+      "paperId": "69510ac80f0b081b75f5caa33dcd02d40b1e0aac"
+    },
+    {
+      "paperId": "ec10e6dfcad9e2b6eefa73d354e07331220a58d9"
+    },
+    {
+      "paperId": "9b183fb41ba08ec60b68a76386705db599cfbb94"
+    },
+    {
+      "paperId": "896c33aa816426e1d1f5a595708d8f904684517a"
+    },
+    {
+      "paperId": "8bf39fe2afe095cccfd0f381cf0f2e7d9ccffda7"
+    },
+    {
+      "paperId": "f0369459de3a856902abaf51105c541eb51c3be9"
+    },
+    {
+      "paperId": "973f307c2c17835a97e0bcbdb9d70e5401ec7ee2"
+    },
+    {
+      "paperId": "5bae9822d703c585a61575dced83fa2f4dea1c6d"
+    },
+    {
+      "paperId": "0a49881a582fd7979b6df6e54e41d418fe73dc0c"
+    },
+    {
+      "paperId": "0109a89eb3413eb7de0736774b70e2870ae586a4"
+    },
+    {
+      "paperId": "3f32debf3a3345e06da0236b4b8d550ac8b85394"
+    },
+    {
+      "paperId": "075c3fe6bce134d72e08d5109abe2d96276fd52d"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "2d6b111a290f6f7809c18e3f751e3f153286d44b"
+    },
+    {
+      "paperId": "d40ee5dd758c525dfb9932d726bb4e844b7b8478"
+    },
+    {
+      "paperId": "fe908375dd39d05d531106311bf3c48be22ef8be"
+    },
+    {
+      "paperId": "15eea3947473b9d7302bf7d7d59231113fcd8b85"
+    },
+    {
+      "paperId": "c4bf7e3c2b5f78bc2efe239afd3d0d8506a1c62e"
+    },
+    {
+      "paperId": "66caad2da024a0b9cdc5708b5e7448919fdbb423"
+    },
+    {
+      "paperId": "04a4ee2a374f979b5ddf5ca383c58e60a5035e7c"
+    },
+    {
+      "paperId": "6e1c36a8d9d3ffe98f8f67c10ae2750a36a605c0"
+    },
+    {
+      "paperId": "e80e30689de8d8337bab89761b56ba4f63e3889f"
+    },
+    {
+      "paperId": "6624e2b3ffa3f7e586375657cb30db8e9780a1cb"
+    },
+    {
+      "paperId": "61774bc9490c816bba805574c0c038c1b3f673b8"
+    },
+    {
+      "paperId": "45cfb15c1183c36212c0a622bf55c5dd0e8ac89e"
+    },
+    {
+      "paperId": "da31a5baa0df71487d87a30a9866e0cc0b3f7cb3"
+    },
+    {
+      "paperId": "8c375a3cb7ba4830180a4328a1c8b604fbae0a5c"
+    },
+    {
+      "paperId": "80357d259aa8d8d86b2660ce65ef33e2dd1a5704"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "83ecb4cadf56e2135e1ce44c38382314d9f2e06c"
+    },
+    {
+      "paperId": "1e28175e61dfd1a02e19a38573bab42656a636d5"
+    },
+    {
+      "paperId": "c7099884bc67eaa94bb2c6b2b3b900373a3446df"
+    },
+    {
+      "paperId": "02075a19c1d0f85998b0ad5a430eb05b3e169cf0"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    }
+  ]
+}

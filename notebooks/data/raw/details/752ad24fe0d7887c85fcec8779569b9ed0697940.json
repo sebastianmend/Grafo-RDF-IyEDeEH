@@ -1,0 +1,39 @@
+{
+  "paperId": "752ad24fe0d7887c85fcec8779569b9ed0697940",
+  "externalIds": {
+    "MAG": "2901740846",
+    "DBLP": "conf/giots/TrebouxG18",
+    "DOI": "10.1109/GIOTS.2018.8534558",
+    "CorpusId": 53430397
+  },
+  "url": "https://www.semanticscholar.org/paper/752ad24fe0d7887c85fcec8779569b9ed0697940",
+  "title": "Improved Machine Learning Methodology for High Precision Agriculture",
+  "venue": "Global Internet of Things Summit",
+  "year": 2018,
+  "citationCount": 43,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://arodes.hes-so.ch/record/2824/files/Author%20postprint.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GIOTS.2018.8534558?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GIOTS.2018.8534558, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3064309",
+      "name": "J. Treboux"
+    },
+    {
+      "authorId": "1722226",
+      "name": "D. Genoud"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

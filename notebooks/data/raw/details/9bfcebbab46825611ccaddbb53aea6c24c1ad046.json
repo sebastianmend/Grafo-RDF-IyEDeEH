@@ -1,0 +1,40 @@
+{
+  "paperId": "9bfcebbab46825611ccaddbb53aea6c24c1ad046",
+  "externalIds": {
+    "MAG": "2947209183",
+    "CorpusId": 191696236
+  },
+  "url": "https://www.semanticscholar.org/paper/9bfcebbab46825611ccaddbb53aea6c24c1ad046",
+  "title": "A Survey on the Comparison between Precision and Traditional Agriculture by Budgeting Method",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "134398428",
+      "name": "Maryam Gharehbeigloo"
+    },
+    {
+      "authorId": "152400386",
+      "name": "S. Dehyouri"
+    },
+    {
+      "authorId": "34643739",
+      "name": "A. Zand"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

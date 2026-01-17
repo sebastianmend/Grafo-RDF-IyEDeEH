@@ -1,0 +1,48 @@
+{
+  "paperId": "a5c17a92b955d7e50f25d592a80844aa72823b60",
+  "externalIds": {
+    "DBLP": "conf/iciis/AgarwalS0S18",
+    "MAG": "2947168367",
+    "DOI": "10.1109/ICIINFS.2018.8721422",
+    "CorpusId": 169034312
+  },
+  "url": "https://www.semanticscholar.org/paper/a5c17a92b955d7e50f25d592a80844aa72823b60",
+  "title": "Critical analysis of classification techniques for precision agriculture monitoring using satellite and drone",
+  "venue": "International Conference on Industrial and Information Systems",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIINFS.2018.8721422?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIINFS.2018.8721422, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2078528933",
+      "name": "Ankush Agarwal"
+    },
+    {
+      "authorId": "2110937846",
+      "name": "A. Singh"
+    },
+    {
+      "authorId": "2109726288",
+      "name": "Sandeep Kumar"
+    },
+    {
+      "authorId": "2108468226",
+      "name": "Dharmendra Singh"
+    }
+  ],
+  "abstract": "Satellite imagery is used in various application such as metrological, change detection, disaster migration, agriculture development etc. With the changing habits of the agriculture practice, there is a need to estimate the vegetated area with the non-vegetated area for the yield estimation. Therefore an approach has been critically evaluated for precision agriculture monitoring especially for area estimation using satellite data with the efficient application of image processing tools. For this purpose sentinel-2 and drone data is used.",
+  "references": null
+}

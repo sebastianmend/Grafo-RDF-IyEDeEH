@@ -1,0 +1,62 @@
+{
+  "paperId": "6742beebc603c6972192c5216f8de6638e61c608",
+  "externalIds": {
+    "MAG": "2944165975",
+    "DOI": "10.3389/fenvs.2019.00056",
+    "CorpusId": 146120292
+  },
+  "url": "https://www.semanticscholar.org/paper/6742beebc603c6972192c5216f8de6638e61c608",
+  "title": "A Design for a Data and Information Service to Address the Knowledge Needs of the Water-Energy-Food (W-E-F) Nexus and Strategies to Facilitate Its Implementation",
+  "venue": "Frontiers in Environmental Science",
+  "year": 2019,
+  "citationCount": 44,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fenvs.2019.00056/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenvs.2019.00056?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenvs.2019.00056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "104284614",
+      "name": "R. Lawford"
+    }
+  ],
+  "abstract": "Food security is essential to sustain human societies. Food production is often limited by scarcities in one or more of these resources. An integrated Water-Energy-Food (W-E-F) Nexus planning and management approach promises improved resource efficiencies, new business opportunities, more coherent resource and environmental policies, and economies of scale for the data and information services underpinning better decision-making. This paper distils discussions on data and information from four regional workshops held as part of a Future Earth W-E-F Nexus Cluster project. The workshops aimed to enhance integrated management through better governance; collecting, analyzing, and communicating data and information; and integrating both for better planning and decision-making. Opportunities for enhancing food, energy, and water sustainability decisions through a data and information system are the focus of this paper. Data from each sector are needed to provide a full overview of the W-E-F Nexus. Relevant datasets and potential satellite products for water include water quality, watershed use change, snow and glacier monitoring, wetlands monitoring, water reservoir mapping, irrigation water management, aquifer monitoring, and measurements of critical water variables like precipitation, soil moisture, and evapotranspiration. Food and agricultural products include land use change maps, crop type mapping, crop acreage mapping, early warning indicators, yield assessment, precision agriculture, land degradation, clear-cut and burnt area maps, and soil moisture. Energy products include geological mapping, habitat assessment maps, logistic planning support, mine waste monitoring, renewable energy monitoring and mapping, and crop yield estimates for biofuels. However, specific priorities for W-E-F Nexus data products await further guidance from the W-E-F Nexus community. Data and information, along with modern technologies, can play a role in facilitating the paradigm shifts that benefit the W-E-F Nexus: explicitly assessing environmental services, meeting the growing urban food demand, valuing water and other resources used to produce food and energy for export, promoting resource use efficiency through integrated planning and management, and strengthening links between the W-E-F Nexus and the appropriate Sustainable Development Goals (SDGs). This paper explores the hypothesis that a properly defined system that integrates and consolidates W-E-F Nexus information and data could support the implementation of a W-E-F Nexus approach.",
+  "references": [
+    {
+      "paperId": "0d7fc113f7c20f550b9d8ff35b5262ce961eedd1"
+    },
+    {
+      "paperId": "7ed568e5204bc23ea856a9eef9b93301dcbf8953"
+    },
+    {
+      "paperId": "9e4f79ab9dca87a9215becd2411f38d444f11483"
+    },
+    {
+      "paperId": "a02eed47991ae4fd5d2a3da7369e2391c5e43aa4"
+    },
+    {
+      "paperId": "ae5abba41af615459afe505b5cd45f9a0442fc8b"
+    },
+    {
+      "paperId": "fd1ea0fb89d08edd10461993a81e3c6d8c03c9dc"
+    },
+    {
+      "paperId": "678e033a9832b5268c03817107d30c10144f8cf9"
+    },
+    {
+      "paperId": "66bfb1eb6430a16b9d760e3da23166c9494c4206"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

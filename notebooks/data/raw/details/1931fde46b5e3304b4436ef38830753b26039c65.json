@@ -1,0 +1,43 @@
+{
+  "paperId": "1931fde46b5e3304b4436ef38830753b26039c65",
+  "externalIds": {
+    "DOI": "10.1109/iccomm.2018.8484746",
+    "CorpusId": 52931991
+  },
+  "url": "https://www.semanticscholar.org/paper/1931fde46b5e3304b4436ef38830753b26039c65",
+  "title": "Assessment of Signal Jamming Efficiency Against LTE UAVs",
+  "venue": "International Conference on Communications",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iccomm.2018.8484746?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iccomm.2018.8484746, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31061003",
+      "name": "R. Curpen"
+    },
+    {
+      "authorId": "144525454",
+      "name": "T. Balan"
+    },
+    {
+      "authorId": "82209882",
+      "name": "Ioan Alexandru Micloş"
+    },
+    {
+      "authorId": "82762875",
+      "name": "Ionut Comănici"
+    }
+  ],
+  "abstract": "The use of robotic aircrafts (UAVs) has seen a significant growth in the recent years and, as regulations permit, continues to expand its uses in different areas: aerial photography, disaster management, shipping, geographic mapping, precision agriculture. LTE technology eliminated the line of sight control limitations for small drones. However, due to the possibility of flying unrestricted, countermeasures must be considered. One of them is jamming the drone's signal in order to stop its communication with the controlling party. This paper analyses the impact of jamming signals applied to the useful frequency spectrum used to pilot the UAVs.",
+  "references": null
+}

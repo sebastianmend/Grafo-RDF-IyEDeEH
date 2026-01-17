@@ -1,0 +1,45 @@
+{
+  "paperId": "869f2ee7821cef98c0c059972246fe1ea1545c2c",
+  "externalIds": {
+    "MAG": "2971756875",
+    "DBLP": "conf/agro-geoinformatics/SahinEK19",
+    "DOI": "10.1109/Agro-Geoinformatics.2019.8820646",
+    "CorpusId": 201833370
+  },
+  "url": "https://www.semanticscholar.org/paper/869f2ee7821cef98c0c059972246fe1ea1545c2c",
+  "title": "Multi-Output Regressions For Estimating Canola Biophysical Parameters From PolSAR Data",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Agro-Geoinformatics.2019.8820646?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Agro-Geoinformatics.2019.8820646, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "153836758",
+      "name": "Z. M. Sahin"
+    },
+    {
+      "authorId": "2953237",
+      "name": "E. Erten"
+    },
+    {
+      "authorId": "143919790",
+      "name": "Gülsen Taskin Kaya"
+    }
+  ],
+  "abstract": "Application of regression models through remote sensing for estimating biophysical parameters of crops is one of the key elements for precision agriculture studies. Numerically, this problem is solved separately for each biophysical parameter such as leaf area index, soil moisture, crop height and etc. However, this approach ignores tight relationship among the biophysical parameters, which is essential for driving estimation performance with a limited number of in-situ measurements. As an alternative strategy, a multi-output regression, which also learns the relationship among biophysical parameters in the regression model, is considered. In order to see how multi-output regression models capture the plausible physical relationship between crops biophysical parameters and polarimetric features, RadarSAT-2 images acquired over agriculture fields in the context of the AgriSAR 2009 campaign were used. Specifically, multioutput Gaussian Processes and multi-output Support Vector Machines, which are two powerful kernel-based methods, are implemented and assessed in the context of accuracy assessment of the biophysical parameter estimation.",
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "96c65928adb47a09744b05ff0df8fd90190b36fd",
+  "externalIds": {
+    "DBLP": "conf/aaai/CarrieriRWP19",
+    "MAG": "2964694544",
+    "DOI": "10.1609/AAAI.V33I01.33019434",
+    "CorpusId": 198189919
+  },
+  "url": "https://www.semanticscholar.org/paper/96c65928adb47a09744b05ff0df8fd90190b36fd",
+  "title": "A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes",
+  "venue": "AAAI Conference on Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1609/aaai.v33i01.33019434",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1609/AAAI.V33I01.33019434?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1609/AAAI.V33I01.33019434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "35983879",
+      "name": "A. Carrieri"
+    },
+    {
+      "authorId": "48530874",
+      "name": "W. Rowe"
+    },
+    {
+      "authorId": "35735962",
+      "name": "M. Winn"
+    },
+    {
+      "authorId": "1441303477",
+      "name": "Edward O. Pyzer-Knapp"
+    }
+  ],
+  "abstract": "Research on the microbiome is an emerging and crucial science that finds many applications in healthcare, food safety, precision agriculture and environmental studies. Huge amounts of DNA from microbial communities are being sequenced and analyzed by scientists interested in extracting meaningful biological information from this big data. Analyzing massive microbiome sequencing datasets, which embed the functions and interactions of thousands of different bacterial, fungal and viral species, is a significant computational challenge. Artificial intelligence has the potential for building predictive models that can provide insights for specific cutting edge applications such as guiding diagnostics and developing personalised treatments, as well as maintaining soil health and fertility. Current machine learning workflows that predict traits of host organisms from their commensal microbiome do not take into account the whole genetic material constituting the microbiome, instead basing the analysis on specific marker genes. In this paper, to the best of our knowledge, we introduce the first machine learning workflow that efficiently performs host phenotype prediction from whole shotgun metagenomes by computing similaritypreserving compact representations of the genetic material. Our workflow enables prediction tasks, such as classification and regression, from Terabytes of raw sequencing data that do not necessitate any pre-prossessing through expensive bioinformatics pipelines. We compare the performance in terms of time, accuracy and uncertainty of predictions for four different classifiers. More precisely, we demonstrate that our ML workflow can efficiently classify real data with high accuracy, using examples from dog and human metagenomic studies, representing a step forward towards real time diagnostics and a potential for cloud applications.",
+  "references": null
+}

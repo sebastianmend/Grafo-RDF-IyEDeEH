@@ -1,0 +1,68 @@
+{
+  "paperId": "136548dd22a89c149762d6242148f356072b5c50",
+  "externalIds": {
+    "MAG": "2969316478",
+    "DOI": "10.1146/annurev-nutr-082018-124250",
+    "CorpusId": 201275328,
+    "PubMed": "31433740"
+  },
+  "url": "https://www.semanticscholar.org/paper/136548dd22a89c149762d6242148f356072b5c50",
+  "title": "FADS1 and FADS2 Polymorphisms Modulate Fatty Acid Metabolism and Dietary Impact on Health.",
+  "venue": "Annual review of nutrition",
+  "year": 2019,
+  "citationCount": 106,
+  "influentialCitationCount": 8,
+  "openAccessPdf": {
+    "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-nutr-082018-124250",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-nutr-082018-124250?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-nutr-082018-124250, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48530970",
+      "name": "B. Koletzko"
+    },
+    {
+      "authorId": "5948272",
+      "name": "E. Reischl"
+    },
+    {
+      "authorId": "9655663",
+      "name": "Conny Tanjung"
+    },
+    {
+      "authorId": "1387453527",
+      "name": "I. González-Casanova"
+    },
+    {
+      "authorId": "5147933",
+      "name": "U. Ramakrishnan"
+    },
+    {
+      "authorId": "49585104",
+      "name": "Suzanne J. Meldrum"
+    },
+    {
+      "authorId": "1786835",
+      "name": "K. Simmer"
+    },
+    {
+      "authorId": "2234411716",
+      "name": "J. Heinrich"
+    },
+    {
+      "authorId": "3575290",
+      "name": "H. Demmelmair"
+    }
+  ],
+  "abstract": "Variants in the FADS gene cluster modify the activity of polyunsaturated fatty acid (PUFA) desaturation and the lipid composition in human blood and tissue. FADS variants have been associated with plasma lipid concentrations, risk of cardiovascular diseases, overweight, eczema, pregnancy outcomes, and cognitive function. Studies on variations in the FADS genecluster provided some of the first examples for marked gene-diet interactions in modulating complex phenotypes, such as eczema, asthma, and cognition. Genotype distribution differs markedly among ethnicities, apparently reflecting an evolutionary advantage of genotypes enabling active long-chain PUFA synthesis when the introduction of agriculture provided diets rich in linoleic acid but with little arachidonic and eicosapentaenoic acids. Discovering differential effects of PUFA supply that depend on variation of FADS genotypes could open new opportunities for developing precision nutrition strategies based either on an individual's genotype or on genotype distributions in specific populations.",
+  "references": null
+}

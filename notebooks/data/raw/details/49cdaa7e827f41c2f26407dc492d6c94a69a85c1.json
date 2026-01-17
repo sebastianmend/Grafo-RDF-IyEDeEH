@@ -1,0 +1,59 @@
+{
+  "paperId": "49cdaa7e827f41c2f26407dc492d6c94a69a85c1",
+  "externalIds": {
+    "MAG": "2894259299",
+    "DOI": "10.4195/NSE2018.04.0010",
+    "CorpusId": 169346230
+  },
+  "url": "https://www.semanticscholar.org/paper/49cdaa7e827f41c2f26407dc492d6c94a69a85c1",
+  "title": "Knowledge, Skills, and Abilities in the Precision Agriculture Workforce: An Industry Survey",
+  "venue": "Natural Sciences Education",
+  "year": 2018,
+  "citationCount": 39,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.4195/nse2018.04.0010",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4195/NSE2018.04.0010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4195/NSE2018.04.0010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "96176899",
+      "name": "B. Erickson"
+    },
+    {
+      "authorId": "36281937",
+      "name": "S. Fausti"
+    },
+    {
+      "authorId": "94445653",
+      "name": "D. Clay"
+    },
+    {
+      "authorId": "88347737",
+      "name": "S. Clay"
+    }
+  ],
+  "abstract": "Precision agriculture encompasses a set of related technologies aimed at better utilizing crop inputs, increasing yield and quality, reducing production risks, and enabling information flow throughout the crop supply and end-use chains. As agricultural businesses invest in precision offerings, their capacity to provide these products and services will depend on their ability to hire and retain employees with appropriate proficiency as defined in their knowledge, skills, and abilities (KSAs). A 2015 survey of agricultural retailers examined the minimum educational requirements retailers were seeking in their hires, along with the importance of a list of KSAs for the various positions that they customarily fill. The positions included equipment operators, sales specialists, technical support, and agronomists. The KSAs included specifics, such as the ability to install, calibrate, troubleshoot, and repair equipment; knowledge of precision agriculture software; and also more broad skills such as effective written and verbal communication and in making agronomy recommendations. As expected, retailers expressed different educational minimums and different levels of importance for various positions. Overwhelmingly, the retailers indicated difficulty in finding qualified candidates and a predominance of candidates with low or deficient proficiency in areas they rated important. The survey was accomplished using email lists from both CropLife and the Certified Crop Adviser program.",
+  "references": [
+    {
+      "paperId": "629cff80d4366f82c100eb45e343bc11da7256aa"
+    },
+    {
+      "paperId": "cfbc10868b9a9c0b98521c68920b1657426af90c"
+    },
+    {
+      "paperId": "7c2885261cf5e9e4f30fe267a7bf917e5883fbf2"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "9a4f1a72f2f1999c59b6d006f5b4a1b442343334",
+  "externalIds": {
+    "MAG": "2796785159",
+    "DOI": "10.1007/S41688-018-0017-2",
+    "CorpusId": 125229849
+  },
+  "url": "https://www.semanticscholar.org/paper/9a4f1a72f2f1999c59b6d006f5b4a1b442343334",
+  "title": "Estimating Soil Salt Content Using Fractional Derivatives and Optional Spectral Indices in the Ebinur Lake Oasis, Northwestern China",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S41688-018-0017-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S41688-018-0017-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2048730916",
+      "name": "Fei Zhang"
+    },
+    {
+      "authorId": "2108160550",
+      "name": "Xiaoping Wang"
+    },
+    {
+      "authorId": "9659307",
+      "name": "Hsiang-te Kung"
+    },
+    {
+      "authorId": "13312329",
+      "name": "V. Johnson"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,267 @@
+{
+  "paperId": "edd8c4c468eb9232c3580959f7fcc45adbccda8c",
+  "externalIds": {
+    "MAG": "2794660434",
+    "DOI": "10.15835/NSB10110242",
+    "CorpusId": 90530214
+  },
+  "url": "https://www.semanticscholar.org/paper/edd8c4c468eb9232c3580959f7fcc45adbccda8c",
+  "title": "Utilizing Genetic Resources and Precision Agriculture to Enhance Resistance to Biotic and Abiotic Stress in Watermelon",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.notulaebiologicae.ro/index.php/nsb/article/download/10242/8885",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15835/NSB10110242?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15835/NSB10110242, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "52055467",
+      "name": "M. Kantor"
+    },
+    {
+      "authorId": "143927975",
+      "name": "A. Levi"
+    }
+  ],
+  "abstract": "Originally from Africa, watermelon is a staple crop in South Carolina and rich source of important phytochemicals that promote human health. As a result of many years of domestication and selection for desired fruit quality, modern watermelon cultivars are susceptible to biotic and abiotic stress. The present review discusses how genetic selection and breeding combined with geospatial technologies (precision agriculture) may help enhance watermelon varieties for resistance to biotic and abiotic stress. Gene loci identified and selected in undomesticated watermelon accessions are responsible for resistance to diseases, pests and abiotic stress. Vegetable breeding programs use traditional breeding methodologies and genomic tools to introduce gene loci conferring biotic or abiotic resistance into the genome background of elite watermelon cultivars. This continuous approach of collecting, evaluating and identifying useful genetic material is valuable for enhancing genetic diversity and tolerance and combined with precision agriculture could increase food security in the Southeast.",
+  "references": [
+    {
+      "paperId": "1f03a39d40120d04b422d823b06ff6662c034fc4"
+    },
+    {
+      "paperId": "f588f3773609bb24c880c225a3eae701fbb1d3d3"
+    },
+    {
+      "paperId": "176b51fbe4f2386922a789a5df3391da73d90e88"
+    },
+    {
+      "paperId": "4be6b07143fed6ca999ccf33f2870e59f9854784"
+    },
+    {
+      "paperId": "40d59b956761f8078501e2251990235e151e2e9b"
+    },
+    {
+      "paperId": "c431b06760ad9ff96293d5d171c09f877f449bb5"
+    },
+    {
+      "paperId": "53df790189eedd449893fc94e71d959ec9d33805"
+    },
+    {
+      "paperId": "325fa5c65c5cda33a86132b9a17f753a1aba5bca"
+    },
+    {
+      "paperId": "194bef82875c8696a8f17ad8699376b207963876"
+    },
+    {
+      "paperId": "9e7ce686c8395e55aa76877b0d3e3c188310f89a"
+    },
+    {
+      "paperId": "41eb69f6faa214c17aaa1b37f698f0b862fc7d1b"
+    },
+    {
+      "paperId": "b7409bb54039dcb219a55a9acde444760881b502"
+    },
+    {
+      "paperId": "9e8a9279f035285c21256b734e686f05a4e9e02e"
+    },
+    {
+      "paperId": "26ba1c2fd796e245224168020e4c6610bd12abd1"
+    },
+    {
+      "paperId": "436e6fbf1d661d01ae6a5a91904b1d14758e431e"
+    },
+    {
+      "paperId": "604019aa73c9b6501ae9d83d666cfc462db05629"
+    },
+    {
+      "paperId": "e75fd3516b0b4e70c6bddb66f0d3f6fe0f48425d"
+    },
+    {
+      "paperId": "440cb79d5d6a8a3a7a6814e68ff285fda92075d4"
+    },
+    {
+      "paperId": "907e96e5c8ddcf42319ccc642e1e65b17a28828a"
+    },
+    {
+      "paperId": "3e84e2d4ed213f61f421a20c17e5ff9ca8ce9850"
+    },
+    {
+      "paperId": "5b2d1594b63a38c93fc0f9b576ac65ba0d612678"
+    },
+    {
+      "paperId": "9e571aeb80eba182f5e9c87c0ab963ed7e355e8c"
+    },
+    {
+      "paperId": "88c9f9237a6c1ed63abb1ec6e11f5fc740417684"
+    },
+    {
+      "paperId": "52afa15bcdbe94f5a27217f3ed303e1447ee8157"
+    },
+    {
+      "paperId": "9ff28fcfce5278ca203f3bb0219710d7f807eb3a"
+    },
+    {
+      "paperId": "9cc2d9bf7aa37a03bd35a8b15ba58a3b90a3f648"
+    },
+    {
+      "paperId": "39d52a3beb251f086fc540686a84ec9aafd2ba41"
+    },
+    {
+      "paperId": "4f4e50405c15a81e4aec7816bcfecd38278eed50"
+    },
+    {
+      "paperId": "66f577b6664d156fe9dba4827b93e220991d03db"
+    },
+    {
+      "paperId": "70fda05cf66d409fd593d01d03c2020e7d3c5777"
+    },
+    {
+      "paperId": "b18422511f9c68b0fe37f57c6736cb8a5d5953ed"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "bcd00c2ef01506409c7c174af3350a56a2ad554e"
+    },
+    {
+      "paperId": "486d750e9396ba9514bcb04988bb9ebb0f52e4b3"
+    },
+    {
+      "paperId": "1525c6ddb8f673571a88a99f7ee3c4795898817c"
+    },
+    {
+      "paperId": "b524f3212cb26575aaccbf288ba3087cea34216e"
+    },
+    {
+      "paperId": "7ef809d33ee20fcafba2d73bb5021bd42d8022b8"
+    },
+    {
+      "paperId": "f573bd35d99a91e2ee6b7764bafa517b0d03db22"
+    },
+    {
+      "paperId": "7f5da9853b9371bac1d11e5a85277c8022cb3f17"
+    },
+    {
+      "paperId": "7766c20c6fb4192b657ffc72ffa4a1ff7abc6f31"
+    },
+    {
+      "paperId": "57c3aade8dcf936f1b2104ada49dcfce6f384aa1"
+    },
+    {
+      "paperId": "fd8f3bac0c19c1353bda00769f0b6d53b5779f73"
+    },
+    {
+      "paperId": "e88bd71059c64b1dac601981c439aa9708993abf"
+    },
+    {
+      "paperId": "b64e64314333a2af55601d736626a00bf95cb6b8"
+    },
+    {
+      "paperId": "222bf8c70dac460b9ccffaeeeeaa5ce0af1531c8"
+    },
+    {
+      "paperId": "8977d501ab2436c9ca562feb33d2baf87b22332d"
+    },
+    {
+      "paperId": "8f24558a6e40db7e8c591c7c5c9257ce88769411"
+    },
+    {
+      "paperId": "832f0a0d57835a04ff6d66eae15db65232710097"
+    },
+    {
+      "paperId": "4f6ae31cbb10dc54ed86cb10cf456b9dec0e29a2"
+    },
+    {
+      "paperId": "c804aa7742e94b58baad270aaf43ccc1c41d5d69"
+    },
+    {
+      "paperId": "7233165c2aafe6fffa196aa34d26413013ef85fd"
+    },
+    {
+      "paperId": "8c4cc22b2ddf3edae201a45cb3c1f2f6aab3ab8f"
+    },
+    {
+      "paperId": "497639de73625608533281efe59e1d1e327dd398"
+    },
+    {
+      "paperId": "e33e1daef4adf83fdaf68d99c2632ccf719b78cc"
+    },
+    {
+      "paperId": "2a881e5b072a8b981c2914cec5f8d74a1cb0d672"
+    },
+    {
+      "paperId": "132633a7c684eaed8043134e4085608bda9b2b18"
+    },
+    {
+      "paperId": "50ab4f0fce3bc4a23ec5e61b2f2ceda5b34525b5"
+    },
+    {
+      "paperId": "3e0f10173359849efe1f76fdd5078892ea5df41a"
+    },
+    {
+      "paperId": "33c35a736e544cedab1975596349996c96f43254"
+    },
+    {
+      "paperId": "264a9b994ca87a2f9aae95f395e6a2a1c86a14ff"
+    },
+    {
+      "paperId": "b6769368bf8dad7fe7b440fbdfe7fcf32fb506a4"
+    },
+    {
+      "paperId": "861268ee2e1fcc56a82a4521e412647375da0b00"
+    },
+    {
+      "paperId": "4c05724555629e417bea39f938bd17c352b1e62c"
+    },
+    {
+      "paperId": "46ade7c301f4a3f6f1a36cc3dbdd1f01a948127a"
+    },
+    {
+      "paperId": "529c1dcda1b929020895df0c45bd29eee4ad415f"
+    },
+    {
+      "paperId": "a9ea3eeacc2d9f953f1991a6df57b1be1f272918"
+    },
+    {
+      "paperId": "450198b032d59bfd567898d5036ec0ef2a83944a"
+    },
+    {
+      "paperId": "3ffe4431040a9883b40e1000862caf6f62ec9d09"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

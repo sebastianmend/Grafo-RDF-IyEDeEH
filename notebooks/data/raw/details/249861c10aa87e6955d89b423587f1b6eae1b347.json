@@ -1,0 +1,43 @@
+{
+  "paperId": "249861c10aa87e6955d89b423587f1b6eae1b347",
+  "externalIds": {
+    "MAG": "3012832065",
+    "DBLP": "conf/applepies/AlbanesedB19",
+    "DOI": "10.1007/978-3-030-37277-4_8",
+    "CorpusId": 214626868
+  },
+  "url": "https://www.semanticscholar.org/paper/249861c10aa87e6955d89b423587f1b6eae1b347",
+  "title": "Pest Detection for Precision Agriculture Based on IoT Machine Learning",
+  "venue": "Applications in Electronics Pervading Industry, Environment and Society",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-37277-4_8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-37277-4_8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1588869784",
+      "name": "Andrea Albanese"
+    },
+    {
+      "authorId": "1491645400",
+      "name": "Donato d'Acunto"
+    },
+    {
+      "authorId": "2360982",
+      "name": "D. Brunelli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,154 @@
+{
+  "paperId": "f7773360495814354d19862ddf3d0d21a56fcb36",
+  "externalIds": {
+    "MAG": "2945713250",
+    "DOI": "10.4018/IJAEIS.2019070105",
+    "CorpusId": 275690870
+  },
+  "url": "https://www.semanticscholar.org/paper/f7773360495814354d19862ddf3d0d21a56fcb36",
+  "title": "State of the Art and Gap Analysis of Precision Agriculture",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.igi-global.com/ViewTitle.aspx?TitleId=228929&isxn=9781522566748",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4018/IJAEIS.2019070105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/IJAEIS.2019070105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2340968659",
+      "name": "Vaibhav Bhatnagar"
+    },
+    {
+      "authorId": "2175596978",
+      "name": "R. C. Poonia"
+    },
+    {
+      "authorId": "2340967725",
+      "name": "Surendra Sunda"
+    }
+  ],
+  "abstract": "Precision Agriculture (PA) is now becoming the base for rapid development of a nation. So many technologies are used in precision agriculture such as Global Positioning System (GPS), Artificial Intelligence (AI), Sensor Network and Geographical Information System (GIS). This manuscript per the authors will review all the factors that influence the precision agriculture. This article describes the major endeavors in the past of precision agriculture. The noble intention behind this literature review and analogy is to figure out the gap between theoretical research and actual needs of farmers. In order to find out the actual requirements manuscripts per the authors have conducted a questionnaire in Rajasthan State of India. This gap analysis would be helpful for researchers to design an effective and efficient decision support system for irrigation and fertilization can be designed for Indian farmers.",
+  "references": [
+    {
+      "paperId": "98e6674ca6257e6d3b226a83234165e69b3e6d2b"
+    },
+    {
+      "paperId": "06322c1524e32c93c648b3f7bb272f3ba87294a6"
+    },
+    {
+      "paperId": "1609f498ac548695fae493f7b3162a5f1d043b4b"
+    },
+    {
+      "paperId": "d35f70414a3433542b99ecb5f920f6631f5fe90f"
+    },
+    {
+      "paperId": "e021e34e806ae5be270317734154ebd3fbf0b41c"
+    },
+    {
+      "paperId": "9cec5e9bd8a0b2ff8ea235ea770fe094ed6965ce"
+    },
+    {
+      "paperId": "2efd79184624743ab0c13f42e751de2cc687ce80"
+    },
+    {
+      "paperId": "bd83cc8125a41369e8d90058bba12e012ea69947"
+    },
+    {
+      "paperId": "abd5bc2fa2624a28f75466445161c8f77bde6af6"
+    },
+    {
+      "paperId": "32ff8a2c898af66313a5a307a57a893aa6ffb65f"
+    },
+    {
+      "paperId": "d7662cfc8a6fe1e15c94e3074ead4e4c3ed7131f"
+    },
+    {
+      "paperId": "ec08ed194e1c6b4913e4e58c723180e14efb05c6"
+    },
+    {
+      "paperId": "f193d68ef6450029cbee61b0d7fc810a1bb3cb20"
+    },
+    {
+      "paperId": "9626414fc2027e85e8f5ea3af6a09add6dff9d2e"
+    },
+    {
+      "paperId": "2891b5de1cc2cbd98886b483205f0e78d3fab02b"
+    },
+    {
+      "paperId": "bea9a506e16f78ee420e4f9e57a772cff47a9dfe"
+    },
+    {
+      "paperId": "a3c0785702473c095cab5ac1350533d2876b9aec"
+    },
+    {
+      "paperId": "9abc4187f5b0b36bae83b8ffdf071dd266af33ab"
+    },
+    {
+      "paperId": "9ce2b6354bba8846ab012794833e6b2ccd1405b8"
+    },
+    {
+      "paperId": "ca26e27de601999dd60284f201727d1b46725f6a"
+    },
+    {
+      "paperId": "95f31687c79e5cdda5092cc3d4cec72c20f5fa2d"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "ec626930d8a76582c378cb68a14dee31e2033753"
+    },
+    {
+      "paperId": "aa2b9e8d83005e8be43d5c7807e355644e283d67"
+    },
+    {
+      "paperId": "95aff032c89fe627f7d78300549c04cf95051fdd"
+    },
+    {
+      "paperId": "866338ba2bef96d32528aa9f76740a3a4fd4fc16"
+    },
+    {
+      "paperId": "f8c8da782dfb42a40c2a0722b94f40cc71718191"
+    },
+    {
+      "paperId": "ee20041d8b6e1ec96536a544c284d638dca84e4b"
+    },
+    {
+      "paperId": "39e6105db1c57a75d2deb76cd0f0b4237f50f7ad"
+    },
+    {
+      "paperId": "93276241d68ffe2592a52becac5f7a85c22fb0cd"
+    },
+    {
+      "paperId": "75f9e0d1cc4ef7c8cb04c5deda5329670f1bdfc8"
+    },
+    {
+      "paperId": "e59c02c6e9c8311470633c71644e405b9a57f8da"
+    },
+    {
+      "paperId": "9e8b911a0eff56664e234aa7371e0d1138efb181"
+    },
+    {
+      "paperId": "e2eff29c918c05ccdcfeee8c109e7400c95bb496"
+    },
+    {
+      "paperId": "f515eb9fdbe49ebabc928684c0a4ed47abf148ad"
+    },
+    {
+      "paperId": "97644de3e1986fb3d4a447d9c7e3d0f648785b2f"
+    }
+  ]
+}

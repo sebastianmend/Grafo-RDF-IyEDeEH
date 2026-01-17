@@ -1,0 +1,46 @@
+{
+  "paperId": "c1033788364a0b21df058d24e1ca8cd4ff146ab3",
+  "externalIds": {
+    "MAG": "2953144477",
+    "DOI": "10.25559/SITITO.14.201802.493-499",
+    "CorpusId": 196167867
+  },
+  "url": "https://www.semanticscholar.org/paper/c1033788364a0b21df058d24e1ca8cd4ff146ab3",
+  "title": "Solution of the problem of high-precision positioning of automobile transport on the basis of the use of electronic maps",
+  "venue": "Международный научный журнал \"Современные информационные технологии и ИТ-образование\"",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25559/SITITO.14.201802.493-499?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25559/SITITO.14.201802.493-499, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "100588660",
+      "name": "С. О. Крамаров"
+    },
+    {
+      "authorId": "79051212",
+      "name": "Сергей Викторович Соколов"
+    },
+    {
+      "authorId": "2095672127",
+      "name": "Евгений Николаевич Тищенко"
+    },
+    {
+      "authorId": "150372844",
+      "name": "Ольга Ивановна Соколова"
+    }
+  ],
+  "abstract": "The solution of the problem of positioning of moving objects is now increasingly carried out using electronic maps, allowing approximating with high accuracy the trajectory of the object by a set of orthodromic trajectories. Such studies are typical for such applications as space exploration, marine science, point agriculture, geographic information systems and, especially, road transport, where the movement in most cases is carried out on well-known with high accuracy trajectories. Using the functional dependence of the navigation variables in the Greenwich (geocentric) coordinate system, which is widely used in modern navigation, this article provides an analytical solution to the navigation problem of transport objects moving along known trajectories approximated by orthodromic intervals. This solution makes it possible to improve the positioning accuracy of road transport, as well as provides a reduction in the hardware composition of the measuring complex of moving objects and computational costs for the implementation of the navigation algorithm. In order to illustrate the possibility of its practical application in this research, the numerical simulation of the positioning algorithm using noisy odometric and velocity measurements with their subsequent processing in a linear Kalman filter is carried out. The simulation results allow us to conclude that it is possible to provide high accuracy positioning of transport objects moving along known trajectories using the developed approach at computational cost, allowing the implementation of the proposed algorithm in real time due to the small dimension of used linear Kalman filter. Due to the functional dependence of the navigation variables existing on this trajectory in the article an analytical solution of the navigation problem of transport objects moving along known trajectories approximated by orthodromic intervals is obtained in the Greenwich (geocentric) coordinate system widely used in modern navigation. This solution makes it possible to improve the positioning accuracy of road transport, as well as provides a reduction in the hardware composition of the measuring complex of moving objects and computational costs for the implementation of the navigation algorithm. In order to illustrate the possibility of its practical application the numerical simulation of the positioning algorithm using noisy odometric and velocity measurements with their subsequent processing in a linear Kalman filter is carried out. The simulation results allow us to conclude that it is possible to provide high accuracy positioning of transport objects moving along known trajectories using the developed approach at computational cost, allowing the implementation of the proposed algorithm in real time due to the small dimension of used linear Kalman filter\n Решение задачи позиционирования подвижных объектов в настоящее время все чаще осуществляется с использованием электронных карт, позволяющих с высокой точностью аппроксимировать траекторию движения объекта набором ортодромических траекторий. Подобные исследования характерны для таких областей применения как космонавтика, морское дело, точечное сельское хозяйство, геоинформационные системы и, особенно, автомобильный  транспорт, где движение в большинстве случаев осуществляется по известным с высокой точностью траекториям. Используя функциональную зависимость навигационных переменных в гринвичской (геоцентрической) системе координат, которая широко используются в современной навигации в настоящей статье получено аналитическое решение навигационной задачи транспортных объектов, движущихся по известным траекториям, аппроксимируемым ортодромическими интервалами. Данное решение позволяет повысить точность позиционирования автомобильного  транспорта, а также обеспечивает сокращение аппаратурного состава измерительного комплекса подвижных объектов и вычислительных затрат на реализацию навигационного алгоритма. С целью иллюстрации возможности его практического применения в настоящем исследовании проведено численное моделирование алгоритма позиционирования, использующего зашумленные одометрические и скоростные измерения с их последующей обработкой в линейном фильтре Калмана. Результаты моделирования позволяют сделать вывод о возможности обеспечения на основе использования разработанного подхода высокой точности позиционирования транспортных объектов, движущихся по известным траекториям, при вычислительных затратах, допускающих реализацию предложенного алгоритма в реальном масштабе времени за счет небольшой размерности используемого линейного фильтра Калмана. За счет функциональной зависимости навигационных переменных, существующей на данной траектории, в статье в гринвичской (геоцентрической) системе координат, широко используемой в современной навигации, получено аналитическое решение навигационной задачи транспортных объектов, движущихся по известным траекториям, аппроксимируемым ортодромическими интервалами. Данное решение позволяет повысить точность позиционирования автомобильного  транспорта, а также обеспечивает сокращение аппаратурного состава измерительного комплекса подвижных объектов и вычислительных затрат на реализацию навигационного алгоритма. С целью иллюстрации возможности его практического применения рассмотрено численное моделирование алгоритма позиционирования, использующего зашумленные одометрические и скоростные измерения с их последующей обработкой в линейном фильтре Калмана. Результаты моделирования позволяют сделать вывод о возможности обеспечения на основе использования разработанного подхода высокой точности позиционирования транспортных объектов, движущихся по известным траекториям, при вычислительных затратах, допускающих реализацию предложенного алгоритма в реальном масштабе времени за счет небольшой размерности используемого линейного фильтра Калмана.",
+  "references": null
+}

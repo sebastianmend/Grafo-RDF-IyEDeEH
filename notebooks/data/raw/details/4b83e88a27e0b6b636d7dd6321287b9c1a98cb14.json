@@ -1,0 +1,39 @@
+{
+  "paperId": "4b83e88a27e0b6b636d7dd6321287b9c1a98cb14",
+  "externalIds": {
+    "MAG": "2987117445",
+    "DBLP": "journals/ijcomsys/RajputK20",
+    "DOI": "10.1002/dac.4239",
+    "CorpusId": 209066555
+  },
+  "url": "https://www.semanticscholar.org/paper/4b83e88a27e0b6b636d7dd6321287b9c1a98cb14",
+  "title": "Fuzzy logic–based distributed clustering protocol to improve energy efficiency and stability of wireless smart sensor networks for farmland monitoring systems",
+  "venue": "International Journal of Communication Systems",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/dac.4239?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/dac.4239, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31179423",
+      "name": "Anagha Rajput"
+    },
+    {
+      "authorId": "32103168",
+      "name": "V. Kumaravelu"
+    }
+  ],
+  "abstract": "Wireless smart sensor networks (WSSNs) are emerging as the physical backbone of the internet of things (IoT) technology. On the basis of the IoT platform, web‐based systems and services are been developing such as e‐surveillance, industrial‐IoT, and precision agriculture. For farmland monitoring systems, WSSNs need to be scalable in terms of coverage area. Sensor nodes are energy‐constrained devices, and hence, many energy‐efficient clustering protocols are developed in the literature. But these methods overload the cluster leaders (CLs) with cluster computation and data communication costs. An improper CL selection may lead to the early death of such nodes and hence does not prolong the network lifetime stability. We propose a fuzzy logic (FL)–based distributed clustering protocol to enhance the energy efficiency of WSSN while maximizing the coverage area. The load of CLs is shared by originators and super‐CLs (SCLs) selected in the network. The wireless link and received signal strength (RSS) are greatly affected by environmental conditions and thus cannot be considered as ideal network parameters. We use FL systems to tackle the uncertainty of such network parameters. The proposed protocol is simulated for different scalable WSSNs. The results indicate that the proposed protocol provides better lifetime stability than the recent conventional protocols. The functionalities of the protocol are proposed considering the recent wireless standards. Hence, the proposed protocol can be suitably implemented for farmland monitoring systems.",
+  "references": null
+}

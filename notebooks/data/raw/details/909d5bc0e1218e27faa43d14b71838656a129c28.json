@@ -1,0 +1,56 @@
+{
+  "paperId": "909d5bc0e1218e27faa43d14b71838656a129c28",
+  "externalIds": {
+    "MAG": "2958781495",
+    "DBLP": "conf/rtip2r/SuraseKSVGV18",
+    "DOI": "10.1007/978-981-13-9187-3_27",
+    "CorpusId": 199107250
+  },
+  "url": "https://www.semanticscholar.org/paper/909d5bc0e1218e27faa43d14b71838656a129c28",
+  "title": "Crop Discrimination Based on Reflectance Spectroscopy Using Spectral Vegetation Indices (SVI)",
+  "venue": "International Conference on Recent Trends in Image Processing and Pattern Recognition",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-9187-3_27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-9187-3_27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "37385490",
+      "name": "R. Surase"
+    },
+    {
+      "authorId": "27395001",
+      "name": "K. Kale"
+    },
+    {
+      "authorId": "74173681",
+      "name": "Mahesh M. Solankar"
+    },
+    {
+      "authorId": "3368821",
+      "name": "A. Varpe"
+    },
+    {
+      "authorId": "2604510",
+      "name": "H. Gite"
+    },
+    {
+      "authorId": "9225638",
+      "name": "A. Vibhute"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

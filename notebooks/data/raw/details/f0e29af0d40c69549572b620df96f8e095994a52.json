@@ -1,0 +1,55 @@
+{
+  "paperId": "f0e29af0d40c69549572b620df96f8e095994a52",
+  "externalIds": {
+    "MAG": "2969316371",
+    "DBLP": "conf/caip/FawakherjiPBIPN19",
+    "DOI": "10.1007/978-3-030-29930-9_10",
+    "CorpusId": 201740359
+  },
+  "url": "https://www.semanticscholar.org/paper/f0e29af0d40c69549572b620df96f8e095994a52",
+  "title": "UAV Image Based Crop and Weed Distribution Estimation on Embedded GPU Boards",
+  "venue": "CAIP Workshops",
+  "year": 2019,
+  "citationCount": 28,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-29930-9_10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-29930-9_10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "90908136",
+      "name": "Mulham Fawakherji"
+    },
+    {
+      "authorId": "3235263",
+      "name": "Ciro Potena"
+    },
+    {
+      "authorId": "2759880",
+      "name": "D. Bloisi"
+    },
+    {
+      "authorId": "2757219",
+      "name": "Marco Imperoli"
+    },
+    {
+      "authorId": "144446984",
+      "name": "Alberto Pretto"
+    },
+    {
+      "authorId": "144143750",
+      "name": "D. Nardi"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

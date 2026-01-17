@@ -1,0 +1,49 @@
+{
+  "paperId": "71cac10327352ed44002d8d63bfbc38471a9a7de",
+  "externalIds": {
+    "MAG": "2805525552",
+    "DBLP": "conf/icdis/SobayoWRQ18",
+    "DOI": "10.1109/ICDIS.2018.00041",
+    "CorpusId": 44153715
+  },
+  "url": "https://www.semanticscholar.org/paper/71cac10327352ed44002d8d63bfbc38471a9a7de",
+  "title": "Integration of Convolutional Neural Network and Thermal Images into Soil Moisture Estimation",
+  "venue": "International Conference on Data Intelligence and Security",
+  "year": 2018,
+  "citationCount": 26,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDIS.2018.00041?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDIS.2018.00041, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2140016461",
+      "name": "R.O. Sobayo"
+    },
+    {
+      "authorId": "2234713",
+      "name": "Hsiang-Huang Wu"
+    },
+    {
+      "authorId": "153834483",
+      "name": "Ram Lakhan Ray"
+    },
+    {
+      "authorId": "145918251",
+      "name": "Lijun Qian"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

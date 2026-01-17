@@ -1,0 +1,291 @@
+{
+  "paperId": "ce0dd8cafaab6a9f5b1eb5f34cb575db6949d7cd",
+  "externalIds": {
+    "MAG": "2966778641",
+    "DOI": "10.20937/RICA.2019.35.03.18",
+    "CorpusId": 201231310
+  },
+  "url": "https://www.semanticscholar.org/paper/ce0dd8cafaab6a9f5b1eb5f34cb575db6949d7cd",
+  "title": "HEAVY METALS CONTAMINATION IN THE GULF OF GUAYAQUIL: EVEN LIMITED DATA REFLECTS ENVIRONMENTAL IMPACTS FROM ANTHROPOGENIC ACTIVITY",
+  "venue": "Revista Internacional de Contaminación Ambiental",
+  "year": 2019,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.revistascca.unam.mx/rica/index.php/rica/article/download/RICA.2019.35.03.18/46883",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20937/RICA.2019.35.03.18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20937/RICA.2019.35.03.18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1413887225",
+      "name": "Gabriela Navarrete-Forero"
+    },
+    {
+      "authorId": "2227651544",
+      "name": "Lady Morales Baren"
+    },
+    {
+      "authorId": "1399853915",
+      "name": "L. Dominguez-Granda"
+    },
+    {
+      "authorId": "90130155",
+      "name": "J. Cevallos"
+    },
+    {
+      "authorId": "4189395",
+      "name": "J. M. Jarrín"
+    }
+  ],
+  "abstract": "The Gulf of Guayaquil, the largest estuary on the Pacific coast of South America, provides livelihoods for fishing communities that supply seafood to national markets. Activities like mining and agriculture are major sources of contamination in the estuary, yet their effects on the ecosystem have not been determined. Publicly-available data were compiled to provide an overview of the level of contamination in water, sediment and seafood in this system. Measured concentrations (C m ) were compared with their corresponding permitted levels (C sl ) defined in international regulations. Comparison outcomes were classified using a traffic-light color scale: green for ideal conditions (C m C sl × 10). A total of 24 studies were found. Cadmium, mercury and lead were the most commonly analyzed elements. Water samples showed the highest percentage of dangerous levels (> 70 % for Cd, > 80 % for Hg). Extreme concentrations of Hg (1000 times > C sl ) were reported for clams ( Anadara spp.) and crabs ( Ucides occidentalis ) collected in the southern zone impacted by gold mining. Studies evidenced the limited use of quality assurance and control procedures on the data-gathering process, resulting in uncertainty. By using orders of magnitude to assess contamination levels, the effects of low precision in the pattern of contamination were reduced. This contribution intends to inform stakeholders about the implications for public health.",
+  "references": [
+    {
+      "paperId": "0649bcaad6cb2805e4a79235f905b40fcb096f45"
+    },
+    {
+      "paperId": "2271655fcdd2f41562d182231cc2ce8266feb43b"
+    },
+    {
+      "paperId": "05f78c448c1cc9e93c69d8271e2cc3401e88838d"
+    },
+    {
+      "paperId": "340d4d110d5787ba937928c58110eb234d75006d"
+    },
+    {
+      "paperId": "cae91401bb9b3da26b40c9b69d1509f259261a64"
+    },
+    {
+      "paperId": "7210233f94ee9a19ae779486ab4958ee50e6dc1e"
+    },
+    {
+      "paperId": "ba9b9cba1566343f21f36c361520c4057843c86c"
+    },
+    {
+      "paperId": "f82c28a86dea3a1d196b1b2aca222a47239f1a81"
+    },
+    {
+      "paperId": "7c511fb22ecb368ae97b9ae63e84201e99c09750"
+    },
+    {
+      "paperId": "d20276cc12dda010d2b37ee7f546537cf482fa65"
+    },
+    {
+      "paperId": "d6cc33152a170fe36c4d00ce0ea4945ac30e2962"
+    },
+    {
+      "paperId": "42ae3a14ce078bc1fa7fee31efb807ecc8b4a692"
+    },
+    {
+      "paperId": "f2866b3f9dec8c49b497a2e55925f498fb64a08b"
+    },
+    {
+      "paperId": "586b76e17e8f750599c3783bbd6d569d6890c467"
+    },
+    {
+      "paperId": "b2a19ed86c9c7518a3552eb3e6361c4a118f5dcc"
+    },
+    {
+      "paperId": "e35b4328bfa77befe2db41f58efbd2ea99209677"
+    },
+    {
+      "paperId": "9710cf4d607eff02f4f9fa5151fc0eb458168a73"
+    },
+    {
+      "paperId": "74499afe0435c772e32e726d39de8a93e24a105f"
+    },
+    {
+      "paperId": "edccea4cc36d9fdcefe489f2e0c927eb239a6e9f"
+    },
+    {
+      "paperId": "bddbfcbb4a19edb5cd354fc9750c52685ac24835"
+    },
+    {
+      "paperId": "4a41b68087620e97579b14d0d6fca986196110b6"
+    },
+    {
+      "paperId": "57c61c982b8633b8ae0e54358b998ebf83e74d53"
+    },
+    {
+      "paperId": "245eb14a2f88e93b54f7291a10bc0f4ab2ab7654"
+    },
+    {
+      "paperId": "36b1a484c081656df8f074cb42a8f56bf764d5ea"
+    },
+    {
+      "paperId": "4a8c16c1e36d1eeef858d526d7c5fc4ed2ccba8f"
+    },
+    {
+      "paperId": "80f97ded1546a02903d18debad61acf794ba53af"
+    },
+    {
+      "paperId": "88f183e760ab4539cc901f5afbadd6b9ee5bbc00"
+    },
+    {
+      "paperId": "f4d92795a4706fe68972ec9913a4dd61d7e1956f"
+    },
+    {
+      "paperId": "e0fcce298763f18bdc755df698bef6161b10eb7f"
+    },
+    {
+      "paperId": "1b4c2b2a7f3306408dddf1a4bfbe8ae9ad50caac"
+    },
+    {
+      "paperId": "9c0ed59bf9edfd0593627e95c27371e35fedcd12"
+    },
+    {
+      "paperId": "1fb0489e772e5e3191b19c60efb3356258508ec8"
+    },
+    {
+      "paperId": "59f2d49a9e53c465d7a92b6f7d2f62687f476abd"
+    },
+    {
+      "paperId": "b63745d871f0a7ca3fa342e596e8e80e7a752a63"
+    },
+    {
+      "paperId": "bdbfc9d0b0512c683e292bf3fbb6b6cb5068ebd7"
+    },
+    {
+      "paperId": "0c5a21ef77053ed33734c4e49934bbb67edd6d1d"
+    },
+    {
+      "paperId": "a482e12dd3b08eeb072e3e335da8ce335621dc16"
+    },
+    {
+      "paperId": "0c9e4981a2560b0f3fb2a85e564b9f457aeb48d7"
+    },
+    {
+      "paperId": "85671981560a17bf09cd13d3afcae6766076aeaf"
+    },
+    {
+      "paperId": "5eeea6befd1d32a11b8f3617149979eaa33ee5bb"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "7d47c77509cefada52fa8dfaf37df94e8d6bf962"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "48cf2464d5539754f998ce9e256fba83db6da7f2"
+    },
+    {
+      "paperId": "a9deb669d78a6d9760f4eddc2d23fb0db86a8b21"
+    },
+    {
+      "paperId": "473dda439888a48c5bbd978466e8018ff7029030"
+    },
+    {
+      "paperId": "c74be38acd80b868ec8bbf77444e2f747a85d877"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "259affd75e455d7f0187e94bec6364feae1fd8ec"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d91d2e498119e7f79323556c59be5f89b5620084"
+    },
+    {
+      "paperId": "65c1c4def039e702c7bd51c3ff6fb3ef7956abf3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3c33294c3ff60eeeab30602dbaaae98c434d5cc5"
+    },
+    {
+      "paperId": "b310f321a3faa7fc864bb22bfc33b573444144d9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "567d44e1284e36824c13dee56b992166327e5aed"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0346c27811d1ca6d57d749d2e180747f49fc3c9d"
+    },
+    {
+      "paperId": "b387400ec07205facf6f4c08b27448cb6266da8a"
+    },
+    {
+      "paperId": "fab2f6d6b768c6cc5b94b7bc14f2cb5deb56aab5"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "60fa3053f2db749a11a55755348293991c84a1a2"
+    },
+    {
+      "paperId": "82bc8a009af594df73629495e1a632839b9b6d7a"
+    },
+    {
+      "paperId": "2c513b370560fa4e853b71b35883065fb444ba98"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

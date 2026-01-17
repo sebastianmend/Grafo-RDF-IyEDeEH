@@ -1,0 +1,39 @@
+{
+  "paperId": "8c807ff1469022168c0640cd2f6a48785b348720",
+  "externalIds": {
+    "MAG": "3012492847",
+    "DOI": "10.1109/ICISC44355.2019.9036375",
+    "CorpusId": 213176979
+  },
+  "url": "https://www.semanticscholar.org/paper/8c807ff1469022168c0640cd2f6a48785b348720",
+  "title": "A Survey on Machine Learning in Agriculture - background work for an unmanned coconut tree harvester",
+  "venue": "International Conference on Information Security and Cryptology",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISC44355.2019.9036375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISC44355.2019.9036375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1574052464",
+      "name": "Sakthiprasad K. M."
+    },
+    {
+      "authorId": "2895319",
+      "name": "R. K. Megalingam"
+    }
+  ],
+  "abstract": "Agriculture of a country must increase with the population otherwise that would affect the economy. When the population increases the resource availability for agriculture gets reduces, so efficient methodologies are required in the field of agriculture to get maximum production from the limited resources. Precision agriculture is the solution for that, it is achieved by advanced technologies like wireless sensor networks, machine learning etc. Different machine learning algorithms are using to achieve precision agriculture like crop selection, to identify management zones, crop monitoring and phenology, climate estimation and plant disease diagnosis etc. Awareness about the machine learning technologies used in the agriculture field is helpful to make the learning algorithm for the autonomous coconut harvester.",
+  "references": null
+}

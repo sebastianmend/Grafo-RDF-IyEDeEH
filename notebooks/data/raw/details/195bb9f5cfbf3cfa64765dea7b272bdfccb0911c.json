@@ -1,0 +1,226 @@
+{
+  "paperId": "195bb9f5cfbf3cfa64765dea7b272bdfccb0911c",
+  "externalIds": {
+    "MAG": "2985394899",
+    "PubMedCentral": "6891275",
+    "DOI": "10.3390/toxins11110649",
+    "CorpusId": 207954019,
+    "PubMed": "31703425"
+  },
+  "url": "https://www.semanticscholar.org/paper/195bb9f5cfbf3cfa64765dea7b272bdfccb0911c",
+  "title": "A Simple LC–MS Method for the Quantitation of Alkaloids in Endophyte-Infected Perennial Ryegrass",
+  "venue": "Toxins",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-6651/11/11/649/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6891275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "23544949",
+      "name": "Simone Vassiliadis"
+    },
+    {
+      "authorId": "2049485843",
+      "name": "A. Elkins"
+    },
+    {
+      "authorId": "123152418",
+      "name": "P. Reddy"
+    },
+    {
+      "authorId": "5221118",
+      "name": "K. Guthridge"
+    },
+    {
+      "authorId": "3303579",
+      "name": "G. Spangenberg"
+    },
+    {
+      "authorId": "145158040",
+      "name": "S. Rochfort"
+    }
+  ],
+  "abstract": "The rapid identification and quantitation of alkaloids produced by Epichloë endophyte-infected pasture grass is important for the agricultural industry. Beneficial alkaloids, such as peramine, provide the grass with enhanced insect protection. Conversely, ergovaline and lolitrem B can negatively impact livestock. Currently, a single validated method to measure these combined alkaloids in planta does not exist. Here, a simple two-step extraction method was developed for Epichloë-infected perennial ryegrass (Lolium perenne L.). Peramine, ergovaline and lolitrem B were quantified using liquid chromatography–mass spectrometry (LC–MS). Alkaloid linearity, limit of detection (LOD), limit of quantitation (LOQ), accuracy, precision, selectivity, recovery, matrix effect and robustness were all established. The validated method was applied to eight different ryegrass-endophyte symbiota. Robustness was established by comparing quantitation results across two additional instruments; a triple quadruple mass spectrometer (QQQ MS) and by fluorescence detection (FLD). Quantitation results were similar across all three instruments, indicating good reproducibility. LOQ values ranged from 0.8 ng/mL to 6 ng/mL, approximately one hundred times lower than those established by previous work using FLD (for ergovaline and lolitrem B), and LC–MS (for peramine). This work provides the first highly sensitive quantitative LC–MS method for the accurate and reproducible quantitation of important endophyte-derived alkaloids.",
+  "references": [
+    {
+      "paperId": "5136cde0507377ac933c9d21d3be11279d7dca2f"
+    },
+    {
+      "paperId": "6fc70a2ef53e0112bef66c821588b3d70c74c6da"
+    },
+    {
+      "paperId": "f4f0cdf8212a03b06a6d6a2012eab0698e7a94cb"
+    },
+    {
+      "paperId": "8a50dd5298e233f1379daf01c703005282f5f0c3"
+    },
+    {
+      "paperId": "4e84468f65eff9e2458c0539f4eba5cea7374dd6"
+    },
+    {
+      "paperId": "1f29476e1d8db38c45c6ba696ce5054dea4d8b12"
+    },
+    {
+      "paperId": "a6913d8da06cc9dcb1b11857875acb108d74736f"
+    },
+    {
+      "paperId": "5e04972364cdabef64597a76f1230e5d063c052c"
+    },
+    {
+      "paperId": "8d893ae44d12f949f343df8f910871154708d0d6"
+    },
+    {
+      "paperId": "51d3c0682464b1f580510ff92e6b5ef90557ee22"
+    },
+    {
+      "paperId": "1b272006ec224a11824117a20b22bce7fc24e632"
+    },
+    {
+      "paperId": "3ca2aafed81281a349fcdd6be51837348b34322a"
+    },
+    {
+      "paperId": "b164b0bfe82c5b969498e1dd864942c5974a85ac"
+    },
+    {
+      "paperId": "c5e6894bf97de0bd208d2cbc29ada783f39ba119"
+    },
+    {
+      "paperId": "97b1d755a37b8debf6194bbab175915c5f5bcd6c"
+    },
+    {
+      "paperId": "a8b797ebd9b7cca4b098c6fbea6dc1f0b050a6c1"
+    },
+    {
+      "paperId": "2252dbfdf9bbededc622c22fcaa83f88429ccfd0"
+    },
+    {
+      "paperId": "ac837457f6677ac0e585e3abe3d6142df0d8bbf0"
+    },
+    {
+      "paperId": "f185fc8797ac8f6203ea7d3385131093d3201c9f"
+    },
+    {
+      "paperId": "c17d66d66294ae9e3af6c2aa6234760cda4e7f2a"
+    },
+    {
+      "paperId": "a3e0c6f1579bd99f3d04173a5c6f60f56a342e0a"
+    },
+    {
+      "paperId": "18af7dca05bc600554993eeae0557e4ecb18ec5d"
+    },
+    {
+      "paperId": "728b8a1a4fba365a8fef17323057985b5c079e5e"
+    },
+    {
+      "paperId": "dd50af1d1cb7daaa7b0b34b6dad5ba029c4e43c9"
+    },
+    {
+      "paperId": "3a76761e38a24df23afca76adac3f95ec9d171ae"
+    },
+    {
+      "paperId": "7feea12bd6360731bbf7614e8abe3a1c74f282d7"
+    },
+    {
+      "paperId": "2691c49abfe84f4abc73314b19af606c68077411"
+    },
+    {
+      "paperId": "7d0601760723677502472dd408bd67a3af5a557e"
+    },
+    {
+      "paperId": "2bf32c9c25f44a4e3b65f92121bed9970c8f45f8"
+    },
+    {
+      "paperId": "20300c2fec4822454ae596fc2c8447256721d6bb"
+    },
+    {
+      "paperId": "0164c64574c41202bb094fb6321a0959e6e2e765"
+    },
+    {
+      "paperId": "71212f43be27699fc19ed242d9a475dc62ab7a29"
+    },
+    {
+      "paperId": "9739e213f1e325d179ecb8464e85dd193b014197"
+    },
+    {
+      "paperId": "7db70bd1642b6753b9b9b7f31cf0ba6decd28b93"
+    },
+    {
+      "paperId": "963c1f0e703471090499fed92af7f7989fc86ef3"
+    },
+    {
+      "paperId": "fd47875a35697abc90e9bf720cfa35cf47a282eb"
+    },
+    {
+      "paperId": "75b590f00f011aa856d8a40709a935df880bec12"
+    },
+    {
+      "paperId": "5a8f65218948d55f4f6ff6dc3d36a16b6f645587"
+    },
+    {
+      "paperId": "24e67ad6e279844f9f7e30abcf7bc76b4893e904"
+    },
+    {
+      "paperId": "1f3a141ebbbd3dd6ab89e5395ca2236a69813261"
+    },
+    {
+      "paperId": "cfc2c12c1396d849ea3856f4c4ce60a2faa8b58d"
+    },
+    {
+      "paperId": "6e388c40118be41f2f10e0961f6e5955e6f43dfa"
+    },
+    {
+      "paperId": "1e3fb552e363fa6450df024836416fe8383a0350"
+    },
+    {
+      "paperId": "371e09317582b21005038f41924022a7a8b2a8ff"
+    },
+    {
+      "paperId": "f1d4c3a8d615c84d884561e940c4151b8c1b42a7"
+    },
+    {
+      "paperId": "26065583fdec79baae2ed9568f97f4cac9ef9f80"
+    },
+    {
+      "paperId": "00f855a10e5679d04c9be7fee84f91b184e0d0d9"
+    },
+    {
+      "paperId": "808767eed7a6a7754b82693e6d1f1745f81656d0"
+    },
+    {
+      "paperId": "daa38afcbfef965c74a7ce712e91bfde99cc6b03"
+    },
+    {
+      "paperId": "656290c3bbb7445589b8db7c88e54e9d1744ecc9"
+    },
+    {
+      "paperId": "fcd054e8151caba4be58190e7859d9bfe3fa8a69"
+    },
+    {
+      "paperId": "e77c8373c2408c699d2c3771c6becc936a0036a2"
+    },
+    {
+      "paperId": "172e6cd6438d962b62d9a0dc3ce3698ba8e5bc53"
+    },
+    {
+      "paperId": "623ed07e0246b746c8b37745995c2347101265fd"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

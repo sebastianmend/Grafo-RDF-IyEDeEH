@@ -1,0 +1,48 @@
+{
+  "paperId": "4ecb42955434119af30b5754e4e5daa7090b90df",
+  "externalIds": {
+    "DBLP": "conf/whispers/VolkovaBWG18",
+    "MAG": "2954768068",
+    "DOI": "10.1109/WHISPERS.2018.8747220",
+    "CorpusId": 195740188
+  },
+  "url": "https://www.semanticscholar.org/paper/4ecb42955434119af30b5754e4e5daa7090b90df",
+  "title": "Comparison Of Aerial Hyperspectral And Multispectral Imagery: Case Study Of Nitrogen Mapping In Australian Cotton",
+  "venue": "Workshop on Hyperspectral Image and Signal Processing",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WHISPERS.2018.8747220?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WHISPERS.2018.8747220, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34722009",
+      "name": "A. Volkova"
+    },
+    {
+      "authorId": "143762689",
+      "name": "J. Baird"
+    },
+    {
+      "authorId": "147010517",
+      "name": "Irah Wajchman"
+    },
+    {
+      "authorId": "147076197",
+      "name": "Julian Guinane"
+    }
+  ],
+  "abstract": "With the commercialisation of hyperspectral sensing, a range of promising applications in precision agriculture, including nutrient mapping, are now becoming available to the research community and industry. An online workflow for calibration and analysis of the airborne multispectral and hyperspectral data including geo-rectification, derivation of vegetation indices and comparison with time series of the satellite data is being presented. The system is being demonstrated on a case study of nitrogen trials in Australian cotton conducted at Australian Cotton Research Institute (ACRI). The broadband and narrowband vegetation indices derived from hyperspectral imagery were compared with the satellite imagery from Sentinel 2B to assess the accuracy losses in mapping the variability of the field. The developed workflow has successfully been used for assessment of the quality and the suitability of the hyperspectral and multispectral aerial imagery for mapping in-field variability across the season. The comparison of the vegetation indices derived using source imagery from different sensors revealed the benefits of each of the imagery types and its potential for field variability mapping.",
+  "references": null
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "e7f63f8d596925c3bd860d71b17d161cfe332c33",
+  "externalIds": {
+    "DBLP": "conf/rita/NegashKC19",
+    "MAG": "2994640869",
+    "DOI": "10.1109/RITAPP.2019.8932853",
+    "CorpusId": 209382606
+  },
+  "url": "https://www.semanticscholar.org/paper/e7f63f8d596925c3bd860d71b17d161cfe332c33",
+  "title": "Emerging UAV Applications in Agriculture",
+  "venue": "International Conference on Robot Intelligence Technology and Applications",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/RITAPP.2019.8932853?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/RITAPP.2019.8932853, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40255412",
+      "name": "Lebsework Negash"
+    },
+    {
+      "authorId": "2108881993",
+      "name": "Ho-Yeon Kim"
+    },
+    {
+      "authorId": "2701085",
+      "name": "Han-Lim Choi"
+    }
+  ],
+  "abstract": "Climate change is impacting the agriculture sector hence heavy threatening global food security. Farmers have to adapt and introduce technologies to enhance their decision making using reliable, accurate and timely information. Unlike the expensive satellites, UAVs equipped with a set of specific sensors and instruments have a huge potential supporting agriculture in evidence-based planning and spatial data collection. Thus, the overall goal of this paper is to provide a panoramic about the current status of the emerging use of UAVs in the Agriculture area and present a generic example in one of the application areas with system design and component selection. Key Word: Multispectral Camera, NDVI mapping, precision agriculture",
+  "references": null
+}

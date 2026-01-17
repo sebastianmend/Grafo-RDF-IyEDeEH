@@ -1,0 +1,52 @@
+{
+  "paperId": "c6ef9f3f472eb62f6bee049ee74222ac619aaf95",
+  "externalIds": {
+    "MAG": "2965546468",
+    "DBLP": "journals/js/MedinaCGMA19",
+    "DOI": "10.1155/2019/7138720",
+    "CorpusId": 201238735
+  },
+  "url": "https://www.semanticscholar.org/paper/c6ef9f3f472eb62f6bee049ee74222ac619aaf95",
+  "title": "Sensors in Precision Agriculture for the Monitoring of Plant Development and Improvement of Food Production",
+  "venue": "J. Sensors",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1155/2019/7138720",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2019/7138720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2019/7138720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403393214",
+      "name": "J. Padilla-Medina"
+    },
+    {
+      "authorId": "1405198264",
+      "name": "L. M. Contreras-Medina"
+    },
+    {
+      "authorId": "1729600",
+      "name": "M. Gavilán"
+    },
+    {
+      "authorId": "1388383685",
+      "name": "J. R. Millán-Almaraz"
+    },
+    {
+      "authorId": "80354760",
+      "name": "J. Alvaro"
+    }
+  ],
+  "abstract": null,
+  "references": []
+}

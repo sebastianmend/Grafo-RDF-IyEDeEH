@@ -1,0 +1,64 @@
+{
+  "paperId": "9b73869f67b70529d486bd38e77fd079361fd39f",
+  "externalIds": {
+    "MAG": "2895842700",
+    "DOI": "10.1007/s10661-018-7041-4",
+    "CorpusId": 53035885,
+    "PubMed": "30350126"
+  },
+  "url": "https://www.semanticscholar.org/paper/9b73869f67b70529d486bd38e77fd079361fd39f",
+  "title": "Screening of multiclass pesticide residues in honey by SPE-GC/MSD: a pilot study",
+  "venue": "Environmental Monitoring & Assessment",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10661-018-7041-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10661-018-7041-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "14695521",
+      "name": "Nazia Rafique"
+    },
+    {
+      "authorId": "26937126",
+      "name": "Sehrish Nazir"
+    },
+    {
+      "authorId": "51290067",
+      "name": "Sumaira Akram"
+    },
+    {
+      "authorId": "15578132",
+      "name": "K. Ahad"
+    },
+    {
+      "authorId": "80308956",
+      "name": "Afshan Gohar"
+    },
+    {
+      "authorId": "81496730",
+      "name": "Surriya Tariq Abbasi"
+    },
+    {
+      "authorId": "2055104354",
+      "name": "Ijaz Ahmed"
+    },
+    {
+      "authorId": "2328890885",
+      "name": "Khalid Rafique"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

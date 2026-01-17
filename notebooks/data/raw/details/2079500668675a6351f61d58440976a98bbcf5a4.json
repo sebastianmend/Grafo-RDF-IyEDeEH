@@ -1,0 +1,67 @@
+{
+  "paperId": "2079500668675a6351f61d58440976a98bbcf5a4",
+  "externalIds": {
+    "MAG": "2941403717",
+    "DOI": "10.34101/ACTAAGRAR/150/1718",
+    "CorpusId": 150048242
+  },
+  "url": "https://www.semanticscholar.org/paper/2079500668675a6351f61d58440976a98bbcf5a4",
+  "title": "Portable snapshot spectral imaging for agriculture",
+  "venue": "Acta Agraria Debreceniensis",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ojs.lib.unideb.hu/actaagrar/article/download/1718/2361",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.34101/ACTAAGRAR/150/1718?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.34101/ACTAAGRAR/150/1718, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8870035",
+      "name": "A. Jung"
+    },
+    {
+      "authorId": "40574107",
+      "name": "R. Michels"
+    },
+    {
+      "authorId": "2183151843",
+      "name": "Graser Rainer"
+    }
+  ],
+  "abstract": "High-resolution proximal and remote sensing applications can consolidate sustainable, prevention- and precision-oriented crop management strategies to decrease production risks. This paper shows significant perspectives, own developments and technical aspects of high resolution remote sensing in the context of field applications. Moreover, we provide an overview of snapshot hyperspectral imaging and potential field video sensors to identify areas of interest for their future development. One of the main conclusions of our paper is that non-scanning snapshot hyperspectral imaging technology may enable researchers to overcome the gap in the “point to image” transition of field sensing, while providing a flexible solution for regular variable-rate applications.",
+  "references": [
+    {
+      "paperId": "b624f696e6abfdc7f6f560314fd5f7a519ce0daa"
+    },
+    {
+      "paperId": "4361139c1d308254c803ad952da3be887dd065bd"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "71cb6053b6ecf9c39ff2d0bd1adcb162720478a3"
+    },
+    {
+      "paperId": "17c719bf531caf0bd456ce1e3e23dcb508e8082c"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "ba95467cf3552237b7c0dc63dee55ead6cf6a8b1"
+    },
+    {
+      "paperId": "0e82895974c686b16c0709206ed285bf447524d8"
+    }
+  ]
+}

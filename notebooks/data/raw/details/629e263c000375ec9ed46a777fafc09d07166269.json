@@ -1,0 +1,54 @@
+{
+  "paperId": "629e263c000375ec9ed46a777fafc09d07166269",
+  "externalIds": {
+    "MAG": "2997749490",
+    "DOI": "10.1109/IESTEC46403.2019.00125",
+    "CorpusId": 209696670
+  },
+  "url": "https://www.semanticscholar.org/paper/629e263c000375ec9ed46a777fafc09d07166269",
+  "title": "Irrigation System for Precision Agriculture Supported in the Measurement of Environmental Variables",
+  "venue": "2019 7th International Engineering, Sciences and Technology Conference (IESTEC)",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IESTEC46403.2019.00125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IESTEC46403.2019.00125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1992907657",
+      "name": "Amaury Cabarcas"
+    },
+    {
+      "authorId": "2202714762",
+      "name": "Cristian Arrieta"
+    },
+    {
+      "authorId": "1474594129",
+      "name": "D. Cermeño"
+    },
+    {
+      "authorId": "2085190807",
+      "name": "Humberto Leal"
+    },
+    {
+      "authorId": "2052171914",
+      "name": "R. Mendoza"
+    },
+    {
+      "authorId": "40867072",
+      "name": "Camilo Rosales"
+    }
+  ],
+  "abstract": "This paper presents the development of an irrigation system oriented to the automation of crop irrigation through the use of technological tools to be used in precision agriculture, focused on supporting irrigation processes in crops. For this, an autonomous hydraulic irrigation system was developed that works employing a storage system and self-sustainable energy control, allowing irrigation decision-making in the areas where it is needed at all times. This irrigation system makes use of a service to measure environmental variables, such as ambient temperature, soil moisture and relative humidity using sensors, for decision making. The irrigation system was designed with solenoid valves as actuators, controlled through relays, and with 2 solar panels and a set of lithium batteries regulated by a battery management system for self-supply. A system like the one presented in this article becomes an alternative for small farmers, besides that, it has the main characteristic of having a high margin of scalability at a technological and economic level.",
+  "references": null
+}

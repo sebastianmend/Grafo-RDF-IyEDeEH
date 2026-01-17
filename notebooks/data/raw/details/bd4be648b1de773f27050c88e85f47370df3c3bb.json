@@ -1,0 +1,43 @@
+{
+  "paperId": "bd4be648b1de773f27050c88e85f47370df3c3bb",
+  "externalIds": {
+    "MAG": "3024752414",
+    "DOI": "10.1109/WITCONECE48374.2019.9092890",
+    "CorpusId": 218651462
+  },
+  "url": "https://www.semanticscholar.org/paper/bd4be648b1de773f27050c88e85f47370df3c3bb",
+  "title": "Energy-Saving Sensors for Precision Agriculture in Wireless Sensor Network: A Review",
+  "venue": "2019 Women Institute of Technology Conference on Electrical and Computer Engineering (WITCON ECE)",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WITCONECE48374.2019.9092890?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WITCONECE48374.2019.9092890, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2218848404",
+      "name": "Sanjay Kumar"
+    },
+    {
+      "authorId": "2116961306",
+      "name": "Naveen Kumar"
+    },
+    {
+      "authorId": "144263879",
+      "name": "R. Saini"
+    }
+  ],
+  "abstract": "Wireless sensor networks (WSNs) can be used in agriculture to provide farmers with a large amount of information. The use of sensors is essential to implementation of information and control technologies in Application areas such as precision agriculture. A sensor is a device that detects and responds to some type of input from the physical environment. A sensor is used to measure a property, such as pressure, position, temperature, or acceleration, and respond with feedback. Sensors allows farmers to maximize yields using minimal resources such as water, fertilizer, and seeds. By deploying sensors and mapping fields, farmers can begin to understand their crops at a micro scale, conserve resources, and reduce impacts on the environment. A number of sensing technologies are used in precision agriculture, providing data that helps farmers monitor and optimize crops. This work deals with agricultural sensor network which measures temperature, soil moisture, humidity based on ranking.",
+  "references": null
+}

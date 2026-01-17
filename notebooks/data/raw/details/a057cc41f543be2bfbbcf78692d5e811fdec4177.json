@@ -1,0 +1,128 @@
+{
+  "paperId": "a057cc41f543be2bfbbcf78692d5e811fdec4177",
+  "externalIds": {
+    "PubMedCentral": "5948856",
+    "MAG": "2794548315",
+    "DBLP": "journals/sensors/Garcia-Magarino18",
+    "DOI": "10.3390/s18040998",
+    "CorpusId": 4433921,
+    "PubMed": "29584703"
+  },
+  "url": "https://www.semanticscholar.org/paper/a057cc41f543be2bfbbcf78692d5e811fdec4177",
+  "title": "ABS-SmartComAgri: An Agent-Based Simulator of Smart Communication Protocols in Wireless Sensor Networks for Debugging in Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/4/998/pdf?version=1525345489",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5948856, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1398294938",
+      "name": "I. García-Magariño"
+    },
+    {
+      "authorId": "6922892",
+      "name": "R. Lacuesta"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    }
+  ],
+  "abstract": "Smart communication protocols are becoming a key mechanism for improving communication performance in networks such as wireless sensor networks. However, the literature lacks mechanisms for simulating smart communication protocols in precision agriculture for decreasing production costs. In this context, the current work presents an agent-based simulator of smart communication protocols for efficiently managing pesticides. The simulator considers the needs of electric power, crop health, percentage of alive bugs and pesticide consumption. The current approach is illustrated with three different communication protocols respectively called (a) broadcast, (b) neighbor and (c) low-cost neighbor. The low-cost neighbor protocol obtained a statistically-significant reduction in the need of electric power over the neighbor protocol, with a very large difference according to the common interpretations about the Cohen’s d effect size. The presented simulator is called ABS-SmartComAgri and is freely distributed as open-source from a public research data repository. It ensures the reproducibility of experiments and allows other researchers to extend the current approach.",
+  "references": [
+    {
+      "paperId": "67dc958c3a029f38ed6e11558ae39e946823f510"
+    },
+    {
+      "paperId": "8cbd05223a659945a1881c65518ef88787c194de"
+    },
+    {
+      "paperId": "8c9e8221221b9590ca9179acdee4c0fbcf4a721a"
+    },
+    {
+      "paperId": "96633697c4f3c91613d3a0ce1666c1e994466e4d"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "b558dfb6bace46c516660ef1d9166177b943facd"
+    },
+    {
+      "paperId": "bdfab519185c046495babee91bab3132437e38de"
+    },
+    {
+      "paperId": "df79b4fc5294cb7543c97bae7dad8d6c4a1757fe"
+    },
+    {
+      "paperId": "ee86b6346d8d4fcd35fabee7c55684fe2939c7ca"
+    },
+    {
+      "paperId": "17176d81e0bfd7ccfb5e63128f4b92c736b8e985"
+    },
+    {
+      "paperId": "5c8f8a3bedfdc4c260dafaa873203ea1d441ec53"
+    },
+    {
+      "paperId": "4a266eaee47a9de5255188c34724e3253eaf30ae"
+    },
+    {
+      "paperId": "4ff48625b428b9199d47d53fba9d81cbf6f4385f"
+    },
+    {
+      "paperId": "779a363664cfa67309a6e6ffa5d2fcdb283f5be6"
+    },
+    {
+      "paperId": "aa8a6894735dc32aa7212ab7606ccd6d6e7338b9"
+    },
+    {
+      "paperId": "18ddc5ab339cf1fe7317f705ed55cf29349d1d75"
+    },
+    {
+      "paperId": "bce636b784995ec1c7cc6cbb99446a79dd048934"
+    },
+    {
+      "paperId": "ac2fbcc6201909356bf3d1315a536cfa7365528d"
+    },
+    {
+      "paperId": "a5c2ca85d1aa6cfbbea2327ad36b7063767c34fe"
+    },
+    {
+      "paperId": "377b07879a5525d8843a3253c39304766ac18291"
+    },
+    {
+      "paperId": "37e0bf4d1a3ed4a2caa18e95dedf8228cf73e945"
+    },
+    {
+      "paperId": "a3c22d93f187d7f7a6816c4b1f6de3b74787db6c"
+    },
+    {
+      "paperId": "2e15a961ed2cd2c652ed1126f31039ffeca8e9bd"
+    },
+    {
+      "paperId": "5e7441e0f6226e6aa7fb6af01e1f4e19e20eb0be"
+    },
+    {
+      "paperId": "baffc50423c776b584f603890a7da37e46589d54"
+    },
+    {
+      "paperId": "91dd073b9bfaf29b6c3d3a58418e2bdc765541ea"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

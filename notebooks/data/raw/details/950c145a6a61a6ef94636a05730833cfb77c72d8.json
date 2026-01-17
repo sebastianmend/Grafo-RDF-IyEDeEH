@@ -1,0 +1,78 @@
+{
+  "paperId": "950c145a6a61a6ef94636a05730833cfb77c72d8",
+  "externalIds": {
+    "MAG": "2954511500",
+    "DOI": "10.1088/1757-899X/565/1/012003",
+    "CorpusId": 198401871
+  },
+  "url": "https://www.semanticscholar.org/paper/950c145a6a61a6ef94636a05730833cfb77c72d8",
+  "title": "Application of Particle Swarm Optimization BP Algorithm in Air Humidity of Greenhouse Crops",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/565/1/012003",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/565/1/012003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/565/1/012003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2053305932",
+      "name": "Guo Li-li"
+    },
+    {
+      "authorId": "2072420315",
+      "name": "Liu Yong"
+    },
+    {
+      "authorId": "67288415",
+      "name": "Liu Zi-wei"
+    },
+    {
+      "authorId": "2095913493",
+      "name": "Sun Hua-wei"
+    }
+  ],
+  "abstract": "The advancement of artificial intelligence, the synonym of precision agriculture has approached the public’s vision, and the different requirements for air humidity in different growth periods of crops are proposed. The BP neural network optimized by particle swarm optimization algorithm is proposed to predict the air humidity of crops. Algorithm, this paper chooses BP algorithm network topology structure is 2-5-1, improves the inertia weight of PSO algorithm, proposes nonlinear inertia weight reduction strategy w = w s − ( w s − w e ) | f 1 t f | , trains BP algorithm with improved PSO algorithm, has no gradient information, jumps out local pole Value, reduce the number of iterations of the algorithm, and speed up the training speed of the neural network. According to the experimental results of MATLAB simulation, the air humidity prediction model of particle swarm optimization neural network is constructed, which proves the effectiveness of the improved particle swarm neural network prediction system. It can be shown that the proposed algorithm has a relative error of at least 0.0134 compared with other algorithms.",
+  "references": [
+    {
+      "paperId": "b0fa6699b932bf18c404f84bddc4b9fe8ab4a864"
+    },
+    {
+      "paperId": "cc47727d4442a82774ce5cc86256b067d0711438"
+    },
+    {
+      "paperId": "052b1d8ce63b07fec3de9dbb583772d860b7c769"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

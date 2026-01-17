@@ -1,0 +1,60 @@
+{
+  "paperId": "4f4638f9d74fce6c119b7105c075c9a74875dc1b",
+  "externalIds": {
+    "DBLP": "conf/icarsc/Reis0SMFSS18",
+    "MAG": "2805443772",
+    "DOI": "10.1109/ICARSC.2018.8374176",
+    "CorpusId": 46979929
+  },
+  "url": "https://www.semanticscholar.org/paper/4f4638f9d74fce6c119b7105c075c9a74875dc1b",
+  "title": "Redundant robot localization system based in wireless sensor network",
+  "venue": "2018 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)",
+  "year": 2018,
+  "citationCount": 11,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICARSC.2018.8374176?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICARSC.2018.8374176, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2053096252",
+      "name": "Ricardo Reis"
+    },
+    {
+      "authorId": "144907742",
+      "name": "Jorge Mendes"
+    },
+    {
+      "authorId": "40383247",
+      "name": "F. Santos"
+    },
+    {
+      "authorId": "46535796",
+      "name": "Raul Morais"
+    },
+    {
+      "authorId": "37417563",
+      "name": "Nuno Ferraz"
+    },
+    {
+      "authorId": "153423509",
+      "name": "L. Santos"
+    },
+    {
+      "authorId": "145320964",
+      "name": "A. Sousa"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

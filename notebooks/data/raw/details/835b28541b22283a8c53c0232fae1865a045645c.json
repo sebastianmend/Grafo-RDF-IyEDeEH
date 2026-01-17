@@ -1,0 +1,39 @@
+{
+  "paperId": "835b28541b22283a8c53c0232fae1865a045645c",
+  "externalIds": {
+    "MAG": "2969755058",
+    "DOI": "10.1088/1755-1315/315/3/032043",
+    "CorpusId": 201877683
+  },
+  "url": "https://www.semanticscholar.org/paper/835b28541b22283a8c53c0232fae1865a045645c",
+  "title": "Improving the accuracy of electric mechanisms for the manufacture of blanks of agricultural objects",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/315/3/032043",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/315/3/032043?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/315/3/032043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2398494518",
+      "name": "Y. S. Zagoskin"
+    },
+    {
+      "authorId": "27859120",
+      "name": "A. T. Tsirkunenko"
+    }
+  ],
+  "abstract": "The principles of increasing the precision characteristics of an agricultural electric drive are presented in this article. There are achieved by analyzing the requirements for the electric drive by the operating body. The scientific work has a relationship between the parameters of the quality of rolling the blanks for agricultural facilities and the precision parameters of the electric drive in terms of overshoot parameters and absolute positioning accuracy. It is shown that this dependence is non-linear in the position electric drive and depends more on the size of the overshoot and a significantly smaller ratio from absolute accuracy. The permissible overshoot value depends on the absolute accuracy and has range from 5 to 10%. The largest value of the overshoot is achieved with absolute positioning accuracy with an error not exceeding 2%. The obtained values of the control parameters can be successfully applied in the design of the position agricultural electric drive. So, if you provide sufficient positioning accuracy with an error not exceeding 2%, which is achieved by the use of position sensors with a resolution of at least 10 000 pulses per revolution, the modeling electric drive in the position loop can be adjusted with an allowable overshoot of 10%, and therefore, increased system performance while maintaining quality control indicators.",
+  "references": []
+}

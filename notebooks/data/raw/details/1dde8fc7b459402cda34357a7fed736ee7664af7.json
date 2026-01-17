@@ -1,0 +1,62 @@
+{
+  "paperId": "1dde8fc7b459402cda34357a7fed736ee7664af7",
+  "externalIds": {
+    "MAG": "2946075189",
+    "DOI": "10.1088/1755-1315/275/1/012013",
+    "CorpusId": 181323554
+  },
+  "url": "https://www.semanticscholar.org/paper/1dde8fc7b459402cda34357a7fed736ee7664af7",
+  "title": "Data analysis and inference model for automating operational monitoring activities in Precision Farming and Precision Forestry applications",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/275/1/012013",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/275/1/012013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/275/1/012013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47341201",
+      "name": "P. Sacco"
+    },
+    {
+      "authorId": "19208567",
+      "name": "R. Gallo"
+    },
+    {
+      "authorId": "40383046",
+      "name": "F. Mazzetto"
+    }
+  ],
+  "abstract": "Each application of Precision Agriculture or Forestry should be supported by a technological platform able to perform, in an integrated way, the following data-information cycle functions: 1) data collection; 2) data processing; 3) data analysis and evaluation; 4) use of information. In accordance to this view, information are data that are usefully used in a decision making process or within a reporting protocol destined to users external to the enterprise (certification tasks). In order to manage the platform in a complete and efficient manner an adequate information system is needed. Firstly, the paper shows a classification of the possible monitoring solutions based on the different enterprise typologies, highlighting the main technological and interpretative requirements. Secondly, some case studies related to the application of operational monitoring in orchards and forestry are introduced, mainly focusing on some peculiar aspects of the algorithms developed for the implementation of the inference engines.",
+  "references": [
+    {
+      "paperId": "80572e1559e63c6c367da87a5ee50c42d8bdb0d8"
+    },
+    {
+      "paperId": "68ec673f80a6b6ec27241840906af4bc78918005"
+    },
+    {
+      "paperId": "c26da8e988ef354367f875e6e67b6092a9ae75f9"
+    },
+    {
+      "paperId": "fcdbc382af7076e7caa3bc54ad1fdc3c4f169ee1"
+    },
+    {
+      "paperId": "4bbd7f9412a37dd9995c45c9019a02f5e13dda57"
+    },
+    {
+      "paperId": "e425a11961455334c73b12f0b33131885023414e"
+    }
+  ]
+}

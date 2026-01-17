@@ -1,0 +1,68 @@
+{
+  "paperId": "6750dc81de5e529c714f02d6dd6970de94852e34",
+  "externalIds": {
+    "MAG": "2890486325",
+    "DBLP": "conf/icca3/IbrahimMHEDASKE18",
+    "DOI": "10.1109/COMAPP.2018.8460420",
+    "CorpusId": 52284927
+  },
+  "url": "https://www.semanticscholar.org/paper/6750dc81de5e529c714f02d6dd6970de94852e34",
+  "title": "A High Availability Networked Control System Architecture for Precision Agriculture",
+  "venue": "International Conferences on Computing Advancements",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMAPP.2018.8460420?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMAPP.2018.8460420, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2054763314",
+      "name": "Hassan Ibrahim"
+    },
+    {
+      "authorId": "88282659",
+      "name": "N. Mostafa"
+    },
+    {
+      "authorId": "2912149",
+      "name": "Hassan H. Halawa"
+    },
+    {
+      "authorId": "31127290",
+      "name": "M. Elsalamouny"
+    },
+    {
+      "authorId": "9308373",
+      "name": "R. Daoud"
+    },
+    {
+      "authorId": "2478943",
+      "name": "H. Amer"
+    },
+    {
+      "authorId": "7007912",
+      "name": "A. Shaarawi"
+    },
+    {
+      "authorId": "143799905",
+      "name": "Ahmed K. F. Khattab"
+    },
+    {
+      "authorId": "40456506",
+      "name": "H. Elsayed"
+    }
+  ],
+  "abstract": "Precision agriculture systems are usually studied in the context of Wireless Sensor Networks. In this paper, a hierarchical Networked Control System (NCS) is proposed for two Greenhouses. This system is built on top of switched Ethernet and Wi-Fi, and is IoT-based. Fire and CO2 sensors imposed a 1s real-time deadline. It is shown how to allocate Wi-Fi channels to prevent interference in this relatively large NCS. Riverbed simulations proved that the two-Greenhouse NCS did not suffer any packet loss and was able to meet real-time constraints. Fault Tolerance at the controller level is then added to the system. Riverbed simulations again proved that the system can operate as a 1-out-of-2 system; if one controller fails, the other controller can operate both greenhouses. A case study is then presented to show that fault tolerance can decrease downtime which is a very important advantage especially in developing countries.",
+  "references": null
+}

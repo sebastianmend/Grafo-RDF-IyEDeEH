@@ -1,0 +1,110 @@
+{
+  "paperId": "3bec5f7e70593f55b453808aca74b33161b7dd86",
+  "externalIds": {
+    "MAG": "2892955005",
+    "DBLP": "conf/fedcsis/WiandtS18",
+    "DOI": "10.15439/2018F213",
+    "CorpusId": 52884422
+  },
+  "url": "https://www.semanticscholar.org/paper/3bec5f7e70593f55b453808aca74b33161b7dd86",
+  "title": "Autonomous Graph Partitioning for Multi-Agent Patrolling Problems",
+  "venue": "Conference on Computer Science and Information Systems",
+  "year": 2018,
+  "citationCount": 13,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.15439/2018f213",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15439/2018F213?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15439/2018F213, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2921272",
+      "name": "Bernát Wiandt"
+    },
+    {
+      "authorId": "145644551",
+      "name": "V. Simon"
+    }
+  ],
+  "abstract": "Patrolling algorithms are coordinating multiple agents with the goal of visiting points of interest in a timely manner. These algorithms play a major role in efficient use of UAVs or other autonomous vehicles for precision agriculture, large area monitoring or security use cases. These algorithms are either centralized and in need of constant connection with the agents or solve NP-hard problems to plan the routes of individual agents on the graph. These requirements become unfeasible when the number of agents or points of interest grow or become dynamic. In this article we further elaborate the performance characteristics of the Partition Based Patrolling Strategy (PBPS) algorithm. The partitioning requires only local interactions between agents, therefore it is scalable to a large number of nodes and agents. On these subgraphs agents patrol independently from each other, therefore the approach eliminates interference between agents.",
+  "references": [
+    {
+      "paperId": "9801976a667c6f004410ebbcbc73a590235c9aa3"
+    },
+    {
+      "paperId": "9020e6d5c8de066a8ac13150971124570da48250"
+    },
+    {
+      "paperId": "d73ee1d36cad63125bc89577162d4269fe7b88ad"
+    },
+    {
+      "paperId": "1e4f8c9c493f14a3caf8be2ecc60b1cfe111e320"
+    },
+    {
+      "paperId": "94b710779fb9aff751642a72db9d7b2930d5d07f"
+    },
+    {
+      "paperId": "0a6ed54919f7820ca2871de200a669c73b690e7d"
+    },
+    {
+      "paperId": "792cb7a11b4cde187c9f9a2811a13e25104e1ea9"
+    },
+    {
+      "paperId": "454acf7fd3bd9743c638835429160b9daa506591"
+    },
+    {
+      "paperId": "fbccb203c32725169744ec38a613a5f7a2a155eb"
+    },
+    {
+      "paperId": "46dc1057a6f6c729ca9fab7c10f1873147c4c571"
+    },
+    {
+      "paperId": "8f2c7a5e67bc689a30003e9137afe556dc27938c"
+    },
+    {
+      "paperId": "8dfb32ba2e38f944f5c31697e4449a82ade24ade"
+    },
+    {
+      "paperId": "1569e7fc3874b616e311735c6e88c3a77b53bf6d"
+    },
+    {
+      "paperId": "a2ef99cea356f5a46025ef630f01df996ccd10c0"
+    },
+    {
+      "paperId": "9f03b55274a4f5614b4bfe305ce3cca05638a4b8"
+    },
+    {
+      "paperId": "302d894ce70c997824e081ddede40b54a0f446e4"
+    },
+    {
+      "paperId": "f5d058007eb7a174fa6d96dacbebb4e627be873f"
+    },
+    {
+      "paperId": "74808439775510e1fc80e6dd0f2cd1f7cb32bca5"
+    },
+    {
+      "paperId": "e77981f87fce041040ef7ee96de0d63dc00c161c"
+    },
+    {
+      "paperId": "f9d40e9807e8c627ff49c8ccaba5fd3fccbc821e"
+    },
+    {
+      "paperId": "690dc4120d447c8d17d5aa6609d6bff2047820ff"
+    },
+    {
+      "paperId": "5068a7ee7767b9e0078906a80748b3b08a37cc5c"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "paperId": "f4832b5f0de3aca25ee37345212122c8a12518c7",
+  "externalIds": {
+    "MAG": "2920793151",
+    "DBLP": "journals/sensors/ZhangLLCT0CL19",
+    "PubMedCentral": "6427465",
+    "DOI": "10.3390/s19051108",
+    "CorpusId": 73502524,
+    "PubMed": "30841552"
+  },
+  "url": "https://www.semanticscholar.org/paper/f4832b5f0de3aca25ee37345212122c8a12518c7",
+  "title": "Using a Portable Active Sensor to Monitor Growth Parameters and Predict Grain Yield of Winter Wheat",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 55,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/5/1108/pdf?version=1551778109",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6427465, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics",
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2142730184",
+      "name": "Jiayi Zhang"
+    },
+    {
+      "authorId": "2108661665",
+      "name": "Xia Liu"
+    },
+    {
+      "authorId": "145461906",
+      "name": "Yan Liang"
+    },
+    {
+      "authorId": "2057766609",
+      "name": "Q. Cao"
+    },
+    {
+      "authorId": "49902497",
+      "name": "Yongchao Tian"
+    },
+    {
+      "authorId": "26560296",
+      "name": "Yan Zhu"
+    },
+    {
+      "authorId": "1979404",
+      "name": "W. Cao"
+    },
+    {
+      "authorId": "49544190",
+      "name": "Xiaojun Liu"
+    }
+  ],
+  "abstract": "Rapid and effective acquisition of crop growth information is a crucial step of precision agriculture for making in-season management decisions. Active canopy sensor GreenSeeker (Trimble Navigation Limited, Sunnyvale, CA, USA) is a portable device commonly used for non-destructively obtaining crop growth information. This study intended to expand the applicability of GreenSeeker in monitoring growth status and predicting grain yield of winter wheat (Triticum aestivum L.). Four field experiments with multiple wheat cultivars and N treatments were conducted during 2013–2015 for obtaining canopy normalized difference vegetation index (NDVI) and ratio vegetation index (RVI) synchronized with four agronomic parameters: leaf area index (LAI), leaf dry matter (LDM), leaf nitrogen concentration (LNC), and leaf nitrogen accumulation (LNA). Duration models based on NDVI and RVI were developed to monitor these parameters, which indicated that NDVI and RVI explained 80%, 68–70%, 10–12%, and 67–73% of the variability in LAI, LDM, LNC and LNA, respectively. According to the validation results, the relative root mean square error (RRMSE) were all <0.24 and the relative error (RE) were all <23%. Considering the variation among different wheat cultivars, the newly normalized vegetation indices rNDVI (NDVI vs. the NDVI for the highest N rate) and rRVI (RVI vs. the RVI for the highest N rate) were calculated to predict the relative grain yield (RY, the yield vs. the yield for the highest N rate). rNDVI and rRVI explained 77–85% of the variability in RY, the RRMSEs were both <0.13 and the REs were both <6.3%. The result demonstrates the feasibility of monitoring growth parameters and predicting grain yield of winter wheat with portable GreenSeeker sensor.",
+  "references": [
+    {
+      "paperId": "e338e948e70a358c9de0a4ab48db9881f4e53a09"
+    },
+    {
+      "paperId": "4830bc502c4b84ecc9674a7ed95dac5b934b1eaa"
+    },
+    {
+      "paperId": "de17142c7197f46447f5a5370d731c60e3c2771d"
+    },
+    {
+      "paperId": "4f608adcbd3b36c9439b4ed15251a1fa747c0f97"
+    },
+    {
+      "paperId": "a2cca7b468ca54260da225fd6da78923808540a0"
+    },
+    {
+      "paperId": "078cc0a611a2e46df67da22f71fbdf7a0ac1bf25"
+    },
+    {
+      "paperId": "98efc395be6604a503e4e497ae0da69c53edc306"
+    },
+    {
+      "paperId": "0a99922403da33e0851a0d08d211cdc1c9f0d995"
+    },
+    {
+      "paperId": "b39bec78e44ba3a6ec6b0314dcf546287749deae"
+    },
+    {
+      "paperId": "aac53a4c0106d1aa46f32198209e04f0e0b6b1b5"
+    },
+    {
+      "paperId": "0d2d13453a10427b276741b5aaf1fe3aedd6e942"
+    },
+    {
+      "paperId": "27b28292dfd7fc1aced763f7d3401f444e28e6fd"
+    },
+    {
+      "paperId": "ccb1d6b99cb83179bac7caa89e46f9f109574c0c"
+    },
+    {
+      "paperId": "e9f659f99235e6e76dfa298ffcdb28e70850a0ee"
+    },
+    {
+      "paperId": "b372e54f68f99481239d7d9cf82e95f9cadd8a61"
+    },
+    {
+      "paperId": "fd6c04b293b054d1eb0ebe73f82a76750ae25a4e"
+    },
+    {
+      "paperId": "fab0a33c7aef9f85c013c2db511b3dc9a7ea9e94"
+    },
+    {
+      "paperId": "12dba7d737306f855184c3a81cc93ea59ca33023"
+    },
+    {
+      "paperId": "87c5da72e32c5978698ce8be2079af5e9cd39af6"
+    },
+    {
+      "paperId": "f3f3840051645c83bd80f31bd4f81b34a9c35862"
+    },
+    {
+      "paperId": "696b2bc8cfc1753a64f88b7042da79db0c946aa1"
+    },
+    {
+      "paperId": "4fb054f457bd98f239712b4aebcbfe75930d26a5"
+    },
+    {
+      "paperId": "356b96230a44c8360bf5bdb5daf26ed4cd83aaca"
+    },
+    {
+      "paperId": "c15707b4fc17445a8a3045ca3f9fef1013bc5802"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "567a72f80e1771999434b0d4c5ec625ab68e723e"
+    },
+    {
+      "paperId": "6445bf6912476991a57f3ad317a37aa7f5bef82d"
+    },
+    {
+      "paperId": "894d46520f24dd1e53dc22a0248527973f837d3d"
+    },
+    {
+      "paperId": "c871c7ce3547e7bcba74ab89a37e9633bf298a1b"
+    },
+    {
+      "paperId": "df759a2b5254196a311631437f36f3db70332c92"
+    },
+    {
+      "paperId": "c20869a3f2ac9dce6ea54f28a824a9900460360f"
+    },
+    {
+      "paperId": "f5f6c2344175ccca26fe32193da1813bdce210c4"
+    },
+    {
+      "paperId": "1a05100cd9aabeaac216189166c63eede78f2e99"
+    },
+    {
+      "paperId": "b08daec0cf8b0b25086588e35ba4761a478e67a4"
+    },
+    {
+      "paperId": "7ec7f424dfa3e74fda3bbd5f002a5ad96e47ce44"
+    },
+    {
+      "paperId": "be073296ff2f85dfbff98c776045aacf31356866"
+    },
+    {
+      "paperId": "4ea9e293dc0721a8302764002578e3927231158c"
+    },
+    {
+      "paperId": "3917567908dd64863caf0538cfe5152576fde40f"
+    },
+    {
+      "paperId": "5791f0bb027d26b08850a16bb1c44ad50567b509"
+    },
+    {
+      "paperId": "75a04d33e255f97c6a4fab36d4c923135952b95c"
+    },
+    {
+      "paperId": "832e5c578975c2693d010ec8b2dfe840dab6c4f3"
+    },
+    {
+      "paperId": "711c76f91b9e0045c2cb3248861bd551f4ea3712"
+    },
+    {
+      "paperId": "bc21dd0193a5eae47b91fed2cf8725e3b4ce7ae6"
+    },
+    {
+      "paperId": "e9b70a62cfab217759ad47de8f59e8ae033fa27e"
+    },
+    {
+      "paperId": "c48a6d83472cb142222e5e0c27f88b830bb38c29"
+    },
+    {
+      "paperId": "7fb2fe487764412ef43f1e3793cc0efae4f47d68"
+    },
+    {
+      "paperId": "e1572e110026c4f61a58ac055a324683cc280a2e"
+    },
+    {
+      "paperId": "9a6fb530412e60abb513a3bd14b6c71dd848b722"
+    },
+    {
+      "paperId": "f78a2e226fb042fed011a7b32e8980f1486ba1c6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0f24012e616a93cbf5f6e2a4f31fb05b3f645076"
+    },
+    {
+      "paperId": "249dd1c67de3862c6666f300840388c34e05f969"
+    },
+    {
+      "paperId": "0bf4ba3320797d6f89dc350919a9e65ea990f838"
+    },
+    {
+      "paperId": "81378688f588766253f7180de05c547dd7551f9e"
+    },
+    {
+      "paperId": "8ec3eb783921269918af40687bd58222bff6c80a"
+    },
+    {
+      "paperId": "75ea9826269932d5f6b3f339cf49fd0d12985cb1"
+    },
+    {
+      "paperId": "3bd93d0cf981a35c2cd8a790bb486e8d83c0ef2b"
+    },
+    {
+      "paperId": "cf387b95a88912c4ed82dd361d86ab8811bd4442"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

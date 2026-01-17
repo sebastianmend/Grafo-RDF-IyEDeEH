@@ -1,0 +1,42 @@
+{
+  "paperId": "1c88974e60c37174b64e9e7e76ff3836bdb35574",
+  "externalIds": {
+    "MAG": "2604025867",
+    "DOI": "10.1007/s11119-017-9516-7",
+    "CorpusId": 3569612
+  },
+  "url": "https://www.semanticscholar.org/paper/1c88974e60c37174b64e9e7e76ff3836bdb35574",
+  "title": "The application of unmanned aircraft systems to plant protection in China",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 139,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-017-9516-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-017-9516-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2401743553",
+      "name": "Shulin Yang"
+    },
+    {
+      "authorId": "3302827",
+      "name": "Xiaobing Yang"
+    },
+    {
+      "authorId": "2066644262",
+      "name": "Jianyou Mo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

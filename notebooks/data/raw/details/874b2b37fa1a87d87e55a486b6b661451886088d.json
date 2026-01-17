@@ -1,0 +1,53 @@
+{
+  "paperId": "874b2b37fa1a87d87e55a486b6b661451886088d",
+  "externalIds": {
+    "MAG": "2896395088",
+    "DBLP": "conf/agro-geoinformatics/GuoLHHL18",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476123",
+    "CorpusId": 52917752
+  },
+  "url": "https://www.semanticscholar.org/paper/874b2b37fa1a87d87e55a486b6b661451886088d",
+  "title": "Growth Monitoring and Planting Decision Supporting for Pear During the Whole Growth Stage Based on Pie-Landscape System",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476123?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476123, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2110670646",
+      "name": "Linlin Guo"
+    },
+    {
+      "authorId": "46399769",
+      "name": "Yanghua Liu"
+    },
+    {
+      "authorId": "117189469",
+      "name": "Hanjie Hao"
+    },
+    {
+      "authorId": "51442785",
+      "name": "Jiaqi Han"
+    },
+    {
+      "authorId": "32390509",
+      "name": "Tongkui Liao"
+    }
+  ],
+  "abstract": "Remote sensing technique gained more attention recently in precision agricultural management for its advantages as efficient, economical, undamaged, and continuous. This paper introduced an agricultural service system, PIE-LANDSCAPE, developed based on remote sensing and big-data techniques. Functions of field management, growth monitoring, precision meteorology service, and planting guidance are integrated and achieved in this system. Based on PIE-LANDSCAPE system, we monitored the pear growth and relevant environmental factors during the whole growth stage and the results can support the planting management optimizing. First, soil quality in pear orchard was assessed with soil organic matter, nutrient indictors, pH, structural indicators, and geographical indictors. Soil quality was in the high level, but addition of soil fertility especially of organic matter was required. Second, the whole pear growth stages were monitored by remote sensing technique, and the result showed the pear trees in most plots grew better. Appropriate irrigation and training are required to improve the pear growing. Moreover, meteorological remote sensing technique was applied for early warning of weather disaster and precision weather forecast. Freezing injury in April florescence could be withstood based on the meteorological data analyses.",
+  "references": null
+}

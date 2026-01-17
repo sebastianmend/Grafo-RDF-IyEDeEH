@@ -1,0 +1,501 @@
+{
+  "paperId": "ee7018588fc960fa28d257be1be851bed536a90c",
+  "externalIds": {
+    "PubMedCentral": "6312910",
+    "MAG": "2903889209",
+    "DOI": "10.1093/gigascience/giy153",
+    "CorpusId": 54485765,
+    "PubMed": "30520975"
+  },
+  "url": "https://www.semanticscholar.org/paper/ee7018588fc960fa28d257be1be851bed536a90c",
+  "title": "Computer vision-based phenotyping for improvement of plant productivity: a machine learning perspective",
+  "venue": "GigaScience",
+  "year": 2018,
+  "citationCount": 164,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/gigascience/article-pdf/8/1/giy153/27359533/giy153.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6312910, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2385871",
+      "name": "K. Mochida"
+    },
+    {
+      "authorId": "34600014",
+      "name": "Satoru Koda"
+    },
+    {
+      "authorId": "2110322796",
+      "name": "Komaki Inoue"
+    },
+    {
+      "authorId": "1744285",
+      "name": "T. Hirayama"
+    },
+    {
+      "authorId": "2492952",
+      "name": "Shojiro Tanaka"
+    },
+    {
+      "authorId": "2985732",
+      "name": "R. Nishii"
+    },
+    {
+      "authorId": "1774633",
+      "name": "F. Melgani"
+    }
+  ],
+  "abstract": "Abstract Employing computer vision to extract useful information from images and videos is becoming a key technique for identifying phenotypic changes in plants. Here, we review the emerging aspects of computer vision for automated plant phenotyping. Recent advances in image analysis empowered by machine learning-based techniques, including convolutional neural network-based modeling, have expanded their application to assist high-throughput plant phenotyping. Combinatorial use of multiple sensors to acquire various spectra has allowed us to noninvasively obtain a series of datasets, including those related to the development and physiological responses of plants throughout their life. Automated phenotyping platforms accelerate the elucidation of gene functions associated with traits in model plants under controlled conditions. Remote sensing techniques with image collection platforms, such as unmanned vehicles and tractors, are also emerging for large-scale field phenotyping for crop breeding and precision agriculture. Computer vision-based phenotyping will play significant roles in both the nowcasting and forecasting of plant traits through modeling of genotype/phenotype relationships.",
+  "references": [
+    {
+      "paperId": "ee415ac320ba0e80e982ca62db3f100f045b5609"
+    },
+    {
+      "paperId": "04a6218b1aa085d4e980905771683535c1f6334c"
+    },
+    {
+      "paperId": "0c3a55941426405b95b5f46e47a1aff638aa7b36"
+    },
+    {
+      "paperId": "7cee2a2bee27657e6599b13f9ed6536d5f46fd0a"
+    },
+    {
+      "paperId": "1df89e9a1f3a15b667b854a4378b7611316feaf5"
+    },
+    {
+      "paperId": "306e370567b590ed8f93384da63d70e48262b229"
+    },
+    {
+      "paperId": "fc6f19a4a3ae937567e41b2bff5683a09e99e9ce"
+    },
+    {
+      "paperId": "cb2f9f67b8a1e028250a6fa29de39c0d05c3609a"
+    },
+    {
+      "paperId": "66fa3de81309233c3ebae0fe29a2b5c1992fa1d8"
+    },
+    {
+      "paperId": "7896dfd5e663b3530e3fcf9755d5ae150839516e"
+    },
+    {
+      "paperId": "7aad71623f22bdf34ec3a14cc56bb6efbae6467a"
+    },
+    {
+      "paperId": "fd54749e36173aa0ce94f9f44b99202761b5a98c"
+    },
+    {
+      "paperId": "9c8150baf8a6a55021da773b3bc5fb6cd8895721"
+    },
+    {
+      "paperId": "80539e957cca1e826ed36f28e7d958864d4ff499"
+    },
+    {
+      "paperId": "58ed2a21bee2ae35b6717957f47f99f31a32a32e"
+    },
+    {
+      "paperId": "c5252b07cc034b266942165a11001b166b7d017c"
+    },
+    {
+      "paperId": "3b4ad6b789837a6a878f33c0b7ddb1b1fc7daaf8"
+    },
+    {
+      "paperId": "a97d4282b5c5a71c4e3e4cda30eb7bb8920c4c59"
+    },
+    {
+      "paperId": "b43f1848d8595fc4857608621871a71e0dbdcea8"
+    },
+    {
+      "paperId": "6b72b796eb4431d9c7f408c4ce2d8e05923ae9f9"
+    },
+    {
+      "paperId": "d3978d5f0b1c5e5f85f889af5b7db5aa9fb34d38"
+    },
+    {
+      "paperId": "87037412ab1ba5f0bf90ce839cdbaa1b52657fae"
+    },
+    {
+      "paperId": "18d295ab0b3fec9d6c2ece04bf95216a71945095"
+    },
+    {
+      "paperId": "f6b206633df994fae6c3fdf093f4d002c5a36707"
+    },
+    {
+      "paperId": "8643327cf90ac8f631df1318ae9d5234c3bd0cda"
+    },
+    {
+      "paperId": "e00f603720a5fc3a5461e620ea82fe41efa7a82e"
+    },
+    {
+      "paperId": "e10b86506d54280caff626ea83d6ed904ab71bb5"
+    },
+    {
+      "paperId": "78ca71104239d13337f1ca66f2317566188ec1e9"
+    },
+    {
+      "paperId": "c766de1f3fb7dff6ec73393cfb3fee25684a5f84"
+    },
+    {
+      "paperId": "8f6291dfca8285951498195a5fcdce756121ebc8"
+    },
+    {
+      "paperId": "9646801b6581a6d5a66355c8cf22fcc8386dbff8"
+    },
+    {
+      "paperId": "514c3cb9ab44942cafeca46ceee31d1f1e046457"
+    },
+    {
+      "paperId": "c34dcc548ed14f355541a67d4141c5c17929df1d"
+    },
+    {
+      "paperId": "2ccdaf47a203565d42ce73d28e5623ca83c25b24"
+    },
+    {
+      "paperId": "fba25052d6c4f8a7239479fb0ffc3e28df81a5eb"
+    },
+    {
+      "paperId": "698e0ed4d8cf10956a0d08b87fc21b2778cd4879"
+    },
+    {
+      "paperId": "67f1b99f304eb6c4f930875722c44525d3944170"
+    },
+    {
+      "paperId": "886674a5abae3c9bfd262006c67d4ba078e1462b"
+    },
+    {
+      "paperId": "a398ae4a0c58d4c60fcaabdb32f468f83c93d912"
+    },
+    {
+      "paperId": "4bd8f8053a766ff6d16151825e7905bc06beead7"
+    },
+    {
+      "paperId": "9551a93a42e1ccf6c55291529e9faa566a1d605e"
+    },
+    {
+      "paperId": "6f1bfb83c76a40aa7ba23f599278b69ce89d964e"
+    },
+    {
+      "paperId": "8a0727c8a9f88eb0f736b2101b34b74d2e678edf"
+    },
+    {
+      "paperId": "418ad3a5092cdf1ed4ad652a4de581957f969303"
+    },
+    {
+      "paperId": "a03b223e50e0142eab17446593597d02447050a1"
+    },
+    {
+      "paperId": "2bbb9151466a0f4dfa64aafffef415648922d7e1"
+    },
+    {
+      "paperId": "e5fa6689ef7ff2df2d564c17f2fef2655e693755"
+    },
+    {
+      "paperId": "900a7f6aea4356bd4608cb212ddd21495067a8d9"
+    },
+    {
+      "paperId": "33ef644ef5085237b4f529251d6c895d32d6052f"
+    },
+    {
+      "paperId": "2094eaf2e50b83e6c0e71890c53ef0fb2bd75729"
+    },
+    {
+      "paperId": "8d5cb5ad4c6ff7f94d4a3367baaac52dd53b3796"
+    },
+    {
+      "paperId": "1c20c465d85ae4b17c9d28b72e32b99c24cb10db"
+    },
+    {
+      "paperId": "19c2124709617aa74c8c2091c104c9e230152f51"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "669c261124468bea3f5853662521edb1cb8e1085"
+    },
+    {
+      "paperId": "40afa3f8d60f51b0cabb22fd65a8af19f968a4ef"
+    },
+    {
+      "paperId": "9ebe4622d9971b971d6294c01616ef9f964271a0"
+    },
+    {
+      "paperId": "37ee1a7dc271f487e6648bc3548cf63b55840495"
+    },
+    {
+      "paperId": "b31805924c4a00d1f5f5a4ba5c868454fdf2943f"
+    },
+    {
+      "paperId": "55c26d8497083f1bd6c3ff2d932585145f538ee9"
+    },
+    {
+      "paperId": "5bc9c75fd8a5060120e1bbd622cac8322cc623be"
+    },
+    {
+      "paperId": "3c7253e0230b1bc78ca7a9b640027a6d1c557a0b"
+    },
+    {
+      "paperId": "e616612711ac0d5181fc7162aedf70dbe3a4265b"
+    },
+    {
+      "paperId": "51579a8a40aea8dc6b9cdea9499dc27c2797499d"
+    },
+    {
+      "paperId": "fc83a03087c16a2172f81369e7b21fb3669ed148"
+    },
+    {
+      "paperId": "8d9f602ba3116af1956b5896da192f37896d3893"
+    },
+    {
+      "paperId": "918595ffcafc9dd6bea0fa77f57c5f440a700c62"
+    },
+    {
+      "paperId": "5eb70aa1042213abfb82fc4808444b7dc080b8ab"
+    },
+    {
+      "paperId": "658817157b7c811d29a354e37eb2d763e63369c7"
+    },
+    {
+      "paperId": "0226fb448e8dc0060a231830496a7f040b866cd0"
+    },
+    {
+      "paperId": "5cec660d084fcf4bf25ec2cafbe0e27ed4324f8f"
+    },
+    {
+      "paperId": "b323aa63247c6a1f3076bee55e49188a09d6c6ab"
+    },
+    {
+      "paperId": "7675f384995fa8393a2d4ba9cf99cd3ae6ff8b68"
+    },
+    {
+      "paperId": "25110d2127afad7245b62382565c21f8f96a264a"
+    },
+    {
+      "paperId": "ed105d845b38aa612b48c2f9bd3c76be7ca405ae"
+    },
+    {
+      "paperId": "87b29815dcc22e812f4d7c7e5740976168e756eb"
+    },
+    {
+      "paperId": "a13f390a813e775bdc25465fa4562d03d73d0b40"
+    },
+    {
+      "paperId": "4900e46e9cc68d01763be71aaa649aeec1b7dc96"
+    },
+    {
+      "paperId": "a87d695a9e57cf93c77b9c880342c5981c23b062"
+    },
+    {
+      "paperId": "f54f9c019213c45506cadfbe000c9148e48358f6"
+    },
+    {
+      "paperId": "d508f8ac359d2789f801e4f35d073dab5b4b4d9e"
+    },
+    {
+      "paperId": "fac9cf0b70f6018b827d2a40b6fe02a2b335b631"
+    },
+    {
+      "paperId": "8867449beee563a1ce0ccd73d874facf4e17c971"
+    },
+    {
+      "paperId": "ee3bc72e84e2a5cc539e68b338f285f3f4304de0"
+    },
+    {
+      "paperId": "a1915bb439417f01c65edadd3f2f0b5588aff13c"
+    },
+    {
+      "paperId": "85a81fcb4045baac6084b7d4dfb78d37f0c3b422"
+    },
+    {
+      "paperId": "ef9101d4c1c3292faea9e4bce08eb5b5e9524552"
+    },
+    {
+      "paperId": "6c97bc3c13d1fcee5c1b21b25f38b126ce4519fc"
+    },
+    {
+      "paperId": "439d225c99024ce3b281e65c100e7b721d4c0cb6"
+    },
+    {
+      "paperId": "64b20f863dc1baf587fb7b5b2c057cbd463112cf"
+    },
+    {
+      "paperId": "f8f02f4e43f374d035e0843a6cabe9737e6dc95b"
+    },
+    {
+      "paperId": "1c0ec9ac6806801ada46c2e473398fbd3e651609"
+    },
+    {
+      "paperId": "79c6ab4c2e6a26e2036600e2fa28ca1e486d6b14"
+    },
+    {
+      "paperId": "e30d9b8ce108d982169621b88a5e3fb69fec70e1"
+    },
+    {
+      "paperId": "8dc334b8fcce988212eab5dd4c17954bd2143c47"
+    },
+    {
+      "paperId": "6d48f3331bfa95f433441259138a336c01d1ff20"
+    },
+    {
+      "paperId": "b5c26ab8767d046cb6e32d959fdf726aee89bb62"
+    },
+    {
+      "paperId": "a29b7a000e6e1a2907ce6ae24a03aba5d9ef873f"
+    },
+    {
+      "paperId": "a09a9f69ff145508a12e6dbb81ccd7f5be4bd2fc"
+    },
+    {
+      "paperId": "36b5136ccc072f9bcc13258a4fe69527fc88be1a"
+    },
+    {
+      "paperId": "cf3d680db30f0de3e25ff569265f55aa758c2eb9"
+    },
+    {
+      "paperId": "644f4bc9479e4af59b8213601fc0fee46d665b5c"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "3b701398b6dfd3e04703900efb4b5f4ae61f2f93"
+    },
+    {
+      "paperId": "a509dff9a375469e1224a0b29afe94fa19e83aa5"
+    },
+    {
+      "paperId": "fd882a24391a05bf4cf92e8259101f7944d88a56"
+    },
+    {
+      "paperId": "315f8415a3acb15252b43a4b1333d3888da9c4a5"
+    },
+    {
+      "paperId": "3595ee07f36089ac24b2e4c37819ccaf79c0a046"
+    },
+    {
+      "paperId": "3b48bc065946feae36ef35a6ea14fa7d96eeb831"
+    },
+    {
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270"
+    },
+    {
+      "paperId": "3522f47fc410a2f29b3f2fde74b2a317dd7600fd"
+    },
+    {
+      "paperId": "6fc6803df5f9ae505cae5b2f178ade4062c768d0"
+    },
+    {
+      "paperId": "e15cf50aa89fee8535703b9f9512fca5bfc43327"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "d77c1ecfac4f5049400c75734a82ee4f87d73dee"
+    },
+    {
+      "paperId": "e5f23d9271dd7ce8b756ee7ef6c8a0624ff065ab"
+    },
+    {
+      "paperId": "0197e215347eb1a33a11a01d03b6942dc04f24ec"
+    },
+    {
+      "paperId": "337a17e38d4c0f214378c8efe54ba6415ba6ac6f"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "ab4b565eddf51630e01949a00d86c1f8a7d509e6"
+    },
+    {
+      "paperId": "f555a721ea78fe1adb123d061d3a99eefbc7626b"
+    },
+    {
+      "paperId": "9f9b15feaa8dc8935e805deb812f628d8a777427"
+    },
+    {
+      "paperId": "fccf17a2904412a4563736858dcda11490f276ef"
+    },
+    {
+      "paperId": "002a36359ab0680fac3dd492a113475b5e782ae0"
+    },
+    {
+      "paperId": "c1a9cb98c8015183d5804b5848442ea49c530a64"
+    },
+    {
+      "paperId": "8f118aa3bcc8ba3def215b247927c5b1e5b56780"
+    },
+    {
+      "paperId": "489e2e9f4e80ed6a0cf98ac30b9bc784bc0f9505"
+    },
+    {
+      "paperId": "e846e1b7e3142d750b1fb5572a0a4f9546324a26"
+    },
+    {
+      "paperId": "e6eb8e194c7a009cacd8ab0d46f360d593f673dc"
+    },
+    {
+      "paperId": "6493c0aa850858170ee2ce593473ce06c929fb37"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82"
+    },
+    {
+      "paperId": "429c25227c2225447fd3bf3d17582a19671cc872"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2daeb6802912dabd799aa097bec6bfd62f328096"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

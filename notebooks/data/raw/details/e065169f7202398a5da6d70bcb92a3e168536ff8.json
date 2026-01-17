@@ -1,0 +1,118 @@
+{
+  "paperId": "e065169f7202398a5da6d70bcb92a3e168536ff8",
+  "externalIds": {
+    "MAG": "2929842273",
+    "DBLP": "journals/remotesensing/SalgadoeRLS19",
+    "DOI": "10.3390/RS11060714",
+    "CorpusId": 104293142
+  },
+  "url": "https://www.semanticscholar.org/paper/e065169f7202398a5da6d70bcb92a3e168536ff8",
+  "title": "A Non-Reference Temperature Histogram Method for Determining Tc from Ground-Based Thermal Imagery of Orchard Tree Canopies",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/6/714/pdf?version=1553509326",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11060714?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11060714, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "37182340",
+      "name": "A. Salgadoe"
+    },
+    {
+      "authorId": "32194191",
+      "name": "A. Robson"
+    },
+    {
+      "authorId": "31744047",
+      "name": "D. Lamb"
+    },
+    {
+      "authorId": "35623812",
+      "name": "D. Schneider"
+    }
+  ],
+  "abstract": "Obtaining average canopy temperature (Tc) by thresholding canopy pixels from on-ground thermal imagery has historically been undertaken using ‘wet’ and ‘dry’ reference surfaces in the field (reference temperature thresholding). However, this method is extremely time inefficient and can suffer inaccuracies if the surfaces are non-standardised or unable to stabilise with the environment. The research presented in this paper evaluates non-reference techniques to obtain average canopy temperature (Tc) from thermal imagery of avocado trees, both for the shaded side and sunlit side, without the need of reference temperature values. A sample of 510 thermal images (from 130 avocado trees) were acquired with a FLIR B250 handheld thermal imaging camera. Two methods based on temperature histograms were evaluated for removing non-canopy-related pixel information from the analysis, enabling Tc to be determined. These approaches included: 1) Histogram gradient thresholding based on temperature intensity changes (HG); and 2) histogram thresholding at one or more standard deviation (SD) above and below the mean. The HG method was found to be more accurate (R2 > 0.95) than the SD method in defining canopy pixels and calculating Tc from each thermal image (shaded and sunlit) when compared to the standard reference temperature thresholding method. The results from this study present an alternative non-reference method for determining Tc from ground-based thermal imagery without the need of calibration surfaces. As such, it offers a more efficient and computationally autonomous method that will ultimately support the greater adoption of non-invasive thermal technologies within a precision agricultural system.",
+  "references": [
+    {
+      "paperId": "bf671039f7be111543f64cb3e4fdc9f840c86bcc"
+    },
+    {
+      "paperId": "0683be899f3e04b8b55a501e8ffafc0484b44056"
+    },
+    {
+      "paperId": "11bd98b520320f6359a2f4aaab83ba116190eb9d"
+    },
+    {
+      "paperId": "d99f7c4b43570197422e2024bc726e5f42da1ead"
+    },
+    {
+      "paperId": "6edb6314ea1dbd333eda72e2a86f239eea358901"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "e833c51d6c37edfdaffca317172ab1cf85aad118"
+    },
+    {
+      "paperId": "5fe4fcb0e704df2b325cd536c3d7d99835a82e0e"
+    },
+    {
+      "paperId": "62f9d22fac11e3a881c64f5e8e49b228fc9b0296"
+    },
+    {
+      "paperId": "9a604bbdb81834a17614643bed43a2e758c074f3"
+    },
+    {
+      "paperId": "390ec8500adfc6b34f0670fc5c0dacd517cca625"
+    },
+    {
+      "paperId": "2d0c0b438eb38a3e82fd6a4b1644c65af5ea2153"
+    },
+    {
+      "paperId": "9442227f6fc242a61fb301c02ea8d1d1d1330cfe"
+    },
+    {
+      "paperId": "c7ba786c84c9c5161604e021551a23f098028eba"
+    },
+    {
+      "paperId": "02110b1bb2c75bd97024dcc9b855992855c7fe97"
+    },
+    {
+      "paperId": "a1cad28776a704f8fe9beca753a16c71a8c991b2"
+    },
+    {
+      "paperId": "42d93cfdc235fd3c341ff93b9bb34170a19a48de"
+    },
+    {
+      "paperId": "7906e55149e33dd51f95b1fc799b5dab93a4a256"
+    },
+    {
+      "paperId": "787a16e5ad110528ea686cf14d148688e210ecbe"
+    },
+    {
+      "paperId": "51b89678a5a93c969d0f31ce91bf68a81ae92dd2"
+    },
+    {
+      "paperId": "97cc38c463ed2336f7fa1e7a31c8b9dbea205d50"
+    },
+    {
+      "paperId": "3b29b4555c08b5865c07ea9b7cda051a8917f157"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

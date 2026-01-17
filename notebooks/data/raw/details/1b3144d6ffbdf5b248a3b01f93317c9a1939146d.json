@@ -1,0 +1,149 @@
+{
+  "paperId": "1b3144d6ffbdf5b248a3b01f93317c9a1939146d",
+  "externalIds": {
+    "MAG": "2954380397",
+    "DOI": "10.22458/RC.V20I2.2396",
+    "CorpusId": 198265466
+  },
+  "url": "https://www.semanticscholar.org/paper/1b3144d6ffbdf5b248a3b01f93317c9a1939146d",
+  "title": "Tecnología CRISPR-Cas9: una herramienta aplicable en la agricultura de Costa Rica",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22458/rc.v20i2.2396",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22458/RC.V20I2.2396?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22458/RC.V20I2.2396, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "90149249",
+      "name": "A. Orozco"
+    }
+  ],
+  "abstract": "At present the technology of molecular biology CRISPR-Cas9, it is the most studied worldwide for the genomic edi-tion. Because of its ease, adaptability, versatility, precision and relatively low cost is a technology that can change the landscape in agriculture. The aim of this article is to do a review and description about the CRISPR-Cas9 technology, to mention some applications that have been realized in agriculture and to mention some possibilities that would be applicable in Costa Rica.",
+  "references": [
+    {
+      "paperId": "63e604453a02350a96ba767c1b07b14a7c165f4a"
+    },
+    {
+      "paperId": "362750600783fd8d257061424542ca8fc8c7e8d0"
+    },
+    {
+      "paperId": "c0c8ea208a61f00ecec5908084e0162435462030"
+    },
+    {
+      "paperId": "d640aa7c5c15fa109f86cca67f30a4af13bf8f3b"
+    },
+    {
+      "paperId": "68d962effe5520777791bd6ec8ffa4b963ba4f38"
+    },
+    {
+      "paperId": "d1630766cea694032554717192ab8a840adc66f2"
+    },
+    {
+      "paperId": "a5ef85afc7ace2d97507b1153074e628aa8632b9"
+    },
+    {
+      "paperId": "507d7ed038a2c1677a3aa02caeb483093cefb9a8"
+    },
+    {
+      "paperId": "b512e813da80c60b52b2379fc0a4b357dc1c7f72"
+    },
+    {
+      "paperId": "2b375974b7236a45ecae7ef652c34a1c2ecdde74"
+    },
+    {
+      "paperId": "1dcfc3f2b8750e6781aa9fe7bec62030476dec85"
+    },
+    {
+      "paperId": "cd9a15423cda951cc329c682484eeb5902a4a97a"
+    },
+    {
+      "paperId": "13782077413f3a947087be17e3f5425c95c1287b"
+    },
+    {
+      "paperId": "7e34b66fe25dae4b19d28b6d6dec2b4246845547"
+    },
+    {
+      "paperId": "d1e2fcac9b1f64caafd484962df1bdbf14a050c4"
+    },
+    {
+      "paperId": "800447e7abc658850310dad88866704a46962cf9"
+    },
+    {
+      "paperId": "75e930efc7e4434e6f6e702fc1145e525f770f07"
+    },
+    {
+      "paperId": "9ffc09c930186e42bce28929b58359783b1a98fa"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

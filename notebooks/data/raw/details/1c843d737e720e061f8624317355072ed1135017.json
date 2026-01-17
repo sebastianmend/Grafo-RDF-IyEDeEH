@@ -1,0 +1,193 @@
+{
+  "paperId": "1c843d737e720e061f8624317355072ed1135017",
+  "externalIds": {
+    "PubMedCentral": "5817087",
+    "MAG": "2790635775",
+    "DOI": "10.3389/fpls.2018.00164",
+    "CorpusId": 3272258,
+    "PubMed": "29491881"
+  },
+  "url": "https://www.semanticscholar.org/paper/1c843d737e720e061f8624317355072ed1135017",
+  "title": "Detection of Bacterial Infection in Melon Plants by Classification Methods Based on Imaging Data",
+  "venue": "Frontiers in Plant Science",
+  "year": 2018,
+  "citationCount": 48,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2018.00164/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5817087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145421673",
+      "name": "M. Pineda"
+    },
+    {
+      "authorId": "1400932229",
+      "name": "M. Pérez-Bueno"
+    },
+    {
+      "authorId": "48825003",
+      "name": "M. Barón"
+    }
+  ],
+  "abstract": "The bacterium Dickeya dadantii is responsible of important economic losses in crop yield worldwide. In melon leaves, D. dadantii produced multiple necrotic spots surrounded by a chlorotic halo, followed by necrosis of the whole infiltrated area and chlorosis in the surrounding tissues. The extent of these symptoms, as well as the day of appearance, was dose-dependent. Several imaging techniques (variable chlorophyll fluorescence, multicolor fluorescence, and thermography) provided spatial and temporal information about alterations in the primary and secondary metabolism, as well as the stomatal activity in the infected leaves. Detection of diseased leaves was carried out by using machine learning on the numerical data provided by these imaging techniques. Mathematical algorithms based on data from infiltrated areas offered 96.5 to 99.1% accuracy when classifying them as mock vs. bacteria-infiltrated. These algorithms also showed a high performance of classification of whole leaves, providing accuracy values of up to 96%. Thus, the detection of disease on whole leaves by a model trained on infiltrated areas appears as a reliable method that could be scaled-up for use in plant breeding programs or precision agriculture.",
+  "references": [
+    {
+      "paperId": "1cc517124f4ee1992aaddec9533bfd8b0fd8926b"
+    },
+    {
+      "paperId": "a9becaba0c25662356a7bf2fcadb7c789d6700c8"
+    },
+    {
+      "paperId": "c0a6044c22747f3f5063bdea0edcba618cb815cc"
+    },
+    {
+      "paperId": "86f83f0665b6ddaf2400d952f6b7f175f08f6861"
+    },
+    {
+      "paperId": "6f1a046ca43109ae170dff69c0d4350ef8112801"
+    },
+    {
+      "paperId": "551fefb7f2ebc6836cd2d5797704bbc6c422069e"
+    },
+    {
+      "paperId": "b14379b855bbe7f3450d6cf5e76b292d6c719ac0"
+    },
+    {
+      "paperId": "72ce8c2eef06aead4944c4d95531202a809e6120"
+    },
+    {
+      "paperId": "2949ed3a26db0bbaa2e6e3ec1556833750452c71"
+    },
+    {
+      "paperId": "2280103c873a66c24a216d179bf4421f3872e12b"
+    },
+    {
+      "paperId": "d422df8bff4e677a3077635db116679d25142bfc"
+    },
+    {
+      "paperId": "174485ab855ee59a3ec5c5e2cf790287c3b070b3"
+    },
+    {
+      "paperId": "e833c51d6c37edfdaffca317172ab1cf85aad118"
+    },
+    {
+      "paperId": "623dc5f2500affad30e7c9bfc86376cd2d41206a"
+    },
+    {
+      "paperId": "12f857e757aaa68b1eb5d4f0caffb8637900a738"
+    },
+    {
+      "paperId": "beb0dc96965b7697ea3faf57744a165fc6192559"
+    },
+    {
+      "paperId": "5a20a8e48857364effac144233be9be72b1440df"
+    },
+    {
+      "paperId": "779312f8a264cb06f07e9aeb3e21f0546800f6c4"
+    },
+    {
+      "paperId": "866f8d829e595db2bd9736c03145145ba1993ab8"
+    },
+    {
+      "paperId": "8d5f107d24c01275cc3056daa7c90cd6564da7b0"
+    },
+    {
+      "paperId": "9a604bbdb81834a17614643bed43a2e758c074f3"
+    },
+    {
+      "paperId": "21dc4be0268fd16704cd3b3f5236f37a3c4900c7"
+    },
+    {
+      "paperId": "605d9fb994e4c2a5a4baa10c42f95ed24dc91c8a"
+    },
+    {
+      "paperId": "39c43977317d50f54e6d7a5341bd1090a36019f8"
+    },
+    {
+      "paperId": "40229850a640e434bb67f4ee4d5c6285ac9c5ffb"
+    },
+    {
+      "paperId": "440ed36c821adf9017dac905101ae19523502e24"
+    },
+    {
+      "paperId": "e124b2eeea68eb5408f51f49988508f7048c612d"
+    },
+    {
+      "paperId": "72bf41141608d2e29311040d113443febe0737b7"
+    },
+    {
+      "paperId": "d1709ca54f475aa24c4f8c3109eed184026a75ff"
+    },
+    {
+      "paperId": "c581b2dd7abdfde584c43bc5816684ddba2e15bc"
+    },
+    {
+      "paperId": "e32c1a80e08810a336050da5b35fe1ce739a32f1"
+    },
+    {
+      "paperId": "3f5bb92938b0791fba198ff6d11745e1bee763f2"
+    },
+    {
+      "paperId": "d91557927a1571efc5a1599a9c0889d7f1bff7a2"
+    },
+    {
+      "paperId": "31ccca997226af4b99dc26bda3e27417e94b1e46"
+    },
+    {
+      "paperId": "d2e7b6f7449bdb7e19f0969cbffb8497d9b70683"
+    },
+    {
+      "paperId": "378d7dc04a47ae3499e5effd8d57b6a08c2e55c7"
+    },
+    {
+      "paperId": "8401378e580e1255a9408444abe067c100bf275d"
+    },
+    {
+      "paperId": "9cf64985aec74ba1d63b9850fdc9c4fb8a220ad7"
+    },
+    {
+      "paperId": "96b2358dde12715409d67c2a76e7ce235fbb4c95"
+    },
+    {
+      "paperId": "cd4818046d3d6169aa7a7efb0ca43221470ebf33"
+    },
+    {
+      "paperId": "4810bab9fb540de057fec19088b17ffa7c0a7656"
+    },
+    {
+      "paperId": "2b87bdbb16f6d9b4f95279e91271fcae12d82264"
+    },
+    {
+      "paperId": "cb876aeee82e99b6fd0c7c620e1f39457c7f3f1f"
+    },
+    {
+      "paperId": "54b1c9a57e74c39fb2e08fb5e32ebfe03398ebb6"
+    },
+    {
+      "paperId": "97bccf906b2514ed6d38e0cc18d4a4d021210ec4"
+    },
+    {
+      "paperId": "739e61097eb0eb7753e4529ea8d2cd9ceb94eafc"
+    },
+    {
+      "paperId": "08c7ff2de03361ec09bedd96d0369a116d5fdb68"
+    },
+    {
+      "paperId": "107212a448b954f997984f3ed19a358bbab1a5ad"
+    },
+    {
+      "paperId": "47855c87a6bac13eb6e4fdd10753925786ce45b1"
+    }
+  ]
+}

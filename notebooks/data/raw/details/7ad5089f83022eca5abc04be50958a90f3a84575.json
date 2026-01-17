@@ -1,0 +1,52 @@
+{
+  "paperId": "7ad5089f83022eca5abc04be50958a90f3a84575",
+  "externalIds": {
+    "MAG": "2896136827",
+    "DOI": "10.1007/s12551-018-0465-9",
+    "CorpusId": 53013473,
+    "PubMed": "30338479"
+  },
+  "url": "https://www.semanticscholar.org/paper/7ad5089f83022eca5abc04be50958a90f3a84575",
+  "title": "Laser-induced breakdown spectroscopy (LIBS): a novel technology for identifying microbes causing infectious diseases",
+  "venue": "Biophysical Reviews",
+  "year": 2018,
+  "citationCount": 47,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s12551-018-0465-9.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12551-018-0465-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12551-018-0465-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144724781",
+      "name": "Vivek K. Singh"
+    },
+    {
+      "authorId": "108364189",
+      "name": "J. Sharma"
+    },
+    {
+      "authorId": "1964167",
+      "name": "A. K. Pathak*"
+    },
+    {
+      "authorId": "11669945",
+      "name": "C. Ghany"
+    },
+    {
+      "authorId": "34560861",
+      "name": "M. Gondal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

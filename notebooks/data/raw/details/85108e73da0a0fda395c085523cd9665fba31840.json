@@ -1,0 +1,62 @@
+{
+  "paperId": "85108e73da0a0fda395c085523cd9665fba31840",
+  "externalIds": {
+    "MAG": "2804309140",
+    "DOI": "10.1016/J.CATENA.2018.05.011",
+    "CorpusId": 135045178
+  },
+  "url": "https://www.semanticscholar.org/paper/85108e73da0a0fda395c085523cd9665fba31840",
+  "title": "A geostatistical sensor data fusion approach for delineating homogeneous management zones in Precision Agriculture",
+  "venue": "CATENA",
+  "year": 2018,
+  "citationCount": 55,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.CATENA.2018.05.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.CATENA.2018.05.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "153295899",
+      "name": "A. Castrignanò"
+    },
+    {
+      "authorId": "4572091",
+      "name": "G. Buttafuoco"
+    },
+    {
+      "authorId": "34562853",
+      "name": "R. Quarto"
+    },
+    {
+      "authorId": "2075761516",
+      "name": "D. Parisi"
+    },
+    {
+      "authorId": "2241977331",
+      "name": "R. A. V. Rossel"
+    },
+    {
+      "authorId": "34862512",
+      "name": "F. Terribile"
+    },
+    {
+      "authorId": "48587308",
+      "name": "G. Langella"
+    },
+    {
+      "authorId": "48058743",
+      "name": "A. Venezia"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

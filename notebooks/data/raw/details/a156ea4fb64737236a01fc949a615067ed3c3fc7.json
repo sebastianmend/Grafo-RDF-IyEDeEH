@@ -1,0 +1,52 @@
+{
+  "paperId": "a156ea4fb64737236a01fc949a615067ed3c3fc7",
+  "externalIds": {
+    "DBLP": "conf/idaacs/0002SISD19",
+    "MAG": "2977749899",
+    "DOI": "10.1109/IDAACS.2019.8924424",
+    "CorpusId": 204842975
+  },
+  "url": "https://www.semanticscholar.org/paper/a156ea4fb64737236a01fc949a615067ed3c3fc7",
+  "title": "Collaborative UAV-WSN System for Data Acquisition and Processing in Agriculture",
+  "venue": "International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IDAACS.2019.8924424?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IDAACS.2019.8924424, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "144752161",
+      "name": "D. Popescu"
+    },
+    {
+      "authorId": "1817173",
+      "name": "F. Stoican"
+    },
+    {
+      "authorId": "1758132",
+      "name": "L. Ichim"
+    },
+    {
+      "authorId": "2506962",
+      "name": "G. Stamatescu"
+    },
+    {
+      "authorId": "3164331",
+      "name": "Cristian Dragana"
+    }
+  ],
+  "abstract": "Integration of airborne robotic platforms with networks of intelligent sensor systems on the ground has recently emerged as a robust solution for data collection, analysis and control in various specialised applications. The paper presents a hierarchical structure based on the collaboration between a team of unmanned aerial vehicles and a structure of federated wireless sensor networks for crop monitoring in precision agriculture. Key advantages lay in online data collection and relaying to a central monitoring point while effectively managing network load and latency through optimised UAV trajectories and in situ data processing. The experiments were carried out at the Fundulea National Research Institute where different crops and methods are developed. The results demonstrate the fact that the collaborative UAV-WSN approach implemented in the Romanian project MUWI increases the performances both in precision agriculture and ecological agriculture.",
+  "references": null
+}

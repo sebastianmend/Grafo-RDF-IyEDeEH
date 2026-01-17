@@ -1,0 +1,125 @@
+{
+  "paperId": "d7f95567e32b2dc41ea29545c92f673579f8b990",
+  "externalIds": {
+    "MAG": "2973539856",
+    "PubMedCentral": "6751214",
+    "DOI": "10.1038/s41538-019-0048-6",
+    "CorpusId": 202641578,
+    "PubMed": "31552293"
+  },
+  "url": "https://www.semanticscholar.org/paper/d7f95567e32b2dc41ea29545c92f673579f8b990",
+  "title": "Global agricultural concept space: lightweight semantics for pragmatic interoperability",
+  "venue": "npj Science of Food",
+  "year": 2019,
+  "citationCount": 14,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41538-019-0048-6.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6751214, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145050949",
+      "name": "T. Baker"
+    },
+    {
+      "authorId": "47973914",
+      "name": "Brandon Whitehead"
+    },
+    {
+      "authorId": "3970846",
+      "name": "R. Musker"
+    },
+    {
+      "authorId": "1970116",
+      "name": "Johannes Keizer"
+    }
+  ],
+  "abstract": "Progress on research and innovation in food technology depends increasingly on the use of structured vocabularies—concept schemes, thesauri, and ontologies—for discovering and re-using a diversity of data sources. Here, we report on GACS Core, a concept scheme in the larger Global Agricultural Concept Space (GACS), which was formed by mapping between the most frequently used concepts of AGROVOC, CAB Thesaurus, and NAL Thesaurus and serves as a target for mapping near-equivalent concepts from other vocabularies. It provides globally unique identifiers, which can be used as keywords in bibliographic databases, tags for web content, for building lightweight facet schemes, and for annotating spreadsheets, databases, and image metadata using synonyms and variant labels in 25 languages. The minimal semantics of GACS allows terms defined with more precision in ontologies, or less precision in controlled vocabularies, to be linked together making it easier to discover and integrate semantically diverse data sources.",
+  "references": [
+    {
+      "paperId": "369118a62d4d923e4deb0d053b6377c4e55b7ec8"
+    },
+    {
+      "paperId": "72b892058711ed94a8f321a1b02d1406c293388f"
+    },
+    {
+      "paperId": "86f04b0acdfde62da8c1067c0a108304ab81393d"
+    },
+    {
+      "paperId": "56946b31215829ca4054f2bab5f6bc3af9327436"
+    },
+    {
+      "paperId": "61738e48788f7799f2f60b8059c8c5eaa49c4ee3"
+    },
+    {
+      "paperId": "a787dc6828349be5117d2bcbce7ba5fca90059ba"
+    },
+    {
+      "paperId": "3cc61bcdfd9f034d3f21f11280d2e5fc1f0ac4e3"
+    },
+    {
+      "paperId": "162727519b914905c788a1ad9766a2a104b6c1ae"
+    },
+    {
+      "paperId": "dcab1a97fe755e06dc85611a86fb50fc87f16fc5"
+    },
+    {
+      "paperId": "9fbe2cf38f5aadd7cbba984d693fea798347057f"
+    },
+    {
+      "paperId": "ca419ade7c60864fa66c7c90356361a2e1a7daab"
+    },
+    {
+      "paperId": "21d3ccc0a9893e60340d3cc7316680b4e349c024"
+    },
+    {
+      "paperId": "a411f6a0e6473137ac1a538f7cee65722fa3584f"
+    },
+    {
+      "paperId": "69cfb48c45b59243d60342b796dbac35e9efd6bc"
+    },
+    {
+      "paperId": "fdf8399eb9c7e68f3367365925e1795874d55ffc"
+    },
+    {
+      "paperId": "99038eb708a26c1075f21952dad009bf299f3116"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "0d5010e5e26e5d7752276340a84d5d618bcd77fe"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "06d1a98ecd2531c222da7f07768ff9cd8ff3a483"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "995b67ff5e04e7c079c586c7b3a02ac90f1a8b39"
+    },
+    {
+      "paperId": "4d78736aaa912afa6841c2e4b38449cb71f339a2"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

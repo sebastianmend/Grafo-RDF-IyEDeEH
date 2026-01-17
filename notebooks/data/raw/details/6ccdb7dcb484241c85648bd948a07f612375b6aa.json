@@ -1,0 +1,43 @@
+{
+  "paperId": "6ccdb7dcb484241c85648bd948a07f612375b6aa",
+  "externalIds": {
+    "DBLP": "conf/cwsn/ZhangXW19",
+    "MAG": "2989766639",
+    "DOI": "10.1007/978-981-15-1785-3_14",
+    "CorpusId": 214429318
+  },
+  "url": "https://www.semanticscholar.org/paper/6ccdb7dcb484241c85648bd948a07f612375b6aa",
+  "title": "Sensor-Cloud Based Precision Sprinkler Irrigation Management System",
+  "venue": "China Conference on Wireless Sensor Networks",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-15-1785-3_14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-15-1785-3_14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112128703",
+      "name": "Mingzheng Zhang"
+    },
+    {
+      "authorId": "2207233",
+      "name": "Shuming Xiong"
+    },
+    {
+      "authorId": "39060745",
+      "name": "Liang-min Wang"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

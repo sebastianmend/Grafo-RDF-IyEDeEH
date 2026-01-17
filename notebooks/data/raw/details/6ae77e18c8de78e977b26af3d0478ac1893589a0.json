@@ -1,0 +1,99 @@
+{
+  "paperId": "6ae77e18c8de78e977b26af3d0478ac1893589a0",
+  "externalIds": {
+    "MAG": "2921078094",
+    "DBLP": "journals/bmcbi/WrenDTNHMT19",
+    "PubMedCentral": "6419330",
+    "DOI": "10.1186/s12859-019-2618-7",
+    "CorpusId": 255791625,
+    "PubMed": "30871470"
+  },
+  "url": "https://www.semanticscholar.org/paper/6ae77e18c8de78e977b26af3d0478ac1893589a0",
+  "title": "Proceedings of the 2018 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference",
+  "venue": "BMC Bioinformatics",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-019-2618-7",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6419330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144750072",
+      "name": "J. Wren"
+    },
+    {
+      "authorId": "2630168",
+      "name": "R. J. Doerksen"
+    },
+    {
+      "authorId": "2229308",
+      "name": "Inimary T. Toby"
+    },
+    {
+      "authorId": "1681593",
+      "name": "B. Nanduri"
+    },
+    {
+      "authorId": "2064660",
+      "name": "R. Homayouni"
+    },
+    {
+      "authorId": "3199031",
+      "name": "Prashanti Manda"
+    },
+    {
+      "authorId": "4514610",
+      "name": "S. Thakkar"
+    }
+  ],
+  "abstract": "The XVth Annual MidSouth Computational Biology and Bioinformatics Society (MCBIOS XV) conference was held in Starkville, MS from March 29–31, 2018 at Mississippi State University (MSU) within the Mill Conference Center. MSU had previously hosted the conference (MCBIOS VI) in 2009. The theme of MCBIOS XV was “Genomics and Big Data”. The co-chairs and conference hosts were Drs. Bindu Nanduri, Andy Perkins, and Daniel G. Peterson from MSU. The program was co-chaired by Dr. Shraddha Thakkar from the National Center for Toxicological Research (NCTR) within the US Food and Drug Administration (FDA), Dr. Mary Yang, from University of Arkansas at Little Rock (UALR) and Dr. Prashanti Manda from University of North Carolina at Greensboro. \n \nThe conference was attended by 183 registered participants, of these, 73 registered participants were in the professional category, while 13 were postdoctoral fellows and 97 were student participants. A total of 157 abstracts were submitted for MCBIOS XV, including 65 oral presentations and 92 poster presentations at the meeting. There were nine breakout sessions conducted during the meeting. Each breakout session included a presentation by a featured speaker, a renowned scientist in the topic of that session, followed by four additional presentations in that area. Dr. Cesar M. Compadre, from University of Arkansas for Medical Sciences served as the finance coordinator for the conference. Dr. Ping Gong, at the US Army Engineer Research and Development Center, Vicksburg served as the coordinator of Young Scientist Research Excellence Award. Dr. George Popescu from the Institute of Genomics, Biocomputing and Biotechnology (IGBB) of MSU served as the poster session coordinator, and Dr. William S. Sanders from The Jackson Laboratory served as the workshop coordinator. \n \nFor 2019–20, Dr. Weida Tong, Director of Division of Bioinformatics and Biostatics from NCTR/FDA was chosen as the President-Elect and Dr. Ramin Homayouni from University of Memphis as the President. \n \n \n \n \nKeynote speakers for MCBIOS 2018 \n \n \nKeynote Session I: “Next-Gen Data Science”, Russ Wolfinger, Ph.D., Director of Scientific Discovery and Genomics, JMP Life Sciences, SAS Institute, Cary, NC \n \n \nKeynote Session II: “Real World Data and Precision Medicine: Treatment Selection and Dose Optimization Strategies”, Lawrence J. Lesko Ph.D., F.C.P., University of Florida, Orlando, FL \n \n \nKeynote Session III: “No-Boundary Thinking: Defining Problems So Their Solutions Matter”, Steve Jennings, Ph.D., UALR \n \n \nKeynote Session IV: “Informatics Tools for Big Biologicals and Small Drug Molecules”, William J Welsh, Ph.D., Norman H. Edelman Professor in Bioinformatics, Rutgers University, New Brunswick, NJ \n \n \nKeynote Session V: “A decade of MAQC effort and its contribution to our understanding of high-throughput genomics technologies”, Weida Tong, Ph.D., Director, Division of Bioinformatics and Biostatistics, NCTR/FDA \n \n \n \n \n \n \nThe conference program included three workshops: \n \n \nWorkshop I: “Advanced Data Analytics using JMP Genomics”, Wenjun Bao, Ph.D., JMP Life Sciences, SAS Institute, Cary, NC. \n \n \nWorkshop II: “Career Development Workshop for Young Scientist”, Inimary Toby, Ph.D., University of Dallas, Dallas, TX. \n \n \nWorkshop III: “MCBIOS and No-Boundary Thinking Joint Bioinformatics Research workshop”. \n \nSession chair - Steve Jennings, Ph.D., UALR. \n \n \nPresentations: \n \n“Encoding biomedical knowledge using hetnets”, Daniel Himmelstein, Ph.D., University of Pennsylvania, Philadelphia, PN. \n \n“Microbial interactions and microbe-host interactions”, Hongmei Jiang Ph.D., Northwestern University, Evanston, IL. \n \n“Evolution as a metaphor for No Boundary Thinking”, Scott M. Williams, Ph.D., Case Western Reserve University, Cleveland, Ohio. \n \n \nPanel Discussion: \n \n \nJoan Peckham, Ph.D., University of Rhode Island \n \n \nXiuzhen Huang, Ph.D., Arkansas State University \n \n \nScott M. Williams, Ph.D., Case Western Reserve University \n \n \nHongmei Jiang, Ph.D., Northwestern University \n \n \nDaniel Himmelstein, Ph.D., University of Pennsylvania \n \nIn addition to the workshops, MCBIOS provided assistance to students in preparing their resume. A one-on-one resume clinic was conducted by Gladys Awosemo, HRP, Baylor Scott and White Health, TX. \n \nBreakout Session I: Plant Omics I. \n \nSession Chair – Sorina C. Popescu, Ph.D., Assistant Professor, MSU. \n \nFeatured speaker: Marilyn Warburton, Ph.D., United States Department of Agriculture, Agriculture Research Services, MS, “A pathway-based method to interpret GWAS results”. \n \nBreakout Session II: Next generation tools for environment and health research. \n \nSession Chair and featured speaker: Natalia Reyero, Ph.D., US Army Engineer Research and Development Center, Vicksburg MS, “Next Generation Tools for Environmental Research”. \n \nBreakout Session III: Drug Discovery and Precision Medicine. \n \nSession Chair and featured speaker: Robert J. Doerksen, Ph.D., University of Mississippi (UM), Oxford, MS, “Protein structure-based virtual screening: deep learning for precision medicine”. \n \nBreakout Session IV: Breakout Session IV: Plant Omics II. \n \nSession Chair – Sorina C. Popescu, Ph.D., MSU. \n \nFeatured Speaker: Tessa Burch-Smith, Ph.D., University of Tennessee, Knoxville, TN, \n \n“Focused ion beam-scanning electron microscopy for three-dimensional modelling of cellular ultrastructure”. \n \nBreakout Session V: Transcriptomics and Genome Sequencing. \n \nSession Chair and featured speaker: Brian Counterman, Ph.D., MSU, “Patternize: an R package for color pattern variation”. \n \nBreakout Session VI: Big Data and Risk Assessment. \n \nSession Chair – Minjun Chen, Ph.D., NCTR/FDA. \n \nFeatured Speaker: William Mattes, Ph.D., NCTR/FDA, “Systems Biology and Big Data: Little Mitochondria as a Big Example”. \n \nBreakout Session VII: Genomics and Proteomics application. \n \nSession Chair - Zhichao Liu, Ph.D., NCTR/FDA. \n \nFeatured Speaker: Rakesh Kaundal, Ph.D., Utah State University, Logan, UT, “Complete genome sequence of Pythium brassicum P1, an oomycete root pathogen: insights into its host specificity to Brassicaceae”. \n \nBreakout Session VIII: Genomics and Infectious Disease. \n \nSession Chair and Featured speaker: Stephen Pruett, Ph.D., MSU, “Machine Learning Analysis of the Relationship between Changes in Immunological Parameters and Changes in Resistance to Listeria monocytogenes: A New Approach for Risk Assessment and Systems Immunology”. \n \nBreakout Session IX: MCBIOS Group Projects. \n \nShraddha Thakkar, Ph.D., NCTR/FDA. \n \nWilliam Sanders, Ph.D., IT Research Cyberinfrastructure, The Jackson Laboratory, Bar Harbor, ME. \n \n \n \n \n \nBest Paper Award, MCBIOS 2018: Phillip Berg et al., “Evaluation of Linear Models and Missing Value Imputation for the Analysis of Peptide-Centric Proteomics” [1]. \n \nBest Paper Runner-up, MCBIOS 2018: Bohu Pan et al., “Similarities and differences between variants called with human reference genome HG19 or HG38” [2]. \n \nThis was the 2nd year for “MCBIOS Young Scientist Excellence Award” awards to recognize students and postdoctoral fellows that exhibit scientific excellence in the field of Bioinformatics. Student and postdoctoral fellows went through a rigorous award application process with both internal and external judges. The top five candidates were selected to present during the opening session on March 29th. \n \nTo compete, applicants submitted an extended abstract with a description of the innovation of their research and their specific contribution to the work presented, from which the quality and impact of the research was judged. Initiative in expanding their skills and bringing multidisciplinary talent to their project was an important consideration for selection for an oral presentation, and the quality of the presentation during the plenary session was the primary consideration for award. Additional evaluation criteria included creativity, dedication and multidisciplinary contribution. This award was supported by the FDA grant to MCBIOS (5R13FD005931–03) and JMP Life Sciences. \n \nMCBIOS young scientist excellence award \n2018 Post-doctoral winners \nFirst Place: Sundar Thangapandian, Ph.D., University of Illinois Urbana-Champaign, Urbana, IL. \n \n“Quantitative Target-specific Toxicity Prediction Model (QTTPM): A Novel Computational Toxicology Approach Integrating Molecular Dynamics Simulation and Machine Learning”. \n \nSecond Place: Brian Walker, Ph.D., UALR. \n \n“Synthesis of xanthine derivatives for the inhibition of PARG”. \n \nThird Place: Darshan Mehta, Ph.D., NCTR/FDA. \n \n“Mining pharmacogenomic information from drug labeling using FDALabel database for advancing precision medicine”.",
+  "references": [
+    {
+      "paperId": "e88dc76392c96eb9af653949fb2fe26d95305af0"
+    },
+    {
+      "paperId": "e511f2f748f6a2be912dfaeb559abd021091cafa"
+    },
+    {
+      "paperId": "0a1b02047b7a923f02fd80a3a143674247c813a1"
+    },
+    {
+      "paperId": "2610607dacc3bc13ab2a0ede20e8deb18cfd6e63"
+    },
+    {
+      "paperId": "12feeac23ff28ec3bde5ac6013fe41881cd37f12"
+    },
+    {
+      "paperId": "0b8433edf7c3bb4a7a65091c6d55dde78c89fd02"
+    },
+    {
+      "paperId": "6b0ba4e09877d41beffa608b19391d98dda5f9b2"
+    },
+    {
+      "paperId": "c0d94fa9a77220c2f106dac0ee2fbb7857062c07"
+    },
+    {
+      "paperId": "178e1e26f779f7d8fc6319beca6ab8ea76263831"
+    },
+    {
+      "paperId": "578d39dbc141bf5430b0919845e4b768acc5740d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

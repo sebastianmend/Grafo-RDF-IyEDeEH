@@ -1,0 +1,38 @@
+{
+  "paperId": "db2783813c1071e47f55385454f13cc55dc8fb16",
+  "externalIds": {
+    "MAG": "3007554060",
+    "DOI": "10.1109/IC3I44769.2018.9007294",
+    "CorpusId": 211297330
+  },
+  "url": "https://www.semanticscholar.org/paper/db2783813c1071e47f55385454f13cc55dc8fb16",
+  "title": "IOT Based Precision Horticulture in North India",
+  "venue": "International Conferences on Contemporary Computing and Informatics",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IC3I44769.2018.9007294?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IC3I44769.2018.9007294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1505575256",
+      "name": "B. Kumari"
+    },
+    {
+      "authorId": "145949596",
+      "name": "Ashwni Kumar"
+    }
+  ],
+  "abstract": "Horticulture incorporates a major impact on economy of the country. It is a subdivision of agriculture which deals with plant gardening under controlled environment. Heap of analysis has been dole out in automating the irrigation system by using wireless device and mobile computing. Conjointly analysis has been done in applying machine learning in Horticultural system too. Machine to Machine (M2M) communication is a growing technology that permits devices, objects to speak among one another and send knowledge to Server or Cloud through the Core Network. Therefore, consequently we tend to have developed a Brainy IOT primarily based machine-controlled Irrigation system. Wherever device knowledge is touching wet soil, temperature is captured and consequently machine learning algorithmic is deployed for analysing the device knowledge for prediction towards irrigating the soil with water or switching ON/OFF fan to control temperature. This can be a totally machine-controlled wherever devices communicate among themselves and apply the intelligence in real time monitoring & analysis. Making data available online through Cloud to Scientists to remotely make smart decisions on Precision Horticulture. System has been developed using low value embedded devices like Raspberry Pi3, Arduino and successfully implemented in Delhi.",
+  "references": null
+}

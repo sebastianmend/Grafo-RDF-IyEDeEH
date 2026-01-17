@@ -1,0 +1,174 @@
+{
+  "paperId": "5a2a3c413f5da7711175f8fad8e46048b42f8138",
+  "externalIds": {
+    "MAG": "2921421334",
+    "DOI": "10.1109/ISSCC.2019.8662463",
+    "CorpusId": 71151343
+  },
+  "url": "https://www.semanticscholar.org/paper/5a2a3c413f5da7711175f8fad8e46048b42f8138",
+  "title": "2.4 A Distributed Autonomous and Collaborative Multi-Robot System Featuring a Low-Power Robot SoC in 22nm CMOS for Integrated Battery-Powered Minibots",
+  "venue": "IEEE International Solid-State Circuits Conference",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISSCC.2019.8662463?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISSCC.2019.8662463, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2108558",
+      "name": "V. Honkote"
+    },
+    {
+      "authorId": "38890993",
+      "name": "D. Kurian"
+    },
+    {
+      "authorId": "144702291",
+      "name": "S. Muthukumar"
+    },
+    {
+      "authorId": "152597498",
+      "name": "Dibyendu Ghosh"
+    },
+    {
+      "authorId": "49000184",
+      "name": "Satish Yada"
+    },
+    {
+      "authorId": "2055618295",
+      "name": "Kartik Jain"
+    },
+    {
+      "authorId": "101184771",
+      "name": "Bradley Jackson"
+    },
+    {
+      "authorId": "1746469",
+      "name": "Ilya V. Klotchkov"
+    },
+    {
+      "authorId": "2795921",
+      "name": "Mallikarjuna Rao Nimmagadda"
+    },
+    {
+      "authorId": "80563412",
+      "name": "Shreela Dattawadkar"
+    },
+    {
+      "authorId": "2392645013",
+      "name": "Pranjali Deshmukh"
+    },
+    {
+      "authorId": "2110760279",
+      "name": "Ankit Gupta"
+    },
+    {
+      "authorId": "80214331",
+      "name": "Jaykant Timbadiya"
+    },
+    {
+      "authorId": "2392645153",
+      "name": "Ravi Pali"
+    },
+    {
+      "authorId": "5882944",
+      "name": "Karthik Narayanan"
+    },
+    {
+      "authorId": "80071930",
+      "name": "Saksham Soni"
+    },
+    {
+      "authorId": "1819217323",
+      "name": "Saransh Chhabra"
+    },
+    {
+      "authorId": "2392646263",
+      "name": "Praveen Dhama"
+    },
+    {
+      "authorId": "2392646962",
+      "name": "N. Sreenivasulu"
+    },
+    {
+      "authorId": "81275979",
+      "name": "Jisna Kollikunnel"
+    },
+    {
+      "authorId": "2357281996",
+      "name": "Sureshbabu Kadavakollu"
+    },
+    {
+      "authorId": "2392646695",
+      "name": "Vijay Deepak Sivaraj"
+    },
+    {
+      "authorId": "2094611",
+      "name": "Paolo A. Aseron"
+    },
+    {
+      "authorId": "38703276",
+      "name": "Leonid Azarenkov"
+    },
+    {
+      "authorId": "2392646931",
+      "name": "Nancy Robinson"
+    },
+    {
+      "authorId": "2347350209",
+      "name": "Arun Radhakrishnan"
+    },
+    {
+      "authorId": "2285065857",
+      "name": "Mikhail J. Moiseev"
+    },
+    {
+      "authorId": "49773022",
+      "name": "G. Nandakumar"
+    },
+    {
+      "authorId": "2392645150",
+      "name": "Akhila Madhukumar"
+    },
+    {
+      "authorId": "2096038613",
+      "name": "Roman Popov"
+    },
+    {
+      "authorId": "1643842608",
+      "name": "K. P. Sahu"
+    },
+    {
+      "authorId": "2392665156",
+      "name": "Ramesh Peguvandla"
+    },
+    {
+      "authorId": "2392707570",
+      "name": "Alberto Del Rio Ruiz"
+    },
+    {
+      "authorId": "29331157",
+      "name": "Mukesh Bhartiya"
+    },
+    {
+      "authorId": "32605653",
+      "name": "Anuradha Srinivasan"
+    },
+    {
+      "authorId": "2285065772",
+      "name": "Vivek De"
+    }
+  ],
+  "abstract": "Multi-robot systems, working collectively to accomplish complex missions beyond the capability of a single robot, are required for a wide range of applications such as search-and-rescue, precision agriculture and industrial automation. The collective behavior of a multi-robot system is governed by its continuous interactions with the physical environment, inter-robot information exchange, and intelligent decision making. Energy-efficient performance, size, weight and scalability of the key sensor, compute, communication, control and actuator components [1–3] of the individual robot platform are critical for realizing efficient advanced systems. In this paper, we demonstrate a distributed, autonomous and collaborative multi-robot system featuring integrated, battery-powered, crawling and jumping minibots for an example search-and-rescue application. We present a 16 mm2 low-power Robot SoC in 22 nm CMOS that is integrated in the cm-scale minibot platform along with audiovisual and motion sensors, battery, low-power wireless communication and motion actuator components (Fig. 2.4.7).",
+  "references": null
+}

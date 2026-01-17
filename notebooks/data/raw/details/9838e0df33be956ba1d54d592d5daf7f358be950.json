@@ -1,0 +1,46 @@
+{
+  "paperId": "9838e0df33be956ba1d54d592d5daf7f358be950",
+  "externalIds": {
+    "MAG": "2947429832",
+    "DOI": "10.22616/ERDEV2019.18.N290",
+    "CorpusId": 189991080
+  },
+  "url": "https://www.semanticscholar.org/paper/9838e0df33be956ba1d54d592d5daf7f358be950",
+  "title": "Correlation analysis between vegetation index (NDVI) and canopy coverage (TOC) based on remote sensing by using UAV",
+  "venue": "Engineering for Rural Development",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.22616/erdev2019.18.n290",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.22616/ERDEV2019.18.N290?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22616/ERDEV2019.18.N290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "101100343",
+      "name": "S. Pascuzzi"
+    },
+    {
+      "authorId": "97466335",
+      "name": "A. S. Anifantis"
+    },
+    {
+      "authorId": "48697132",
+      "name": "F. Santoro"
+    },
+    {
+      "authorId": "2073794988",
+      "name": "Vincenzo Cimino"
+    }
+  ],
+  "abstract": "Remote sensing in precision agriculture that is achieved by using Unmanned Aerial Vehicles (UAV) allows us to measure both the plant vigour and the water stress effect on the vegetation. It is possible to survey wide areas in relatively short times (e.g., 5-10 min/ha) with a ground resolution of 40mm/pixel (GSD). Ground Instantaneous Field of View (GIFoV) areas are collected and rendered to prescription maps (tiling and 2D orthorectification): these show the overall condition of the crops and highlight the areas subjected to water or nutritional stress. Identification of the water stressed areas allows the technician/operator to assess the spatial variability of the crop (simple ratio) first, and then conducting field interventions/experiments, such as fertilization plans, weeding, parasite/pathogen management strategies and so on. The aim of this paper is to study the maize crop health condition by means of the remote sensing technique using UAV through the study of the relation between NDVI and TOC. Remote sensing performed at the time (18/06/2018) led to the acquisition of the basic photograms used for building prescription maps meaningful to the agronomic evaluation of the crop condition and progress. The canopy reflectance data (NDVI) of the maize crop were statistically analysed via the Student’s t-test. Although the agronomic inputs were uniformly distributed, including the strict genetic basis of the hybrid used, we can infer that such spatial variability is ascribable to the physic-chemical characteristics of the soil, its texture and, possibly, a surfeit of carbonates that compromises the availability of nutrients.",
+  "references": null
+}

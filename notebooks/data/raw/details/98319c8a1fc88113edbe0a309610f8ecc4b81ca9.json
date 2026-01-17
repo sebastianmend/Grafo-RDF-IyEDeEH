@@ -1,0 +1,91 @@
+{
+  "paperId": "98319c8a1fc88113edbe0a309610f8ecc4b81ca9",
+  "externalIds": {
+    "MAG": "2794242089",
+    "DBLP": "journals/cluster/LiQLCLGYYYYQLWX19",
+    "DOI": "10.1007/s10586-018-2482-7",
+    "CorpusId": 4338723
+  },
+  "url": "https://www.semanticscholar.org/paper/98319c8a1fc88113edbe0a309610f8ecc4b81ca9",
+  "title": "The recognition of rice images by UAV based on capsule network",
+  "venue": "Cluster Computing",
+  "year": 2018,
+  "citationCount": 58,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10586-018-2482-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10586-018-2482-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2116612202",
+      "name": "Yu Li"
+    },
+    {
+      "authorId": "35987574",
+      "name": "Meiyu Qian"
+    },
+    {
+      "authorId": "35822510",
+      "name": "Pengfeng Liu"
+    },
+    {
+      "authorId": "2054915962",
+      "name": "Qian Cai"
+    },
+    {
+      "authorId": "2108750627",
+      "name": "Xiaoying Li"
+    },
+    {
+      "authorId": "2117223896",
+      "name": "Junwen Guo"
+    },
+    {
+      "authorId": "2116757280",
+      "name": "Huan Yan"
+    },
+    {
+      "authorId": "2041127060",
+      "name": "Fengyuan Yu"
+    },
+    {
+      "authorId": "2057748450",
+      "name": "Kun Yuan"
+    },
+    {
+      "authorId": "2117885034",
+      "name": "Juan Yu"
+    },
+    {
+      "authorId": "27023513",
+      "name": "Luman Qin"
+    },
+    {
+      "authorId": "2135910998",
+      "name": "Hongxing Liu"
+    },
+    {
+      "authorId": "2110050951",
+      "name": "Wanqi Wu"
+    },
+    {
+      "authorId": "40801082",
+      "name": "Peiyun Xiao"
+    },
+    {
+      "authorId": "2112253354",
+      "name": "Ziwei Zhou"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

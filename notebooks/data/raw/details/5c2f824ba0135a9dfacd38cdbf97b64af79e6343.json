@@ -1,0 +1,44 @@
+{
+  "paperId": "5c2f824ba0135a9dfacd38cdbf97b64af79e6343",
+  "externalIds": {
+    "DBLP": "conf/dcoss/VlasceanuPI19",
+    "MAG": "2969940858",
+    "DOI": "10.1109/DCOSS.2019.00044",
+    "CorpusId": 201068537
+  },
+  "url": "https://www.semanticscholar.org/paper/5c2f824ba0135a9dfacd38cdbf97b64af79e6343",
+  "title": "Aerial Robotic Team for Complex Monitoring in Precision Agriculture",
+  "venue": "International Conference on Distributed Computing in Sensor Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DCOSS.2019.00044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DCOSS.2019.00044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9160084",
+      "name": "Emilian Vlasceanu"
+    },
+    {
+      "authorId": "144752161",
+      "name": "D. Popescu"
+    },
+    {
+      "authorId": "1758132",
+      "name": "L. Ichim"
+    }
+  ],
+  "abstract": "The paper presents an unmanned aerial system (UAS), based on multi-UAV (unmanned aerial vehicle) architecture, integrated in Internet, able to collect data from ground wireless sensor networks (WSNs), deployed on large areas for prevention agriculture. The contributions were focused on the way of mission planning and data collection: navigation algorithms, transfer of flight trajectory in UAS, storing trajectories to UAS ground part, and data transfer between WSN and UAV. The experimental results, focusing on communication performances, prove the real time data collection and high accuracy, both in simulation environment and real experiments on crop monitoring.",
+  "references": null
+}

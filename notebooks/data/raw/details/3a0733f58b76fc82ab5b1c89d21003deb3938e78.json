@@ -1,0 +1,192 @@
+{
+  "paperId": "3a0733f58b76fc82ab5b1c89d21003deb3938e78",
+  "externalIds": {
+    "MAG": "2891437997",
+    "DOI": "10.5539/JAS.V10N10P40",
+    "CorpusId": 58888034
+  },
+  "url": "https://www.semanticscholar.org/paper/3a0733f58b76fc82ab5b1c89d21003deb3938e78",
+  "title": "Variable-Rate Application on Fertilizer Use in Cotton Production",
+  "venue": "Journal of Agricultural Sciences",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5539/jas.v10n10p40",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5539/JAS.V10N10P40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5539/JAS.V10N10P40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46629409",
+      "name": "N. Thompson"
+    },
+    {
+      "authorId": "144573952",
+      "name": "J. Larson"
+    },
+    {
+      "authorId": "2487796",
+      "name": "Margarita Velandia"
+    },
+    {
+      "authorId": "20883446",
+      "name": "D. Lambert"
+    },
+    {
+      "authorId": "4281393",
+      "name": "B. English"
+    }
+  ],
+  "abstract": "Precision agriculture technologies are increasingly important in cotton production because input prices continue to rise. Farmers increase input efficiency using precision agriculture technologies by adjusting inputs to match soil fertility and plant nutrition requirements. This research examines the factors affecting changes in fertilizer use following variable-rate fertilizer application in cotton production. Data from a 2009 survey of cotton producers in 12 states of the United States were used in the analysis. Farmers who used precision soil sampling, planted larger cotton area, relied on other farmers for information about PA, grew picker cotton, and had higher household income were more likely to decrease fertilizer application with VRT. Results from this analysis are useful to farmers and policy makers interested in reducing fertilizer use in the face of rising fertilizer prices and growing concerns about the environmental impacts of farming.",
+  "references": [
+    {
+      "paperId": "5794f0005ab9830224a6222c44ee90d85d3339c5"
+    },
+    {
+      "paperId": "6c21b20e9d96acc44e3a6ec6ca0542355e2a2565"
+    },
+    {
+      "paperId": "9a33560ec685ff2253f9e1c98a25bff59f086b04"
+    },
+    {
+      "paperId": "344eaf86183a9650804903eb52b8db107a2c62ad"
+    },
+    {
+      "paperId": "a5f3b92662ca509ec310fb0c7a9845173a5d88c4"
+    },
+    {
+      "paperId": "2d6ceefc2e7a0f2cd53ea1b4b516cd5221ec2fbd"
+    },
+    {
+      "paperId": "f1defcc9f4db0a15cc051201a00ea4879453b348"
+    },
+    {
+      "paperId": "daf467c12365581e485e313a4fdcf1acaeb904bf"
+    },
+    {
+      "paperId": "0deb9899813283f64fdb300e6b2493dc2b7c37bd"
+    },
+    {
+      "paperId": "abffa765ea815e75db29f7c37ca119f879075128"
+    },
+    {
+      "paperId": "48b713b452a3bbee6655cdee259726c749a0a3e9"
+    },
+    {
+      "paperId": "a3434b82110009361419a81806f02b8741ae5a2f"
+    },
+    {
+      "paperId": "e87691f4babaf79c1e286f7d3d008b135578af61"
+    },
+    {
+      "paperId": "c00ab6a6608d24249bab23012396b2831f07beb2"
+    },
+    {
+      "paperId": "ad2d11eee3e85aa057ba295d6b9160ff35a2eb6e"
+    },
+    {
+      "paperId": "d19c2a79a7cc7e12835a669769879d7ca9662b9e"
+    },
+    {
+      "paperId": "e88bd71059c64b1dac601981c439aa9708993abf"
+    },
+    {
+      "paperId": "40e3c5d75c476da96c8f20dd45fa6d4deb306f4e"
+    },
+    {
+      "paperId": "8277bc093d5dc58dc1a2f21f508e27fe2de84f94"
+    },
+    {
+      "paperId": "8f24558a6e40db7e8c591c7c5c9257ce88769411"
+    },
+    {
+      "paperId": "4f6ae31cbb10dc54ed86cb10cf456b9dec0e29a2"
+    },
+    {
+      "paperId": "2e08cd25d36a3595852ce9584e34df6e2424c6af"
+    },
+    {
+      "paperId": "a562b6f0a349ca21824c490dfdad5b2285a693c7"
+    },
+    {
+      "paperId": "99c2e15a49b855e0d503f65a6b8894962cddcd3b"
+    },
+    {
+      "paperId": "f338aa41833e7c2b870ba0d9f6d1ecf795855790"
+    },
+    {
+      "paperId": "e3f57d012107d72ffaf0ac715b976482b1dec993"
+    },
+    {
+      "paperId": "6f1e699f2c546c29228122efc5330770cc8a7381"
+    },
+    {
+      "paperId": "5eef0679ea02c85037d9ccdfab9530530b69cc60"
+    },
+    {
+      "paperId": "406e0c041dd00b8c1f535e42cc9f91ad7d07cebd"
+    },
+    {
+      "paperId": "3c47767514dc78d1076acf82ce154e0989728e88"
+    },
+    {
+      "paperId": "af69fc2b72bbe1f209f5b07b7c2eb0abb178f3b7"
+    },
+    {
+      "paperId": "180d872daab62fe3d2ab675765849e0912cac0f1"
+    },
+    {
+      "paperId": "7b6be34d2afac63165adea0a6556d8c54467c9a8"
+    },
+    {
+      "paperId": "bda2c2932e8dd6453793178cbce896725c0799c7"
+    },
+    {
+      "paperId": "8bdb8bfca3a934a70efdc9b018342788dca9104b"
+    },
+    {
+      "paperId": "cb84352d67f23c29440eefe0f0e9cf17984e12ef"
+    },
+    {
+      "paperId": "754289311b9ae3ad61a46c0ea49649268445c867"
+    },
+    {
+      "paperId": "3e7eb2b2bea56a2d739347c8c7b2a501b2a2eb42"
+    },
+    {
+      "paperId": "55d979fa5aa13646d7eca05f5a638b4e685de4fe"
+    },
+    {
+      "paperId": "6311a6238ffee28b0dfb9d7e668ceb40b0bcc39c"
+    },
+    {
+      "paperId": "3bf05b64b7f9c42a4019c7b501948dc6f033f176"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

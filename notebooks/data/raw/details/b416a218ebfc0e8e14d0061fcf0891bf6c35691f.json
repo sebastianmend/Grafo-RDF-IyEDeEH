@@ -1,0 +1,88 @@
+{
+  "paperId": "b416a218ebfc0e8e14d0061fcf0891bf6c35691f",
+  "externalIds": {
+    "MAG": "2963719222",
+    "DBLP": "conf/igarss/WrightFFMTTNLFG19",
+    "DOI": "10.1117/12.2530821",
+    "CorpusId": 199829988
+  },
+  "url": "https://www.semanticscholar.org/paper/b416a218ebfc0e8e14d0061fcf0891bf6c35691f",
+  "title": "HyTI: Thermal Hyperspectral Imaging from A Cubesat Platform",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=4369&context=smallsat",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2530821?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2530821, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144766652",
+      "name": "R. Wright"
+    },
+    {
+      "authorId": "1410753331",
+      "name": "C. Ferrari-Wong"
+    },
+    {
+      "authorId": "1414095981",
+      "name": "A. Flom"
+    },
+    {
+      "authorId": "3314223",
+      "name": "J. Mecikalski"
+    },
+    {
+      "authorId": "2650989",
+      "name": "P. Thenkabail"
+    },
+    {
+      "authorId": "2172546339",
+      "name": "The HyTI Team"
+    },
+    {
+      "authorId": "145179763",
+      "name": "M. Nunes"
+    },
+    {
+      "authorId": "1960750",
+      "name": "P. Lucey"
+    },
+    {
+      "authorId": "49018546",
+      "name": "L. Flynn"
+    },
+    {
+      "authorId": "2055859442",
+      "name": "T. George"
+    },
+    {
+      "authorId": "5121267",
+      "name": "S. Gunapala"
+    },
+    {
+      "authorId": "30949062",
+      "name": "D. Ting"
+    },
+    {
+      "authorId": "97894192",
+      "name": "Sir Rafol"
+    },
+    {
+      "authorId": "7960382",
+      "name": "A. Soibel"
+    }
+  ],
+  "abstract": "The HyTI (Hyperspectral Thermal Imager) mission, funded by NASA’s Earth Science Technology Office InVEST (In-Space Validation of Earth Science Technologies) program, will demonstrate how high spectral and spatial long-wave infrared image data can be acquired from a 6U CubeSat platform. The mission will use a spatially modulated interferometric imaging technique to produce spectro-radiometrically calibrated image cubes, with 25 channels between 8-10.7 μm, at a ground sample distance of ~70 m. The HyTI performance model indicates narrow band NEΔTs of <0.3 K. The small form factor of HyTI is made possible via the use of a no-moving-parts Fabry-Perot interferometer, and JPL’s cryogenically-cooled BIRD FPA technology. Launch is scheduled for no earlier than October 2020. The value of HyTI to Earth scientists will be demonstrated via on-board processing of the raw instrument data to generate L1 and L2 products, with a focus on rapid delivery of precision agriculture metrics.",
+  "references": null
+}

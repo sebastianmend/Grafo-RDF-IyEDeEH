@@ -1,0 +1,38 @@
+{
+  "paperId": "dfe61772e54a913c80993a6528dae1ac115e8076",
+  "externalIds": {
+    "MAG": "2901786045",
+    "DOI": "10.15302/J-FASE-2018246",
+    "CorpusId": 91377027
+  },
+  "url": "https://www.semanticscholar.org/paper/dfe61772e54a913c80993a6528dae1ac115e8076",
+  "title": "Highlights in precision agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://journal.hep.com.cn/fase/EN/article/downloadArticleFile.do?attachType=PDF&id=23777",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15302/J-FASE-2018246?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15302/J-FASE-2018246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "143611766",
+      "name": "Chunjiang Zhao"
+    },
+    {
+      "authorId": "1792073",
+      "name": "Minzan Li"
+    }
+  ],
+  "abstract": "Precision agriculture, which can be also called precision farming, may be defined as a management strategy that uses information and communication technologies (ICT) to bring data from multiple sources to bear on decisions associated with crop production. As the introduction of this new technological and industrial revolution proceeds, biotechnology, new materials and nanotechnology, Internet of things (IoT), and new energy technologies have been infiltrating rapidly into agriculture. Advanced manufacturing of agricultural equipment, agricultural big data, and agricultural robots are being adopted by the industry and are gradually being introduced to all fields of production agriculture. Smart agriculture, as the upgrade of precision agriculture is often called, has developed a strong momentum in terms of research, development, commercialization and adoption. Data acquisition is the first step in implementing precision agriculture and remote sensing can provide an important and convenient method for acquisition of data. Chenghai YANG provides an overview of commercially available high resolution satellite sensors that have been used or have potential for precision agriculture. The applications of these sensors in precision agriculture are reviewed and examples based on the application of the author’s work are provided to illustrate how high resolution satellite imagery has been used for crop identification, crop yield variability mapping and pest management. Multispectral and hyperspectral imaging are other powerful tools for acquisition data in precision agriculture. Yong ZHANG and Naiqian ZHANG review applications of imaging technologies in high-throughput phenotyping, the applications of imaging technologies in detecting and measuring plant morphological, physiological, and pathological traits, and discuss their advantages and limitations. Du-Han KIM et al. describe a real-time onion disease monitoring system using image acquisition that consists of a motorized driving system and a PTZ (pan, tilt and zoom) camera to take images of plants which, after image processing and analysis, can identify the disease areas of onion. Yongjun DING et al. introduce procedures for the extraction of hyperspectral images to detect immature green citrus fruit. After taking the hyperspectral images within citrus trees under natural illumination conditions, the successive projections algorithm (SPA) selects characteristic wavebands and three slope parameters which are used to identify the green citrus fruit. Construction of a detection model according to the Grey Level Co-occurrence Matrix (GLCM) identifies green fruit by analyzing texture features of separate areas. Results show that the developed algorithm has a great potential for identifying immature green citrus for early yield estimation. Data modelling and interpretion is also an important step in precision agriculture. Yuxin MIAO et al. propose an integrated approach to site-specific management zone delineation. There are three basic approaches to management zone delineation using soil and/or landscape properties, yield information, or both sources of information. Authors suggest an integrated approach to delineate site-specific management zones using relative elevation, organic matter, slope, electrical conductivity, yield spatial trend maps, and yield temporal stability maps. It is concluded that the integrated approach combining soil, landscape and yield spatial-temporal variability information can overcome the weaknesses of approaches using only soil, landscape or yield information, and is more robust for",
+  "references": []
+}

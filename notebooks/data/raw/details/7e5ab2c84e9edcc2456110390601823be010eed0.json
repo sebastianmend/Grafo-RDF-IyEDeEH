@@ -1,0 +1,60 @@
+{
+  "paperId": "7e5ab2c84e9edcc2456110390601823be010eed0",
+  "externalIds": {
+    "MAG": "2972824194",
+    "DBLP": "conf/fabulous/MarcuVDFSBA19",
+    "DOI": "10.1007/978-3-030-23976-3_13",
+    "CorpusId": 202639994
+  },
+  "url": "https://www.semanticscholar.org/paper/7e5ab2c84e9edcc2456110390601823be010eed0",
+  "title": "Overview of IoT Basic Platforms for Precision Agriculture",
+  "venue": "International Conference on Future Access Enablers for Ubiquitous and Intelligent Infrastructures",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-23976-3_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-23976-3_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "40503926",
+      "name": "I. Marcu"
+    },
+    {
+      "authorId": "9750924",
+      "name": "C. Voicu"
+    },
+    {
+      "authorId": "1391737298",
+      "name": "A. Dragulinescu"
+    },
+    {
+      "authorId": "1746940",
+      "name": "O. Fratu"
+    },
+    {
+      "authorId": "1736971",
+      "name": "G. Suciu"
+    },
+    {
+      "authorId": "49878119",
+      "name": "C. Balaceanu"
+    },
+    {
+      "authorId": "151103995",
+      "name": "M. Andronache"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

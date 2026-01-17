@@ -1,0 +1,39 @@
+{
+  "paperId": "ca8e217b5e1a344694c30364353c0456b6afea71",
+  "externalIds": {
+    "MAG": "2896836473",
+    "DOI": "10.4018/IJAEIS.2019010103",
+    "CorpusId": 275689187
+  },
+  "url": "https://www.semanticscholar.org/paper/ca8e217b5e1a344694c30364353c0456b6afea71",
+  "title": "Economic, Agronomic, and Environmental Benefits From the Adoption of Precision Agriculture Technologies",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.igi-global.com/ViewTitle.aspx?TitleId=216451&isxn=9781522566724",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4018/IJAEIS.2019010103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/IJAEIS.2019010103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "6658269",
+      "name": "Thomas M. Koutsos"
+    },
+    {
+      "authorId": "2261221356",
+      "name": "Georgios Menexes"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) as an integrated information- and production-based farming system is designed to delivery high-end technology solutions to increase farm production efficiency and profitability while minimizing environmental impacts on the ecosystems and the environment. PA technologies are technology innovations that incorporate recent advances in modern agriculture providing evidence for lower production costs, increased farming efficiency and reduced impacts. However, the adoption of the precision agriculture technologies has encountered difficulties such as additional application or management costs and investment on new equipment and trained employees. Some of these PA technologies were proven efficient, providing tangible benefits with lower costs and as a result they quickly gained scientific interest. To investigate further the economic, agronomic, and environmental benefits from the adoption of PA technologies a systematic review was conducted, based on the systematic search and evaluation of related eligible articles.",
+  "references": null
+}

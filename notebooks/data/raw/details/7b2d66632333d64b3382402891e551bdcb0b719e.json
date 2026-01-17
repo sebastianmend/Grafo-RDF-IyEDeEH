@@ -1,0 +1,49 @@
+{
+  "paperId": "7b2d66632333d64b3382402891e551bdcb0b719e",
+  "externalIds": {
+    "DBLP": "conf/softcom/AleottiANC18",
+    "MAG": "2902427432",
+    "DOI": "10.23919/SOFTCOM.2018.8555841",
+    "CorpusId": 54442526
+  },
+  "url": "https://www.semanticscholar.org/paper/7b2d66632333d64b3382402891e551bdcb0b719e",
+  "title": "A Smart Precision-Agriculture Platform for Linear Irrigation Systems",
+  "venue": "International Conference on Software, Telecommunications and Computer Networks",
+  "year": 2018,
+  "citationCount": 15,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/SOFTCOM.2018.8555841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/SOFTCOM.2018.8555841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1704916",
+      "name": "J. Aleotti"
+    },
+    {
+      "authorId": "1746877",
+      "name": "M. Amoretti"
+    },
+    {
+      "authorId": "2079219071",
+      "name": "Alessandro Nicoli"
+    },
+    {
+      "authorId": "46954165",
+      "name": "S. Caselli"
+    }
+  ],
+  "abstract": "A smart platform is presented that manages the components of an automatic precision irrigation system. The platform has a distributed architecture that includes a decision support system(Irriframe), a server node, a mobile application for user interaction, and embedded IoT devices that operate linear irrigation machines. The decision support system is queried by the server and it computes an irrigation map, i.e., the amount of water to be supplied in each cell of the field by integrating geographic, meteorological and soil data, as well as the vegetation map obtained from an aerial survey and the technical specifications of the irrigation machine. The mobile application is used by the farmer to register user data on the decision support system, to request an irrigation plan from the server and to control the irrigation process with real-time monitoring. Preliminary experiments were conducted in tomato fields to test the main components of the system.",
+  "references": null
+}

@@ -1,0 +1,328 @@
+{
+  "paperId": "6dc063795678326e50b954b4a06d7f266b517d38",
+  "externalIds": {
+    "MAG": "2903679996",
+    "DBLP": "journals/remotesensing/ZilianiPHM18",
+    "DOI": "10.3390/rs10122007",
+    "CorpusId": 58013821
+  },
+  "url": "https://www.semanticscholar.org/paper/6dc063795678326e50b954b4a06d7f266b517d38",
+  "title": "Intra-Season Crop Height Variability at Commercial Farm Scales Using a Fixed-Wing UAV",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 77,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/12/2007/pdf?version=1544513070",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs10122007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs10122007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39364039",
+      "name": "M. Ziliani"
+    },
+    {
+      "authorId": "145412183",
+      "name": "S. Parkes"
+    },
+    {
+      "authorId": "48004695",
+      "name": "I. Hoteit"
+    },
+    {
+      "authorId": "20538593",
+      "name": "M. Mccabe"
+    }
+  ],
+  "abstract": "Monitoring the development of vegetation height through time provides a key indicator of crop health and overall condition. Traditional manual approaches for monitoring crop height are generally time consuming, labor intensive and impractical for large-scale operations. Dynamic crop heights collected through the season allow for the identification of within-field problems at critical stages of the growth cycle, providing a mechanism for remedial action to be taken against end of season yield losses. With advances in unmanned aerial vehicle (UAV) technologies, routine monitoring of height is now feasible at any time throughout the growth cycle. To demonstrate this capability, five digital surface maps (DSM) were reconstructed from high-resolution RGB imagery collected over a field of maize during the course of a single growing season. The UAV retrievals were compared against LiDAR scans for the purpose of evaluating the derived point clouds capacity to capture ground surface variability and spatially variable crop height. A strong correlation was observed between structure-from-motion (SfM) derived heights and pixel-to-pixel comparison against LiDAR scan data for the intra-season bare-ground surface (R2 = 0.77 − 0.99, rRMSE = 0.44% − 0.85%), while there was reasonable agreement between canopy comparisons (R2 = 0.57 − 0.65, rRMSE = 37% − 50%). To examine the effect of resolution on retrieval accuracy and processing time, an evaluation of several ground sampling distances (GSD) was also performed. Our results indicate that a 10 cm resolution retrieval delivers a reliable product that provides a compromise between computational cost and spatial fidelity. Overall, UAV retrievals were able to accurately reproduce the observed spatial variability of crop heights within the maize field through the growing season and provide a valuable source of information with which to inform precision agricultural management in an operational context.",
+  "references": [
+    {
+      "paperId": "a5a2be90d12663567512ee2b61831a8e66e8b66c"
+    },
+    {
+      "paperId": "7ac7fe18ce27c15e1d3c70d62fe5db991c46859f"
+    },
+    {
+      "paperId": "02c3d1c42682a61270cecc434f5d1588fb851ff7"
+    },
+    {
+      "paperId": "d8ed0250d9278dab6c7086b02733285ec9c06272"
+    },
+    {
+      "paperId": "e42b9551aae99230b8f422c80f25f644d21b042e"
+    },
+    {
+      "paperId": "9aa412ab19fcbbfcd7db221a39ee27775dcd1ddb"
+    },
+    {
+      "paperId": "eb7003134427464be2a3cff3cac178c16813787e"
+    },
+    {
+      "paperId": "771dc22911ac447e26d77b339491c2cba2955d0c"
+    },
+    {
+      "paperId": "2524a7201f84ae31bc37c6349ddb898ce6259a0f"
+    },
+    {
+      "paperId": "7c8f1dca0ca4125313c8c20e13a2ee144ed08b47"
+    },
+    {
+      "paperId": "b96d865a3acd87a1c642d112a1c90626bd83ae74"
+    },
+    {
+      "paperId": "5d3a173abcbe829a839a66fa8fbf2358bbeda527"
+    },
+    {
+      "paperId": "5c5e1f5e3fb1b765f4efb4991a53907289ef514e"
+    },
+    {
+      "paperId": "e95c50b61f833244707191fbd653563a688a078d"
+    },
+    {
+      "paperId": "cee355ead5ae49b40f3e5eec69abf51c2e152595"
+    },
+    {
+      "paperId": "8d9f602ba3116af1956b5896da192f37896d3893"
+    },
+    {
+      "paperId": "d310f6d6c896c22751c2ad661ca7332aef897266"
+    },
+    {
+      "paperId": "18f4fe073ff065ada4caf747bf778b2fbddc8693"
+    },
+    {
+      "paperId": "a6746f2a53f6d19746194049a92896c88f5f0340"
+    },
+    {
+      "paperId": "930596cebae1417e5c6310fe1e949e3a8a2d6ba2"
+    },
+    {
+      "paperId": "12951ab55fc1647afaa8a9fe8176cb9349bf9211"
+    },
+    {
+      "paperId": "c23eea0c9072520a4ac29ac6834f14cea3a59000"
+    },
+    {
+      "paperId": "3ba8c3ca3f05b82b57366edd09f62f3d8ae151ab"
+    },
+    {
+      "paperId": "18bcc0f48cbae541ffe03140d5e877151ee9a5d0"
+    },
+    {
+      "paperId": "2e406bb3e90d649338ee1d1f9d9332098befd560"
+    },
+    {
+      "paperId": "339cc7345e2d0abd6be67c6b030a8be077759af1"
+    },
+    {
+      "paperId": "36f5fbc59d903baa6f77737fce59e51f06f0a14e"
+    },
+    {
+      "paperId": "22e6529c5a09d43c10c9a4a551e62e50f0772e29"
+    },
+    {
+      "paperId": "217feb926b0648e06443ff4aaa81bf0dddd8f37d"
+    },
+    {
+      "paperId": "35bf1f9bfc0165b62d6a4a1eae56368a8c46eee4"
+    },
+    {
+      "paperId": "eec21d69ad77ef19075dc35ceeb457509efb0dbc"
+    },
+    {
+      "paperId": "3bc52df701dbe621d32f9acf1e9fa0c32e503656"
+    },
+    {
+      "paperId": "13619a5b10810832bb1d6cab3370bcd04be48a22"
+    },
+    {
+      "paperId": "03a201ddfe98d97f30e10e675832429a5a63963c"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "7cee3de7c28d6d95bea9b27322f01fb50952af37"
+    },
+    {
+      "paperId": "52565a03b71803fbbf31237bb368342eef0b1493"
+    },
+    {
+      "paperId": "6376805de4530666180746bc15a072f0951add4f"
+    },
+    {
+      "paperId": "88aaf745a02fc5ccc762ba91b86b2c3a3894de05"
+    },
+    {
+      "paperId": "1718bb152e12624439b493d756d656e727b14e89"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "befb418f58475b7ebafd1826ba2e60d354eecc80"
+    },
+    {
+      "paperId": "ae49b5f4aeacfdcf3e2d4da2a9563bc18094e8c3"
+    },
+    {
+      "paperId": "847eb7e7122d9af33f7b78bbac9af7e6ebb71579"
+    },
+    {
+      "paperId": "89712f65f94f682f96670f93162747fccaabd6e5"
+    },
+    {
+      "paperId": "a14280872980bd4d0d9c05615677aa86a4129e64"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "a3bb719aadcf920f515606a7533d7973c2509ea3"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "5c296571cdd70cc5a04569447fd3dcaf72300204"
+    },
+    {
+      "paperId": "075c3fe6bce134d72e08d5109abe2d96276fd52d"
+    },
+    {
+      "paperId": "9d833c031b682020f3975c3e759936671b38ff20"
+    },
+    {
+      "paperId": "6cf99ffb530f85784345a7d9e46eb5981df8937c"
+    },
+    {
+      "paperId": "5774d5e8fcb1e2e05d24352d03984b26b56e0a77"
+    },
+    {
+      "paperId": "7802792c29674d48269ba72d1aecb17cc25204aa"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "53cc1ace5dccec728de7ce4ae04b971226e386e6"
+    },
+    {
+      "paperId": "0973e3ddaf9742df6dcebc29580e950675b94d3c"
+    },
+    {
+      "paperId": "4dc55ce73f5ab8497698f333a9c602bc4099c111"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "bb28a5ef5cd4468c538e4176f6b3f5621df9ece2"
+    },
+    {
+      "paperId": "7221676c27803b322ef27f1c44c656cbefec1831"
+    },
+    {
+      "paperId": "760abffe5cc3a533fb3a3b8181a129c527acaa9d"
+    },
+    {
+      "paperId": "d12789a1df0e9ab3264ceeadf2119ec872a23eed"
+    },
+    {
+      "paperId": "0eda2623f4c5b3c0cdb87b43eb013e766a37ab4e"
+    },
+    {
+      "paperId": "31d4366c657d2770c3d8e208cd0ff517116f3df0"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "1e9b01a6d693198891bee7bfbcbf188ca81d3c82"
+    },
+    {
+      "paperId": "960deb2e64c9587dd9d47b1597588f8f095969eb"
+    },
+    {
+      "paperId": "8c04f169203f9e55056a6f7f956695babe622a38"
+    },
+    {
+      "paperId": "e317517d1e177afeb50a7d99b2bff41e9f834d49"
+    },
+    {
+      "paperId": "23f61f986349ed931d1d6167313c2e27df2b69b1"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "f28d436665c7911e46eac8934cef76b5f3c132f9"
+    },
+    {
+      "paperId": "34380433cf8a3cf818f5f89015fa4d1bf41ed16f"
+    },
+    {
+      "paperId": "382eaf93df7fd3d2699a4e957fec59936a2e90fd"
+    },
+    {
+      "paperId": "269c347f71dad0a35aab4b5b91a2f422469cbab6"
+    },
+    {
+      "paperId": "f0d02713c6aa59c495be6633d7041e2ecd8af970"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "9bf0e84aa87fbdf5fb2fb047d108e89500aca7c1"
+    },
+    {
+      "paperId": "6b0a21ea237952de9556ec77601e55074f436619"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1923837e88827762ceb0d4fd5ff14e220f4fe44e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "595ce7cb38cd15a60d133f0a463ac25fb2d090f8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f962335f03ccfe281b9946656520d07f1b6d998a"
+    },
+    {
+      "paperId": "f76d66149f35cfc868419063babd63d459eab405"
+    }
+  ]
+}

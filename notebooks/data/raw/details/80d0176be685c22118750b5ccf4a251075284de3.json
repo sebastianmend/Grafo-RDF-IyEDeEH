@@ -1,0 +1,209 @@
+{
+  "paperId": "80d0176be685c22118750b5ccf4a251075284de3",
+  "externalIds": {
+    "MAG": "2884510077",
+    "DOI": "10.15302/J-FASE-2018226",
+    "CorpusId": 92369355
+  },
+  "url": "https://www.semanticscholar.org/paper/80d0176be685c22118750b5ccf4a251075284de3",
+  "title": "High resolution satellite imaging sensors for precision agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 34,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://journal.hep.com.cn/fase/EN/article/downloadArticleFile.do?attachType=PDF&id=22425",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15302/J-FASE-2018226?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15302/J-FASE-2018226, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3255494",
+      "name": "Chenghai Yang"
+    }
+  ],
+  "abstract": "The central concept of precision agriculture is to manage within-field soil and crop growth variability for more efficient use of farming inputs. Remote sensing has been an integral part of precision agriculture since the farming technology started developing in the mid to late 1980s. Various types of remote sensors carried on groundbased platforms, manned aircraft, satellites, and more recently, unmanned aircraft have been used for precision agriculture applications. Original satellite sensors, such as Landsat and SPOT, have commonly been used for agricultural applications over large geographic areas since the 1970s, but they have limited use for precision agriculture because of their relatively coarse spatial resolution and long revisit time. Recent developments in high resolution satellite sensors have significantly narrowed the gap in spatial resolution between satellite imagery and airborne imagery. Since the first high resolution satellite sensor IKONOS was launched in 1999, numerous commercial high resolution satellite sensors have become available. These imaging sensors not only provide images with high spatial resolution, but can also repeatedly view the same target area. The high revisit frequency and fast data turnaround time, combined with their relatively large aerial coverage, make high resolution satellite sensors attractive for many applications, including precision agriculture. This article will provide an overview of commercially available high resolution satellite sensors that have been used or have potential for precision agriculture. The applications of these sensors for precision agriculture are reviewed and application examples based on the studies conducted by the author and his collaborators are provided to illustrate how high resolution satellite imagery has been used for crop identification, crop yield variability mapping and pest management. Some challenges and future directions on the use of high resolution satellite sensors and other types of remote sensors for precision agriculture are discussed.",
+  "references": [
+    {
+      "paperId": "30af2430511ed5ea82976771c16de087998d4e9a"
+    },
+    {
+      "paperId": "3a320460986e18447f94e08d73b0ec144afb6f57"
+    },
+    {
+      "paperId": "f9ca5ac8f0f0f8bec6974e86023a4b4f74239829"
+    },
+    {
+      "paperId": "04af707818c6b9c33d06ddda79b26a278e6d4496"
+    },
+    {
+      "paperId": "f8b16a2eb89ee3fd933ce7f25a114ea649b5b6a2"
+    },
+    {
+      "paperId": "674c165b6aebb39457f283af92fcd194d0ef1e4d"
+    },
+    {
+      "paperId": "6021212cf49b7bbcf99069f13f0d95fe5ab5c720"
+    },
+    {
+      "paperId": "131c9d6f502929c513a3cc19809c54859674ff77"
+    },
+    {
+      "paperId": "76d28fe65775cbe2eebc8a3e4546f63069dc5f18"
+    },
+    {
+      "paperId": "4da76bf49c95dca4e80cf867fa74d7edf1839f15"
+    },
+    {
+      "paperId": "5092e8de691d2d2bdd6958e5953ba42e1e04f87b"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "172f8ee6375231a611e8171a2c70fff6e732b1a0"
+    },
+    {
+      "paperId": "3151517fd2695fc7f0228464ef187dfe2e7b0c7c"
+    },
+    {
+      "paperId": "8a09057915f4857afe9cf55475dc50732faa9ae0"
+    },
+    {
+      "paperId": "2d447e917558da491a41f1237891897d2ae1ba86"
+    },
+    {
+      "paperId": "ea7ce5473335409dc68c195c2b3255bc1da2cd29"
+    },
+    {
+      "paperId": "a19ff6b69c9214e73fdce68de4563d96f15dca16"
+    },
+    {
+      "paperId": "51b48ab093c94cea6476f06822912d93a0b8ec44"
+    },
+    {
+      "paperId": "b9a0b97d2743a25414bd65b00cca41760dfbf8fd"
+    },
+    {
+      "paperId": "c08b677c443345dc1ca0f8cd86c7a379344bc9cf"
+    },
+    {
+      "paperId": "e8d61e9b2c58810ca55f70e925a4d84f39374471"
+    },
+    {
+      "paperId": "5d721283e269226d85de0270b6fc61e5a7bea26a"
+    },
+    {
+      "paperId": "613e5c0e5cb42e8bac08a09a3165e7ea0eae8065"
+    },
+    {
+      "paperId": "2c8d672f334bfadc5199c212051c56c6e2cc6d0c"
+    },
+    {
+      "paperId": "6f207d8fde43996fea52f4c7ff7987feb7259154"
+    },
+    {
+      "paperId": "02040720d3698896e8a2b05f33d2a6f9b315007c"
+    },
+    {
+      "paperId": "341615d5ccfb962fc142d6dc2e4959cbd6f2b95a"
+    },
+    {
+      "paperId": "343aabafff8da0424c883153e310bf53e79171a9"
+    },
+    {
+      "paperId": "fd8f3bac0c19c1353bda00769f0b6d53b5779f73"
+    },
+    {
+      "paperId": "51f5ca01cd8a96c61d571e9f9585ee17bacffe13"
+    },
+    {
+      "paperId": "607598ecae6a8c18051a342c3406e3e9acc39e1a"
+    },
+    {
+      "paperId": "69be582d6c9c90ee6a0710ab37566ab98b266174"
+    },
+    {
+      "paperId": "05c73aaa2e3c8f3e12389ac278f1c6a4156cadba"
+    },
+    {
+      "paperId": "0d510f03f511dd10e6a6bc6a2bf92882f9cf1566"
+    },
+    {
+      "paperId": "f4fadd9400b5293d66eb57dd7edd6378762cdfbc"
+    },
+    {
+      "paperId": "8ec576c46c88448d64a084102fa56dcf3abb255c"
+    },
+    {
+      "paperId": "7774acdf76d6c10edbc39468ae86e4abf35cfbee"
+    },
+    {
+      "paperId": "bde306ea23f74a32783d1537cd334386e9710e73"
+    },
+    {
+      "paperId": "3ab5834d5ff2a12cf32ddeb4add58be0432716e8"
+    },
+    {
+      "paperId": "16e41009babafbf509964803b92b03cb25f280a4"
+    },
+    {
+      "paperId": "e4987cc082deb63862acc25e0f74c5e8258c0f13"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "efdf86775b9d2cc26799c9a6fd90f1093a7a9699"
+    },
+    {
+      "paperId": "9083e3d318dff01adc8b84f9055c8843ca4ffacf"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cbde23937dfdde0e059f771ac2e576cef27ef035"
+    },
+    {
+      "paperId": "6e4e29b7b569a55d2fe16ea8126795a95d24472d"
+    },
+    {
+      "paperId": "a077d412535abc7aea98a33f5e9d8700beb49bce"
+    },
+    {
+      "paperId": "380ec985e272f9b54cf8dad4f8a1b673e69817c1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "132bcc9b21c34e240c3e9acf1b95a88fd3a4c628"
+    },
+    {
+      "paperId": "5037f4d55022b11427a57ddc1c4fa1c3a347a450"
+    },
+    {
+      "paperId": "9a79d28c30ce27f4640e4d7169d8e93ea7e1f3df"
+    },
+    {
+      "paperId": "101018980c66625ea9141bd9f6fb5df1c5ccbfb2"
+    },
+    {
+      "paperId": "cb60c7b231e741ee1b23da7a0406b88bace221e6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

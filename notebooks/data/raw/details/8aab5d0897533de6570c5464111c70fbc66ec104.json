@@ -1,0 +1,38 @@
+{
+  "paperId": "8aab5d0897533de6570c5464111c70fbc66ec104",
+  "externalIds": {
+    "MAG": "2914078840",
+    "DOI": "10.1166/JCTN.2018.7642",
+    "CorpusId": 115449395
+  },
+  "url": "https://www.semanticscholar.org/paper/8aab5d0897533de6570c5464111c70fbc66ec104",
+  "title": "A Review: Precision Agriculture (PA) Using Energy-Efficient Wireless Sensor Networks",
+  "venue": "Journal of Computational and Theoretical Nanoscience",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1166/JCTN.2018.7642?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1166/JCTN.2018.7642, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "152497714",
+      "name": "R. Srinivasan"
+    },
+    {
+      "authorId": "2667596",
+      "name": "E. Kannan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

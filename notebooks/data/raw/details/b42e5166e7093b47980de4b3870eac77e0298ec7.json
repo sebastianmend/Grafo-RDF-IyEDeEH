@@ -1,0 +1,52 @@
+{
+  "paperId": "b42e5166e7093b47980de4b3870eac77e0298ec7",
+  "externalIds": {
+    "MAG": "2894212278",
+    "DBLP": "conf/indin/LeaoVPMM18",
+    "DOI": "10.1109/INDIN.2018.8472110",
+    "CorpusId": 52896680
+  },
+  "url": "https://www.semanticscholar.org/paper/b42e5166e7093b47980de4b3870eac77e0298ec7",
+  "title": "A Hybrid Beacon Scheduling Scheme to Allow the Periodic Reconfiguration of Large-scale Cluster-tree WSNs",
+  "venue": "International Conference on Industrial Informatics",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INDIN.2018.8472110?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INDIN.2018.8472110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "33019056",
+      "name": "É. Leão"
+    },
+    {
+      "authorId": "151456702",
+      "name": "Vitor Vasconcelos"
+    },
+    {
+      "authorId": "144045118",
+      "name": "P. Portugal"
+    },
+    {
+      "authorId": "1798678",
+      "name": "C. Montez"
+    },
+    {
+      "authorId": "145146722",
+      "name": "R. Moraes"
+    }
+  ],
+  "abstract": "The use of Wireless Sensor Network (WSN) based technologies is an attractive solution for large-scale sensing applications (wide area deployment), such as environmental monitoring, precision agriculture and industrial automation. IEEE 802.15.4/ZigBee standards are the most used communication protocols for WSN technologies, where the clustertree topology is pointed out as a suitable topology to support the implementation of large-scale WSNs. These networks are usually scheduled to prioritise convergecast (upstream) traffic generated from sensor nodes toward the sink node. However, this scheduling pattern results in higher delays for control messages (downstream traffic). Within this context, this paper proposes a Hybrid Beacon Scheduling (Fast-HyBeS) scheme to enable the periodic reconfiguration of cluster-tree WSNs. The underlying idea is to periodically schedule a downstream opportunity window, to allow a faster dissemination of control messages. This opportunity window follows a top-down scheduling approach that prioritises the downstream traffic. Simulation results show that the use of Fast-HyBeS can significantly decrease the end-to-end communication delay for control messages, when compared to the use of static convergecast scheduling schemes. Moreover, the simulation results also highlight that the Fast-HyBeS has a negligible impact upon end-to-end communication delays of the monitoring traffic.",
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "84fe90db0bd5daf0a44b22a1e35471130c43f093",
+  "externalIds": {
+    "MAG": "3018134586",
+    "DOI": "10.1109/ICISCAE48440.2019.221651",
+    "CorpusId": 216105128
+  },
+  "url": "https://www.semanticscholar.org/paper/84fe90db0bd5daf0a44b22a1e35471130c43f093",
+  "title": "Design of Row Guidance Control System for Combine Corn Harvester",
+  "venue": "International Conference on Information Systems and Computer Aided Education",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISCAE48440.2019.221651?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISCAE48440.2019.221651, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1410127248",
+      "name": "Feiyang Gao"
+    },
+    {
+      "authorId": "2108369684",
+      "name": "Zhuo Wang"
+    },
+    {
+      "authorId": "2114139842",
+      "name": "X. Bai"
+    },
+    {
+      "authorId": "1654112477",
+      "name": "Wenlong Xi"
+    }
+  ],
+  "abstract": "Row guidance is an important aspect of precision agriculture. Navigation system based on Global Positioning System has been well developed, however Global Positioning System cannot provide enough information on crop row and sometimes suffers from disturbance from the environment. So it is necessary to develop local sensor that can detect crop row during harvesting tasks. This article aims to integrate a self-developed mechanical detection sensor into a row guidance control system. The mechanical row detection device based on angular sensor was used to detect crop row and return detected values as deviation for row guidance controller. The control method was introduced after linearizing the kinematic model of farm vehicle, then the road test platform was introduced. The test was conducted under three different speeds. We used Global Positioning System and inertial measuring unit to record the position and heading of the vehicle. For the road test, the average cross track error are below 0.1m, which meet the demand of navigation of combine corn harvester.",
+  "references": null
+}

@@ -1,0 +1,42 @@
+{
+  "paperId": "449d0296c8fd06c0c965be51691a6517b2fb28ff",
+  "externalIds": {
+    "MAG": "2897790250",
+    "DBLP": "conf/agro-geoinformatics/WangL18",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476124",
+    "CorpusId": 52914310
+  },
+  "url": "https://www.semanticscholar.org/paper/449d0296c8fd06c0c965be51691a6517b2fb28ff",
+  "title": "Benefits of Precision Agriculture Application for Winter Wheat in Central China",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2107961522",
+      "name": "Yongsheng Wang"
+    },
+    {
+      "authorId": "2447647",
+      "name": "Yan-sui Liu"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) has been suggested as a management tool to increase crop performance and improve agricultural environmental quality. In this study, we firstly reviewed the technical systems and bascial benefits of PA, and then evaluated the effects of PA technology on winter wheat yield, residual soil nitrogen and economic benefit. Three treatments, single precision seeding technology (PS), integrated precision seeding with laser land leveling technologies (PLS) and conventional land leveling and seeding technologies (CLS) were established in winter wheat cropland of central China. The result showed that PLS rather than PS significantly increased wheat yield and straw biomass after one season. PS treatment significantly reduced residual soil NO3−-N and NH4+-N, whereas PLS treatment only significantly decreased residual soil NH4+ - N. Adoption of PA technology increased net return by 4.95%, 37.60% and 30.16% for PS, sudsidy and non-subsidy of PLS treatments, respctively. Our study suggested that integrated PLS was the good application pattern than single PS to improve wheat yield, reduced residual soil nitrogen and increased net return.",
+  "references": null
+}

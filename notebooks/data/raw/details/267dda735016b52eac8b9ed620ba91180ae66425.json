@@ -1,0 +1,39 @@
+{
+  "paperId": "267dda735016b52eac8b9ed620ba91180ae66425",
+  "externalIds": {
+    "DOI": "10.1007/s11119-018-9571-8",
+    "CorpusId": 254935654
+  },
+  "url": "https://www.semanticscholar.org/paper/267dda735016b52eac8b9ed620ba91180ae66425",
+  "title": "Regional scale application of the precision agriculture thought process to promote improved fertilizer management in the Australian sugar industry",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9571-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9571-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2678389",
+      "name": "R. Bramley"
+    },
+    {
+      "authorId": "90475601",
+      "name": "J. Ouzman"
+    },
+    {
+      "authorId": "89413894",
+      "name": "D. Gobbett"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

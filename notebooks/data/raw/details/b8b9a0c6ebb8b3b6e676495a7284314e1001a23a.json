@@ -1,0 +1,56 @@
+{
+  "paperId": "b8b9a0c6ebb8b3b6e676495a7284314e1001a23a",
+  "externalIds": {
+    "MAG": "3023593346",
+    "DBLP": "conf/icvgip/SheteSMGSG18",
+    "DOI": "10.1145/3293353.3293380",
+    "CorpusId": 218489552
+  },
+  "url": "https://www.semanticscholar.org/paper/b8b9a0c6ebb8b3b6e676495a7284314e1001a23a",
+  "title": "An automated tassel detection and trait extraction pipeline to support high-throughput field imaging of maize",
+  "venue": "Indian Conference on Computer Vision, Graphics & Image Processing",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3293353.3293380?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3293353.3293380, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Book",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3069975",
+      "name": "S. Shete"
+    },
+    {
+      "authorId": "32407329",
+      "name": "Srikant Srinivasan"
+    },
+    {
+      "authorId": "29904434",
+      "name": "S. Mirnezami"
+    },
+    {
+      "authorId": "3042938",
+      "name": "B. Ganapathysubramanian"
+    },
+    {
+      "authorId": "1800224",
+      "name": "P. Schnable"
+    },
+    {
+      "authorId": "1958543",
+      "name": "T. Gonsalves"
+    }
+  ],
+  "abstract": "Field-based high-throughput imaging of agricultural crops has gained prominence for its application to plant breeding research as well as precision agriculture. The scale of data generated requires automated methods to extract plant traits of importance from the image data. However, the variations in the imaging, lighting and environmental conditions make this a challenging task. In this work, we provide an image analysis pipeline developed on field-based image data of maize. The pipeline broadly consists of three sequential steps: automated tassel detection using Faster Region based Convolutional Neural Network, pixel level localization of the tassel structure using color information and adaptive thresholding, and tassel length computation for straight as well as curved tassels by combining piecewise Hough lines. Our results at different stages demonstrate the effectiveness of our overall pipeline.",
+  "references": null
+}

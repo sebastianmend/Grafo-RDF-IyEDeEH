@@ -1,0 +1,44 @@
+{
+  "paperId": "e42ff1326bfb237fe51242fef3283c1b10a736cd",
+  "externalIds": {
+    "MAG": "2952654381",
+    "DOI": "10.1007/s00216-019-01895-y",
+    "CorpusId": 184487717,
+    "PubMed": "31183522"
+  },
+  "url": "https://www.semanticscholar.org/paper/e42ff1326bfb237fe51242fef3283c1b10a736cd",
+  "title": "Simultaneous determination of multiclass antibiotics and their metabolites in four types of field-grown vegetables",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2019,
+  "citationCount": 38,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-019-01895-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-019-01895-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "16198991",
+      "name": "Đ. Tadić"
+    },
+    {
+      "authorId": "15374839",
+      "name": "V. Matamoros"
+    },
+    {
+      "authorId": "4727242",
+      "name": "J. Bayona"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

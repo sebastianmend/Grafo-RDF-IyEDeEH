@@ -1,0 +1,43 @@
+{
+  "paperId": "8f4f72bb25fbe297b80eb29fb1d844ce8b78ed34",
+  "externalIds": {
+    "DBLP": "journals/wpc/FengYL19",
+    "MAG": "2944442503",
+    "DOI": "10.1007/s11277-019-06496-7",
+    "CorpusId": 164841995
+  },
+  "url": "https://www.semanticscholar.org/paper/8f4f72bb25fbe297b80eb29fb1d844ce8b78ed34",
+  "title": "Study of Wireless Communication Technologies on Internet of Things for Precision Agriculture",
+  "venue": "Wireless personal communications",
+  "year": 2019,
+  "citationCount": 148,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11277-019-06496-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11277-019-06496-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2149115149",
+      "name": "Xiang Feng"
+    },
+    {
+      "authorId": "2067810683",
+      "name": "Fang Yan"
+    },
+    {
+      "authorId": "2111039290",
+      "name": "Xiaoyu Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

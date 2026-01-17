@@ -1,0 +1,46 @@
+{
+  "paperId": "0d13c885dc41c1bf594d806a2454ce94bf92990e",
+  "externalIds": {
+    "MAG": "2962700509",
+    "DOI": "10.1109/CarpathianCC.2019.8765937",
+    "CorpusId": 198145753
+  },
+  "url": "https://www.semanticscholar.org/paper/0d13c885dc41c1bf594d806a2454ce94bf92990e",
+  "title": "Soil sampling mobile platform for Agriculture 4.0",
+  "venue": "International Conference on Innovative Computing and Cloud Computing",
+  "year": 2019,
+  "citationCount": 27,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CarpathianCC.2019.8765937?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CarpathianCC.2019.8765937, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "51018084",
+      "name": "A. Łukowska"
+    },
+    {
+      "authorId": "51023802",
+      "name": "P. Tomaszuk"
+    },
+    {
+      "authorId": "50998172",
+      "name": "K. Dzierżek"
+    },
+    {
+      "authorId": "84373854",
+      "name": "Ł. Magnuszewski"
+    }
+  ],
+  "abstract": "Soil testing is essential for modern agriculture: to optimise the production, protect the environment from fertilisers overuse, save money and energy during the production. The purpose of this work was to develop an autonomous mobile platform with soil sampling device for agriculture. Soil samples are analysed to determine the composition, characteristics or nutrient levels of the soil. Smallholder farmers can use simple hand-held field-testing kits. However, in the case of large farms where plants are grown upon hundreds of hectares, the autonomous mobile platform with a soil sampler would be the optimal solution. Precision farming is a concept of using new production and management methods that use all kind of data collected about specific locations and crop variety. The mentioned robot can increase resource and cost efficiency in acquiring the required data. Information about the soil properties can be retrieved from the field using the robot's onboard systems, enabling farmers to respond to abrupt changes in real time. Data technologies and collecting soil system allows an efficient production process. Use of robots on farms is associated with the progressive digitisation of all areas of our lives, and agriculture is no exception. After the presentation of available commercial solutions to soil sampling and data storage solutions, we will describe the core design of the mentioned soil sampling robot. The mobile robot has a form of a six-wheeled platform with the all-terrain suspension system. The soil sampling device is placed onboard and consists of a drill pipe with custom flap design on the end of it, to keep the soil within, preserving whole cross-section. The storage of soil samples and its analysis are currently being developed. Significant observations after tests and studies point out that such a robot could increase production efficiency. Collected samples provide accurate data of nutrient-supplying capacity.",
+  "references": null
+}

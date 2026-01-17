@@ -1,0 +1,55 @@
+{
+  "paperId": "1858ef39343f644e37dc2005c86e3f0075fbc33f",
+  "externalIds": {
+    "MAG": "2904997690",
+    "DOI": "10.1088/1755-1315/207/1/012059",
+    "CorpusId": 70089971
+  },
+  "url": "https://www.semanticscholar.org/paper/1858ef39343f644e37dc2005c86e3f0075fbc33f",
+  "title": "The Precision Agriculture Based on Wireless Sensor Network with MQTT Protocol",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2018,
+  "citationCount": 34,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/207/1/012059",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/207/1/012059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/207/1/012059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "73979672",
+      "name": "Y. Syafarinda"
+    },
+    {
+      "authorId": "74884254",
+      "name": "F. Akhadin"
+    },
+    {
+      "authorId": "2349895465",
+      "name": "Z. Fitri"
+    },
+    {
+      "authorId": "2102822659",
+      "name": "Yogiswara"
+    },
+    {
+      "authorId": "2177029182",
+      "name": "B. Widiawan1"
+    },
+    {
+      "authorId": "145002610",
+      "name": "E. Rosdiana"
+    }
+  ],
+  "abstract": "Precision agricultural techniques are widely developed to monitor and control growth of plant in greenhouse. The use of greenhouses is suitable for the countries that have unpredictable weather e.g. Indonesia. The main monitors and controls in greenhouse are sensor networks and actuators. Some examples of the precision agriculture technique are monitoring of fertilizer needs and smart irrigation. This paper presents a develpment of precision agriculture based on Wireless Sensor Network (WSN) with Message Queuing Telemetry Transport (MQTT protocol. The WSN system involves Internet of Things (IoT) technology to connect devices, collect and distribute information. IoT integration with cloud computing is aimed to overcome limitations of the IoT devices in remote monitoring and control. WSN development uses MQTT protocols that have advantages that are lightweight, simple, can run on a small bandwidth and more advanced compared to Hypertext Transfer Protocol (HTTP ). In this paper the SHT3x and TSL2561 sensors are used to observe temperature, humidity and light intensity of the greenhouse. Test results of three sensors in data transmission speeds indicate that the MQTT protocol run with very small bandwidth. It can transmit data on the 4G network of AXIS provider with download capability of 0.02 kbps and upload 1.65 kbps. The average data transmission speed is approximately 1 second.",
+  "references": []
+}

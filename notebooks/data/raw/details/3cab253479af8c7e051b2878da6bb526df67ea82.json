@@ -1,0 +1,61 @@
+{
+  "paperId": "3cab253479af8c7e051b2878da6bb526df67ea82",
+  "externalIds": {
+    "MAG": "2896605973",
+    "DBLP": "conf/agro-geoinformatics/LiLLJHCC18",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476108",
+    "CorpusId": 52917701
+  },
+  "url": "https://www.semanticscholar.org/paper/3cab253479af8c7e051b2878da6bb526df67ea82",
+  "title": "Assessment of Monitoring Regional Cropping System with Temporal Extraction Model Based on GF-1/WFV Imagery",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476108?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476108, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2124850903",
+      "name": "Shuo Li"
+    },
+    {
+      "authorId": "2110248918",
+      "name": "Zhou Lu"
+    },
+    {
+      "authorId": "2114646174",
+      "name": "Ming Luo"
+    },
+    {
+      "authorId": "2145012598",
+      "name": "Yulin Jiang"
+    },
+    {
+      "authorId": "96879869",
+      "name": "Tong Han"
+    },
+    {
+      "authorId": "33859582",
+      "name": "Q. Chu"
+    },
+    {
+      "authorId": "144473234",
+      "name": "Fu Chen"
+    }
+  ],
+  "abstract": "Obtaining the information on the cropping system in a region accurately and timely is important for optimizing the regional agricultural resource allocation and crop layout. However, there are still technical bottlenecks such as poor spatial resolution, low precision and the lack of imagery in the application of remote sensing research in the spatial and temporal distribution of the cropping system. In this study, a more accurate remote sensing monitoring method for the regional cropping system was proposed. The imagery with wide field of view (WFV) of multi-temporal GF-1 satellite was used to construct a temporal extraction model of the cropping system, which was based on normalized difference vegetation index (NDVI). Using the method proposed in this paper, remote sensing monitoring of the main farming system in Suqian City, Jiangsu Province was carried out, which could provide reference for the extraction of the crop system in southern cloud and rain regions. The results showed that the whole crop development period of the main planting system (rice-winter wheat and winter wheat-summer maize) in the study area was covered by selecting the high time density GF-1 / WFV with 16 m resolution remote sensing imagery acquired from 2016 to 2017 as the data sources, and the complementarity of the multi-temporal imagery avoided the imagery loss caused by the cloudy climate in the middle and lower reaches of the Yangtze River in China. By building a mask and marking the “polluted” areas of the cloud, the interference of cloud imagery on crop information extraction was reduced effectively. In addition, the decision condition was optimized several times by the human-computer interaction, and the key parameter was determined to ensure the accuracy of the temporal extraction model. According to the result of monitoring the major cropping system in Suqian City, the overall classification accuracy was 93.56%, Kappa coefficient was 0.85 and the relative margin of error for individual crops was 7.53%, which met the accuracy requirements for application of agricultural achievements. These results showed that, in comparison with previous remote sensing methods, the method proposed in this study can monitor the regional main crop planting system accurately and can be used to monitor the cropping system based on the high-resolution imagery in multiple ripening areas. In this way, this approach will provide theoretical basis and technical support for the development of the precision agriculture, the optimization of regional cropping patterns and the efficient utilization of agricultural resources.",
+  "references": null
+}

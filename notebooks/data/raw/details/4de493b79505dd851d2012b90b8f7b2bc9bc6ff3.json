@@ -1,0 +1,130 @@
+{
+  "paperId": "4de493b79505dd851d2012b90b8f7b2bc9bc6ff3",
+  "externalIds": {
+    "DBLP": "journals/ais/BasuOBF20",
+    "MAG": "2801645418",
+    "DOI": "10.1007/s00146-018-0846-4",
+    "CorpusId": 54863183
+  },
+  "url": "https://www.semanticscholar.org/paper/4de493b79505dd851d2012b90b8f7b2bc9bc6ff3",
+  "title": "Legal framework for small autonomous agricultural robots",
+  "venue": "Ai & Society",
+  "year": 2018,
+  "citationCount": 50,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00146-018-0846-4.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00146-018-0846-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00146-018-0846-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "39433414",
+      "name": "S. Basu"
+    },
+    {
+      "authorId": "67289905",
+      "name": "Adekemi Omotubora"
+    },
+    {
+      "authorId": "65745573",
+      "name": "M. Beeson"
+    },
+    {
+      "authorId": "2053944696",
+      "name": "Charles Fox"
+    }
+  ],
+  "abstract": "Legal structures may form barriers to, or enablers of, adoption of precision agriculture management with small autonomous agricultural robots. This article develops a conceptual regulatory framework for small autonomous agricultural robots, from a practical, self-contained engineering guide perspective, sufficient to get working research and commercial agricultural roboticists quickly and easily up and running within the law. The article examines the liability framework, or rather lack of it, for agricultural robotics in EU, and their transpositions to UK law, as a case study illustrating general international legal concepts and issues. It examines how the law may provide mitigating effects on the liability regime, and how contracts can be developed between agents within it to enable smooth operation. It covers other legal aspects of operation such as the use of shared communications resources and privacy in the reuse of robot-collected data. Where there are some grey areas in current law, it argues that new proposals could be developed to reform these to promote further innovation and investment in agricultural robots.",
+  "references": [
+    {
+      "paperId": "acea647cb93b6e9b9846c2b712b1916e692fb34f"
+    },
+    {
+      "paperId": "3ff06f4132c974be93825b66db29d230aad9e54a"
+    },
+    {
+      "paperId": "d6d272e0a4850a5f70b84b3a387fb25b8d826e25"
+    },
+    {
+      "paperId": "7338edc0af83cf864fbe7d75abb2dc6a08995747"
+    },
+    {
+      "paperId": "05dcec78b0ca7f2b4bf0f291056bbabac604028b"
+    },
+    {
+      "paperId": "64f4fbb1c6abe638699516393843fcb83ef60def"
+    },
+    {
+      "paperId": "e2737466849f051523afa7ff6ce719db1da664e0"
+    },
+    {
+      "paperId": "d15bb190f22e8c5f448ae879ddbd633592938266"
+    },
+    {
+      "paperId": "dd25e78f87f897fadffdce4cd6852b18657d10ab"
+    },
+    {
+      "paperId": "e34b477714226af0e46035f5bf8c034a2d0ced5c"
+    },
+    {
+      "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700"
+    },
+    {
+      "paperId": "82ea9899b80b479f4f0f749f39e7230250ff7987"
+    },
+    {
+      "paperId": "5c2215ca2cff15c6ea6ed6ebf3598aec58351dad"
+    },
+    {
+      "paperId": "4411f189245919365b0a543086c90a9ed747195f"
+    },
+    {
+      "paperId": "5ba2089d8f47d4c133cbcde7c4a0ca09c075a6ed"
+    },
+    {
+      "paperId": "ed5324bb3a19f0dcc2e90e482c06373b934fc28c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "99c7cdf46cf4a2fa39b0981c03c82fd9fa21ad59"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1f345c22788270aafed6e73eabd564f297bcb310"
+    },
+    {
+      "paperId": "7c8858eba8571d86abd90252e734a11e3a6dd73f"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d20bc71a2763a16ae45450d13bc2958263480bf7"
+    },
+    {
+      "paperId": "bf8169df3cc333ad8162112084b03a56f5341b0f"
+    },
+    {
+      "paperId": "3f8d7bdfc3ed0ff793f1236730486b3d5cf946aa"
+    },
+    {
+      "paperId": "cd51a0dec83dc64e9c07726a3ae578001030878a"
+    }
+  ]
+}

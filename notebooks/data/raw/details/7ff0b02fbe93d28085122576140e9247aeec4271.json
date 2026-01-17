@@ -1,0 +1,322 @@
+{
+  "paperId": "7ff0b02fbe93d28085122576140e9247aeec4271",
+  "externalIds": {
+    "MAG": "2965157884",
+    "PubMedCentral": "6718702",
+    "DOI": "10.3389/fpls.2019.01047",
+    "CorpusId": 201200234,
+    "PubMed": "31507626"
+  },
+  "url": "https://www.semanticscholar.org/paper/7ff0b02fbe93d28085122576140e9247aeec4271",
+  "title": "Estimation of Corn Canopy Chlorophyll Content Using Derivative Spectra in the O2–A Absorption Band",
+  "venue": "Frontiers in Plant Science",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpls.2019.01047/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6718702, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "120070071",
+      "name": "Xuehong Zhang"
+    },
+    {
+      "authorId": "2146003307",
+      "name": "Yang He"
+    },
+    {
+      "authorId": "2144448025",
+      "name": "Chao Wang"
+    },
+    {
+      "authorId": "2143943992",
+      "name": "Fan Xu"
+    },
+    {
+      "authorId": "2145461694",
+      "name": "Xinhui Li"
+    },
+    {
+      "authorId": "3311459",
+      "name": "Changwei Tan"
+    },
+    {
+      "authorId": "50536181",
+      "name": "Dongmei Chen"
+    },
+    {
+      "authorId": "1630578473",
+      "name": "Guojie Wang"
+    },
+    {
+      "authorId": "2153000293",
+      "name": "Lixin Shi"
+    }
+  ],
+  "abstract": "Chlorophyll (Chl) is one of the most important classes of light-absorbing pigments in photosynthesis, and the proportion of Chl in leaves is closely related to vegetation nutrient status. Remote sensing-based estimation of Chl content holds great potential for evaluating crop growth status in agricultural management, precision farming and ecosystem monitoring. Recent studies have shown that steady-state fluorescence contributed up to 2% on the apparent reflectance in the 750-nm spectral region of plant and also provided additional evidence for fluorescence in-filling of the atmospheric oxygen absorption band at a central wavelength of 760 nm (O2–A band). In this study, an in situ hyperspectral remote sensing approach zwas employed to estimate corn Chl content at the canopy level by using chlorophyll fluorescence (ChlF) signals in the O2–A absorption band. Two new spectral indices, REArea760 (sum of first derivative reflectance between 755 and 763 nm) and REA760 (maximum of first derivative reflectance between 755 and 763 nm), derived from the first derivative spectra in the O2–A band, were proposed for estimating the corn canopy Chl content (CCC). They were compared with the performance of published indices measured at ground level, including the MERIS Terrestrial Chlorophyll Index (MTCI), Optimized Soil-Adjusted Vegetation Index 2 (OSAVI2), Modified Chlorophyll Absorption Ratio Index 2 (MCARI2), SR710, REArea (sum of first derivative reflectance between 680 and 780 nm), REA (maximum value of first derivative reflectance between 680 and 780 nm), and mND705. The results indicated that corn Chl content at the canopy level was better predicted by the new indices (with R2 = 0.835) than the published indices (with R2 ranging from 0.676 to 0.826). The two new indices ranked in the top four according to their summed ranks by integrating the ranks of RMSE and R2 of CCC linear regression models. ChlF originates only from chlorophyll in the photosynthetic apparatus and therefore is less sensitive to soil, wood, and dead biomass interference. Moreover, due to the fluorescence in-filling of the O2–A band and the amplified effect on spectrum signals by derivative operation, the spectral derivative indices in the O2–A band have great potential for estimating the CCC.",
+  "references": [
+    {
+      "paperId": "daeacdd71c95f32e10de72da4ef98b9eda1de40d"
+    },
+    {
+      "paperId": "1ac155132673b2bd963c0ceb39310af2cf350702"
+    },
+    {
+      "paperId": "c33d3410e5d0471e6d9c48bea67656672eaf137f"
+    },
+    {
+      "paperId": "b9e25edde78d36c7c61034f994ff26ef1edf91a9"
+    },
+    {
+      "paperId": "1f823e2f78c9e70670350d5fa56e83b53702252c"
+    },
+    {
+      "paperId": "901a31f434294cd3907fa9b9976ed3bc563cc851"
+    },
+    {
+      "paperId": "02f3525534a672e78b6c0e525d1ece4290ecc551"
+    },
+    {
+      "paperId": "5e07ad74ef8b2a152cc72fafc2e04de5d5ea5f44"
+    },
+    {
+      "paperId": "69406e499fb7c365ba77d612498ab13417573661"
+    },
+    {
+      "paperId": "bea1d8fe30339ac347812503277e157e4f0f633e"
+    },
+    {
+      "paperId": "4ae49f7c9178a7490c44df0160b59a404d069885"
+    },
+    {
+      "paperId": "8f73235973980b3b4dd06ee6478812aea9663633"
+    },
+    {
+      "paperId": "8b2e2c8c7fae3d22893f8d5ba8706ea831a9eeb3"
+    },
+    {
+      "paperId": "887ca8312016b40894270cecb2f27bed3c0d7fa5"
+    },
+    {
+      "paperId": "e19969c6f38a53a6d7b737d1923d26f3962b6088"
+    },
+    {
+      "paperId": "02f684c66a6ac2f522b68c5e5ac12901907f094b"
+    },
+    {
+      "paperId": "7f2875d5b91de8a8bed60711f2984fc4987ff410"
+    },
+    {
+      "paperId": "779312f8a264cb06f07e9aeb3e21f0546800f6c4"
+    },
+    {
+      "paperId": "07a29e3904ee007fb2fb9b9f5afdc10b9e54e7c1"
+    },
+    {
+      "paperId": "b0a552d0a33d9f9797daebcf027c08bbde9d60df"
+    },
+    {
+      "paperId": "360420db37a2a3d6ab19ea3102feb173ed59cd55"
+    },
+    {
+      "paperId": "80606788db1c6962eb4262c4c9a3cc82cbd65c42"
+    },
+    {
+      "paperId": "ff5ce461a90a06572098839b9780c1eeb5b77c72"
+    },
+    {
+      "paperId": "0d8241775f2e1786f536d5f65c22cce01e45674b"
+    },
+    {
+      "paperId": "76522e654f4cedf78188db90d206a45fb2b8421d"
+    },
+    {
+      "paperId": "a6eb18ffcb65d2a1edc1a9f2ac17afdd55d68477"
+    },
+    {
+      "paperId": "76f60acebf5d9237fc0fd066d070eccee5526a52"
+    },
+    {
+      "paperId": "577038374013798e46bb2b9d88bad0848bd88da5"
+    },
+    {
+      "paperId": "8dd9a14770c68214fe8436a89f433d5c26c6eb0a"
+    },
+    {
+      "paperId": "32dc109c20cbaf1ac4055eecbb25f110119d0d82"
+    },
+    {
+      "paperId": "5b0a8123b252f901d572500832a77d1f3f1742a0"
+    },
+    {
+      "paperId": "e4515e8d10911fb7277805a0d625b19d4ba096b1"
+    },
+    {
+      "paperId": "a105ae377c7d89a0eae1d6f3f2b9d1464152d53b"
+    },
+    {
+      "paperId": "54208eba6b670dcdb13559756d6cc73d3d27625e"
+    },
+    {
+      "paperId": "4e8df286e1a2298a25e23655aaab52f433ae0d5b"
+    },
+    {
+      "paperId": "9d6ce96e31b64585a9c647d1a42c9ca8e6487f2d"
+    },
+    {
+      "paperId": "21af0fc2b149bc3d27bf58293765fa6d19307c76"
+    },
+    {
+      "paperId": "026b61903cf678ab48451cd4fbbc996fce2bd4c5"
+    },
+    {
+      "paperId": "94c4d9a901fdcd54da94e214568b59aeb4eb9c4c"
+    },
+    {
+      "paperId": "fc9abfeb0b188207b1b61177dd92c66ad94b8136"
+    },
+    {
+      "paperId": "0cd5e1a479122f977f9792198446effd094c7478"
+    },
+    {
+      "paperId": "bba1d2024b40cb0b910f20801423d8f22608668c"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "c4131c401cdaa88cbc1efa0709e96d93af9146c0"
+    },
+    {
+      "paperId": "17d6171106a2aa60ddbbcbb1036b1b0923fd6d18"
+    },
+    {
+      "paperId": "4a7881cee8f26c43dc896553a5e6963287002b88"
+    },
+    {
+      "paperId": "c4f76e081df5ef5b5c0a77d98beba710abafe1b5"
+    },
+    {
+      "paperId": "4ada44e7e54009f2fb82b909a287296ac5cec457"
+    },
+    {
+      "paperId": "0ebcb00186a542a3b7ec1aed3c6c238d358bdd28"
+    },
+    {
+      "paperId": "7eba83d3c59831b0106554344592ed6994655376"
+    },
+    {
+      "paperId": "08586287a940c885c72b066f5c05451111a37bf2"
+    },
+    {
+      "paperId": "f4a3994b292292cd887295bcb5c42e70e9ed9708"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "d35ff45ef3b2e9f261a35213e9a88c73f199ba57"
+    },
+    {
+      "paperId": "4c62efe084ee252e61291cc04e5d91d42b66a95a"
+    },
+    {
+      "paperId": "cd94ffc651fe20405d7cf7fd5eec9177ca8bbcab"
+    },
+    {
+      "paperId": "8b2c54cae0dea9d17eee27493fddb52c3fda7b40"
+    },
+    {
+      "paperId": "46e527f606ac56ec4316d5c1657b45d6ff1f7879"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "72e05ec708685cbeedb0f47f423a66a6a90a01db"
+    },
+    {
+      "paperId": "452d4d289d4d48a3dace7589d39ab82c936d6b38"
+    },
+    {
+      "paperId": "11084079ac17e3e2654e9ced7dfe222c1ccf9700"
+    },
+    {
+      "paperId": "99bb268764261ad35a9afdacaa1039f7f4b7c3b3"
+    },
+    {
+      "paperId": "0887a4013e47cc290a4112eb8abf73968c459a80"
+    },
+    {
+      "paperId": "35feef1694c8203269a6be49a815575e06cc5df8"
+    },
+    {
+      "paperId": "dff5c11508e8f29f8bcbedb7547cbf6305b82b70"
+    },
+    {
+      "paperId": "37e02c269881d0cbd94d6d47aa0a1854c6dc14f4"
+    },
+    {
+      "paperId": "bdc27eb091f72ffd611607fa7fb25d1e6f8bc72e"
+    },
+    {
+      "paperId": "2eded05cd331fad3d206d38870804fca0b57ab0a"
+    },
+    {
+      "paperId": "939c99e00bef5f9b10f2c4f5c726a17f710e7f85"
+    },
+    {
+      "paperId": "a9edc84ddbb093023d500e7c06039f7566d6a34d"
+    },
+    {
+      "paperId": "6e8eba5ec282c0c93da2d12864cc827289a11ba9"
+    },
+    {
+      "paperId": "582a53efefe5d67e38ed6d28af6ecf5ca595fcbe"
+    },
+    {
+      "paperId": "aef80c000ed32d6558c63ef9d962046e6fb5f226"
+    },
+    {
+      "paperId": "5fd8c96ae1ba5b9a604d51ff84eb7b62dbe93d60"
+    },
+    {
+      "paperId": "94a5fd3ab11b90492a46ffbb9afe1f3d869d3c17"
+    },
+    {
+      "paperId": "1337ff8958303371127413a965c849e04bdc065a"
+    },
+    {
+      "paperId": "7361e3f547cb11ae1ba3003d10d2abf6e8350f0f"
+    },
+    {
+      "paperId": "46427b15aecca5bbc1cf038252fd52f7cbee330f"
+    },
+    {
+      "paperId": "fba0d56ea630bb5c254e8c2e4688417ffc41457c"
+    },
+    {
+      "paperId": "f40a8df350bfb2e3ae9266a2384804501f8a49f4"
+    },
+    {
+      "paperId": "43fd7f3f3701f481d6ba2d08cb958a0a9b4672b6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

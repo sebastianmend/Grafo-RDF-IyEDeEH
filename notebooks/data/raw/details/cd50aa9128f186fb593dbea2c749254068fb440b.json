@@ -1,0 +1,42 @@
+{
+  "paperId": "cd50aa9128f186fb593dbea2c749254068fb440b",
+  "externalIds": {
+    "MAG": "2967571872",
+    "DOI": "10.1109/ICUAS.2019.8797875",
+    "CorpusId": 201068837
+  },
+  "url": "https://www.semanticscholar.org/paper/cd50aa9128f186fb593dbea2c749254068fb440b",
+  "title": "Building Mosaics Using Images Autonomously Acquired by a UAV",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2019.8797875?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2019.8797875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1411313669",
+      "name": "Lúcio André Amorim"
+    },
+    {
+      "authorId": "21859276",
+      "name": "R. Vassallo"
+    },
+    {
+      "authorId": "1396749583",
+      "name": "M. Sarcinelli-Filho"
+    }
+  ],
+  "abstract": "In this work we discuss an application related either to fire fighting or to precision agriculture, which consists in building mosaics from aerial images acquired by an Unmanned Aerial Vehicle - a UAV, specifically a quadrotor. The odometry of the vehicle is used to help estimating the position of each new image to be included in the mosaic, and, thus, matching features present in the overlapping areas of the images. Navigation and image acquisition are done autonomously, with a pre-set route in which a set of waypoints is defined. Images are acquired while the quadrotor keeps itself hovering in each waypoint, after testing such a possibility against the option correspondent to get images with the quadrotor flying between two of them. For choosing between these two cases the mosaics are built and compared, leading to the decision of using the images acquired with the quadrotor hovering over each waypoint. To improve the mosaics built, information provided by a GPS module onboard the UAV about the position from where each image is acquired is also included in the mosaic, to allow getting better information about the area under inspection, which can be, for instance, an area in which fire outbreaks are being searched or a farming area being inspected.",
+  "references": null
+}

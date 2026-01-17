@@ -1,0 +1,42 @@
+{
+  "paperId": "58b0df021f79fa32d916a1de047db9601eac0dc1",
+  "externalIds": {
+    "MAG": "2963375395",
+    "DOI": "10.1080/10496505.2019.1638264",
+    "CorpusId": 199585304
+  },
+  "url": "https://www.semanticscholar.org/paper/58b0df021f79fa32d916a1de047db9601eac0dc1",
+  "title": "Data-Driven Decision Making in Precision Agriculture: The Rise of Big Data in Agricultural Systems",
+  "venue": "Journal of Agricultural & Food Information",
+  "year": 2019,
+  "citationCount": 175,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10496505.2019.1638264?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10496505.2019.1638264, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "89486181",
+      "name": "Nicoleta Tantalaki"
+    },
+    {
+      "authorId": "2771473",
+      "name": "S. Souravlas"
+    },
+    {
+      "authorId": "1708382",
+      "name": "M. Roumeliotis"
+    }
+  ],
+  "abstract": "Abstract In this paper, we provide a review of the research dedicated to applications of data science techniques, and especially machine learning techniques, in relevant agricultural systems. Big data technologies create new opportunities for data intensive decision-making. We review works in agriculture that employ the practice of big data analysis to solve various problems, which reveal opportunities and promising areas of use. The high volume and complexity of the data produced pose challenges in successfully implementing precision agriculture. Machine learning seems promising to cope with agricultural big data, but needs to reinvent itself to meet existing challenges.",
+  "references": null
+}

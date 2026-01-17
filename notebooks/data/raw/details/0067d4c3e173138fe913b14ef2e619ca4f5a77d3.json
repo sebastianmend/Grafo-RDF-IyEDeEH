@@ -1,0 +1,50 @@
+{
+  "paperId": "0067d4c3e173138fe913b14ef2e619ca4f5a77d3",
+  "externalIds": {
+    "MAG": "2887088383",
+    "DOI": "10.1007/s11119-018-9597-y",
+    "CorpusId": 52053859
+  },
+  "url": "https://www.semanticscholar.org/paper/0067d4c3e173138fe913b14ef2e619ca4f5a77d3",
+  "title": "Determination of chemical soil properties using diffuse reflectance and ion-exchange resins",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9597-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9597-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1393055706",
+      "name": "G. O. Mayrink"
+    },
+    {
+      "authorId": "143928161",
+      "name": "D. Valente"
+    },
+    {
+      "authorId": "81449102",
+      "name": "D. M. Queiroz"
+    },
+    {
+      "authorId": "41329689",
+      "name": "F. Pinto"
+    },
+    {
+      "authorId": "11177816",
+      "name": "R. Teófilo"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

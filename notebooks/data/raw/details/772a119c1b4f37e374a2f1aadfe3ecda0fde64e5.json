@@ -1,0 +1,53 @@
+{
+  "paperId": "772a119c1b4f37e374a2f1aadfe3ecda0fde64e5",
+  "externalIds": {
+    "DBLP": "conf/icsca/LiuHGMZ19",
+    "MAG": "2946474676",
+    "DOI": "10.1145/3316615.3316712",
+    "CorpusId": 153314053
+  },
+  "url": "https://www.semanticscholar.org/paper/772a119c1b4f37e374a2f1aadfe3ecda0fde64e5",
+  "title": "A review of Convolutional Neural Networks in Remote Sensing Image",
+  "venue": "International Conference on Software and Computer Applications",
+  "year": 2019,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3316615.3316712?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3316615.3316712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "46521755",
+      "name": "Xinni Liu"
+    },
+    {
+      "authorId": "97228623",
+      "name": "Fengrong Han"
+    },
+    {
+      "authorId": "9443026",
+      "name": "K. Ghazali"
+    },
+    {
+      "authorId": "32964243",
+      "name": "I. Mohamed"
+    },
+    {
+      "authorId": "2116810669",
+      "name": "Yue Zhao"
+    }
+  ],
+  "abstract": "Effectively analysis of remote-sensing images is very important in many practical applications, such as urban planning, geospatial object detection, military monitoring, vegetation mapping and precision agriculture. Recently, convolutional neural network based deep learning algorithm has achieved a series of breakthrough research results in the fields of objective detection, image semantic segmentation and image classification, etc. Their powerful feature learning capabilities have attracted more attention and have important research value. In this article, firstly we have summarized the basic structure and several classical convolutional neural network architectures. Secondly, the recent research problems on convolutional neural network are discussed. Later, we summarized the latest research results in convolutional neural network based remote sensing fields. Finally, the conclusion has made on the basis of current issue on convolutional neural networks and the future development direction.",
+  "references": null
+}

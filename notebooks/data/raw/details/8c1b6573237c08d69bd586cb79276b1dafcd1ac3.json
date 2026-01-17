@@ -1,0 +1,173 @@
+{
+  "paperId": "8c1b6573237c08d69bd586cb79276b1dafcd1ac3",
+  "externalIds": {
+    "MAG": "2802787693",
+    "PubMedCentral": "5948827",
+    "DBLP": "journals/sensors/HassaneinLE18",
+    "DOI": "10.3390/s18041253",
+    "CorpusId": 4998448,
+    "PubMed": "29670055"
+  },
+  "url": "https://www.semanticscholar.org/paper/8c1b6573237c08d69bd586cb79276b1dafcd1ac3",
+  "title": "A New Vegetation Segmentation Approach for Cropped Fields Based on Threshold Detection from Hue Histograms",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 61,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/4/1253/pdf?version=1525349075",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5948827, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "4326554",
+      "name": "M. Hassanein"
+    },
+    {
+      "authorId": "145795755",
+      "name": "Z. Lari"
+    },
+    {
+      "authorId": "70219005",
+      "name": "N. El-Sheimy"
+    }
+  ],
+  "abstract": "Over the last decade, the use of unmanned aerial vehicle (UAV) technology has evolved significantly in different applications as it provides a special platform capable of combining the benefits of terrestrial and aerial remote sensing. Therefore, such technology has been established as an important source of data collection for different precision agriculture (PA) applications such as crop health monitoring and weed management. Generally, these PA applications depend on performing a vegetation segmentation process as an initial step, which aims to detect the vegetation objects in collected agriculture fields’ images. The main result of the vegetation segmentation process is a binary image, where vegetations are presented in white color and the remaining objects are presented in black. Such process could easily be performed using different vegetation indexes derived from multispectral imagery. Recently, to expand the use of UAV imagery systems for PA applications, it was important to reduce the cost of such systems through using low-cost RGB cameras Thus, developing vegetation segmentation techniques for RGB images is a challenging problem. The proposed paper introduces a new vegetation segmentation methodology for low-cost UAV RGB images, which depends on using Hue color channel. The proposed methodology follows the assumption that the colors in any agriculture field image can be distributed into vegetation and non-vegetations colors. Therefore, four main steps are developed to detect five different threshold values using the hue histogram of the RGB image, these thresholds are capable to discriminate the dominant color, either vegetation or non-vegetation, within the agriculture field image. The achieved results for implementing the proposed methodology showed its ability to generate accurate and stable vegetation segmentation performance with mean accuracy equal to 87.29% and standard deviation as 12.5%.",
+  "references": [
+    {
+      "paperId": "625b47efe463898ff1ad7579a4ae45532aa9aaa1"
+    },
+    {
+      "paperId": "e58a698b537f1dceafa0f89b1c7cc0c6e03ecae1"
+    },
+    {
+      "paperId": "102c9017e8b1446593c6230016ec873b1eb70f44"
+    },
+    {
+      "paperId": "e8a5b0507f3695b916ca9b6a954a762a267cd8c4"
+    },
+    {
+      "paperId": "4dd062ef6ac1e0abaa473e295eae8b47411720f3"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "ed605bebf07e1859951e5836e1ffbf6f63221199"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "b5b4905e2fc9427387c728504d38c63b379e5056"
+    },
+    {
+      "paperId": "6bcc73fe9ba62853aab41a17ec748be9f2a10fe0"
+    },
+    {
+      "paperId": "bce193a5684a70f3c35f8e2b9a111c11f5a5a076"
+    },
+    {
+      "paperId": "76522ecfa6329e37ac01c7ee585959cd0ec40d88"
+    },
+    {
+      "paperId": "c4fbafaf8f9325491ecf15770eaec43755d4a8f3"
+    },
+    {
+      "paperId": "629cff80d4366f82c100eb45e343bc11da7256aa"
+    },
+    {
+      "paperId": "cf7cfa4b33b942a84f01aa1bdd6704f1502836b9"
+    },
+    {
+      "paperId": "3436e3aa37ec66ad42daa957893530012fb3ef16"
+    },
+    {
+      "paperId": "7396b4abd8bb01a2020a4eca3dce2cec45ec19f2"
+    },
+    {
+      "paperId": "71120b6d5bac5cd1b2aebe51b5dbda27001f20d3"
+    },
+    {
+      "paperId": "b62459a61bcd89979ee4a3e49f6413cced9f9568"
+    },
+    {
+      "paperId": "69509db3f4cfc314a6577d6dc86dc45d4ea50b08"
+    },
+    {
+      "paperId": "c97a9a78c18f1d1a2fe450a1225ef66abcef71d5"
+    },
+    {
+      "paperId": "bd039d9ef12fc59167b359d9c43aad40ad2f8c4c"
+    },
+    {
+      "paperId": "e1d359d6b9bf3d4e4013286fc35522d650be245d"
+    },
+    {
+      "paperId": "ddfa4e9b667dba47693ac0e961a6abaf3bbdaee3"
+    },
+    {
+      "paperId": "0f4e05823e8dd1c1def6dc8574242df80a4ca2e0"
+    },
+    {
+      "paperId": "910d35b3545e73e127787f14a45f927745265aa9"
+    },
+    {
+      "paperId": "40c375748105f13e52adfa5e4ec6f2aa02e3e5ce"
+    },
+    {
+      "paperId": "3d8a12c69a0b8c4f60fad0bdb8ee9c421fe4dd34"
+    },
+    {
+      "paperId": "05f9119eac75166ac87aa47b8060b9afa973def5"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "4a34a252f4897eeffcc76f044f0cbd62d9515493"
+    },
+    {
+      "paperId": "042305fdca6fa3efa785c77bd1d72bf9cabbd993"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b057253f8dbc374e1c38c7e9c093923723750df3"
+    },
+    {
+      "paperId": "b70e05b680b7f7523a443cf8e6f84a190573cc80"
+    },
+    {
+      "paperId": "d9cd8b15d0da33cc3791a031cbaa15144fed857d"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "50e57e9c8dd7e8269d82949ca993bfcc2c822286"
+    },
+    {
+      "paperId": "7cd576bd2efbc2e4746ac074d1516da644e55e85"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": "d4bd8b2ac8604d3bd2657463110acab2270368e4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

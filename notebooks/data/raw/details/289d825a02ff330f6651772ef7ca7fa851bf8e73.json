@@ -1,0 +1,48 @@
+{
+  "paperId": "289d825a02ff330f6651772ef7ca7fa851bf8e73",
+  "externalIds": {
+    "DBLP": "conf/case/EdmondsYSW19",
+    "MAG": "2973877848",
+    "DOI": "10.1109/COASE.2019.8843057",
+    "CorpusId": 202700464
+  },
+  "url": "https://www.semanticscholar.org/paper/289d825a02ff330f6651772ef7ca7fa851bf8e73",
+  "title": "Generation of High-Density Hyperspectral Point Clouds of Crops with Robotic Multi-Camera Planning",
+  "venue": "2019 IEEE 15th International Conference on Automation Science and Engineering (CASE)",
+  "year": 2019,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COASE.2019.8843057?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COASE.2019.8843057, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "152291013",
+      "name": "Merrill Edmonds"
+    },
+    {
+      "authorId": "1716335",
+      "name": "J. Yi"
+    },
+    {
+      "authorId": "150249512",
+      "name": "N. Singa"
+    },
+    {
+      "authorId": "1390770513",
+      "name": "Lingyun Wang"
+    }
+  ],
+  "abstract": "Hyperspectral imaging and point-cloud based mapping of horticultural crops provide crucial information for precision agriculture applications. In this paper, we present an optimal method of autonomously generating high-density hyperspectral point clouds of objects using a robotic multi-camera suite, without the need for high-cost, large-size hyperspectral cameras. The sensing and imaging fusion are integrated through the use of next-best-view planning for a heterogeneous set of cameras, and a novel information gain metric designed specifically for hyperspectral point clouds. We also introduce a tractable approximation to the IG metric for real-time applications. Both metrics are tested on plant scans with augmented spectral data to demonstrate the capabilities and accuracy of the method.",
+  "references": null
+}

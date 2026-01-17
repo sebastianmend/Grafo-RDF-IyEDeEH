@@ -1,0 +1,137 @@
+{
+  "paperId": "b19c473e3c39b755468ed04d8b87eb43434f52ae",
+  "externalIds": {
+    "MAG": "2979370503",
+    "DOI": "10.1088/1742-6596/1299/1/012070",
+    "CorpusId": 210315970
+  },
+  "url": "https://www.semanticscholar.org/paper/b19c473e3c39b755468ed04d8b87eb43434f52ae",
+  "title": "Soil characterisation for precision agriculture using remotely sensed imagery in southeastern Nigeria",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1299/1/012070",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1299/1/012070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1299/1/012070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "39120566",
+      "name": "O. T. Kayode"
+    },
+    {
+      "authorId": "22361366",
+      "name": "A. Aizebeokhai"
+    },
+    {
+      "authorId": "5575221",
+      "name": "A. Odukoya"
+    }
+  ],
+  "abstract": "Remote sensing techniques have been widely used for spatial assessment of soil properties. Traditional techniques involving soil sampling and laboratory analysis are expensive and labour intensive for large areas. High resolution remote sensing data and geographic information systems (GIS) were used for spatial characterization of soil properties in southeast Nigeria. Thesoil parameters investigated include soil texture, pH and drainage pattern. Thetexture, which indicates the sand, silt and clay content in the soil, showed that sandyclay and loamy sand are predominant for the areas investigated. The soils pH ranged from slightly acidic to strongly alkaline. The study has been specifically conducted to making adequate soil data available and acts as a reference for improving soil quality within the area.",
+  "references": [
+    {
+      "paperId": "e32ec70ca2bf4626056d4bd7bc909e6a67cdb1a6"
+    },
+    {
+      "paperId": "f891d538f39cce57df196891168881af7347a1b2"
+    },
+    {
+      "paperId": "ed1dbb04d5fd02f36f1910b44f20dedf3f199134"
+    },
+    {
+      "paperId": "13fcb225fc31914d87c4a53877caded4021321ed"
+    },
+    {
+      "paperId": "258208136ba3c875fa1453f558d28815d0acf3bc"
+    },
+    {
+      "paperId": "5e47ffcb77fd7156149432a212ed651d14695664"
+    },
+    {
+      "paperId": "edbbfce42b0b9d3a1c6187ac2784bc679548c091"
+    },
+    {
+      "paperId": "d2606445fae818b032590a01918dc286917957da"
+    },
+    {
+      "paperId": "5704c7acb50f28815ec6f808d162e4cd01bae30d"
+    },
+    {
+      "paperId": "6f5597a633da6fe05ee60dcccfe3d66469da5616"
+    },
+    {
+      "paperId": "3843b525abcc6609069d06d656d65dd6a1109192"
+    },
+    {
+      "paperId": "35fa6a3410aa3a89b8871628ea590945b09e6de4"
+    },
+    {
+      "paperId": "94bfdcc94d504692ad03f9f20305b844e7d93eb9"
+    },
+    {
+      "paperId": "a30cd968ccf3ddff8f5074417715200a75087d3a"
+    },
+    {
+      "paperId": "c8cf95df05cf57ff7c458b873909b64e565f228b"
+    },
+    {
+      "paperId": "b96a70f79482356ee6b673f590c0a075b818aa5b"
+    },
+    {
+      "paperId": "b6204b85b44d28509b54910cfd20ea392f2b4640"
+    },
+    {
+      "paperId": "8319d4bcab32998bcdde5802b74df196854d403b"
+    },
+    {
+      "paperId": "babdc9f46f20664208826b9d9ffdaf2b50dee927"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "192d6168fcc8c61545d53a540b3bacb2f9a4701c",
+  "externalIds": {
+    "MAG": "2794291272",
+    "DOI": "10.1002/elps.201800001",
+    "CorpusId": 3390093,
+    "PubMed": "29464729"
+  },
+  "url": "https://www.semanticscholar.org/paper/192d6168fcc8c61545d53a540b3bacb2f9a4701c",
+  "title": "Establishing a sensitive capillary electrophoresis‐UV method for direct determination of amino acids to evaluate vinegar quality",
+  "venue": "Electrophoresis",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/elps.201800001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/elps.201800001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2068286758",
+      "name": "Tian Luo"
+    },
+    {
+      "authorId": "2115459337",
+      "name": "Yue Dong"
+    },
+    {
+      "authorId": "48798816",
+      "name": "Shujuan He"
+    },
+    {
+      "authorId": "2143850560",
+      "name": "Jing Yang"
+    },
+    {
+      "authorId": "50776675",
+      "name": "Yuming Dong"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

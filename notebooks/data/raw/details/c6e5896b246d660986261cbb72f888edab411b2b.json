@@ -1,0 +1,304 @@
+{
+  "paperId": "c6e5896b246d660986261cbb72f888edab411b2b",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/NasiVKAHMH18",
+    "MAG": "2837916766",
+    "DOI": "10.3390/RS10071082",
+    "CorpusId": 51965311
+  },
+  "url": "https://www.semanticscholar.org/paper/c6e5896b246d660986261cbb72f888edab411b2b",
+  "title": "Estimating Biomass and Nitrogen Amount of Barley and Grass Using UAV and Aircraft Based Spectral and Photogrammetric 3D Features",
+  "venue": "Remote Sensing",
+  "year": 2018,
+  "citationCount": 149,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/10/7/1082/pdf?version=1530938558",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS10071082?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS10071082, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "9669918",
+      "name": "R. Näsi"
+    },
+    {
+      "authorId": "3486632",
+      "name": "N. Viljanen"
+    },
+    {
+      "authorId": "2643243",
+      "name": "J. Kaivosoja"
+    },
+    {
+      "authorId": "51166043",
+      "name": "K. Alhonoja"
+    },
+    {
+      "authorId": "35682469",
+      "name": "T. Hakala"
+    },
+    {
+      "authorId": "9653495",
+      "name": "L. Markelin"
+    },
+    {
+      "authorId": "3014621",
+      "name": "E. Honkavaara"
+    }
+  ],
+  "abstract": "The timely estimation of crop biomass and nitrogen content is a crucial step in various tasks in precision agriculture, for example in fertilization optimization. Remote sensing using drones and aircrafts offers a feasible tool to carry out this task. Our objective was to develop and assess a methodology for crop biomass and nitrogen estimation, integrating spectral and 3D features that can be extracted using airborne miniaturized multispectral, hyperspectral and colour (RGB) cameras. We used the Random Forest (RF) as the estimator, and in addition Simple Linear Regression (SLR) was used to validate the consistency of the RF results. The method was assessed with empirical datasets captured of a barley field and a grass silage trial site using a hyperspectral camera based on the Fabry-Pérot interferometer (FPI) and a regular RGB camera onboard a drone and an aircraft. Agricultural reference measurements included fresh yield (FY), dry matter yield (DMY) and amount of nitrogen. In DMY estimation of barley, the Pearson Correlation Coefficient (PCC) and the normalized Root Mean Square Error (RMSE%) were at best 0.95% and 33.2%, respectively; and in the grass DMY estimation, the best results were 0.79% and 1.9%, respectively. In the nitrogen amount estimations of barley, the PCC and RMSE% were at best 0.97% and 21.6%, respectively. In the biomass estimation, the best results were obtained when integrating hyperspectral and 3D features, but the integration of RGB images and 3D features also provided results that were almost as good. In nitrogen content estimation, the hyperspectral camera gave the best results. We concluded that the integration of spectral and high spatial resolution 3D features and radiometric calibration was necessary to optimize the accuracy.",
+  "references": [
+    {
+      "paperId": "3511a99400b886aa9f1dedcf82a4817fd0b5c383"
+    },
+    {
+      "paperId": "54ac5b7dac6a669e5c93b8dba4ec7f9f1f718b29"
+    },
+    {
+      "paperId": "30832464c8dcba4be02729836ff917ee88b059d5"
+    },
+    {
+      "paperId": "42fec20b6ea4fb7735dfce25517d9dd3d7557439"
+    },
+    {
+      "paperId": "a6a5ac308834536f19aa45793d1ec0ca80f75d9b"
+    },
+    {
+      "paperId": "2cdd7508226414fb37b3e260d4c7a48c49962c25"
+    },
+    {
+      "paperId": "8a476625148d7da468687b03c7bea8d226285880"
+    },
+    {
+      "paperId": "e6df3abd7deb10ce0861d12910037013546a2dc9"
+    },
+    {
+      "paperId": "b82f129da684263bad215bdd2d9224265e60a337"
+    },
+    {
+      "paperId": "6c63d37c20fcfef58e35926de08a3479e4a5285b"
+    },
+    {
+      "paperId": "b433e2754509ed5b7defa543ddd7c816d84737e2"
+    },
+    {
+      "paperId": "ba270113eecb5150bf16d636e6c28b2ee7d592ce"
+    },
+    {
+      "paperId": "f588f3773609bb24c880c225a3eae701fbb1d3d3"
+    },
+    {
+      "paperId": "2b1667f61580deaf6dca19d2cb1066685e404eff"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "0b355251bf765266f75b174f18b05559e5c153dd"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "e461526cfdfb4ddea285281140fa780fec0aba7a"
+    },
+    {
+      "paperId": "53c1db3662678d7bfaf79e6b19fa7c481cdb0e55"
+    },
+    {
+      "paperId": "f6ac8ed38189f33846bc2d0e721f7621bd4b0de7"
+    },
+    {
+      "paperId": "623491d5ba1ee430075696e7d06a5d301347a7f9"
+    },
+    {
+      "paperId": "2e37205d9d699622a505d4f02cb3a07365a73d53"
+    },
+    {
+      "paperId": "a975821738c3a70d0ca0d092703ad50b3e3040ce"
+    },
+    {
+      "paperId": "6c0bbf56c111c5c4c0ed7ac740761eee1af0d142"
+    },
+    {
+      "paperId": "2e406bb3e90d649338ee1d1f9d9332098befd560"
+    },
+    {
+      "paperId": "339cc7345e2d0abd6be67c6b030a8be077759af1"
+    },
+    {
+      "paperId": "9939d2d02c5f83c643a2e973e9ca6966c6b199da"
+    },
+    {
+      "paperId": "454ebf83a318b35a7d60a3074a833ad3242dad79"
+    },
+    {
+      "paperId": "b16408a97170785fb216c9e8b7920d64f478fbc8"
+    },
+    {
+      "paperId": "8fcc28a0ce263238144e542dc39f2a9b910a02ed"
+    },
+    {
+      "paperId": "2380b5bd03a4555fab4213eb1ff2ec7af617cc81"
+    },
+    {
+      "paperId": "81e20eec7983dea4e61842cc37d70a12c1c0606e"
+    },
+    {
+      "paperId": "e69f78df9855b84757248a9c888be597e8253d00"
+    },
+    {
+      "paperId": "01b324850bea5b44498e4733af0736f47113c445"
+    },
+    {
+      "paperId": "4c5ec9d621b9c71ca76b5e7fa4a12b98928cce69"
+    },
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "2949ed3a26db0bbaa2e6e3ec1556833750452c71"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "02f498a7242fce3a3185f1f50332fbdaa8e152c9"
+    },
+    {
+      "paperId": "9aef0b1e140209b9d055e91090d1d8affb69b318"
+    },
+    {
+      "paperId": "851898a294f7626482904f5d5a1b93a0090244a8"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "309030d53a412de0e855fa4b2a9f6bbc3bbe9d02"
+    },
+    {
+      "paperId": "b0a552d0a33d9f9797daebcf027c08bbde9d60df"
+    },
+    {
+      "paperId": "2f237fa064b4babade01c5fba9e4f06303bef3bc"
+    },
+    {
+      "paperId": "986a66576bf19f5e38954660e0611f1fe9ac8ec2"
+    },
+    {
+      "paperId": "8176a5959d1d0e7aef6138e8de4f07e099725fdb"
+    },
+    {
+      "paperId": "632df768c4e45680d7469c08151d29d9e12cc2da"
+    },
+    {
+      "paperId": "e08a5b2a63ebc6106b91c2fa6d0e6c11208b1404"
+    },
+    {
+      "paperId": "ee6f1a62442a37927c471759691e0fc552377d3f"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "08b667cae0402f15cda3ddf231e9d8f80aaf54b3"
+    },
+    {
+      "paperId": "0d8241775f2e1786f536d5f65c22cce01e45674b"
+    },
+    {
+      "paperId": "da11f8b71e63dda947dcf7ad06cf587f4dd47772"
+    },
+    {
+      "paperId": "fc320cf1a93800c45b9e0fbf4ce1efac86e8ef6c"
+    },
+    {
+      "paperId": "61613ec9351b4b0468b051ba3f23ccbaf2289328"
+    },
+    {
+      "paperId": "146d47b4f3c685768913ded57204a74707caf493"
+    },
+    {
+      "paperId": "339558632f2d718136a723009de5cbccadfc079c"
+    },
+    {
+      "paperId": "7d70899d77b3bf0c47a37fb094bf323d318f14be"
+    },
+    {
+      "paperId": "7ad785d8cd5d45ee07a82a2c0d7d4c733b1251d5"
+    },
+    {
+      "paperId": "bba1d2024b40cb0b910f20801423d8f22608668c"
+    },
+    {
+      "paperId": "1d7a23cc71e60872d308cac5276f0b139deebffe"
+    },
+    {
+      "paperId": "19e2f848a7a051f7a7f8631fa29a0c1c7d2d83a6"
+    },
+    {
+      "paperId": "7b6eb7e7c99e8bf129ff7545ce25aa83d5a9ee4c"
+    },
+    {
+      "paperId": "60e085c60c9efca2c51fe07fbef526ed6ad5d1c4"
+    },
+    {
+      "paperId": "72e05ec708685cbeedb0f47f423a66a6a90a01db"
+    },
+    {
+      "paperId": "b4440022718ade9b9011fa2ed204ab0a7695ea6c"
+    },
+    {
+      "paperId": "00c7d10bc9db58e95dd4f4c1c5495d9f7f0866ce"
+    },
+    {
+      "paperId": "b6ee6d22f8918cec414903c587396e2aba14fc3e"
+    },
+    {
+      "paperId": "389fd21afbaab9cce5797eec4bdc5c38039bf56d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "6d31398e054aa319bb4216a9aec31b3a9fbe1aa2"
+    },
+    {
+      "paperId": "dd59962d25ef2960f5954a48b977255116b2ff01"
+    },
+    {
+      "paperId": "1252b101f3761b94570370fcb2ee8a2779d051db"
+    },
+    {
+      "paperId": "6c45b5f5481125a311ea46a05e7acfa1de0f2cfb"
+    },
+    {
+      "paperId": "f0524ee8882829faaedc7e4de8e5b698e5829b04"
+    },
+    {
+      "paperId": "aef80c000ed32d6558c63ef9d962046e6fb5f226"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": "318cf9ee36ef519e450144a6a494dfb09a1be8eb"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    }
+  ]
+}

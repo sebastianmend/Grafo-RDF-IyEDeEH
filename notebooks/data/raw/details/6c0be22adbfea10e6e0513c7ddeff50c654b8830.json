@@ -1,0 +1,125 @@
+{
+  "paperId": "6c0be22adbfea10e6e0513c7ddeff50c654b8830",
+  "externalIds": {
+    "DBLP": "journals/sensors/ReznikPHLLS19",
+    "PubMedCentral": "6891319",
+    "MAG": "2983695680",
+    "DOI": "10.3390/s19224879",
+    "CorpusId": 207936344,
+    "PubMed": "31717417"
+  },
+  "url": "https://www.semanticscholar.org/paper/6c0be22adbfea10e6e0513c7ddeff50c654b8830",
+  "title": "Deployment and Verifications of the Spatial Filtering of Data Measured by Field Harvesters and Methods of Their Interpolation: Czech Cereal Fields between 2014 and 2018",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/22/4879/pdf?version=1573611242",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6891319, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "34651030",
+      "name": "T. Řezník"
+    },
+    {
+      "authorId": "2093653413",
+      "name": "T. Pavelka"
+    },
+    {
+      "authorId": "40288642",
+      "name": "L. Herman"
+    },
+    {
+      "authorId": "108508903",
+      "name": "Simon Leitgeb"
+    },
+    {
+      "authorId": "40088778",
+      "name": "V. Lukas"
+    },
+    {
+      "authorId": "21566835",
+      "name": "Petr Širůček"
+    }
+  ],
+  "abstract": "Yield mapping is a subject of research in (precision) agriculture and one of the primary concerns for farmers as it forms the basis of their income and has implications for subsidies and taxes. The presented approach involves deployment of field harvesters equipped with sensors that provide more detailed and spatially localized values than merely a sum of yields for the whole plot. The measurements from such sensors need to be filtered and subject to further processing, including interpolation, to facilitate follow-up interpretation. This paper aims to identify the relative differences between interpolations from (1) (field) measured data, (2) measured data that were globally filtered, and (3) measured data that were globally and locally filtered. All the measured data were obtained at a fully operational farm and are considered to represent a natural experiment. The revealed spatial patterns and recommendations regarding global and local filtering methods are presented at the end of the paper. Time investments into filtering techniques are also taken into account.",
+  "references": [
+    {
+      "paperId": "bb5c07f03b7c6316cd3d207ae2368a0aa6d61e90"
+    },
+    {
+      "paperId": "10824659df0b578988c35b0d455c8c6f083a9155"
+    },
+    {
+      "paperId": "ccdb0a2cc4b76391d0ec84706388ec1e0a3767c8"
+    },
+    {
+      "paperId": "9a41ab739e72e8f0160ded483baf66dfdd4682dd"
+    },
+    {
+      "paperId": "a7fe747d570005a8960123d567794c9ec6e30220"
+    },
+    {
+      "paperId": "edbfeb9a25f89904635252d8191d095e537a05e8"
+    },
+    {
+      "paperId": "979e508c3e34fcfa069643a5b937ee7c8aceef86"
+    },
+    {
+      "paperId": "e54d7efacd957294d2234050813aece32e4b3347"
+    },
+    {
+      "paperId": "98b33689c40bedc949f3d0b20c5e51176ef1df02"
+    },
+    {
+      "paperId": "47c759413f3f018c809d2e74cb7e0f421ca2e7fb"
+    },
+    {
+      "paperId": "8c557c410fce9a9ac1f3250b1e9d53ed86ef5ccc"
+    },
+    {
+      "paperId": "76a2cd9faf2cec9caeb4d76ee35d21f2803ac374"
+    },
+    {
+      "paperId": "dffb8d68fee32975c08db65c8727ee7acfb33a4d"
+    },
+    {
+      "paperId": "99f5fb98af9b8182c71a08ea1c38a3f8a57197fd"
+    },
+    {
+      "paperId": "363b54545f1ea211bf79ddf6f68bc78050cd522c"
+    },
+    {
+      "paperId": "419fe62df15b96a266433357a5ab3392a37021ae"
+    },
+    {
+      "paperId": "3a953238e0afba2bfa4d56ef6ec3396660b8023c"
+    },
+    {
+      "paperId": "065b7e09cc81e44d5f7912e6aaf7d551f3770532"
+    },
+    {
+      "paperId": "01844398aafbbfbad57794e959dc2ddce81f2fb7"
+    },
+    {
+      "paperId": "2d8ee0d644102a8b2a9d9d8419825b9967bfd3fd"
+    },
+    {
+      "paperId": "555ba777974c9cade8899f9ba0bcc200d1efcc09"
+    },
+    {
+      "paperId": "da91b1ac6c12c28b5a361ba3085710bb3755f093"
+    }
+  ]
+}

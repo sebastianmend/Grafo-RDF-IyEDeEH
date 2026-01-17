@@ -1,0 +1,47 @@
+{
+  "paperId": "79c941eea37f4884dd845305eccf72da0e43555a",
+  "externalIds": {
+    "DBLP": "journals/jirs/MuhammadMBK19",
+    "MAG": "2815975866",
+    "DOI": "10.1007/s10846-018-0901-x",
+    "CorpusId": 115969134
+  },
+  "url": "https://www.semanticscholar.org/paper/79c941eea37f4884dd845305eccf72da0e43555a",
+  "title": "Designing Human Assisted Wireless Sensor and Robot Networks Using Probabilistic Model Checking",
+  "venue": "Journal of Intelligent and Robotic Systems",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10846-018-0901-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10846-018-0901-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2444830",
+      "name": "Shahabuddin Muhammad"
+    },
+    {
+      "authorId": "20586096",
+      "name": "Nazeeruddin Mohammad"
+    },
+    {
+      "authorId": "1423434950",
+      "name": "A. Bashar"
+    },
+    {
+      "authorId": "2110261903",
+      "name": "M. Khan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

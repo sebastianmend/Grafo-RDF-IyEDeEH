@@ -1,0 +1,44 @@
+{
+  "paperId": "e37ed8d222d140b7be822ab2cbbd3253e691d3e6",
+  "externalIds": {
+    "DBLP": "conf/softcom/ViskovicKM19",
+    "MAG": "2989864137",
+    "DOI": "10.23919/SOFTCOM.2019.8903738",
+    "CorpusId": 208209906
+  },
+  "url": "https://www.semanticscholar.org/paper/e37ed8d222d140b7be822ab2cbbd3253e691d3e6",
+  "title": "Crop Classification using Multi-spectral and Multitemporal Satellite Imagery with Machine Learning",
+  "venue": "International Conference on Software, Telecommunications and Computer Networks",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/SOFTCOM.2019.8903738?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/SOFTCOM.2019.8903738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1423732867",
+      "name": "Lucija Viskovic"
+    },
+    {
+      "authorId": "30402037",
+      "name": "I. Kosovic"
+    },
+    {
+      "authorId": "2617761",
+      "name": "Toni Mastelić"
+    }
+  ],
+  "abstract": "Satellite images are highly utilized for detecting land usage, while in recent years a finer-grade crop classification has become important in the context of precision agriculture. However, such classification brings new challenges, which aside from multi-spectral images require exploitation of their multi-temporal properties as well, with pixel-based analysis and larger number of classes. In this paper, we apply several machine learning algorithms on multi-spectral and multi-temporal satellite images and derive crop classification models. The models are applied only on agricultural fields, which can be singled out with the existing land usage classification models. Results show that the random forest outperforms other algorithms with accuracy score of 0.8420 and Kappa score of 0.8157. Detailed analysis of recall and precision scores is given for each crop separately, followed by a comprehensive discussion.",
+  "references": null
+}

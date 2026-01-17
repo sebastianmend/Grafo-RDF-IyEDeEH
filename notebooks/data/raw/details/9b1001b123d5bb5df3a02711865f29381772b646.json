@@ -1,0 +1,186 @@
+{
+  "paperId": "9b1001b123d5bb5df3a02711865f29381772b646",
+  "externalIds": {
+    "MAG": "2951043046",
+    "PubMedCentral": "6653787",
+    "DOI": "10.1089/fpd.2019.2662",
+    "CorpusId": 189814013,
+    "PubMed": "31194586"
+  },
+  "url": "https://www.semanticscholar.org/paper/9b1001b123d5bb5df3a02711865f29381772b646",
+  "title": "Use of Whole-Genome Sequencing for Food Safety and Public Health in the United States",
+  "venue": "Foodborne pathogens and disease",
+  "year": 2019,
+  "citationCount": 122,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.liebertpub.com/doi/pdf/10.1089/fpd.2019.2662",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6653787, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40248429",
+      "name": "E. Brown"
+    },
+    {
+      "authorId": "13480744",
+      "name": "Uday Dessai"
+    },
+    {
+      "authorId": "144449920",
+      "name": "Sherri McGarry"
+    },
+    {
+      "authorId": "1398959473",
+      "name": "P. Gerner-Smidt"
+    }
+  ],
+  "abstract": "Whole-genome sequencing (WGS) is increasingly used by food regulatory and public health agencies in the United States to facilitate the detection, investigation, and control of foodborne bacterial outbreaks, and food regulatory and other activities in support of food safety. WGS has added a level of precision to the surveillance leading to faster and more efficient decision making in the preparedness and response to foodborne infections. In this review, we report the history of WGS technology at the Centers for Disease Control & Prevention (CDC), the Food and Drug Administration (FDA), and the United States Department of Agriculture's Food Safety and Inspection Service (USDA/FSIS) as it applies to food safety. The basic principle of the method, the analysis, and interpretation of the data are explained as is its major strengths and limitations. We also describe the benefits and possibilities of the WGS technology to the food industry throughout the farm-to-fork continuum and the prospects of metagenomic sequencing applied directly to the sample specimen with or without pre-enrichment culture.",
+  "references": [
+    {
+      "paperId": "f98fd3942edacf0b752e333a1b1d7b320a0e4b9b"
+    },
+    {
+      "paperId": "904219ac4fef7e6ee5f6bad684f2cae29cd2e1ec"
+    },
+    {
+      "paperId": "b44d2d24bfc638c31d740eba7d6b8e3d277e2de6"
+    },
+    {
+      "paperId": "a90ad455653a6de731c53abcedd24b2f7e7307e8"
+    },
+    {
+      "paperId": "f094d30530c0140804903cfc24b74be71d9f6edb"
+    },
+    {
+      "paperId": "b507e75f46edd5d773c24d1dfb7b4785a64e126d"
+    },
+    {
+      "paperId": "afe8345c80c6218f04da91cbe21ebc2e1b3bfe47"
+    },
+    {
+      "paperId": "76ead03fe4fdbfb493c1a2bc32b70078de8c21fc"
+    },
+    {
+      "paperId": "1915b93ddda2599b15be57b7f86147e7fcfe780d"
+    },
+    {
+      "paperId": "9807fc9a3bc7fcd90738ed5fd8296c791639cf2b"
+    },
+    {
+      "paperId": "9ca23329da26b5396436446b84cecd0d85c7993c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "8d641d61cfbe58055786372842f382bd4c259d3c"
+    },
+    {
+      "paperId": "e3de745d3a94392437bfa70d014ee1086d2223ef"
+    },
+    {
+      "paperId": "f4777d3489681d88892bfbd9c50879061c6fe81b"
+    },
+    {
+      "paperId": "29813ade05291c131693119da3ee59695103c83b"
+    },
+    {
+      "paperId": "4f267935b0a7898b0a477ab6574ac26ff015f613"
+    },
+    {
+      "paperId": "dea421ded9afc2c2179e52b62eb0dac99db8f75c"
+    },
+    {
+      "paperId": "9e5f5974c496444968653e90423399b42152299c"
+    },
+    {
+      "paperId": "f9b9b1797fa218ae3bcf3897f211fc5232eb5f94"
+    },
+    {
+      "paperId": "67426474640b052a832e7d674d2b6c10320a57b9"
+    },
+    {
+      "paperId": "c4a99ccdd59f4a1c37053763d46e374fc14e13ed"
+    },
+    {
+      "paperId": "996c32685d5b483777fc3c9b0bb818608770423f"
+    },
+    {
+      "paperId": "9db3e45123cdcab2f481687f956e2293d4b1fee1"
+    },
+    {
+      "paperId": "e040a6611fdec0a42cb683df501da2ed08be5843"
+    },
+    {
+      "paperId": "c074a2cb48a6594ef4e5dde8d74b84fdd7c65ae4"
+    },
+    {
+      "paperId": "877b2499ac84606b918263e46b2dbd32dc4e2dd3"
+    },
+    {
+      "paperId": "dc0afbfb55f71ec65a95f654bee2016259449caa"
+    },
+    {
+      "paperId": "3f61c9f44836682b771308942b78824f4a6d7dd4"
+    },
+    {
+      "paperId": "35411f5ee26b1e4b2aa9d3bb123904cfb0c57bf5"
+    },
+    {
+      "paperId": "617c8bca5de3f6b958603a0502b4b67820bcdb4c"
+    },
+    {
+      "paperId": "5cd4664fe8b85b710cb12ee35999630b621fc72e"
+    },
+    {
+      "paperId": "5e246e08df606eae5ae2d5d27526305b34199d28"
+    },
+    {
+      "paperId": "a39484f095503d18001bdd62962bc6e157dd7b4e"
+    },
+    {
+      "paperId": "5100a0b9f2d3f0de5fcf21370da27f0878eb21ca"
+    },
+    {
+      "paperId": "f4dfd7bbef602827a23221b3c1a168f642c393ba"
+    },
+    {
+      "paperId": "1d96856ef6924398bfa4e9ca0fe6224deecdea65"
+    },
+    {
+      "paperId": "b14dd498c2006660373257796332ee5f03d0272d"
+    },
+    {
+      "paperId": "3411115c686245db02a305cf3e7486684b1e57b9"
+    },
+    {
+      "paperId": "6306e11ede71a3294295391b85c3eb4d5b830c68"
+    },
+    {
+      "paperId": "73163af27c031b5024cd1f4930757393c2cfa990"
+    },
+    {
+      "paperId": "d0bfed3a7fe8a40ddf9fba96e7b6fb1eaf5006b3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c78bf212cbf3b923fd74422ca6a948fc5202469f"
+    },
+    {
+      "paperId": "d4f9c815313f49c5a35e492a33c26a9ea3a0d7d3"
+    }
+  ]
+}

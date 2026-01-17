@@ -1,0 +1,207 @@
+{
+  "paperId": "7aaa4a360cc530f8262142c39b115a323b63a1bf",
+  "externalIds": {
+    "MAG": "2877462891",
+    "DBLP": "journals/complexity/LovasFMAKSK18",
+    "DOI": "10.1155/2018/8281079",
+    "CorpusId": 51605711
+  },
+  "url": "https://www.semanticscholar.org/paper/7aaa4a360cc530f8262142c39b115a323b63a1bf",
+  "title": "Orchestrated Platform for Cyber-Physical Systems",
+  "venue": "Complex",
+  "year": 2018,
+  "citationCount": 19,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://downloads.hindawi.com/journals/complexity/2018/8281079.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2018/8281079?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2018/8281079, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "144752083",
+      "name": "R. Lovas"
+    },
+    {
+      "authorId": "1845908624",
+      "name": "Attila Farkas"
+    },
+    {
+      "authorId": "40464080",
+      "name": "A. Marosi"
+    },
+    {
+      "authorId": "1859364",
+      "name": "Sándor Ács"
+    },
+    {
+      "authorId": "11815194",
+      "name": "J. Kovács"
+    },
+    {
+      "authorId": "51055821",
+      "name": "Ádám Szalóki"
+    },
+    {
+      "authorId": "1835984",
+      "name": "B. Kádár"
+    }
+  ],
+  "abstract": "One of the main driving forces in the era of cyber-physical systems (CPSs) is the introduction of massive sensor networks (or nowadays various Internet of things solutions as well) into manufacturing processes, connected cars, precision agriculture, and so on. Therefore, large amounts of sensor data have to be ingested at the server side in order to generate and make the “twin digital model” or virtual factory of the existing physical processes for (among others) predictive simulation and scheduling purposes usable. In this paper, we focus on our ultimate goal, a novel software container-based approach with cloud agnostic orchestration facilities that enable the system operators in the industry to create and manage scalable, virtual IT platforms on-demand for these two typical major pillars of CPS: (1) server-side (i.e., back-end) framework for sensor networks and (2) configurable simulation tool for predicting the behavior of manufacturing systems. The paper discusses the scalability of the applied discrete-event simulation tool and the layered back-end framework starting from simple virtual machine-level to sophisticated multilevel autoscaling use case scenario. The presented achievements and evaluations leverage on (among others) the synergy of the existing EasySim simulator, our new CQueue software container manager, the continuously developed Occopus cloud orchestrator tool, and the latest version of the evolving MiCADO framework for integrating such tools into a unified platform.",
+  "references": [
+    {
+      "paperId": "b66b901b1e48febb40e4e88b9e2d1bc6a7a3102e"
+    },
+    {
+      "paperId": "f21376ac7e0276c73bb5e99ca544a796e5984122"
+    },
+    {
+      "paperId": "a29afef550bf4edbf3293a50ef3fdb785ff1e5a3"
+    },
+    {
+      "paperId": "7a7e94946e2c9f5faba211bb47779ab3543fb973"
+    },
+    {
+      "paperId": "05dd3536ba7a8e017cf7b7cb56975a4cd6a53392"
+    },
+    {
+      "paperId": "a4b2fcd91638be1f98b0b49036ddf4b9d4aa196c"
+    },
+    {
+      "paperId": "bc26687150abbe73b590c81d8a5a3004c49deae4"
+    },
+    {
+      "paperId": "c12736b981c8b32f8734d2b18f23f56a62074d17"
+    },
+    {
+      "paperId": "a6d3ceea74deba7ba762ec051492d79794933e98"
+    },
+    {
+      "paperId": "72c4d8b64a9959ea45677ca1955d3491ef0f1c62"
+    },
+    {
+      "paperId": "f7e359aead8388859c1b5081353dda83a5a23049"
+    },
+    {
+      "paperId": "2e71bd42209bd9bd608f50fbf81bff4afaa34a1c"
+    },
+    {
+      "paperId": "8ce4c0ee315d86f32ec7354ccdf8d8996e8ee270"
+    },
+    {
+      "paperId": "1b08636e9c3fd8b0167bb7a7ae624f72bf06e056"
+    },
+    {
+      "paperId": "f265b96ac12fdbcf7392f6fecd421152bcb8d665"
+    },
+    {
+      "paperId": "e65e6ae872686a6d8af6259df5e5290ba6bae724"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "73672a3a964e87f106d51f57ce49d48728c73493"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9ff306318da2ffbb135e91496282375b15bf29df"
+    },
+    {
+      "paperId": "7a75c886b043e7c3f77829412774de27648f384a"
+    },
+    {
+      "paperId": "340b35a69467b81493b7484bb75366bd13102291"
+    },
+    {
+      "paperId": "8e07ed9641988c449e5fcdbacf856812aa96aca6"
+    },
+    {
+      "paperId": "1719565402c81715ca58397e6d13d81ac02fe3ff"
+    },
+    {
+      "paperId": "3243908f7b2b58c4b220ed1cebd4e6dc93792ebc"
+    },
+    {
+      "paperId": "696565e949c11e48fa1c0dffa46ce75cd26ddc21"
+    },
+    {
+      "paperId": "3cefa90b9ae4131dbbb41df7fd48b5924239796d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

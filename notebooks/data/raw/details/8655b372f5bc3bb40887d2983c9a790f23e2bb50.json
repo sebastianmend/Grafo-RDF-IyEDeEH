@@ -1,0 +1,104 @@
+{
+  "paperId": "8655b372f5bc3bb40887d2983c9a790f23e2bb50",
+  "externalIds": {
+    "DBLP": "journals/js/BaeK18",
+    "MAG": "2799309181",
+    "DOI": "10.1155/2018/5154697",
+    "CorpusId": 21716093
+  },
+  "url": "https://www.semanticscholar.org/paper/8655b372f5bc3bb40887d2983c9a790f23e2bb50",
+  "title": "Performance Analysis of Network-RTK Techniques for Drone Navigation considering Ionospheric Conditions",
+  "venue": "J. Sensors",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "http://downloads.hindawi.com/journals/js/2018/5154697.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2018/5154697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2018/5154697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "32399736",
+      "name": "T. Bae"
+    },
+    {
+      "authorId": "50619717",
+      "name": "Minho Kim"
+    }
+  ],
+  "abstract": "Recently, an accurate positioning has become the kernel of autonomous navigation with the rapid growth of drones including mapping purpose. The Network-based Real-time Kinematic (NRTK) system was predominantly used for precision positioning in many fields such as surveying and agriculture, mostly in static mode or low-speed operation. The NRTK positioning, in general, shows much better performance with the fixed integer ambiguities. However, the success rate of the ambiguity resolution is highly dependent on the ionospheric condition and the surrounding environment of Global Navigation Satellite System (GNSS) positioning, which particularly corresponds to the low-cost GNSS receivers. We analyzed the effects of the ionospheric conditions on the GNSS NRTK, as well as the possibility of applying the mobile NRTK to drone navigation for mapping. Two NRTK systems in operation were analyzed during a period of high ionospheric conditions, and the accuracy and the performance were compared for several operational cases. The test results show that a submeter accuracy is available even with float ambiguity under a favorable condition (i.e., visibility of the satellites as well as stable ionosphere). We still need to consider how to deal with ionospheric disturbances which may prevent NRTK positioning.",
+  "references": [
+    {
+      "paperId": "500d5b74488c7c685b4feccb6f8d7cbbb33e10b2"
+    },
+    {
+      "paperId": "95643c6f509985a6a3b58db103d4b06665775888"
+    },
+    {
+      "paperId": "8744e01f2c192226f44cfea08034572b8471fe89"
+    },
+    {
+      "paperId": "fc67927f8ed13d06aaaa480d834b50aecdf72dbe"
+    },
+    {
+      "paperId": "6792da084b64f08cea9dc62b85f88f8641209ea0"
+    },
+    {
+      "paperId": "618a8b17432c7a57ddf17dd4431d3245fe00d569"
+    },
+    {
+      "paperId": "1509eb16ba6ac6d30b85d801baafc1acf591f10d"
+    },
+    {
+      "paperId": "c3e07f9f0638f3ef2288759337d09bb118d7eb68"
+    },
+    {
+      "paperId": "2565c15653039af7d6ae272456e40e8ebe750f91"
+    },
+    {
+      "paperId": "9990e9d649972d7f651a3c561ca9e596a9456c63"
+    },
+    {
+      "paperId": "ba1cf621f6ce5ea155ccd4e332ae70bdc45c2e81"
+    },
+    {
+      "paperId": "5ec3f48697d65a27eb7a2a7b55d22edddb1ebb73"
+    },
+    {
+      "paperId": "e7b204655c718ddda282d40fcb895d45ea9dfec2"
+    },
+    {
+      "paperId": "54cd29019742b917711db4ca39e122f66a105689"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a843e07437655b03008c77db5a1fee69374181e8"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

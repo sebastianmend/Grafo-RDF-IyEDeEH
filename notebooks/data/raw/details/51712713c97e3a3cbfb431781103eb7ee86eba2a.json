@@ -1,0 +1,60 @@
+{
+  "paperId": "51712713c97e3a3cbfb431781103eb7ee86eba2a",
+  "externalIds": {
+    "DBLP": "conf/igarss/Gonzalez-Piqueras18",
+    "MAG": "2901969784",
+    "DOI": "10.1109/IGARSS.2018.8518786",
+    "CorpusId": 53225409
+  },
+  "url": "https://www.semanticscholar.org/paper/51712713c97e3a3cbfb431781103eb7ee86eba2a",
+  "title": "Radiometric Performance of Multispectral Camera Applied to Operational Precision Agriculture",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518786?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518786, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403782342",
+      "name": "J. González-Piqueras"
+    },
+    {
+      "authorId": "153452072",
+      "name": "S. Sánchez"
+    },
+    {
+      "authorId": "51167685",
+      "name": "J. Villodre"
+    },
+    {
+      "authorId": "83253405",
+      "name": "H. López"
+    },
+    {
+      "authorId": "9703385",
+      "name": "A. Calera"
+    },
+    {
+      "authorId": "1403901633",
+      "name": "D. Hernández-López"
+    },
+    {
+      "authorId": "145775436",
+      "name": "J. M. Sánchez"
+    }
+  ],
+  "abstract": "The use of multispectral sensors onboard of unmanned vehicles is nowadays a common practice in precision agriculture. Their radiometric behavior is an important issue to ensure comparable information along space and time. A calibration of a Sequoia® camera is conducted in terms of reflectance and NDVI, taking benefit from a wheat cover field work. The output reflectance values in the green and red channel show linear behavior in the range of 0.00 to 0.45, with a saturation over this value. The red edge and NIR channels show linear behavior in the whole reflectance range, with better performance in the NIR than in the red-edge channel. The NDVI has a good agreement with field measurements, near the 1:1 line, showing the highest variability for the lower values due to heterogeneity of soil brightness linked to variations in soil moisture.",
+  "references": null
+}

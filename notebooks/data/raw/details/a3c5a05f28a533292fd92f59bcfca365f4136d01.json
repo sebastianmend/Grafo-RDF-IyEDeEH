@@ -1,0 +1,140 @@
+{
+  "paperId": "a3c5a05f28a533292fd92f59bcfca365f4136d01",
+  "externalIds": {
+    "MAG": "2950875607",
+    "DOI": "10.2991/ISPC-19.2019.30",
+    "CorpusId": 197816354
+  },
+  "url": "https://www.semanticscholar.org/paper/a3c5a05f28a533292fd92f59bcfca365f4136d01",
+  "title": "The economic essence of the category of precision agriculture",
+  "venue": "Proceedings of the International Scientific and Practical Conference “Digital agriculture - development strategy” (ISPC 2019)",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2991/ispc-19.2019.30",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ISPC-19.2019.30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ISPC-19.2019.30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Economics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "123718203",
+      "name": "G. Beznosov"
+    },
+    {
+      "authorId": "72789454",
+      "name": "A. Semin"
+    },
+    {
+      "authorId": "91539741",
+      "name": "E. Skvortsov"
+    },
+    {
+      "authorId": "2067037840",
+      "name": "S. Volkova"
+    }
+  ],
+  "abstract": "Precision agriculture technologies started in late 1980s in the United States and Australia with the development of a global positioning system (GPS), geographical information systems (GIS), remote sensing and simulation modeling. Their use increase crop yields, the efficiency of fertilizer application and plant protection products, and reduce the agrochemical load on the environment and improve significantly the quality of crop production. According to the Ministry of Agriculture of the RF by the end of 2018, the share of coverage of agricultural lands with these technologies had been 10%. According to the experts of the Kuban State Agrarian University, the elements of precision farming are used in 52 regions, the Krasnodar territory is a leader in the number of farms (189 farms). One can find the following synonyms of the category \"precision agriculture\" in the scientific literature: precision farming, coordinate farming, information technology, technology using GPS, etc. The basic stages in the system of precision agriculture can be grouped in a primary exploratory analysis, an analysis of monitoring results and development of field treatment strategies for a specific agricultural operation or in general, introduction of relevant agro-technological operations. On the territory of Russia, it is possible to use the American NAVSTAR and (or) the Russian GLONASS in precision agricultural technologies. The use of digital technologies will improve the efficiency of agricultural production significantly. A further study of the conceptual framework of this field of research is relevant. Keywords—precision agriculture, precision farming, coordinate farming.",
+  "references": [
+    {
+      "paperId": "01146cd299d878f86ff2128b84411010664aedd9"
+    },
+    {
+      "paperId": "0e495044628827abf46907cc5d1c48d34c09c66f"
+    },
+    {
+      "paperId": "054f827d57c989352de28e14ed353c2bc1855b9d"
+    },
+    {
+      "paperId": "bd482727156f6ee2b94dfe4bbf9f71ac5fcd392f"
+    },
+    {
+      "paperId": "910d35b3545e73e127787f14a45f927745265aa9"
+    },
+    {
+      "paperId": "cb92c3241274d2031cb8daff7e01077c854e33ca"
+    },
+    {
+      "paperId": "2fa8d566a0363785954868df21799cd48fd7c1fc"
+    },
+    {
+      "paperId": "f8b9d7c8735d22562188c596271caefc45900c1e"
+    },
+    {
+      "paperId": "e31e8a753a9bbd112d4c170c3b3f487a24632d56"
+    },
+    {
+      "paperId": "fa138a746c500b34a7bf11f673567a1d2e87b147"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

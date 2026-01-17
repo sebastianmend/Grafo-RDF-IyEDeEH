@@ -1,0 +1,44 @@
+{
+  "paperId": "82476f4cd74de4e837f58172ec9308307e71a96c",
+  "externalIds": {
+    "DBLP": "conf/icsipa/AbduMS19",
+    "MAG": "3003289562",
+    "DOI": "10.1109/ICSIPA45851.2019.8977798",
+    "CorpusId": 207835679
+  },
+  "url": "https://www.semanticscholar.org/paper/82476f4cd74de4e837f58172ec9308307e71a96c",
+  "title": "A Pattern Analysis-based Segmentation to Localize Early and Late Blight Disease Lesions in Digital Images of Plant Leaves",
+  "venue": "International Conference on Signal and Image Processing Applications",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSIPA45851.2019.8977798?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSIPA45851.2019.8977798, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2001035620",
+      "name": "A. Abdu"
+    },
+    {
+      "authorId": "1951977",
+      "name": "M. Mokji"
+    },
+    {
+      "authorId": "2412102",
+      "name": "U. U. Sheikh"
+    }
+  ],
+  "abstract": "This study reports a disease symptom classification algorithm using a proposed pattern recognition approach to individually localize early and late blight visual disease symptoms. The algorithm uses the pathological analogy hierarchy of the diseases to produce a novel homogeneous pattern localization, more informative to extract features that would be utilized for a machine learning system to classify the two diseases in digital photographs of vegetable plants. One of the most significant advantages of the proposed pattern analysis is localizing symptomatic and necrotic regions based on pathological disease analogy using soft computing, with which the pattern of each disease manifestation along the leaf surface can be tracked and quantified for characterization. In the 1st phase of the experiment, individual symptomatic (Rs), necrotic ($\\mathrm{R}_{\\mathrm{N}}$), and blurred ($\\mathrm{R}_{\\mathrm{B}}$, in-between healthy and symptomatic) regions were identified, segmented, and quantified. The 2nd phase focuses on the extraction of pattern features for classification and severity estimation with a machine learning classifier. The obtained results are encouraging, successfully localizing and quantifying individual disease lesions. This also indicates the enhanced applicability of the proposed approach discriminating the two diseases based on their dissimilarity. It is also envisaged that the algorithm can be extended to other plant disease symptoms. Moreover, it provides opportunities for early identification and detection of subtle changes in plant growth, disease stage, and severity estimation to assisting crop diagnostics in precision agriculture.",
+  "references": null
+}

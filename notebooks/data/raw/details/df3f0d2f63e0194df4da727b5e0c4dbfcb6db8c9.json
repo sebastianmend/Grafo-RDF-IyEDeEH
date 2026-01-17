@@ -1,0 +1,38 @@
+{
+  "paperId": "df3f0d2f63e0194df4da727b5e0c4dbfcb6db8c9",
+  "externalIds": {
+    "MAG": "2284430254",
+    "DOI": "10.37591/rrjocst.v4i2.651",
+    "CorpusId": 112508211
+  },
+  "url": "https://www.semanticscholar.org/paper/df3f0d2f63e0194df4da727b5e0c4dbfcb6db8c9",
+  "title": "Application of Nano-technology in Weed Management: A Review",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 15,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.37591/rrjocst.v4i2.651?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37591/rrjocst.v4i2.651, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "90297904",
+      "name": "A. Yadav"
+    },
+    {
+      "authorId": "47326101",
+      "name": "D. Srivastava"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

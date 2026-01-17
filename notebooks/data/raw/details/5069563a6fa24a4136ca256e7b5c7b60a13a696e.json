@@ -1,0 +1,40 @@
+{
+  "paperId": "5069563a6fa24a4136ca256e7b5c7b60a13a696e",
+  "externalIds": {
+    "MAG": "2791370666",
+    "DBLP": "conf/infocom/Li018",
+    "DOI": "10.1109/INFOCOM.2018.8485938",
+    "CorpusId": 52962651
+  },
+  "url": "https://www.semanticscholar.org/paper/5069563a6fa24a4136ca256e7b5c7b60a13a696e",
+  "title": "LongBee: Enabling Long-Range Cross-Technology Communication",
+  "venue": "IEEE Conference on Computer Communications",
+  "year": 2018,
+  "citationCount": 78,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/INFOCOM.2018.8485938?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/INFOCOM.2018.8485938, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "46947026",
+      "name": "Zhijun Li"
+    },
+    {
+      "authorId": "1679043",
+      "name": "T. He"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

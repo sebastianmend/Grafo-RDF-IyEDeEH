@@ -1,0 +1,62 @@
+{
+  "paperId": "88f5dbe55c743c89820b237684a4486d3dd18885",
+  "externalIds": {
+    "MAG": "2969789356",
+    "DOI": "10.1088/1755-1315/315/7/072040",
+    "CorpusId": 202355577
+  },
+  "url": "https://www.semanticscholar.org/paper/88f5dbe55c743c89820b237684a4486d3dd18885",
+  "title": "Wine tourism and the introduction of new technologies in winemaking and viticulture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/315/7/072040/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/315/7/072040?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/315/7/072040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "6915223",
+      "name": "A. A. Dorofeeva"
+    },
+    {
+      "authorId": "32389629",
+      "name": "A. Kazak"
+    },
+    {
+      "authorId": "122289334",
+      "name": "L. Nyurenberger"
+    }
+  ],
+  "abstract": "This paper, provided by the authors, focuses on the prospects for the development of wine tourism in the southern regions of the Russian Federation. Unlike a beach holiday, for obvious reasons unpopular in winter, wine tourism is a year-round phenomenon. The most important factor in the successful development of this type of business is familiarizing tourists with the latest technologies in winemaking and viticulture. These technologies are based on digitization of agriculture, the introduction of elements of precision farming, digital mapping and yield planning, parallel driving systems, Internet of Things (IoT), the use of unmanned tractors (combines) and robotics.",
+  "references": [
+    {
+      "paperId": "d0930b7202db70061ca9e2c610787bb06b448c42"
+    },
+    {
+      "paperId": "765d8d5058e34b204a6c4fd6793ecd0e5895643b"
+    },
+    {
+      "paperId": "93daa4cb9900b52d8c6fbd0643d776938bc0c750"
+    },
+    {
+      "paperId": "3f8a518928be04c4ce8e42c4f5a918310c79361c"
+    },
+    {
+      "paperId": "b6c004c18b5b1353eb7548d9f4bd6ee2c5b990f4"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

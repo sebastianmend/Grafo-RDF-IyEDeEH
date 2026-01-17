@@ -1,0 +1,42 @@
+{
+  "paperId": "90672bc4be62e5b3b160883a39f2b51ee3438035",
+  "externalIds": {
+    "MAG": "2900136601",
+    "DOI": "10.1007/978-3-319-99061-3_5",
+    "CorpusId": 59514689
+  },
+  "url": "https://www.semanticscholar.org/paper/90672bc4be62e5b3b160883a39f2b51ee3438035",
+  "title": "Applications of the Internet of Things with the Cloud Computing Technologies: A Review",
+  "venue": "Edge Computing",
+  "year": 2018,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-99061-3_5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-99061-3_5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": null,
+      "name": "U. Ram Jagannath"
+    },
+    {
+      "authorId": "145660905",
+      "name": "S. Saravanan"
+    },
+    {
+      "authorId": "143950941",
+      "name": "S. Suguna"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

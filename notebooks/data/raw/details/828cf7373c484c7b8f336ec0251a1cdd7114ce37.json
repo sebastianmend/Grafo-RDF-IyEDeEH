@@ -1,0 +1,60 @@
+{
+  "paperId": "828cf7373c484c7b8f336ec0251a1cdd7114ce37",
+  "externalIds": {
+    "MAG": "2894427838",
+    "DOI": "10.1002/jsfa.9382",
+    "CorpusId": 52875991,
+    "PubMed": "30264403"
+  },
+  "url": "https://www.semanticscholar.org/paper/828cf7373c484c7b8f336ec0251a1cdd7114ce37",
+  "title": "Determination of macro, micro and trace elements in citrus fruits by inductively coupled plasma-optical emission spectrometry (ICP-OES), ICP-mass spectrometry and direct mercury analyzer.",
+  "venue": "The Journal of the Science of Food and Agriculture",
+  "year": 2018,
+  "citationCount": 50,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jsfa.9382?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jsfa.9382, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "14361885",
+      "name": "Young Shin Hong"
+    },
+    {
+      "authorId": "1399900380",
+      "name": "J. Choi"
+    },
+    {
+      "authorId": "14614076",
+      "name": "E. Nho"
+    },
+    {
+      "authorId": "11997683",
+      "name": "I. Hwang"
+    },
+    {
+      "authorId": "145927505",
+      "name": "N. Khan"
+    },
+    {
+      "authorId": "49882808",
+      "name": "N. Jamila"
+    },
+    {
+      "authorId": "6423964",
+      "name": "K. Kim"
+    }
+  ],
+  "abstract": "BACKGROUND\nCitrus fruits are widely consumed around the world. Several elements are known to have important physiological functions in living things, whereas others are reported to have toxic effects. This study was aimed to analyze the concentration of macro, micro and trace elements in citrus fruit varieties. Samples were acid digested using a microwave system and analyzed for macro elements by inductively coupled plasma-optical emission spectrometry (ICP-OES) and for micro and trace elements by inductively coupled plasma-mass spectrometry (ICP-MS). The application of analytical techniques was analyzed by determining method validation parameters including limits of detection and quantification, linearity, precision, spiking experiments and analyzing certified reference material (NIST CRM-1570a), Spinach leaves.\n\n\nRESULTS\nThe elemental levels of citrus fruits were found largely to be dependent upon the type of analyzed samples. Among nutritionally important elements, citrus fruits were good sources of potassium (95.13-270.4 mg kg-1 ), calcium (10.57-75.29 mg kg-1 ), zinc (466.5-1611 µg kg-1 ) and manganese (35.35-1902 µg kg-1 ). The concentrations of toxic elements (Pb, Cd, As, Al, Hg) were very low.\n\n\nCONCLUSION\nIn general, the concentrations of analyzed elements were within the critical levels specified by the Food and Agriculture Organization/World Health Organization and Food and Nutrition Board USA. Linear discriminant analysis successfully separated the samples into clear groups with 93.9% correct classification. © 2018 Society of Chemical Industry.",
+  "references": null
+}

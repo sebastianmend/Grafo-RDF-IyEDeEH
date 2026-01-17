@@ -1,0 +1,32 @@
+{
+  "paperId": "9c8aefcc66f62c0ceaa177287f227ddc536e51f6",
+  "externalIds": {
+    "DOI": "10.1109/icom47790.2019.8952068",
+    "CorpusId": 242558032
+  },
+  "url": "https://www.semanticscholar.org/paper/9c8aefcc66f62c0ceaa177287f227ddc536e51f6",
+  "title": "Message from the Chairman of ICOM'19",
+  "venue": "International Conference on Optoelectronics and Microelectronics",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/8947451/8952004/08952068.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/icom47790.2019.8952068?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/icom47790.2019.8952068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "118428318",
+      "name": "Syamsul Bahrin"
+    }
+  ],
+  "abstract": "I am very happy to welcome all the participants of the 7th International Conference on Mechatronics (ICOM 2019). The first ICOM was organized in 2001 with an overwhelming response from the researchers from more than ten different countries. So far, the Department of Mechatronics of IIUM has successfully organized six ICOMs. We believe we would be able to maintain the continuity of ICOM from now onwards, inshaAllah. The discipline of Mechatronics has now started to become main stream with most nations including Malaysia started to update its policy to be more industrial 4.0 ready. The discipline now has penetrated into all walks of life with its products alleviating the current standard of life that we have. Specifically, recent advances in mechatronics are being extended from precision agriculture to healthcare. In the recent past, robots were mostly found to be used in the manufacturing industries. Now, with the advancement of mechatronics, the use of robots started to take a firm footing in the areas of underwater robotics, driverless cars, autonomous aerial vehicles, microsurgery, Brain Machine Interaction (BMI) and so on. In the future, robots in various form are expected to be as ubiquitous as what mobile phone is in this century. With this idea forward and considering the United Nations Sustainable Development Goals (SDGs) 2030, we would foresee that Mechatronics discipline would definitely play an active role in pushing forward towards achieving goal number 9: Industry, Innovation and Infrastructure and goal number 11: Sustainable Cities and Communities of the SDGs. Thus, it is my firm believes and expectation that ICOM will be the platform for interaction and exchange of ideas among the scientists and engineers to bring about new knowledge and sustainable technology especially those that links to UN SDGs establishing a better tomorrow for the future generations to come. I would like to take this opportunity to express my sincere appreciation to the members of the International Advisory board, the keynote speakers, all committee members of ICOM 2019 and the reviewers of papers for their efforts in making this event successful. My sincere gratitude is extended to the sponsors for their cooperation and contribution in realizing the event.",
+  "references": null
+}

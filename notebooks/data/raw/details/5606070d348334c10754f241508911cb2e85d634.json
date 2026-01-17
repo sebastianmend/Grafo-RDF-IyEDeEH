@@ -1,0 +1,52 @@
+{
+  "paperId": "5606070d348334c10754f241508911cb2e85d634",
+  "externalIds": {
+    "MAG": "2901402849",
+    "DOI": "10.1117/12.2505996",
+    "CorpusId": 125954773
+  },
+  "url": "https://www.semanticscholar.org/paper/5606070d348334c10754f241508911cb2e85d634",
+  "title": "Study on calibration method of field spectrometer measurement",
+  "venue": "Other Conferences",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2505996?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2505996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2107779892",
+      "name": "W. L. Lin"
+    },
+    {
+      "authorId": "2107564556",
+      "name": "H. X. Shen"
+    },
+    {
+      "authorId": "2150678937",
+      "name": "H. F. Liu"
+    },
+    {
+      "authorId": "143668831",
+      "name": "S. F. Xia"
+    },
+    {
+      "authorId": "2145162736",
+      "name": "W. W. Zhang"
+    }
+  ],
+  "abstract": "Field spectrometer plays a significant role in geological survey, agriculture, vegetation remote sensing, marine remote sensing and environmental monitoring. In the measurement of field spectrometer, the calibration algorithm and correlation processing of spectrometer are the key points and the research hotspots. In this paper, the methods of third-order fitting, linear fitting, polynomial fitting and normalization, respectively, to achieve the field of the spectrometer wavelength calibration and deal with the nonlinear correction algorithm. With the help of the processing ability of big data of the PC, a series of calibration algorithms and related processing functions of wavelength calibration and nonlinear correction spectrometer are designed. Experimental results show that the field in the spectrometer calibration accuracy, accurate to 0.3 nm wavelength measurement, nonlinear fitting precision to 1.029, these algorithms in field spectrometer with actual application, good results were achieved.",
+  "references": null
+}

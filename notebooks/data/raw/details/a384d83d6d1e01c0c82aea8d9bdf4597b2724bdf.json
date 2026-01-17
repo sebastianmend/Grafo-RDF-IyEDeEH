@@ -1,0 +1,289 @@
+{
+  "paperId": "a384d83d6d1e01c0c82aea8d9bdf4597b2724bdf",
+  "externalIds": {
+    "MAG": "2920973450",
+    "PubMedCentral": "6476850",
+    "DOI": "10.1007/s11306-019-1501-x",
+    "CorpusId": 76666325,
+    "PubMed": "30868357"
+  },
+  "url": "https://www.semanticscholar.org/paper/a384d83d6d1e01c0c82aea8d9bdf4597b2724bdf",
+  "title": "Rapid UHPLC-MS metabolite profiling and phenotypic assays reveal genotypic impacts of nitrogen supplementation in oats",
+  "venue": "Metabolomics",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11306-019-1501-x.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6476850, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "11425569",
+      "name": "J. W. Allwood"
+    },
+    {
+      "authorId": "2118002607",
+      "name": "Yun Xu"
+    },
+    {
+      "authorId": "1401002613",
+      "name": "Pilar M J Martinez-Martin"
+    },
+    {
+      "authorId": "2090029571",
+      "name": "Raphaёlle Palau"
+    },
+    {
+      "authorId": "32188960",
+      "name": "A. Cowan"
+    },
+    {
+      "authorId": "134641461",
+      "name": "R. Goodacre"
+    },
+    {
+      "authorId": "145883085",
+      "name": "A. Marshall"
+    },
+    {
+      "authorId": "144738656",
+      "name": "D. Stewart"
+    },
+    {
+      "authorId": "47083587",
+      "name": "C. Howarth"
+    }
+  ],
+  "abstract": "Oats (Avena sativa L.) are a whole grain cereal recognised for their health benefits and which are cultivated largely in temperate regions providing both a source of food for humans and animals, as well as being used in cosmetics and as a potential treatment for a number of diseases. Oats are known as being a cereal source high in dietary fibre (e.g. β-glucans), as well as being high in antioxidants, minerals and vitamins. Recently, oats have been gaining increased global attention due to their large number of beneficial health effects. Consumption of oats has been proven to lower blood LDL cholesterol levels and blood pressure, thus reducing the risk of heart disease, as well as reducing blood-sugar and insulin levels. Oats are seen as a low input cereal. Current agricultural guidelines on nitrogen application are believed to be suboptimal and only consider the effect of nitrogen on grain yield. It is important to understand the role of both variety and of crop management in determining nutritional quality of oats. In this study the response of yield, grain quality and grain metabolites to increasing nitrogen application to levels greater than current guidelines were investigated. Four winter oat varieties (Mascani, Tardis, Balado and Gerald) were grown in a replicated nitrogen response trial consisting of a no added nitrogen control and four added nitrogen treatments between 50 and 200 kg N ha−1 in a randomised split-plot design. Grain yield, milling quality traits, β-glucan, total protein and oil content were assessed. The de-hulled oats (groats) were also subjected to a rapid Ultra High Performance Liquid Chromatography—Mass Spectrometry (UHPLC-MS) metabolomic screening approach. Application of nitrogen had a significant effect on grain yield but there was no significant difference between the response of the four varieties. Grain quality traits however displayed significant differences both between varieties and nitrogen application level. β-glucan content significantly increased with nitrogen application. The UHPLC-MS approach has provided a rapid, sub 15 min per sample, metabolite profiling method that is repeatable and appropriate for the screening of large numbers of cereal samples. The method captured a wide range of compounds, inclusive of primary metabolites such as the amino acids, organic acids, vitamins and lipids, as well as a number of key secondary metabolites, including the avenanthramides, caffeic acid, and sinapic acid and its derivatives and was able to identify distinct metabolic phenotypes for the varieties studied. Amino acid metabolism was massively upregulated by nitrogen supplementation as were total protein levels, whilst the levels of organic acids were decreased, likely due to them acting as a carbon skeleton source. Several TCA cycle intermediates were also impacted, potentially indicating increased TCA cycle turn over, thus providing the plant with a source of energy and reductant power to aid elevated nitrogen assimilation. Elevated nitrogen availability was also directed towards the increased production of nitrogen containing phospholipids. A number of both positive and negative impacts on the metabolism of phenolic compounds that have influence upon the health beneficial value of oats and their products were also observed. Although the developed method has broad applicability as a rapid screening method or a rapid metabolite profiling method and in this study has provided valuable metabolic insights, it still must be considered that much greater confidence in metabolite identification, as well as quantitative precision, will be gained by the application of higher resolution chromatography methods, although at a large expense to sample throughput. Follow up studies will apply higher resolution GC (gas chromatography) and LC (reversed phase and HILIC) approaches, oats will be also analysed from across multiple growth locations and growth seasons, effectively providing a cross validation for the results obtained within this preliminary study. It will also be fascinating to perform more controlled experiments with sampling of green tissues, as well as oat grains, throughout the plants and grains development, to reveal greater insight of carbon and nitrogen metabolism balance, as well as resource partitioning into lipid and secondary metabolism.",
+  "references": [
+    {
+      "paperId": "0e2c96723f023f475809ee18fdfee3a1c128f548"
+    },
+    {
+      "paperId": "697a41cbd6d23fc1e69f26c8e7fdbf36d935347e"
+    },
+    {
+      "paperId": "f563f770343c9a36e09bc987426240d030c2fde4"
+    },
+    {
+      "paperId": "15280e2c2fa9079d3ddc0b9e929acf08caac8452"
+    },
+    {
+      "paperId": "828521551752597ba67808ca75dd5c0c6d4ec955"
+    },
+    {
+      "paperId": "47d4d21ae54bf4eab2aea37283da912cadd1c343"
+    },
+    {
+      "paperId": "b1327688e9576441dc776dd2ea261b389652b5a3"
+    },
+    {
+      "paperId": "f42686bbcae5d617e3fd97d95404e2109d8c1e1a"
+    },
+    {
+      "paperId": "2cf53f58e32ae31ff046b6bdbb11c1e40db9da93"
+    },
+    {
+      "paperId": "0322e038c95c05b4a95af75efbe454e5b373b6fe"
+    },
+    {
+      "paperId": "6962530f824d4ea0ca1417eb42f532a51467be46"
+    },
+    {
+      "paperId": "815ee7381f7f332c77ba26e86d30880ae5736b77"
+    },
+    {
+      "paperId": "4c70a4a02e7bd0e5f7f7a767218f5e5f029171e4"
+    },
+    {
+      "paperId": "4afe5ba9ff73fc4ef17a09000aa5d0e9a34791b9"
+    },
+    {
+      "paperId": "f32849cccf0d11e456b16f5a1a6c7fbe55d6bc4c"
+    },
+    {
+      "paperId": "c87335a2260054839cf19277ba29d7a640d2a437"
+    },
+    {
+      "paperId": "3a3b6bde34011f0b38e0612bf120b4b98f5b1a13"
+    },
+    {
+      "paperId": "eaf743c0f82fe01fb04c46f41b1c65bc94ba094f"
+    },
+    {
+      "paperId": "f96b02d3b3d3f0eae9e1d4b76fe42747a73f1ce1"
+    },
+    {
+      "paperId": "72857ae410a72cb16582bfeda6bd2bd982a48af2"
+    },
+    {
+      "paperId": "87a7cf6dd832ccbcc00daeb384ce116c885bd045"
+    },
+    {
+      "paperId": "1ea808e265c64c206fde30097201610f3166d0d1"
+    },
+    {
+      "paperId": "d8a073eeb2edab501410ba62189e0d13abf96d66"
+    },
+    {
+      "paperId": "859352a9b47fd40e11bd271cbe66e7eea1725fcb"
+    },
+    {
+      "paperId": "17c94259ea7be6100137c191c614d6ef4b450f75"
+    },
+    {
+      "paperId": "7eec51bea7e6c395b5aa4b2ee8008a47aab0bb0e"
+    },
+    {
+      "paperId": "7cb0adab7c072123dbce14336e244cec08a1f0fd"
+    },
+    {
+      "paperId": "698e6899bbfcba9c69108f695d278fdf97c7da8f"
+    },
+    {
+      "paperId": "2387f0ff366d1c1bc61ccc3f675c33dd08289fbd"
+    },
+    {
+      "paperId": "80dbf8ebbea335e0b871553e4b38c5137554bfa0"
+    },
+    {
+      "paperId": "2a80667b81769fcfa4465b4cc963429d2abee536"
+    },
+    {
+      "paperId": "8f078d52ea87b4076722b14e257a1614ec6f830a"
+    },
+    {
+      "paperId": "569adfa3f865689feac4da3361025e00e07d8ca5"
+    },
+    {
+      "paperId": "7ed54c0ef64d5c165da3369aaf1f1296ec4f682c"
+    },
+    {
+      "paperId": "24e70394a03ee6f25e582e7ebb8039f1207fae0f"
+    },
+    {
+      "paperId": "b7d2ff133af006f27b1330a102abca5b162e9ae5"
+    },
+    {
+      "paperId": "f1be7223b6ae04ac292fa02586967e894b4ac4bf"
+    },
+    {
+      "paperId": "718aba173ef94ab51a222b5225db07aaa0d56f65"
+    },
+    {
+      "paperId": "4cd3b8f1aac174409eaff5f5e287f2c81fd8206b"
+    },
+    {
+      "paperId": "f9a02cd4a2e4ac318ad2f9755cbaf3a6892a7af1"
+    },
+    {
+      "paperId": "4219919d3bbf8975a7c61416331607a751a01ace"
+    },
+    {
+      "paperId": "f4441b28da3fe6e82ef5bb8fd474938edebecf99"
+    },
+    {
+      "paperId": "a4155d248aeb14993bd48a9b2b1f76cba4da3c2e"
+    },
+    {
+      "paperId": "f852e21ffcb4ffba52faed4f3ef06752a52fe602"
+    },
+    {
+      "paperId": "69deacf363b15b8dd3edaaae46d76f39e2b1e9dd"
+    },
+    {
+      "paperId": "f017ec2135f9d442659b30cdf070dbc10cb6f3d4"
+    },
+    {
+      "paperId": "1935fd87a519f6f71236999402bd12b539104b96"
+    },
+    {
+      "paperId": "da5ab5837505d4e159dfb36feba3bda96a809480"
+    },
+    {
+      "paperId": "e83ccc06d34157ae08e6d1d29cd8039102a13f77"
+    },
+    {
+      "paperId": "19b99de12bea55e8bba37914697ebbc2b08456eb"
+    },
+    {
+      "paperId": "2db2b31e1d21a139b8c82a6c0bca112a807d5aba"
+    },
+    {
+      "paperId": "354c56df35d2c245d40270be7004266a09cf6f9c"
+    },
+    {
+      "paperId": "0c5fa885f70f7d491ee55ce123ce54c36c4926dd"
+    },
+    {
+      "paperId": "3b3b3ae9693abf5f7f4ada844251486f9569b511"
+    },
+    {
+      "paperId": "8eedb36d0add6d91d19aecf498a5710d4baa2617"
+    },
+    {
+      "paperId": "95d13a9c064e3b4abd85758703d0c0827dc87f1e"
+    },
+    {
+      "paperId": "a98923f2613f9304bff525609a04b9b56e8b8644"
+    },
+    {
+      "paperId": "6f036f0378f46b3a8e54d6802b47c9d398759ca1"
+    },
+    {
+      "paperId": "ce1d673dd5ea59941f816f3d96d1b064e0952a1b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "4657395bc17060150927859e41b4a07a1798cf41"
+    },
+    {
+      "paperId": "2c23ad3c687ad7b3ab627c6cdbda9e679aee085f"
+    },
+    {
+      "paperId": "06934d6a2220d58eac1603f8b58ded2081b018fa"
+    },
+    {
+      "paperId": "75f8a4d7ed6a0f32fa098cac967de247938d9ce5"
+    },
+    {
+      "paperId": "6f68f89320c0f45eecb97852f3f74dc492820129"
+    },
+    {
+      "paperId": "d8384f7ef288d2d5cb267128471c5427fc98b54b"
+    },
+    {
+      "paperId": "2587defbad580f750da6a9255c33630a3fa2d20b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "37a35f435766327cfd5f90092bbc1f54723b0137"
+    },
+    {
+      "paperId": "80156204bc2d89450fb7ae70d2549ff25ea5c6a0"
+    },
+    {
+      "paperId": "375f18beac3a0e21723271d270ac66cd41ba72e0"
+    }
+  ]
+}

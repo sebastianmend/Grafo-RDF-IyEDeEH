@@ -1,0 +1,67 @@
+{
+  "paperId": "79bb571283eba4af16f4277d2e679a53dd3e13af",
+  "externalIds": {
+    "MAG": "2952530450",
+    "DOI": "10.2991/ISPC-19.2019.40",
+    "CorpusId": 197896647
+  },
+  "url": "https://www.semanticscholar.org/paper/79bb571283eba4af16f4277d2e679a53dd3e13af",
+  "title": "Automated business-process assistance system at small commercial agricultural enterprise",
+  "venue": "Proceedings of the International Scientific and Practical Conference “Digital agriculture - development strategy” (ISPC 2019)",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.2991/ispc-19.2019.40",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/ISPC-19.2019.40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/ISPC-19.2019.40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "97920534",
+      "name": "J. Torkunova"
+    },
+    {
+      "authorId": "2122952489",
+      "name": "Diana M. Korosteleva"
+    },
+    {
+      "authorId": "1658942006",
+      "name": "O. Bogomolova"
+    }
+  ],
+  "abstract": "The article describes the main trends in the digitalization of agriculture: software applications, cloud services, remote sensing, precision farming. The main business processes in a small commercial agricultural enterprise are considered. Automation of business processes largely determines the timeliness and effectiveness of management decision-making at enterprises of any size and sphere of management. The object of the research is the company \"Elite\". This is a small livestock enterprise. It sells goods and services for farmers. To ensure the efficiency of financial and business operations, an automated system (AS) is needed, based on a modern database. Since the enterprise is small and located in the rural outback, the installation of modern largescale accounting systems becomes impractical. The functional task of the developed information system is the automation of warehouse accounting and sales accounting at the enterprise of company \"Elite\". The ER is a model of the developed database, as well as an example of the developed application. The environment for the MySQL, VS, C #, MySQL Server DBMS was chosen as the medium for implementing the system of accounting for purchases and sales. The developed application allows you to improve the flow of business processes and improve their efficiency. This application can be used in other agricultural enterprises of this type. Keywords—automated system, agricultural enterprise, business-processes, database.",
+  "references": [
+    {
+      "paperId": "b987db72959e565266dab809dd6965a29f72846f"
+    },
+    {
+      "paperId": "e45e5c1677dc14cff871d722ff4623b42aef2b69"
+    },
+    {
+      "paperId": "6dd54333570e2e8c84a02164991bccda8fa5eeee"
+    },
+    {
+      "paperId": "bf8266da3cee460745adfad51aec2766d43e6bf6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

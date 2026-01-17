@@ -1,0 +1,42 @@
+{
+  "paperId": "c875f44c209617d7b790ce28b0551920dc9496ba",
+  "externalIds": {
+    "MAG": "2937243219",
+    "DOI": "10.31256/ukras19.30",
+    "CorpusId": 146017046
+  },
+  "url": "https://www.semanticscholar.org/paper/c875f44c209617d7b790ce28b0551920dc9496ba",
+  "title": "Locust Recognition and Detection via Aggregate Channel Features",
+  "venue": "UK-RAS19 Conference: \"Embedded Intelligence: Enabling and Supporting RAS Technologies\" Proceedings",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.31256/ukras19.30",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.31256/ukras19.30?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31256/ukras19.30, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "35096685",
+      "name": "Dewei Yi"
+    },
+    {
+      "authorId": "49359204",
+      "name": "Jinya Su"
+    },
+    {
+      "authorId": "31165511",
+      "name": "Wen‐Hua Chen"
+    }
+  ],
+  "abstract": "Locust plagues are very harmful for food security, quality and quantity of agricultural products. With this consideration, precise locust detection is significant for preventing locust plagues. To achieve this task, aggregate channel feature (ACF) object detector with parameters optimization is applied to detect locusts. Experiment results show that ACF object detector with optimized parameters can achieve 0.39 for average precision and 0.86 for log-average miss rate. Moreover, ACF is a non-deep method using a simple model to detect objects. That is, the proposed method is promising to be embedded in a real-time locust detection system.",
+  "references": null
+}

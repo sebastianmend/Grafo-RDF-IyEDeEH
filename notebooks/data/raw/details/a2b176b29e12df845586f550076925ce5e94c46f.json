@@ -1,0 +1,216 @@
+{
+  "paperId": "a2b176b29e12df845586f550076925ce5e94c46f",
+  "externalIds": {
+    "PubMedCentral": "6476504",
+    "MAG": "2940504349",
+    "DOI": "10.1371/journal.pone.0215521",
+    "CorpusId": 128359742,
+    "PubMed": "31009493"
+  },
+  "url": "https://www.semanticscholar.org/paper/a2b176b29e12df845586f550076925ce5e94c46f",
+  "title": "Quantifying the effect of Jacobiasca lybica pest on vineyards with UAVs by combining geometric and computer vision techniques",
+  "venue": "PLoS ONE",
+  "year": 2019,
+  "citationCount": 38,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1371/journal.pone.0215521",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6476504, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2301798882",
+      "name": "-. Anadel-Campo"
+    },
+    {
+      "authorId": "2301837572",
+      "name": "SanchezID"
+    },
+    {
+      "authorId": "51933772",
+      "name": "R. Ballesteros"
+    },
+    {
+      "authorId": "1403901633",
+      "name": "D. Hernández-López"
+    },
+    {
+      "authorId": null,
+      "name": "J."
+    },
+    {
+      "authorId": "2301800081",
+      "name": "Fernando Ortega"
+    },
+    {
+      "authorId": "2301801739",
+      "name": "A. Miguel"
+    },
+    {
+      "authorId": "2301801314",
+      "name": "MorenoID"
+    }
+  ],
+  "abstract": "With the increasing competitiveness in the vine market, coupled with the increasing need for sustainable use of resources, strategies for improving farm management are essential. One such effective strategy is the implementation of precision agriculture techniques. Using photogrammetric techniques, the digitalization of farms based on images acquired from unmanned aerial vehicles (UAVs) provides information that can assist in the improvement of farm management and decision-making processes. The objective of the present work is to quantify the impact of the pest Jacobiasca lybica on vineyards and to develop representative cartography of the severity of the infestation. To accomplish this work, computational vision algorithms based on an ANN (artificial neural network) combined with geometric techniques were applied to geomatic products using consumer-grade cameras in the visible spectra. The results showed that the combination of geometric and computational vision techniques with geomatic products generated from conventional RGB (red, green, blue) images improved image segmentation of the affected vegetation, healthy vegetation and ground. Thus, the proposed methodology using low-cost cameras is a more cost-effective application of UAVs compared with multispectral cameras. Moreover, the proposed method increases the accuracy of determining the impact of pests by eliminating the soil effects.",
+  "references": [
+    {
+      "paperId": "0e827b8f454e09df46a53d5df139a4891ef20aa2"
+    },
+    {
+      "paperId": "68b4f7061f643f7ffc640b8f5355b90ba3b1720f"
+    },
+    {
+      "paperId": "0c4949eecf0db6190e574c27ad668d36b1b85869"
+    },
+    {
+      "paperId": "e42b9551aae99230b8f422c80f25f644d21b042e"
+    },
+    {
+      "paperId": "89674f32303e8197b83104aabc4f579237de93d8"
+    },
+    {
+      "paperId": "0c98ad468d94368ef0bcded0944479a59bbc71f3"
+    },
+    {
+      "paperId": "ed7d150719252b8ea41ea781737d0a031f4ecaca"
+    },
+    {
+      "paperId": "940197ede8ba2ee50a39bf2bb7f15a136117c7ee"
+    },
+    {
+      "paperId": "bc4d8b36b7ee93b1da38c79b3e5c2a25179643a7"
+    },
+    {
+      "paperId": "80c1905850945b78d63a8c96c874457e528bed3c"
+    },
+    {
+      "paperId": "9841e3f010473169dd9059ecb031ae9d41375643"
+    },
+    {
+      "paperId": "f75d0d2031f282cc0ce91e1ca65927ad07fce259"
+    },
+    {
+      "paperId": "784c08015bf716834a5d212a8b46b0dd3e79d763"
+    },
+    {
+      "paperId": "e9fbeef0580e44372a93bf4a1e4c42dfcbfdfde3"
+    },
+    {
+      "paperId": "0fe532aa9601af9942d46741f2fefce86f63d52c"
+    },
+    {
+      "paperId": "3f59e8b6686f5f773bef7bac26192b3700aab533"
+    },
+    {
+      "paperId": "68e79689a28c38dec0470c566713bdcebb473ca5"
+    },
+    {
+      "paperId": "999663bb5e09a1fa82dafc9d84924ff8b57c89e6"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "08f609db494347366f69ddb8719cbce99f3c539b"
+    },
+    {
+      "paperId": "b8073ab3c4dc03e343806d5697b06873c9874f37"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "e8a5b0507f3695b916ca9b6a954a762a267cd8c4"
+    },
+    {
+      "paperId": "43a917595e6c23811386592a24822e23292a3394"
+    },
+    {
+      "paperId": "4c7d24a0cc343e298390cd2bed7883f22d76b842"
+    },
+    {
+      "paperId": "befb418f58475b7ebafd1826ba2e60d354eecc80"
+    },
+    {
+      "paperId": "1e6e8b0647d99043cbb38e9d036aca4c003248f8"
+    },
+    {
+      "paperId": "a14280872980bd4d0d9c05615677aa86a4129e64"
+    },
+    {
+      "paperId": "0bd5efe20eacc21587cf14fea1ccf20e830e6b31"
+    },
+    {
+      "paperId": "357824b53cf8b31a4e622b61699fbe925aecd99f"
+    },
+    {
+      "paperId": "eef7f941f779e3e9f3e89734ed63a658b433e63a"
+    },
+    {
+      "paperId": "e632f1b676c6cabbe8b0324b263914e47a3042dd"
+    },
+    {
+      "paperId": "f3f3840051645c83bd80f31bd4f81b34a9c35862"
+    },
+    {
+      "paperId": "394d9c9d3214a11466c3ab82bed97bb0b5b0dfbf"
+    },
+    {
+      "paperId": "a658d27ca38507058b8540e1a9972195733d2b89"
+    },
+    {
+      "paperId": "6c5e69b81ae455838f6c7bb4a1cc703db3c13d58"
+    },
+    {
+      "paperId": "fce607749502ac4bfd892ed5cf4e583888d6afc4"
+    },
+    {
+      "paperId": "c731dad7771df8d6f8638551cf0e0e36e1d42ee7"
+    },
+    {
+      "paperId": "10e16db2e9560e98cfaf26e870502292b0b69b5c"
+    },
+    {
+      "paperId": "86c9d38166b02ede8945ef8c4be1d1a3d4b9ace2"
+    },
+    {
+      "paperId": "5b48e2b8ee091a4319fd231691ba48eef20ebd2c"
+    },
+    {
+      "paperId": "9083e3d318dff01adc8b84f9055c8843ca4ffacf"
+    },
+    {
+      "paperId": "0e7ce4ac16258bd60cbf6666e584269f47fad91d"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": "4c2914136c37669c027f0d42ffb6413fc306ae0c"
+    },
+    {
+      "paperId": "59c1082fb448877e121837588e0997f7832004b4"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

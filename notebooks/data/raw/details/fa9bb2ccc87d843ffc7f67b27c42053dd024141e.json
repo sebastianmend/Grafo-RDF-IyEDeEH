@@ -1,0 +1,267 @@
+{
+  "paperId": "fa9bb2ccc87d843ffc7f67b27c42053dd024141e",
+  "externalIds": {
+    "PubMedCentral": "6468665",
+    "MAG": "2921979039",
+    "DOI": "10.3390/toxins11030166",
+    "CorpusId": 83461832,
+    "PubMed": "30884911"
+  },
+  "url": "https://www.semanticscholar.org/paper/fa9bb2ccc87d843ffc7f67b27c42053dd024141e",
+  "title": "Development of Sensitive and Reliable UPLC-MS/MS Methods for Food Analysis of Emerging Mycotoxins in China Total Diet Study",
+  "venue": "Toxins",
+  "year": 2019,
+  "citationCount": 25,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-6651/11/3/166/pdf?version=1553051033",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6468665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "88505003",
+      "name": "Danlei Sun"
+    },
+    {
+      "authorId": "12493629",
+      "name": "N. Qiu"
+    },
+    {
+      "authorId": "143746760",
+      "name": "Shuang Zhou"
+    },
+    {
+      "authorId": "145528057",
+      "name": "Bing Lyu"
+    },
+    {
+      "authorId": "2108033994",
+      "name": "Shuo Zhang"
+    },
+    {
+      "authorId": "2109040996",
+      "name": "Jingguang Li"
+    },
+    {
+      "authorId": "2118524220",
+      "name": "Yun-feng Zhao"
+    },
+    {
+      "authorId": "153017636",
+      "name": "Yongning Wu"
+    }
+  ],
+  "abstract": "With the climatic changes that have taken place during the last decade, the spectrum of fungal pathogens as well as mycotoxins has considerably changed. As a result, some emerging mycotoxins have been shown to occur frequently in agricultural products. In this study, a sensitive and reliable method for the determination of 10 emerging mycotoxins (beauvericin, enniatin A, enniatin A1, enniatin B, enniatin B1, alternariol, alternariol monomethyl ether, altenuene, tentoxin, and tenuazonic acid) in 12 different food matrices (cereals, legumes, potatoes, meats, eggs, aquatic foods, dairy products, vegetables, fruits, sugars, beverages, and alcohol beverages) was developed and validated. After a simple extraction, a one-step sample clean-up by a HLB solid phase extraction (SPE) column was sufficient for all 12 food matrices prior to analysis with ultra-high performance liquid chromatography coupled to tandem mass spectrometry (UPLC-MS/MS). Isotope internal standards 13C-TeA, TEN-d3, and 13C-AFB2 were used for accurate quantification. Validation in terms of linearity, selectivity, sensitivity, accuracy, and precision (intra and inter-day variability) were evaluated for the 10 mycotoxins in all selected matrices. The sensitivity varied from 0.0004 to 0.3 ng mL−1 (limits of detection) and from 0.002 to 0.9 ng mL−1 (limits of quantitation). The recoveries of 10 mycotoxins in fortified samples were from 60.6% to 164% including very low spiking levels in all 12 food matrices, with relative standard deviations (RSDs) less than 12%. The proposed methodology was applied to the analysis of 60 samples collected from five provinces within the 6th China Total Diet Study with the results discussed in detail. The advantages of sensitivity, accuracy, and robustness made it a powerful tool for emerging mycotoxin monitoring and dietary exposure assessment.",
+  "references": [
+    {
+      "paperId": "5cfb62e5102632dca918a97d8c5b29cdf13441cb"
+    },
+    {
+      "paperId": "089b3f80cfa20eb3911953b1e97963b8ff7a4d81"
+    },
+    {
+      "paperId": "4d308ede1e2be11ee5d9199895c2d522eb9c522b"
+    },
+    {
+      "paperId": "e0fd15876cd25658b87f3b0665287bc4dbd3191b"
+    },
+    {
+      "paperId": "bad6c8f76324b2ff6986b762357c9c2739f5e4aa"
+    },
+    {
+      "paperId": "7fde28c84375a8b9364e4ca00fdf019374eadce4"
+    },
+    {
+      "paperId": "f4a1658a381f55d1f8855bcc2ae37c3bfbfcafd5"
+    },
+    {
+      "paperId": "6a8b99c5e8ba6a0e235907eaa90cc2113b9f40e1"
+    },
+    {
+      "paperId": "b4ff253139e937951614aaaf51f36dc761959dd4"
+    },
+    {
+      "paperId": "e1e1582ef450a5677c57bf45bba3554475846034"
+    },
+    {
+      "paperId": "8c8ec954930e87e937d701ca24dd35b06236ab71"
+    },
+    {
+      "paperId": "8a2027263c73e57ae4c9cc87b54feb14cd6a926f"
+    },
+    {
+      "paperId": "97d3deda610a88c8f7b58cb231142602959686b2"
+    },
+    {
+      "paperId": "18099818a9497eb13a02cd63ab33021e2b1e1136"
+    },
+    {
+      "paperId": "ac9f6f289fb121b09cc0fb317d94ad6e8b491e1a"
+    },
+    {
+      "paperId": "06e3ec397577bbae6f1e98f72dcb2f9cbfbde70b"
+    },
+    {
+      "paperId": "023f804ebb2b14d7374824620fccb0d5840132ec"
+    },
+    {
+      "paperId": "e68e83d6a18f2b220ed85bd595ecdeda81f3d9ab"
+    },
+    {
+      "paperId": "d6853ddcbc9993bca8d23c4f2112754aac74f60e"
+    },
+    {
+      "paperId": "a9e2999a854c165c74a59d0155e45dd3d1f4ccb2"
+    },
+    {
+      "paperId": "cd539d3a31a206489e228d36a75691d0bae53d52"
+    },
+    {
+      "paperId": "fb5f7da8c6a3969ef1b25b6059064018dac0550e"
+    },
+    {
+      "paperId": "f9609a0bb5befc3f0cec1bbc91240e1187c3323e"
+    },
+    {
+      "paperId": "d6464dca56ccedc78f837112d30b1245b13f9dfc"
+    },
+    {
+      "paperId": "d510473fba66513fda266bd31489d3bc36bdac89"
+    },
+    {
+      "paperId": "6769807691804e9f51b9caa285b1b81d0574bf8a"
+    },
+    {
+      "paperId": "c327a5abc1467297aa653436e17530cc4d34af96"
+    },
+    {
+      "paperId": "0a93797f0310ad1ccb70cc8a07d21680c56de6db"
+    },
+    {
+      "paperId": "94ae2c1039976233d328897ee4e917071b5441ec"
+    },
+    {
+      "paperId": "187797b1e91e6d4b89532066bf8731c914a9a4d9"
+    },
+    {
+      "paperId": "3be1cbea2ff6aecdeceff6c7c3424e857c2f0ecd"
+    },
+    {
+      "paperId": "2fa30d0b718e65e24b530dd859911179c81713c4"
+    },
+    {
+      "paperId": "12448a303710816a3ce21e1a7bacdf50a50e72f3"
+    },
+    {
+      "paperId": "457addeb62f1708057bcbb7494f1c743c067873d"
+    },
+    {
+      "paperId": "cf2b835672fb5590e665f1b8fc63f92d16b6b88d"
+    },
+    {
+      "paperId": "463addd363ce5fc963ce7f39bac41ab7b81bfabb"
+    },
+    {
+      "paperId": "4132ac73e45aa1891eda127b271949eab01c2cf9"
+    },
+    {
+      "paperId": "8a4b42238437eede248157e3b46e07628d830d9f"
+    },
+    {
+      "paperId": "5d6aa7570d80a955d9d57b6ce75b3f8c437ac9bc"
+    },
+    {
+      "paperId": "64a1d7a1ccbf39fd4aa03c7d40f75b416d8b7a85"
+    },
+    {
+      "paperId": "d9516dc14edb68635313a78c8190b2115c18a92b"
+    },
+    {
+      "paperId": "a4cc7cf0d83c6772ecdb3c1b597cb8702ccd2c79"
+    },
+    {
+      "paperId": "c7a0fa043bbcea6737a811122d00633a2400ef26"
+    },
+    {
+      "paperId": "3beb80ef0464cf7fa1e0bd977786942804e6ad2e"
+    },
+    {
+      "paperId": "59476e3f9bcf9e4d6469f3eea5b61f3603c2bc98"
+    },
+    {
+      "paperId": "19a2327024f1d69153139fcd961b985abd579df5"
+    },
+    {
+      "paperId": "326ae9fde7dcaf385ea0bb09f7536ce80e863ddc"
+    },
+    {
+      "paperId": "ef52be3b694d15ca0b660841a93b2bc13232bd52"
+    },
+    {
+      "paperId": "10f46f9d0475cd51632bed9db8cfac77d443d472"
+    },
+    {
+      "paperId": "150dbe3af54f489ec275a07bf2b90da38bddc002"
+    },
+    {
+      "paperId": "573310396acc5594ddf757cdacb9322d105a6cdf"
+    },
+    {
+      "paperId": "b7cf51d5d3215c671ec01d4d65a1578d2810a988"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2d8ffedb4c37102a9bf9d279713058acc0d76da9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a7e8438deee092a56d778bc7dd98f857a0b85c1e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "d511f47801bc65cd0ede212b45d438cb9be0a961"
+    },
+    {
+      "paperId": "05a30d145e99ed49d3f8583351da2d918a7deb37"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cc4865bd649dfab3d5f81671a0514374ef7f67c1"
+    },
+    {
+      "paperId": "d08dc56ee3edc40c71f79f49647248a766497ff8"
+    },
+    {
+      "paperId": "ed3458821d5906c5c0fb621b234711882bf19aa8"
+    },
+    {
+      "paperId": "e687f3ccc2ee7eb33f3610920905d3d83896094c"
+    },
+    {
+      "paperId": "6bc7bde514e7ad1c263ae28c8f0207338c77c32a"
+    },
+    {
+      "paperId": "1051eef44f665eff7afbe0069610c6cab705fe2d"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "paperId": "cd05c260ad096a6eb0b99ce136d828260999b33e",
+  "externalIds": {
+    "MAG": "2983390359",
+    "DOI": "10.1088/1742-6596/1362/1/012038",
+    "CorpusId": 209072399
+  },
+  "url": "https://www.semanticscholar.org/paper/cd05c260ad096a6eb0b99ce136d828260999b33e",
+  "title": "An IoT Based Gradient Descent Approach for Precision Crop Suggestion using MLP",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1362/1/012038",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1362/1/012038?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1362/1/012038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2285814263",
+      "name": "Kanaga Priya"
+    },
+    {
+      "authorId": "2265543029",
+      "name": "Dr. N. Yuvaraj"
+    }
+  ],
+  "abstract": "Agriculture plays a prime role in providing food to a massive population. It has a predominant role in improving the economic development of our nation. In recent days due to the changes in weather pattern, the crop cultivation has become the greatest challenge. This directly or indirectly affects the productivity of the crops. Hence to overcome from this and to the improve productivity of the crops new technologies can be brought up for usage. The usage of these new technologies will convert traditional farming practices into precision farming. The new technology specified here includes the data analysis and Internet of Things (IoT). As it is revealed that it improves the productivity of the crops by maintaining the finest crop health. Although changes had been adopted in the recent agricultural practices the major issue yet not gets resolved. One such main issue yet to be resolved is cultivating precise crop at the precise time. This can be done with the help of deep learning algorithm such as Artificial Neural Network (ANN), which is found to be an effective one for predicting the precise crop. Hence the proposed system aims at helping the farmers by providing valuable insights to them. These insights can be driven with the help of parameters such as soil moisture level, humidity, temperature and pH collected from the sensors using IoT. In addition to these other parameters include soil type, land type, and the area sown. The crop prediction Graphical User Interface (GUI) system will take these valuable inputs and give suggestions using the crop suggestion user interface. The prediction is made using the Deep Neural Network (DNN) which predicts about the crop to be get cultivated, fertilizer to be used, production range etc. The crop suggestion system greatly helps the farmers to take a valuable decision.",
+  "references": [
+    {
+      "paperId": "ba0fda45e98d79f5999db32b3fac59c729b3b90d"
+    },
+    {
+      "paperId": "c648cb350bd7f9dc97a89567cb3cd669e9d1fe60"
+    },
+    {
+      "paperId": "4760219e186796f1685011415e988d1d5f51212a"
+    },
+    {
+      "paperId": "53c0992208e854d9f0b816103739a8182a476c71"
+    },
+    {
+      "paperId": "322e65084b276a70eab339b1d700a9041e28c15e"
+    },
+    {
+      "paperId": "31d1d5c6bf0164df704c0dca23f1e51983f6652b"
+    },
+    {
+      "paperId": "660fd781ae12278461ff3d1427f7615b306e64c5"
+    },
+    {
+      "paperId": "c8cc8c538334a1ed0b0f3b27faa5019c121362c0"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "dfbc520ef0842cb0189a36eaec95ccb89c477d23"
+    },
+    {
+      "paperId": "1b04e3600df572825ff128bf4d761314b16b6f75"
+    },
+    {
+      "paperId": "1dcc937a3379dd6ddc213d2032f22c18f8644c73"
+    },
+    {
+      "paperId": "fb92d2d1f91db26fe1968f6dfa75d099357e162a"
+    },
+    {
+      "paperId": "e7893b131d13d997777330a091c324d9108c43f8"
+    },
+    {
+      "paperId": "9008a8707c1637915e96ede12ca480644f809dea"
+    },
+    {
+      "paperId": "9e071cb707693313622988347ba9daea8ee6066a"
+    },
+    {
+      "paperId": "788d1262bc33da9d169c3469e5a1fa04ff8a9679"
+    },
+    {
+      "paperId": "5dd7b6f0e7e71eb4a6e7f7e3bd3ff81928222777"
+    },
+    {
+      "paperId": "ee10960e363b591e929b1b4f243185ea9a31304a"
+    },
+    {
+      "paperId": "fec4e257b05f5de4fcf68d67efea3f9e305b0cb6"
+    },
+    {
+      "paperId": "70707c65fcdbbb14600e7617ece681e6c08a8701"
+    },
+    {
+      "paperId": "1070505baa23a6fe92234ffd5c6dda7f13f55bd8"
+    },
+    {
+      "paperId": "c1292c23fa3e013d36c0510592b9eb3af3ec9b57"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a64c8a9185d5ebed4dc7bdb1f26293d7bee82c5c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "b2aea0ebc8316eda484f585f4be6859245fa376f"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

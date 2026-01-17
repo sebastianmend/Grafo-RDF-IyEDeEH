@@ -1,0 +1,44 @@
+{
+  "paperId": "705faa8dcb8f639387bdecb80470b1eba82c4b87",
+  "externalIds": {
+    "DBLP": "conf/icecocs/BassineEK18",
+    "MAG": "2910229550",
+    "DOI": "10.1109/ICECOCS.2018.8610584",
+    "CorpusId": 58012975
+  },
+  "url": "https://www.semanticscholar.org/paper/705faa8dcb8f639387bdecb80470b1eba82c4b87",
+  "title": "Real Time Video Processing using RGB Remote Sensing by Drone",
+  "venue": "International Conference on Electronics, Control, Optimization and Computer Science",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICECOCS.2018.8610584?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICECOCS.2018.8610584, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "65954758",
+      "name": "F. Z. Bassine"
+    },
+    {
+      "authorId": "34944282",
+      "name": "A. Errami"
+    },
+    {
+      "authorId": "2652817",
+      "name": "M. Khaldoun"
+    }
+  ],
+  "abstract": "emerging agricultural technologies exploit all the modern tools available by bringing information technology and agricultural science together for less time spent scouting, and more efficiency in treating plants. Precision agriculture, image processing and remote sensing techniques, mainly aerial imagery in the visible, have been employed to achieve this goal. In this paper we develop a real time system that successfully detect trees in a scene and also recognizes them in each and every frame so as to create detailed maps having information about trees health, sizes, stem density and trees distribution. We cover all image processing stages starting from camera raw image acquisition to image processing so as to detect and count trees. All image processing is done completely on C++ framework for image processing on the graphic processing unit, and this leads to exceptionally high performance. This combination produces a robust system that successfully detects/counts trees and also optimizes time, memory consumption, and placement of inputs.",
+  "references": null
+}

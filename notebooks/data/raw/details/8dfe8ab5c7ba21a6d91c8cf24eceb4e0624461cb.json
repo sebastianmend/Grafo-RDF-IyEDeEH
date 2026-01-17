@@ -15,7 +15,7 @@
     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/015DDE6D4A9404AA95D67F1AB467851F/S0043174500014776a.pdf/div-class-title-nonconventional-weed-management-strategies-for-modern-agriculture-div.pdf",
     "status": "BRONZE",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1614/WS-D-15-00064.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1614/WS-D-15-00064.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1614/WS-D-15-00064.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1614/WS-D-15-00064.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Business"

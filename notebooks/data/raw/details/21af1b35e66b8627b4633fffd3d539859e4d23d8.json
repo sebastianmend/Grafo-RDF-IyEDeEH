@@ -1,0 +1,42 @@
+{
+  "paperId": "21af1b35e66b8627b4633fffd3d539859e4d23d8",
+  "externalIds": {
+    "MAG": "2888490693",
+    "DOI": "10.1007/978-3-319-99540-3_20",
+    "CorpusId": 134801952
+  },
+  "url": "https://www.semanticscholar.org/paper/21af1b35e66b8627b4633fffd3d539859e4d23d8",
+  "title": "Considerations Needed for Sensing Mineral Nutrient Levels in Pasture Using a Benchtop Laser-Induced Breakdown Spectroscopy System",
+  "venue": "Modern Sensing Technologies",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-99540-3_20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-99540-3_20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2485621",
+      "name": "H. Jull"
+    },
+    {
+      "authorId": "2850693",
+      "name": "R. Künnemeyer"
+    },
+    {
+      "authorId": "16301438",
+      "name": "P. Schaare"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

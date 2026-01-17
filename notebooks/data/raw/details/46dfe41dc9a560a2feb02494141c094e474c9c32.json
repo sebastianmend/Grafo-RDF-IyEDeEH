@@ -1,0 +1,48 @@
+{
+  "paperId": "46dfe41dc9a560a2feb02494141c094e474c9c32",
+  "externalIds": {
+    "DBLP": "conf/iisa/AntonopoulosPAV19",
+    "MAG": "2985730789",
+    "DOI": "10.1109/IISA.2019.8900717",
+    "CorpusId": 208038560
+  },
+  "url": "https://www.semanticscholar.org/paper/46dfe41dc9a560a2feb02494141c094e474c9c32",
+  "title": "A-FARM Precision Farming CPS Platform",
+  "venue": "International Conference on Information, Intelligence, Systems and Applications",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IISA.2019.8900717?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IISA.2019.8900717, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "3293189",
+      "name": "K. Antonopoulos"
+    },
+    {
+      "authorId": "2029448",
+      "name": "Christos Panagiotou"
+    },
+    {
+      "authorId": "37494523",
+      "name": "Christos P. Antonopoulos"
+    },
+    {
+      "authorId": "145270350",
+      "name": "N. Voros"
+    }
+  ],
+  "abstract": "Precision farming comprises one of the most rapidly evolving research and development areas, attracting high interest by both the industry as well as the academia. However, for respective systems to be practical and deliver significant benefits, many breakthroughs must be materialized. One of the most critical is the development of efficient, flexible, extendable and reliable Cyber Physical System (CPS) platforms. Therefore, in this paper such a complete, commercial grade architecture is presented, able to meet the requirements of multifaceted demanding agricultural cultivation deployments. The proposed solution can be utilized in any type of cultivation, anticipating significant benefits in metrics such as minimization of water wastage, and chemical fertilizer usage.",
+  "references": null
+}

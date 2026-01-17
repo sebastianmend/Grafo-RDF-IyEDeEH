@@ -1,0 +1,42 @@
+{
+  "paperId": "7c33bfbf41861c7b148baea222f84c5df265caf8",
+  "externalIds": {
+    "MAG": "3049768577",
+    "DOI": "10.1109/ICST47872.2019.9166367",
+    "CorpusId": 221160156
+  },
+  "url": "https://www.semanticscholar.org/paper/7c33bfbf41861c7b148baea222f84c5df265caf8",
+  "title": "Evaluation on the performance of NTRIP RTK positioning using multi-frequency low-cost GPS module in areas with different telecommunication signal strength",
+  "venue": "International Conference on Information Control Systems & Technologies",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICST47872.2019.9166367?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICST47872.2019.9166367, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1885302599",
+      "name": "Novie Chiuman"
+    },
+    {
+      "authorId": "51910424",
+      "name": "Dedi Atunggal"
+    },
+    {
+      "authorId": "31056745",
+      "name": "C. Rokhmana"
+    }
+  ],
+  "abstract": "GPS modules are often utilized for various applications, such as positioning of Unmanned Aerial Vehicles (UAVs), mobile mapping system, navigation, precision agriculture, and Geographic Information System (GIS). In recent years, affordable GPS modules targeted for Real-Time Kinematic (RTK) positioning have reached the mass market with price ranging from 25 to 3,500 USD. These modules come with several choices: single frequency, multi-frequency, and multi-satellite. This paper discusses the evaluation on the performance of multi-frequency low-cost GPS module with parameters such as baseline and telecommunication signal taken into consideration. Telecommunication signal data from three providers, Telkomsel, Indosat, and 3, are obtained from OpenSignal. This paper focuses on the accuracy of the positions obtained. The multi-frequency GPS module was used to obtain positions in open sky environments. From the results of the experiment done in this research, it can be concluded that RTK-NTRIP measurements using multi-frequency GPS module produce mostly centimeter and sub-meter level of accuracy in most areas with strong signal strength. However, RTK solution in meter accuracy was also found in the data. This is due to the fact that the observation data was not filtered using signal to noise ratio (SNR) threshold, where previous research showed more consistent data using the minimum SNR threshold value 30. Therefore, the performance of a multi-frequency GPS module is proved to be unstable.",
+  "references": null
+}

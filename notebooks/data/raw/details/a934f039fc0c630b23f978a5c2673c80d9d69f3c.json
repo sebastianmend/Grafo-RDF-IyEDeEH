@@ -1,0 +1,238 @@
+{
+  "paperId": "a934f039fc0c630b23f978a5c2673c80d9d69f3c",
+  "externalIds": {
+    "PubMedCentral": "6544649",
+    "MAG": "2947521956",
+    "DOI": "10.1038/s41438-019-0151-5",
+    "CorpusId": 171095073,
+    "PubMed": "31231528"
+  },
+  "url": "https://www.semanticscholar.org/paper/a934f039fc0c630b23f978a5c2673c80d9d69f3c",
+  "title": "Combining computer vision and deep learning to enable ultra-scale aerial phenotyping and precision agriculture: A case study of lettuce production",
+  "venue": "Horticulture Research",
+  "year": 2019,
+  "citationCount": 130,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41438-019-0151-5.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6544649, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "153275895",
+      "name": "Alan Bauer"
+    },
+    {
+      "authorId": "37851731",
+      "name": "A. Bostrom"
+    },
+    {
+      "authorId": "32881958",
+      "name": "Joshua Ball"
+    },
+    {
+      "authorId": "31537113",
+      "name": "Christopher S. Applegate"
+    },
+    {
+      "authorId": "152138567",
+      "name": "T. Cheng"
+    },
+    {
+      "authorId": "2488569",
+      "name": "S. Laycock"
+    },
+    {
+      "authorId": "2055472286",
+      "name": "Sergio Moreno Rojas"
+    },
+    {
+      "authorId": "153562014",
+      "name": "Jacob Kirwan"
+    },
+    {
+      "authorId": "70748879",
+      "name": "Ji Zhou"
+    }
+  ],
+  "abstract": "Aerial imagery is regularly used by crop researchers, growers and farmers to monitor crops during the growing season. To extract meaningful information from large-scale aerial images collected from the field, high-throughput phenotypic analysis solutions are required, which not only produce high-quality measures of key crop traits, but also support professionals to make prompt and reliable crop management decisions. Here, we report AirSurf, an automated and open-source analytic platform that combines modern computer vision, up-to-date machine learning, and modular software engineering in order to measure yield-related phenotypes from ultra-large aerial imagery. To quantify millions of in-field lettuces acquired by fixed-wing light aircrafts equipped with normalised difference vegetation index (NDVI) sensors, we customised AirSurf by combining computer vision algorithms and a deep-learning classifier trained with over 100,000 labelled lettuce signals. The tailored platform, AirSurf-Lettuce, is capable of scoring and categorising iceberg lettuces with high accuracy (>98%). Furthermore, novel analysis functions have been developed to map lettuce size distribution across the field, based on which associated global positioning system (GPS) tagged harvest regions have been identified to enable growers and farmers to conduct precision agricultural practises in order to improve the actual yield as well as crop marketability before the harvest.",
+  "references": [
+    {
+      "paperId": "5211525de5b17f6225cde30eb56750ef7c1950e4"
+    },
+    {
+      "paperId": "c8e2610457912053ad78ae951132c0d58b793c78"
+    },
+    {
+      "paperId": "d1b8c407ddcf31dba806e580de02cb8c873ea2a6"
+    },
+    {
+      "paperId": "96179f293bbe2de253a1c4e1606ff031d1ecdcdf"
+    },
+    {
+      "paperId": "8d7033cbf26096a292bbfebcaa6054f57a372626"
+    },
+    {
+      "paperId": "7ad15b05dced974d2b511925635a85a844635cc9"
+    },
+    {
+      "paperId": "93aca0e378e7a49901ecb0d72b7ef0b75401735f"
+    },
+    {
+      "paperId": "a398ae4a0c58d4c60fcaabdb32f468f83c93d912"
+    },
+    {
+      "paperId": "6f1bfb83c76a40aa7ba23f599278b69ce89d964e"
+    },
+    {
+      "paperId": "39abec59f569eea7ab244cb93749d6b6ca70cf87"
+    },
+    {
+      "paperId": "aa16882bf32774219d3d3f965ffa70dffc605816"
+    },
+    {
+      "paperId": "b8419ed5c6f86aaadda91912210b89e311307213"
+    },
+    {
+      "paperId": "b789406b61f5da5006679d591872b0ed0b762b7b"
+    },
+    {
+      "paperId": "3c7253e0230b1bc78ca7a9b640027a6d1c557a0b"
+    },
+    {
+      "paperId": "bf50a0c1447f4fc0caa3ef51b172dd3a0617bedb"
+    },
+    {
+      "paperId": "59b519dde1c20ae27be79592b18384adb607cef9"
+    },
+    {
+      "paperId": "a328859eadff848a32f75e5212cf3a4b3f450480"
+    },
+    {
+      "paperId": "195043e4c13a635555c28dfab7ac534d10d78c12"
+    },
+    {
+      "paperId": "efd68f3724942c9de5dc804d3c7cb3f70f42234b"
+    },
+    {
+      "paperId": "e3245b9040da88e3091e6129f2b3c49c51f31b87"
+    },
+    {
+      "paperId": "64b20f863dc1baf587fb7b5b2c057cbd463112cf"
+    },
+    {
+      "paperId": "a09a9f69ff145508a12e6dbb81ccd7f5be4bd2fc"
+    },
+    {
+      "paperId": "3ee072944ab23b73bf3daa6f2ffb045ec6fcedc6"
+    },
+    {
+      "paperId": "2949ed3a26db0bbaa2e6e3ec1556833750452c71"
+    },
+    {
+      "paperId": "57ec60029ea723e863b4eb1331b3c1b7357239d0"
+    },
+    {
+      "paperId": "08a6fd43347f4ef1e9845c3cd6631c1509546519"
+    },
+    {
+      "paperId": "6d9cb3d3c0330a6c2f42d159a3a706b6b49744b2"
+    },
+    {
+      "paperId": "182d51469abd9f0f9caa5b0ec975299fd01ff469"
+    },
+    {
+      "paperId": "1bd39a66c93ea73d97a962b1314040d3cb5215a9"
+    },
+    {
+      "paperId": "311da3b478c740251181872bd71370a12a177b03"
+    },
+    {
+      "paperId": "f705d78304f42865c5ed3a8f1918aeb9b8b210e3"
+    },
+    {
+      "paperId": "72c4d8b64a9959ea45677ca1955d3491ef0f1c62"
+    },
+    {
+      "paperId": "5e82254d4c7b3ef0fcd649d673f267bda53ba6ea"
+    },
+    {
+      "paperId": "a07a8874568532882e25f34dd247258f22669e53"
+    },
+    {
+      "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246"
+    },
+    {
+      "paperId": "8ad38a70131db1d598551c17919d215712b5b900"
+    },
+    {
+      "paperId": "5aa233cea2b0ef25d60f3c8826163c83147a6aa6"
+    },
+    {
+      "paperId": "412a0bb5a3baa91b62053d82c562bc172df0439f"
+    },
+    {
+      "paperId": "52ca4ed04d1d9dba3e6ae30717898276735e0b79"
+    },
+    {
+      "paperId": "efbb55c5a66d3d04307a80d1ca17113c48344c52"
+    },
+    {
+      "paperId": "68566a84b04b3aacf512fbd8cf705837135fb91f"
+    },
+    {
+      "paperId": "6dd440eec6718f29a35b464345df2c77a4f0e085"
+    },
+    {
+      "paperId": "0a5339ea02b719101a86c537235d520bbbe2b32d"
+    },
+    {
+      "paperId": "39dcd452a86271bb92bf1060183d60c34e95b9c5"
+    },
+    {
+      "paperId": "d70f0ab1bd96c2ad91e5766d6887463f6ea37db2"
+    },
+    {
+      "paperId": "6f2463768da343b00cf012d4c2168cc76f721fd7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "c45d56984526b3188e324ce5251ea13e3467d8c9"
+    },
+    {
+      "paperId": "2f70bdda801682aedc269380c8d6fcd45da40a99"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "adbbd546ee9e64188389fddb70f6fb5a2e6757f3"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "1e6113d2e4633f66048c07ea1f73291b2038623d"
+    },
+    {
+      "paperId": "6214dd12133250717a6725c44d6209d1897e79e6"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "paperId": "25126d588313fd0e935d602208358fd5aec5448e",
+  "externalIds": {
+    "MAG": "2917286628",
+    "DBLP": "journals/ijaeis/PlazasBSC19",
+    "DOI": "10.4018/IJAEIS.2019040102",
+    "CorpusId": 116250267
+  },
+  "url": "https://www.semanticscholar.org/paper/25126d588313fd0e935d602208358fd5aec5448e",
+  "title": "Data-Centric UML Profile for Wireless Sensors: Application to Smart Farming",
+  "venue": "International Journal of Agricultural and Environmental Information Systems",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.4018/ijaeis.2019040102",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4018/IJAEIS.2019040102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/IJAEIS.2019040102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Engineering"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3423601",
+      "name": "Julián Eduardo Plazas"
+    },
+    {
+      "authorId": "1719976",
+      "name": "S. Bimonte"
+    },
+    {
+      "authorId": "2365963",
+      "name": "G. D. Sousa"
+    },
+    {
+      "authorId": "1765573",
+      "name": "J. Corrales"
+    }
+  ],
+  "abstract": "Modelling WSN data behaviour is relevant since it would allow to evaluate the capacity of an application for supplying the user needs, moreover, it could enable a transparent integration with different data-centric information systems. Therefore, this article proposes a data-centric UML profile for the design of wireless sensor nodes from the user point-of-view capable of representing the gathered and delivered data of the node. This profile considers different characteristics and configurations of frequency, aggregation, persistence and quality at the level of the wireless sensor nodes. Furthermore, this article validates the UML profile through a computer-aided software engineering (CASE) tool implementation and one case study, centred on the data collected by a real WSN implementation for precision agriculture and smart farming.",
+  "references": [
+    {
+      "paperId": "2e6056f588ec2d946b6424223f6711059bbba138"
+    },
+    {
+      "paperId": "39affd490566c2dafc048de9df980cc0222b7b24"
+    },
+    {
+      "paperId": "2b9168ff9992946f378ac15a9e07cd29d5a4f1c2"
+    },
+    {
+      "paperId": "0c53a03c16cc32a984d88c2162ba6008190939ae"
+    },
+    {
+      "paperId": "7c3a807f944e27fd34ac173c5c95549bf1ba9400"
+    },
+    {
+      "paperId": "51461904e99a081c0a79d8da6b06278fa22aedbf"
+    },
+    {
+      "paperId": "feb0db27b56ea16bed2bda1d330750dff1808b79"
+    },
+    {
+      "paperId": "8d0077c1acc743233c6fa00f3a67d6ddc36067db"
+    },
+    {
+      "paperId": "54d808705344e5ac296acb34f52d5f9a5aafec6e"
+    },
+    {
+      "paperId": "217610f989497ca897afafbaa65113dab381fbea"
+    },
+    {
+      "paperId": "f3fd647d47089ce08157a422473cab5cf7da91eb"
+    },
+    {
+      "paperId": "03bbcdb75241e5b69e3781f758a634b2576d1ba8"
+    },
+    {
+      "paperId": "9a1a3767f19ea29ecc235e19958c572ffead1b6e"
+    },
+    {
+      "paperId": "32eecf3b5f3cf5fba26c69c87a3c29b91ff685f1"
+    },
+    {
+      "paperId": "d69e243084dead2226dec4c7cf412bef4499157d"
+    },
+    {
+      "paperId": "caa0fe9a7a1e03dfbf09647cd87fcb7d90848bb4"
+    },
+    {
+      "paperId": "03508d7cf2f2c79959fe219377fa63535069a853"
+    },
+    {
+      "paperId": "09d1adae2763710518b850310de43ad2355ef699"
+    },
+    {
+      "paperId": "837933abefafbfa64b41bbbe8f4ba9bb1c7f40e0"
+    },
+    {
+      "paperId": "da0a41bef15dbac4288fe32641f6a87328b01bfe"
+    },
+    {
+      "paperId": "d080fb7c7cd1bf65be60ec9cd47dd44fca0abb66"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "480a56d36bcf8be721445dd12bed696b468fdb7a"
+    },
+    {
+      "paperId": "ddfa600321f74da696506cb3b8caa157b2ac194a"
+    },
+    {
+      "paperId": "f74ef0d97e8b810cdf43d87847526d3ff614db8c"
+    },
+    {
+      "paperId": "207ea0115bf4388d11f0ab4ddbfd9fd00de5e8d1"
+    },
+    {
+      "paperId": "eb7ebdf526bdcfc0fcdd1673bb99685cd5bfcca6"
+    },
+    {
+      "paperId": "5d5641c6a8c48aff9dc23d32ad6591fe82a2786d"
+    },
+    {
+      "paperId": "2bf065f3c6195b63949ad3d37974c5fb12005580"
+    },
+    {
+      "paperId": "ed26d8fa6c112504e4ba9965000969bdb01954b1"
+    },
+    {
+      "paperId": "acd7f9b53d62d17efc83019d98eaa647932df262"
+    },
+    {
+      "paperId": "170ee9747962f781dfcc6d89705f05c0c30fd4e8"
+    },
+    {
+      "paperId": "c38a626937f1e3911aabc3d3083245971b5c4d5b"
+    },
+    {
+      "paperId": "794c598e037ffac8b8dec326ba29a5dd9044ece6"
+    },
+    {
+      "paperId": "44bf7e7256af28b7415a9bd56a2986d6d02fd945"
+    },
+    {
+      "paperId": "0d261088d34490fd32182bacd4f32b475d53e33e"
+    },
+    {
+      "paperId": "14be5567583c23b8adfd9b58ec4796b8fa763d19"
+    },
+    {
+      "paperId": "b8fa4e41c363ef67ff44e38c00d444b4d10d0453"
+    },
+    {
+      "paperId": "49aad6a67dbfa9ee025216312862f33a0fa9a1c4"
+    },
+    {
+      "paperId": "a356df9e8e10ddd428b94ce6cca4c7cf0f5d6137"
+    },
+    {
+      "paperId": "cf0aecc3bc0760f29abd209bf5d334c71c086b7f"
+    },
+    {
+      "paperId": "bf7819d9adb52a9ca7d84ea9d01f68d8d603417d"
+    },
+    {
+      "paperId": "dea63c27372f3a6a35dd88c19ea0a038aaa968ff"
+    },
+    {
+      "paperId": "866338ba2bef96d32528aa9f76740a3a4fd4fc16"
+    },
+    {
+      "paperId": "60b5d66c54140cad6bd152b49ff0825eed85bb2c"
+    },
+    {
+      "paperId": "6ce9988f50cff1e79a52440551730fe4a28a5def"
+    },
+    {
+      "paperId": "6bed39fbaac745ef4dd0a06ffd2fabe5d579399a"
+    },
+    {
+      "paperId": "eaf9ec18ca911a29e186a033f26e2bc802d168f5"
+    },
+    {
+      "paperId": "ff47de2d1b387f681bb452779c3de86faed31456"
+    },
+    {
+      "paperId": "9c194074fc8585a61e99f6910875c5a42870b2d4"
+    },
+    {
+      "paperId": "dbff100467b27e36c564f68850669b7aa803198f"
+    },
+    {
+      "paperId": "18648407e048086fad9bce8a6fb23c68229fe0d1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

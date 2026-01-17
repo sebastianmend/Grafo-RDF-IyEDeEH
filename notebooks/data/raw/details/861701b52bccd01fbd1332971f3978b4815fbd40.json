@@ -1,0 +1,33 @@
+{
+  "paperId": "861701b52bccd01fbd1332971f3978b4815fbd40",
+  "externalIds": {
+    "DBLP": "books/hal/Taylor19",
+    "MAG": "3022130220",
+    "CorpusId": 218672022
+  },
+  "url": "https://www.semanticscholar.org/paper/861701b52bccd01fbd1332971f3978b4815fbd40",
+  "title": "Towards Incorporating Within-Field Variation into Spatial Agronomic Decision Processes",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2110747715",
+      "name": "James E. Taylor"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

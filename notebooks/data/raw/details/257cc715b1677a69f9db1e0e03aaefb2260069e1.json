@@ -1,0 +1,38 @@
+{
+  "paperId": "257cc715b1677a69f9db1e0e03aaefb2260069e1",
+  "externalIds": {
+    "MAG": "2884755677",
+    "DOI": "10.1007/s11119-018-9589-y",
+    "CorpusId": 49737113
+  },
+  "url": "https://www.semanticscholar.org/paper/257cc715b1677a69f9db1e0e03aaefb2260069e1",
+  "title": "Farmer attitudes to the use of sensors and automation in fertilizer decision-making: nitrogen fertilization in the Australian grains sector",
+  "venue": "Precision Agriculture",
+  "year": 2018,
+  "citationCount": 72,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11119-018-9589-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11119-018-9589-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2678389",
+      "name": "R. Bramley"
+    },
+    {
+      "authorId": "90475601",
+      "name": "J. Ouzman"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "da405bbdcca9b1ca48db075416813f74482ea04a",
+  "externalIds": {
+    "MAG": "3006069039",
+    "DOI": "10.1109/ICIIP47207.2019.8985688",
+    "CorpusId": 211118136
+  },
+  "url": "https://www.semanticscholar.org/paper/da405bbdcca9b1ca48db075416813f74482ea04a",
+  "title": "Internet of Things for Precision Agriculture Applications",
+  "venue": "International Conference on Intelligent Information Processing",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIP47207.2019.8985688?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIP47207.2019.8985688, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109037564",
+      "name": "S. Singh"
+    },
+    {
+      "authorId": "49012423",
+      "name": "P. Alam"
+    },
+    {
+      "authorId": "35757295",
+      "name": "Parteek Kumar"
+    },
+    {
+      "authorId": "3011642",
+      "name": "Sanmeet Kaur"
+    }
+  ],
+  "abstract": "Precision agriculture is an innovative technique that encourages the use of Information Technology devices to produce high-quality yield with the best utilization of available resources. Presently, the practice of precision agriculture has become more common due to the inclusion of varied technologies and communication mediums. This technique can be acquired by farmers to optimize their crop returns with proper preservation of resources. This study proposes a Platform to measure soil and environmental parameters such as humidity, temperature, and moisture of the soil. In contrast, the population is increasing in an inclined order, to keep an eye on the growth level of the population level and requirement of the food resources, the researchers are still struggling for the dataset availability of their region. Thus, a need to measure crop parameters for analysis was felt. This study uses Raspberry Pi, Sensors and other information technology-based types of equipment to fetch the data and readings of the soil and environment. Further, a methodology has been devised which uses a cloud platform, for real-time analysis of the data gathered from the proposed platform. This analysis includes several plots that are based on the readings of the sensors from the station. The upshot of this study is the possibility that the researchers could implement the model using the observed reading from the soil and environment and it could also be aggregate, visualize and analyze the live stream of data for their local region. The study could further be used as a foundation for implementing precision agriculture models such as unmanned aerial vehicle-based precision farming.",
+  "references": null
+}

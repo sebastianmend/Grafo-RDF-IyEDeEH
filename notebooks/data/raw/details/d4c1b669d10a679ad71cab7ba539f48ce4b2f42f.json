@@ -1,0 +1,171 @@
+{
+  "paperId": "d4c1b669d10a679ad71cab7ba539f48ce4b2f42f",
+  "externalIds": {
+    "DBLP": "journals/sensors/NekrasovAAB19",
+    "MAG": "2967563487",
+    "PubMedCentral": "6721032",
+    "DOI": "10.3390/s19163479",
+    "CorpusId": 199506333,
+    "PubMed": "31395827"
+  },
+  "url": "https://www.semanticscholar.org/paper/d4c1b669d10a679ad71cab7ba539f48ce4b2f42f",
+  "title": "Optimizing 802.15.4 Outdoor IoT Sensor Networks for Aerial Data Collection",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 5,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/19/16/3479/pdf?version=1565592738",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6721032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "36407960",
+      "name": "Michael Nekrasov"
+    },
+    {
+      "authorId": "2113590627",
+      "name": "Ryan Allen"
+    },
+    {
+      "authorId": "2085551975",
+      "name": "Irina Artamonova"
+    },
+    {
+      "authorId": "1397933253",
+      "name": "E. Belding-Royer"
+    }
+  ],
+  "abstract": "Rural IoT sensor networks, prevalent in environmental monitoring and precision agriculture, commonly operate over some variant of the IEEE 802.15.4 standard. Data collection from these networks is often challenging, as they may be deployed in remote regions where existing backhaul infrastructure is expensive or absent. With the commercial and industrial success of Unmanned Aircraft Systems (UAS), there is understandable interest in using UASs for delay tolerant data collection from 802.15.4 IoT sensor networks. In this study, we investigate how to optimize 802.15.4 networks for aerial data collection, which, unlike other wireless standards, has not received rigorous evaluation for three-dimensional aerial communication. We analyze experimental measurements from an outdoor aerial testbed, examining how factors, such as antenna orientation, altitude, antenna placement, and obstruction, affect signal strength and packet reception rate. In our analysis, we model and predict the quality of service for aerial data collection, based on these network configuration variables, and contrast that with the Received Signal Strength Indication (RSSI)—a commonly used signal strength metric. We find that network configuration plays a significant role in network quality, which RSSI, a mediator variable, struggles to account for in the presence of high packet loss. We conclude with a discussion of strategies for optimizing sensor network configuration for aerial data collection, in light of our results.",
+  "references": [
+    {
+      "paperId": "bfd3e3f306896f9efa441c8e2de76a7dd8d3212a"
+    },
+    {
+      "paperId": "aa510f973ad9169c739253b5b5f227900a8bf496"
+    },
+    {
+      "paperId": "bfb92868bd67584d7dcb221a2520042dcb1ba2f2"
+    },
+    {
+      "paperId": "e3c6070db07766b985cecba1ea0bb162cddf8837"
+    },
+    {
+      "paperId": "582fadd113b555d7684ae5e1ba60e8ddf29e6a8e"
+    },
+    {
+      "paperId": "2aace9ea45321678c559df047ce75a1743a59908"
+    },
+    {
+      "paperId": "686be6afabed18ff9ea64b1d14e61282075ccfb5"
+    },
+    {
+      "paperId": "842620444bb8b4781aa98d66dd46912425ca8a46"
+    },
+    {
+      "paperId": "1dc336a30f8d01088b72e6c8bee28c999e828d87"
+    },
+    {
+      "paperId": "683bedb584e107cbeff86f6c92efec2ca90c5823"
+    },
+    {
+      "paperId": "024811e7c68c80d273e7d0d49e9faf5b3e4dbe4d"
+    },
+    {
+      "paperId": "b845bd9929fc410937698b1979f644632e3dcc9a"
+    },
+    {
+      "paperId": "45b59ec666a155153f732a9ea20627f6b48c4024"
+    },
+    {
+      "paperId": "2a913a8758fb5f6116ee9581b8691dc0c0c8b8a0"
+    },
+    {
+      "paperId": "4fbc3c5932bd2c7c60c6bac57763c219e5b03cfc"
+    },
+    {
+      "paperId": "c600aa7b9256cbf5def503736a9c7fe23dd58cdf"
+    },
+    {
+      "paperId": "a0e225e990d38a2e433b2335c1aea09b3b30b1b8"
+    },
+    {
+      "paperId": "3ae637bac7150e3a454add66cf3cd6e69314f520"
+    },
+    {
+      "paperId": "e64c4433f89dd30c93b80eab5d84912c60745a15"
+    },
+    {
+      "paperId": "848dcc6c571cf9a176317445d4439d2fe788a25a"
+    },
+    {
+      "paperId": "90d28f3fa9a0eb4e6b4652794b64019ab4bd83a9"
+    },
+    {
+      "paperId": "c93720a9be3e43edf7df2b39e387d07c7a9d41c1"
+    },
+    {
+      "paperId": "2e1e8301fda8385c13a603d3a58611318a500c20"
+    },
+    {
+      "paperId": "473c415f2f58fe960b042b3afddbb0c8613645b8"
+    },
+    {
+      "paperId": "0fedb43ea0c727755d98f6dc3757941155570937"
+    },
+    {
+      "paperId": "856958549a2badd18ee507d4c31eba2e400db4ef"
+    },
+    {
+      "paperId": "f071489d49aa2ead51eb1d153d4af19176c9bee7"
+    },
+    {
+      "paperId": "870213c419fe7be2d32ec77fb79c32b112d59f46"
+    },
+    {
+      "paperId": "4d0ae78bd1911446ee37b845c024f4eec557b6e5"
+    },
+    {
+      "paperId": "94a31ef5b0ea13ef438046cd1ca8a0093825fb41"
+    },
+    {
+      "paperId": "3cfec88c8f863ae0c941cad9217b5bbf54434a0b"
+    },
+    {
+      "paperId": "2459ab79268f7b8344a8bdfb8f79ba8dde921efc"
+    },
+    {
+      "paperId": "fd8e960ca48e183452335743c273ea41c6930a75"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

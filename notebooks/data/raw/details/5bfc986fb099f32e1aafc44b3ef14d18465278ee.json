@@ -1,0 +1,42 @@
+{
+  "paperId": "5bfc986fb099f32e1aafc44b3ef14d18465278ee",
+  "externalIds": {
+    "MAG": "2990656778",
+    "DOI": "10.1109/HONET.2019.8907994",
+    "CorpusId": 208210353
+  },
+  "url": "https://www.semanticscholar.org/paper/5bfc986fb099f32e1aafc44b3ef14d18465278ee",
+  "title": "Application of spectral reflectance for increasing plant discrimination speed in precision agriculture",
+  "venue": "2019 IEEE 16th International Conference on Smart Cities: Improving Quality of Life Using ICT & IoT and AI (HONET-ICT)",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/HONET.2019.8907994?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/HONET.2019.8907994, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "41153839",
+      "name": "Saman Akbarzadeh"
+    },
+    {
+      "authorId": "2177057",
+      "name": "Selam T. Ahderom"
+    },
+    {
+      "authorId": "2353784",
+      "name": "K. Alameh"
+    }
+  ],
+  "abstract": "Increasing the speed of weed/crop discrimination sensor engines is an increasingly challenging research area in precision agriculture (PA). Data collection, modelling, and real-time operation are currently the major challenges for accurate plant classification and effective weed control. In the current study, a new low-resolution spectral reflectance sensing is proposed for data collection and applied in conjunction with state-of-art convolutional neural network (CNN) algorithm for real-time weed detection. Experimental results demonstrate that the speed of the algorithm is ten times faster than typical spatial imaging based counterparts, while its discrimination accuracy is almost the same.",
+  "references": null
+}

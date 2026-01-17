@@ -1,0 +1,67 @@
+{
+  "paperId": "14b64f4378b5ba1b0736a4aa381e492369669837",
+  "externalIds": {
+    "DBLP": "journals/cea/MoraisSMAPLPSP19",
+    "MAG": "2945967375",
+    "DOI": "10.1016/J.COMPAG.2019.05.028",
+    "CorpusId": 181422249
+  },
+  "url": "https://www.semanticscholar.org/paper/14b64f4378b5ba1b0736a4aa381e492369669837",
+  "title": "mySense: A comprehensive data management environment to improve precision agriculture practices",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "citationCount": 87,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2019.05.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2019.05.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145104644",
+      "name": "R. Morais"
+    },
+    {
+      "authorId": "145043942",
+      "name": "Nuno Silva"
+    },
+    {
+      "authorId": "144907742",
+      "name": "Jorge Mendes"
+    },
+    {
+      "authorId": "3446883",
+      "name": "T. Adão"
+    },
+    {
+      "authorId": "143632492",
+      "name": "L. Pádua"
+    },
+    {
+      "authorId": "1403625442",
+      "name": "J. A. López-Riquelme"
+    },
+    {
+      "authorId": "30671602",
+      "name": "N. Pavón"
+    },
+    {
+      "authorId": "80240841",
+      "name": "J. Sousa"
+    },
+    {
+      "authorId": "40655700",
+      "name": "Emanuel Peres"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

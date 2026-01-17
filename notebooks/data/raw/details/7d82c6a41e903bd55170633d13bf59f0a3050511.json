@@ -1,0 +1,56 @@
+{
+  "paperId": "7d82c6a41e903bd55170633d13bf59f0a3050511",
+  "externalIds": {
+    "MAG": "2903553029",
+    "DOI": "10.1002/rcm.8363",
+    "CorpusId": 53764848,
+    "PubMed": "30474287"
+  },
+  "url": "https://www.semanticscholar.org/paper/7d82c6a41e903bd55170633d13bf59f0a3050511",
+  "title": "Improvement of the 15 N gas flux method for in situ measurement of soil denitrification and its product stoichiometry.",
+  "venue": "Rapid Communications in Mass Spectrometry",
+  "year": 2019,
+  "citationCount": 33,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/rcm.8363?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/rcm.8363, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3656426",
+      "name": "R. Well"
+    },
+    {
+      "authorId": "3998077",
+      "name": "S. Burkart"
+    },
+    {
+      "authorId": "39940231",
+      "name": "A. Giesemann"
+    },
+    {
+      "authorId": "3401372",
+      "name": "B. Grosz"
+    },
+    {
+      "authorId": "11533471",
+      "name": "J. Köster"
+    },
+    {
+      "authorId": "1399460390",
+      "name": "D. Lewicka-Szczebak"
+    }
+  ],
+  "abstract": "RATIONALE\nField measurement of denitrification in agricultural ecosystems using the 15 N gas flux method has been limited by poor sensitivity because current isotope ratio mass spectrometry is not precise enough to detect low 15 N2 fluxes in the presence of a high atmospheric N2 background. For laboratory studies, detection limits are improved by incubating soils in closed systems and under N2 -depleted atmospheres.\n\n\nMETHODS\nWe developed a new procedure to conduct the 15 N gas flux method suitable for field application using an artificially N2 -depleted atmosphere to improve the detection limit at the given precision of mass spectrometry. Laboratory experiments with and without 15 N-labelling and using different flushing strategies were conducted to develop a suitable field method. Subsequently, this method was tested in the field and results were compared with those obtained from the conventional 15 N gas flux method.\n\n\nRESULTS\nResults of the two methods were in close agreement showing that the denitrification rates determined were not biased by the flushing procedure. Best sensitivity for N2  + N2 O fluxes was 10 ppb, which was 80-fold better than that of the reference method. Further improvement can be achieved by lowering the N2 background concentration below the values established in the present study.\n\n\nCONCLUSIONS\nIn view of this progress in sensitivity, the new method will be suitable to measure denitrification dynamics in the field beyond peak events.",
+  "references": null
+}

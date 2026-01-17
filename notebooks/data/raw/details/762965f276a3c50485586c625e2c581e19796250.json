@@ -1,0 +1,40 @@
+{
+  "paperId": "762965f276a3c50485586c625e2c581e19796250",
+  "externalIds": {
+    "MAG": "2900859473",
+    "DBLP": "conf/igarss/YinL18",
+    "DOI": "10.1109/IGARSS.2018.8518151",
+    "CorpusId": 53230067
+  },
+  "url": "https://www.semanticscholar.org/paper/762965f276a3c50485586c625e2c581e19796250",
+  "title": "Derivation of High Spatio-Temporal Resolution Leaf Area Index and Uncertainty Maps by Combining LAINet, CACAO and GPR",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8518151?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8518151, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3409018",
+      "name": "Gaofei Yin"
+    },
+    {
+      "authorId": "2979534",
+      "name": "Ainong Li"
+    }
+  ],
+  "abstract": "We proposed a framework to generate high spatio-temporal resolution leaf area index (LAI) and uncertainty maps based on the integration of LAINet observation system, Consistent Adjustment of the Climatology to Actual Observations (CACAO) method and Gaussian process regression (GPR). LAINet, which is a wireless sensor network based automatic LAI observation instrument, was used to provide temporally continuous field measurements; CACAO, a data blending method, was used to blend the high and low spatial resolution remote sensing observations to obtain high spatio-temporal resolution remote sensing observations synchronous with the field measurements. GPR, a machine learning regression algorithm, was used to upscale the spatially discrete field measurements to spatially explicit LAI maps, and get the concomitant uncertainty maps. The performance of the proposed method was evaluated over a crop site, where seven LAI maps and their accompanying uncertainty maps all with 30 m and 8 days resolutions were generated. Results show that the framework can provide accurate LAI retrievals. In addition, the concomitant uncertainty maps provide insight into the reliability of the LAI retrievals. This paper contributes to precision agriculture and validation activities for coarse resolution LAI products.",
+  "references": null
+}

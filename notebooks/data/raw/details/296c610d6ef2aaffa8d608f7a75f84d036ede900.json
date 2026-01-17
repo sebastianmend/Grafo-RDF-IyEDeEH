@@ -1,0 +1,65 @@
+{
+  "paperId": "296c610d6ef2aaffa8d608f7a75f84d036ede900",
+  "externalIds": {
+    "MAG": "2938601916",
+    "DOI": "10.1088/1742-6596/1193/1/012026",
+    "CorpusId": 145896798
+  },
+  "url": "https://www.semanticscholar.org/paper/296c610d6ef2aaffa8d608f7a75f84d036ede900",
+  "title": "Precision agriculture classification using convolutional neural networks for paddy growth level",
+  "venue": "Journal of Physics: Conference Series",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1742-6596/1193/1/012026",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1742-6596/1193/1/012026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1742-6596/1193/1/012026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "66844588",
+      "name": "I. Neforawati"
+    },
+    {
+      "authorId": "35191389",
+      "name": "N. S. Herman"
+    },
+    {
+      "authorId": "40798098",
+      "name": "Othman Mohd"
+    }
+  ],
+  "abstract": "Precision Agricultural is a key component of modern agricultural. Several researchers tried to use various machine learning models as precision agricultural classification and recognition model, but surprisingly merely few researchers use Deep learning models to solve precision agriculture problems like Paddy Classification, Plant Classification or Fruit Classification. In this research, Precision Agriculture Classification on Paddy Image Dataset was performed using Convolutional Neural Networks. Paddy should be catered well in order tomonitor time to harvest, time to watering, and other tasks. The result of classification, we obtained 82% overall accuracy.",
+  "references": [
+    {
+      "paperId": "2a77f7f8e43ec2d3f7afc95ef3bdb8b95d71aa36"
+    },
+    {
+      "paperId": "769ef3d5021cd71c37d2c403f231a53d1accf786"
+    },
+    {
+      "paperId": "995c5f5e62614fcb4d2796ad2faab969da51713e"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "720e6b729a4940f67883a287d8e1e3fd65c567a1"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

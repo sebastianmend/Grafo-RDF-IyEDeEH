@@ -1,0 +1,101 @@
+{
+  "paperId": "14b59491d8b988692c8615c32ab1bd65cd641f64",
+  "externalIds": {
+    "MAG": "2945590923",
+    "DBLP": "conf/iotbd/FruhnerIKNTT19",
+    "DOI": "10.5220/0007760101650176",
+    "CorpusId": 174800306
+  },
+  "url": "https://www.semanticscholar.org/paper/14b59491d8b988692c8615c32ab1bd65cd641f64",
+  "title": "OPeRAte: An IoT Approach towards Collaborative, Manufacturer-independent Farming 4.0",
+  "venue": "International Conference on Internet of Things, Big Data and Security",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5220/0007760101650176",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5220/0007760101650176?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0007760101650176, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51960121",
+      "name": "Maik Fruhner"
+    },
+    {
+      "authorId": "3377197",
+      "name": "Thorben Iggena"
+    },
+    {
+      "authorId": "2083660193",
+      "name": "Franz Kraatz"
+    },
+    {
+      "authorId": "3344240",
+      "name": "Frank Nordemann"
+    },
+    {
+      "authorId": "2681471",
+      "name": "H. Tapken"
+    },
+    {
+      "authorId": "9329976",
+      "name": "R. Tönjes"
+    }
+  ],
+  "abstract": "Without modern agricultural technology, it would not be possible to feed the world’s steadily growing population. In order to be able to handle this task in the future, new improvements must be constantly developed to improve agriculture and increase yields. These include methods known as ’Precision Farming’, ’Smart Farming’ or ’Farming 4.0’. These terms describe working in the field with high-tech machines that are supported by intelligent systems that communicate with each other. But at the present time, such intercommunicating ecosystems are manufacturer-bound and hardly interoperable. This paper presents a new approach to connecting various agricultural machines from different manufacturers into a common network of IoT devices. In this project, a framework for the orchestration of agricultural processes is being developed that is capable of planning, controlling, monitoring and documenting joint collaborative tasks between many independent machines while breaking the commitment to a single manufacturer. The first application example of the system is the development of a tank trailer for liquid slurry spreading with various sensors and controls. By using IoT-specific technologies, the tank can already be configured by a process management system, so that exact nutrient quantities are applied part-field-specifically and a legally compliant documentation is generated.",
+  "references": [
+    {
+      "paperId": "71111d953442bbd631da9f1a3cf9c7b3d74702de"
+    },
+    {
+      "paperId": "8d1ca7b5b672dc59f53119fbc7d14657290be7f3"
+    },
+    {
+      "paperId": "cd6f2314d8f2e1885d9d23d3c3a826a35e086056"
+    },
+    {
+      "paperId": "ce065dbf0a83837b543d4c88693fe765e58c46a3"
+    },
+    {
+      "paperId": "3f0c29566f996933ba6fc556735f1ecff5ce3c1d"
+    },
+    {
+      "paperId": "c4223540416c36a91e46e92aa0cf205588919b92"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

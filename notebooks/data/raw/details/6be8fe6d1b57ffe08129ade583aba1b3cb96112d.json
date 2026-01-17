@@ -1,0 +1,38 @@
+{
+  "paperId": "6be8fe6d1b57ffe08129ade583aba1b3cb96112d",
+  "externalIds": {
+    "MAG": "2944643337",
+    "DOI": "10.1007/s41976-019-00015-9",
+    "CorpusId": 165049097
+  },
+  "url": "https://www.semanticscholar.org/paper/6be8fe6d1b57ffe08129ade583aba1b3cb96112d",
+  "title": "Wheat Acreage Mapping and Yield Prediction Using Landsat-8 OLI Satellite Data: a Case Study in Sahibganj Province, Jharkhand (India)",
+  "venue": "Remote Sensing in Earth Systems Sciences",
+  "year": 2019,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s41976-019-00015-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s41976-019-00015-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "39582349",
+      "name": "B. Parida"
+    },
+    {
+      "authorId": "97499452",
+      "name": "Avinash Kumar Ranjan"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

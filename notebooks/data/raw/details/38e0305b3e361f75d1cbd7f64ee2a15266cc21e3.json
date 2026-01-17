@@ -1,0 +1,42 @@
+{
+  "paperId": "38e0305b3e361f75d1cbd7f64ee2a15266cc21e3",
+  "externalIds": {
+    "MAG": "2953408546",
+    "DOI": "10.1109/PDGC.2018.8746001",
+    "CorpusId": 195736987
+  },
+  "url": "https://www.semanticscholar.org/paper/38e0305b3e361f75d1cbd7f64ee2a15266cc21e3",
+  "title": "Big Data Analytics for Crop Prediction Mode Using Optimization Technique",
+  "venue": "2018 Fifth International Conference on Parallel, Distributed and Grid Computing (PDGC)",
+  "year": 2018,
+  "citationCount": 16,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PDGC.2018.8746001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PDGC.2018.8746001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2109850273",
+      "name": "Shivi Sharma"
+    },
+    {
+      "authorId": "2471373",
+      "name": "Geetanjali Rathee"
+    },
+    {
+      "authorId": "2310182",
+      "name": "H. Saini"
+    }
+  ],
+  "abstract": "Agriculture is considered as the backbone of our country's economy. Big data analysis is used to discover novel solutions, which act as means for analyzing bulky data set, so that it plays a significant role for decision making in specific field such as agriculture. In this work, soil and environment features i.e. average temperature, average humidity, total rainfall and production yield are used in predicting two classes namely: good yield and bad yield. For this purpose, a hybrid classifier model is used in optimizing the feature and the proposed approach is divided into three phase's viz pre-processing, feature selection and SVM_GWO i.e grey wolf optimizer along with Support Vector machine (SVM) classification is used to improve the accuracy, precision, recall and F-measure. The result shows that SVM_GWO approach better as compared to typical SVMs classification algorithm.",
+  "references": null
+}

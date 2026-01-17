@@ -1,0 +1,51 @@
+{
+  "paperId": "dffc14dc8c88ccbc229e92a1a9dd5e8a08a80fd6",
+  "externalIds": {
+    "MAG": "2612534924",
+    "DBLP": "journals/tbd/PuthalWNRC19",
+    "DOI": "10.1109/TBDATA.2017.2702172",
+    "CorpusId": 67085827
+  },
+  "url": "https://www.semanticscholar.org/paper/dffc14dc8c88ccbc229e92a1a9dd5e8a08a80fd6",
+  "title": "SEEN: A Selective Encryption Method to Ensure Confidentiality for Big Sensing Data Streams",
+  "venue": "IEEE Transactions on Big Data",
+  "year": 2019,
+  "citationCount": 56,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TBDATA.2017.2702172?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TBDATA.2017.2702172, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1901571",
+      "name": "Deepak Puthal"
+    },
+    {
+      "authorId": "2145502658",
+      "name": "Xindong Wu"
+    },
+    {
+      "authorId": "2360242108",
+      "name": "Nepal Surya"
+    },
+    {
+      "authorId": "144928956",
+      "name": "R. Ranjan"
+    },
+    {
+      "authorId": "1699149190",
+      "name": "Jinjun Chen"
+    }
+  ],
+  "abstract": "Resource constrained sensing devices are being used widely to build and deploy self-organizing wireless sensor networks for a variety of critical applications such as smart cities, smart health, precision agriculture and industrial control systems. Many such devices sense the deployed environment and generate a variety of data and send them to the server for analysis as data streams. A Data Stream Manager (DSM) at the server collects the data streams (often called big data) to perform real time analysis and decision-making for these critical applications. A malicious adversary may access or tamper with the data in transit. One of the challenging tasks in such applications is to assure the trustworthiness of the collected data so that any decisions are made on the processing of correct data. Assuring high data trustworthiness requires that the system satisfies two key security properties: confidentiality and integrity. To ensure the confidentiality of collected data, we need to prevent sensitive information from reaching the wrong people by ensuring that the right people are getting it. Sensed data are always associated with different sensitivity levels based on the sensitivity of emerging applications or the sensed data types or the sensing devices. For example, a temperature in a precision agriculture application may not be as sensitive as monitored data in smart health. Providing multilevel data confidentiality along with data integrity for big sensing data streams in the context of near real time analytics is a challenging problem. In this paper, we propose a Selective Encryption (SEEN) method to secure big sensing data streams that satisfies the desired multiple levels of confidentiality and data integrity. Our method is based on two key concepts: common shared keys that are initialized and updated by DSM without requiring retransmission, and a seamless key refreshment process without interrupting the data stream encryption/decryption. Theoretical analyses and experimental results of our SEEN method show that it can significantly improve the efficiency and buffer usage at DSM without compromising the confidentiality and integrity of the data streams.",
+  "references": null
+}

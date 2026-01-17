@@ -1,0 +1,48 @@
+{
+  "paperId": "e80603df3619ec359bb39e7e5e748bba46579e05",
+  "externalIds": {
+    "MAG": "2916459778",
+    "DOI": "10.1080/1059924X.2019.1581494",
+    "CorpusId": 73511844,
+    "PubMed": "30806175"
+  },
+  "url": "https://www.semanticscholar.org/paper/e80603df3619ec359bb39e7e5e748bba46579e05",
+  "title": "Wildfire Associated Health Risks Impacting Farmers and Ranchers",
+  "venue": "Journal of Agromedicine",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1059924X.2019.1581494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1059924X.2019.1581494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "77692243",
+      "name": "M. Corrieri"
+    },
+    {
+      "authorId": "47705643",
+      "name": "Natalie Roy"
+    },
+    {
+      "authorId": "1938597197",
+      "name": "Knesha N Rose-Davison"
+    },
+    {
+      "authorId": "152823589",
+      "name": "Chad J. Roy"
+    }
+  ],
+  "abstract": "ABSTRACT The incidence of large, uncontained wildfires in North America has increased in recent years, significantly impacting both urban and agriculturally-focused areas. The physical damage and health pressures left in the wake of uncontrolled fires has especially devastated farm and ranch operators in affected areas, prompting concern from the community of healthcare providers and advocates servicing this specialized occupational population. The AgriSafe Network, a leading health advocacy organization centered in agricultural health, conducted an interactive webinar with nationally recognized knowledge thought leaders as a response to this crisis. Results identified primary, action-critical issues as an initiatives roadmap for future focused precision research and targeted educational efforts. Think tank initiatives provide intelligible guidance that can lead to tractable interventions for agricultural populations effected by wildfires.",
+  "references": null
+}

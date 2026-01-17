@@ -1,0 +1,44 @@
+{
+  "paperId": "635dee45d71efb6d60fce22d189f2b546c8bd1f4",
+  "externalIds": {
+    "MAG": "2784671349",
+    "DOI": "10.1007/s10661-018-6470-4",
+    "CorpusId": 12559680,
+    "PubMed": "29354871"
+  },
+  "url": "https://www.semanticscholar.org/paper/635dee45d71efb6d60fce22d189f2b546c8bd1f4",
+  "title": "Assessing uncertainty in annual nitrogen, phosphorus, and suspended sediment load estimates in three agricultural streams using a 21-year dataset",
+  "venue": "Environmental Monitoring & Assessment",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10661-018-6470-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10661-018-6470-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50347052",
+      "name": "P. Kelly"
+    },
+    {
+      "authorId": "2120560",
+      "name": "M. Vanni"
+    },
+    {
+      "authorId": "7827289",
+      "name": "W. Renwick"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

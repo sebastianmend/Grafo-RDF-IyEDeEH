@@ -1,0 +1,35 @@
+{
+  "paperId": "3614634e92f035ea71f2ff22d809817fdf5c026f",
+  "externalIds": {
+    "MAG": "2806754824",
+    "DBLP": "conf/iciar/Marcal18",
+    "DOI": "10.1007/978-3-319-93000-8_25",
+    "CorpusId": 49312494
+  },
+  "url": "https://www.semanticscholar.org/paper/3614634e92f035ea71f2ff22d809817fdf5c026f",
+  "title": "Robust Detection of Water Sensitive Papers",
+  "venue": "International Conference on Image Analysis and Recognition",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-93000-8_25?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-93000-8_25, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2136076",
+      "name": "A. Marçal"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

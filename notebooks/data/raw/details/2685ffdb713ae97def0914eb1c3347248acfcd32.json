@@ -1,0 +1,39 @@
+{
+  "paperId": "2685ffdb713ae97def0914eb1c3347248acfcd32",
+  "externalIds": {
+    "MAG": "2955354046",
+    "DOI": "10.1109/PDGC.2018.8745854",
+    "CorpusId": 195736786
+  },
+  "url": "https://www.semanticscholar.org/paper/2685ffdb713ae97def0914eb1c3347248acfcd32",
+  "title": "Wireless Sensor Network in Precision Agriculture: A Survey Report",
+  "venue": "2018 Fifth International Conference on Parallel, Distributed and Grid Computing (PDGC)",
+  "year": 2018,
+  "citationCount": 17,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PDGC.2018.8745854?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PDGC.2018.8745854, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "47003569",
+      "name": "Kunal Goel"
+    },
+    {
+      "authorId": "40117801",
+      "name": "A. Bindal"
+    }
+  ],
+  "abstract": "This paper presents the importance of precision agriculture over the tradition agriculture that how farmers can get the exact details about their cultivation land while deploying the sensor and measure the various parameters of the land and then do the farming according to that parameters so they can earn more and through the deployment of sensor in land also helps the farmers in excellent crop yield. The wireless sensor system which is discussed in this paper tells about the various sensors used for measure the various parameters of land like moisture, temperature and soil salinity, which is the most important part of farming. Another thing is deployment and communication techniques through the hybrid network and the concept of microbial fuel cell membrane, in which anode and cathode is there and various bacterias will used to produce the current work as a acetate which will make the sensor node self powering. Bacteria's perform the reactions through the anode and cathode in the compartment and also added the various chemicals like methylene blue, neutral red, thionine produce which will accelerate the current for batteries used for sensor, which will expand the network lifespan.",
+  "references": null
+}

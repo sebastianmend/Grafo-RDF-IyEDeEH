@@ -1,0 +1,43 @@
+{
+  "paperId": "61d2ea84e99e0b47fe6b02fb8b00dbd95feed84d",
+  "externalIds": {
+    "MAG": "3007619714",
+    "DOI": "10.1109/ICCES45898.2019.9002410",
+    "CorpusId": 211243305
+  },
+  "url": "https://www.semanticscholar.org/paper/61d2ea84e99e0b47fe6b02fb8b00dbd95feed84d",
+  "title": "A Survey on Energy Efficient Routing Protocol for IoT Based Precision Agriculture",
+  "venue": "International Conference on Communication and Electronics Systems",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCES45898.2019.9002410?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCES45898.2019.9002410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1500661883",
+      "name": "T. Aishwarya Lakshmi"
+    },
+    {
+      "authorId": "1712801",
+      "name": "B. Hariharan"
+    },
+    {
+      "authorId": "144688056",
+      "name": "P. Rekha"
+    }
+  ],
+  "abstract": "Wireless Sensor Network (WSN) is widely used in Internet of Things (IoT) based Precision Agriculture (PA) to increase the crop productivity and yield. Parameters like pH, temperature, soil moisture, air humidity are measured in PA for monitoring the field remotely. The nodes used for WSN's are low-cost tiny sensor node that monitors the environmental parameters and collects the data and transfers these data to sink. These nodes are energy constraint as they are placed remotely and are equipped with batteries which have limited power. Minimizing the energy usage and maximizing the lifetime of the network are the major challenge faced by the sensor nodes. In this paper, we address some of the existing energy efficient routing protocols for precision agriculture.",
+  "references": null
+}

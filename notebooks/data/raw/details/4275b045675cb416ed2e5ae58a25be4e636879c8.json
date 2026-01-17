@@ -1,0 +1,39 @@
+{
+  "paperId": "4275b045675cb416ed2e5ae58a25be4e636879c8",
+  "externalIds": {
+    "MAG": "2884176125",
+    "DBLP": "conf/sab/OBrienA18",
+    "DOI": "10.1007/978-3-319-97628-0_13",
+    "CorpusId": 49194142
+  },
+  "url": "https://www.semanticscholar.org/paper/4275b045675cb416ed2e5ae58a25be4e636879c8",
+  "title": "An Artificial Circadian System for a Slow and Persistent Robot",
+  "venue": "Simulation of Adaptive Behavior",
+  "year": 2018,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-97628-0_13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-97628-0_13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2055848310",
+      "name": "M. O'Brien"
+    },
+    {
+      "authorId": "1706062",
+      "name": "R. Arkin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

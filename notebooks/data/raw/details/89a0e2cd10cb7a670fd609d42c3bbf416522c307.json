@@ -1,0 +1,34 @@
+{
+  "paperId": "89a0e2cd10cb7a670fd609d42c3bbf416522c307",
+  "externalIds": {
+    "MAG": "2975072121",
+    "DOI": "10.1109/mgrs.2019.2928932",
+    "CorpusId": 204109635
+  },
+  "url": "https://www.semanticscholar.org/paper/89a0e2cd10cb7a670fd609d42c3bbf416522c307",
+  "title": "A Look at the September Issue [From the Editor]",
+  "venue": "IEEE Geoscience and Remote Sensing Magazine",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6245518/8846606/08846627.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/mgrs.2019.2928932?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/mgrs.2019.2928932, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "3060611",
+      "name": "J. Garrison"
+    }
+  ],
+  "abstract": "elcome to the September 2019 issue of IEEE Geoscience and Remote Sensing Magazine. I am writing this during the long flight home from Japan after attending the IEEE International Geoscience and Remote Sensing Symposium (IGARSS) in Yokohama this year. It was a very exciting, informative, and educational week, providing the opportunity to interact with colleagues from around the world, see the latest developments in remote sensing, and present some of my own work. (You can read more about IGARSS 2019 in this issue’s “Conference Reports” column.) The good news is that the magazine continues to grow, as indicated by both our increasing impact factor (9.659) and the number of features (four) in this issue. As editor-in-chief, my goal is to maintain this growth by actively seeking quality articles on the remote sensing topics that have the most interest to you, our readers. With the growing use of remote sensing data to make important decisions, especially on questions affecting health and safety, it is important to be aware of the data quality and possible biases. This is the focus of the September issue’s first feature. Fine-particulate matter in the atmosphere can be quantified by the variable PM2.5, representing the concentration of particles with diameters smaller than . . 2 5 m n Particles this small can penetrate deep into human lungs, and this leads to millions of premature deaths globally each year. For this reason, PM2.5 is used to issue health advisories related to air pollution. Authors Lijian Han et al. evaluated a common PM2.5 product [generated from moderateresolution imaging spectroradiometer (i.e., MODIS), multiangle imaging spectroradiometer, and sea-viewing wide field-of-view sensor data], against “truth” measurements at ground-station networks in China, where air pollution remains a significant concern. While satellite remote sensing can provide global repetitive coverage, some applications require a higher spatial or temporal resolution or a more responsive ability to collect measurements on short time scales. For these applications, unmanned aerial vehicles (UAVs) can be a better solution. The use of miniature UAVs (mini-UAVs), with mass below 30 kg, in remote sensing is increasing in popularity due to the lower costs and simplicity of operation. The timeliness of data and higher spatial resolution at a lower altitude have enabled new applications in fields such as precision agriculture and emergency response. Generating useful remote sensing data from miniUAVs, however, presents several challenges due to the geometric and color calibration of typical consumer-grade cameras employed and the low altitude. With these concerns in mind, our second feature, by Tian-Zhu Xiang, Gui-Song Xia, and Liangpei Zhang, provides a broad survey of the current state of the art in data processing for mini-UAVs, concluding with a discussion of some novel applications and an assessment of current research needs. The article also includes a directory of open source code implementing some of the mentioned algorithms. A few open source data sets, both synthesized and real, are also identified for use in training deep-learning methods or fine-tuning models. Urban impervious surfaces (UlS) are human-built structures such as roofs or streets that prevent subsurface runoff. UIS affect hydrological circulation and increase the amount of runoff carrying pesticides, sediment, or other pollutants directly into rivers and lakes. UIS land cover can increase heat islands and reduce vegetation cover. Finally, the extent of UIS can also be an indicator of socioeconomic development. Given this importance, our third feature presents a timely review of remote sensing methods for estimating UIS. After introducing some key challenges, authors Yuliang Wang and Mingshi Li present a thorough review of various algorithms designed for use with hyperspectral data, passive optical A Look at the September Issue",
+  "references": null
+}

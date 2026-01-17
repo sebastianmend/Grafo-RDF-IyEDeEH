@@ -1,0 +1,39 @@
+{
+  "paperId": "e7e3779c5211921d411d85d7aefedeae82a15ecc",
+  "externalIds": {
+    "MAG": "3006680709",
+    "DOI": "10.1109/ICCES45898.2019.9002533",
+    "CorpusId": 211242322
+  },
+  "url": "https://www.semanticscholar.org/paper/e7e3779c5211921d411d85d7aefedeae82a15ecc",
+  "title": "A Survey on IoT Based Agricultural Crop Growth Monitoring and Quality Control",
+  "venue": "International Conference on Communication and Electronics Systems",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCES45898.2019.9002533?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCES45898.2019.9002533, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1500645367",
+      "name": "Jayvant Devare"
+    },
+    {
+      "authorId": "89195953",
+      "name": "Neha Hajare"
+    }
+  ],
+  "abstract": "In the recent years, Internet of Things basically applied into smart city applications only, nowadays Internet of Things playing a vital role in changing the manual controlling and monitoring in agriculture towards automated and remotely controlled and monitored operations. Recent improvements to the Internet of Things help to increase efficiency in precision agriculture. Use of the Internet of Things is remodeling agriculture environment. By making farmers capable to face problems related to precision and sustainable agriculture. Internet of Things technology helps in remotely collecting information from various sensors placed in the field. Sensors are like soil pH, Moisture level, Humidity, temperature, the fertility of the soil, level of water, insect population, pest detection, crop growth. Farmers are remotely connected with his farm using IoT and Smartphones. By using wireless sensor network nodes collects crop and environmental related data from the field. Then transfer information through the ZigBee network to the server node. The main node performs processing on collected data. Microcontrollers are used to automatically monitor and control the processes on the farm. For visualizing farm conditions cameras are placed into fields. The use of smartphones keeps farmers updated regarding the changing condition in his farm automatically at anywhere and anytime. Due to the use of the Internet of Things in agriculture, it reduces farmer efforts, enhances productivity, save the cost and time and provides automated controlling and monitors agriculture remotely. Automated irrigation system, pest controlling, monitoring plant growth, analysis of pesticides, controlling the insect population, etc. are implemented through the Internet of Things which converts traditional farming into automated farming.",
+  "references": null
+}

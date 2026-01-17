@@ -1,0 +1,40 @@
+{
+  "paperId": "88e84a067f7463a9a56dbf6117fceaf626f384e5",
+  "externalIds": {
+    "MAG": "3010520955",
+    "CorpusId": 214676680
+  },
+  "url": "https://www.semanticscholar.org/paper/88e84a067f7463a9a56dbf6117fceaf626f384e5",
+  "title": "A Study on FUZZY LOGIC and its applications in Medical Field",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2289202907",
+      "name": "Muhammad Asif"
+    },
+    {
+      "authorId": "2289448968",
+      "name": "A. Raibag"
+    },
+    {
+      "authorId": "2289397739",
+      "name": "Vijay Franklin"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

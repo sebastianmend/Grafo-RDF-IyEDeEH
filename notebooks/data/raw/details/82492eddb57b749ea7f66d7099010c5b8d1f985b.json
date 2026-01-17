@@ -1,0 +1,123 @@
+{
+  "paperId": "82492eddb57b749ea7f66d7099010c5b8d1f985b",
+  "externalIds": {
+    "DBLP": "journals/corr/abs-1811-06884",
+    "ArXiv": "1811.06884",
+    "MAG": "3105212672",
+    "DOI": "10.1007/978-3-030-03014-8_15",
+    "CorpusId": 53241582
+  },
+  "url": "https://www.semanticscholar.org/paper/82492eddb57b749ea7f66d7099010c5b8d1f985b",
+  "title": "Ontology Based Approach for Precision Agriculture",
+  "venue": "International Workshop on Multi-disciplinary Trends in Artificial Intelligence",
+  "year": 2018,
+  "citationCount": 28,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1811.06884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "35580309",
+      "name": "Quoc Hung Ngo"
+    },
+    {
+      "authorId": "1388632905",
+      "name": "Nhien-An Le-Khac"
+    },
+    {
+      "authorId": "144549246",
+      "name": "Mohand Tahar Kechadi"
+    }
+  ],
+  "abstract": "In this paper, we propose a framework of knowledge for an agriculture ontology which can be used for the purpose of smart agriculture systems. This ontology not only includes basic concepts in the agricultural domain but also contains geographical, IoT, business subdomains, and other knowledge extracted from various datasets. With this ontology, any users can easily understand agricultural data links between them collected from many different data resources. In our experiment, we also import country, sub-country and disease entities into this ontology as basic entities for building agricultural linked datasets later.",
+  "references": [
+    {
+      "paperId": "d2aa0548d1709dd524bdbb66ec3a0b99e2f88f3e"
+    },
+    {
+      "paperId": "1c04bf403243c9ffddfde3a416a65d0b344601ee"
+    },
+    {
+      "paperId": "110b27901478390e1c021ac058ddf33d968c8fea"
+    },
+    {
+      "paperId": "d03cfceecd015a17eeb617046db05a7d2d8f0aba"
+    },
+    {
+      "paperId": "3b1838945b348b1d63afee2d7e86fa5e595da529"
+    },
+    {
+      "paperId": "59369acd7ff2fa5e8bf1d4c42f0c53be85bac51b"
+    },
+    {
+      "paperId": "9f064fb318e527bece29bb1d04cd26e60d5bf412"
+    },
+    {
+      "paperId": "2623ba54619f5045bb3efa9e63cfdfb778ae6fa4"
+    },
+    {
+      "paperId": "c28813d85246e3b3f748400c6b4099eccae2756b"
+    },
+    {
+      "paperId": "76e4b70d42bb1fb8413ad5c582b250c3bb3576f1"
+    },
+    {
+      "paperId": "d260845540677a25cbcdac88ac9b630361fa654c"
+    },
+    {
+      "paperId": "44c57e949c85d46322f9287c9ddc95ddc278b09b"
+    },
+    {
+      "paperId": "b7030dd221e773d134d68144d4d690aaa2b5ecd7"
+    },
+    {
+      "paperId": "0a1f7343741f13fd0d14bf889ff3af327ff20323"
+    },
+    {
+      "paperId": "0277323d14e351f4bb367b87d66bdbdb49462b29"
+    },
+    {
+      "paperId": "ec6c5fba4fa7f037ed0b35b5e7df5e01645725bf"
+    },
+    {
+      "paperId": "d9601bfafd75fdc3c7adbf2ea9c18a393ef5e082"
+    },
+    {
+      "paperId": "dc6f4ea957743727c89c2e43358b51e6d3fb792e"
+    },
+    {
+      "paperId": "6e8c2871d395d71e4fe285815e50ee374352b22c"
+    },
+    {
+      "paperId": "2150af279552b86e57b2e7ad1ea0976643138896"
+    },
+    {
+      "paperId": "f0a099cf811060d39cfa699d2a495556e277777b"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

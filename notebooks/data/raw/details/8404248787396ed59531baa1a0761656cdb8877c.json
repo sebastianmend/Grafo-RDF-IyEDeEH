@@ -1,0 +1,49 @@
+{
+  "paperId": "8404248787396ed59531baa1a0761656cdb8877c",
+  "externalIds": {
+    "DBLP": "conf/semweb/Poveda-Villalon18",
+    "MAG": "2892553995",
+    "CorpusId": 52303966
+  },
+  "url": "https://www.semanticscholar.org/paper/8404248787396ed59531baa1a0761656cdb8877c",
+  "title": "Ontological Requirement Specification for Smart Irrigation Systems: A SOSA/SSN and SAREF Comparison",
+  "venue": "SSN@ISWC",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1403446235",
+      "name": "M. Poveda-Villalón"
+    },
+    {
+      "authorId": "1994208987",
+      "name": "Quang-Duy Nguyen"
+    },
+    {
+      "authorId": "2456138",
+      "name": "C. Roussey"
+    },
+    {
+      "authorId": "2485410",
+      "name": "C. D. Vaulx"
+    },
+    {
+      "authorId": "2499071",
+      "name": "J. Chanet"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,52 @@
+{
+  "paperId": "61f7db38357541217c221a326fee813bd7241266",
+  "externalIds": {
+    "MAG": "2981014404",
+    "DOI": "10.1088/1757-899X/612/2/022006",
+    "CorpusId": 208098081
+  },
+  "url": "https://www.semanticscholar.org/paper/61f7db38357541217c221a326fee813bd7241266",
+  "title": "Crop Analysis Based on MATLAB Image Enhancement Technology",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1757-899x/612/2/022006",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/612/2/022006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/612/2/022006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2114346866",
+      "name": "X. Cui"
+    },
+    {
+      "authorId": "2084600748",
+      "name": "Bo Ma"
+    }
+  ],
+  "abstract": "In response to the call of national precision agriculture, this paper proposes a method to easily detect the characteristics and quantities of agricultural products. On the platform of MATLAB software, we transform grayscale images, equalize histogram and enhance image with exponential low-pass filter. Next, we extract the binary features of the target in the image by using the regionprops function. Then, the binary image of grayscale image is filtered twice by median filter to obtain the number of targets in the image. By comparing and verifying the image effect, it can be seen that this method has obvious superiority in image recognition and extraction analysis, and can be applied in modern agricultural detection.",
+  "references": [
+    {
+      "paperId": "4f809e9a024e85d1d83213cd6393168654c866f0"
+    },
+    {
+      "paperId": "fa917af2c8e593f9e2f756d5a2bf79fe077efa19"
+    },
+    {
+      "paperId": "122b47a42e5f82efdd0e8d601921b3f43ee2a2b0"
+    },
+    {
+      "paperId": "77fe8817f8940d75b71dbf1a8ba80dba9d29bcda"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "paperId": "d22839a5c93fbfccb1c7aac4219592abf5e338fe",
+  "externalIds": {
+    "MAG": "3035545608",
+    "CorpusId": 226837655
+  },
+  "url": "https://www.semanticscholar.org/paper/d22839a5c93fbfccb1c7aac4219592abf5e338fe",
+  "title": "Container transport mode choice analysis with a binary logit model case study: Northeastern Thailand",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "8880933",
+      "name": "S. Siridhara"
+    },
+    {
+      "authorId": "2023655495",
+      "name": "Wilasinee Paonoi"
+    },
+    {
+      "authorId": "119171374",
+      "name": "Sutthipong Meeyai"
+    },
+    {
+      "authorId": "8869477",
+      "name": "V. Ratanavaraha"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

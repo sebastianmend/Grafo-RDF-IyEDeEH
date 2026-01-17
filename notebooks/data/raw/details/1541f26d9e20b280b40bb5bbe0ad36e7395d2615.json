@@ -1,0 +1,49 @@
+{
+  "paperId": "1541f26d9e20b280b40bb5bbe0ad36e7395d2615",
+  "externalIds": {
+    "MAG": "2901694694",
+    "DOI": "10.1038/s41586-018-0706-x",
+    "CorpusId": 53713225,
+    "PubMed": "30464269"
+  },
+  "url": "https://www.semanticscholar.org/paper/1541f26d9e20b280b40bb5bbe0ad36e7395d2615",
+  "title": "LEDs for photons, physiology and food",
+  "venue": "Nature",
+  "year": 2018,
+  "citationCount": 316,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41586-018-0706-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41586-018-0706-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "120333457",
+      "name": "P. Pattison"
+    },
+    {
+      "authorId": "49487869",
+      "name": "J. Tsao"
+    },
+    {
+      "authorId": "2841903",
+      "name": "G. Brainard"
+    },
+    {
+      "authorId": "1597814148",
+      "name": "Bruce Bugbee"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

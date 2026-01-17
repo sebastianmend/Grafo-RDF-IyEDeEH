@@ -1,0 +1,46 @@
+{
+  "paperId": "fd640d9144078b9b210aebdddbce6eb6fb8865ab",
+  "externalIds": {
+    "MAG": "2981689197",
+    "DOI": "10.1109/ICORIS.2019.8874900",
+    "CorpusId": 204817516
+  },
+  "url": "https://www.semanticscholar.org/paper/fd640d9144078b9b210aebdddbce6eb6fb8865ab",
+  "title": "Fuzzy Based Internet of Things Irrigation System",
+  "venue": "2019 1st International Conference on Cybernetics and Intelligent System (ICORIS)",
+  "year": 2019,
+  "citationCount": 10,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICORIS.2019.8874900?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICORIS.2019.8874900, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2235516227",
+      "name": "I Nyoman Rudy Hendrawan"
+    },
+    {
+      "authorId": "1381295952",
+      "name": "Luh Putu Yulyantari"
+    },
+    {
+      "authorId": "2235516151",
+      "name": "Gede Angga Pradiptha"
+    },
+    {
+      "authorId": "1381295985",
+      "name": "Putu Bayu Starriawan"
+    }
+  ],
+  "abstract": "In recent years, the Internet of Things (IoT) developed in the agriculture research area. This development leads to new terminologies which are, precision agriculture. This paper presents the development of fuzzy-based irrigation system based on IoT. The objective is to implement an automatic irrigation system based on fuzzy rule-based inference. We used DHT11, YL-100, and LDR sensor to monitor air temperature and humidity, soil moisture, and light intensity respectively. We generated fifty-four fuzzy rules to determine our water pump state that act as the irrigation system. Three different membership function was used. First, the Z-curve membership function was used to represent the first fuzzy class within all the four parameters. Second, Gaussian-curve membership function was used to represent the second fuzzy class within three parameters (air temperature, air humidity, and soil moisture), last, the fuzzy class was represented by an S-curve membership function. Our fuzzy classification result was represented by Z-curve and S-curve membership function. However, this produces a crisp classification. Therefore, we applied the defuzzification class threshold of t = 0.55 as our Best Classification Result. Sample results show the drawback of our fuzzy model as a consequence affects our defuzzification scores, and these occurrences happened because of the basic characteristic of the fuzzy model is very dependent on the subjectivity to the classification.",
+  "references": null
+}

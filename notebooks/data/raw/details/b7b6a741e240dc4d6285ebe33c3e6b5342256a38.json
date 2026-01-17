@@ -1,0 +1,51 @@
+{
+  "paperId": "b7b6a741e240dc4d6285ebe33c3e6b5342256a38",
+  "externalIds": {
+    "MAG": "2943429094",
+    "DBLP": "conf/iscas/GrimblattFRJV19",
+    "DOI": "10.1109/ISCAS.2019.8702563",
+    "CorpusId": 155956778
+  },
+  "url": "https://www.semanticscholar.org/paper/b7b6a741e240dc4d6285ebe33c3e6b5342256a38",
+  "title": "Precision Agriculture for Small to Medium Size Farmers — An IoT Approach",
+  "venue": "International Symposium on Circuits and Systems",
+  "year": 2019,
+  "citationCount": 26,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISCAS.2019.8702563?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISCAS.2019.8702563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31100472",
+      "name": "Victor Grimblatt"
+    },
+    {
+      "authorId": "1766803",
+      "name": "G. Ferré"
+    },
+    {
+      "authorId": "2363792",
+      "name": "F. Rivet"
+    },
+    {
+      "authorId": "2888260",
+      "name": "C. Jégo"
+    },
+    {
+      "authorId": "90815875",
+      "name": "N. Vergara"
+    }
+  ],
+  "abstract": "Word population has almost doubled during the last century increasing dramatically the need for food to support a population over 7 billion persons. According to FAO, by 2050, the agricultural production will have to increase by 70%. Plants growth depends on several factors such as nutrients (NPK), soil characteristics, soil Ph, soil moisture, temperature, weather, and light. To manage all the required information and the complexity of plants growth a system, based on IoT technology, able to measure, analyze, and act is needed. IoT is a solution for precision agriculture. A system for precision agriculture, that will be distributed in the field, far from energy and communication sources needs to be low power and able to process the received information and just sending the most relevant information to the cloud for further statistical analysis. This system will be able to measure the most important parameters for plant growth through a set of sensors and act to fix some of those parameters through actuators when needed as well.",
+  "references": null
+}

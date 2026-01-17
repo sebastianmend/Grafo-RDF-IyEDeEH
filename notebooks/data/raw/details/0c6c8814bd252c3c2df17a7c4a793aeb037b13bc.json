@@ -1,0 +1,81 @@
+{
+  "paperId": "0c6c8814bd252c3c2df17a7c4a793aeb037b13bc",
+  "externalIds": {
+    "MAG": "2945552644",
+    "DOI": "10.1117/12.2518958",
+    "CorpusId": 182030790,
+    "PubMed": "31359903"
+  },
+  "url": "https://www.semanticscholar.org/paper/0c6c8814bd252c3c2df17a7c4a793aeb037b13bc",
+  "title": "Estimation of surface thermal emissivity in a vineyard for UAV microbolometer thermal cameras using NASA HyTES hyperspectral thermal, and landsat and AggieAir optical data",
+  "venue": "Defense + Commercial Sensing",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1029&context=aggieair_pubs",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.2518958?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.2518958, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1401923045",
+      "name": "Alfonso F. Torres-Rua"
+    },
+    {
+      "authorId": "51295084",
+      "name": "M. Aboutalebi"
+    },
+    {
+      "authorId": "93432543",
+      "name": "Timothy P. Wright"
+    },
+    {
+      "authorId": "145857918",
+      "name": "A. Nassar"
+    },
+    {
+      "authorId": "2553539",
+      "name": "P. Guillevic"
+    },
+    {
+      "authorId": "2846556",
+      "name": "L. Hipps"
+    },
+    {
+      "authorId": "143750993",
+      "name": "F. Gao"
+    },
+    {
+      "authorId": "47596079",
+      "name": "K. Jim"
+    },
+    {
+      "authorId": "39917844",
+      "name": "M. M. Alsina"
+    },
+    {
+      "authorId": "2277817",
+      "name": "C. Coopmans"
+    },
+    {
+      "authorId": "38543517",
+      "name": "M. McKee"
+    },
+    {
+      "authorId": "1801018",
+      "name": "W. Kustas"
+    }
+  ],
+  "abstract": "Microbolometer thermal cameras in UAVs and manned aircraft allow for the acquisition of highresolution temperature data, which, along with optical reflectance, contributes to monitoring and modeling of agricultural and natural environments. Furthermore, these temperature measurements have facilitated the development of advanced models of crop water stress and evapotranspiration in precision agriculture and heat fluxes exchanges in small river streams and corridors. Microbolometer cameras capture thermal information at blackbody or radiometric settings (narrowband emissivity equates to unity). While it is customary that the modeler uses assumed emissivity values (e.g. 0.99– 0.96 for agricultural and environmental settings); some applications (e.g. Vegetation Health Index), and complex models such as energy balance-based models (e.g. evapotranspiration) could benefit from spatial estimates of surface emissivity for true or kinetic temperature mapping. In that regard, this work presents an analysis of the spectral characteristics of a microbolometer camera with regard to emissivity, along with a methodology to infer thermal emissivity spatially based on the spectral characteristics of the microbolometer camera. For this work, the MODIS UCBS Emissivity Library, NASA HyTES hyperspectral emissivity, Landsat, and Utah State University AggieAir UAV surface reflectance products are employed. The methodology is applied to a commercial vineyard agricultural setting located in Lodi, California, where HyTES, Landsat, and AggieAir UAV spatial data were collected in the 2014 growing season. Assessment of the microbolometer spectral response with regards to emissivity and emissivity modeling performance for the area of study are presented and discussed.",
+  "references": null
+}

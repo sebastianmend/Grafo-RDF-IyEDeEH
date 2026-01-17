@@ -15,7 +15,7 @@
     "url": "https://openknowledge.worldbank.org/bitstream/handle/10986/20506/WPS7058.pdf%3Bjsessionid%3D8DAA2CB2F555C3A7D647A35CFE1D5B62?sequence%3D1",
     "status": "GREEN",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/AGEC.12173?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/AGEC.12173, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/AGEC.12173?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/AGEC.12173, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Economics"

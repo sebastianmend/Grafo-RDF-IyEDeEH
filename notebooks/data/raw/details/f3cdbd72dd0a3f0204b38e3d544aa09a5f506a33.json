@@ -1,0 +1,48 @@
+{
+  "paperId": "f3cdbd72dd0a3f0204b38e3d544aa09a5f506a33",
+  "externalIds": {
+    "MAG": "2967663764",
+    "DBLP": "conf/icra/SukkarBYF19",
+    "DOI": "10.1109/ICRA.2019.8793560",
+    "CorpusId": 199541296
+  },
+  "url": "https://www.semanticscholar.org/paper/f3cdbd72dd0a3f0204b38e3d544aa09a5f506a33",
+  "title": "Multi-Robot Region-of-Interest Reconstruction with Dec-MCTS",
+  "venue": "IEEE International Conference on Robotics and Automation",
+  "year": 2019,
+  "citationCount": 39,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICRA.2019.8793560?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICRA.2019.8793560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40914824",
+      "name": "F. Sukkar"
+    },
+    {
+      "authorId": "38700308",
+      "name": "Graeme Best"
+    },
+    {
+      "authorId": "2346481",
+      "name": "C. Yoo"
+    },
+    {
+      "authorId": "145442298",
+      "name": "R. Fitch"
+    }
+  ],
+  "abstract": "We consider the problem of reconstructing regions of interest of a scene using multiple robot arms and RGB-D sensors. This problem is motivated by a variety of applications, such as precision agriculture and infrastructure inspection. A viewpoint evaluation function is presented that exploits predicted observations and the geometry of the scene. A recently proposed non-myopic planning algorithm, Decentralised Monte Carlo tree search, is used to coordinate the actions of the robot arms. Motion planning is performed over a navigation graph that considers the high-dimensional configuration space of the robot arms. Extensive simulated experiments are carried out using real sensor data and then validated on hardware with two robot arms. Our proposed targeted information gain planner is compared to state-of-the-art baselines and outperforms them in every measured metric. The robots quickly observe and accurately detect fruit in a trellis structure, demonstrating the viability of the approach for real-world applications.",
+  "references": null
+}

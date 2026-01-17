@@ -1,0 +1,60 @@
+{
+  "paperId": "0beb082f63d740b0b12fed0694222588772588e9",
+  "externalIds": {
+    "DBLP": "conf/smc/SaquiSLJFAF19",
+    "MAG": "2990138672",
+    "DOI": "10.1109/SMC.2019.8913846",
+    "CorpusId": 208631151
+  },
+  "url": "https://www.semanticscholar.org/paper/0beb082f63d740b0b12fed0694222588772588e9",
+  "title": "NSGA2-based method for band selection for supervised segmentation in hyperspectral imaging",
+  "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+  "year": 2019,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SMC.2019.8913846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SMC.2019.8913846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2738820",
+      "name": "D. Saqui"
+    },
+    {
+      "authorId": "2231336",
+      "name": "J. H. Saito"
+    },
+    {
+      "authorId": "98510035",
+      "name": "D. C. Lima"
+    },
+    {
+      "authorId": "3141973",
+      "name": "L. Jorge"
+    },
+    {
+      "authorId": "50004607",
+      "name": "E. Ferreira"
+    },
+    {
+      "authorId": "2314827672",
+      "name": "Steve T. M. Ataky"
+    },
+    {
+      "authorId": "1879520",
+      "name": "Francisco Fambrini"
+    }
+  ],
+  "abstract": "The identification of crop areas marked by biotic and abiotic factors is a challenge in precision agriculture (PA). Remote sensing and supervised segmentation of hyperspectral images (HIs) have become a fast and precise solution of PA for the identification of problems in crops. However, wellknown problems for knowledge extraction in HIs are related to data volumes and capacity for modeling each phenomenal due to the so-called curse of dimensionality. Some techniques for dealing with dimensionality, such as genetic algorithms (GAs), are promising, but they cannot assure a compromise between the segmentation effectiveness and reduction of dimensionality. In this paper, a multi-objective method based on Nondominated Sorting Genetic Algorithm 2 and Gaussian Maximum Likelihood Classifier is proposed for supervised segmentation of HIs dealing with the problem of dimensionality. Experiments with three datasets and cross-validation showed that the proposed method reduced the average number of bands between 75.4% and 88.2% for each evaluation. In addition to reducing the number of bands, statistical tests showed that our method had a pixel classification performance equivalent or more significant than other state-of-the-art methods. Based on the results, the method is promising for band selection in HIs and can contribute to segmentation.",
+  "references": null
+}

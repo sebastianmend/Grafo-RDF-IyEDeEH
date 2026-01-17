@@ -1,0 +1,56 @@
+{
+  "paperId": "f3ffaae4d6004aaac0d79a5cb903bd91a1f43691",
+  "externalIds": {
+    "DBLP": "journals/tgrs/MegaU0KKO19",
+    "MAG": "2897176956",
+    "DOI": "10.1109/TGRS.2018.2870199",
+    "CorpusId": 90263371
+  },
+  "url": "https://www.semanticscholar.org/paper/f3ffaae4d6004aaac0d79a5cb903bd91a1f43691",
+  "title": "Gauge-Adjusted Global Satellite Mapping of Precipitation",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2019,
+  "citationCount": 95,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGRS.2018.2870199?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGRS.2018.2870199, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46888822",
+      "name": "T. Mega"
+    },
+    {
+      "authorId": "144387777",
+      "name": "T. Ushio"
+    },
+    {
+      "authorId": "67083733",
+      "name": "Matsuda Takahiro"
+    },
+    {
+      "authorId": "144637726",
+      "name": "T. Kubota"
+    },
+    {
+      "authorId": "3042568",
+      "name": "M. Kachi"
+    },
+    {
+      "authorId": "1891273",
+      "name": "R. Oki"
+    }
+  ],
+  "abstract": "A rain-gauge-adjusted algorithm for global satellite mapping of precipitation (GSMaP) that estimates the surface precipitation rate with resolutions of 0.1° and 1 h over the globe is described herein. Precipitation is one of the most important parameters of the earth’s system, and its global distribution and changes are essential data for modeling the water cycle, maintaining ecosystems, increasing agricultural production, improving weather forecasting precision, and implementing flood warning systems. In the Global Precipitation Measurement project, integrated products of high-resolution mapping of precipitation, obtained from microwave measurements made by a constellation satellite and infrared radiometers in geostationary orbit, are developed and supplied to the public. However, these high-resolution products, such as GSMaP_MVK, sometimes underestimate surface precipitation, introducing large errors into hydrological modeling. This paper combines the global gauge data set with GSMaP_MVK, using a new algorithm [gauge-adjusted GSMaP (GSMaP_Gauge)], described and evaluated herein using local radar and rain-gauge data sets. This algorithm outperforms other GSMaP products in all validation tests.",
+  "references": null
+}

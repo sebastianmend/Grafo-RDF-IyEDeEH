@@ -1,0 +1,364 @@
+{
+  "paperId": "7d1560608c3231509c63b53afa4d445c547dfb8e",
+  "externalIds": {
+    "MAG": "2963935416",
+    "DBLP": "journals/remotesensing/GomezSSC19",
+    "DOI": "10.3390/RS11151745",
+    "CorpusId": 199856258
+  },
+  "url": "https://www.semanticscholar.org/paper/7d1560608c3231509c63b53afa4d445c547dfb8e",
+  "title": "Potato Yield Prediction Using Machine Learning Techniques and Sentinel 2 Data",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 146,
+  "influentialCitationCount": 6,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/15/1745/pdf?version=1564048927",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11151745?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11151745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2056496072",
+      "name": "Diego Gómez"
+    },
+    {
+      "authorId": "98892557",
+      "name": "Pablo Salvador"
+    },
+    {
+      "authorId": "144469139",
+      "name": "J. Sanz"
+    },
+    {
+      "authorId": "49666638",
+      "name": "J. Casanova"
+    }
+  ],
+  "abstract": "Traditional potato growth models evidence certain limitations, such as the cost of obtaining the input data required to run the models, the lack of spatial information in some instances, or the actual quality of input data. In order to address these issues, we develop a model to predict potato yield using satellite remote sensing. In an effort to offer a good predictive model that improves the state of the art on potato precision agriculture, we use images from the twin Sentinel 2 satellites (European Space Agency—Copernicus Programme) over three growing seasons, applying different machine learning models. First, we fitted nine machine learning algorithms with various pre-processing scenarios using variables from July, August and September based on the red, red-edge and infra-red bands of the spectrum. Second, we selected the best performing models and evaluated them against independent test data. Finally, we repeated the previous two steps using only variables corresponding to July and August. Our results showed that the feature selection step proved vital during data pre-processing in order to reduce multicollinearity among predictors. The Regression Quantile Lasso model (11.67% Root Mean Square Error, RMSE; R2 = 0.88 and 9.18% Mean Absolute Error, MAE) and Leap Backwards model (10.94% RMSE, R2 = 0.89 and 8.95% MAE) performed better when predictors with a correlation coefficient > 0.5 were removed from the dataset. In contrast, the Support Vector Machine Radial (svmRadial) performed better with no feature selection method (11.7% RMSE, R2 = 0.93 and 8.64% MAE). In addition, we used a random forest model to predict potato yields in Castilla y León (Spain) 1–2 months prior to harvest, and obtained satisfactory results (11.16% RMSE, R2 = 0.89 and 8.71% MAE). These results demonstrate the suitability of our models to predict potato yields in the region studied.",
+  "references": [
+    {
+      "paperId": "2b6ef7399d3d2a2079129f563337f77ec89b5810"
+    },
+    {
+      "paperId": "c1bd0f753ec5a653ea751c4dec0ae52986f2e8bd"
+    },
+    {
+      "paperId": "0aa9e9f210e622ee0a536157ac07708e29521152"
+    },
+    {
+      "paperId": "96eea1218e3bd822d0fda4c507b618147c7644ff"
+    },
+    {
+      "paperId": "817f5e02d30195305e8e7f9f7e036152b48faf53"
+    },
+    {
+      "paperId": "60119658af638693f6de23d8466968e60c428ac7"
+    },
+    {
+      "paperId": "78f232ab1d6001acc6c332b75777c0d531d0df0b"
+    },
+    {
+      "paperId": "11976d71c90efc67da15888ecdb8082ffa833404"
+    },
+    {
+      "paperId": "b1989d36fc331da1f052c2b12473131a3b5c1dd6"
+    },
+    {
+      "paperId": "645f94f3332df0a14fdd829e92458c44d0f90501"
+    },
+    {
+      "paperId": "418ad3a5092cdf1ed4ad652a4de581957f969303"
+    },
+    {
+      "paperId": "d649509f3bbd744f926ccd5d32f3a56de0c8a5c2"
+    },
+    {
+      "paperId": "e85efed45fac3ee2f4490a56489d8e4d5d3e498c"
+    },
+    {
+      "paperId": "933baeec555352784848a93284c9dd0e79477759"
+    },
+    {
+      "paperId": "bc5707dc5a8f50113d32bf5ff29d6bf4f40cf4e9"
+    },
+    {
+      "paperId": "c59f8574a3141bf83986ed8c515103f0b16a6d79"
+    },
+    {
+      "paperId": "a731f9e5cc565c13647b86d31194662e165ee140"
+    },
+    {
+      "paperId": "8633e90e4571d77c158542ffd1c6006e7901c83b"
+    },
+    {
+      "paperId": "9dad85253e3331edd9d99793c4817ae2f20f8549"
+    },
+    {
+      "paperId": "224e57c6a530fd7128fd3086736763b24e2b71bf"
+    },
+    {
+      "paperId": "e025d44a670c32bbef7705b174f5b936d2d63afa"
+    },
+    {
+      "paperId": "d30b000d528af946bf93bd45c69324668fa6b17b"
+    },
+    {
+      "paperId": "05b8b67451fb105576c58af960e6e6d98f9103e7"
+    },
+    {
+      "paperId": "e441c3ef2a7b1c6fd5a8296d18619a23629451b7"
+    },
+    {
+      "paperId": "ad5e686a714daea345fda0710b37a3c0d7cd669d"
+    },
+    {
+      "paperId": "0592c84230380b3f6aef9690f4bccd713692f4d3"
+    },
+    {
+      "paperId": "b5747ab85ed74ba8e84987464870d28294976d48"
+    },
+    {
+      "paperId": "8df9c92ae43e95a830d5f051919e611924a7d567"
+    },
+    {
+      "paperId": "ff964e9227d4fa55477b37f607f8b0f5ef00df6f"
+    },
+    {
+      "paperId": "2dd7ccb4de216cbc8f6263fa7aff8d84ad1c6607"
+    },
+    {
+      "paperId": "a15ea48b0d27b8208bb2adb4da14f00e5d143aab"
+    },
+    {
+      "paperId": "fab0a33c7aef9f85c013c2db511b3dc9a7ea9e94"
+    },
+    {
+      "paperId": "16b3c8f6f1dffd31271c59c11e17241e51377d68"
+    },
+    {
+      "paperId": "e0ace83ea02204e3e6c24291ef9784caf3acc7ce"
+    },
+    {
+      "paperId": "7d10357fcd82872c6135124b637d71cb4e64eed4"
+    },
+    {
+      "paperId": "3a9b7afa31ebf64e5a3b992f9bc4f5ad6d8b2831"
+    },
+    {
+      "paperId": "1a05100cd9aabeaac216189166c63eede78f2e99"
+    },
+    {
+      "paperId": "2e09243ca57bc5af34c49f45c7f71d69d9f6f44e"
+    },
+    {
+      "paperId": "3e1abc0bc89ff8b5d36d04e8d54c1f2d777eed74"
+    },
+    {
+      "paperId": "b44f973e2652e4450ce4b50f3e4912e33189a08d"
+    },
+    {
+      "paperId": "a6c30111a5fb4599a745833a819150ec6d0a113b"
+    },
+    {
+      "paperId": "1e9b01a6d693198891bee7bfbcbf188ca81d3c82"
+    },
+    {
+      "paperId": "0adf759f449435bc8343c9a8a2a25ad5bb63e5b8"
+    },
+    {
+      "paperId": "becd6cd0855c260ee39040c1ad6c0727e11afb4c"
+    },
+    {
+      "paperId": "30e639ef81d825ccb210cbb7a69006bb666ee078"
+    },
+    {
+      "paperId": "6d4ab42b296a7928562ecba78417b7f2eb43402e"
+    },
+    {
+      "paperId": "56b37f88b109fd455a389642e1747f766f1be471"
+    },
+    {
+      "paperId": "3f7d70980062303535aa6117cd4148b5d497bd03"
+    },
+    {
+      "paperId": "8423dceeac87a47d0ca16aa31ab2c50972bd3cca"
+    },
+    {
+      "paperId": "dbad8a629eafd2f6e56fb339697efbea76bde41e"
+    },
+    {
+      "paperId": "f4ee248bbdc18ff78447a91ef298b32165e30b81"
+    },
+    {
+      "paperId": "8f17319c3f29b85d97be53593af9ea0ddf97b0f7"
+    },
+    {
+      "paperId": "0543a3dc03b1e37ac76b3d80dc874460fde62729"
+    },
+    {
+      "paperId": "1dfc29115955d100124523e74fc273219a17db0b"
+    },
+    {
+      "paperId": "e41ba5dc12c79a64dfa905c0328f95976252ffe0"
+    },
+    {
+      "paperId": "06022543bb45b773bcf14ff504e60fcfe0122dbc"
+    },
+    {
+      "paperId": "ef8772242235273359511b139691f2f88eb5e87a"
+    },
+    {
+      "paperId": "fb6b4b57f431a0cfbb83bb2af8beab4ee694e94c"
+    },
+    {
+      "paperId": "e5085bb46a7d14452c36c9f661d6d662c4e1d7d6"
+    },
+    {
+      "paperId": "bda5cb412f517da27622173d26785b932535bf57"
+    },
+    {
+      "paperId": "fb596d29c31950b5d370ab5d17508d59e8cebc09"
+    },
+    {
+      "paperId": "1388204a80fb6ed8636d0876aa02c9cb7280d3c3"
+    },
+    {
+      "paperId": "892e9001b08a7fe5f00f634ce0bd8c83b8fd9192"
+    },
+    {
+      "paperId": "a351ffd1634b0930bd51ff225a8836e540269947"
+    },
+    {
+      "paperId": "60daf7798a7b8597d65ce4d856930299acc1785b"
+    },
+    {
+      "paperId": "8f04029d1d83f41eaebf5a216ebecf2a61ff6dc0"
+    },
+    {
+      "paperId": "2a5b31aaefd943b8eb3334fda53311b06f0bdbf5"
+    },
+    {
+      "paperId": "52b7bf3ba59b31f362aa07f957f1543a29a4279e"
+    },
+    {
+      "paperId": "8ecfe9772556d826349fa2495451bac7bf8b642b"
+    },
+    {
+      "paperId": "595640253ffdfd12e04ac57bd78753f936a7cfad"
+    },
+    {
+      "paperId": "cb498232124b2a8dd6bca5323c9c258a02ed379a"
+    },
+    {
+      "paperId": "1bc555309bd1fbce5d487463312bb3a5a7b7a719"
+    },
+    {
+      "paperId": "486fca0e304113f28a9af50398f81f39b32e6bd4"
+    },
+    {
+      "paperId": "5716877b8ec222d828a684c87b3208e58e20b68b"
+    },
+    {
+      "paperId": "d7d3d65100a23387d4c0550f07763e3b38fd1fd5"
+    },
+    {
+      "paperId": "76eae3baccc3af91fbdbd0f73ead46de669f8292"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "705ffa4bf7496a2116d480a9d7a31c3f0de98c41"
+    },
+    {
+      "paperId": "22be86aed3317d6378b4412f5a2dda1ba4bc37cc"
+    },
+    {
+      "paperId": "b28566eef95d87ebcb211b066d9c5171986bbaf1"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "89586e337efe91a1fdc2676c8b5a92393fa2550c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "aa36006afdd0ee0c9d08a13684d4e6255d6c63bc"
+    },
+    {
+      "paperId": "874b006c5c1eaaa888cc471bb6db9c687b9029c0"
+    },
+    {
+      "paperId": "1625b32fcf0a3d0c5387415c818af69a4c8538b8"
+    },
+    {
+      "paperId": "659408b243cec55de8d0a3bc51b81173007aa89b"
+    },
+    {
+      "paperId": "b49618241234cc7345fbbd244711944fbdc3b4c7"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "3f1f3e041c26b836ba511ce513afd75c84d3df8a"
+    },
+    {
+      "paperId": "fbd45b85c720a79be7d4d3cb14b984bcf3901ebb"
+    },
+    {
+      "paperId": "ad26153ba5f56682a0f15c4950988a48840e2201"
+    },
+    {
+      "paperId": "d8384f7ef288d2d5cb267128471c5427fc98b54b"
+    },
+    {
+      "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "57a29eae9217831f391c2a3206964fddbb162250"
+    },
+    {
+      "paperId": "b365b8e45b7d81f081de44ac8f9eadf9144f3ca5"
+    },
+    {
+      "paperId": "2e589cc5963aa967b1f1062789340666ece7d339"
+    },
+    {
+      "paperId": "fb2f60fe0fe2874e5cbf927a2556d719c32eac29"
+    },
+    {
+      "paperId": "3da07cc918d2b0fffc6c64ea965a45a80918a0fc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

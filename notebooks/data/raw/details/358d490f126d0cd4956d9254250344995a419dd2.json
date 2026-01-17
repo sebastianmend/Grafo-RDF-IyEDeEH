@@ -1,0 +1,44 @@
+{
+  "paperId": "358d490f126d0cd4956d9254250344995a419dd2",
+  "externalIds": {
+    "DBLP": "conf/iwcmc/FathallahAH18",
+    "MAG": "2889233065",
+    "DOI": "10.1109/IWCMC.2018.8450396",
+    "CorpusId": 52152206
+  },
+  "url": "https://www.semanticscholar.org/paper/358d490f126d0cd4956d9254250344995a419dd2",
+  "title": "PA-RPL: A Partition Aware IoT Routing Protocol For Precision Agriculture",
+  "venue": "2018 14th International Wireless Communications & Mobile Computing Conference (IWCMC)",
+  "year": 2018,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IWCMC.2018.8450396?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IWCMC.2018.8450396, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "50460444",
+      "name": "Karim Fathallah"
+    },
+    {
+      "authorId": "48813909",
+      "name": "Mohamed Amine Abid"
+    },
+    {
+      "authorId": "1389324388",
+      "name": "N. Hadj-Alouane"
+    }
+  ],
+  "abstract": "RPL is the standard routing protocol for the emerging concepts of Internet of Things (IoT). It builds a tree like routing topology for the IP-enabled wireless sensor networks (WSN), commonly referred as lossy and low power network (LLN). This has been defined by the IETF for four main applications including home automation, industrial control, urban environment, and building automation. Recently, we have observed a growing interest for applying IoT to Precision Agriculture (PA). This field is especially characterized by high density of sensing nodes, large area WSN deployments, and intrinsic composition of the farmland from parcels and/or activity sectors. This usually leads to a heavy exchange of data messages, straightforwardly inducing network congestion, radio interference,latency issue, and high energy consumption. It is however important to note that in most precision agriculture cases, only aggregated data of each parcel or sector is effectively needed. In this context, applying in-network aggregation techniques will practically reduce the number of exchanged data messages; hence reducing the network load and energy consumption. In this work, we propose a new version of RPL protocol, named partition aware-RPL (PA-RPL). This builds up a routing topology that reflects the way the farmland is partitioned; therefore inherently enabling easy innetwork aggregation. Finally, we make a proof of concept of the proposed algorithm and validate its operation using Cooja simulator.",
+  "references": null
+}

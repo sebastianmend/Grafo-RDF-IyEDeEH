@@ -1,0 +1,48 @@
+{
+  "paperId": "d3a4130d8db45ec7c4668a18c385a04ed2659c49",
+  "externalIds": {
+    "DBLP": "conf/agro-geoinformatics/XiaLSY18",
+    "MAG": "2897702453",
+    "DOI": "10.1109/AGRO-GEOINFORMATICS.2018.8476002",
+    "CorpusId": 52914674
+  },
+  "url": "https://www.semanticscholar.org/paper/d3a4130d8db45ec7c4668a18c385a04ed2659c49",
+  "title": "Deep Extraction of Cropland Parcels from Very High-Resolution Remotely Sensed Imagery",
+  "venue": "International Conference on Agro-Geoinformatics",
+  "year": 2018,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AGRO-GEOINFORMATICS.2018.8476002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AGRO-GEOINFORMATICS.2018.8476002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2639069",
+      "name": "Liegang Xia"
+    },
+    {
+      "authorId": "1762091",
+      "name": "Jiancheng Luo"
+    },
+    {
+      "authorId": "46676395",
+      "name": "Yingwei Sun"
+    },
+    {
+      "authorId": "47912181",
+      "name": "Haiping Yang"
+    }
+  ],
+  "abstract": "Extracting cropland parcels from high resolution remote sensing images is a basic task for precision agriculture and other fields. Object based image analysis rely heavily on segmentation methods and can't satisfy the parcels' requisition in most situation. Inspired by the recent remarkable improvement on image understanding with deep learning, we propose a deep-edge guided method for cropland parcels extraction. Focus on the boundaries of these parcels, hard edge and soft edge are extracted respectively with U-Net and RCF model. Then all edges with the land type of cropland are constructed into parcels. At last accurate cropland-parcels are achieved.",
+  "references": null
+}

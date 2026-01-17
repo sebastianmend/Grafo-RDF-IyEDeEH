@@ -1,0 +1,40 @@
+{
+  "paperId": "059341692ef4d6555a2080db7b506e609cfb4f92",
+  "externalIds": {
+    "MAG": "2906498207",
+    "DOI": "10.1088/1757-899X/455/1/012030",
+    "CorpusId": 133964620
+  },
+  "url": "https://www.semanticscholar.org/paper/059341692ef4d6555a2080db7b506e609cfb4f92",
+  "title": "Autonomous Agricultural Pesticide Spraying UAV",
+  "venue": "IOP Conference Series: Materials Science and Engineering",
+  "year": 2018,
+  "citationCount": 30,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1757-899X/455/1/012030/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1757-899X/455/1/012030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1757-899X/455/1/012030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "97684560",
+      "name": "P. Garre"
+    },
+    {
+      "authorId": "2063971112",
+      "name": "A. Harish"
+    }
+  ],
+  "abstract": "The discussion is about the optimal design outline and examination of an Autonomous agricultural pesticide spraying UAV. Farming techniques have drastically evolved over the last few decades to keep up with the ever-growing demand for food. Among its various applications, the use of drones in farming, called agricultural drones, can help in increasing the yied of crop and to monitor its growth. This type of drone is termed as agricultural drone. These drones can be used to spray fertilizers or pesticides uniformly across the field. Also, the aerial mapping feature will give the farmers a bird eye view of their fields and help them quickly identify presence of pests, crop damages and soil conditions. Hence, our main was to build a market ready agricultural drone and not just a prototype – a drone which is affordable, user friendly, portable and can perform autonomous flight without the use of an operator. This paper gives an overview of an indigenously designed folding quad copter frame with 1300mm diameter with following features namely, 5L tank capacity with remote controlled spray module, 4K camera, lift weight up to maximum of 12kg, advanced autopilot system with high precision GPS for autonomous mission.",
+  "references": []
+}

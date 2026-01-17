@@ -1,0 +1,52 @@
+{
+  "paperId": "e8f3eec6fd514fe4ef23af2c3105c79f28e0c684",
+  "externalIds": {
+    "DBLP": "conf/aimech/LowWLSF18",
+    "MAG": "2889584258",
+    "DOI": "10.1109/AIM.2018.8452702",
+    "CorpusId": 52161133
+  },
+  "url": "https://www.semanticscholar.org/paper/e8f3eec6fd514fe4ef23af2c3105c79f28e0c684",
+  "title": "Towards a Stable Three-Mode Transformable HOvering Rotorcraft (THOR)",
+  "venue": "2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AIM.2018.8452702?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AIM.2018.8452702, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "9195524",
+      "name": "Jun En Low"
+    },
+    {
+      "authorId": "143997196",
+      "name": "Luke Thura Soe Win"
+    },
+    {
+      "authorId": "2108471065",
+      "name": "Jiong Le Lee"
+    },
+    {
+      "authorId": "1719944",
+      "name": "G. Soh"
+    },
+    {
+      "authorId": "144063720",
+      "name": "S. Foong"
+    }
+  ],
+  "abstract": "First presented in 2017, the Transformable HOvering Rotorcraft (THOR) is a structurally efficient hybrid Unmanned Aerial Vehicle (UAV) design that uses a dual servo, dual motor configuration to hover as a nature-inspired monocopter and cruise as a delta shaped fixed-wing. Such a design has potential applications in disaster relief, agriculture and surveillance; scenarios where it is desirable for the UAV to be able to both travel long distances fast and hover for long periods of time. To improve on the 2017 design, we propose the replacement of the existing dual servo system with a high torque, high precision central servo system and a controllable flap on each wing. Through simulation and experimental data, we argue that these would improve the system's flight characteristics while also giving it the ability to fly in a third mode, as a dual motor, dual flap tailsitter UAV.",
+  "references": null
+}

@@ -1,0 +1,287 @@
+{
+  "paperId": "c1a671c40fd7ec5c73cdc6d3386451c61c29bb94",
+  "externalIds": {
+    "DBLP": "journals/remotesensing/NiuZZHP19",
+    "MAG": "2947241366",
+    "DOI": "10.3390/RS11111261",
+    "CorpusId": 189983327
+  },
+  "url": "https://www.semanticscholar.org/paper/c1a671c40fd7ec5c73cdc6d3386451c61c29bb94",
+  "title": "Estimating Above-Ground Biomass of Maize Using Features Derived from UAV-Based RGB Imagery",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 137,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/11/1261/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11111261?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11111261, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "121346981",
+      "name": "Yaxiao Niu"
+    },
+    {
+      "authorId": "2108872089",
+      "name": "Liyuan Zhang"
+    },
+    {
+      "authorId": "46702713",
+      "name": "Huihui Zhang"
+    },
+    {
+      "authorId": "1782267",
+      "name": "Wenting Han"
+    },
+    {
+      "authorId": "148376881",
+      "name": "Xingshuo Peng"
+    }
+  ],
+  "abstract": "The rapid, accurate, and economical estimation of crop above-ground biomass at the farm scale is crucial for precision agricultural management. The unmanned aerial vehicle (UAV) remote-sensing system has a great application potential with the ability to obtain remote-sensing imagery with high temporal-spatial resolution. To verify the application potential of consumer-grade UAV RGB imagery in estimating maize above-ground biomass, vegetation indices and plant height derived from UAV RGB imagery were adopted. To obtain a more accurate observation, plant height was directly derived from UAV RGB point clouds. To search the optimal estimation method, the estimation performances of the models based on vegetation indices alone, based on plant height alone, and based on both vegetation indices and plant height were compared. The results showed that plant height directly derived from UAV RGB point clouds had a high correlation with ground-truth data with an R2 value of 0.90 and an RMSE value of 0.12 m. The above-ground biomass exponential regression models based on plant height alone had higher correlations for both fresh and dry above-ground biomass with R2 values of 0.77 and 0.76, respectively, compared to the linear regression model (both R2 values were 0.59). The vegetation indices derived from UAV RGB imagery had great potential to estimate maize above-ground biomass with R2 values ranging from 0.63 to 0.73. When estimating the above-ground biomass of maize by using multivariable linear regression based on vegetation indices, a higher correlation was obtained with an R2 value of 0.82. There was no significant improvement of the estimation performance when plant height derived from UAV RGB imagery was added into the multivariable linear regression model based on vegetation indices. When estimating crop above-ground biomass based on UAV RGB remote-sensing system alone, looking for optimized vegetation indices and establishing estimation models with high performance based on advanced algorithms (e.g., machine learning technology) may be a better way.",
+  "references": [
+    {
+      "paperId": "f605359b0be3104ee43895b6423f0e91a39702a9"
+    },
+    {
+      "paperId": "26277a2cbfbbe41a065845b9206d90a1fee603b0"
+    },
+    {
+      "paperId": "5f257936f991b718011f042b718653889fef0666"
+    },
+    {
+      "paperId": "0b8b189fddb075c16a264c5fdea030e6d0d91bba"
+    },
+    {
+      "paperId": "dc7e879668dcbaca192068f6ac24153f85f7fae7"
+    },
+    {
+      "paperId": "d2acc7d44cff4b25d4897b5336f58407b788694f"
+    },
+    {
+      "paperId": "17559d6cbaac120a6c5ac8eb95a3a7bd1013850d"
+    },
+    {
+      "paperId": "0709c00bab7d5192d989adbc9ae4a209ea0e13c9"
+    },
+    {
+      "paperId": "319d5e5e51c8b7fab0e1364b065fefc75b091814"
+    },
+    {
+      "paperId": "a2f808108dc72d3db4ce6ec623a8ba4486d8f5b8"
+    },
+    {
+      "paperId": "74914a662ff6ca98aca0698553ba0dc25a07c0dd"
+    },
+    {
+      "paperId": "6dc063795678326e50b954b4a06d7f266b517d38"
+    },
+    {
+      "paperId": "f77a4c8b4ca13be8949f2f6689f2b5cf2059de5a"
+    },
+    {
+      "paperId": "007a946f79bfc9daf306520ea83e604e5933b18e"
+    },
+    {
+      "paperId": "098a671cfa98412d7b4c5793b56951ca222a9875"
+    },
+    {
+      "paperId": "1a60021e5616fe20b0674839c0e0bf60432f2928"
+    },
+    {
+      "paperId": "0e3d8bc39d47f2e74b1f867302363a44226454a3"
+    },
+    {
+      "paperId": "8dc57e8d9b127f94c0e389e6dbf0342e7137358e"
+    },
+    {
+      "paperId": "8992c1feb0aae6672e21855b7c79837c8e905aa4"
+    },
+    {
+      "paperId": "202ebe5014881215253941b65110cceb6a7d5d0a"
+    },
+    {
+      "paperId": "8172eded1150ed9ec31d071d77d717983b4bedad"
+    },
+    {
+      "paperId": "90780b119cf07e3f03d4e92ef3ef07f6e6c84f0f"
+    },
+    {
+      "paperId": "c6e5896b246d660986261cbb72f888edab411b2b"
+    },
+    {
+      "paperId": "dd51b9c51d0a89182836f5905c2ce575bf2fa1b7"
+    },
+    {
+      "paperId": "310c11f17e247a437ad568e1b268a98924ca9d46"
+    },
+    {
+      "paperId": "0c4949eecf0db6190e574c27ad668d36b1b85869"
+    },
+    {
+      "paperId": "6786dd7e4defd71b8a2e1d93f80091142ad5e173"
+    },
+    {
+      "paperId": "41fc60de5c164fb7ab5395b25e6518edf61fa79c"
+    },
+    {
+      "paperId": "d5017c85797a9f326f3376f967ab7f588af2a983"
+    },
+    {
+      "paperId": "452d1a5d8e2cddd4f5947373a532e4ac0ac69d03"
+    },
+    {
+      "paperId": "c333ab6d4020685fe4fc0b5e1ecad6d5054ba629"
+    },
+    {
+      "paperId": "3a09003bce7497c2b3867cad24832107f81941ff"
+    },
+    {
+      "paperId": "eb7003134427464be2a3cff3cac178c16813787e"
+    },
+    {
+      "paperId": "cdaeadef29e5aa8c88325386c53037a79aca5243"
+    },
+    {
+      "paperId": "cc64a00b465303c731481ce44456fa3f5f942f23"
+    },
+    {
+      "paperId": "399077ab19337ae73abbb6255a6ec38574247ef8"
+    },
+    {
+      "paperId": "e95c50b61f833244707191fbd653563a688a078d"
+    },
+    {
+      "paperId": "4f5ba0faef8eaf491975daa6fbe3cc9164a42cb1"
+    },
+    {
+      "paperId": "97d718db4c8a08b83d03f6553b4bccbca1ee2b2c"
+    },
+    {
+      "paperId": "5edef1149a39faf5707cebe1c29e9d874f2db720"
+    },
+    {
+      "paperId": "c85df0a8b0fbfccf702b7c755d99c9fd0b4a0955"
+    },
+    {
+      "paperId": "549794279dfbf26b58ae5ff10536e0e0d5aa5a64"
+    },
+    {
+      "paperId": "0c79a5195411e642e5f1fba0fa1af846431178f5"
+    },
+    {
+      "paperId": "5ae9aa9f67fa47ff0b6777897083a442d473389c"
+    },
+    {
+      "paperId": "667ebc0a3ff219ec2b7d06e84fe44a16a6e062f1"
+    },
+    {
+      "paperId": "2e406bb3e90d649338ee1d1f9d9332098befd560"
+    },
+    {
+      "paperId": "339cc7345e2d0abd6be67c6b030a8be077759af1"
+    },
+    {
+      "paperId": "625b47efe463898ff1ad7579a4ae45532aa9aaa1"
+    },
+    {
+      "paperId": "a89fc97c9bf1a28d4e02b22ca7a0285c32e45107"
+    },
+    {
+      "paperId": "3ee072944ab23b73bf3daa6f2ffb045ec6fcedc6"
+    },
+    {
+      "paperId": "19b8dd3855a1b565cf5760baf80cddf38ea3936a"
+    },
+    {
+      "paperId": "535c3c1cab679534316b3dd58b0a47da40af00ad"
+    },
+    {
+      "paperId": "943ac83c80e3eee491ef790d91920fff5ef12839"
+    },
+    {
+      "paperId": "e748c382a9776d82e862cdf26d0afe6f532057e1"
+    },
+    {
+      "paperId": "19f924637a4d9670890d2fd9b8d24dfbb49d1f1d"
+    },
+    {
+      "paperId": "2334c0eae8519ae8b6deb36285f30d2bfb15d7b4"
+    },
+    {
+      "paperId": "827b46b2519b173f8d0e58baa60db93e0934d722"
+    },
+    {
+      "paperId": "4799320a6ae437fd55e82df54632168ba56344dd"
+    },
+    {
+      "paperId": "b22697902076b38ce9440e01d05753e30d2a9cbb"
+    },
+    {
+      "paperId": "e9f9c521ccb014539c9b27188ff42f2b97720e33"
+    },
+    {
+      "paperId": "385e397b5aad7b744ab67a77407dda9fd385fbd0"
+    },
+    {
+      "paperId": "3c7ea1e4d64977d450a38a7a42c14d4497123f88"
+    },
+    {
+      "paperId": "a402a01239caa8bf77f1cd94d99c3298c3b3191f"
+    },
+    {
+      "paperId": "11a07f151b571f095e1d5e25855485c876fa25ef"
+    },
+    {
+      "paperId": "d04cbdaca5e8f0197c7f7694ed5dd5b364cfd6cd"
+    },
+    {
+      "paperId": "933fcea0441cf8476410b0837daccfa537180306"
+    },
+    {
+      "paperId": "5d128242441248e3360b3d7e7dbe1afa034eda02"
+    },
+    {
+      "paperId": "bd039d9ef12fc59167b359d9c43aad40ad2f8c4c"
+    },
+    {
+      "paperId": "3da2c5a2f1e23727761809184c8b4e39dbe1ad48"
+    },
+    {
+      "paperId": "0f4e05823e8dd1c1def6dc8574242df80a4ca2e0"
+    },
+    {
+      "paperId": "50a42ed2f81b9fe150883a6c89194c88a9647106"
+    },
+    {
+      "paperId": "86c9d38166b02ede8945ef8c4be1d1a3d4b9ace2"
+    },
+    {
+      "paperId": "82b64ccf8bbc4d635b0359f8fcc23de733441307"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": "cd02a6a0607d0b54061e41aaebf05137458a61d1"
+    },
+    {
+      "paperId": "3a948c95adae46f4e12d44407f121fed6ba9033e"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

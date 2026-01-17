@@ -1,0 +1,46 @@
+{
+  "paperId": "af8dbc81c8c2c76032605b1dc15cd903c1a4a948",
+  "externalIds": {
+    "MAG": "2809768374",
+    "DOI": "10.1109/ICIEA.2018.8397794",
+    "CorpusId": 49535699
+  },
+  "url": "https://www.semanticscholar.org/paper/af8dbc81c8c2c76032605b1dc15cd903c1a4a948",
+  "title": "A hybrid control multi-agent cooperative system for autonomous bin transport during apple harvest",
+  "venue": "2018 13th IEEE Conference on Industrial Electronics and Applications (ICIEA)",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIEA.2018.8397794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIEA.2018.8397794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2066204229",
+      "name": "Khalid Salah"
+    },
+    {
+      "authorId": "9203064",
+      "name": "Xiaoqi Chen"
+    },
+    {
+      "authorId": "2173139",
+      "name": "K. Neshatian"
+    },
+    {
+      "authorId": "1739406",
+      "name": "C. Pretty"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

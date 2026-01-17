@@ -1,0 +1,63 @@
+{
+  "paperId": "ac9bfe73c7256e09450269146a1109b00201867b",
+  "externalIds": {
+    "DBLP": "conf/csps/FangSYRDCYD19",
+    "MAG": "3014206482",
+    "DOI": "10.1007/978-981-13-9409-6_275",
+    "CorpusId": 215581948
+  },
+  "url": "https://www.semanticscholar.org/paper/ac9bfe73c7256e09450269146a1109b00201867b",
+  "title": "Wheat Growth Assessment for Satellite Remote Sensing Enabled Precision Agriculture",
+  "venue": "International Conferences on Communications, Signal Processing, and Systems",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-9409-6_275?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-9409-6_275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112809017",
+      "name": "Yuxi Fang"
+    },
+    {
+      "authorId": "1485330641",
+      "name": "He Sun"
+    },
+    {
+      "authorId": "46461287",
+      "name": "Yijun Yan"
+    },
+    {
+      "authorId": "145811527",
+      "name": "Jinchang Ren"
+    },
+    {
+      "authorId": "7358162",
+      "name": "D. Dong"
+    },
+    {
+      "authorId": "46842442",
+      "name": "Zhongxin Chen"
+    },
+    {
+      "authorId": "50179497",
+      "name": "H. Yue"
+    },
+    {
+      "authorId": "1690212",
+      "name": "T. Durrani"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

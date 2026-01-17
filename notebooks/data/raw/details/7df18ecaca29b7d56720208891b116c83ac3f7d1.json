@@ -1,0 +1,39 @@
+{
+  "paperId": "7df18ecaca29b7d56720208891b116c83ac3f7d1",
+  "externalIds": {
+    "DBLP": "conf/mobiwis/AltinbasS19",
+    "MAG": "2967034109",
+    "DOI": "10.1007/978-3-030-27192-3_3",
+    "CorpusId": 201059270
+  },
+  "url": "https://www.semanticscholar.org/paper/7df18ecaca29b7d56720208891b116c83ac3f7d1",
+  "title": "Detecting Defected Crops: Precision Agriculture Using Haar Classifiers and UAV",
+  "venue": "International Conference on Mobile Web Information Systems",
+  "year": 2019,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-27192-3_3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-27192-3_3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "152260917",
+      "name": "Mehmet Dogan Altinbas"
+    },
+    {
+      "authorId": "3013054",
+      "name": "T. Serif"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

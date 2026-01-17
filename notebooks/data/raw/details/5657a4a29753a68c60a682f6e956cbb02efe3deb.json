@@ -1,0 +1,84 @@
+{
+  "paperId": "5657a4a29753a68c60a682f6e956cbb02efe3deb",
+  "externalIds": {
+    "MAG": "2888543770",
+    "DOI": "10.5120/ijca2018917677",
+    "CorpusId": 59056212
+  },
+  "url": "https://www.semanticscholar.org/paper/5657a4a29753a68c60a682f6e956cbb02efe3deb",
+  "title": "Review of Application of Internet of Things in Agriculture in India",
+  "venue": "International Journal of Computer Applications",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.5120/ijca2018917677",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5120/ijca2018917677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5120/ijca2018917677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2000524643",
+      "name": "Priya Rathore"
+    },
+    {
+      "authorId": "145587691",
+      "name": "Jyoti Jain"
+    }
+  ],
+  "abstract": "The Internet of Things (IoT), the idea of getting real-world objects connected with each other, will change the way users organize, obtain and consume information radically. Internet of Things (IoT) enables various applications (crop growth monitoring and selection, irrigation decision support, etc.) in Digital Agriculture domain. The Wireless Sensors Network (WSN) is widely used to build decision support systems. These systems overcome many problems in the real-world. One of the most interesting fields having an increasing need of decision support systems is Precision Agriculture (PA). Through sensor networks, agriculture can be connected to the IoT, which allows us to create connections among agronomists, farmers and crops regardless of their geographical differences. With the help of this approach which provides real-time information about the lands and crops that will help farmers make right decisions. The major advantage is implementation of WSN in Precision Agriculture (PA) will optimize the usage of water fertilizers while maximizing the yield of the crops and also will help in analyzing the weather conditions of the field.",
+  "references": [
+    {
+      "paperId": "4ce13dcc8e5497755bbedcea39c4b9b7e14fe64f"
+    },
+    {
+      "paperId": "8659e55c133e240c9e14bec2f2e8cee44be579bd"
+    },
+    {
+      "paperId": "c8a77f948df56b53dce8d52aabba20fadaa2ee8f"
+    },
+    {
+      "paperId": "e0cb4062242ad4704193b283ea93715dc9820a2d"
+    },
+    {
+      "paperId": "13456ce9647d43a2bda32db8bd665e302c291ca5"
+    },
+    {
+      "paperId": "d080fb7c7cd1bf65be60ec9cd47dd44fca0abb66"
+    },
+    {
+      "paperId": "2b08ec92bf2266306b27913f883145f26328482c"
+    },
+    {
+      "paperId": "b617339c7a62e0874a912b05f3214567f4f0e5c7"
+    },
+    {
+      "paperId": "66c16ebd682afa8125da2f17eba624ad958511a9"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "bfd95a7cc47efa11c507ccb4c670084ca06c63ca"
+    },
+    {
+      "paperId": "1ceeddab49e5fc2a192faf83815206392b5877c7"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

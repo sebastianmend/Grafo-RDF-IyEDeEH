@@ -1,0 +1,47 @@
+{
+  "paperId": "d9bdc34447ec7184537bed78de60341949d81df9",
+  "externalIds": {
+    "DBLP": "conf/sbesc/SantolinCFM19",
+    "MAG": "3013063309",
+    "DOI": "10.1109/SBESC49506.2019.9046085",
+    "CorpusId": 214692924
+  },
+  "url": "https://www.semanticscholar.org/paper/d9bdc34447ec7184537bed78de60341949d81df9",
+  "title": "Physical Layer Analysis of LoRa Protocol by Means of a Coexistence Case Study",
+  "venue": "Brazilian Symposium on Computing System Engineering",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SBESC49506.2019.9046085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SBESC49506.2019.9046085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1596821268",
+      "name": "Lucas Fernando Santolin"
+    },
+    {
+      "authorId": "30461851",
+      "name": "G. Cainelli"
+    },
+    {
+      "authorId": "1596821600",
+      "name": "M. Feldman"
+    },
+    {
+      "authorId": "143650935",
+      "name": "I. Müller"
+    }
+  ],
+  "abstract": "Low-Power Wide Area Networks (LPWAN) represent a new communication paradigm which allows for small amounts of data to be transmitted over long distances in a very low power manner at the cost of a reduced data rate. These networks are becoming very popular in the context of the Internet of Things. This is mainly due to the wide range of new and existing applications they can serve in multiple industries, like logistics and precision agriculture. Among the most popular LPWAN networks in the market today, LoRaWAN has been largely adopted and shows great potential for growth in the upcoming years. In this paper, it is presented an implementation of a LoRaWAN radio link in order to evaluate its physical layer and its coexistence performance. The LoRa modulation/demodulation process is described based on packets captured using a software defined radio. The robustness of the protocol against wide band interferers is investigated through a coexistence experiment done in a confined environment. The results show that, even though it is simple and lightweight, the LoRaWAN network is extremely robust against interference. However, there is a clear trade-off between the effectiveness to suppress the interference and the data rate of the transmission, which also affect the size of the payload allowed per packet.",
+  "references": null
+}

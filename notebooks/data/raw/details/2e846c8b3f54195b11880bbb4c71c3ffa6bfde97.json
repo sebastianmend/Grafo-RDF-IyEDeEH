@@ -1,0 +1,38 @@
+{
+  "paperId": "2e846c8b3f54195b11880bbb4c71c3ffa6bfde97",
+  "externalIds": {
+    "MAG": "2988900873",
+    "DOI": "10.1109/ICSGEA.2019.00089",
+    "CorpusId": 208037384
+  },
+  "url": "https://www.semanticscholar.org/paper/2e846c8b3f54195b11880bbb4c71c3ffa6bfde97",
+  "title": "Network Precision Marketing Strategy of Agricultural Products Based on Big Data Analysis",
+  "venue": "2019 International Conference on Smart Grid and Electrical Automation (ICSGEA)",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSGEA.2019.00089?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSGEA.2019.00089, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145066192",
+      "name": "Wei Hu"
+    },
+    {
+      "authorId": "2112250313",
+      "name": "Qiu Wu"
+    }
+  ],
+  "abstract": "To improve the network marketing performance of agricultural products under the mode of big data analysis, and using the framework of Business Intelligence (BI), this paper studies the network marketing based on big data. Through the analysis of current situation of network marketing and the characteristics of big data, it is concluded that big data network marketing has the inevitable development trend of network marketing, and the network marketing model based on big data is designed. Apache open source of Hadoop framework is used to collect and analyze large data, and HDFS is used to accurately analyze massive data after data storage. Through the system the enterprise can realize the data analysis and optimization work for each customer, which greatly saves manpower and improves work efficiency.",
+  "references": null
+}

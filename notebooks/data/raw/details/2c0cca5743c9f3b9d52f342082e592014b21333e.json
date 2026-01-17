@@ -1,0 +1,44 @@
+{
+  "paperId": "2c0cca5743c9f3b9d52f342082e592014b21333e",
+  "externalIds": {
+    "DBLP": "conf/igarss/HuQH18a",
+    "MAG": "2901758381",
+    "DOI": "10.1109/IGARSS.2018.8519021",
+    "CorpusId": 53226421
+  },
+  "url": "https://www.semanticscholar.org/paper/2c0cca5743c9f3b9d52f342082e592014b21333e",
+  "title": "Using Vis-Nir Spectroscopy to Estimate Soil Organic Content",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8519021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8519021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2112912016",
+      "name": "Tao Hu"
+    },
+    {
+      "authorId": "2065702602",
+      "name": "Kun Qi"
+    },
+    {
+      "authorId": "11979536",
+      "name": "Yi’na Hu"
+    }
+  ],
+  "abstract": "Soil organic matter is an important component of soil, and its spatiotemporal dynamics is of great significance for precision agriculture as well as global sustainable development. Visible and near-infrared reflectance (VIS - NIR) spectroscopy provides an efficient method to estimate the soil organic content (SOC) quickly and effectively. In this study, the quantitative relationships between the VIS-NIR and SOC were explored using Partial Least Square Regression (PLSR). The performances of four data preprocessing methods including Standard Normal Variate (SNV), Multiplicative Scatter Correction (MSC), De-trend and Savitzky-Golay (SO) Smoothing were compared. Results indicated that PLSR models with De-trend pretreatment held the best accuracy, in which the spectral bands of 450–619 nm, 760–909 nm, 1968–2001 nm were especially important for estimating SOC.",
+  "references": null
+}

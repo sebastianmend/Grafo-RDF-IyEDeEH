@@ -1,0 +1,224 @@
+{
+  "paperId": "260e7c1f644b04fc509f08edb73c3cadc0bdea6d",
+  "externalIds": {
+    "MAG": "2944636506",
+    "DBLP": "journals/remotesensing/LombardiL19",
+    "DOI": "10.3390/RS11091075",
+    "CorpusId": 164649427
+  },
+  "url": "https://www.semanticscholar.org/paper/260e7c1f644b04fc509f08edb73c3cadc0bdea6d",
+  "title": "Step-Frequency Ground Penetrating Radar for Agricultural Soil Morphology Characterisation",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/9/1075/pdf?version=1557216746",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/RS11091075?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/RS11091075, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Geology"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "49269332",
+      "name": "F. Lombardi"
+    },
+    {
+      "authorId": "39716238",
+      "name": "M. Lualdi"
+    }
+  ],
+  "abstract": "Soil morphology plays a fundamental role in the vertical and lateral movements of solutes and water transport, providing knowledge regarding spatial distribution of its textural properties and subsurface dynamics. In this framework, the measured values of electrical conductivity are able to reveal the heterogeneity of soil that is present in a particular agricultural field and they are affected by more than one important physical characteristic: soil texture, organic matter, moisture content, and the depth of the clay pan. In the microwave region, these dynamics are known to exhibit a frequency dependent behaviour. This study explores the application of a Step Frequency Continuous Wave Ground Penetrating Radar (SFCW GPR) to shed light on the practical impact that these dependencies have on the imaging results, not only regarding the electrical characterisation of the subsurface morphology, but also in its correct interpretation. This information is of notable importance for determining water-use efficiency and planning precision-agriculture programs. The results clearly show visible and significant fluctuations of the amplitude levels, depending on the considered central frequency, demonstrating that the frequency dependence of electromagnetic properties of heterogeneous soil are significant and cannot be ignored if the aim is to properly define the subsurface attributes. The measurements also suggest that correlating the delineated variations might help in the identification of extended features and the classification of areas that possess similar properties in order to increase the confidence in monitoring soil resources.",
+  "references": [
+    {
+      "paperId": "e673734a0346bacf11dbb659a10566b09b496ca8"
+    },
+    {
+      "paperId": "62607df70d8410c801f80fa126bdaa6c924aabb2"
+    },
+    {
+      "paperId": "c8837111e5082d11c79313e88a0ccfd72cfeea71"
+    },
+    {
+      "paperId": "00c78503ac4d60712c8b56340d7009aef3bdae2b"
+    },
+    {
+      "paperId": "cc889d51cae11a2a15b78e4b8fdf1906ca9fa55f"
+    },
+    {
+      "paperId": "4ebe81eccdde9d5e588720fbd826f91d61d48493"
+    },
+    {
+      "paperId": "4e0c2c3b324cf717d93275a59c133d44450004d4"
+    },
+    {
+      "paperId": "db32a7721e33c5aadebd419dc4dacfdc67ade086"
+    },
+    {
+      "paperId": "3653d084c853b3c04987af0b08524da5b0f26e8d"
+    },
+    {
+      "paperId": "27e2061850d7c1c019c2c0acaa1cc3b19a05332a"
+    },
+    {
+      "paperId": "83af1366fbda3e4e2310cf30602e4de3768b9e7c"
+    },
+    {
+      "paperId": "7b2e28bec2b8a2708103865524a4a19b957e3b91"
+    },
+    {
+      "paperId": "6b34966028840360a3f9142798f2b0feb4b4135a"
+    },
+    {
+      "paperId": "e707d9de05ac1913d0be5d0de9c8f30d00aa8c1e"
+    },
+    {
+      "paperId": "400cd7f5fe41f1f2255ee6e7265f487dd82da8f6"
+    },
+    {
+      "paperId": "6fd11e523a20d46feeac4b14cc235917441fe1f9"
+    },
+    {
+      "paperId": "87fc5358b552506e061a2f7b11ce0fc05872d089"
+    },
+    {
+      "paperId": "e26e10f0ddd7d7569aed4ff18bf1e624b2d9591c"
+    },
+    {
+      "paperId": "f6c9b28d198b72ccbdf365479c91ed0811c39865"
+    },
+    {
+      "paperId": "ac34051ca0dcfedb887b2369ed89fd5741b2444f"
+    },
+    {
+      "paperId": "378b531c1a499338b39dcca4312cdf587bd7f323"
+    },
+    {
+      "paperId": "d4372b6c7d81412ce85c958ae5a8d50a7e60c804"
+    },
+    {
+      "paperId": "0f0d917f36ab563a7af283a470bb9dddbc6e3b03"
+    },
+    {
+      "paperId": "6d0639388e40af8b984226d21bc22dbeff76bf9c"
+    },
+    {
+      "paperId": "f0ac30dc1d88b78861a9cd35939b8fcba8d7fac3"
+    },
+    {
+      "paperId": "5fbcbe9a2adc310c95ece1d8c11951c7620bdf30"
+    },
+    {
+      "paperId": "4a66922fba3c9faf450b8e16fd7ead0360bdaa92"
+    },
+    {
+      "paperId": "e01222f8c77b5f6aee84edc5820be7bf9c0271d6"
+    },
+    {
+      "paperId": "49df3d0e3c787559e13656c17a7662c7fc0a229b"
+    },
+    {
+      "paperId": "0623f93e06ddb82729d6caf6f6356a5290898f25"
+    },
+    {
+      "paperId": "86a6e95c889cdf5e546a9bd0fc83277289b6a6fd"
+    },
+    {
+      "paperId": "8e1cba88607423e05dd824612475f01c8f37bab5"
+    },
+    {
+      "paperId": "4f1d5bfed9a9535ac91014fab5c2c68211f76bbb"
+    },
+    {
+      "paperId": "bafbb9f22aa1ad79c7c3026368766b3981a1b93a"
+    },
+    {
+      "paperId": "aa6ccfc656f77de21edafb417d16a6f7932a9f4f"
+    },
+    {
+      "paperId": "8c8ea08d7590caa0dee909c7c186924fc33caef9"
+    },
+    {
+      "paperId": "2ff0a4d27fb9eede67b39960b0e2213898d81151"
+    },
+    {
+      "paperId": "40a0dc452ab3a121c12b6668d9a7c465985d4119"
+    },
+    {
+      "paperId": "7511e24fbd371f311ee290c7e5b67f9f9d9eefda"
+    },
+    {
+      "paperId": "a39ef43c519cd347fe536c01755af50c51872346"
+    },
+    {
+      "paperId": "c4576717d2eb2d806d249919ffb73f32cea6cca8"
+    },
+    {
+      "paperId": "6d17669d422c9dabef100fe80af2548963423caf"
+    },
+    {
+      "paperId": "5cd30fbb3e9eb23e702371763aee967a0a7a022b"
+    },
+    {
+      "paperId": "78b5a1d5fb5e2b28ec02e774d7aba78249d85cc3"
+    },
+    {
+      "paperId": "31fcbf28a0ff75fe61b1571776677f4be0e83519"
+    },
+    {
+      "paperId": "f1fc1e458e9af5787c0edd8f0e32ddf07b0050b9"
+    },
+    {
+      "paperId": "f5d5eecbb72a2fff6accf93024d702b0c522f704"
+    },
+    {
+      "paperId": "22132078b8dc885bb3cef2434b5476b6dc566cf7"
+    },
+    {
+      "paperId": "806867b08b65a8f8aa120b64ade9ce0e7eb1ac46"
+    },
+    {
+      "paperId": "5585cc8dcf15f16361051abe6bb04ac1fff95ea0"
+    },
+    {
+      "paperId": "8360db2e1653b2c2ae3a79d46dbaf04b1c7c56e3"
+    },
+    {
+      "paperId": "80191242fc1a73f6d2c003bee944ee7d19f43f78"
+    },
+    {
+      "paperId": "8829cc84aeaaeebdf6c16fec7ee8972e644adc6c"
+    },
+    {
+      "paperId": "412cb86666272f6024fa0e97fbc8ca87710e5f00"
+    },
+    {
+      "paperId": "3d0b28f15e5875485d55d555e125632cd6b03552"
+    },
+    {
+      "paperId": "ffdd2503fda37c15efd57ba55e769f68054750da"
+    },
+    {
+      "paperId": "e02598bb0f9d69a877fa4c63188a6f025322a676"
+    },
+    {
+      "paperId": "fc22a78889517616d02e35cfcebaa9f9ae92be41"
+    },
+    {
+      "paperId": "243d43a3219097c25aa6c54334a299c56a7989c4"
+    },
+    {
+      "paperId": "ec94770d6d93c9d000daac058a0833d0d6b24288"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

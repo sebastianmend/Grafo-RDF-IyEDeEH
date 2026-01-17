@@ -1,0 +1,36 @@
+{
+  "paperId": "847cb3d770fecc6122f7a4abdbba77f4c5220779",
+  "externalIds": {
+    "DBLP": "conf/dasc/Lambrinos19",
+    "MAG": "3088654953",
+    "DOI": "10.1109/DASC/PiCom/CBDCom/CyberSciTech.2019.00163",
+    "CorpusId": 207902037
+  },
+  "url": "https://www.semanticscholar.org/paper/847cb3d770fecc6122f7a4abdbba77f4c5220779",
+  "title": "Internet of Things in Agriculture: A Decision Support System for Precision Farming",
+  "venue": "2019 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/DASC/PiCom/CBDCom/CyberSciTech.2019.00163?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/DASC/PiCom/CBDCom/CyberSciTech.2019.00163, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2611653",
+      "name": "L. Lambrinos"
+    }
+  ],
+  "abstract": "The Internet of Things (IoT) is rapidly finding its way in a number of application domains as its potential effects are being demonstrated in various scenarios. Agriculture is a domain in which IoT can prove highly beneficial by improving operational efficiency through careful resource utilisation, disease monitoring, optimised harvesting process etc. In our work we develop a decision support system for precision/smart farming that exploits data from a multitude of sources that provide vital information. More specifically, we combine data from a number of sensors obtained via a LoRaWAN network along with weather data and crop information to carry out informed decisions which at the current stage are primarily focusing on the use of water (a scarce resource in many areas worldwide) as well as crop protection from adverse weather which is increasingly troubling farmers due to the climate changes the whole world is experiencing. In our implementation we utilize off-the-shelf hardware and industry standards demonstrating the high potential of our proposal while indicating that the technological barriers are significantly lower nowadays.",
+  "references": null
+}

@@ -1,0 +1,38 @@
+{
+  "paperId": "8b74af5e2094412e2fb37eebe66ea837fc8116f6",
+  "externalIds": {
+    "MAG": "2897943302",
+    "DOI": "10.1109/ICMA.2018.8484670",
+    "CorpusId": 52934536
+  },
+  "url": "https://www.semanticscholar.org/paper/8b74af5e2094412e2fb37eebe66ea837fc8116f6",
+  "title": "Conceptual Design and Kinematic Analysis of a Novel Open Field 3DOF Multi-Gripper Pot Seedlings Transplanting Robot",
+  "venue": "2018 IEEE International Conference on Mechatronics and Automation (ICMA)",
+  "year": 2018,
+  "citationCount": 10,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMA.2018.8484670?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMA.2018.8484670, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1405337429",
+      "name": "Isaac Ndawula"
+    },
+    {
+      "authorId": "144793067",
+      "name": "Samy F. M. Assal"
+    }
+  ],
+  "abstract": "Pot seedlings transplanting is an activity in horticulture and agricultural production industry. It involves the transfer of pot seedlings from seedlings try into growing media in a greenhouse or an open agricultural field for further growth. This activity is a labor intensive, time consuming and requires high accuracy and precision, thus there is a need for mechanized operation to meet the challenges. In the current state, the automated and robotic seedlings transplanters have low production capability and most of them are met to work in greenhouse. This paper focuses on the conceptual design, kinematic analysis and optimal dimensional synthesis of a novel 3DOF multi-gripper pot seedlings transplanting robot to be used in agricultural open field. The proposed robot is composed of two identical 2DOF translational parallel robots, 1DOF multi-gripper end-effector, conveyors and drives. During conceptual design phase, the speed, work efficiency and transplanting agronomical practices are taken into consideration. Some constraints are also taken into consideration during the dimensional synthesis of this parallel robot to obtain the robot dimensions. Furthermore, workspace analysis and trajectory planning are carried out. Simulation results indicate that the desired workspace lie within the reachable workspace of the manipulator and 6 seedlings per single transplanting cycle can be achieved in 1.8 sec.",
+  "references": null
+}

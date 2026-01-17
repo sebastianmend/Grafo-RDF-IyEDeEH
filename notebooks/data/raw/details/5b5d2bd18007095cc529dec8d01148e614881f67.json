@@ -16,7 +16,7 @@
     "url": "https://conservancy.umn.edu/bitstreams/3c000e0d-8416-4449-a080-4dbf15ed6167/download",
     "status": "GREEN",
     "license": null,
-    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IROS.2013.6697126?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IROS.2013.6697126, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IROS.2013.6697126?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IROS.2013.6697126, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
   },
   "fieldsOfStudy": [
     "Computer Science",

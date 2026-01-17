@@ -1,0 +1,42 @@
+{
+  "paperId": "310d52593af70377138eeba1d61012a197592c3b",
+  "externalIds": {
+    "MAG": "2809943595",
+    "DOI": "10.1109/AERO.2018.8396617",
+    "CorpusId": 49538623
+  },
+  "url": "https://www.semanticscholar.org/paper/310d52593af70377138eeba1d61012a197592c3b",
+  "title": "Trajectory optimization of multirotor agricultural UAVs",
+  "venue": "IEEE Aerospace Conference",
+  "year": 2018,
+  "citationCount": 25,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AERO.2018.8396617?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AERO.2018.8396617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "31125328",
+      "name": "Priyank Pradeep"
+    },
+    {
+      "authorId": "32828818",
+      "name": "Sang Gyun Park"
+    },
+    {
+      "authorId": "47093588",
+      "name": "Peng Wei"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

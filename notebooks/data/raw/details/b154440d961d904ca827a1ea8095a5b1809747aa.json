@@ -1,0 +1,56 @@
+{
+  "paperId": "b154440d961d904ca827a1ea8095a5b1809747aa",
+  "externalIds": {
+    "MAG": "2914213990",
+    "DBLP": "conf/emo/RoyGANDS19",
+    "DOI": "10.1007/978-3-030-12598-1_55",
+    "CorpusId": 67864173
+  },
+  "url": "https://www.semanticscholar.org/paper/b154440d961d904ca827a1ea8095a5b1809747aa",
+  "title": "Simulation Optimization of Water Usage and Crop Yield Using Precision Irrigation",
+  "venue": "International Conference on Evolutionary Multi-Criterion Optimization",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-12598-1_55?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-12598-1_55, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2801123",
+      "name": "P. Roy"
+    },
+    {
+      "authorId": "35463872",
+      "name": "A. Guber"
+    },
+    {
+      "authorId": "2533711",
+      "name": "M. Abouali"
+    },
+    {
+      "authorId": "2853057",
+      "name": "A. Nejadhashemi"
+    },
+    {
+      "authorId": "145080287",
+      "name": "K. Deb"
+    },
+    {
+      "authorId": "2295992856",
+      "name": "Alvin J.M. Smucker"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

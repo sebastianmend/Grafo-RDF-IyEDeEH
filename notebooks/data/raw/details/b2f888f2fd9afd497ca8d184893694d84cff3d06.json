@@ -1,0 +1,68 @@
+{
+  "paperId": "b2f888f2fd9afd497ca8d184893694d84cff3d06",
+  "externalIds": {
+    "MAG": "2983610881",
+    "DBLP": "conf/eusipco/OliveiraAFSVGRM19",
+    "DOI": "10.23919/EUSIPCO.2019.8902734",
+    "CorpusId": 208206422
+  },
+  "url": "https://www.semanticscholar.org/paper/b2f888f2fd9afd497ca8d184893694d84cff3d06",
+  "title": "Analysis of nematodes in coffee crops at different altitudes using aerial images",
+  "venue": "European Signal Processing Conference",
+  "year": 2019,
+  "citationCount": 7,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/EUSIPCO.2019.8902734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/EUSIPCO.2019.8902734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2119240644",
+      "name": "Alexandre J. Oliveira"
+    },
+    {
+      "authorId": "2058993500",
+      "name": "G. A. D. Assis"
+    },
+    {
+      "authorId": "1821547",
+      "name": "E. Faria"
+    },
+    {
+      "authorId": "2095013870",
+      "name": "Jefferson R. Souza"
+    },
+    {
+      "authorId": "2066537706",
+      "name": "K. C. T. Vivaldini"
+    },
+    {
+      "authorId": "9370721",
+      "name": "V. Guizilini"
+    },
+    {
+      "authorId": "145726167",
+      "name": "F. Ramos"
+    },
+    {
+      "authorId": "1506558438",
+      "name": "C. Mendes"
+    },
+    {
+      "authorId": "145007186",
+      "name": "D. Wolf"
+    }
+  ],
+  "abstract": "Precision agriculture presents several challenges, amongst them the detection of diseases and pests in agricultural environments. This paper describes a methodology capable of detecting the presence of the nematode pest in coffee crops and also analyzing the behavior of this pest in several altitudes using aerial images. An Unmanned Aerial Vehicle (UAV) is used to obtain high-resolution RGB images of a Brazilian coffee farm. The proposed methodology uses Convolutional Neural Networks (CNN) with U-Net and PSPNet architectures to classify areas into two classes: pests and non-pests. Results demonstrate the viability of the proposed methodology, with an average F-measure of 0.69 for the U-Net architecture with the image resolution 640 × 480.",
+  "references": null
+}

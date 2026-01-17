@@ -1,0 +1,175 @@
+{
+  "paperId": "3a00aa9a28cd92f4475509256ed1d533eb7431ae",
+  "externalIds": {
+    "MAG": "2981645585",
+    "PubMedCentral": "6945032",
+    "DOI": "10.1534/g3.119.400812",
+    "CorpusId": 196656248,
+    "PubMed": "31649046"
+  },
+  "url": "https://www.semanticscholar.org/paper/3a00aa9a28cd92f4475509256ed1d533eb7431ae",
+  "title": "Influence of Genetic Interactions on Polygenic Prediction",
+  "venue": "G3: Genes, Genomes, Genetics",
+  "year": 2019,
+  "citationCount": 24,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://academic.oup.com/g3journal/article-pdf/10/1/109/37112962/g3journal0109.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6945032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2075325831",
+      "name": "Zhijun Dai"
+    },
+    {
+      "authorId": "2240224",
+      "name": "N. Long"
+    },
+    {
+      "authorId": "1390522467",
+      "name": "Wen Huang"
+    }
+  ],
+  "abstract": "Prediction of phenotypes from genotypes is an important objective to fulfill the promises of genomics, precision medicine and agriculture. Although it’s now possible to account for the majority of genetic variation through model fitting, prediction of phenotypes remains a challenge, especially across populations that have diverged in the past. In this study, we designed simulation experiments to specifically investigate the role of genetic interactions in failure of polygenic prediction. We found that non-additive genetic interactions can significantly reduce the accuracy of polygenic prediction. Our study demonstrated the importance of considering genetic interactions in genetic prediction.",
+  "references": [
+    {
+      "paperId": "b8595dd9bf66564e9caa0b3de312f848a0e13be2"
+    },
+    {
+      "paperId": "9c6edf83e2c83c59a9d384f5813167df062f2e8d"
+    },
+    {
+      "paperId": "1861f31ebaa8e8db9cb045aa787b76a600e5aaaa"
+    },
+    {
+      "paperId": "2c556c82d4634aaa42c6986118f2ed03fcf18179"
+    },
+    {
+      "paperId": "463e2ac71d549b18a91a24cd9bc2e641b3a4542c"
+    },
+    {
+      "paperId": "285f16ef8364595f01f1fe6d485cf85081ee3ec2"
+    },
+    {
+      "paperId": "d5eb49c11d070114e2ff46224099895c6b4b1558"
+    },
+    {
+      "paperId": "38accc66874648016e5d9d4c72008dca6ce26634"
+    },
+    {
+      "paperId": "2e52e4b6774cbbbc68602357a6ccb3a188a77ec1"
+    },
+    {
+      "paperId": "86519839092995e903fee0da4415836ebff7e1e2"
+    },
+    {
+      "paperId": "0b256820d1e7d321e227dc41cedf3bb0b0c5d8f4"
+    },
+    {
+      "paperId": "1239b88111a5f1c20622d58406fb15bf02c31947"
+    },
+    {
+      "paperId": "a59be926d78b089b5e4d7bf1d9659774ecff002e"
+    },
+    {
+      "paperId": "4b15a863cadb5436b8d9da8aec9b5e15ef316daf"
+    },
+    {
+      "paperId": "9c828ff2b310024764cdbf5604ee2c47513fb243"
+    },
+    {
+      "paperId": "a86dc25d0473f23e6e5b8a7ee082f42afb310089"
+    },
+    {
+      "paperId": "0f5c63182b5d40850c741888a89e6c055a3593af"
+    },
+    {
+      "paperId": "0881aa92ce2b06f0a0191df952565fbbe185f7df"
+    },
+    {
+      "paperId": "5220e2bb16fd6960230af3cdeb02166308c4b493"
+    },
+    {
+      "paperId": "134ccb071eaf96fc5e78186c2131c65dc97d666c"
+    },
+    {
+      "paperId": "6025e53713561142d431e2ae59c2c6096302c9d0"
+    },
+    {
+      "paperId": "1c8aa5b42e0945eb7fc12b7ed976ad909887fb62"
+    },
+    {
+      "paperId": "440e593ab4d2cb0fd0058365ff7e71ae99d50f37"
+    },
+    {
+      "paperId": "64c7ccc8c53c41dd1d5d2936271af4b518733c12"
+    },
+    {
+      "paperId": "599dceeed1c8178a1da7d608db803488d6a467dc"
+    },
+    {
+      "paperId": "5903301093c7e31d5050404b29ccad8414fc0d29"
+    },
+    {
+      "paperId": "7061d549b764e4799c33232de4ce9e8fcc9f0866"
+    },
+    {
+      "paperId": "82dd8486d834549f05950feca7d11291940ff254"
+    },
+    {
+      "paperId": "000551662c3902ed66709be879053d95dafc0211"
+    },
+    {
+      "paperId": "72c5bc41c4483de6a2a9f3a77d4e49a531906c36"
+    },
+    {
+      "paperId": "7c9c96531aae7afc6bdfbcb1a6e03b20d779a17d"
+    },
+    {
+      "paperId": "2b508a3682b664c75789810797eaeb146b00e920"
+    },
+    {
+      "paperId": "bd6e45caed04286a115e1a20a0f8bce30fc9c451"
+    },
+    {
+      "paperId": "83fe889eab64531f36d5d3a47019b09200b6ebe7"
+    },
+    {
+      "paperId": "021ee17aac50d1d9fb6d568895bc8540dbd0ee24"
+    },
+    {
+      "paperId": "2366cee8ccee5c7169dfbd437307f80ffd2864f6"
+    },
+    {
+      "paperId": "19b13aa2e33a5c1b3ed159fe950da3e474a2246e"
+    },
+    {
+      "paperId": "dbc447956c16e27cfb030e40552359d3c79bc690"
+    },
+    {
+      "paperId": "2ac5dd0614dd716c75e4012f8cc3950e12bc82fa"
+    },
+    {
+      "paperId": "b2f88683afd09a888404d2ae3f87716f989c6ab0"
+    },
+    {
+      "paperId": "8de0f4d3168750a2509a7ef72131e055aba4c674"
+    },
+    {
+      "paperId": "10a965b264665c8b1ad9f13abafeb2933e8f55c8"
+    },
+    {
+      "paperId": "f5b0e786d087376801d5e7c19127c325fd755b30"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "paperId": "56c7f8ff241037fad7aeffec37324065131ae702",
+  "externalIds": {
+    "MAG": "2979550565",
+    "DBLP": "journals/remotesensing/ZhangZAWHZT19",
+    "DOI": "10.3390/rs11202343",
+    "CorpusId": 204885365
+  },
+  "url": "https://www.semanticscholar.org/paper/56c7f8ff241037fad7aeffec37324065131ae702",
+  "title": "Automated Mapping of Typical Cropland Strips in the North China Plain Using Small Unmanned Aircraft Systems (sUAS) Photogrammetry",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-4292/11/20/2343/pdf?version=1570876439",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs11202343?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs11202343, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2108049627",
+      "name": "Jianyong Zhang"
+    },
+    {
+      "authorId": "2109767056",
+      "name": "Yanling Zhao"
+    },
+    {
+      "authorId": "145232712",
+      "name": "A. L. Abbott"
+    },
+    {
+      "authorId": "1740257",
+      "name": "R. Wynne"
+    },
+    {
+      "authorId": "9240502",
+      "name": "Zhenqi Hu"
+    },
+    {
+      "authorId": "145629534",
+      "name": "Yuzhu Zou"
+    },
+    {
+      "authorId": "2087115766",
+      "name": "S. Tian"
+    }
+  ],
+  "abstract": "Accurate mapping of agricultural fields is needed for many purposes, including irrigation decisions and cadastral management. This paper is concerned with the automated mapping of cropland strips that are common in the North China Plain. These strips are commonly 3–8 m in width and 50–300 m in length, and are separated by small ridges that assist with irrigation. Conventional surveying methods are labor-intensive and time-consuming for this application, and only limited performance is possible with very high resolution satellite images. Small Unmanned Aircraft System (sUAS) images could provide an alternative approach to ridge detection and strip mapping. This paper presents a novel method for detecting cropland strips, utilizing centimeter spatial resolution imagery captured by sUAS flying at low altitude (60 m). Using digital surface models (DSM) and ortho-rectified imagery from sUAS data, this method extracts candidate ridge locations by surface roughness segmentation in combination with geometric constraints. This method then exploits vegetation removal and morphological operations to refine candidate ridge elements, leading to polyline-based representations of cropland strip boundaries. This procedure has been tested using sUAS data from four typical cropland plots located approximately 60 km west of Jinan, China. The plots contained early winter wheat. The results indicated an ability to detect ridges with comparatively high recall and precision (96.8% and 95.4%, respectively). Cropland strips were extracted with over 98.9% agreement relative to ground truth, with kappa coefficients over 97.4%. To our knowledge, this method is the first to attempt cropland strip mapping using centimeter spatial resolution sUAS images. These results have demonstrated that sUAS mapping is a viable approach for data collection to assist in agricultural land management in the North China Plain.",
+  "references": [
+    {
+      "paperId": "b7a383fe4498a2ef6593b2ea46c938cf5b6871d8"
+    },
+    {
+      "paperId": "cf89553c6e1121b31aeca73433bc32b2f342f4b9"
+    },
+    {
+      "paperId": "385733833db83021f03ca0cfe081ea4c9b9d066b"
+    },
+    {
+      "paperId": "f77131f5ef72ec44a9ec6026800a9382517667ee"
+    },
+    {
+      "paperId": "17cbaeebfb4f1da270fd556ee6b8c20002948395"
+    },
+    {
+      "paperId": "a5d1d6f9f02e06e9b3e5561de7b76db4964c5656"
+    },
+    {
+      "paperId": "defde4f767bc762f0db847fe524bab35b5e23fbe"
+    },
+    {
+      "paperId": "8c1b6573237c08d69bd586cb79276b1dafcd1ac3"
+    },
+    {
+      "paperId": "7d5b50f4a330e392e3adf8e3017b4d99fe619bf3"
+    },
+    {
+      "paperId": "282110925e87398ebc24e171fdf13804387c4518"
+    },
+    {
+      "paperId": "1cdfc5b2e3cd0c660b2dc10d4c4c87802256d6a7"
+    },
+    {
+      "paperId": "e60606da48a9585d7cfc2d2487dec26898967b93"
+    },
+    {
+      "paperId": "cc443dc6e25a671f5fd2fb3424b73a993bb701d5"
+    },
+    {
+      "paperId": "1f0201e0980cc9fdf8f96a623ba0e6dba9fcd1c4"
+    },
+    {
+      "paperId": "26b28f68f2b342aee940e08dd4ecbaeaf211f77b"
+    },
+    {
+      "paperId": "71f4a817bd0c7a6249b4cb37fb05e762b6a5422a"
+    },
+    {
+      "paperId": "0825d6b23cc993c2d9741b9e02af3eeb6b35c083"
+    },
+    {
+      "paperId": "dcff73bf49c24d6c36ac141a8c9478f0edc82880"
+    },
+    {
+      "paperId": "3c87b643e2fc1248c079836151aa567f01c060ba"
+    },
+    {
+      "paperId": "c1d4a226c8e584f4c1c2576db1fb1f1040d57f60"
+    },
+    {
+      "paperId": "e873f6fc97e3a248678292a78eab41cc6d8ea45e"
+    },
+    {
+      "paperId": "16805cb03cedea5ceea36543c5fad7b93361b4be"
+    },
+    {
+      "paperId": "17697c0a1c76bf2506381255bf337d42d3240374"
+    },
+    {
+      "paperId": "fef7a1a396a492f81a394642e7851c28d98a68b5"
+    },
+    {
+      "paperId": "20fce36a58d46095f190e93c3a85d5edd072897e"
+    },
+    {
+      "paperId": "1c19ac4fb654fba47ab30e6c8213d5fc64a2dbb9"
+    },
+    {
+      "paperId": "153f5c88e2f356df7ea86bfaba3f2f1b9cbce4a9"
+    },
+    {
+      "paperId": "d85650e68437e8b0bf72f38ca89d2bc8bf1c1e7f"
+    },
+    {
+      "paperId": "ddf9ff5a0b15380c3d473021e92233d33adadcf2"
+    },
+    {
+      "paperId": "a425467ef879179805cb203d0f4506b9a306ad74"
+    },
+    {
+      "paperId": "29d3cc01d7a5f0c35e445a7361640623bd614d2b"
+    },
+    {
+      "paperId": "272c8c8f72e7dca27c12afa30e11bf0784e8c39d"
+    },
+    {
+      "paperId": "742d36e3a21566b7887bc52343eb6b23bb63d80a"
+    },
+    {
+      "paperId": "f042a6690d37b86ea30a29edca2538061a7bca5c"
+    },
+    {
+      "paperId": "3f974613ff5b83d822749f68dedbaae662709910"
+    },
+    {
+      "paperId": "a7f1a4bd5ff49d127fe20f6b8e0b64fb0902bfb0"
+    },
+    {
+      "paperId": "4c63be8d56992e279af28e4bde8c38b5d3672c7d"
+    },
+    {
+      "paperId": "88d8735f31ce444236b64a67801db38dad1cea88"
+    },
+    {
+      "paperId": "9eca0ea5717419385fa20cf69d09da25da3fcaba"
+    },
+    {
+      "paperId": "fcb6839ed428e4576184cb3a9c21932d03671a96"
+    },
+    {
+      "paperId": "4a019e153821025063d3961c6263faa97808a5cb"
+    },
+    {
+      "paperId": "1a2fcde06e4940c4ee1a5224092322dd343aae86"
+    },
+    {
+      "paperId": "dd9718591e566ee13f7c234686bf51d452b41591"
+    },
+    {
+      "paperId": "3e955fcc00f48269056b8152955219aa001b8e3f"
+    },
+    {
+      "paperId": "afba988232fc91f2859773f5d6c355190b348b7d"
+    },
+    {
+      "paperId": "b9bbcfd3a2ada0718ff2e966bb245298d272dcdf"
+    },
+    {
+      "paperId": "45d52b9dc3db7bf2341f993c765c10972d1f3d1a"
+    },
+    {
+      "paperId": "098a11385218024c03c8e9678f34f92f62c72a52"
+    },
+    {
+      "paperId": "e429e4874f4b3a397a754f28a919362d282b7966"
+    },
+    {
+      "paperId": "f8023bcb5469d2ffef842f3a27afa4872a928e7b"
+    },
+    {
+      "paperId": "80390e5093ecb32d84eb65f555b4e2ee35be3dcc"
+    },
+    {
+      "paperId": "3b8b8783155dba8ddec04cdb68204eae88fdb2a6"
+    },
+    {
+      "paperId": "73013d2425a32550f3eeb355824846e7b5d824d8"
+    },
+    {
+      "paperId": "b1629992a69fcc8c9683d9970b0825036a171382"
+    },
+    {
+      "paperId": "2415fd60305739543105118739f7118493257af3"
+    },
+    {
+      "paperId": "04baae037052fbeb4b52ea18c4efa425b21c0389"
+    },
+    {
+      "paperId": "9b1b9dad2a5f77cf6d203967a21ffe9ad69601b3"
+    },
+    {
+      "paperId": "321b813c1835e1771a38753d12ba586ba039ff4d"
+    },
+    {
+      "paperId": "91343f9ce2e7d702c2ff837830bd35259ff8fd99"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

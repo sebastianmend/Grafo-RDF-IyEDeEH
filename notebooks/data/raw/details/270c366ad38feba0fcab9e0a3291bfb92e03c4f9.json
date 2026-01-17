@@ -1,0 +1,42 @@
+{
+  "paperId": "270c366ad38feba0fcab9e0a3291bfb92e03c4f9",
+  "externalIds": {
+    "MAG": "2969671656",
+    "DOI": "10.1109/ICCSRE.2019.8807604",
+    "CorpusId": 201621090
+  },
+  "url": "https://www.semanticscholar.org/paper/270c366ad38feba0fcab9e0a3291bfb92e03c4f9",
+  "title": "Evaluation of Agricultural Precision Algorithms on UAV Images",
+  "venue": "2019 International Conference of Computer Science and Renewable Energies (ICCSRE)",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSRE.2019.8807604?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSRE.2019.8807604, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Mathematics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2700168",
+      "name": "R. Latif"
+    },
+    {
+      "authorId": "153936334",
+      "name": "A. Saddik"
+    },
+    {
+      "authorId": "2937875",
+      "name": "A. Elouardi"
+    }
+  ],
+  "abstract": "The monitoring of agricultural soils has become a necessary need for good soil quality. For this reason several parameters have been studied to solve problems in agriculture. On the other hand we find several tools for this monitoring, generally the most known are based on UAVs. In this article we will focus on evaluating the two most known parameters the Normalized Difference Vegetation Index (NDVI) and the Normalized Difference Water Index (NDWI). The evaluation of these parameters was done in a heterogeneous embedded ODROID-XU4 architecture based on two CPUs and a GPU.",
+  "references": null
+}

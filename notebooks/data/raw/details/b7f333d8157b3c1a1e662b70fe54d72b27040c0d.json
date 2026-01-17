@@ -1,0 +1,50 @@
+{
+  "paperId": "b7f333d8157b3c1a1e662b70fe54d72b27040c0d",
+  "externalIds": {
+    "MAG": "2808569958",
+    "DOI": "10.1109/EE1.2018.8385275",
+    "CorpusId": 49190687
+  },
+  "url": "https://www.semanticscholar.org/paper/b7f333d8157b3c1a1e662b70fe54d72b27040c0d",
+  "title": "IoT solutions for crop protection against wild animal attacks",
+  "venue": "2018 IEEE International Conference on Environmental Engineering (EE)",
+  "year": 2018,
+  "citationCount": 76,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EE1.2018.8385275?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EE1.2018.8385275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "145446497",
+      "name": "S. Giordano"
+    },
+    {
+      "authorId": "9030560",
+      "name": "I. Seitanidis"
+    },
+    {
+      "authorId": "144371093",
+      "name": "M. Ojo"
+    },
+    {
+      "authorId": "1761470",
+      "name": "D. Adami"
+    },
+    {
+      "authorId": "2083928318",
+      "name": "Fabio Vignoli"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,48 @@
+{
+  "paperId": "1f24e53859238714a7070154df7e0e50069119ca",
+  "externalIds": {
+    "MAG": "2996077526",
+    "DBLP": "conf/ipta/BahHCE19",
+    "DOI": "10.1109/IPTA.2019.8936091",
+    "CorpusId": 209458317
+  },
+  "url": "https://www.semanticscholar.org/paper/1f24e53859238714a7070154df7e0e50069119ca",
+  "title": "Deep features and One-class classification with unsupervised data for weed detection in UAV images",
+  "venue": "International Conference on Image Processing Theory Tools and Applications",
+  "year": 2019,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IPTA.2019.8936091?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IPTA.2019.8936091, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "144700340",
+      "name": "M. D. Bah"
+    },
+    {
+      "authorId": "1822411",
+      "name": "A. Hafiane"
+    },
+    {
+      "authorId": "34775571",
+      "name": "R. Canals"
+    },
+    {
+      "authorId": "3174268",
+      "name": "B. Emile"
+    }
+  ],
+  "abstract": "With the raise of the world population, increasing agricultural productivity has become a necessity for farmers. One way to reduce the cost of chemicals and environmental impact is to allocate the right doses of herbicide to the right place and at the right time (precision agriculture). Nowadays, automatic weeds detection is one of the most challenging problem for precision agriculture. However, weeds and crop are hard to discriminate because of their strong similarities. One of the approaches used for weed detection is machine learning. The main common point between machine learning algorithms is the need of training data. In this article we propose to use deep features and one-class classification on unsupervised data for weed detection in UAV images. The results show that one-class classification can be comparable to the literature and also to a deep learning model trained with supervised training data labeling. Results obtained on all test datasets can be up to 90% depending on the data used for the training.",
+  "references": null
+}

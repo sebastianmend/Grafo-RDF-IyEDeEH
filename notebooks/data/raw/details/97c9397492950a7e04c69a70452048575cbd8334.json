@@ -1,0 +1,43 @@
+{
+  "paperId": "97c9397492950a7e04c69a70452048575cbd8334",
+  "externalIds": {
+    "MAG": "2901695074",
+    "DBLP": "conf/igarss/MauryaSS18",
+    "DOI": "10.1109/IGARSS.2018.8517613",
+    "CorpusId": 53226138
+  },
+  "url": "https://www.semanticscholar.org/paper/97c9397492950a7e04c69a70452048575cbd8334",
+  "title": "Development of Fusion Approach for Estimation of Vegetation Fraction Cover with Drone and Sentinel-2 Data",
+  "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+  "year": 2018,
+  "citationCount": 14,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IGARSS.2018.8517613?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IGARSS.2018.8517613, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3305011",
+      "name": "A. Maurya"
+    },
+    {
+      "authorId": "2108468226",
+      "name": "Dharmendra Singh"
+    },
+    {
+      "authorId": "153866018",
+      "name": "K. Singh"
+    }
+  ],
+  "abstract": "Fractional vegetation cover (FVC) is usually referred to as an important parameter for vegetation health monitoring and also used as control parameter in terrestrial ecosystem change detection. In recent year several models have been developed for FVC measurement using satellite data and digital images at regional and global scale. For the validation and modification in these models need to a precise ground truth information. FVC measured using digital camera act as an efficient ground truth information, but it is also lack in accuracy due to limited number of images and sampling points are possible to take with camera. Drone is the recent trend for precision agriculture monitoring and can be used as substitute to overcome these problems. In this paper an efficient method of ground truth FVC measurement using drone image is developed, which is further used for development of a sigmoid model to measure FVC using Sentinel-2 data for larger area. Results of the obtained model are compared with ground truth FVC and obtained value of RMSE is 0.10. FVC are also measured with dimidiate pixel model and obtained RMSE value with ground truth FVC is 0.17. Results show that developed model can be used for efficient measurement of fractional vegetation cover.",
+  "references": null
+}

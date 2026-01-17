@@ -1,0 +1,237 @@
+{
+  "paperId": "a883bd30b637c8a9f13d9b08b764cabd8eb4dfa0",
+  "externalIds": {
+    "MAG": "2896590660",
+    "DOI": "10.1088/1755-1315/186/5/012007",
+    "CorpusId": 134757635
+  },
+  "url": "https://www.semanticscholar.org/paper/a883bd30b637c8a9f13d9b08b764cabd8eb4dfa0",
+  "title": "Application of variable spray technology in agriculture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2018,
+  "citationCount": 23,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/186/5/012007/pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/186/5/012007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/186/5/012007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "113931978",
+      "name": "Hongbin Dou"
+    },
+    {
+      "authorId": "2155988960",
+      "name": "Chengliang Zhang"
+    },
+    {
+      "authorId": "2151530957",
+      "name": "Lei Li"
+    },
+    {
+      "authorId": "117645882",
+      "name": "Guangfa Hao"
+    },
+    {
+      "authorId": "84581808",
+      "name": "Bofeng Ding"
+    },
+    {
+      "authorId": "117610707",
+      "name": "W. Gong"
+    },
+    {
+      "authorId": "2148764490",
+      "name": "P. Huang"
+    }
+  ],
+  "abstract": "As one of the representatives of precision agriculture, variable spray technology has made great progress in the development and application of technology in recent years. This paper describes the principle and characteristics of variable spray technology, and outlines the development results of variable spray technology in target detection, automatic control, and spray application. In terms of target detection technology, automatic target spray technology based on real-time sensors and automatic target spray technology based on geographic information technology are introduced; In control technology, pressure control flow regulation technology, PWM control flow regulation technology and liquid chemical concentration mixed regulation system are described. In the field of spray technology, it mainly describes the research and application of variable nozzles and forecasts the application prospect and development direction of variable spray technology.",
+  "references": [
+    {
+      "paperId": "3e3dde328504599459a3b66a727e188da9775c94"
+    },
+    {
+      "paperId": "a3aeeecfaba0d5bf6379c1ac3056354c4becac85"
+    },
+    {
+      "paperId": "a34d4b95f53f0949dc2e056824b282a88d6c7dfc"
+    },
+    {
+      "paperId": "339735b506b9bf6e33b2c619d888dcd90f75e487"
+    },
+    {
+      "paperId": "3e2780df51017956e81f700ffb0225785c3ba90c"
+    },
+    {
+      "paperId": "51f8b585938380c9b699900adba81eeb508f6f86"
+    },
+    {
+      "paperId": "3fbf5f8b8a71f5fba0fc989517f5ee6a299b99a1"
+    },
+    {
+      "paperId": "ef44837a9409c779bfa514eb1c460ade5be0464b"
+    },
+    {
+      "paperId": "e07b65d02d78692c65163fcf66f8a73b53be74ad"
+    },
+    {
+      "paperId": "03483acf042fb393ad615b718119d99df6f70eee"
+    },
+    {
+      "paperId": "f9785f497f4d4052ba5ba66cad27412bf75de4e2"
+    },
+    {
+      "paperId": "7d7e6e078b712104f3900d8ff4409e99f2b26cb9"
+    },
+    {
+      "paperId": "a502fb9def48ddb4000998bfa2361c7a01f655fb"
+    },
+    {
+      "paperId": "1b77399f8311767d794fb7a53c3f01b7dddf10f5"
+    },
+    {
+      "paperId": "89d3a16f4b14c55290bba7023f5e8916afe5d28d"
+    },
+    {
+      "paperId": "eb590632d95876ce4d533f3fa3b9cf8f5f2b9b53"
+    },
+    {
+      "paperId": "b00cc5ea41935fb27923fe11c66b5618f094fd86"
+    },
+    {
+      "paperId": "3e28d472276d96b6e6c5e6da485795ed0bc0c6d8"
+    },
+    {
+      "paperId": "b730401226ccaa17ee55309d4f523a98bff0b825"
+    },
+    {
+      "paperId": "74081a567e7c75e285ad9e3c56716e90fe2e2660"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

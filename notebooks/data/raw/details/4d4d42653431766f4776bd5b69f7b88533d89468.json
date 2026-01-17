@@ -1,0 +1,83 @@
+{
+  "paperId": "4d4d42653431766f4776bd5b69f7b88533d89468",
+  "externalIds": {
+    "MAG": "2972893042",
+    "DOI": "10.1088/1755-1315/301/1/012019",
+    "CorpusId": 203172843
+  },
+  "url": "https://www.semanticscholar.org/paper/4d4d42653431766f4776bd5b69f7b88533d89468",
+  "title": "Performance evaluation of low-cost GPS-data logger module for smart-farm tractor",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/301/1/012019",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/301/1/012019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/301/1/012019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1389527665",
+      "name": "K. Umsup"
+    },
+    {
+      "authorId": "1389527632",
+      "name": "K. Tammark"
+    },
+    {
+      "authorId": "3481755",
+      "name": "P. Thanpattranon"
+    }
+  ],
+  "abstract": "Nowadays, IoT technologies are now implemented into a smart-farm production. Many sensors were developed and implemented into the agricultural production. GPS is one of the most used sensor even the cost of high accuracy GPS or RTK-GPS is still high. Fortunately, the cost of single unit GPS is significantly decreased. Main objective of this research is to evaluate the precision of the low-cost GPS in the performance perspective in smart farm tractor applications. A low-cost GPS-position tracking and data logger was developed. The evaluation was done by leaving the developed data logger unit stationary in three different circumstance condition; Open field; Under tree canopy and Near building. The result show that the position recorded had standard deviation of precision of 0.57, 0.85 and 2.22 m in longitude-axis and 0.29, 0.64 and 0.91 m in latitude-axis for Open field; Under tree canopy and Near building respectively. The next state of the research is to evaluate the accuracy of the developed GPS-data logger in dynamics operation together with the performance comparison with the commercial GPS data logger. The result shows that the precision level of 0.5 m is still needed to be developed. Otherwise, the integrated sensor technique must be implied.",
+  "references": [
+    {
+      "paperId": "a8586da2a698dfa3f46c143a801a184cc340f9df"
+    },
+    {
+      "paperId": "a7d76d2ba916d5e57dad70ae8a1b37a204cd6858"
+    },
+    {
+      "paperId": "978331d41b0587541ba3f0c4427daf855b6f0275"
+    },
+    {
+      "paperId": "a945d00c97dda99ccde4ed02b28d81c25cdb2251"
+    },
+    {
+      "paperId": "92811441dcba347cdba5b0d0de07e6d1415cdb51"
+    },
+    {
+      "paperId": "3b80ab3ecc363ee411936a006d716d0d224b121a"
+    },
+    {
+      "paperId": "8df63b8984a68358087d127f2e0de08383761822"
+    },
+    {
+      "paperId": "aec1692836f04a704e3cad89ac8eab44ccb8b736"
+    },
+    {
+      "paperId": "e410f935997dc1ced1eca5d7281c75363aeb63d6"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "f515eb9fdbe49ebabc928684c0a4ed47abf148ad"
+    },
+    {
+      "paperId": "a624fccd10bd73d1d81b6858dece22dd1661eaa9"
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

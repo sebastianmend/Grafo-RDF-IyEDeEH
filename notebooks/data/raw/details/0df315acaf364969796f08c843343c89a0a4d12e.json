@@ -1,0 +1,147 @@
+{
+  "paperId": "0df315acaf364969796f08c843343c89a0a4d12e",
+  "externalIds": {
+    "PubMedCentral": "5981803",
+    "DBLP": "journals/sensors/BasecaSLL18",
+    "MAG": "2802808115",
+    "DOI": "10.3390/s18051333",
+    "CorpusId": 20885871,
+    "PubMed": "29693611"
+  },
+  "url": "https://www.semanticscholar.org/paper/0df315acaf364969796f08c843343c89a0a4d12e",
+  "title": "Smart System for Bicarbonate Control in Irrigation for Hydroponic Precision Farming",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 80,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/5/1333/pdf?version=1525349842",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5981803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2819896",
+      "name": "Carlos Cambra Baseca"
+    },
+    {
+      "authorId": "1718316",
+      "name": "S. Sendra"
+    },
+    {
+      "authorId": "144484046",
+      "name": "Jaime Lloret"
+    },
+    {
+      "authorId": "6922892",
+      "name": "R. Lacuesta"
+    }
+  ],
+  "abstract": "Improving the sustainability in agriculture is nowadays an important challenge. The automation of irrigation processes via low-cost sensors can to spread technological advances in a sector very influenced by economical costs. This article presents an auto-calibrated pH sensor able to detect and adjust the imbalances in the pH levels of the nutrient solution used in hydroponic agriculture. The sensor is composed by a pH probe and a set of micropumps that sequentially pour the different liquid solutions to maintain the sensor calibration and the water samples from the channels that contain the nutrient solution. To implement our architecture, we use an auto-calibrated pH sensor connected to a wireless node. Several nodes compose our wireless sensor networks (WSN) to control our greenhouse. The sensors periodically measure the pH level of each hydroponic support and send the information to a data base (DB) which stores and analyzes the data to warn farmers about the measures. The data can then be accessed through a user-friendly, web-based interface that can be accessed through the Internet by using desktop or mobile devices. This paper also shows the design and test bench for both the auto-calibrated pH sensor and the wireless network to check their correct operation.",
+  "references": [
+    {
+      "paperId": "fb0de6f0e1d185b44f14ebc9decc39b6649a1117"
+    },
+    {
+      "paperId": "27f61b6836f02159e4aca3645dbdc73225f4d25c"
+    },
+    {
+      "paperId": "e2d426fe7ba634001579fcb71bf9e101c5eb3ead"
+    },
+    {
+      "paperId": "9c4bd8165829524bf44fedf056e353b46d0e2a90"
+    },
+    {
+      "paperId": "a61b2ceaa7e576f6af7e8faca86b96155b51f914"
+    },
+    {
+      "paperId": "3ee2c8402467b2f3f50fb33b66b73f25610a30d5"
+    },
+    {
+      "paperId": "7b99cfdad1ed1139d302d936b480ef5a38141394"
+    },
+    {
+      "paperId": "131a96a1a72cd5912de4d9d7f04ea778df56983f"
+    },
+    {
+      "paperId": "ac300f33876ec699720fdfb9202038ea5d81cdf9"
+    },
+    {
+      "paperId": "de2d2a2cfdacccd74a946d746796b2e1ed937886"
+    },
+    {
+      "paperId": "d2db1e88c487e1665fcef35dc97436decb324aa7"
+    },
+    {
+      "paperId": "9f107679380dfea148dd359f211978e37d1759e6"
+    },
+    {
+      "paperId": "b9278be93f61af7bc6dfd8ecd98a464b8933e42f"
+    },
+    {
+      "paperId": "1d53f74b0177a066482861f8c2a3a17e0b6ad8f1"
+    },
+    {
+      "paperId": "c93192a7e9492037ad090d8306f8d81267ae19a5"
+    },
+    {
+      "paperId": "39a74a7a35dc63549ad4ed906fd9db31676540d4"
+    },
+    {
+      "paperId": "9bf0b30a37e9311f95c544b427d1d91e5fadeb8a"
+    },
+    {
+      "paperId": "7a5484028fb2ebae8050aabc79dc59c1a227dc65"
+    },
+    {
+      "paperId": "dc6c96a80aa7e8db855ac33ed63e4a4409cf90a1"
+    },
+    {
+      "paperId": "b19029651f09733896eaab4f15c9b9c8215064ba"
+    },
+    {
+      "paperId": "a6bc88c696a4f43de0038c55f2bfe268c33d7c17"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "10a85b24e068266baae82856efa7b08a03b3d47a"
+    },
+    {
+      "paperId": "88c740a93a04d825db0437de6416490d8bc612cc"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "2878145840d795cab65db53c2b5fabb9436b44ae"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "a4ffa01f56a526a47ecb5adc75b8c0c493606983"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "884e5df9e1eed367a16d25cbdc5c76245c5d1e6a"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

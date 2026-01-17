@@ -1,0 +1,47 @@
+{
+  "paperId": "59b6e723850874d5e6dfdac4bee3cc4223af53be",
+  "externalIds": {
+    "DBLP": "conf/giots/JainSBP18",
+    "MAG": "2901501613",
+    "DOI": "10.1109/GIOTS.2018.8534553",
+    "CorpusId": 53435672
+  },
+  "url": "https://www.semanticscholar.org/paper/59b6e723850874d5e6dfdac4bee3cc4223af53be",
+  "title": "Development of an Energy-efficient Adaptive IoT Gateway Model for Precision Agriculture",
+  "venue": "Global Internet of Things Summit",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GIOTS.2018.8534553?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GIOTS.2018.8534553, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51927678",
+      "name": "Prachin Jain"
+    },
+    {
+      "authorId": "34610600",
+      "name": "Sanat Sarangi"
+    },
+    {
+      "authorId": "144642041",
+      "name": "Prakruti V. Bhatt"
+    },
+    {
+      "authorId": "2389407637",
+      "name": "Srinivasu Pappula"
+    }
+  ],
+  "abstract": "Monitoring micro-climatic conditions of a farm is key to achieving Precision Agricultureas it helps in making accurate disease forecasts for better crop protection and improves yieldefficiency towards higher production. This fine-grained costeffective pervasive sensing of thefarm is enabled with Wireless Sensor Networks (WSN) that have evolved into the modern realm ofInternet of Things (IoT). Sensor nodes installed as part of a WSN installation regularly send their measurements to a gateway that aggregates this information before sending it to the cloud. Open fields require energy and bandwidth efficient protocols for transmission and reportingof data as the power source is mostly restricted to solar. We propose an approach to achieve energy-efficient adaptive data collection from the network that involves development of an adaptive model for the gateway. The model uses crop-specific parameters to optimally configure itself to collect data from nodes in the network thereby maximizing energy-efficiency for the deployment. The optimization offered by our adaptive model is shown to achieve significant savings in energy (over 30%) in terms of number of messages exchanged at the gateway. This helps reduce unnecessary traffic to the cloud while extending the network lifetime.",
+  "references": null
+}

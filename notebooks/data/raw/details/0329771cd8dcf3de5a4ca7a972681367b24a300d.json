@@ -1,0 +1,49 @@
+{
+  "paperId": "0329771cd8dcf3de5a4ca7a972681367b24a300d",
+  "externalIds": {
+    "DBLP": "journals/cea/KhanalMLP19",
+    "MAG": "2943463158",
+    "DOI": "10.1016/J.COMPAG.2019.04.025",
+    "CorpusId": 155961586
+  },
+  "url": "https://www.semanticscholar.org/paper/0329771cd8dcf3de5a4ca7a972681367b24a300d",
+  "title": "Modeling post adoption decision in precision agriculture: A Bayesian approach",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPAG.2019.04.025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPAG.2019.04.025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Business"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "31916523",
+      "name": "Aditya R. Khanal"
+    },
+    {
+      "authorId": "2275492",
+      "name": "A. Mishra"
+    },
+    {
+      "authorId": "20883446",
+      "name": "D. Lambert"
+    },
+    {
+      "authorId": "38282114",
+      "name": "K. Paudel"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

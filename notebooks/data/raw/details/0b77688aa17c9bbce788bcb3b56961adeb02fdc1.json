@@ -1,0 +1,186 @@
+{
+  "paperId": "0b77688aa17c9bbce788bcb3b56961adeb02fdc1",
+  "externalIds": {
+    "DBLP": "journals/access/LiuWXYWSL19",
+    "MAG": "2938719104",
+    "DOI": "10.1109/ACCESS.2019.2909522",
+    "CorpusId": 122353330
+  },
+  "url": "https://www.semanticscholar.org/paper/0b77688aa17c9bbce788bcb3b56961adeb02fdc1",
+  "title": "PestNet: An End-to-End Deep Learning Approach for Large-Scale Multi-Class Pest Detection and Classification",
+  "venue": "IEEE Access",
+  "year": 2019,
+  "citationCount": 197,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08682057.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2909522?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2909522, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2109527799",
+      "name": "Liu Liu"
+    },
+    {
+      "authorId": "1730575",
+      "name": "Rujing Wang"
+    },
+    {
+      "authorId": "1994566",
+      "name": "Chengjun Xie"
+    },
+    {
+      "authorId": "144861562",
+      "name": "Po Yang"
+    },
+    {
+      "authorId": "47939269",
+      "name": "Fangyuan Wang"
+    },
+    {
+      "authorId": "2288826654",
+      "name": "Sud Sudirman"
+    },
+    {
+      "authorId": "153494551",
+      "name": "Wancai Liu"
+    }
+  ],
+  "abstract": "Multi-class pest detection is one of the crucial components in pest management involving localization in addition to classification which is much more difficult than generic object detection because of the apparent differences among pest species. This paper proposes a region-based end-to-end approach named PestNet for large-scale multi-class pest detection and classification based on deep learning. PestNet consists of three major parts. First, a novel module channel–spatial attention (CSA) is proposed to be fused into the convolutional neural network (CNN) backbone for feature extraction and enhancement. The second one is called region proposal network (RPN) that is adopted for providing region proposals as potential pest positions based on extracted feature maps from images. Position-sensitive score map (PSSM), the third component, is used to replace fully connected (FC) layers for pest classification and bounding box regression. Furthermore, we apply contextual regions of interest (RoIs) as contextual information of pest features to improve detection accuracy. We evaluate PestNet on our newly collected large-scale pests’ image dataset, Multi-class Pests Dataset 2018 (MPD2018) captured by our designed task-specific image acquisition equipment, covering more than 80k images with over 580k pests labeled by agricultural experts and categorized in 16 classes. The experimental results show that the proposed PestNet performs well on multi-class pest detection with 75.46% mean average precision (mAP), which outperforms the state-of-the-art methods.",
+  "references": [
+    {
+      "paperId": "e9fcdbc2ebf80d56ac7e45a069c3da71d39c97b8"
+    },
+    {
+      "paperId": "fc7178fe13e956a79262d2c79694386d02546fa9"
+    },
+    {
+      "paperId": "164db5cc7a4970f6b28dd9d1f920e45398d35dbc"
+    },
+    {
+      "paperId": "76f83895915025603858736ae356670ca1fbce7f"
+    },
+    {
+      "paperId": "741944fb9f6fb2603fbe4ec83d6ed22b738cba5d"
+    },
+    {
+      "paperId": "f3eef56498d097f9f09e05670a50cdf8963ba24b"
+    },
+    {
+      "paperId": "886674a5abae3c9bfd262006c67d4ba078e1462b"
+    },
+    {
+      "paperId": "e13c4337c1266761310a1053550a6b231e6b4a69"
+    },
+    {
+      "paperId": "3f116042f50a499ab794bcc1255915bee507413c"
+    },
+    {
+      "paperId": "b724c3f7ff395235b62537203ddeb710f0eb27bb"
+    },
+    {
+      "paperId": "63333669bcf694aba2e1928f6060ab1d6a5161fe"
+    },
+    {
+      "paperId": "edd3553f1af38f2bb9150deef89b1aa082cda363"
+    },
+    {
+      "paperId": "2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+      "paperId": "4d7a9197433acbfb24ef0e9d0f33ed1699e4a5b0"
+    },
+    {
+      "paperId": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270"
+    },
+    {
+      "paperId": "7ffdbc358b63378f07311e883dddacc9faeeaf4b"
+    },
+    {
+      "paperId": "b183947ee15718b45546eda6b01e179b9a95421f"
+    },
+    {
+      "paperId": "eb42cf88027de515750f230b23b1a057dc782108"
+    },
+    {
+      "paperId": "1a2a770d23b4a171fa81de62a78a3deb0588f238"
+    },
+    {
+      "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8"
+    },
+    {
+      "paperId": "9b223c8a31e0ea1d1f2c9787ffd8416dfc90c912"
+    },
+    {
+      "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff"
+    },
+    {
+      "paperId": "21068824e1cbf8c4a695644739deb05b171f2c7e"
+    },
+    {
+      "paperId": "a6c1a120f6c84eff4fb0facf404094f840105b9f"
+    },
+    {
+      "paperId": "407d6a093373c50dd9d19769e5afb55377c2f524"
+    },
+    {
+      "paperId": "2d7d718f0a5a4885c06c535e829afacc5f269f4c"
+    },
+    {
+      "paperId": "8987cf48bd3d942755fb56f2540bc5d79454c6e8"
+    },
+    {
+      "paperId": "02b28f3b71138a06e40dbd614abf8568420ae183"
+    },
+    {
+      "paperId": "6e93fb44ff86823e382ddeced2573b383248d56c"
+    },
+    {
+      "paperId": "b21f1c4372689b2cce7c1984149ce5c557e8d258"
+    },
+    {
+      "paperId": "52ca4ed04d1d9dba3e6ae30717898276735e0b79"
+    },
+    {
+      "paperId": "ec4899b110b70cd5eda32f61c1de56cfc21aa4fe"
+    },
+    {
+      "paperId": "a519783b26724c033a62b44548718eef60bd379f"
+    },
+    {
+      "paperId": "7c2930a1856489c1ea2822d6c939949cf62286c7"
+    },
+    {
+      "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698"
+    },
+    {
+      "paperId": "3a5da3d66892dfcfeb54e4872a032dfb5deb19e4"
+    },
+    {
+      "paperId": "8a7e4164d954eb55617362dcb18ca1359b4b753b"
+    },
+    {
+      "paperId": "27a5752f872547d1f97ce3d2d8b36274d7620460"
+    },
+    {
+      "paperId": "90d7aa2a54923eabd42525cc6cbca1757a57da0f"
+    },
+    {
+      "paperId": "c5b04e3e33461e68f18ad8808eb143e9ab4b14df"
+    },
+    {
+      "paperId": "072d756c8b17a78018298e67ff29e6d3a4fe5770"
+    },
+    {
+      "paperId": "1f0a532da4b577ebf22d70558e8f308ab1cc62ee"
+    }
+  ]
+}

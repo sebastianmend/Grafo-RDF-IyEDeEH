@@ -1,0 +1,38 @@
+{
+  "paperId": "46753ad9f0ccc549db8963dd2972b602435e134f",
+  "externalIds": {
+    "MAG": "2923285333",
+    "DOI": "10.1007/s13762-019-02310-w",
+    "CorpusId": 109286417
+  },
+  "url": "https://www.semanticscholar.org/paper/46753ad9f0ccc549db8963dd2972b602435e134f",
+  "title": "Detecting vegetation stress as a soil contamination proxy: a review of optical proximal and remote sensing techniques",
+  "venue": "International Journal of Environmental Science and Technology",
+  "year": 2019,
+  "citationCount": 75,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13762-019-02310-w.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13762-019-02310-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13762-019-02310-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2268323372",
+      "name": "Asa Gholizadeh"
+    },
+    {
+      "authorId": "2853290",
+      "name": "V. Kopačková"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

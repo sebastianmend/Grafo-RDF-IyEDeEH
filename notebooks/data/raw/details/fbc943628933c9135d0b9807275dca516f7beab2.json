@@ -1,0 +1,60 @@
+{
+  "paperId": "fbc943628933c9135d0b9807275dca516f7beab2",
+  "externalIds": {
+    "DBLP": "journals/ijat/YangGYHSGC19",
+    "MAG": "2971713974",
+    "DOI": "10.20965/ijat.2019.p0671",
+    "CorpusId": 202670378
+  },
+  "url": "https://www.semanticscholar.org/paper/fbc943628933c9135d0b9807275dca516f7beab2",
+  "title": "Generation of a High-Precision Digital Elevation Model for Fields in Mountain Regions Using RTK-GPS",
+  "venue": "International Journal of Automation Technology",
+  "year": 2019,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.20965/ijat.2019.p0671",
+    "status": "GOLD",
+    "license": "CCBYND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20965/ijat.2019.p0671?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20965/ijat.2019.p0671, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Geology",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "66031856",
+      "name": "Liangliang Yang"
+    },
+    {
+      "authorId": "145802468",
+      "name": "Hao Guo"
+    },
+    {
+      "authorId": "2149070470",
+      "name": "Shuming Yang"
+    },
+    {
+      "authorId": "2749325",
+      "name": "Y. Hoshino"
+    },
+    {
+      "authorId": "39159853",
+      "name": "Soichiro Suzuki"
+    },
+    {
+      "authorId": "2082158768",
+      "name": "Dehua Gao"
+    },
+    {
+      "authorId": "50206833",
+      "name": "Ying Cao"
+    }
+  ],
+  "abstract": "In modern agriculture, many advanced automated devices are used on farms. To improve the working efficiency of agricultural vehicles, fields are expected to be pre-leveled, because the vehicles work more effectively on a flat field. Leveling a field requires the current field elevation map. Some farmers in Japan have begun to use high-precision real-time kinematic Global Positioning System (RTK-GPS)-based self-steering tractors in the fields. This study uses the RTK-GPS information from a self-steering tractor system to generate a digital elevation model (DEM) especially in mountain regions where the fields are not flat. In addition, all of the information is from the self-steering system with the result that farmers can use the method of this study without additional instruments. However, the GPS receiver sometimes cannot obtain high-quality signals from satellites in mountain regions. Therefore, this study focuses on how to create a high-precision DEM even when a GPS signal is unavailable. It proposes a dynamic interpolation method for generating a DEM. In addition, a test was conducted in a field in a mountain region. The test results show that the dynamic interpolation method can provide an accuracy of less than 0.03 m in the test field for creating a DEM.",
+  "references": []
+}

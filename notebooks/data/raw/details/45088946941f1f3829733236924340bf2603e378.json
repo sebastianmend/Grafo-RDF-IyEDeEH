@@ -1,0 +1,59 @@
+{
+  "paperId": "45088946941f1f3829733236924340bf2603e378",
+  "externalIds": {
+    "MAG": "2970833853",
+    "DBLP": "conf/epia/SilvaMSSMSM19",
+    "DOI": "10.1007/978-3-030-30241-2_20",
+    "CorpusId": 201711370
+  },
+  "url": "https://www.semanticscholar.org/paper/45088946941f1f3829733236924340bf2603e378",
+  "title": "Low-Cost IoT LoRa®Solutions for Precision Agriculture Monitoring Practices",
+  "venue": "Portuguese Conference on Artificial Intelligence",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 2,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract', 'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-30241-2_20?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-30241-2_20, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "145043942",
+      "name": "Nuno Silva"
+    },
+    {
+      "authorId": "144907742",
+      "name": "Jorge Mendes"
+    },
+    {
+      "authorId": "2110699037",
+      "name": "Renato Silva"
+    },
+    {
+      "authorId": "40383247",
+      "name": "F. Santos"
+    },
+    {
+      "authorId": "145750542",
+      "name": "P. Mestre"
+    },
+    {
+      "authorId": "1971020",
+      "name": "Carlos Serôdio"
+    },
+    {
+      "authorId": "145104644",
+      "name": "R. Morais"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

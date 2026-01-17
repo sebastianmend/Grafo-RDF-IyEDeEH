@@ -1,0 +1,47 @@
+{
+  "paperId": "9b46ab402e2d8e0f131c9f60d3aa2de1d4a9498f",
+  "externalIds": {
+    "MAG": "2943163835",
+    "DBLP": "conf/ised/JohnGTM18",
+    "DOI": "10.1109/ISED.2018.8704076",
+    "CorpusId": 145047822
+  },
+  "url": "https://www.semanticscholar.org/paper/9b46ab402e2d8e0f131c9f60d3aa2de1d4a9498f",
+  "title": "Application-specific WSN for precision agriculture",
+  "venue": "International Symposium on Embedded Computing and System Design",
+  "year": 2018,
+  "citationCount": 3,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISED.2018.8704076?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISED.2018.8704076, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "32195017",
+      "name": "George Eldho John"
+    },
+    {
+      "authorId": "35638045",
+      "name": "G. Renjith"
+    },
+    {
+      "authorId": "2068866017",
+      "name": "Neil K. Thomas"
+    },
+    {
+      "authorId": "117806426",
+      "name": "Rohit Joseph Mammutil"
+    }
+  ],
+  "abstract": "In this paper, a low cost system using RF sensor nodes is introduced. Despite having high power consumption RF transmitters and recievers have a good dynamic range and penetration capacity. The main aim of this work is to help agriculturists not only to reduce the cost of production of crops but also to contribute to environment preservation. A complete framework of wireless sensor network system is being introduced here. Hardware prototypes have been designed and developed according to the proposed approach. The major aim of the sensor network is data acquistion of the soil temperature and moisture parameters.",
+  "references": null
+}

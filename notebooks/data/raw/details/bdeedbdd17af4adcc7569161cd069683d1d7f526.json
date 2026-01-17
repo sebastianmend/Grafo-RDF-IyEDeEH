@@ -1,0 +1,64 @@
+{
+  "paperId": "bdeedbdd17af4adcc7569161cd069683d1d7f526",
+  "externalIds": {
+    "MAG": "2952068604",
+    "DOI": "10.1002/jemt.23320",
+    "CorpusId": 190520970,
+    "PubMed": "31209970"
+  },
+  "url": "https://www.semanticscholar.org/paper/bdeedbdd17af4adcc7569161cd069683d1d7f526",
+  "title": "Intelligent microscopic approach for identification and recognition of citrus deformities",
+  "venue": "Microscopy research and technique (Print)",
+  "year": 2019,
+  "citationCount": 29,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jemt.23320?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jemt.23320, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "146180328",
+      "name": "Arooj Safdar"
+    },
+    {
+      "authorId": "18947121",
+      "name": "Muhammad Attique Khan"
+    },
+    {
+      "authorId": "1814986",
+      "name": "J. H. Shah"
+    },
+    {
+      "authorId": "49311402",
+      "name": "M. Sharif"
+    },
+    {
+      "authorId": "48592042",
+      "name": "T. Saba"
+    },
+    {
+      "authorId": "39830875",
+      "name": "A. Rehman"
+    },
+    {
+      "authorId": "47714047",
+      "name": "K. Javed"
+    },
+    {
+      "authorId": "2054423254",
+      "name": "J. Khan"
+    }
+  ],
+  "abstract": "Plant diseases are accountable for economic losses in an agricultural country. The manual process of plant diseases diagnosis is a key challenge from last one decade; therefore, researchers in this area introduced automated systems. In this research work, automated system is proposed for citrus fruit diseases recognition using computer vision technique. The proposed method incorporates five fundamental steps such as preprocessing, disease segmentation, feature extraction and reduction, fusion, and classification. The noise is being removed followed by a contrast stretching procedure in the very first phase. Later, watershed method is applied to excerpt the infectious regions. The shape, texture, and color features are subsequently computed from these infection regions. In the fourth step, reduced features are fused using serial‐based approach followed by a final step of classification using multiclass support vector machine. For dimensionality reduction, principal component analysis is utilized, which is a statistical procedure that enforces an orthogonal transformation on a set of observations. Three different image data sets (Citrus Image Gallery, Plant Village, and self‐collected) are combined in this research to achieving a classification accuracy of 95.5%. From the stats, it is quite clear that our proposed method outperforms several existing methods with greater precision and accuracy.",
+  "references": null
+}

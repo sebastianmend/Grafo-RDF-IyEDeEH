@@ -1,0 +1,45 @@
+{
+  "paperId": "ee4f324ce2c24763bfd8d2102ac33127aa93ee6b",
+  "externalIds": {
+    "DBLP": "conf/im/KarmakarVNT19",
+    "MAG": "2947819152",
+    "CorpusId": 84178003
+  },
+  "url": "https://www.semanticscholar.org/paper/ee4f324ce2c24763bfd8d2102ac33127aa93ee6b",
+  "title": "SDN Enabled Secure IoT Architecture",
+  "venue": "IFIP/IEEE Symposium on Integrated Network Management",
+  "year": 2019,
+  "citationCount": 62,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "3409850",
+      "name": "K. Karmakar"
+    },
+    {
+      "authorId": "1693037",
+      "name": "V. Varadharajan"
+    },
+    {
+      "authorId": "1681657",
+      "name": "S. Nepal"
+    },
+    {
+      "authorId": "1707996",
+      "name": "U. Tupakula"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

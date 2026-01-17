@@ -1,0 +1,50 @@
+{
+  "paperId": "ac55855950d3f8aabbc127edc36dc54e713de465",
+  "externalIds": {
+    "MAG": "3006548967",
+    "DOI": "10.1109/ICSSIT46314.2019.8987794",
+    "CorpusId": 211120358
+  },
+  "url": "https://www.semanticscholar.org/paper/ac55855950d3f8aabbc127edc36dc54e713de465",
+  "title": "Internet of Things Based Precision Agriculture for Developing Countries",
+  "venue": "2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+  "year": 2019,
+  "citationCount": 18,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSSIT46314.2019.8987794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSSIT46314.2019.8987794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "47161303",
+      "name": "S. Routray"
+    },
+    {
+      "authorId": "9132126",
+      "name": "A. Javali"
+    },
+    {
+      "authorId": "144533716",
+      "name": "Laxmi Sharma"
+    },
+    {
+      "authorId": "152185638",
+      "name": "Aritri Ghosh"
+    },
+    {
+      "authorId": "32835588",
+      "name": "Anindita Sahoo"
+    }
+  ],
+  "abstract": "Precision agriculture (PA) is associated with the engineering of exact needs of plants and their productivities. In the modern times, PA uses a large number of sensors in a networked architecture to collect the information on the exact needs of the plants and their productivities. With the arrival of Internet of things (IoT), now PA can be implemented quite systematically. Undoubtedly, agriculture is one of the most important economic sectors of the world. For the developing countries, it is an essential sector. Agriculture is directly associated with the daily needs of human being such as food, clothing, and shelter. In the recent years, developing countries are facing a lot of difficulties in the agriculture related aspects such as lack of water for irrigation, desertification of fertile land, and reduction in harvests. PA can ease these problems through the use of IoT based applications. In this paper, we provide the recent frameworks of PA using IoT. We show how it can help the agricultural sectors of the developing countries in the long term.",
+  "references": null
+}

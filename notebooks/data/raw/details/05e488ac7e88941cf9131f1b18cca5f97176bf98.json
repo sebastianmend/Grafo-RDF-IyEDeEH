@@ -1,0 +1,227 @@
+{
+  "paperId": "05e488ac7e88941cf9131f1b18cca5f97176bf98",
+  "externalIds": {
+    "MAG": "2889191511",
+    "DOI": "10.21873/invivo.11346",
+    "CorpusId": 52097396,
+    "PubMed": "30150426"
+  },
+  "url": "https://www.semanticscholar.org/paper/05e488ac7e88941cf9131f1b18cca5f97176bf98",
+  "title": "Carcinogenic Pesticide Control via Hijacking Endosymbiosis; The Paradigm of DSB-A from Wolbachia pipientis for the Management of Otiorhynchus singularis",
+  "venue": "In Vivo",
+  "year": 2018,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://iv.iiarjournals.org/content/32/5/1051.full.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21873/invivo.11346?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21873/invivo.11346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "51212460",
+      "name": "Thomas Kostaropoulos"
+    },
+    {
+      "authorId": "4693781",
+      "name": "L. Papageorgiou"
+    },
+    {
+      "authorId": "52031570",
+      "name": "S. C. Tsaniras"
+    },
+    {
+      "authorId": "2465652",
+      "name": "D. Vlachakis"
+    },
+    {
+      "authorId": "2343227",
+      "name": "E. Eliopoulos"
+    }
+  ],
+  "abstract": "Background/Aim: Pesticides have little, if any specificity, to the pathogen they target in most cases. Wide spectrum toxic chemicals are being used to remove pestcides and salvage crops and economies linked to agriculture. The burden on the environment, public health and economy is huge. Traditional pestcide control is based on administering heavy loads of highly toxic compounds and elements that essentially strip all life from the field. Those chemicals are a leading cause of increased cancer related deaths in countryside. Herein, the Trojan horse of endosymbiosis was used, in an effort to control pests using high specificity compounds in reduced quantities. Materials and Methods: Our pipeline has been applied on the case of Otiorhynchus singularis, which is a very widespread pest, whose impact is devastating on a repertoire of crops. To date, there is no specific pesticide nor agent to control it. The deployed strategy involves the inhibition of the key DSB-A enzyme of its endosymbiotic Wolbachia pipientis bacterial strain. Results: Our methodology, provides the means to design, test and identify highly specific pestcide control substances that minimize the impact of toxic chemicals on health, economy and the environment. Conclusion: All in all, in this study a radical computer-based pipeline is proposed that could be adopted under many other similar scenarios and pave the way for precision agriculture via optimized pest control.",
+  "references": [
+    {
+      "paperId": "5d737cbf0a75e178eaaa556370936cd7e8207433"
+    },
+    {
+      "paperId": "7ff32393731b9f2cae58ca3f5d28131361c70413"
+    },
+    {
+      "paperId": "da692ee969d9c33986196372c3f7cb87fa6b6f8f"
+    },
+    {
+      "paperId": "f917f5e1aa106d669fd5e3b77d13752b5c50b142"
+    },
+    {
+      "paperId": "7ed7687c5b6662d0b740b4032c834e44aa33e75e"
+    },
+    {
+      "paperId": "c7a988f29c284e03b70907f1f480cc40c5ec7437"
+    },
+    {
+      "paperId": "12ea6cfccb4406dc90752a9b40bd662391836b35"
+    },
+    {
+      "paperId": "efb2f22312c70020d4f9d57a6bc1e994003b0a22"
+    },
+    {
+      "paperId": "10082e4ceeceabab5c1c0c40bef62e2379dcf1b1"
+    },
+    {
+      "paperId": "27e03de2bfaca869f54b87d6a7bf17b2ba5c2767"
+    },
+    {
+      "paperId": "a4ba351c5370c9e1a8cd70f248310c1ff9d1e5de"
+    },
+    {
+      "paperId": "5180d3b516d58313e04d32d4985cf187160e6d7e"
+    },
+    {
+      "paperId": "ca45e70c4094d2e1592c5d1e0f9818df7190e007"
+    },
+    {
+      "paperId": "351b406dbfabd14d472c2f4ab17671fb300ded4a"
+    },
+    {
+      "paperId": "d9aabb916114b7bf04504733ec37390bab76b717"
+    },
+    {
+      "paperId": "109fcf9833a250d6bec7ced559d87c74018f92e5"
+    },
+    {
+      "paperId": "ba94929b250760e6a00fc333b5c3cf33c8ed0647"
+    },
+    {
+      "paperId": "47f39cbb4921dcd1640b849ce16e37ed536dd1fd"
+    },
+    {
+      "paperId": "17062cb8c7fb97c91120ff4617345b78eaed627d"
+    },
+    {
+      "paperId": "e20995f71b5540eeda0d5993018a0e292f073a3c"
+    },
+    {
+      "paperId": "2e7c65a806fc41df5e5c1039e69b3426b4eed591"
+    },
+    {
+      "paperId": "63099959788acd686ab42c1257a3d0080f68b94e"
+    },
+    {
+      "paperId": "9edf3d3a3a1325487abe2afc8a059011f0db0128"
+    },
+    {
+      "paperId": "40b02e28854078f8f0e38c0adaa49519677d5e71"
+    },
+    {
+      "paperId": "f3744b75f529afbca8f82c81d9b30f11791c0297"
+    },
+    {
+      "paperId": "e47b116ad942fffb241a7727c3a33ac97ef7e0eb"
+    },
+    {
+      "paperId": "eb1d72d3a4b3c190fb89d1f8d539ca975d41f3b2"
+    },
+    {
+      "paperId": "2a61a2ab10b9e87e4a49ce384e8d2c6c1b0a8c2c"
+    },
+    {
+      "paperId": "c794af0afbdb4b18f9c23ef3c3ba26071986b041"
+    },
+    {
+      "paperId": "c1d3edc35f13dc64c3b60bd15abff7a741653d6f"
+    },
+    {
+      "paperId": "30225be98739ddd0d2434ca20a344357ff384b9f"
+    },
+    {
+      "paperId": "d05289342bd898de692fa60f9ba6a3fd81a40487"
+    },
+    {
+      "paperId": "921e1d57967aa978966705231b028341c775b317"
+    },
+    {
+      "paperId": "88dd5e2683a5fa5072bf8e4ed9bd257b12b1e980"
+    },
+    {
+      "paperId": "537671b56e33204790bbd428fd708a6a9ef00eb6"
+    },
+    {
+      "paperId": "16cf42b0481042514a983e48b9994d60145553f1"
+    },
+    {
+      "paperId": "323c52cddef7a35732afdc41dac2a1aa6cb60f16"
+    },
+    {
+      "paperId": "e6dadf5c7869e9f6e7ac36f89aa3ad7bd7a89759"
+    },
+    {
+      "paperId": "d5612a50a36de13f5712b1cc4bac93703064994c"
+    },
+    {
+      "paperId": "ea9b216aba02e5114cfd2e9975e2d4e5bd5eb3c5"
+    },
+    {
+      "paperId": "1e95c6bfccb67daada8e123ae413b930ba2eda68"
+    },
+    {
+      "paperId": "14b9d6781e8870cd058640898f9917d3863a262b"
+    },
+    {
+      "paperId": "fc92cf876b674591544d0367fab810be9a2ec9dd"
+    },
+    {
+      "paperId": "ac8090279bafd27ee43776aafbe49cd95b15c106"
+    },
+    {
+      "paperId": "26e1ee3b8efd974dd6545cda87ac8040f9618b2e"
+    },
+    {
+      "paperId": "5b8a31056488142a21ebe4667c12ce7547baf193"
+    },
+    {
+      "paperId": "2aa3a7aefaf61b536636180f93bfdea391cd4c20"
+    },
+    {
+      "paperId": "ef302e9c4c0fd9640659d3e538a44643d1656d72"
+    },
+    {
+      "paperId": "b736877eeaaee3ea14bd356e45f2d5b719d93e56"
+    },
+    {
+      "paperId": "efcedb5970b6f20333f2bdd7804844585e7436b3"
+    },
+    {
+      "paperId": "bb357315aedfd3bc1445ac386e110c0e9c91d59e"
+    },
+    {
+      "paperId": "955fe5b0eb5e9fefab7bf21dede20e1285dca410"
+    },
+    {
+      "paperId": "ecf106252d5c0246df11187a6ae49d4556ffb08d"
+    },
+    {
+      "paperId": "525a7f5e69a8a2c114bddee2497fb57b0bc912d4"
+    },
+    {
+      "paperId": "fb61e720b13500d363c72f6e89d94deb436d841c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9f396fa218965561804a98a0f29414a5b6fa42d6"
+    }
+  ]
+}

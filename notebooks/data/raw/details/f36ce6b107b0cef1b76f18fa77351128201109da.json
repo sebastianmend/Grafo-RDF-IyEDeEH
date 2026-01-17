@@ -1,0 +1,43 @@
+{
+  "paperId": "f36ce6b107b0cef1b76f18fa77351128201109da",
+  "externalIds": {
+    "MAG": "2809666330",
+    "DBLP": "journals/ral/BosiljDC18",
+    "DOI": "10.1109/LRA.2018.2848305",
+    "CorpusId": 49653005
+  },
+  "url": "https://www.semanticscholar.org/paper/f36ce6b107b0cef1b76f18fa77351128201109da",
+  "title": "Analysis of Morphology-Based Features for Classification of Crop and Weeds in Precision Agriculture",
+  "venue": "IEEE Robotics and Automation Letters",
+  "year": 2018,
+  "citationCount": 35,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LRA.2018.2848305?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LRA.2018.2848305, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "1849511",
+      "name": "Petra Bosilj"
+    },
+    {
+      "authorId": "1793716",
+      "name": "T. Duckett"
+    },
+    {
+      "authorId": "2763480",
+      "name": "Grzegorz Cielniak"
+    }
+  ],
+  "abstract": "Determining the types of vegetation present in an image is a core step in many precision agriculture tasks. In this letter, we focus on pixel-based approaches for classification of crops versus weeds, especially for complex cases involving overlapping plants and partial occlusion. We examine the benefits of multiscale and content-driven morphology-based descriptors called attribute profiles. These are compared to the state-of-the-art keypoint descriptors with a fixed neighborhood previously used in precision agriculture, namely histograms of oriented gradients and local binary patterns. The proposed classification technique is especially advantageous when coupled with morphology-based segmentation on a max-tree structure, as the same representation can be reused for feature extraction. The robustness of the approach is demonstrated by an experimental evaluation on two datasets with different crop types, while being able to provide descriptors at a higher resolution. The proposed approach compared favorably to the state-of-the-art approaches without an increase in computational complexity, while being able to provide descriptors at a higher resolution.",
+  "references": null
+}

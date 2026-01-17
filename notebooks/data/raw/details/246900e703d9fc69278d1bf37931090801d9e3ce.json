@@ -1,0 +1,169 @@
+{
+  "paperId": "246900e703d9fc69278d1bf37931090801d9e3ce",
+  "externalIds": {
+    "DBLP": "journals/fi/TouseauS19",
+    "MAG": "2914178424",
+    "DOI": "10.3390/fi11020033",
+    "CorpusId": 77394386
+  },
+  "url": "https://www.semanticscholar.org/paper/246900e703d9fc69278d1bf37931090801d9e3ce",
+  "title": "Contribution of the Web of Things and of the Opportunistic Computing to the Smart Agriculture: A Practical Experiment",
+  "venue": "Future Internet",
+  "year": 2019,
+  "citationCount": 23,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1999-5903/11/2/33/pdf?version=1549078346",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi11020033?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi11020033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2499984",
+      "name": "Lionel Touseau"
+    },
+    {
+      "authorId": "1887907",
+      "name": "N. L. Sommer"
+    }
+  ],
+  "abstract": "With the emergence of the Internet of Things, environmental sensing has been gaining interest, promising to improve agricultural practices by facilitating decision-making based on gathered environmental data (i.e., weather forecasting, crop monitoring, and soil moisture sensing). Environmental sensing, and by extension what is referred to as precision or smart agriculture, pose new challenges, especially regarding the collection of environmental data in the presence of connectivity disruptions, their gathering, and their exploitation by end-users or by systems that must perform actions according to the values of those collected data. In this paper, we present a middleware platform for the Internet of Things that implements disruption tolerant opportunistic networking and computing techniques, and that makes it possible to expose and manage physical objects through Web-based protocols, standards and technologies, thus providing interoperability between objects and creating a Web of Things (WoT). This WoT-based opportunistic computing approach is backed up by a practical experiment whose outcomes are presented in this article.",
+  "references": [
+    {
+      "paperId": "2867cc35643747d1ee4aebbca44130584628950b"
+    },
+    {
+      "paperId": "dd02278dba9974720936ba620951e021a30fd9e1"
+    },
+    {
+      "paperId": "de8fcbd011b9c4418010071de07b34e1f75a77b7"
+    },
+    {
+      "paperId": "9e6e030c5c1aacf26a38613e47430768b4dc6ff6"
+    },
+    {
+      "paperId": "4196cfaf354cd0cabab206bb932c135a173bf1b9"
+    },
+    {
+      "paperId": "71111d953442bbd631da9f1a3cf9c7b3d74702de"
+    },
+    {
+      "paperId": "be0dfa53b1df4925b6681f10f2204594ae198fd1"
+    },
+    {
+      "paperId": "3032adb573fc284de0b7a90d16c77b48875f5fe4"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "f393fed5983b8cd84f16037b577070b744f39c97"
+    },
+    {
+      "paperId": "8d3266c9a3a309e1b490ef36b8e8be9c4961d97a"
+    },
+    {
+      "paperId": "f04d69619b5ea9bc998349290331680715cf740b"
+    },
+    {
+      "paperId": "9906b637945b33c7c35345b20d3813c0592ea115"
+    },
+    {
+      "paperId": "16e6b778046c509e19632fbdabc3588a8246f24e"
+    },
+    {
+      "paperId": "2fda2474d126669052144b3876579caf7ad03517"
+    },
+    {
+      "paperId": "66e72f5ee04faadc4e79842d2dbb65e51545f995"
+    },
+    {
+      "paperId": "93fa8b2862d52778f10190f768b0fd77b655a5f7"
+    },
+    {
+      "paperId": "73d57eabf65a4608ca252493f90d4435855f353f"
+    },
+    {
+      "paperId": "2fcbf8dd8c3646a625ec296429a7684823c78f6f"
+    },
+    {
+      "paperId": "e3dd0a257737895263ba4c500fbbd403fb7645cf"
+    },
+    {
+      "paperId": "fad324fc400c5649c8b5c9ab94e281cf371560b7"
+    },
+    {
+      "paperId": "8075c73fd8b13fa9663230a383f5712bf210ebcf"
+    },
+    {
+      "paperId": "678b7e3295117af3a99a96008b57ab546e1869c6"
+    },
+    {
+      "paperId": "d3c80febc7399b9248003dd3f07898601b20f536"
+    },
+    {
+      "paperId": "2ef593cdd0875e7d9d5fbf7271fa5327166560b5"
+    },
+    {
+      "paperId": "74ecaf2a1b0a6232cd71f00c557739e9e4d11916"
+    },
+    {
+      "paperId": "28ceaea4d7f4afbb612fb74c4257161894f82492"
+    },
+    {
+      "paperId": "37047574b3ba46d5d766e638ffe6c786c926951e"
+    },
+    {
+      "paperId": "71b96e1f86e12960d095ee02a891c56553a3fbc2"
+    },
+    {
+      "paperId": "4c2c5300b7e2403e7fdc4e326eb1bccc804ae9d0"
+    },
+    {
+      "paperId": "b57c405d0b3183716171a403a69eb0abf2d10b31"
+    },
+    {
+      "paperId": "fc0d466e44bb48ae86c4181c6d40d3307b682343"
+    },
+    {
+      "paperId": "601c4fe84a7e38766d7611bbf2412c8fbb4c87f0"
+    },
+    {
+      "paperId": "d342c54cbba28cf4fdc1f97df7ab72f96d965d23"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "dafd1fd9ca9230fb3d2f98c12cd7f4aa54a98a2a"
+    },
+    {
+      "paperId": "f784879a30f6cb43be178d5ba4ebe99ff855682e"
+    },
+    {
+      "paperId": "37afe9bf04a3582e20a879c162ba8e239d4de9cc"
+    },
+    {
+      "paperId": "0f47bd33794eb6fd527c8972cdf8e1e5dcc2a9e1"
+    },
+    {
+      "paperId": "faf4491e22834531a8090ad2e8f9db77349b896c"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

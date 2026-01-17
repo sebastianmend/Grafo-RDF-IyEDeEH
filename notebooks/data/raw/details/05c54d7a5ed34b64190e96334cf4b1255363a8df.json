@@ -1,0 +1,56 @@
+{
+  "paperId": "05c54d7a5ed34b64190e96334cf4b1255363a8df",
+  "externalIds": {
+    "MAG": "2944578655",
+    "DBLP": "conf/IEEEants/GuptaGKMSD18",
+    "DOI": "10.1109/ANTS.2018.8710048",
+    "CorpusId": 148573649
+  },
+  "url": "https://www.semanticscholar.org/paper/05c54d7a5ed34b64190e96334cf4b1255363a8df",
+  "title": "A Real-time Precision Agriculture Monitoring System using Mobile Sink in WSNs",
+  "venue": "International Workshop on Ant Colony Optimization and Swarm Intelligence",
+  "year": 2018,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ANTS.2018.8710048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ANTS.2018.8710048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "40511771",
+      "name": "Ashish Gupta"
+    },
+    {
+      "authorId": "15966255",
+      "name": "Hari Prabhat Gupta"
+    },
+    {
+      "authorId": "49236705",
+      "name": "Preti Kumari"
+    },
+    {
+      "authorId": "1845888952",
+      "name": "Rahul Mishra"
+    },
+    {
+      "authorId": "40843998",
+      "name": "Surbhi Saraswat"
+    },
+    {
+      "authorId": "1778257",
+      "name": "Tanima Dutta"
+    }
+  ],
+  "abstract": "Recent advances in sensor technology has influenced various aspects of human-life. It has highly improved the monitoring and control applications. Precision agriculture is one such application that requires real-time monitoring of agricultural field to take smarter decisions. A deterministic deployment strategy in Wireless Sensor Networks (WSNs) is used to deploy sensor nodes in a predefine deployment pattern to cover the entire monitoring region. This paper presents a system that monitors the agricultural field in real-time by using a single mobile sink in WSNs. We use the square deployment pattern for placement of the sensors in the agriculture field. A prototype is also developed and tested on real-time agricultural field data. The prototype uses temperature, humidity, and soil moisture sensors attached with NodeMCU. The system uses Wi-Fi for transferring the data collected from sensors to the mobile sink.",
+  "references": null
+}

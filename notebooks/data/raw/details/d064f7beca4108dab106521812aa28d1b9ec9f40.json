@@ -1,0 +1,43 @@
+{
+  "paperId": "d064f7beca4108dab106521812aa28d1b9ec9f40",
+  "externalIds": {
+    "MAG": "2891973815",
+    "DOI": "10.1109/ICUAS.2018.8453386",
+    "CorpusId": 52159106
+  },
+  "url": "https://www.semanticscholar.org/paper/d064f7beca4108dab106521812aa28d1b9ec9f40",
+  "title": "Coverage Path Planning for Surveying Disjoint Areas",
+  "venue": "International Conference on Unmanned Aircraft Systems",
+  "year": 2018,
+  "citationCount": 46,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICUAS.2018.8453386?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICUAS.2018.8453386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "1399074460",
+      "name": "J. I. Vasquez-Gomez"
+    },
+    {
+      "authorId": "1403834299",
+      "name": "J. Herrera-Lozada"
+    },
+    {
+      "authorId": "1403977304",
+      "name": "M. Olguín-Carbajal"
+    }
+  ],
+  "abstract": "Terrain surveying using unmanned aerial vehicles (UAV) is being applied to many areas such as precision agriculture or battlefield surveillance. A core problem of the surveying task is the coverage path planning problem (CPP); it is defined as the task of determining a path for an unmanned aerial vehicle so that it observes all points of a target area. State-of-the-art planners solve the problem for a unique region. However, in some operations, for example search and rescue, it is important to plan a path that covers more than a single area. We propose a method for solving the CPP for disjoint areas. The general problem is modeled as a rural postman problem which has been demonstrated to be NP-Hard. Our solution relies on dividing the problem into two steps: optimization of the visiting order and optimization of the flight lines orientation. The method is validated through several simulations using real parameters. In addition, it is fast enough for being implemented onboard.",
+  "references": null
+}

@@ -1,0 +1,61 @@
+{
+  "paperId": "1f002cdfc48fc620df218574b65e482aca53ac7e",
+  "externalIds": {
+    "DOI": "10.1088/1755-1315/170/3/032142",
+    "CorpusId": 240485721
+  },
+  "url": "https://www.semanticscholar.org/paper/1f002cdfc48fc620df218574b65e482aca53ac7e",
+  "title": "Field Information Collection Design and Experiment in Precision Agriculture",
+  "venue": "IOP Conference Series: Earth and Environment",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1088/1755-1315/170/3/032142",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/170/3/032142?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/170/3/032142, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Physics"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "52449437",
+      "name": "C. Meng"
+    },
+    {
+      "authorId": "2151302304",
+      "name": "Guangyu Li"
+    },
+    {
+      "authorId": "2152478524",
+      "name": "Feng Xu"
+    },
+    {
+      "authorId": "2146361450",
+      "name": "Jianfei Li"
+    }
+  ],
+  "abstract": "Under the guidance of modern precision agriculture management, the author followed the agronomic requirements of field operation and selected the experimental field to collect and test the agricultural field information with the quick test technique. It is concluded that the experimental field is alkaline soil, the nitrogen, phosphorus and potassium distributed unevenly in the soil, the organic matter contents in small amount, the trace element is in low effectiveness. Furthermore, the author discusses the improved method and provides the data support for the local agricultural operation, which can thus reduce the information collection period and cost of the field equipment.",
+  "references": [
+    {
+      "paperId": "76e73a0da4613731f855620db46df430467fd979"
+    },
+    {
+      "paperId": "7dfc5b287d010b722f2a85d2b17529d50653e098"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "27b0f0f54ae55ce6d6eb2203f2b16c4217b80807",
+  "externalIds": {
+    "DOI": "10.25680/s19948603.2018.100.13",
+    "CorpusId": 274560299
+  },
+  "url": "https://www.semanticscholar.org/paper/27b0f0f54ae55ce6d6eb2203f2b16c4217b80807",
+  "title": "РОБОТОТЕХНИКА В АГРОХИМИИ ТОЧНОГО ЗЕМЛЕДЕЛИЯ",
+  "venue": "Плодородие",
+  "year": 2018,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.25680/s19948603.2018.100.13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.25680/s19948603.2018.100.13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2334187558",
+      "name": "Измайлов А.Ю."
+    },
+    {
+      "authorId": "2334174885",
+      "name": "Годжаев З.А."
+    },
+    {
+      "authorId": "2330208073",
+      "name": "Сычев В.Г."
+    },
+    {
+      "authorId": "2334062359",
+      "name": "Афанасьев Р.А."
+    }
+  ],
+  "abstract": "Проведен анализ почвенных, интеллектуальных и технических ресурсов, способных оказать существенное влияние на совершенствование систем применения удобрений, в частности на развитие технологий точного зем- леделия. Показаны характерные закономерности внутрипольной пестроты плодородия почв, которые должны учитываться при проектировании и создании техники для дифференцированного применения удобрений в техно- логиях точного (координатного) земледелия. Выявлены условия эффективности дифференцированного внесения агрохимических средств в зависимости от выраженности внутрипольной вариабельности агрохимическиких по- казателей плодородия почвы.\n The current study presents an analysis of soil, intellectual and technical resources that could influence on improvement of fertilizer ap- plication systems including the development of precision agriculture technologies. The study shows characteristic patterns of soil in-field diversity of fertility that have to be taken in account during the designing and building of technical devices for differential application of fertilizers in technologies of precision (coordinate) agriculture. In our study we identified the conditions of effective differential agro- chemicals application depended on the degree of in-field variability of agrochemical soil fertility properties.",
+  "references": null
+}

@@ -1,0 +1,49 @@
+{
+  "paperId": "0ab31eac998079d62cf345fa07b98746cffde94b",
+  "externalIds": {
+    "MAG": "2979453118",
+    "DBLP": "conf/mobicom/KimRLK19",
+    "DOI": "10.1145/3300061.3343400",
+    "CorpusId": 204728597
+  },
+  "url": "https://www.semanticscholar.org/paper/0ab31eac998079d62cf345fa07b98746cffde94b",
+  "title": "Poster: SeamFarm -- Distributed Data Analytic for Precision Agriculture based on Seamless Computing",
+  "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
+  "year": 2019,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3300061.3343400?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3300061.3343400, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "2156547433",
+      "name": "Da-Hye Kim"
+    },
+    {
+      "authorId": "51063622",
+      "name": "Muhammad Rusyadi Ramli"
+    },
+    {
+      "authorId": "120704782",
+      "name": "Jae-Min Lee"
+    },
+    {
+      "authorId": "2157216557",
+      "name": "Dong‐Seong Kim"
+    }
+  ],
+  "abstract": "This work proposes a framework for distributed data analytic for precision agriculture based on seamless computing paradigm named SeamFarm. Generally, heterogeneous nodes deployed for precision agriculture where these nodes generated an extensive amount of data. Then machine learning can be used to analyze this data for precision agriculture. However, most of the IoT devices are resource-constrained devices, which results in poor performance while conducting a machine learning task. Thus, in SeamFarm, we consider distributing the data as well as the task to all available nodes. The results show that SeamFarm can meet all of the functional and non-functional requirements of distributed data analytic for precision agriculture. Moreover, it can obtain faster data analytic results.",
+  "references": null
+}

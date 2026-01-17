@@ -1,0 +1,236 @@
+{
+  "paperId": "e8ed736a9f434ef96ed5d3e3708b2161d5048e09",
+  "externalIds": {
+    "DBLP": "journals/sensors/JawadNGJIA18",
+    "PubMedCentral": "6211029",
+    "MAG": "2897510474",
+    "DOI": "10.3390/s18103450",
+    "CorpusId": 52988027,
+    "PubMed": "30322176"
+  },
+  "url": "https://www.semanticscholar.org/paper/e8ed736a9f434ef96ed5d3e3708b2161d5048e09",
+  "title": "Power Reduction with Sleep/Wake on Redundant Data (SWORD) in a Wireless Sensor Network for Energy-Efficient Precision Agriculture",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2018,
+  "citationCount": 39,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/18/10/3450/pdf?version=1539428837",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6211029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "31548736",
+      "name": "H. Jawad"
+    },
+    {
+      "authorId": "145641122",
+      "name": "R. Nordin"
+    },
+    {
+      "authorId": "2389255",
+      "name": "S. Gharghan"
+    },
+    {
+      "authorId": "40454886",
+      "name": "A. Jawad"
+    },
+    {
+      "authorId": "143652229",
+      "name": "M. Ismail"
+    },
+    {
+      "authorId": "1404221218",
+      "name": "M. Abu-AlShaeer"
+    }
+  ],
+  "abstract": "The use of wireless sensor networks (WSNs) in modern precision agriculture to monitor climate conditions and to provide agriculturalists with a considerable amount of useful information is currently being widely considered. However, WSNs exhibit several limitations when deployed in real-world applications. One of the challenges faced by WSNs is prolonging the life of sensor nodes. This challenge is the primary motivation for this work, in which we aim to further minimize the energy consumption of a wireless agriculture system (WAS), which includes air temperature, air humidity, and soil moisture. Two power reduction schemes are proposed to decrease the power consumption of the sensor and router nodes. First, a sleep/wake scheme based on duty cycling is presented. Second, the sleep/wake scheme is merged with redundant data about soil moisture, thereby resulting in a new algorithm called sleep/wake on redundant data (SWORD). SWORD can minimize the power consumption and data communication of the sensor node. A 12 V/5 W solar cell is embedded into the WAS to sustain its operation. Results show that the power consumption of the sensor and router nodes is minimized and power savings are improved by the sleep/wake scheme. The power consumption of the sensor and router nodes is improved by 99.48% relative to that in traditional operation when the SWORD algorithm is applied. In addition, data communication in the SWORD algorithm is minimized by 86.45% relative to that in the sleep/wake scheme. The comparison results indicate that the proposed algorithms outperform power reduction techniques proposed in other studies. The average current consumptions of the sensor nodes in the sleep/wake scheme and the SWORD algorithm are 0.731 mA and 0.1 mA, respectively.",
+  "references": [
+    {
+      "paperId": "f575f6fafcc1da693b272894185768bf632ee153"
+    },
+    {
+      "paperId": "0df315acaf364969796f08c843343c89a0a4d12e"
+    },
+    {
+      "paperId": "754b667cccdc591209f7379113ae01a07cd32651"
+    },
+    {
+      "paperId": "0050482b28f8d5e517ccf9094b09a08a86d90c72"
+    },
+    {
+      "paperId": "84c56456c309e6147cbc119032700291730bb7cc"
+    },
+    {
+      "paperId": "b1da7ce9ee0afd39a470d2a5a83342da1208dbd1"
+    },
+    {
+      "paperId": "3ae2bf33f8b1526fdb24474c71dd77e9b3bea4a6"
+    },
+    {
+      "paperId": "90ecc96834af646b154d257aacc7c877a1de0c59"
+    },
+    {
+      "paperId": "34d4e2b298e6e2fba9b222f090d2c5481c5af221"
+    },
+    {
+      "paperId": "8b7d3b636820d21aaebef6b16fb68146e92830ab"
+    },
+    {
+      "paperId": "ed9bb6187a1d3d33ba4c8cd13154c07402ee0074"
+    },
+    {
+      "paperId": "fb2c4a298092fe62073909f71d8c7ba6f9c97b76"
+    },
+    {
+      "paperId": "df97a76f077a994f4c36b06163ded06408e09872"
+    },
+    {
+      "paperId": "9e7671a7a1ec99a919b16071f02b47e0cfbe2993"
+    },
+    {
+      "paperId": "974eac1dce0e6bf1caa6d6233e3f3e672f9b4e34"
+    },
+    {
+      "paperId": "110c833c259346c60889d6e46a728514176eecbb"
+    },
+    {
+      "paperId": "77e90ca32477d993a0dc6f96c8c8925b49d7aa3d"
+    },
+    {
+      "paperId": "15604a377253a7f0461858af96b8837447837115"
+    },
+    {
+      "paperId": "e0416e5f3f99aa0d995843d7d40215fb0e2b1ca3"
+    },
+    {
+      "paperId": "7b9af28e6024c82ce6af99853f98624659f9be76"
+    },
+    {
+      "paperId": "c819d3011bbf46c7ab9263e66f1fa4e1cf1eb46e"
+    },
+    {
+      "paperId": "e65a2eae2cd1183af3e69713a481f59a3b7edcbd"
+    },
+    {
+      "paperId": "eaf5ee8e3af0426df6e74d435b3193a2d60685a6"
+    },
+    {
+      "paperId": "0216d5439038b03ebec8d02966500d3a38e72845"
+    },
+    {
+      "paperId": "252f119ad34569435dc864ecc86e968e6b998ea1"
+    },
+    {
+      "paperId": "c3034c2476af69e0e279899e3ffd0749a5e784f4"
+    },
+    {
+      "paperId": "de2f423979e2e92e46600528170887c84f7c3943"
+    },
+    {
+      "paperId": "14949a73f167de08473c1f68ef9419cab475a1ca"
+    },
+    {
+      "paperId": "c12e46997cfa95da7089472c60e23134fcdf6734"
+    },
+    {
+      "paperId": "2ddbd2e8c4cf7c89c2e6292487eeeaeb1b5dcf7b"
+    },
+    {
+      "paperId": "62e430466b29709d3d63e7a02b154552d3879965"
+    },
+    {
+      "paperId": "23b1ab25f2d264fc3325d9657c7729cbd007adc3"
+    },
+    {
+      "paperId": "ff8f5368f37b7f6e305b19f6da23e8dfd19b83ec"
+    },
+    {
+      "paperId": "12af3bbe1514043db10d3ee3a99f53a7f56edc23"
+    },
+    {
+      "paperId": "5136c1a9ba338c024b3a3a7d8f9e28658b59bcaa"
+    },
+    {
+      "paperId": "bd9bbea6bdc237cba831fa0680845d50399a6b51"
+    },
+    {
+      "paperId": "b1074fb040b3062ff9624248b49b8cc6e560c622"
+    },
+    {
+      "paperId": "1863518d2df1444e3c6260a79dfa530a63a88003"
+    },
+    {
+      "paperId": "03ac748d09bf3c37e67935c434ced867699ed53f"
+    },
+    {
+      "paperId": "7b48f7184e76ce87f7bcc78f432c402665e83073"
+    },
+    {
+      "paperId": "a8c5c203c43e2422de16a68450783058ca98b259"
+    },
+    {
+      "paperId": "b9a92fdfa7aec7973fc9394fef7e06fcfd3bc546"
+    },
+    {
+      "paperId": "b79209a601cd2d13d28ef781938ce46c84f7458d"
+    },
+    {
+      "paperId": "55f1c5fab75e4ad00a28ed79bf6f7b95f488c93a"
+    },
+    {
+      "paperId": "9a4cba8bd3659d1471487ae22d7e5bc29992cb33"
+    },
+    {
+      "paperId": "841364e8a1304842df22eb64530ad02be302c3f9"
+    },
+    {
+      "paperId": "7123ba636b7636e8265e7b931540ff78cea2ee2c"
+    },
+    {
+      "paperId": "ea8654f2f1fc04aa5323121a711b55df2ffe1c49"
+    },
+    {
+      "paperId": "d480edd6ef61940a177c0491c96ac5cce0716feb"
+    },
+    {
+      "paperId": "12cead0586c354a28ba3ad9d495197204e172590"
+    },
+    {
+      "paperId": "f837c7493beca5d84772c3f67ad03743debf1f68"
+    },
+    {
+      "paperId": "4584396e316acb291b2a90cf19880aee4ea8fad9"
+    },
+    {
+      "paperId": "3d8f4e0029190b9ae6de0fe8b8b14b0cf78524b1"
+    },
+    {
+      "paperId": "e3cb6605aedd0f6762d97622b7cb6efa9e86de2d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "9c820f79f7d31f603458740d256b3df304bea8ad"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "paperId": "e9e13b474e73841905f9dd953773c713e40d6410",
+  "externalIds": {
+    "MAG": "2898413242",
+    "DOI": "10.1089/omi.2018.0167",
+    "CorpusId": 53105357,
+    "PubMed": "30362880"
+  },
+  "url": "https://www.semanticscholar.org/paper/e9e13b474e73841905f9dd953773c713e40d6410",
+  "title": "Is Space the New Frontier for Omics? Mars-Omics, Planetary Science, and the Next-Generation Technology Futurists",
+  "venue": "Omics",
+  "year": 2018,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1089/omi.2018.0167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/omi.2018.0167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Engineering",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "Review",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "48943981",
+      "name": "M. Bayram"
+    },
+    {
+      "authorId": "81708230",
+      "name": "Remziye Asar"
+    },
+    {
+      "authorId": "50765298",
+      "name": "V. Özdemir"
+    }
+  ],
+  "abstract": "Abstract Omics technologies are key to research and innovation in human health, food and nutrition, drugs, agriculture, and ecology research. Yet, the actual scope of applications is much broader. One emerging possibility is planetary science driven in part by current debates on and possibilities for travel to Mars. In July 2018, radar evidence has suggested the presence of subglacial liquid water in a 20-km-wide zone, likely a saltwater lake, in the Planum Australe region in the south pole of Mars. If confirmed, this will be a promising place to search for microbial life on the red planet. Meanwhile, existential threats to life on earth such as climate change are bolstering the current interests by spacefaring nations for manned long-term space travel to other planets. A new global space industry is also on the rise; Mars-related technology innovation could potentially allow for rapid Earth-to-Earth transport as well, for example, in times of humanitarian and ecological crisis. Against this overarching context, we coin and define here the new concept of “Mars-omics”: the systems level study of how travel to and being on Mars affect human health, and how human presence on Mars impacts the life forms that might already be there, through changes such as space agriculture and other planetary transformations in Mars. Additionally, Mars-omics calls for new ways of thinking about scientific uncertainty and technology futures in such highly novel contexts. For example, how shall we frame scientific uncertainty when extrapolation of scientific unknowns across the planets is vastly difficult, nonlinear, and complex? Is uncertainty an accident or integral part of emerging technologies? These questions are important for achieving new relevance for and future progress in omics system science applications in planetary science and space explorations. In summary, this article suggests that omics has relevance in contexts beyond those on planet Earth. Moreover, past omics applications such as precision medicine may need to be reconceptualized in future novel settings, such as long-term space travel. We conclude the article with the key tenets of next-generation futurists in a context of Mars-omics. Space (still) is the final frontier for humans, medicine, engineering, and omics.",
+  "references": null
+}

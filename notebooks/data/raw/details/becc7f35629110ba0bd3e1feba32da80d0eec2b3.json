@@ -1,0 +1,52 @@
+{
+  "paperId": "becc7f35629110ba0bd3e1feba32da80d0eec2b3",
+  "externalIds": {
+    "DBLP": "conf/icarsc/SantosSM0R19",
+    "MAG": "2950854291",
+    "DOI": "10.1109/ICARSC.2019.8733630",
+    "CorpusId": 183595285
+  },
+  "url": "https://www.semanticscholar.org/paper/becc7f35629110ba0bd3e1feba32da80d0eec2b3",
+  "title": "Path Planning approach with the extraction of Topological Maps from Occupancy Grid Maps in steep slope vineyards",
+  "venue": "2019 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)",
+  "year": 2019,
+  "citationCount": 22,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICARSC.2019.8733630?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICARSC.2019.8733630, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "153423509",
+      "name": "L. Santos"
+    },
+    {
+      "authorId": "40383247",
+      "name": "F. Santos"
+    },
+    {
+      "authorId": "148087300",
+      "name": "S. Magalhães"
+    },
+    {
+      "authorId": "120201547",
+      "name": "P. Costa"
+    },
+    {
+      "authorId": "2053096252",
+      "name": "Ricardo Reis"
+    }
+  ],
+  "abstract": "Robotic platforms are being developed for precision agriculture, to execute repetitive and long term tasks. Autonomous monitoring, pruning, spraying and harvesting are some of these agricultural tasks, which requires an advanced path planning system aware of maximum robot capabilities (mobile platform and arms), terrain slopes and plant/fruits position. The state of the art path planning systems have two limitations: are not optimized for large regions and the path planning is not aware of agricultural tasks requirements. This work presents two solutions to overcome these limitations. It considers the VGR2TO (Vineyard Grid Map to Topological) approach to extract from a 2D grid map a topological map, to reduce the total amount of memory needed by the path planning algorithm and to reduce path search space. Besides, introduces an extension to the chosen algorithm, the Astar algorithm, to ensure a safe path and a maximum distance from the vine trees to enable robotic operations on the tree and its fruits.",
+  "references": null
+}

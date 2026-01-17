@@ -1,0 +1,50 @@
+{
+  "paperId": "f1c33979786eebeb12ae2a7f7a42c25d65162bca",
+  "externalIds": {
+    "MAG": "2968288525",
+    "DOI": "10.1109/EMES.2019.8795102",
+    "CorpusId": 201069016
+  },
+  "url": "https://www.semanticscholar.org/paper/f1c33979786eebeb12ae2a7f7a42c25d65162bca",
+  "title": "Efficient IoT system for Precision Agriculture",
+  "venue": "International Conference on Engineering of Modern Electric Systems",
+  "year": 2019,
+  "citationCount": 15,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/EMES.2019.8795102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/EMES.2019.8795102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "1736971",
+      "name": "G. Suciu"
+    },
+    {
+      "authorId": "40503926",
+      "name": "I. Marcu"
+    },
+    {
+      "authorId": "49878119",
+      "name": "C. Balaceanu"
+    },
+    {
+      "authorId": "51244902",
+      "name": "M. Dobrea"
+    },
+    {
+      "authorId": "98879174",
+      "name": "E. Botezat"
+    }
+  ],
+  "abstract": "The introduction of automation and telemetry systems in precision agriculture is an innovative approach that could conduct to the implementation of an information system that can provide data on irrigation during all year. Climate change and population growth contribute to a multitude of problems in agriculture and have an impact on farming practices. The need for an automation and telemetry system for irrigation is emphasized by the market's interest in having access to fully automated monitoring and automation solutions for energy-efficient and cost-effective agricultural crops. The advantages of system architecture presented in this paper consist in very low energy consumption, low management costs, scalability, forecasting functions, diagnosis, enlargement facility lead to an important technical impact and high potential for marketing. The aim of this paper is to use an integrated automation and telemetry solution in precision agriculture, taking into consideration the energy efficiency criteria and the latest technologies available on the market.",
+  "references": null
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "9b980b031a9fc9738fb52c5709727ccb92be683b",
+  "externalIds": {
+    "DBLP": "conf/bionetics/AlbaniMANT19",
+    "MAG": "2963197579",
+    "DOI": "10.1007/978-3-030-24202-2_10",
+    "CorpusId": 157063978
+  },
+  "url": "https://www.semanticscholar.org/paper/9b980b031a9fc9738fb52c5709727ccb92be683b",
+  "title": "Field Coverage for Weed Mapping: Toward Experiments with a UAV Swarm",
+  "venue": "International Conference on Bio-inspired Information and Communications Technologies",
+  "year": 2019,
+  "citationCount": 31,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-24202-2_10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-24202-2_10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "40288830",
+      "name": "Dario Albani"
+    },
+    {
+      "authorId": "15445416",
+      "name": "T. Manoni"
+    },
+    {
+      "authorId": "150892494",
+      "name": "Arikhan Arik"
+    },
+    {
+      "authorId": "144143750",
+      "name": "D. Nardi"
+    },
+    {
+      "authorId": "2805781",
+      "name": "V. Trianni"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

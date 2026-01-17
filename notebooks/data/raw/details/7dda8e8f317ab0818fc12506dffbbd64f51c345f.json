@@ -1,0 +1,43 @@
+{
+  "paperId": "7dda8e8f317ab0818fc12506dffbbd64f51c345f",
+  "externalIds": {
+    "MAG": "2981565399",
+    "DOI": "10.1109/ICSCAN.2019.8878816",
+    "CorpusId": 204863891
+  },
+  "url": "https://www.semanticscholar.org/paper/7dda8e8f317ab0818fc12506dffbbd64f51c345f",
+  "title": "A Systematic Study on Disease Recognition, Categorization, and Quantification in Agricultural Plants using Image Processing",
+  "venue": "2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN)",
+  "year": 2019,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSCAN.2019.8878816?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSCAN.2019.8878816, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference",
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2834319",
+      "name": "R. Sudhesh"
+    },
+    {
+      "authorId": "2380893890",
+      "name": "V. Nagalakshmi"
+    },
+    {
+      "authorId": "71757339",
+      "name": "A. Amirthasaravanan"
+    }
+  ],
+  "abstract": "Farming is tranquil the major monetary part and it is performing the foremost role in socioeconomic expansion of India. In this perspective, diagnosing diseases in an accurate and timely way is of utmost important task in the economic progress of the country. The important factor in lieu of low yield is the disease attack on plants. Development of an automated system for identifying and classifying different diseases of the contaminated plants is an emerging research area in precision agriculture. Current work holds a survey on disease recognition, categorization, and quantification on various agricultural plants. Since image processing techniques gives fast, consistent and accurate results it is implemented by numerous authors. This survey specifies clustering methods, color based image analysis methods and classifiers to identify diseases.",
+  "references": null
+}

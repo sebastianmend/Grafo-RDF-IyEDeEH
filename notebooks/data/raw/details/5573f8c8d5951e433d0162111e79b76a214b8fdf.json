@@ -1,0 +1,44 @@
+{
+  "paperId": "5573f8c8d5951e433d0162111e79b76a214b8fdf",
+  "externalIds": {
+    "DBLP": "conf/mipro/AndrewMB18",
+    "MAG": "2809849006",
+    "DOI": "10.23919/MIPRO.2018.8400066",
+    "CorpusId": 49558280
+  },
+  "url": "https://www.semanticscholar.org/paper/5573f8c8d5951e433d0162111e79b76a214b8fdf",
+  "title": "IoT solutions for precision agriculture",
+  "venue": "International Convention on Information and Communication Technology, Electronics and Microelectronics",
+  "year": 2018,
+  "citationCount": 31,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.23919/MIPRO.2018.8400066?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/MIPRO.2018.8400066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Environmental Science",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2071239986",
+      "name": "Richard Charles Andrew"
+    },
+    {
+      "authorId": "2798354",
+      "name": "R. Malekian"
+    },
+    {
+      "authorId": "3145295",
+      "name": "D. C. Bogatinoska"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

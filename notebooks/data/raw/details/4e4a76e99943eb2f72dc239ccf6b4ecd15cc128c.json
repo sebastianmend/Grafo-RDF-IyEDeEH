@@ -1,0 +1,48 @@
+{
+  "paperId": "4e4a76e99943eb2f72dc239ccf6b4ecd15cc128c",
+  "externalIds": {
+    "DBLP": "conf/icacds/Goap0SK18",
+    "MAG": "2898589799",
+    "DOI": "10.1007/978-981-13-1813-9_31",
+    "CorpusId": 135283980
+  },
+  "url": "https://www.semanticscholar.org/paper/4e4a76e99943eb2f72dc239ccf6b4ecd15cc128c",
+  "title": "Comparative Study of Regression Models Towards Performance Estimation in Soil Moisture Prediction",
+  "venue": "ICACDS",
+  "year": 2018,
+  "citationCount": 5,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-13-1813-9_31?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-13-1813-9_31, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "46594718",
+      "name": "Amarendra Goap"
+    },
+    {
+      "authorId": "2118803751",
+      "name": "Deepak Sharma"
+    },
+    {
+      "authorId": "2080179405",
+      "name": "A. K. Shukla"
+    },
+    {
+      "authorId": "2238452454",
+      "name": "C. R. Krishna"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

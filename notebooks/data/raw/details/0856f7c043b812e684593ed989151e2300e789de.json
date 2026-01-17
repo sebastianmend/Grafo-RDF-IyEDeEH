@@ -1,0 +1,44 @@
+{
+  "paperId": "0856f7c043b812e684593ed989151e2300e789de",
+  "externalIds": {
+    "MAG": "2791548120",
+    "DBLP": "journals/jocec/SchuetzSS18",
+    "DOI": "10.1080/10919392.2018.1444344",
+    "CorpusId": 19114426
+  },
+  "url": "https://www.semanticscholar.org/paper/0856f7c043b812e684593ed989151e2300e789de",
+  "title": "Building an active semantic data warehouse for precision dairy farming",
+  "venue": "Journal of Organizational Computing and Electronic Commerce",
+  "year": 2018,
+  "citationCount": 30,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/10919392.2018.1444344?needAccess=true",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10919392.2018.1444344?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10919392.2018.1444344, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Business",
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "2123220",
+      "name": "C. G. Schütz"
+    },
+    {
+      "authorId": "27066656",
+      "name": "Simon Schausberger"
+    },
+    {
+      "authorId": "1723099",
+      "name": "M. Schrefl"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

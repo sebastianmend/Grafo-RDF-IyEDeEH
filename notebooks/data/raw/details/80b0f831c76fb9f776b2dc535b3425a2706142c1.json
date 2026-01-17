@@ -1,0 +1,165 @@
+{
+  "paperId": "80b0f831c76fb9f776b2dc535b3425a2706142c1",
+  "externalIds": {
+    "PubMedCentral": "6133935",
+    "ArXiv": "1805.05427",
+    "MAG": "2949383185",
+    "DOI": "10.1038/s41377-018-0063-4",
+    "CorpusId": 52892548,
+    "PubMed": "30275946"
+  },
+  "url": "https://www.semanticscholar.org/paper/80b0f831c76fb9f776b2dc535b3425a2706142c1",
+  "title": "Wireless whispering-gallery-mode sensor for thermal sensing and aerial mapping",
+  "venue": "Light: Science & Applications",
+  "year": 2018,
+  "citationCount": 87,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41377-018-0063-4.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.05427, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science",
+    "Physics",
+    "Medicine"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "9303720",
+      "name": "Xiangyi Xu"
+    },
+    {
+      "authorId": "123106705",
+      "name": "Weijian Chen"
+    },
+    {
+      "authorId": "48665441",
+      "name": "Guangming Zhao"
+    },
+    {
+      "authorId": "2110453467",
+      "name": "Yihang Li"
+    },
+    {
+      "authorId": "2158095795",
+      "name": "Chenyang Lu"
+    },
+    {
+      "authorId": "1761224",
+      "name": "Lan Yang"
+    }
+  ],
+  "abstract": "The Internet of Things (IoT)1,2 employs a large number of spatially distributed wireless sensors to monitor physical environments, e.g., temperature, humidity, and air pressure, and has many applications, including environmental monitoring3, health care monitoring4, smart cities5, and precision agriculture. A wireless sensor can collect, analyze, and transmit measurements of its environment1,2. Currently, wireless sensors used in the IoT are predominately based on electronic devices that may suffer from electromagnetic interference in many circumstances. Being immune to the electromagnetic interference, optical sensors provide a significant advantage in harsh environments6. Furthermore, by introducing optical resonance to enhance light–matter interactions, optical sensors based on resonators exhibit small footprints, extreme sensitivity, and versatile functionalities7,8, which can significantly enhance the capability and flexibility of wireless sensors. Here we provide the first demonstration of a wireless photonic sensor node based on a whispering-gallery-mode (WGM) optical resonator, in which light propagates along the circular rim of such a structure like a sphere, a disk, or a toroid by continuous total internal reflection. The sensor node is controlled via a customized iOS app. Its performance was studied in two practical scenarios: (1) real-time measurement of the air temperature over 12 h and (2) aerial mapping of the temperature distribution using a sensor node mounted on an unmanned drone. Our work demonstrates the capability of WGM optical sensors in practical applications and may pave the way for the large-scale deployment of WGM sensors in the IoT.",
+  "references": [
+    {
+      "paperId": "4927bcf322e22552022a5916df729be2e24b52ca"
+    },
+    {
+      "paperId": "8231661d0aed219eeae44766d7896eb4083795d0"
+    },
+    {
+      "paperId": "411fa86bd8932f0800c81e43e08a563884745633"
+    },
+    {
+      "paperId": "8850a2e0b9bda722cdd5a05cc9e0ac1e780f817c"
+    },
+    {
+      "paperId": "5cec2ead0ce9520bb27c0a725709d2e1855638c5"
+    },
+    {
+      "paperId": "091c212ad77ed7089c868479e052661d90375fd9"
+    },
+    {
+      "paperId": "61f7f934bca0417359414bb0c94f4546225ab7b7"
+    },
+    {
+      "paperId": "bf1e9d707bd26d2ff0cef31664deb9e51f52371e"
+    },
+    {
+      "paperId": "1d9213a9ac1176f2c083cd3f4c39173bab408716"
+    },
+    {
+      "paperId": "4c0dccfb8c89c11ba1c9e1a6e708340ee70c8b7e"
+    },
+    {
+      "paperId": "1ad2574eedc2ad9d180c8546fd982c44eadf02c0"
+    },
+    {
+      "paperId": "abac83904c39a9f1841662106cb14516a7abd3d9"
+    },
+    {
+      "paperId": "2e0f349038fe73c4ed938da4796bbdc35cfc4758"
+    },
+    {
+      "paperId": "366e1694e63b7a335b103db6451d2dbb40253fb7"
+    },
+    {
+      "paperId": "4f71708b58af718926d4cff1b3be4e6fda6f676f"
+    },
+    {
+      "paperId": "52f168c6c4f42294c4c9f9305bc88b6d25ffec9a"
+    },
+    {
+      "paperId": "6ebf1aeada3d736d62dc2b425ef9093ff2e70a16"
+    },
+    {
+      "paperId": "29cddeaab1f69cfa7feb83a8e54d79dd4df5f77a"
+    },
+    {
+      "paperId": "3d39d78e7c05d29a2e7cc214da1a35e83737f96b"
+    },
+    {
+      "paperId": "ebd5009c529a633be8ebfe559dc989f6aa209be8"
+    },
+    {
+      "paperId": "aa689fd8399216b10ae5b044be1a7da10cdfd125"
+    },
+    {
+      "paperId": "170ee9747962f781dfcc6d89705f05c0c30fd4e8"
+    },
+    {
+      "paperId": "5dc02655e98fdbf7f1a23777678a8b17b3da6720"
+    },
+    {
+      "paperId": "16736179955c416c2e862b6d98cf90ad215103b2"
+    },
+    {
+      "paperId": "45152319b0eab31839b533d6371501f587f5c028"
+    },
+    {
+      "paperId": "c4e983830c8123108f49d483f3a28026d497638c"
+    },
+    {
+      "paperId": "07d9b0249dada63be26263140eb9434bf9697924"
+    },
+    {
+      "paperId": "c75864b0a3fc68a935c3db61f07b24352acac585"
+    },
+    {
+      "paperId": "14a00b29285a874f1fc1cf644e23074ed6e5c7a6"
+    },
+    {
+      "paperId": "8075c73fd8b13fa9663230a383f5712bf210ebcf"
+    },
+    {
+      "paperId": "1f005d7ce1e4ef7e90d19488e8e0362ebd41b3d9"
+    },
+    {
+      "paperId": "da6b97a3a6227ca8025c3f83378ad3ba2503f32e"
+    },
+    {
+      "paperId": "be8ac44dd2bb5f5d23cdb902dabd332969222c9a"
+    },
+    {
+      "paperId": "866338ba2bef96d32528aa9f76740a3a4fd4fc16"
+    },
+    {
+      "paperId": "cd49fe2672dae88acfb39e3bee50f24c41c87d52"
+    }
+  ]
+}

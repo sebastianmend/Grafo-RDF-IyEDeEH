@@ -1,0 +1,32 @@
+{
+  "paperId": "6fbf49d44ba9a8ac520f2ac2c4c6e571d2395e94",
+  "externalIds": {
+    "MAG": "2915184718",
+    "CorpusId": 86624282
+  },
+  "url": "https://www.semanticscholar.org/paper/6fbf49d44ba9a8ac520f2ac2c4c6e571d2395e94",
+  "title": "Wireless Sensor Network Applications in Precision Agriculture",
+  "venue": "",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Review"
+  ],
+  "authors": [
+    {
+      "authorId": "2358654",
+      "name": "Bo-Jun Liu"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,212 @@
+{
+  "paperId": "c58fe08a1833f0455253231c42b1ee40eec03c5f",
+  "externalIds": {
+    "DBLP": "journals/access/PandeyWK18",
+    "MAG": "2889252785",
+    "DOI": "10.1109/ACCESS.2018.2862634",
+    "CorpusId": 52151788
+  },
+  "url": "https://www.semanticscholar.org/paper/c58fe08a1833f0455253231c42b1ee40eec03c5f",
+  "title": "Agricultural Cyber-Physical System: In-Situ Soil Moisture and Salinity Estimation by Dielectric Mixing",
+  "venue": "IEEE Access",
+  "year": 2018,
+  "citationCount": 19,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2018.2862634",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2018.2862634?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2018.2862634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "50204789",
+      "name": "Gunjan Pandey"
+    },
+    {
+      "authorId": "143839815",
+      "name": "R. Weber"
+    },
+    {
+      "authorId": "1909719357",
+      "name": "Ratnesh Kumar"
+    }
+  ],
+  "abstract": "Integration of cyber technologies with agriculture provides opportunities for precision agriculture. It requires buried underground sensors to provide useful content information to the end-user for crop management. In our earlier studies, we developed an impedance measurement-based in-situ wireless soil moisture and salinity sensor, an electrophoretic sensor for measuring soil ions/nutrients, and nano-patterned plasmonic-resonance, as well as guided-mode resonance-based optical sensors for the plant, released volatile organic compounds. Here we present a physics-based approach to infer the moisture and ionic concentration in the soil from in-situ, multi-frequency measurements of the impedance of a metamaterial-inspired sensing element buried underground. Such model holds the advantage over empirical models by obviating the need to redo the calibration for different soil types. Our method involves performing an inversion analysis on the Bruggeman’s dielectric mixing model. Under the quasi-static assumption, the approach predicts volumetric moisture content and ion concentration with 90% accuracy in terms of the molar fraction of total volume for silver nitrate concentrations of 0 to 100 mM. We observed that soil conductivity is near-linear to the inferred ionic concentration for a given saline water fraction in the soil. The model has been validated by making multi-frequency impedance measurements of a soil mixture at different concentrations comprising of various constituents of soil, air, water, and ions.",
+  "references": [
+    {
+      "paperId": "642535613b39f9b15e2cfd9053ba0f6267d30968"
+    },
+    {
+      "paperId": "6276b7f885707bd44dea634986339ec287b70695"
+    },
+    {
+      "paperId": "737f07ceb9554d51d90a000ba4fdf024a8b94acc"
+    },
+    {
+      "paperId": "ccb9570d2db383b3d1750b13462370bea7844dad"
+    },
+    {
+      "paperId": "ba8f7083d6d8edcf4e0947a5b120cf03e16a1e3c"
+    },
+    {
+      "paperId": "01f2bfba49de63929888750d0828971ed714d298"
+    },
+    {
+      "paperId": "16a9efdef3b1fb307789e168817f79b4711b78ce"
+    },
+    {
+      "paperId": "3ad2a2e3526d54f14bf36ed31ad9af3ef447c343"
+    },
+    {
+      "paperId": "16eb988cde3a6117ee638c3b25522aacab2b740e"
+    },
+    {
+      "paperId": "0e6082ed6df1764ed5ad8f6ca06a76391cdc1a10"
+    },
+    {
+      "paperId": "c2e37bd975b8f6bc09a7c50b35262a8379bcf068"
+    },
+    {
+      "paperId": "d70cc9d4c64b3637e32a1850b6307b2c9afca727"
+    },
+    {
+      "paperId": "9034db59b140d4c4751b58d510a9606b180bf0e5"
+    },
+    {
+      "paperId": "ec11365cc839fee0b63a797da763928ec2eef22a"
+    },
+    {
+      "paperId": "b77a6d35522f31964a70a237c6e4180efcf09fe0"
+    },
+    {
+      "paperId": "c78e2457390b63c1e85febf07b9a378e1435457b"
+    },
+    {
+      "paperId": "09077ab0ef390268b210769f6d165882e174f8a1"
+    },
+    {
+      "paperId": "187312b918e7e281647aa0767e108b824d124155"
+    },
+    {
+      "paperId": "2a9121abd58153a902f23f6f9e6219b78e9ef46d"
+    },
+    {
+      "paperId": "3c8f2a0dfc5f72a182cd142cc4b73951969b98b0"
+    },
+    {
+      "paperId": "a70d88ad3bb2f53930bdc51539cb8689fd943a0e"
+    },
+    {
+      "paperId": "70489df66e8575b704f7989eae3c4ef1da904f0b"
+    },
+    {
+      "paperId": "8567f99ca0f51315ce7e1ae3d0eccdb3d03008e8"
+    },
+    {
+      "paperId": "b96ac9293e8fe03dc3c514fe71187d3758d66b2a"
+    },
+    {
+      "paperId": "59105d2b3159bc9d9886520a3345d5ee240aeb7c"
+    },
+    {
+      "paperId": "7e2fd0945d948d0442bdcf11a19d632f57a65cea"
+    },
+    {
+      "paperId": "2d20603600778c1f05eb65e4a3a3630ca94bbaaf"
+    },
+    {
+      "paperId": "d4b1922e65d157d31a629e90c950f60a1b7bd43f"
+    },
+    {
+      "paperId": "f4089716e5524e6b00bb413d96d8667faf97079c"
+    },
+    {
+      "paperId": "d480edd6ef61940a177c0491c96ac5cce0716feb"
+    },
+    {
+      "paperId": "5c6653988d935fd3279593d50a58fdb4d5d42ebd"
+    },
+    {
+      "paperId": "5183a3261124ba0ee7a6ebfc5aa7586343d5f0c4"
+    },
+    {
+      "paperId": "13974c88a0c4d055f78897bdbbf9cc54f89ea046"
+    },
+    {
+      "paperId": "ae2e589a0ea2589dc2f2ecdfa92bf33aa807f082"
+    },
+    {
+      "paperId": "1f5d0b97a06ac3fb96ef958260e67e13b05d4cb7"
+    },
+    {
+      "paperId": "860dea070ad8029c17e076dbdf7047499be84895"
+    },
+    {
+      "paperId": "6c12a770a53f36be3ed864873a1a9249d1630718"
+    },
+    {
+      "paperId": "b9909a25ed1f842640d1a5bfd0747aa286ac07dd"
+    },
+    {
+      "paperId": "c30c032c871295e5cff01f78fd391d854573dbc7"
+    },
+    {
+      "paperId": "c28579e0ad8c2e681734129fe874a5aee4255c9f"
+    },
+    {
+      "paperId": "34f78bd29ed5864b2a328ce401b0c46c4009ac76"
+    },
+    {
+      "paperId": "77775b3a36938b2fa7c4b32fa4e0d01221a5e2b0"
+    },
+    {
+      "paperId": "e882e5e875151cff2e89a5a0cf60de292c98775e"
+    },
+    {
+      "paperId": "898d2196275617a51619f234bff8830ae7867ce9"
+    },
+    {
+      "paperId": "022ff507cdae86f53282bac21e78efbd4b506bff"
+    },
+    {
+      "paperId": "b5b0675afeb882c4121c59b9d407957c4e66a427"
+    },
+    {
+      "paperId": "f21dae87e8eea98a35985f99455f7bfc85061a4d"
+    },
+    {
+      "paperId": "f6ed9cea1001a307892f2668e82826ca8363f872"
+    },
+    {
+      "paperId": "64317986b66cdb34d22e9bc9230581b0658baf86"
+    },
+    {
+      "paperId": "68e1a790c36fd3d4d6e4463b7015efbdd3ea8db7"
+    },
+    {
+      "paperId": "adae7b2df2d22d34da89f1a48414df49a421744c"
+    },
+    {
+      "paperId": "7cf5b0c1ba763c8896dae6cbbd3dea38c477191d"
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": null
+    },
+    {
+      "paperId": "cb6cee92542a509793351fe022cfa30556074333"
+    },
+    {
+      "paperId": "4353568b425756214f02df60e5df3b9da6f088ee"
+    }
+  ]
+}

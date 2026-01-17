@@ -1,0 +1,53 @@
+{
+  "paperId": "578330652f976b4703eb89636714553d1019c29e",
+  "externalIds": {
+    "MAG": "2807500787",
+    "DOI": "10.1007/s00216-018-1151-2",
+    "CorpusId": 44107006,
+    "PubMed": "29862430"
+  },
+  "url": "https://www.semanticscholar.org/paper/578330652f976b4703eb89636714553d1019c29e",
+  "title": "Development of a method for the simultaneous determination of multi-class pesticides in earthworms by liquid chromatography coupled to tandem electrospray mass spectrometry",
+  "venue": "Analytical and Bioanalytical Chemistry",
+  "year": 2018,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references', 'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00216-018-1151-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00216-018-1151-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Environmental Science"
+  ],
+  "publicationTypes": [
+    "Study",
+    "JournalArticle"
+  ],
+  "authors": [
+    {
+      "authorId": "15289384",
+      "name": "Gaëlle Daniele"
+    },
+    {
+      "authorId": "4547754",
+      "name": "F. Lafay"
+    },
+    {
+      "authorId": "40612250",
+      "name": "C. Pelosi"
+    },
+    {
+      "authorId": "1897363",
+      "name": "C. Fritsch"
+    },
+    {
+      "authorId": "4023859",
+      "name": "E. Vulliet"
+    }
+  ],
+  "abstract": null,
+  "references": null
+}

@@ -1,0 +1,54 @@
+{
+  "paperId": "96c4544fdf21f7f22989f2f426c827551fdb9a37",
+  "externalIds": {
+    "MAG": "2938198051",
+    "DOI": "10.1109/PECON.2018.8684059",
+    "CorpusId": 106411396
+  },
+  "url": "https://www.semanticscholar.org/paper/96c4544fdf21f7f22989f2f426c827551fdb9a37",
+  "title": "Design of Photovoltaic-Thermoelectric Generator (PV-TEG) Hybrid System for Precision Agriculture",
+  "venue": "IEEE International Conference on Power and Energy",
+  "year": 2018,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PECON.2018.8684059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PECON.2018.8684059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Computer Science"
+  ],
+  "publicationTypes": [
+    "Conference"
+  ],
+  "authors": [
+    {
+      "authorId": "96543052",
+      "name": "Nursyahirah Mohd Shatar"
+    },
+    {
+      "authorId": "66521536",
+      "name": "Mohd Azizi Abdul Rahman"
+    },
+    {
+      "authorId": "96723338",
+      "name": "Sheikh Ahmad Zaki Shaikh Salim"
+    },
+    {
+      "authorId": "36922480",
+      "name": "M. Ariff"
+    },
+    {
+      "authorId": "31315616",
+      "name": "M. N. Muhtazaruddin"
+    },
+    {
+      "authorId": "94700046",
+      "name": "Ahmad Kamil Ahmad Badlisah"
+    }
+  ],
+  "abstract": "Precision agriculture is gaining more interest amongst farmers and entrepreneurs as an alternative way to growing plants. Current trend shows the implementation of precision agriculture system to be used in indoor farming, thus allowing crops to be harvested throughout the year regardless of seasonal changes. However, the main challenge with implementing this system is the high energy consumption of the technologies used in the system. Therefore, this paper presents proof of concept solution to manage the energy consumption of the precision agriculture system by designing a hybrid photovoltaic-thermoelectric generator (PV-TEG) system as a power supply. The hybrid system power output is to be compared to a standalone solar photovoltaic system. A simple mathematical modelling using Matlab/Simulink is done to estimate the hybrid systems feasibility to provide sufficient power to run the precision agriculture system electrical load for a set period of time. An experimental approach will be done to validate the hybrid systems ability to provide power in real time.",
+  "references": null
+}
