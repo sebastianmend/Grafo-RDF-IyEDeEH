@@ -56,7 +56,7 @@ def entity_linking_phase(g, papers_df, fields_df):
     for index, row in papers_df.head(subset_size).iterrows():
         abstract = row['abstract']
         paper_id = row['paperId']
-        paper_uri = EX[str(paper_id)]
+        paper_uri = URIRef(f"{EX}art-{str(paper_id)}")
         
         try:
             params = {'text': abstract, 'confidence': 0.5}

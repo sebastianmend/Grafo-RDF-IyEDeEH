@@ -101,7 +101,7 @@ count = 0
 for index, row in tqdm(papers_df.head(SUBSET_LIMIT).iterrows(), total=SUBSET_LIMIT, desc="Annotating Papers"):
     abstract = row['abstract']
     paper_id = row['paperId']
-    paper_uri = EX[str(paper_id)]
+    paper_uri = URIRef(f"{EX}art-{str(paper_id)}")
     
     try:
         # Usamos POST para evitar error 414 URI Too Long con abstracts largos
@@ -241,13 +241,13 @@ SELECT ?entity (COUNT(?paper) as ?mentionCount) WHERE {
     ?paper schema:mentions ?entity .
 } GROUP BY ?entity ORDER BY DESC(?mentionCount) LIMIT 10
 \"\"\"
-print("\\nTop 10 Entidades Mencionadas:")
+print("\\n1. Top 10 Entidades Mencionadas:")
 for row in g.query(q1):
     # Usamos row['mentionCount'] o row.mentionCount de forma segura
     print(f"{row.mentionCount} - {row.entity.split('/')[-1]}")
 
-# Consulta 2: Impacto por Tópico (Papers muy citados que mencionan Machine Learning o similar)
-# Buscamos papers con citations > 5 que mencionen algo relacionado con "Learning"
+# Consulta 2: Impacto por Tópico (Papers influyentes relacionados con tópicos enriquecidos)
+# Modificado: Se usa OPTIONAL para el nombre de la entidad para garantizar resultados aunque no haya enriquecimiento completo
 q2 = \"\"\"
 PREFIX schema: <http://schema.org/>
 PREFIX ex: <http://example.org/agri#>
@@ -258,14 +258,56 @@ SELECT ?title ?cites ?entityName WHERE {
            schema:title ?title ;
            ex:citationCount ?cites ;
            schema:mentions ?entity .
-    ?entity foaf:name ?entityName .
-    FILTER(?cites > 5)
-    FILTER(CONTAINS(?entityName, "Learning") || CONTAINS(?entityName, "Intelligence"))
+    OPTIONAL { ?entity foaf:name ?n }
+    BIND(COALESCE(?n, STR(?entity)) AS ?entityName)
+    FILTER(?cites > 0)
 } ORDER BY DESC(?cites) LIMIT 5
 \"\"\"
-print("\\nPapers influyentes sobre IA/Learning:")
+print("\\n2. Papers influyentes (Tópicos Enriquecidos):")
 for row in g.query(q2):
     print(f"[{row.cites}] {row.title[:40]}... -> {row.entityName}")
+
+# Consulta 3: Pares de Entidades Co-ocurrentes (Red de Conocimiento)
+q3 = \"\"\"
+PREFIX schema: <http://schema.org/>
+SELECT ?e1 ?e2 (COUNT(?paper) as ?coCount) WHERE {
+    ?paper schema:mentions ?e1 .
+    ?paper schema:mentions ?e2 .
+    FILTER(STR(?e1) < STR(?e2))
+} GROUP BY ?e1 ?e2 ORDER BY DESC(?coCount) LIMIT 15
+\"\"\"
+print("\\n3. Top Pares de Entidades Co-ocurrentes:")
+for row in g.query(q3):
+    print(f"{row.coCount}: {row.e1.split('/')[-1]} <-> {row.e2.split('/')[-1]}")
+
+# Consulta 4: Autores Polímatas (Diversidad de Tópicos)
+# Modificado: Uso correcto de schema:name para autores
+q4 = \"\"\"
+PREFIX schema: <http://schema.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?authorName (COUNT(DISTINCT ?entity) as ?topicCount) WHERE {
+    ?paper schema:author ?author .
+    ?author schema:name ?authorName .
+    ?paper schema:mentions ?entity .
+} GROUP BY ?authorName ORDER BY DESC(?topicCount) LIMIT 10
+\"\"\"
+print("\\n4. Autores con mayor diversidad de tópicos:")
+for row in g.query(q4):
+    print(f"{row.topicCount} temas - {row.authorName}")
+
+# Consulta 5: Validación de Keywords (SameAs)
+q5 = \"\"\"
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?label ?dbpediaURI WHERE {
+    ?c a skos:Concept ;
+       skos:prefLabel ?label ;
+       owl:sameAs ?dbpediaURI .
+} LIMIT 10
+\"\"\"
+print("\\n5. Ejemplo de Validación de Links (Local -> DBpedia):")
+for row in g.query(q5):
+    print(f"{row.label} -> {row.dbpediaURI}")
 """
 cells.append(nbf.v4.new_code_cell(code_phase_c))
 
@@ -308,6 +350,63 @@ plt.title("Top Categorías (Subjects) de DBpedia")
 plt.tight_layout()
 plt.savefig(os.path.join(OUT_DIR, "viz_subjects_pie.png"))
 plt.show()
+
+# 3. Scatter Plot: Citas vs Menciones
+# Obtenemos datos de papers individuales
+q_scatter = \"\"\"
+PREFIX schema: <http://schema.org/>
+PREFIX ex: <http://example.org/agri#>
+SELECT ?paper (SAMPLE(?cites) as ?citationCount) (COUNT(?entity) as ?mentionCount) WHERE {
+    ?paper a schema:Article ;
+           ex:citationCount ?cites ;
+           schema:mentions ?entity .
+} GROUP BY ?paper LIMIT 100
+\"\"\"
+res_scatter = g.query(q_scatter)
+data_scatter = [{"Cites": float(r.citationCount), "Mentions": int(r.mentionCount)} for r in res_scatter]
+df_scatter = pd.DataFrame(data_scatter)
+
+plt.figure(figsize=(8, 6))
+sns.scatterplot(data=df_scatter, x="Mentions", y="Cites", color="blue", alpha=0.6)
+plt.title("Relación: Cantidad de Entidades vs Citas del Paper")
+plt.xlabel("Entidades Mencionadas")
+plt.ylabel("Citas Recibidas")
+plt.tight_layout()
+plt.savefig(os.path.join(OUT_DIR, "viz_scatter.png"))
+plt.show()
+
+# 4. Network Graph: Co-ocurrencia
+# Usamos resultados de q3
+res_q3 = g.query(q3)
+G = nx.Graph()
+for row in res_q3:
+    e1 = str(row.e1).split('/')[-1]
+    e2 = str(row.e2).split('/')[-1]
+    w = int(row.coCount)
+    G.add_edge(e1, e2, weight=w)
+
+plt.figure(figsize=(10, 8))
+pos = nx.spring_layout(G, k=0.5)
+nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=1500, font_size=10, edge_color='gray')
+labels = nx.get_edge_attributes(G, 'weight')
+nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
+plt.title("Red de Co-ocurrencia de Entidades (Top 15 Pares)")
+plt.savefig(os.path.join(OUT_DIR, "viz_network.png"))
+plt.show()
+
+# 5. Horizontal Bar: Top Autores por Diversidad
+# Usamos q4
+res_q4 = g.query(q4)
+data_auth = [{"Author": str(r.authorName), "Topics": int(r.topicCount)} for r in res_q4]
+df_auth = pd.DataFrame(data_auth)
+
+plt.figure(figsize=(10, 6))
+sns.barplot(data=df_auth, x="Topics", y="Author", palette="magma")
+plt.title("Top Autores por Diversidad Temática")
+plt.xlabel("Temas Únicos Tratados")
+plt.tight_layout()
+plt.savefig(os.path.join(OUT_DIR, "viz_authors.png"))
+plt.show()
 """
 cells.append(nbf.v4.new_code_cell(code_phase_d))
 
@@ -322,6 +421,9 @@ files_to_zip = [
     OUTPUT_TTL,
     os.path.join(OUT_DIR, "viz_top_entities.png"),
     os.path.join(OUT_DIR, "viz_subjects_pie.png"),
+    os.path.join(OUT_DIR, "viz_scatter.png"),
+    os.path.join(OUT_DIR, "viz_network.png"),
+    os.path.join(OUT_DIR, "viz_authors.png"),
     "Enrichment_and_Viz.ipynb" # Self-reference assumes file is saved
 ]
 
